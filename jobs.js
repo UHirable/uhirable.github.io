@@ -22,6 +22,187 @@ const ABOUT = "EliseAI builds agentic AI for housing and healthcare: $250M Serie
 
 const JOBS = [
   {
+    id: "decagon-agent-deployment-engineer-london",
+    page: "job-decagon-agent-deployment-engineer-london.html",
+    title: "Agent Deployment Engineer",
+    company: "Decagon",
+    industry: "Conversational AI",
+    countries: ["United Kingdom"],
+    location: "London, UK",
+    tags: ["On-site", "Full-time", "£140K – £184K", "Visa transfers only"],
+    brief: "Own end-to-end AI agent builds for enterprise customers at Decagon, the conversational AI platform behind Cash App, Chime and Oura.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Decagon is the leading conversational AI platform, used by enterprises like Avis Budget Group, Cash App, Square, Chime and Oura to deploy AI agents across voice, chat, email and SMS. Backed by a16z, Accel, Bain Capital Ventures, Coatue and Index Ventures, it is building a new Agent Builder team. As an Agent Deployment Engineer in London you'll own the technical delivery of AI agents for strategic customers, from scoping to launch.",
+    responsibilities: [
+      "Own end-to-end execution of AI agent builds for enterprise customers, from scoping through launch and iteration.",
+      "Write and maintain agent-building artifacts and configure agent behavior for quality, reliability and business outcomes.",
+      "Configure and validate guardrails so agents perform safely and predictably.",
+      "Set up, test and validate customer integrations such as ticketing systems, building tools and workflows as needed.",
+      "Work with senior technical stakeholders at customers to define success and drive delivery against timelines.",
+      "Run tight feedback loops with Engineering, Agent PMs and GTM teams to improve the platform."
+    ],
+    requirements: [
+      "3–10 years in a technical, customer-facing role for complex B2B SaaS (Forward Deployed, Solutions, Implementation or Field Engineer, or a SWE moving to customer-facing work).",
+      "Comfortable writing code (Python), working with APIs and building integrations end-to-end.",
+      "Experience delivering production-grade customer solutions with structured testing and iteration.",
+      "Clear communication with senior technical stakeholders.",
+      "Bonus: experience building with LLMs or AI agents, and enterprise SaaS integrations (ticketing, CRM, data pipelines).",
+      "5 days a week in the London office. Open to visa transfers only, so you need existing UK work authorization or a transferable visa."
+    ],
+    compensation: "£140K – £184K base + competitive equity. Full-time, 5 days a week on-site in London."
+  },
+  {
+    id: "duvo-ai-forward-deployed-engineer-uk",
+    page: "job-duvo-ai-forward-deployed-engineer-uk.html",
+    title: "Forward Deployed Engineer",
+    company: "Duvo AI",
+    industry: "AI · Retail Operations",
+    countries: ["United Kingdom"],
+    location: "Remote, UK",
+    tags: ["Remote (UK)", "Full-time", "€110K – €200K", "UK work authorization"],
+    brief: "Embed with Europe's largest retailers and ship AI agents into their real systems at Duvo, backed by Index Ventures and Northzone.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Duvo is an agentic operations platform for retail, FMCG and consumer-goods companies. It maps how work actually flows across ERPs, retailer portals, spreadsheets and inboxes, then runs those processes with AI agents, cutting manual work by around 40%. Founded by the former CEO of Rohlik and backed by a $15M seed from Index Ventures, Northzone and Credo Ventures. As a Forward Deployed Engineer you'll embed with enterprise customers and own delivery from kickoff to go-live. The CTO and co-founder is the hiring manager.",
+    responsibilities: [
+      "Embed with customers from kickoff through go-live and own the delivery lifecycle and client relationship.",
+      "Map customer workflows, decide what is worth automating and redesign broken processes first.",
+      "Translate business logic into agent behavior: actions, decision rules, exception paths and fallbacks.",
+      "Configure and ship agents against real systems (ERPs, portals, spreadsheets, email), writing integration code and scripts as needed.",
+      "Debug live agents in production and iterate fast to deliver measurable outcomes.",
+      "Capture reusable patterns, templates and runbooks, and feed signals back to Product and Engineering."
+    ],
+    requirements: [
+      "5–8 years as a Forward Deployed Engineer, applied AI engineer, technical consultant or similar hands-on delivery role at an AI-first startup or consulting firm.",
+      "Hands-on expertise with LLMs, agent frameworks and prompt engineering.",
+      "Comfortable embedding with enterprise clients and deploying AI against messy real-world systems.",
+      "Stack: Python, JavaScript/TypeScript, SQL, REST APIs, webhooks, MCP, RAG.",
+      "Bonus: retail, e-commerce, CPG or supply chain, procurement and merchandising experience.",
+      "Based in the UK with existing right to work (no visa sponsorship). Early in projects, expect to travel to client sites in Europe 3–4 days a week."
+    ],
+    compensation: "€110K – €200K base + competitive equity, with the option to trade cash for more equity. Remote from the UK with frequent European client travel."
+  },
+  {
+    id: "duvo-ai-transformation-strategist-uk",
+    page: "job-duvo-ai-transformation-strategist-uk.html",
+    title: "Transformation Strategist",
+    company: "Duvo AI",
+    industry: "AI · Retail Operations",
+    countries: ["United Kingdom"],
+    location: "Remote, UK",
+    tags: ["Remote (UK)", "Full-time", "£150K – £250K", "UK work authorization"],
+    brief: "Own C-level business transformation for retail and CPG enterprises at Duvo, an AI operations platform backed by Index Ventures.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Duvo is an agentic operations platform for retail, FMCG and consumer-goods companies, trusted by Rohlik, Pilulka and Notino and backed by a $15M seed from Index Ventures, Northzone and Credo Ventures. As a Transformation Strategist you'll own each customer's business transformation end-to-end: building the case for change, winning C-level buy-in and making sure AI-driven process improvements stick.",
+    responsibilities: [
+      "Own the customer transformation roadmap and drive measurable business outcomes for retail and CPG enterprises.",
+      "Work at C-level and board level to connect Duvo's platform to income statement impact.",
+      "Assemble and manage teams of Forward Deployed Engineers for each customer project.",
+      "Build business cases, run steering committees and present proof packs to executives.",
+      "Turn pilots into company-wide rollouts through demonstrated ROI."
+    ],
+    requirements: [
+      "Currently at McKinsey, Bain or BCG, or ex-MBB who left to build something.",
+      "Real retail, CPG or FMCG experience, through consulting engagements or as an operator.",
+      "4–8 years of experience with strong stakeholder management and C-level credibility.",
+      "Business-focused (not technical), comfortable building transformation cases and managing change.",
+      "Based in the UK with existing right to work (no visa sponsorship). Early in projects, expect to travel to client sites in Europe 3–4 days a week."
+    ],
+    compensation: "£150K – £250K base + meaningful equity, with the option to trade salary for more upside. Remote from the UK with frequent European client travel."
+  },
+  {
+    id: "canadavisa-chief-technology-officer",
+    page: "job-canadavisa-chief-technology-officer.html",
+    title: "Chief Technology Officer",
+    company: "CanadaVisa",
+    industry: "Legal Tech · Immigration",
+    countries: ["Canada"],
+    location: "Toronto, Canada",
+    tags: ["Hybrid", "Full-time", "CA$275K – CA$350K", "Canada work authorization"],
+    brief: "Own product and engineering for CanadaVisa's AI-native consumer law platform, backed by a profitable 50-year-old business with 100,000+ clients.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "CanadaVisa, together with Cohen Immigration Law, has helped newcomers come to Canada since 1994 and is becoming Canada's largest AI-native consumer law business. As CTO you'll own product and engineering for its platform, taking it from immigration into every area of consumer law, with startup speed and ownership backed by a profitable company that has served 100,000+ clients.",
+    responsibilities: [
+      "Build CanadaVisa+ (client portal and case management) into an AI-native platform across all 5 immigration practice areas, with 100% of new matters on AI-native workflows within a year.",
+      "Own the product roadmap, prioritizing requests from lawyers, case managers and thousands of clients.",
+      "Own the client portal as a product, targeting a 4.8/5 client experience rating.",
+      "Build a scalable platform that can take on acquired law firms and new areas of consumer law.",
+      "Hire and grow engineering, product, design and data capabilities while staying hands-on."
+    ],
+    requirements: [
+      "5+ years of experience as a startup CTO, co-founding CTO or engineering leader who owned product in a 0-to-1 environment. First-time CTOs welcome.",
+      "Strong product judgment and a track record of building roadmaps across competing stakeholders.",
+      "Proven experience making AI useful in real workflows, with enough depth to code (the process includes a week-long coded project).",
+      "Stack: Node.js, TypeScript, React, Next.js, PostgreSQL, Google Cloud, Python, FastAPI.",
+      "Genuine interest in consumer law (no legal background needed).",
+      "Hybrid in Toronto, 3 days a week, with existing Canada work authorization (no visa sponsorship)."
+    ],
+    compensation: "CA$275K – CA$350K base + 50% target bonus (OTE about CA$412.5K – CA$525K) + phantom equity. Hybrid, 3 days a week in Toronto."
+  },
+  {
+    id: "canadavisa-head-of-engineering",
+    page: "job-canadavisa-head-of-engineering.html",
+    title: "Head of Engineering",
+    company: "CanadaVisa",
+    industry: "Legal Tech · Immigration",
+    countries: ["Canada"],
+    location: "Toronto, Canada",
+    tags: ["Hybrid", "Full-time", "CA$200K – CA$230K (OTE CA$350K)", "Canada work authorization"],
+    brief: "Build and lead a high-velocity engineering team behind CanadaVisa's AI-native legal platform, reporting to the CEO.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "CanadaVisa, together with Cohen Immigration Law, has helped newcomers come to Canada since 1994 and is building an AI-native platform that changes how consumer legal services are delivered, starting with immigration. As Head of Engineering you'll build and scale the engineering organization, reporting to the CEO with a path to grow into the CTO role.",
+    responsibilities: [
+      "Hire, develop and lead the engineering team.",
+      "Increase engineering velocity and turn priorities into dependable, high-quality releases.",
+      "Own technical direction for CanadaVisa+ (client portal and case management), internal tools, publishing, partnerships, payments, data and IT.",
+      "Build AI-native workflows that reduce human time across five immigration practice areas.",
+      "Report to the CEO, with a path to report to a future CTO or grow into the CTO role."
+    ],
+    requirements: [
+      "5–10 years of software engineering experience, including engineering leadership.",
+      "Proven track record of recruiting, developing and managing high-performing engineers.",
+      "Technical depth to make architecture decisions and contribute hands-on.",
+      "Experience applying AI to real workflows with measurable productivity gains.",
+      "Node.js, TypeScript, React/Next.js, PostgreSQL and GCP are a plus. No legal background needed.",
+      "Hybrid in Toronto with existing Canada work authorization (no visa sponsorship)."
+    ],
+    compensation: "CA$200K – CA$230K base + CA$120K target annual bonus (up to CA$350K total target cash). Hybrid in Toronto."
+  },
+  {
+    id: "canadavisa-head-of-product",
+    page: "job-canadavisa-head-of-product.html",
+    title: "Head of Product",
+    company: "CanadaVisa",
+    industry: "Legal Tech · Immigration",
+    countries: ["Canada"],
+    location: "Toronto, Canada",
+    tags: ["Hybrid", "Full-time", "CA$180K – CA$220K (OTE CA$264K)", "Canada work authorization"],
+    brief: "Own product direction across CanadaVisa's client platform and consumer sites with millions of monthly visitors, reporting to the CEO.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "CanadaVisa, together with Cohen Immigration Law, has helped newcomers come to Canada since 1994 and runs consumer platforms with millions of monthly visitors and about 1M community members. As Head of Product, reporting to the CEO, you'll own product direction across the client-facing legal services platform and consumer sites, turning AI into products people love.",
+    responsibilities: [
+      "Build products that drive engagement and retention across consumer platforms (millions of monthly visitors, about 1M community members).",
+      "Improve the client portal so clients can navigate their legal matter with clear next steps and personalized guidance.",
+      "Transform CanadaVisa+ into an AI-native experience.",
+      "Own the product roadmap, using data and experiments to set priorities.",
+      "Partner with the Head of Engineering to ship improvements that cut human handling time."
+    ],
+    requirements: [
+      "3–9 years of product experience, including product leadership (not overly senior).",
+      "Background in consumer or B2B SaaS products (banking or financial product backgrounds are not the right fit).",
+      "Strong product thinking with a track record of shipped results.",
+      "Data-driven, experimentation-focused decision making.",
+      "Proven end-to-end roadmap ownership and delivery.",
+      "Hybrid in Toronto, about 3 days a week, with existing Canada work authorization (no visa sponsorship)."
+    ],
+    compensation: "CA$180K – CA$220K base + about CA$44K target annual bonus (up to CA$264K total target cash). Hybrid, about 3 days a week in Toronto."
+  },
+  {
     id: "compiled-health-member-of-technical-staff-compiler",
     page: "job-compiled-health-member-of-technical-staff-compiler.html",
     title: "Member of Technical Staff, Compiler",

@@ -548,7 +548,7 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
     const f = fileIn.files[0]; if (!f) return; say("📄 " + f.name, true); say("Reading your CV…");
     try {
       await loadIdx();
-      if (typeof JOBS === "undefined" && !window.JOBS) { const r = await fetch(UA_BASE + "jobs.js?v=41").then((x) => x.text()); window.JOBS = new Function(r + ";return JOBS;")(); }
+      if (typeof JOBS === "undefined" && !window.JOBS) { const r = await fetch(UA_BASE + "jobs.js?v=42").then((x) => x.text()); window.JOBS = new Function(r + ";return JOBS;")(); }
       const text = await Promise.race([readFile(f), new Promise((_, j) => setTimeout(() => j(new Error("timeout")), 20000))]);
       if (!text || text.trim().length < 80) throw new Error("empty");
       say(matchCV(text));

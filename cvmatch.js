@@ -180,7 +180,7 @@
   drop.addEventListener("drop", (e) => loadFile(e.dataTransfer.files[0]));
   async function jobFromLink(u) {
     const m = u.match(/job-([a-z0-9-]+)\.html/); if (!m) return null;
-    if (!window.JOBS) { const r = await fetch("jobs.js?v=41").then((x) => x.text()); window.JOBS = new Function(r + ";return JOBS;")(); }
+    if (!window.JOBS) { const r = await fetch("jobs.js?v=42").then((x) => x.text()); window.JOBS = new Function(r + ";return JOBS;")(); }
     const j = window.JOBS.find((x) => x.id === m[1]); if (!j) return null;
     return [j.title, j.company, j.brief, j.overview, ...(j.requirements || []), ...(j.responsibilities || []), j.compensation].filter(Boolean).join("\n");
   }
