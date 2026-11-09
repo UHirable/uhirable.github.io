@@ -73,13 +73,15 @@
     const lo = LENSA && (country === "United States" || country === "all");
     if (LENSA) { ownList.style.display = lo ? "none" : ""; if (countEl) countEl.style.display = lo ? "none" : ""; }
     const wantLive = lo || liveCountry || (kw && (country === "United States" || country === "all"));
-    if (!wantLive) { wrap.hidden = true; return; }
+    const wjEl = $("#wj-live");
+    if (!wantLive) { wrap.hidden = true; if (window.UHWJ) UHWJ.hide(wjEl); return; }
     const cc = CC[country] || "us";
+    if (reset && window.UHWJ) { if (UHWJ.has(cc)) UHWJ.show(wjEl, cc, kw); else UHWJ.hide(wjEl); }
     if (reset) { page = 1; shown = 0; list.innerHTML = ""; }
     const my = ++seq; wrap.hidden = false; status.className = "js-bar"; status.textContent = "Loading live jobs in " + (country === "all" ? "the United States" : country) + "…"; more.hidden = true;
     if (ownList.querySelector(".empty")) { ownList.innerHTML = ""; if (countEl) countEl.textContent = ""; }
     try {
-      const hasWJ = !lo && !!WJ[cc];
+      const hasWJ = false; // WhatJobs API blocks browser calls; the Jobbox (wjbox.js) is used instead
       const jooblePromise = lo ? Promise.resolve({ jobs: [], totalCount: 0 }) : fetch(API + "?src=jooble&cc=" + cc + "&q=" + encodeURIComponent(kw) + "&page=" + page).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }).catch(() => ({ jobs: [], totalCount: 0, failed: true }));
       const lensaPromise = cc === "us" ? fetch(API + "?src=lensa&q=" + encodeURIComponent(kw) + "&page=" + page).then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] })) : Promise.resolve({ jobs: [], totalCount: 0 });
       const wjPromise = hasWJ ? fetchWhatJobs(cc, kw, page) : Promise.resolve({ jobs: [], totalCount: 0 });

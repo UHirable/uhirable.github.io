@@ -56,7 +56,7 @@
   }
 
   let page = 1, shown = 0, total = 0;
-  const hasWJ = !!WJ[cc];
+  const hasWJ = false; // WhatJobs API blocks browser calls; the Jobbox (wjbox.js) is used instead
 
   async function load() {
     status.className = "js-bar"; status.textContent = "Loading live " + q + " jobs in " + country + "…"; more.hidden = true;
