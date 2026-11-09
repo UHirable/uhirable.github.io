@@ -32,9 +32,9 @@
       ".wj-sec .pnp-jobbox{display:flex;flex-wrap:wrap;gap:8px}" +
       ".wj-sec .pnp-jobbox input[type=text]{flex:1 1 160px;min-width:0;height:40px;padding:0 12px;border:1px solid #d5d9ff;border-radius:10px;font:inherit;color:#0b1170}" +
       ".wj-sec .pnp-jobbox input[type=submit]{height:40px;padding:0 18px;border:0;border-radius:10px;background:#0112ff;color:#fff;font:inherit;font-weight:700;cursor:pointer}" +
-      ".wj-sec .pnp-link{margin-top:10px;font-size:12px;text-align:right;color:#0b1170;opacity:.8}" +
+      ".wj-sec .pnp-link{margin-top:10px;font-size:12px;display:flex;justify-content:flex-end;align-items:center;gap:6px;color:#0b1170;opacity:.8}" +
       ".wj-sec .pnp-link a{color:#0b1170;text-decoration:none}" +
-      ".wj-sec .pnp-link img{vertical-align:middle;border:0}";
+      ".wj-sec .pnp-link a{display:inline-flex}.wj-sec .pnp-link img{display:inline-block;width:80px;height:auto;margin:0;border:0}";
     document.head.appendChild(s);
   }
 
