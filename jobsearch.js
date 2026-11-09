@@ -27,6 +27,8 @@
   ORDER.forEach((c) => { if (!have.has(c)) { const o = document.createElement("option"); o.value = c; o.textContent = c; grp.appendChild(o); } });
   if (grp.children.length) sel.appendChild(grp);
 
+  // ?src=lensa (links shared in posts): show Lensa results only, hide our own jobs
+  const LENSA = new URLSearchParams(location.search).get("src") === "lensa";
   let page = 1, shown = 0, total = 0, seq = 0;
   const clean = (h) => String(h || "").replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
   const ago = (d) => { const t = Date.parse(d); if (!t) return ""; const days = Math.floor((Date.now() - t) / 864e5); return days <= 0 ? "Today" : days === 1 ? "Yesterday" : days < 30 ? days + " days ago" : ""; };
@@ -68,15 +70,17 @@
   async function live(reset) {
     const country = sel.value, kw = box.value.trim();
     const liveCountry = CC[country] && country !== "United States";
-    const wantLive = liveCountry || (kw && (country === "United States" || country === "all"));
+    const lo = LENSA && (country === "United States" || country === "all");
+    if (LENSA) { ownList.style.display = lo ? "none" : ""; if (countEl) countEl.style.display = lo ? "none" : ""; }
+    const wantLive = lo || liveCountry || (kw && (country === "United States" || country === "all"));
     if (!wantLive) { wrap.hidden = true; return; }
     const cc = CC[country] || "us";
     if (reset) { page = 1; shown = 0; list.innerHTML = ""; }
     const my = ++seq; wrap.hidden = false; status.className = "js-bar"; status.textContent = "Loading live jobs in " + (country === "all" ? "the United States" : country) + "…"; more.hidden = true;
     if (ownList.querySelector(".empty")) { ownList.innerHTML = ""; if (countEl) countEl.textContent = ""; }
     try {
-      const hasWJ = !!WJ[cc];
-      const jooblePromise = fetch(API + "?src=jooble&cc=" + cc + "&q=" + encodeURIComponent(kw) + "&page=" + page).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }).catch(() => ({ jobs: [], totalCount: 0, failed: true }));
+      const hasWJ = !lo && !!WJ[cc];
+      const jooblePromise = lo ? Promise.resolve({ jobs: [], totalCount: 0 }) : fetch(API + "?src=jooble&cc=" + cc + "&q=" + encodeURIComponent(kw) + "&page=" + page).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }).catch(() => ({ jobs: [], totalCount: 0, failed: true }));
       const lensaPromise = cc === "us" ? fetch(API + "?src=lensa&q=" + encodeURIComponent(kw) + "&page=" + page).then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] })) : Promise.resolve({ jobs: [], totalCount: 0 });
       const wjPromise = hasWJ ? fetchWhatJobs(cc, kw, page) : Promise.resolve({ jobs: [], totalCount: 0 });
 
