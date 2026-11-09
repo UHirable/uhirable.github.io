@@ -4,7 +4,8 @@
 (function () {
   "use strict";
   var CFG = {
-    eg: { id: "565", pub: "7501", loc: "Egypt", host: "eg.whatjobs.com", name: "Egypt" }
+    eg: { id: "565", pub: "7501", loc: "Egypt", host: "eg.whatjobs.com", name: "Egypt" },
+    bh: { id: "565", pub: "7509", loc: "Bahrain", host: "bh.whatjobs.com", name: "Bahrain" }
   };
   var LOADER = "https://static.whatjobs.com/staticMin/ajCore/js/core/Jobbox/widget-loader-v1.js";
   var state = "idle"; // idle | loading | ready
@@ -93,10 +94,20 @@
       var f = w.querySelector(".pnp-q"); if (f) f.value = q;
       var content = document.getElementById("pnp-jobs-content-" + c.id); if (content) content.innerHTML = "";
       load(c);
+      emptyCheck(el, c);
       return;
     }
     el.innerHTML = markup(c, q);
     load(c);
+    emptyCheck(el, c);
+  }
+
+  function emptyCheck(el, c) {
+    clearTimeout(el._wjT);
+    el._wjT = setTimeout(function () {
+      var content = document.getElementById("pnp-jobs-content-" + c.id);
+      if (content && !content.querySelector(".pnp-job")) el.hidden = true;
+    }, 8000);
   }
 
   function hide(el) { if (el) { el.hidden = true; } }
