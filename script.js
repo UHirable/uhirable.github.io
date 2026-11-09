@@ -378,7 +378,7 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
   const q=document.getElementById("hs-q"),res=document.getElementById("hs-res");
   if(!q)return;
   let loading=null;
-  const load=()=>loading||(loading=new Promise(r=>{if(window.SEARCH_INDEX)return r();const s=document.createElement("script");s.src=UA_BASE+"search-index.js?v=18";s.onload=r;s.onerror=r;document.head.appendChild(s);}));
+  const load=()=>loading||(loading=new Promise(r=>{if(window.SEARCH_INDEX)return r();const s=document.createElement("script");s.src=UA_BASE+"search-index.js?v=19";s.onload=r;s.onerror=r;document.head.appendChild(s);}));
   const esc=(s="")=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const norm=s=>String(s).toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g,"");
   const ORDER={"Page":0,"Job":1,"CV Tool":2,"Career Tool":3,"Hiring Partner":4,"Job Site":5,"Event":6};
@@ -427,7 +427,7 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
   chips.addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) ask(b.textContent); });
   const L = (t, u) => `<a href="${/^https?:/.test(u) ? u : UA_BASE + u}">${t}</a>`;
   let idx = null, loading = null;
-  const loadIdx = () => loading || (loading = new Promise((r) => { if (window.SEARCH_INDEX) { idx = window.SEARCH_INDEX; return r(); } const s = document.createElement("script"); s.src = UA_BASE + "search-index.js?v=18"; s.onload = () => { idx = window.SEARCH_INDEX || []; r(); }; s.onerror = r; document.head.appendChild(s); }));
+  const loadIdx = () => loading || (loading = new Promise((r) => { if (window.SEARCH_INDEX) { idx = window.SEARCH_INDEX; return r(); } const s = document.createElement("script"); s.src = UA_BASE + "search-index.js?v=19"; s.onload = () => { idx = window.SEARCH_INDEX || []; r(); }; s.onerror = r; document.head.appendChild(s); }));
   const find = (words, kinds, n) => (idx || []).filter((e) => (!kinds || kinds.includes(e.k)) && words.some((w) => (e.t + " " + e.d).toLowerCase().includes(w))).slice(0, n || 5);
   const list = (items) => items.length ? "<ul>" + items.map((e) => `<li>${L(escapeHTML(e.t), e.u)}${e.d ? " <small>· " + escapeHTML(e.d) + "</small>" : ""}</li>`).join("") + "</ul>" : "";
   const COUNTRIES = ["egypt", "uae", "dubai", "saudi", "riyadh", "qatar", "kuwait", "bahrain", "oman", "jordan", "morocco", "tunisia", "nigeria", "kenya", "south africa", "united states", "usa", "us", "canada", "uk", "united kingdom", "london", "ireland", "germany", "france", "netherlands", "spain", "portugal", "poland", "italy", "india", "pakistan", "singapore", "australia", "japan", "korea", "china", "philippines", "thailand", "indonesia", "brazil", "mexico", "europe", "gulf", "africa", "asia", "remote"];
