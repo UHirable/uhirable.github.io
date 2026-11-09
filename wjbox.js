@@ -112,8 +112,10 @@
     clearTimeout(el._wjT);
     el._wjT = setTimeout(function () {
       var content = document.getElementById("pnp-jobs-content-" + c.id);
-      if (content && !content.querySelector(".pnp-job")) el.hidden = true;
-    }, 8000);
+      if (!content) return;
+      var real = [].some.call(content.querySelectorAll(".pnp-job a"), function (a) { return a.textContent.trim().length > 3; });
+      if (!real) el.hidden = true;
+    }, 10000);
   }
 
   function hide(el) { if (el) { el.hidden = true; } }
