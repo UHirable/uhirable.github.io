@@ -95,7 +95,7 @@
     el.classList.add("wj-sec"); el.hidden = false;
     var w = document.getElementById("pnp-" + c.id);
     data(c, q);
-    if (w && el.contains(w)) {
+    if (w && el.contains(w) && el.getAttribute("data-wjcc") === cc) {
       var f = w.querySelector(".pnp-q"); if (f) f.value = q;
       var content = document.getElementById("pnp-jobs-content-" + c.id); if (content) content.innerHTML = "";
       load(c);
@@ -103,6 +103,7 @@
       return;
     }
     el.innerHTML = markup(c, q);
+    el.setAttribute("data-wjcc", cc);
     load(c);
     emptyCheck(el, c);
   }
