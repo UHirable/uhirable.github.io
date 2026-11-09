@@ -67,6 +67,10 @@
 
       const [joobleData, wjData, lensaData] = await Promise.all([jooblePromise, wjPromise, lensaPromise]);
 
+      if (/unknown country/.test(joobleData.error || "") && !(lensaData.jobs || []).length && page === 1) {
+        status.hidden = true; const src = document.querySelector(".pj-body .js-src"); if (src) src.hidden = true;
+        countEls.forEach((e) => { e.textContent = "Fresh"; }); return;
+      }
       const jJobs = joobleData.jobs || [];
       const wJobs = wjData.jobs || [];
       const lJobs = lensaData.jobs || [];
