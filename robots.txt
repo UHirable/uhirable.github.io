@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://uhirable.github.io/sitemap.xml
-Sitemap: https://uhirable.github.io/jobs/sitemap.xml

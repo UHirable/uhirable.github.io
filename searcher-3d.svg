@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 280">
+  <defs>
+    <radialGradient id="sSkin" cx="38%" cy="32%" r="75%">
+      <stop offset="0" stop-color="#e9b892"/><stop offset=".5" stop-color="#b8784e"/><stop offset="1" stop-color="#7d4a2b"/>
+    </radialGradient>
+    <linearGradient id="sHoodie" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/><stop offset=".55" stop-color="#e3e7ff"/><stop offset="1" stop-color="#aab2f0"/>
+    </linearGradient>
+    <linearGradient id="sSleeve" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f4f6ff"/><stop offset="1" stop-color="#b9c0f2"/>
+    </linearGradient>
+    <linearGradient id="sPants" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffd767"/><stop offset="1" stop-color="#d99e10"/>
+    </linearGradient>
+    <radialGradient id="sHair" cx="40%" cy="30%" r="80%">
+      <stop offset="0" stop-color="#3a2618"/><stop offset="1" stop-color="#140a04"/>
+    </radialGradient>
+    <linearGradient id="sLaptop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a47ff"/><stop offset="1" stop-color="#0009a3"/>
+    </linearGradient>
+    <linearGradient id="sScreen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e6e9ff"/>
+    </linearGradient>
+    <radialGradient id="sBubble" cx="35%" cy="30%" r="75%">
+      <stop offset="0" stop-color="#fff3c4"/><stop offset=".45" stop-color="#ffc93c"/><stop offset="1" stop-color="#c47f00"/>
+    </radialGradient>
+  </defs>
+
+  <ellipse cx="112" cy="268" rx="62" ry="9" fill="#000" opacity=".3"/>
+
+  <!-- search bubble -->
+  <path d="M180 92 l-10 14 l18 -6 z" fill="#c98a00"/>
+  <circle cx="196" cy="70" r="28" fill="#b97a00" transform="translate(0 4)"/>
+  <circle cx="196" cy="70" r="28" fill="url(#sBubble)"/>
+  <circle cx="192" cy="66" r="10" fill="none" stroke="#0d1240" stroke-width="4.5"/>
+  <line x1="199" y1="73" x2="207" y2="81" stroke="#0d1240" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="185" cy="54" rx="8" ry="4.5" fill="#fff" opacity=".55"/>
+
+  <!-- legs + shoes -->
+  <rect x="90" y="196" width="22" height="66" rx="11" fill="url(#sPants)"/>
+  <rect x="118" y="196" width="22" height="66" rx="11" fill="url(#sPants)"/>
+  <ellipse cx="98" cy="263" rx="17" ry="8" fill="#ffffff"/>
+  <ellipse cx="134" cy="263" rx="17" ry="8" fill="#ffffff"/>
+  <ellipse cx="98" cy="266" rx="17" ry="4" fill="#0112ff"/>
+  <ellipse cx="134" cy="266" rx="17" ry="4" fill="#0112ff"/>
+
+  <!-- hoodie -->
+  <rect x="66" y="116" width="96" height="98" rx="38" fill="url(#sHoodie)"/>
+  <path d="M94 118 Q114 140 134 118" stroke="#aab2f0" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <ellipse cx="88" cy="136" rx="12" ry="7" fill="#fff" opacity=".7"/>
+
+  <!-- arms -->
+  <path d="M76 132 Q58 154 76 178" stroke="url(#sSleeve)" stroke-width="22" stroke-linecap="round" fill="none"/>
+  <path d="M152 132 Q170 154 152 178" stroke="url(#sSleeve)" stroke-width="22" stroke-linecap="round" fill="none"/>
+
+  <!-- laptop (screen facing viewer) -->
+  <rect x="60" y="150" width="108" height="72" rx="9" fill="url(#sLaptop)"/>
+  <rect x="66" y="156" width="96" height="58" rx="5" fill="url(#sScreen)"/>
+  <!-- search bar -->
+  <rect x="72" y="161" width="84" height="11" rx="5.5" fill="#fff" stroke="#c7cdfa" stroke-width="1.5"/>
+  <circle cx="79" cy="166.5" r="2.6" fill="none" stroke="#0112ff" stroke-width="1.6"/>
+  <rect x="85" y="165" width="34" height="3" rx="1.5" fill="#b3baf5"/>
+  <!-- job rows -->
+  <rect x="72" y="177" width="84" height="14" rx="4" fill="#eef0ff"/>
+  <rect x="75" y="180" width="8" height="8" rx="2.5" fill="#0112ff"/>
+  <rect x="87" y="181" width="36" height="3" rx="1.5" fill="#0d1240"/>
+  <rect x="87" y="186" width="24" height="2.5" rx="1.2" fill="#b3baf5"/>
+  <rect x="140" y="181" width="12" height="6" rx="3" fill="#ffc93c"/>
+  <rect x="72" y="195" width="84" height="14" rx="4" fill="#eef0ff"/>
+  <rect x="75" y="198" width="8" height="8" rx="2.5" fill="#ffc93c"/>
+  <rect x="87" y="199" width="30" height="3" rx="1.5" fill="#0d1240"/>
+  <rect x="87" y="204" width="20" height="2.5" rx="1.2" fill="#b3baf5"/>
+  <rect x="140" y="199" width="12" height="6" rx="3" fill="#0112ff"/>
+  <rect x="54" y="220" width="120" height="7" rx="3.5" fill="#000a8a"/>
+  <circle cx="72" cy="184" r="10" fill="url(#sSkin)"/>
+  <circle cx="156" cy="184" r="10" fill="url(#sSkin)"/>
+
+  <!-- neck + head -->
+  <rect x="104" y="100" width="20" height="22" rx="8" fill="#9a5e38"/>
+  <circle cx="81" cy="84" r="7.5" fill="url(#sSkin)"/>
+  <circle cx="147" cy="84" r="7.5" fill="url(#sSkin)"/>
+  <circle cx="114" cy="80" r="33" fill="url(#sSkin)"/>
+  <!-- curly hair -->
+  <g fill="url(#sHair)">
+    <circle cx="90" cy="60" r="12"/><circle cx="104" cy="50" r="13"/><circle cx="120" cy="48" r="13"/>
+    <circle cx="136" cy="54" r="12"/><circle cx="145" cy="68" r="9"/><circle cx="83" cy="72" r="8"/>
+  </g>
+  <ellipse cx="104" cy="44" rx="7" ry="3.5" fill="#fff" opacity=".16"/>
+  <!-- face, hopeful look up at bubble -->
+  <ellipse cx="103" cy="84" rx="3.8" ry="4.6" fill="#1a1240"/>
+  <ellipse cx="127" cy="84" rx="3.8" ry="4.6" fill="#1a1240"/>
+  <circle cx="105" cy="82" r="1.4" fill="#fff"/>
+  <circle cx="129" cy="82" r="1.4" fill="#fff"/>
+  <path d="M96 74 q7 -4 13 -1" stroke="#140a04" stroke-width="2.4" stroke-linecap="round" fill="none"/>
+  <path d="M120 72 q7 -3 13 1" stroke="#140a04" stroke-width="2.4" stroke-linecap="round" fill="none"/>
+  <circle cx="95" cy="96" r="4.5" fill="#ff6b6b" opacity=".25"/>
+  <circle cx="133" cy="96" r="4.5" fill="#ff6b6b" opacity=".25"/>
+  <path d="M106 96 Q114 104 122 96 Q114 100 106 96 Z" fill="#6a2416"/>
+
+  <!-- sparkles -->
+  <path d="M40 92 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z" fill="#ffc93c"/>
+  <path d="M206 150 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2z" fill="#fff" opacity=".8"/>
+</svg>

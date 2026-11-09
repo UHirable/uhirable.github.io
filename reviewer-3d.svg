@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 280">
+  <defs>
+    <radialGradient id="rSkin" cx="38%" cy="32%" r="75%">
+      <stop offset="0" stop-color="#ffe2cc"/><stop offset=".5" stop-color="#eaa77d"/><stop offset="1" stop-color="#b86e45"/>
+    </radialGradient>
+    <linearGradient id="rBlazer" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b3473"/><stop offset=".55" stop-color="#141a52"/><stop offset="1" stop-color="#070b33"/>
+    </linearGradient>
+    <linearGradient id="rArm" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#262f6b"/><stop offset="1" stop-color="#0b1040"/>
+    </linearGradient>
+    <linearGradient id="rPants" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4b5490"/><stop offset="1" stop-color="#262d63"/>
+    </linearGradient>
+    <radialGradient id="rHair" cx="40%" cy="30%" r="80%">
+      <stop offset="0" stop-color="#3b3b45"/><stop offset="1" stop-color="#0f0f16"/>
+    </radialGradient>
+    <linearGradient id="rPaper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e2e6ff"/>
+    </linearGradient>
+    <linearGradient id="rGold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe08a"/><stop offset=".55" stop-color="#ffc93c"/><stop offset="1" stop-color="#cf8f00"/>
+    </linearGradient>
+  </defs>
+
+  <ellipse cx="112" cy="268" rx="62" ry="9" fill="#050b3f" opacity=".16"/>
+
+  <!-- floating CV stack -->
+  <g transform="rotate(8 196 120)">
+    <rect x="166" y="86" width="56" height="70" rx="8" fill="#b9c0ff"/>
+    <rect x="162" y="80" width="56" height="70" rx="8" fill="#d6dbff"/>
+    <rect x="158" y="74" width="56" height="70" rx="8" fill="url(#rPaper)"/>
+    <rect x="166" y="83" width="16" height="18" rx="4" fill="#0112ff"/>
+    <rect x="186" y="85" width="22" height="4" rx="2" fill="#0112ff"/>
+    <rect x="186" y="93" width="16" height="3.5" rx="1.7" fill="#b3baf5"/>
+    <rect x="166" y="110" width="40" height="3.5" rx="1.7" fill="#c9cef7"/>
+    <rect x="166" y="118" width="34" height="3.5" rx="1.7" fill="#c9cef7"/>
+    <rect x="166" y="126" width="38" height="3.5" rx="1.7" fill="#c9cef7"/>
+  </g>
+  <circle cx="214" cy="70" r="15" fill="url(#rGold)"/>
+  <path d="M207 70 l5 5 l9 -10" stroke="#fff" stroke-width="3.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- legs + shoes -->
+  <rect x="90" y="196" width="22" height="66" rx="11" fill="url(#rPants)"/>
+  <rect x="118" y="196" width="22" height="66" rx="11" fill="url(#rPants)"/>
+  <ellipse cx="98" cy="263" rx="17" ry="8" fill="#3a2418"/>
+  <ellipse cx="134" cy="263" rx="17" ry="8" fill="#3a2418"/>
+  <ellipse cx="93" cy="259" rx="6" ry="2.4" fill="#fff" opacity=".3"/>
+  <ellipse cx="129" cy="259" rx="6" ry="2.4" fill="#fff" opacity=".3"/>
+
+  <!-- torso -->
+  <rect x="66" y="116" width="96" height="98" rx="38" fill="url(#rBlazer)"/>
+  <path d="M100 118 L128 118 L114 150 Z" fill="#dfe6ff"/>
+  <path d="M100 118 L114 150 L104 146 L92 124 Z" fill="#070b33" opacity=".55"/>
+  <path d="M128 118 L114 150 L124 146 L136 124 Z" fill="#070b33" opacity=".55"/>
+  <ellipse cx="88" cy="136" rx="12" ry="7" fill="#fff" opacity=".16"/>
+
+  <!-- arms holding CV -->
+  <path d="M76 132 Q60 152 72 172" stroke="url(#rArm)" stroke-width="22" stroke-linecap="round" fill="none"/>
+  <path d="M152 132 Q168 152 156 172" stroke="url(#rArm)" stroke-width="22" stroke-linecap="round" fill="none"/>
+
+  <!-- CV being read -->
+  <g transform="rotate(-6 114 180)">
+    <rect x="72" y="146" width="84" height="74" rx="10" fill="#9aa3ff" transform="translate(3 5)"/>
+    <rect x="72" y="146" width="84" height="74" rx="10" fill="url(#rPaper)"/>
+    <rect x="82" y="156" width="20" height="22" rx="5" fill="#0112ff"/>
+    <circle cx="92" cy="163" r="4.5" fill="#ffe2cc"/>
+    <path d="M85 178 q7 -9 14 0" fill="#ffc93c"/>
+    <rect x="108" y="158" width="38" height="5" rx="2.5" fill="#0112ff"/>
+    <rect x="108" y="168" width="26" height="4" rx="2" fill="#b3baf5"/>
+    <rect x="82" y="188" width="62" height="4" rx="2" fill="#c9cef7"/>
+    <rect x="82" y="197" width="54" height="4" rx="2" fill="#c9cef7"/>
+    <rect x="82" y="206" width="60" height="4" rx="2" fill="#c9cef7"/>
+  </g>
+  <circle cx="74" cy="178" r="11" fill="url(#rSkin)"/>
+  <circle cx="154" cy="178" r="11" fill="url(#rSkin)"/>
+
+  <!-- neck + head -->
+  <rect x="104" y="100" width="20" height="22" rx="8" fill="#c98258"/>
+  <circle cx="81" cy="84" r="7.5" fill="url(#rSkin)"/>
+  <circle cx="147" cy="84" r="7.5" fill="url(#rSkin)"/>
+  <circle cx="114" cy="80" r="33" fill="url(#rSkin)"/>
+  <!-- hair -->
+  <path d="M80 80 Q78 44 114 44 Q150 44 148 78 Q144 62 130 58 Q112 66 94 60 Q84 66 80 80 Z" fill="url(#rHair)"/>
+  <ellipse cx="104" cy="52" rx="10" ry="4" fill="#fff" opacity=".16"/>
+  <!-- glasses -->
+  <circle cx="102" cy="86" r="9" fill="#ffffff" fill-opacity=".25" stroke="#0d1240" stroke-width="2.6"/>
+  <circle cx="126" cy="86" r="9" fill="#ffffff" fill-opacity=".25" stroke="#0d1240" stroke-width="2.6"/>
+  <line x1="111" y1="86" x2="117" y2="86" stroke="#0d1240" stroke-width="2.6"/>
+  <!-- eyes looking down at CV -->
+  <ellipse cx="102" cy="89" rx="3.2" ry="3.4" fill="#1a1240"/>
+  <ellipse cx="126" cy="89" rx="3.2" ry="3.4" fill="#1a1240"/>
+  <circle cx="103" cy="88" r="1" fill="#fff"/>
+  <circle cx="127" cy="88" r="1" fill="#fff"/>
+  <path d="M93 73 q7 -3 14 0" stroke="#1a1a22" stroke-width="2.4" stroke-linecap="round" fill="none"/>
+  <path d="M121 73 q7 -3 14 0" stroke="#1a1a22" stroke-width="2.4" stroke-linecap="round" fill="none"/>
+  <circle cx="94" cy="99" r="4.5" fill="#ff7a7a" opacity=".28"/>
+  <circle cx="134" cy="99" r="4.5" fill="#ff7a7a" opacity=".28"/>
+  <path d="M107 101 Q114 106 121 101" stroke="#7a2a1c" stroke-width="2.8" stroke-linecap="round" fill="none"/>
+  <ellipse cx="100" cy="62" rx="8" ry="4.5" fill="#fff" opacity=".22"/>
+</svg>

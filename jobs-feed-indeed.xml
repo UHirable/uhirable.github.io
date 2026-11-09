@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>U Hirable</publisher>
+  <publisherurl>https://uhirable.github.io/</publisherurl>
+  <lastBuildDate>Thu, 05 Nov 2026 00:00:00 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Member of Technical Staff, Compiler]]></title>
+    <date><![CDATA[Thu, 05 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[compiled-health-member-of-technical-staff-compiler]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-compiled-health-member-of-technical-staff-compiler.html]]></url>
+    <company><![CDATA[Compiled Health]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Compiled Health compiles the standard of care into executable, evidence-traceable decision artifacts, with the compiler live in Canadian public health care today. Founded by a physician who worked with OpenAI's health and safety research team; $3M seed plus a family office committed through Series A. Six people, fully remote across North America with offsites every couple of months. You'll study how far frontier models can go in extracting, structuring and proving clinical logic, design the experiments that settle what works, and ship the winning approach.</p><p><strong>Who can apply:</strong> REMOTE, BUT US OR CANADA ONLY. You must live in the US (citizen or Green Card) or in Canada with the right to work there. No visa sponsorship (rare exceptions for frontier-lab researchers). Applications from other countries will be rejected.</p><p><strong>What you'll do</strong></p><ul><li>Build the pipeline that converts clinical standards into executable modules: parsing with document and layout models, transformation, validation.</li><li>Design and iterate on the target syntax for guideline logic.</li><li>Run experiments: open vs closed models, fine-tuning, constrained decoding.</li><li>Co-design benchmarks and adversarial cases for source fidelity, logical completeness and recommendation correctness.</li><li>Develop deterministic validators using static analysis, constraint solving or formal methods.</li></ul><p><strong>Requirements</strong></p><ul><li>3+ years of research or industry experience, or a final-year PhD/postdoc; publications in clinical AI a strong signal.</li><li>Python, PyTorch, Transformers, LLMs; static analysis or SMT/SAT solvers; FHIR and HL7 v2 a plus.</li><li>High-output, high-ownership; not a 35-hours-a-week environment.</li><li>US citizen/Green Card or Canada-based with right to work; no visa sponsorship.</li><li>Remote in North America with in-person offsites several times a year.</li></ul><p><strong>Compensation:</strong> $250K – $400K base plus competitive equity (up to 5% for frontier-lab candidates, cash/equity ratio flexible), health, dental, vision, flexible PTO and paid parental leave. Interview: founder intro, 60-min research deep dive, logistics and offer.</p>]]></description>
+    <salary><![CDATA[$250K – $400K + up to 5% equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Software Engineer, Optimizer]]></title>
+    <date><![CDATA[Thu, 05 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[timely-schools-senior-software-engineer-optimizer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-timely-schools-senior-software-engineer-optimizer.html]]></url>
+    <company><![CDATA[Timely Schools]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Timely Schools transforms how schools build master schedules: AI-powered optimization plus expert schedulers, now serving 500,000 students across 20+ states with industry-leading renewal rates. Series A (Aug 2025), 60 people, 80% former educators, CTO started as a math teacher. The Optimizer squad is led by a former senior Google engineer with a PhD in math.</p><p><strong>Who can apply:</strong> REMOTE, BUT US ONLY. You must live in the US and work East Coast hours. Visa transfers accepted (OPT, H1B transfer); no new H1B. Applications from outside the US will be rejected.</p><p><strong>What you'll do</strong></p><ul><li>Build and extend the core optimization engine (mixed-integer / linear programming) and the backend systems around it.</li><li>Explore ML and AI approaches to improve scheduling accuracy, speed and accessibility.</li><li>Work across the stack (~80% backend, ~20% frontend).</li><li>Own mission-critical systems end to end, including on-call and customer troubleshooting with the school success team.</li><li>Lead complex technical projects with a path to tech lead.</li></ul><p><strong>Requirements</strong></p><ul><li>4–10 years of software engineering with a track record of shipping production software and leading complex efforts.</li><li>Depth in at least one of: linear optimization / mathematical programming (Gurobi, CP-SAT), production ML, or backend API/infrastructure, with ability to learn the others.</li><li>Has owned a mission-critical algorithm, model or optimization module.</li><li>Python, AWS, Terraform, CI/CD; strong communication with non-technical stakeholders.</li><li>Visa transfers accepted (OPT, H1B transfer).</li><li>US-based, East Coast hours preferred.</li></ul><p><strong>Compensation:</strong> $160K – $200K base plus equity, health, dental, vision, life insurance, unlimited PTO and professional development. Interview: recruiter screen, CTO interview, 2–3 hour take-home, technical deep dive, culture interview.</p>]]></description>
+    <salary><![CDATA[$160K – $200K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Director of Engineering (Product)]]></title>
+    <date><![CDATA[Thu, 05 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[timely-schools-director-of-engineering]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-timely-schools-director-of-engineering.html]]></url>
+    <company><![CDATA[Timely Schools]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Timely Schools transforms how schools build master schedules: AI-powered optimization plus expert schedulers, now serving 500,000 students across 20+ states. Series A (Aug 2025), ~63 people, 80% former educators. You'll own the product engineering organization (scheduler experience, visibility/reporting, elementary squads) as Timely moves from product-market fit to scale.</p><p><strong>Who can apply:</strong> REMOTE, BUT US ONLY. You must live in the US and work East Coast hours; retreats twice a year plus 2–4 trips to Boston/New York. Visa transfers accepted but strong preference for candidates who don't need sponsorship. Applications from outside the US will be rejected.</p><p><strong>What you'll do</strong></p><ul><li>Take direct ownership of multiple product squads, managing engineers and driving delivery.</li><li>Be hands-on early: contribute code, review, pair (~50/50 at first, 80/20 leadership over time).</li><li>Make and land key architecture decisions for the next two years of growth.</li><li>Partner with Product and School Success to define squad goals aligned to business outcomes.</li><li>Ship high-value features ahead of the March–August scheduling season, including AI capabilities.</li></ul><p><strong>Requirements</strong></p><ul><li>5+ years of engineering and 2–3+ years managing multiple teams (6+ engineers), ideally scaling teams and managing managers.</li><li>Hands-on: can read, review and write code; strong backend architecture (stack: React, TypeScript, Python, AWS, MongoDB).</li><li>Startup or high-growth experience; comfortable with ambiguity.</li><li>Visa transfers accepted; preference for no sponsorship needed.</li><li>US-based, East Coast hours preferred.</li></ul><p><strong>Compensation:</strong> $210K – $240K base plus competitive equity, health insurance, parental leave, 401(k), unlimited PTO and coworking access. Interview: Chief of Staff screen, CTO interview, async take-home, 2-hour final.</p>]]></description>
+    <salary><![CDATA[$210K – $240K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Healthcare Attorney (Non-Equity Partner)]]></title>
+    <date><![CDATA[Thu, 05 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[goldsand-friedberg-senior-healthcare-attorney]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-goldsand-friedberg-senior-healthcare-attorney.html]]></url>
+    <company><![CDATA[Goldsand Friedberg]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Goldsand Friedberg is a 20-attorney national healthcare law firm founded in 2019 by two former BigLaw partners and the premier boutique in digital health and telemedicine; its only competition is BigLaw. Clients are venture-backed telehealth, digital health, longevity and managed-care companies. 1,500-hour billable target (most attorneys work 9–5, no weekends), rates $495–$750/hr, tight-knit and transparent culture with heavy investment in mentorship. This is a backfill with real work waiting.</p><p><strong>Who can apply:</strong> REMOTE, BUT US ONLY. US citizens or Green Card holders living in the US; DC or Miami strongly preferred, East Coast generally. No visa sponsorship. Applications from outside the US will be rejected.</p><p><strong>What you'll do</strong></p><ul><li>Take full ownership of client relationships and matters as a "send and delete" attorney.</li><li>Advise digital health and telemedicine companies on corporate practice of medicine, telehealth compliance, licensure, fraud &amp; abuse and health AI.</li><li>Act as outside general counsel to Series A/B healthcare technology companies across regulatory, corporate, employment and compliance.</li><li>Draft memos, regulatory analyses and client advisories on rapidly evolving health AI issues.</li><li>Build your own practice over time; origination is rewarded with uncapped upside (no book of business required to join).</li></ul><p><strong>Requirements</strong></p><ul><li>10+ years in healthcare regulatory law, able to manage clients and matters independently from day one.</li><li>Experience as outside GC to venture-backed digital health or telemedicine companies; health AI or managed care a plus.</li><li>Westlaw/LexisNexis, Word redlining, AI legal tools.</li><li>US citizen or Green Card holder; no visa sponsorship.</li><li>Remote in the US; DC or Miami preferred.</li></ul><p><strong>Compensation:</strong> $250K – $290K base plus 25% bonus at 1,500 hours (described as nearly automatic), total $312K – $362K+, with origination upside well into the $400Ks. No equity. Interview: two founding partners, committee of 3 partners, final meeting (ideally in person); 1-month trial contract if currently unemployed.</p>]]></description>
+    <salary><![CDATA[$250K – $290K base · OTE $312K – $400K+]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Staff Software Engineer, Growth Engineering]]></title>
+    <date><![CDATA[Thu, 05 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[modern-health-staff-software-engineer-growth]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-modern-health-staff-software-engineer-growth.html]]></url>
+    <company><![CDATA[Modern Health]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Modern Health is a mental health benefits platform for employers, backed by Kleiner Perkins, Founders Fund, Y Combinator and Battery Ventures with $172M raised, the fastest entirely female-founded US company to reach unicorn status. 240 people, fully remote. You'll own and scale the backend systems that power client launches and member access, partnering with a senior staff engineer on an 18-month to 2-year roadmap, with meaningful contributions expected in your first 30 days.</p><p><strong>Who can apply:</strong> REMOTE, BUT US ONLY (not Hawaii). US citizens or Green Card holders living in the US. No visa sponsorship, no transfers, no STEM OPT. Must overlap at least 6 hours with 8am–5pm Pacific. Applications from outside the US will be rejected.</p><p><strong>What you'll do</strong></p><ul><li>Independently own large-scale projects across eligibility processing, identity and client configuration systems.</li><li>Design and build backend architectures that support 50x data growth.</li><li>Partner with product managers and internal operations to define requirements, use cases and edge cases.</li><li>Sequence and deliver against a multi-year growth engineering roadmap with a senior staff engineer.</li><li>Mentor junior engineers through technical leadership and code collaboration.</li></ul><p><strong>Requirements</strong></p><ul><li>8–15 years of backend engineering, staff level, focused on Python (Django/Flask, FastAPI).</li><li>Deep architectural knowledge and strong product sense; can flush out requirements cross-functionally.</li><li>Stack: Python, GraphQL, REST, React/TypeScript, PostgreSQL, Redis, Docker, AWS (ECS, RDS, CloudFront).</li><li>US citizen or Green Card holder; no sponsorship or transfers.</li><li>Remote in the US excluding Hawaii, with 6-hour Pacific overlap.</li></ul><p><strong>Compensation:</strong> Base by zone: $161K – $203K (SF Bay Area, NYC metro, other California, Seattle), $145K – $183K (other NY/WA, DC, Austin, CT, IL, MA, NH, NJ, OR, RI, VT), $137K – $172K (all other states), plus equity. Interview: intro call, hiring manager round, tech screen, virtual on-site, 2-hour final.</p>]]></description>
+    <salary><![CDATA[$137K – $203K + equity (by zone)]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Solutions Engineer, Implementation & Delivery]]></title>
+    <date><![CDATA[Thu, 05 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[elise-ai-solutions-engineer-implementation-delivery]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-elise-ai-solutions-engineer-implementation-delivery.html]]></url>
+    <company><![CDATA[Elise AI]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>EliseAI builds agentic AI for housing and healthcare: $250M Series E led by Andreessen Horowitz, 500 people, ARR doubled to $200M, and 1 in 6 US apartments runs on its platform. The Product Solutions team (~14 SEs, two years old) sits post-sales and recently split into Implementation and Product Expert tracks. In this Implementation role you own enterprise customer deployments from sales handoff to go-live, working at the data and API layer and feeding learnings back to Product and Engineering.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer); no new H1B. On-site 4–5 days a week in New York, Austin or San Francisco.</p><p><strong>What you'll do</strong></p><ul><li>Own the full technical implementation lifecycle: scoping, configuration, testing and go-live for enterprise housing customers.</li><li>Partner with Sales on handoffs and with CSMs and Engagement Managers for a coordinated customer experience.</li><li>Map customer workflows into implementation plans and manage multiple concurrent implementations.</li><li>Travel on-site (~25%) to manage implementations in person.</li><li>Manage integrations and data migration at the API layer; build playbooks and configuration templates for the team.</li></ul><p><strong>Requirements</strong></p><ul><li>4–7 years in post-sales implementation, solutions engineering or technical account management, owning end-to-end enterprise SaaS deployments.</li><li>Comfortable with APIs, system integrations and configuration-heavy platforms; SQL and BI tools (Looker, Tableau).</li><li>Track record of successful go-lives in complex multi-stakeholder environments; CRM implementation or consulting background a plus.</li><li>Visa transfers accepted (OPT, H1B transfer).</li><li>On-site 4–5 days a week in NYC, Austin or SF.</li></ul><p><strong>Compensation:</strong> $150K – $200K base plus competitive equity. Full-time, on-site. Interview: recruiter screen, SE Lead interview, 3-day take-home with presentation, 2.5-hour on-site.</p>]]></description>
+    <salary><![CDATA[$150K – $200K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Solutions Engineer (Product Expert), Housing]]></title>
+    <date><![CDATA[Thu, 05 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[elise-ai-solutions-engineer-product-expert-toronto]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-elise-ai-solutions-engineer-product-expert-toronto.html]]></url>
+    <company><![CDATA[Elise AI]]></company>
+    <city><![CDATA[Toronto]]></city>
+    <country><![CDATA[CA]]></country>
+    <description><![CDATA[<p>EliseAI builds agentic AI for housing and healthcare: $250M Series E led by Andreessen Horowitz, 500 people, ARR doubled to $200M, and 1 in 6 US apartments runs on its platform. Product Expert SEs own everything post-implementation for their product vertical (leasing, maintenance, CRM): technical support, troubleshooting, customer data analysis and engineering escalations. You're the technical resource CSMs pull in when a customer needs real firepower.</p><p><strong>Who can apply:</strong> Visa transfers accepted. On-site 4–5 days a week in Toronto; must be able to work in Canada.</p><p><strong>What you'll do</strong></p><ul><li>Act as dedicated technical expert for a housing product vertical, supporting CSMs and customers post-implementation.</li><li>Dive into customer data and API integrations to diagnose issues and identify trends.</li><li>Serve as the escalation point for technical support, triaging and communicating with engineering when code-level fixes are needed.</li><li>Support onboarding and data migration for new platform rollouts, including Future Platforms.</li><li>Feed insights back to engineering, product and customer success.</li></ul><p><strong>Requirements</strong></p><ul><li>3–7 years as a post-sales Solutions Engineer or similar technical role at a SaaS company; purely pre-sales profiles are not a fit.</li><li>Technical background (CS, engineering or equivalent); comfort at the data and API layer essential.</li><li>Able to explain complex technical concepts to non-technical stakeholders; startup experience preferred.</li><li>Tools: Salesforce, Zendesk, Jira, API integrations, QA processes.</li><li>On-site 4–5 days a week in Toronto.</li></ul><p><strong>Compensation:</strong> CA$150K – CA$200K base plus competitive equity. Full-time, on-site in Toronto. Interview: recruiter screen, SE Lead interview, 3-day take-home with presentation, 2.5-hour on-site.</p>]]></description>
+    <salary><![CDATA[CA$150K – CA$200K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Solutions Engineer (Product Expert), Housing]]></title>
+    <date><![CDATA[Thu, 05 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[elise-ai-solutions-engineer-product-expert-ny-sf]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-elise-ai-solutions-engineer-product-expert-ny-sf.html]]></url>
+    <company><![CDATA[Elise AI]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>EliseAI builds agentic AI for housing and healthcare: $250M Series E led by Andreessen Horowitz, 500 people, ARR doubled to $200M, and 1 in 6 US apartments runs on its platform. Product Expert SEs own everything post-implementation for their product vertical (leasing, maintenance, CRM): technical support, troubleshooting, customer data analysis and engineering escalations, in an engineering-first culture where SEs are expected to navigate the codebase.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer); no new H1B. On-site 4–5 days a week in New York or San Francisco.</p><p><strong>What you'll do</strong></p><ul><li>Act as dedicated technical expert for a housing product vertical, supporting CSMs and customers post-implementation.</li><li>Dive into customer data and API integrations to diagnose issues and identify trends.</li><li>Serve as the escalation point for technical support and communicate with engineering on code-level fixes.</li><li>Support onboarding and data migration for new platform rollouts, including Future Platforms.</li><li>Feed insights back to engineering, product and customer success.</li></ul><p><strong>Requirements</strong></p><ul><li>5+ years as a post-sales Solutions Engineer supporting complex implementations and technical escalations; purely pre-sales profiles are not a fit.</li><li>Technical background (CS, engineering or equivalent); comfort at the data and API layer essential.</li><li>Strong customer-facing communication; startup experience preferred.</li><li>Tools: Salesforce, Zendesk, Jira, API integrations, QA processes.</li><li>Visa transfers accepted (OPT, H1B transfer).</li><li>On-site 4–5 days a week in NYC or SF.</li></ul><p><strong>Compensation:</strong> $150K – $200K base plus competitive equity. Full-time, on-site. Interview: recruiter screen, SE Lead interview, 3-day take-home with presentation, 2.5-hour on-site.</p>]]></description>
+    <salary><![CDATA[$150K – $200K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Product Strategy & Operations Sr. Associate, New Verticals]]></title>
+    <date><![CDATA[Thu, 05 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[elise-ai-product-strategy-operations-sr-associate]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-elise-ai-product-strategy-operations-sr-associate.html]]></url>
+    <company><![CDATA[Elise AI]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>EliseAI builds agentic AI for housing and healthcare: $250M Series E led by Andreessen Horowitz, 500 people, ARR doubled to $200M, and 1 in 6 US apartments runs on its platform. You'll own and scale a new product vertical end to end in a zero-to-one environment: equal parts strategist, operator and customer champion, getting in front of customers directly and building the processes that cross-functional teams take over as the product matures.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer); no new H1B. In office 4–5 days a week in New York City, with travel as needed.</p><p><strong>What you'll do</strong></p><ul><li>Own a product vertical end to end, from customer acquisition and sales demos to implementation and process-building.</li><li>Sell, support and implement directly with customers to drive early traction.</li><li>Build and scale internal processes for Product, Engineering, GTM and CS to take over.</li><li>Lead go-to-market: market research, positioning, pricing and launch execution.</li><li>Align stakeholders cross-functionally with high EQ.</li></ul><p><strong>Requirements</strong></p><ul><li>1–4 years in product strategy, management consulting or startup operations in payments, accounting or insurance.</li><li>Startup or founder experience; thrives in fast-moving, ambiguous environments.</li><li>B2B SaaS or enterprise experience (consumer background is a weaker fit).</li><li>Proven ownership mentality and strong cross-functional influence.</li><li>Visa transfers accepted (OPT, H1B transfer).</li><li>On-site 4–5 days a week in NYC.</li></ul><p><strong>Compensation:</strong> $100K – $160K base plus competitive equity. Full-time, hybrid in New York City. Interview: recruiter screen, 30-min with New Verticals manager, practical assignment, on-site, references.</p>]]></description>
+    <salary><![CDATA[$100K – $160K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Engagement Lead, Future Platforms (Accounting)]]></title>
+    <date><![CDATA[Thu, 05 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[elise-ai-engagement-lead-future-platforms-accounting]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-elise-ai-engagement-lead-future-platforms-accounting.html]]></url>
+    <company><![CDATA[Elise AI]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>EliseAI builds agentic AI for housing and healthcare: $250M Series E led by Andreessen Horowitz, 500 people, ARR doubled to $200M, and 1 in 6 US apartments runs on its platform. Future Platforms turns the lease into a full automation tool across housing, including back-office accounting. As Engagement Lead you're part consultant, part implementation expert, helping customers scope, configure and launch financial automation workflows (GL, AP, AR, payroll, payments) at startup speed.</p><p><strong>Who can apply:</strong> Open to visa sponsorship (new H1B, TN) and visa transfers (OPT, H1B transfer); relocation support offered. On-site 4–5 days a week in New York City.</p><p><strong>What you'll do</strong></p><ul><li>Manage customer engagements end to end with CFOs and finance teams to deploy accounting and ERP products.</li><li>Scope customer workflows and configure EliseAI's accounting software to match them.</li><li>Own pre-sales and post-sales activities for accounting-specific products.</li><li>Communicate complex accounting and technical concepts clearly to senior finance stakeholders.</li><li>Build processes from scratch at startup pace.</li></ul><p><strong>Requirements</strong></p><ul><li>6–8+ years in ERP/accounting software implementation or finance transformation consulting (Big 4 or an accounting/ERP startup).</li><li>Strong understanding of back-office accounting: GL, reconciliations, month-end close, AP/AR.</li><li>Proven customer management with senior finance stakeholders; builder mindset.</li><li>Systems: ERP, NetSuite, Oracle, Salesforce, general-ledger systems.</li><li>Visa sponsorship and transfers available; relocation support.</li><li>On-site 4–5 days a week in NYC.</li></ul><p><strong>Compensation:</strong> $200K – $250K base plus equity, 100% covered medical/dental/vision, fully paid parental leave, 401(k) and relocation support. Full-time, on-site in New York City.</p>]]></description>
+    <salary><![CDATA[$200K – $250K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Mid-Market Account Executive]]></title>
+    <date><![CDATA[Thu, 05 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[elise-ai-mid-market-account-executive]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-elise-ai-mid-market-account-executive.html]]></url>
+    <company><![CDATA[Elise AI]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>EliseAI builds agentic AI for housing and healthcare: $250M Series E led by Andreessen Horowitz, 500 people, ARR doubled to $200M, and 1 in 6 US apartments runs on its platform. As a Mid-Market Account Executive you'll identify, engage and close new business for the mid-market multifamily segment while partnering with Customer Success to expand existing accounts. High-ACV, fast-moving deals, consistently strong team attainment and a sales org ranked among the top on RepVue.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only; no visa sponsorship. On-site 4 days a week in NYC, SF, Boston or Austin.</p><p><strong>What you'll do</strong></p><ul><li>Work with C-suite, VP and Director-level executives to drive EliseAI adoption.</li><li>Own the entire sales cycle: prospecting (with SDR support), outreach, demos, negotiation and expansion.</li><li>Attend industry conferences to grow EliseAI's market presence across the US.</li><li>Bridge customers and product teams on new features; build playbooks with Sales Ops and Marketing.</li><li>Help attract top sales talent to the team.</li></ul><p><strong>Requirements</strong></p><ul><li>3–6 years of quota-carrying B2B SaaS sales with $800K+ annual quota, selling to traditional industries (healthcare, HR, construction, restaurants, real estate).</li><li>Hungry, driven, comfortable with autonomy and intensity.</li><li>US citizen or Green Card holder (no visa sponsorship).</li><li>On-site 4 days a week in NYC, SF, Boston or Austin.</li></ul><p><strong>Compensation:</strong> $110K base, OTE $295K, plus competitive equity. Full-time, on-site. Interview: application review, recruiter screen, preliminary interview, mock pitch, on-site, references.</p>]]></description>
+    <salary><![CDATA[$110K base · OTE $295K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior/Staff Software Engineer]]></title>
+    <date><![CDATA[Wed, 04 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[loancrate-senior-staff-software-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-loancrate-senior-staff-software-engineer.html]]></url>
+    <company><![CDATA[Loancrate]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Loancrate builds AI-native tooling that automates mortgage workflows, replacing 20-year-old loan origination software. $44M raised, 80 people, fully remote since 2020, with customers who have originated $85B+ in home loans. As a Senior/Staff engineer you'll architect and launch multi-step AI agents, integrate lending APIs and build the next generation of job-processing infrastructure on AWS, in a TypeScript monorepo with end-to-end type safety and Terraform-managed infrastructure.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer); no new H1B. Must live in the US and work US hours. Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Architect, build and launch complex multi-step AI agents that digitize customers' ops workflows.</li><li>Integrate with third-party lending APIs for documents, automated underwriting and fraud prevention.</li><li>Build the next generation of job-processing infrastructure on AWS for observability and reliability.</li><li>Mentor less senior engineers and contribute product ideas.</li></ul><p><strong>Requirements</strong></p><ul><li>7–25 years as a Senior/Staff software engineer with full-stack web development from design through deployment; minimum 5 years at senior level.</li><li>Stack: TypeScript, React, Node/Express, GraphQL/Apollo, Postgres, AWS (ECS, RDS, Kafka, ElasticSearch), Terraform.</li><li>Familiarity with AI product development (evals, experiment design) and a keen eye for security.</li><li>Visa transfers accepted (OPT, H1B transfer); no new H1B.</li><li>Remote in the US, working US hours.</li></ul><p><strong>Compensation:</strong> $150K – $350K base plus competitive equity. Full-time, remote in the US. Interview: 15-min screen, 1-hour live coding, take-home + presentation + system design, product interview, project review.</p>]]></description>
+    <salary><![CDATA[$150K – $350K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior/Staff Software Engineer – Security]]></title>
+    <date><![CDATA[Wed, 04 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[loancrate-senior-staff-software-engineer-security]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-loancrate-senior-staff-software-engineer-security.html]]></url>
+    <company><![CDATA[Loancrate]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Loancrate builds AI-native tooling that automates mortgage workflows. $44M raised, 80 people, fully remote, powering $85B+ in home loans. This is a hands-on senior IC role focused on product security and security engineering: secure design, threat modeling, code review, authentication and authorization, secrets handling and internal tooling. It is not a compliance, endpoint-IT or scanner-operations role.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only; no visa sponsorship. Remote, US hours. Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Design and build shared libraries, platform guardrails and internal tools that make the secure path the easy path.</li><li>Review architecture, designs and production code for security issues: auth, tenant isolation, secrets, data exposure, abuse cases.</li><li>Perform pragmatic threat modeling for new features, services and integrations.</li><li>Build low-noise security automation in CI/CD: code scanning, dependency policy, secret detection, infrastructure checks.</li><li>Work directly with engineers to remediate vulnerabilities with durable fixes; contribute to incident analysis and postmortems.</li></ul><p><strong>Requirements</strong></p><ul><li>8+ years as a senior IC software engineer specializing in security, or a software engineer who pivoted into security and still ships code to infrastructure.</li><li>Stack: AWS, Terraform, TypeScript, Node, React, Datadog.</li><li>Comfortable in a startup: small teams, broad ownership, pragmatic decisions.</li><li>US citizen or Green Card holder (no visa sponsorship).</li><li>Remote in the US, working US hours.</li></ul><p><strong>Compensation:</strong> $150K – $350K base ("we never lose on comp") plus competitive equity. Full-time, remote in the US. Interview: CEO screen, 1-hour live coding, policy-engine session, take-home + system design, product &amp; ops call, CTO final.</p>]]></description>
+    <salary><![CDATA[$150K – $350K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Engineering Manager]]></title>
+    <date><![CDATA[Wed, 04 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[loancrate-engineering-manager]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-loancrate-engineering-manager.html]]></url>
+    <company><![CDATA[Loancrate]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Loancrate is an AI-native loan origination system transforming the mortgage industry: $44M raised, 80 people, fully remote, $85B+ in home loans processed. As the engineering team more than doubles this year, you'll own the health, output and trajectory of an engineering pod, managing people with care and directness while staying hands-on in code.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only; no visa sponsorship. Remote-first, US-based. Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Manage a pod of ~6–8 engineers: 1:1s, continuous feedback, hiring, performance management and career growth.</li><li>Own the pod's execution cadence: planning, retros, delivery health and surfacing risk early.</li><li>Keep coding 10–20% of your time, shipping 1–2 PRs a week.</li><li>Partner with Product Managers and Technical Leads on prioritization and architecture.</li><li>Onboard new engineers and keep documentation and ownership boundaries sharp.</li></ul><p><strong>Requirements</strong></p><ul><li>8+ years as a software engineer or engineering manager; has actually managed 5+ engineers (hiring, firing, PIPs, reviews).</li><li>Hands-on TypeScript; must pass a live coding interview in TypeScript.</li><li>Progressive career trajectory (SWE → Senior → Staff/Management); startup or small-company experience preferred.</li><li>AI-forward mindset: uses AI tools in engineering workflows and expects the team to.</li><li>US citizen or Green Card holder (no visa sponsorship); remote in the US.</li></ul><p><strong>Compensation:</strong> $225K – $300K base, up to $325K for exceptional candidates, plus competitive equity. Full-time, remote in the US. Interview: Head of People screen, 30-min live coding, 1-hour system design, hiring manager screen.</p>]]></description>
+    <salary><![CDATA[$225K – $300K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Product Designer]]></title>
+    <date><![CDATA[Wed, 04 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[loancrate-senior-product-designer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-loancrate-senior-product-designer.html]]></url>
+    <company><![CDATA[Loancrate]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Loancrate builds an AI-native loan origination platform helping lenders move toward fully automated mortgage origination. $44M raised, 80 people, fully remote. You'll turn some of the densest, highest-stakes workflows in financial services into experiences that are easy to use and earn users' trust, working closely with Product and Engineering from discovery to high-fidelity design.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer); no new H1B. US-based, working US time zones; no relocation support. Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Own design end to end for a core product area, from discovery through high-fidelity Figma design.</li><li>Lead customer discovery and usability sessions and turn findings into design decisions.</li><li>Design clear UX patterns for multi-step automation workflows, data-dense tables and high-stakes decision screens.</li><li>Design AI-native experiences: uncertainty states, user intervention, streaming content and graceful error handling.</li><li>Build and maintain Figma component libraries and design-system assets.</li></ul><p><strong>Requirements</strong></p><ul><li>7+ years of hands-on senior product design with a strong product (not brand) focus; 5–10 years in end-to-end design for complex SaaS tools.</li><li>Portfolio showing high-craft visual and interaction design, ideally dense layouts and multi-step workflows.</li><li>Deep Figma skills: variables, auto-layout, variants, prototyping, component hygiene.</li><li>Experience inside established product design teams; formal degree.</li><li>Visa transfers accepted (OPT, H1B transfer); remote within US time zones.</li></ul><p><strong>Compensation:</strong> $170K – $250K base plus 100% paid medical premiums for you and your family, dental, vision, 401(k), HSA/FSA and flexible time off. No equity. Full-time, remote in the US. Interview: recruiter screen, portfolio deep dive, 90-min cross-functional panel, 2-hour live design challenge, CTO final.</p>]]></description>
+    <salary><![CDATA[$170K – $250K + full benefits]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Software Engineer – Design]]></title>
+    <date><![CDATA[Wed, 04 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[loancrate-senior-software-engineer-design]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-loancrate-senior-software-engineer-design.html]]></url>
+    <company><![CDATA[Loancrate]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Loancrate builds AI-native tooling that automates mortgage workflows. $44M raised, 80 people, fully remote. This role is for someone obsessed with the fine details of UI and UX, bringing craft to every component shipped and elevating the product from pixel to production.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer); no new H1B. Remote, working US hours. Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Own the end-to-end design process, from wireframing in Figma to implementation in React/TypeScript.</li><li>Build and maintain a scalable design system and component library using shadcn/ui.</li><li>Write accessible, production-quality React components with correct ARIA, keyboard and focus management.</li><li>Translate complex mortgage workflows into intuitive, elegant user experiences with product and engineering.</li><li>Define and enforce visual and interaction design standards across the product.</li></ul><p><strong>Requirements</strong></p><ul><li>5+ years as a Design Engineer or frontend/full-stack engineer shipping production code with strong design sense; minimum 5 years at senior level.</li><li>Stack: React, TypeScript, Vite, Tailwind CSS, shadcn/ui, GraphQL, Apollo Client, Turborepo, Figma.</li><li>Visa transfers accepted (OPT, H1B transfer); no new H1B.</li><li>Remote, working US hours.</li></ul><p><strong>Compensation:</strong> $150K – $350K base depending on location and level, plus competitive equity. Full-time, remote. Interview: CEO screen, live coding, take-home + presentation + system design, project review.</p>]]></description>
+    <salary><![CDATA[$150K – $350K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Technical Product Manager]]></title>
+    <date><![CDATA[Wed, 04 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[loancrate-senior-technical-product-manager]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-loancrate-senior-technical-product-manager.html]]></url>
+    <company><![CDATA[Loancrate]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Loancrate is an AI-native mortgage platform processing $85B+ in home loans, with $44M raised and an engineering team more than doubling this year. You'll be embedded with engineering, in constant contact with mortgage lenders, and making real decisions about what gets built. This is a pure IC role, not backlog management and not people management.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only; no visa sponsorship. Remote in the US with roughly monthly domestic travel to customer sites. Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Own a product pod end to end: customer discovery, roadmap, delivery and post-launch iteration.</li><li>Bridge engineering, design and business, turning customer needs into clear specs and architecture decisions.</li><li>Prototype and validate ideas hands-on with AI coding tools.</li><li>Define success metrics for every initiative and iterate until outcomes are achieved.</li><li>Partner with Sales and Customer Success on positioning and deal cycles.</li></ul><p><strong>Requirements</strong></p><ul><li>5–10 years of PM or closely related experience (e.g. forward-deployed engineering) in B2B SaaS at a startup or growth-stage company.</li><li>Demonstrated 0-to-1 product ownership; ex-founders strongly preferred.</li><li>Technical fluency to prototype with AI tools, read a codebase and contribute to architecture discussions.</li><li>US-based and authorized to work without visa sponsorship.</li><li>Willing to travel domestically roughly once a month.</li></ul><p><strong>Compensation:</strong> $170K – $250K base plus competitive equity. Full-time, remote in the US. Interview: 30-min phone screen, 90-min product behavioral and design partnership, product sense rounds, take-home presentation.</p>]]></description>
+    <salary><![CDATA[$170K – $250K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Strategic Projects Lead – AI Safety]]></title>
+    <date><![CDATA[Sun, 01 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[afterquery-strategic-projects-lead-ai-safety]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-afterquery-strategic-projects-lead-ai-safety.html]]></url>
+    <company><![CDATA[AfterQuery]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>AfterQuery builds the data infrastructure that powers frontier dataset creation for agentic and hard-reasoning AI workflows, working with the leading AI labs and YC companies. $34M raised, 85 people, founding team from Citadel, Google, Meta, Jane Street and Goldman Sachs. As Strategic Projects Lead for AI Safety you'll own projects that directly generate revenue, from scoping with the lab to managing the expert teams that deliver the data.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer); no new H1B. US-based candidates preferred, sponsorship possible for exceptional candidates. On-site in San Francisco, typically 6 days a week.</p><p><strong>What you'll do</strong></p><ul><li>Work directly with the world's leading AI labs to generate next-generation AI-safety datasets.</li><li>Manage teams of experts across domains such as red teaming, security and adversarial ML.</li><li>Collaborate with internal teams on groundbreaking AI research.</li><li>Drive company-wide initiatives as an early hire and support operational projects.</li></ul><p><strong>Requirements</strong></p><ul><li>2+ years in AI safety, red teaming, trust &amp; safety, adversarial ML or security research.</li><li>Experience in a high-intensity environment: consulting, investment banking or a fast-paced startup.</li><li>Comfortable owning client relationships and delivery under tight deadlines; scrappy and hungry.</li><li>Visa transfers accepted (OPT, H1B transfer); no new H1B.</li><li>On-site in the FiDi office, San Francisco, typically 6 days a week.</li></ul><p><strong>Compensation:</strong> $130K – $150K base with performance bonus; OTE $260K – $450K (total comp regularly 2–3x base, 4–5x for top performers) plus meaningful equity. Full-time, on-site in San Francisco.</p>]]></description>
+    <salary><![CDATA[$130K – $150K base, OTE $260K – $450K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Strategic Projects Lead – Coding]]></title>
+    <date><![CDATA[Sun, 01 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[afterquery-strategic-projects-lead-coding]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-afterquery-strategic-projects-lead-coding.html]]></url>
+    <company><![CDATA[AfterQuery]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>AfterQuery builds the data infrastructure that powers frontier dataset creation for agentic and hard-reasoning AI workflows, working with the leading AI labs and YC companies. $34M raised, 85 people, founding team from Citadel, Google, Meta, Jane Street and Goldman Sachs. In this role you'll own coding-focused dataset projects end to end, from client relationship to delivery, directly generating revenue.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer); no new H1B. US-based candidates preferred, sponsorship possible for exceptional candidates. On-site in San Francisco 5 days a week plus half-day or remote Sundays.</p><p><strong>What you'll do</strong></p><ul><li>Work closely with leading AI labs to generate next-generation coding datasets that push model capabilities.</li><li>Manage teams of software engineering experts across languages and stacks.</li><li>Collaborate with internal teams on AI research and tooling.</li><li>Drive initiatives across the company as an early hire and support operations.</li></ul><p><strong>Requirements</strong></p><ul><li>2–10 years as a software engineer with full-stack experience.</li><li>Comfortable owning client relationships and project execution under tight deadlines.</li><li>Scrappy, hungry and willing to grind at the frontier of AI.</li><li>Visa transfers accepted (OPT, H1B transfer); no new H1B.</li><li>On-site in the FiDi office, San Francisco, Monday to Friday plus half-day or remote Sundays.</li></ul><p><strong>Compensation:</strong> $150K – $225K base with performance bonus; OTE $300K+ plus meaningful equity. Full-time, on-site in San Francisco.</p>]]></description>
+    <salary><![CDATA[$150K – $225K base, OTE $300K+]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Strategic Projects Lead – Healthcare]]></title>
+    <date><![CDATA[Sun, 01 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[afterquery-strategic-projects-lead-healthcare]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-afterquery-strategic-projects-lead-healthcare.html]]></url>
+    <company><![CDATA[AfterQuery]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>AfterQuery builds the data infrastructure that powers frontier dataset creation for agentic and hard-reasoning AI workflows, working with the leading AI labs and YC companies. $34M raised, 85 people, founding team from Citadel, Google, Meta, Jane Street and Goldman Sachs. As Strategic Projects Lead for Healthcare you'll own medical and life-sciences dataset projects end to end and the expert teams behind them.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer); no new H1B. US-based candidates preferred, sponsorship possible for exceptional candidates. On-site in San Francisco, typically 6 days a week.</p><p><strong>What you'll do</strong></p><ul><li>Work directly with leading AI labs to generate next-generation healthcare datasets.</li><li>Manage teams of medical, research and biopharma experts.</li><li>Collaborate with internal teams on AI research.</li><li>Drive company-wide initiatives as an early hire and support operational projects.</li></ul><p><strong>Requirements</strong></p><ul><li>3+ years in healthcare, medical research, health technology, top-tier biopharma or another highly selective medical environment.</li><li>Experience in a high-intensity environment: consulting, investment banking or a fast-paced startup.</li><li>Comfortable owning client relationships and delivery under tight deadlines.</li><li>Visa transfers accepted (OPT, H1B transfer); no new H1B.</li><li>On-site in the FiDi office, San Francisco, typically 6 days a week.</li></ul><p><strong>Compensation:</strong> $150K – $200K base with performance bonus; OTE $300K+ (total comp regularly 2–3x base, 4–5x for top performers) plus meaningful equity. Full-time, on-site in San Francisco.</p>]]></description>
+    <salary><![CDATA[$150K – $200K base, OTE $300K+]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Strategic Projects Lead – Legal]]></title>
+    <date><![CDATA[Sun, 01 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[afterquery-strategic-projects-lead-legal]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-afterquery-strategic-projects-lead-legal.html]]></url>
+    <company><![CDATA[AfterQuery]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>AfterQuery builds the data infrastructure that powers frontier dataset creation for agentic and hard-reasoning AI workflows, working with the leading AI labs and YC companies. $34M raised, 85 people, founding team from Citadel, Google, Meta, Jane Street and Goldman Sachs. As Strategic Projects Lead for Legal you'll own legal dataset projects end to end and the expert teams behind them.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer); no new H1B. US-based candidates preferred, sponsorship possible for exceptional candidates. On-site in San Francisco, typically 6 days a week.</p><p><strong>What you'll do</strong></p><ul><li>Work directly with leading AI labs to generate next-generation legal datasets.</li><li>Manage teams of lawyers and legal experts across practice areas.</li><li>Collaborate with internal teams on AI research.</li><li>Drive company-wide initiatives as an early hire and support operational projects.</li></ul><p><strong>Requirements</strong></p><ul><li>3+ years practicing law at a leading firm, in-house at a sophisticated company, a government or regulatory body, or a legal AI startup.</li><li>Experience in a high-intensity environment and comfort owning client relationships end to end.</li><li>Track record of high-quality work under tight deadlines.</li><li>Visa transfers accepted (OPT, H1B transfer); no new H1B.</li><li>On-site in the FiDi office, San Francisco, typically 6 days a week.</li></ul><p><strong>Compensation:</strong> $150K – $200K base with performance bonus; OTE $300K+ (total comp regularly 2–3x base, 4–5x for top performers) plus meaningful equity. Full-time, on-site in San Francisco.</p>]]></description>
+    <salary><![CDATA[$150K – $200K base, OTE $300K+]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Strategic Projects Lead]]></title>
+    <date><![CDATA[Sun, 01 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[afterquery-strategic-projects-lead]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-afterquery-strategic-projects-lead.html]]></url>
+    <company><![CDATA[AfterQuery]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>AfterQuery builds the data infrastructure that powers frontier dataset creation for agentic and hard-reasoning AI workflows, working with the leading AI labs and YC companies. $34M raised, 85 people, founding team from Citadel, Google, Meta, Jane Street and Goldman Sachs. As a Strategic Projects Lead you'll own client relationships and project execution from end to end, directly generating revenue.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer); no new H1B. US-based candidates preferred, sponsorship possible for exceptional candidates. On-site in San Francisco, typically 6 days a week.</p><p><strong>What you'll do</strong></p><ul><li>Work closely with the world's leading AI labs to generate next-generation datasets.</li><li>Manage teams of experts across finance, software engineering, sciences and more.</li><li>Collaborate with internal teams on groundbreaking AI research.</li><li>Drive initiatives across the company as an early hire and support operations.</li></ul><p><strong>Requirements</strong></p><ul><li>2–5 years in operations, strategy or product management.</li><li>Experience in a high-intensity environment: consulting, investment banking or a fast-paced startup.</li><li>Comfortable owning client relationships and delivery under tight deadlines; scrappy and hungry.</li><li>Visa transfers accepted (OPT, H1B transfer); no new H1B.</li><li>On-site in the FiDi office, San Francisco, typically 6 days a week.</li></ul><p><strong>Compensation:</strong> $110K – $150K base plus a performance bonus tied to the gross profit of your contracts (target 100% of base); OTE $220K – $300K, top performers $400K+ in year one, plus meaningful equity. Full-time, on-site in San Francisco.</p>]]></description>
+    <salary><![CDATA[$110K – $150K base, OTE $220K – $300K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Strategic Projects Associate – Coding]]></title>
+    <date><![CDATA[Sun, 01 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[afterquery-strategic-projects-associate-coding]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-afterquery-strategic-projects-associate-coding.html]]></url>
+    <company><![CDATA[AfterQuery]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>AfterQuery builds the data infrastructure that powers frontier dataset creation for agentic and hard-reasoning AI workflows, working with the leading AI labs and YC companies. $34M raised, 85 people. As a Strategic Projects Associate you'll coordinate dataset projects with frontier labs, build operational tools with AI and scripting, and manage technical expert teams, with a bonus tied to contracts closed.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer); no new H1B. US-based candidates preferred, sponsorship possible for exceptional candidates. On-site in San Francisco 5 days a week plus half-day or remote Sundays.</p><p><strong>What you'll do</strong></p><ul><li>Partner with frontier AI labs to coordinate dataset projects, timelines and delivery.</li><li>Build and maintain operational tools with AI (ChatGPT, Claude Code) and scripting to automate workflows and track metrics.</li><li>Manage teams of technical experts across software engineering, data science and ML.</li><li>Create technical documentation, project briefs and data samples for customer presentations.</li><li>Analyze operational metrics, build lightweight dashboards and drive process improvements.</li></ul><p><strong>Requirements</strong></p><ul><li>0–2 years of experience with full-stack programming; founding-engineer experience in college or reputable SWE internships ideal.</li><li>Technical degree, founding experience or leadership in prominent university clubs a plus.</li><li>Comfortable in a fast-paced, demanding environment with long hours and strong ownership.</li><li>Stack: TypeScript/JavaScript, Next.js, React, Node.js, Python, Kubernetes, Kafka, Redis, Elasticsearch, AWS/GCP.</li><li>Visa transfers accepted (OPT, H1B transfer); no new H1B.</li><li>On-site in the FiDi office, San Francisco, Monday to Friday plus half-day or remote Sundays.</li></ul><p><strong>Compensation:</strong> $110K – $130K base plus performance bonus (target 100% of base, unlimited upside on contracts closed); OTE $210K – $260K plus meaningful equity. Full-time, on-site in San Francisco.</p>]]></description>
+    <salary><![CDATA[$110K – $130K base, OTE $210K – $260K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Member of Technical Staff: Foundational RL Researcher]]></title>
+    <date><![CDATA[Sun, 01 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pantheon-foundational-rl-researcher]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-pantheon-foundational-rl-researcher.html]]></url>
+    <company><![CDATA[Pantheon]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Pantheon's mission is to build and deploy billions of useful robots to automate physical labor, starting with bi-manual manipulators for industry. $23M raised, 20 people from xAI, Mercor, Ramp, Midjourney, Apple, Jane Street and Zoox. This is a research-first role, not an engineering role: you'll own Pantheon's offline RL research end to end, working alongside an existing researcher on defined problems with room for your own directions.</p><p><strong>Who can apply:</strong> Open to visa sponsorship (new H1B, TN) and visa transfers (OPT, H1B transfer). On-site in San Francisco 6 days a week.</p><p><strong>What you'll do</strong></p><ul><li>Own offline RL research end to end, from picking the question to sharing results.</li><li>Improve policy performance on Pantheon's internal benchmarks and build on existing policy research.</li><li>Learn from large, mixed-quality datasets (robot data, demonstrations, action-free video) under sparse rewards using goal-conditioned, contrastive and TD value learning.</li><li>Explore model-based RL and world models for continuous control and how RL stays stable as data, compute and model size scale.</li><li>Run clean, falsifiable experiments with reproducible baselines and see your work deployed on real bi-manual robots.</li></ul><p><strong>Requirements</strong></p><ul><li>Published work showing strong foundational RL thinking: offline RL, value learning, policy representation (robotics, continuous control, or video/image generation backgrounds welcome).</li><li>Research depth and taste matter far more than general MLE or data-infra skills.</li><li>Stack: Reinforcement Learning, Offline RL, World Models, Dreamer, Isaac, MuJoCo, Brax, JAX, distributed training.</li><li>Open to visa sponsorship (H1B, TN) and transfers (OPT, H1B).</li><li>On-site in San Francisco, 6 days in office.</li></ul><p><strong>Compensation:</strong> $200K – $350K base plus competitive equity. Full-time, on-site in San Francisco. Interview: screening, technical chat with the RL research lead, 6-hour technical interview, 1–2 day work trial.</p>]]></description>
+    <salary><![CDATA[$200K – $350K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Applied Researcher]]></title>
+    <date><![CDATA[Sun, 01 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[stealth-biotech-ai-applied-researcher]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-stealth-biotech-ai-applied-researcher.html]]></url>
+    <company><![CDATA[Stealth Biotech AI Startup]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>A stealth-stage AI startup building knowledge infrastructure and benchmarks for the life sciences. The product is already used in labs at leading research universities, with enterprise pilots launching with large life-sciences organizations. As an Applied Researcher you'll bring experience in benchmarking, evaluations or data acquisition and a solid understanding of machine-learning principles; a life-sciences or materials-science background is a strong plus.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only; no visa sponsorship. On-site 5 days a week in New York City (exceptional candidates in the Bay Area considered).</p><p><strong>What you'll do</strong></p><ul><li>Design and run benchmarks and evaluations for life-sciences AI.</li><li>Lead data acquisition and curation for knowledge infrastructure.</li><li>Apply machine-learning principles to real research workflows with Python, SQL, Claude Code and Codex.</li><li>Work closely with the CTO and the founding team in New York.</li></ul><p><strong>Requirements</strong></p><ul><li>2+ years of experience in benchmarking, evaluations or data acquisition.</li><li>Solid understanding of machine-learning principles; life-sciences or materials-science background a strong plus.</li><li>US citizen or Green Card holder (no visa sponsorship).</li><li>On-site 5 days a week in New York City; exceptional Bay Area candidates considered.</li></ul><p><strong>Compensation:</strong> $150K – $200K base plus competitive equity. Full-time, on-site in New York City. Interview: CTO screen, technical interview, 4–5 hour take-home, in-person day with the team.</p>]]></description>
+    <salary><![CDATA[$150K – $200K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Member of Technical Staff – Post-Training Research]]></title>
+    <date><![CDATA[Sun, 01 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[nexttoken-mts-post-training-research]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-nexttoken-mts-post-training-research.html]]></url>
+    <company><![CDATA[NextToken]]></company>
+    <city><![CDATA[Mountain View]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>NextToken builds specialized models and learning systems for production AI agents, turning the experience of production agents into evaluations, reward signals and post-trained models that improve continuously. Founded by Nitish Kulkarni and Alankar Jain, who led search infrastructure and RL post-training for Google's AI Overviews and AI Mode. $7M raised. As an early technical hire you'll work directly with the founders and see your work deployed in real products.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer); new sponsorship case by case. On-site 5 days a week in Mountain View, CA (also open to candidates in San Francisco).</p><p><strong>What you'll do</strong></p><ul><li>Turn customer workflows and model failures into clear research questions, evaluations and experiments.</li><li>Develop training data, reward signals and verifiers; run SFT, preference optimization and RL experiments.</li><li>Diagnose training failures and use ablations and held-out evaluations to establish what actually improves quality.</li><li>Lead post-training projects end to end, through to a production model or a published result.</li><li>Work with research and systems engineers to deploy models and learn from production behavior.</li></ul><p><strong>Requirements</strong></p><ul><li>2–6 years as a research engineer or applied researcher with substantial hands-on post-training of language models.</li><li>Strong empirical judgment and strong Python and PyTorch skills.</li><li>Experience with agentic RL, distillation, synthetic data, reward modeling or distributed training especially relevant; PhD not required.</li><li>Stack: Python, PyTorch, JAX, vLLM, SGLang, Megatron-LM.</li><li>Visa transfers accepted (OPT, H1B transfer); sponsorship case by case.</li><li>In person 5 days a week in Mountain View, CA.</li></ul><p><strong>Compensation:</strong> $200K – $350K base plus 0.1% – 2% equity depending on experience; the cash/equity split can be adjusted to suit you. Full-time, on-site in Mountain View.</p>]]></description>
+    <salary><![CDATA[$200K – $350K + 0.1–2% equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Member of Technical Staff – Research Engineering]]></title>
+    <date><![CDATA[Sun, 01 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[nexttoken-mts-research-engineering]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-nexttoken-mts-research-engineering.html]]></url>
+    <company><![CDATA[NextToken]]></company>
+    <city><![CDATA[Mountain View]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>NextToken builds specialized models and learning systems for production AI agents, turning the experience of production agents into evaluations, reward signals and post-trained models that improve continuously. Founded by Nitish Kulkarni and Alankar Jain, who led search infrastructure and RL post-training for Google's AI Overviews and AI Mode. $7M raised. You'll own post-training work in customer settings and turn successful experiments into reliable platform components.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer; TN case by case). On-site 5 days a week in Mountain View, CA (open to candidates in Palo Alto and San Francisco).</p><p><strong>What you'll do</strong></p><ul><li>Build evaluation suites, graders and data pipelines from production workflows and traces.</li><li>Own post-training work in customer settings: data, evals, RL environments and training runs that measurably improve quality, cost and latency.</li><li>Implement agent environments and harnesses for reproducible experiments and training-data generation.</li><li>Run and analyze post-training experiments, reproduce promising research and debug the systems around it.</li><li>Turn successful experiments into reliable components of NextToken's post-training and continual-learning platform.</li></ul><p><strong>Requirements</strong></p><ul><li>1–5 years as an engineer at an AI startup or in an ML research group, hands-on with LLMs (post-training, evals or inference).</li><li>Strong Python and solid foundations in machine learning and computer science.</li><li>A substantive project, research contribution or shipped system showing technical depth and ownership.</li><li>Stack: Python, PyTorch, JAX, RL/agent environments, evaluation harnesses, vLLM, SGLang, Megatron.</li><li>Visa transfers accepted (OPT, H1B transfer); TN and H1B transfers case by case.</li><li>In person 5 days a week in Mountain View, CA.</li></ul><p><strong>Compensation:</strong> $200K – $300K base plus 0.1% – 2% equity. Full-time, on-site in Mountain View.</p>]]></description>
+    <salary><![CDATA[$200K – $300K + 0.1–2% equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Machine Learning Researcher]]></title>
+    <date><![CDATA[Sun, 01 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[rumi-machine-learning-researcher]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-rumi-machine-learning-researcher.html]]></url>
+    <company><![CDATA[Rumi]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Rumi is a $100M+ funded neobank transforming business and consumer finance in Mexico and Latin America: consumer and business banking, point-of-sale lending, merchant tools, a WhatsApp AI financial assistant and locking electric-motorcycle financing, with a $30M+ loan book serving 3,000+ retail stores. You'll build the models at the core of underwriting and financing, starting with the current system and then building the quantitative infrastructure for new products beyond BNPL. Prior credit or lending experience is not required.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer). On-site 5 days a week in San Francisco; no relocation support.</p><p><strong>What you'll do</strong></p><ul><li>Develop underwriting models for new customer segments and financing products.</li><li>Spend about 70% of your time on research: new model architectures for underwriting risk, new predictive signals in large, noisy proprietary datasets.</li><li>Explore LLM and multimodal approaches beyond gradient-boosted tabular models.</li><li>Spend about 30% taking models to production: deployment, data-provider needs and monitoring.</li><li>Report jointly to the Head of BNPL and the CTO within a highly technical SF team of about 20.</li></ul><p><strong>Requirements</strong></p><ul><li>5–12 years of ML research experience (PhD or academic lab research included); MS or PhD strongly preferred.</li><li>Strong Python for data science and production ML; rigorous model evaluation (temporal validation, calibration, leakage detection, statistical significance).</li><li>Feature engineering and interpretability on large, high-dimensional data (SQL, Pandas/Polars, SHAP); gradient boosting and GLMs a plus.</li><li>Quantitative background: statistics, applied math, CS, physics, OR, econometrics or quant research.</li><li>Visa transfers accepted (OPT, H1B transfer).</li><li>On-site 5 days a week in San Francisco; no relocation support.</li></ul><p><strong>Compensation:</strong> $250K – $400K base plus competitive equity. Full-time, on-site in San Francisco. Interview: recruiter screen, 60-minute technical, 45-minute leadership and culture interview.</p>]]></description>
+    <salary><![CDATA[$250K – $400K + equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Founding AI Engineer]]></title>
+    <date><![CDATA[Sun, 01 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[river-founding-ai-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-river-founding-ai-engineer.html]]></url>
+    <company><![CDATA[River]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>River builds AI voice agents that act as full-cycle B2B SaaS sellers: qualifying prospects on live Google Meet calls, answering complex questions, demoing the product by controlling a real browser and following up until the deal closes. $2M pre-seed backed by the founders of Ramp, Kalshi and JumpCloud; revenue went from $4K to $50K a week within days of launch. You'll report to the CTO and co-founder and own the agent's architecture, models and how its improvement is measured.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer). On-site 4+ days a week in New York, NY.</p><p><strong>What you'll do</strong></p><ul><li>Agent capabilities (~40%): build reasoning, tool use, memory and recovery when a live call goes off script, under tight real-time latency limits.</li><li>Evals and data (~25%): turn thousands of real sales calls into measurable weekly improvements through eval pipelines, data work and fine-tuning.</li><li>Browser-agent reliability (~20%): make live product demos in a real browser dependable in front of buyers.</li><li>Shipping across the stack (~15%): TypeScript, Node and Next.js, working directly with customers and design partners.</li><li>Set direction on which models and methods River bets on and what to build versus buy.</li></ul><p><strong>Requirements</strong></p><ul><li>4–7 years as an AI engineer; has owned and shipped AI agents to production end to end.</li><li>Stack: TypeScript, Node.js, Next.js, LLM APIs, voice AI, WebRTC, LiveKit, Playwright, browser automation, evals, fine-tuning, RL.</li><li>Founder mindset: opinionated, hands-on, comfortable without a PM layer.</li><li>Visa transfers accepted (OPT, H1B transfer).</li><li>On-site 4+ days a week in New York.</li></ul><p><strong>Compensation:</strong> $200K – $250K base plus 1%+ equity; offers come as more cash with less equity or less cash with more equity. Full-time, on-site in New York. Interview: 30-minute screen, technical deep dive, optional practical assessment.</p>]]></description>
+    <salary><![CDATA[$200K – $250K + 1%+ equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Private Equity Partnerships Lead]]></title>
+    <date><![CDATA[Fri, 30 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[hyphenate-private-equity-partnerships-lead]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-hyphenate-private-equity-partnerships-lead.html]]></url>
+    <company><![CDATA[Hyphenate]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Hyphenate is building the AI operating system for the CFO office: audit-ready AI agents that automate order-to-cash, record-to-report, treasury and financial reporting. Backed by $9M from Foundation Capital and the CEO of Perplexity. You'll be the first hire on the private equity channel, owning relationships with operating partners and portfolio value-creation teams and turning them into warm, qualified pipeline for Account Executives.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only. Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Build the PE channel from 0 to 1: target firm list, outreach motion, partner value proposition and handoff into sales.</li><li>Own relationships with operating partners and portfolio operations leaders at the top 50–100 PE firms in B2B software, CPG, manufacturing and distribution.</li><li>Map each sponsor's portfolio and source warm introductions to CFOs and Controllers.</li><li>Run and report on the partner funnel weekly: firms engaged, intros, meetings and closed ARR.</li><li>Partner with AEs on every sourced deal and with Marketing on PE-specific content and events.</li></ul><p><strong>Requirements</strong></p><ul><li>3–10 years in PE partnerships or business development with deep knowledge of the PE landscape.</li><li>Existing relationships with operating partners and portfolio value-creation teams.</li><li>US citizen or Green Card holder (no visa sponsorship).</li><li>4–5 days in the Manhattan office; relocation supported.</li></ul><p><strong>Compensation:</strong> $180K – $220K base, OTE $257K – $314K with a 70/30 commission split tied to closed ARR, plus competitive equity. Full-time, on-site in New York City.</p>]]></description>
+    <salary><![CDATA[$180K – $220K + commission]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Controller]]></title>
+    <date><![CDATA[Fri, 30 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pylon-lending-controller]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-pylon-lending-controller.html]]></url>
+    <company><![CDATA[Pylon Lending]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Pylon is mortgage infrastructure as software: automated credit, compliance, capital and tooling that fintechs, lenders and publicly traded banks build on. Backed by Peter Thiel, QED, Citi and Conversion Capital. As Controller you'll own day-to-day accounting end to end, then automate it, with a path to broader finance leadership and building a team.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only. Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Own full-cycle AP/AR, GL accrual accounting and the monthly close, shortening the close every quarter.</li><li>Run loan-level accounting from lock to settlement: funding reconciliations, warehouse lines, gain-on-sale and investor settlement.</li><li>Execute and document internal controls for SOC 1 Type II and partner with the CFO on audit readiness.</li><li>Lead the move from QuickBooks to Campfire and automate manual work across GL, LOS and warehouse funding systems.</li><li>Produce board- and lender-ready reporting, then build out the accounting team.</li></ul><p><strong>Requirements</strong></p><ul><li>7–10 years in accounting, with 3+ years hands-on in mortgage lending accounting (origination, securitization, MSRs, hedge accounting).</li><li>Controller or senior accounting manager ready to step up.</li><li>US citizen or Green Card holder (no visa sponsorship).</li><li>3 days a week in the NYC or Palo Alto office; remote possible for exceptional candidates.</li></ul><p><strong>Compensation:</strong> $205K – $235K base + 0.03% – 0.05% equity. Full-time, hybrid in New York City or Palo Alto.</p>]]></description>
+    <salary><![CDATA[$205K – $235K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Strategic Finance & Business Operations]]></title>
+    <date><![CDATA[Fri, 30 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[happyrobot-strategic-finance-business-operations]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-happyrobot-strategic-finance-business-operations.html]]></url>
+    <company><![CDATA[HappyRobot]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>HappyRobot builds an AI-native operating system for supply chain and industrial operations, with $62M raised including a $44M Series B from a16z and YC. You'll split time between strategic finance (FP&amp;A, models, investor relations, pricing) and high-impact business operations projects as the company scales fast.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only. Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Support customer meetings, investor relations, pricing strategy and demo preparation.</li><li>Build financial models, dashboards and reporting on revenue, burn and unit economics.</li><li>Own FP&amp;A: annual planning, rolling forecasts and headcount modeling.</li><li>Take on ambiguous, high-priority biz ops projects: market analysis, vendor evaluation, partnerships.</li><li>Build operational infrastructure and processes that don't exist yet.</li></ul><p><strong>Requirements</strong></p><ul><li>2–5 years at a top-tier investment bank, PE firm or MBB consulting firm.</li><li>Expert Excel / Google Sheets financial modeling (tested in an in-person case study).</li><li>Self-starter comfortable in a flat org with no managers.</li><li>US citizen or Green Card holder (no visa sponsorship).</li><li>Based in or willing to relocate to San Francisco; 3+ days a week in the Dogpatch office.</li></ul><p><strong>Compensation:</strong> $140K – $200K base + 10% bonus + competitive equity. Full-time, hybrid in San Francisco.</p>]]></description>
+    <salary><![CDATA[$140K – $200K + 10% bonus]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Forward Deployed Research Analyst]]></title>
+    <date><![CDATA[Fri, 30 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[hedgineer-forward-deployed-research-analyst]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-hedgineer-forward-deployed-research-analyst.html]]></url>
+    <company><![CDATA[Hedgineer Technologies]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Hedgineer builds the AI platform for hedge funds and asset managers, deployed in the client's own cloud. Cash-flow positive and bootstrapped to $10M+ ARR, with a team from Citadel, Goldman Sachs, Millennium, D.E. Shaw and Two Sigma. As a Forward Deployed Research Analyst you'll sit alongside PMs and research analysts, understand their workflows and build production-grade AI workflows on the platform.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer). No new H1B sponsorship. Must be in the US.</p><p><strong>What you'll do</strong></p><ul><li>Embed on-site with PMs and research analysts and identify high-leverage opportunities for automation.</li><li>Translate client workflows into skills, agents and data connectors with the engineering team.</li><li>Be a daily power user of the platform and drive the product feedback loop.</li><li>Build Hedgineer's knowledge base of research, risk and operations playbooks for your domain.</li></ul><p><strong>Requirements</strong></p><ul><li>3–7 years in a core equity research function at a top-tier hedge fund, asset manager, sell-side research or institutional fund.</li><li>Python.</li><li>Open to most visa transfers (OPT, H1B transfer); no new H1B sponsorship.</li><li>4 days a week in the New York office (Bryant Park), Wednesday remote.</li></ul><p><strong>Compensation:</strong> $200K – $250K base, flexible for exceptional candidates, plus competitive equity. Full-time, hybrid in New York City.</p>]]></description>
+    <salary><![CDATA[$200K – $250K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Controller]]></title>
+    <date><![CDATA[Fri, 30 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[basis-controller]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-basis-controller.html]]></url>
+    <company><![CDATA[Basis]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Basis builds AI agents that do real accounting work end to end for some of the largest accounting firms in the world, with $140M raised and a 120-person in-person team in Flatiron, New York. As Controller you'll own the integrity of Basis's own accounting, lead the company to its first external audit, and redesign workflows with AI, while serving as the internal owner of the Basis product for finance.</p><p><strong>Who can apply:</strong> Visa transfers accepted (OPT, H1B transfer). On-site 5 days a week in New York; no relocation support.</p><p><strong>What you'll do</strong></p><ul><li>Own the monthly close, reconciliations, accruals, revenue recognition and financial reporting.</li><li>Build and lead audit readiness: roadmap, documentation, controls and preparation for the first external audit.</li><li>Design scalable systems across AP, procurement, expense management and spend reporting.</li><li>Apply an AI-forward mindset to redesign accounting workflows and keep them explainable and auditable.</li><li>Partner with an outsourced accounting team and drive toward a zero-day close.</li></ul><p><strong>Requirements</strong></p><ul><li>6–12 years of progressive accounting and finance experience; has built out an accounting function at a high-growth company.</li><li>NetSuite, QuickBooks, Excel and modern AI tools. CPA and public accounting (audit) experience a plus.</li><li>Open to visa transfers (OPT, H1B transfer).</li><li>On-site 5 days a week in the Flatiron office, New York City. No relocation support.</li></ul><p><strong>Compensation:</strong> $200K – $250K base plus premium medical, dental and vision, unlimited PTO, daily meal stipend, 401(k) and parental leave. No equity. Full-time, on-site in New York City.</p>]]></description>
+    <salary><![CDATA[$200K – $250K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Acquisitions & Development]]></title>
+    <date><![CDATA[Fri, 30 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[the-village-project-acquisitions-development]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-the-village-project-acquisitions-development.html]]></url>
+    <company><![CDATA[The Village Project]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>The Village Project (TVP) is a real estate platform and aircraft leasing company spun out of Joby Aviation (NYSE: JOBY). It uses eVTOL aircraft to build walkable, car-light villages as an alternative to the suburbs. Backed by Bain Capital, JoeBen Bevirt, Palmer Luckey and Ryan Johnson. You'll underwrite land, select development partners, raise project financing and build trust in the towns where villages will go.</p><p><strong>Who can apply:</strong> Must live in the US, or be willing to relocate. Visa sponsorship available (new H1B, TN or transfers).</p><p><strong>What you'll do</strong></p><ul><li>Evaluate raw land from first principles and build the models that decide whether TVP pursues a site.</li><li>Select development partners and help raise project financing for live deals, including one in Miami.</li><li>Lead diligence and negotiate with landowners, sellers, brokers, JV partners and capital partners.</li><li>Show up in rural towns to build trust and make the case for the project, including entitlement hearings.</li><li>Own whatever will help the business most in a high-autonomy, early-stage environment.</li></ul><p><strong>Requirements</strong></p><ul><li>3–6 years in ground-up real estate development, real estate private equity or project finance.</li><li>Strong first-principles underwriting across asset classes; hands-on negotiation and diligence experience.</li><li>High-EQ, charismatic and low-ego; happy to travel often for deals.</li><li>Based in the US or willing to relocate; strong candidates anywhere in the US can start remote.</li></ul><p><strong>Compensation:</strong> $150K – $185K base plus about 1% equity (4-year vesting, 1-year cliff), health insurance and a $2,500 travel stipend. Full-time, hybrid in San Francisco with lots of travel; remote possible in the US.</p>]]></description>
+    <salary><![CDATA[$150K – $185K + 1% equity]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Data & Machine Learning Engineer]]></title>
+    <date><![CDATA[Thu, 29 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[patterniq-senior-data-ml-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-patterniq-senior-data-ml-engineer.html]]></url>
+    <company><![CDATA[PatternIQ]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>PatternIQ is building an AI-powered consumer world model that predicts what people want, engage with and buy. Its first product, InboxMatch, is an ML-driven ad network that places personalized ads inside publishers' email newsletters. As Senior Data &amp; ML Engineer you'll independently own the matching stack end to end, working directly with the CTO and CEO, with a path to building and leading an ML team.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only. Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Build retrieval, ranking and re-ranking for ad-to-recipient matching.</li><li>Own the embedding and vector-search infrastructure behind real-time ad selection.</li><li>Balance CTR lift, advertiser ROAS, publisher revenue and subscriber relevance in one ranking stack.</li><li>Own the feature store and serving path, from offline training to online inference.</li><li>Apply LLMs and foundation models to subscriber tagging, content understanding and user modeling.</li><li>Lead 0-to-1 initiatives, ETL/ELT pipelines, the dbt layer and performance dashboards.</li></ul><p><strong>Requirements</strong></p><ul><li>5–16 years of experience in production ML or data engineering.</li><li>Strong SQL, Postgres, columnar analytical databases, dbt and ETL/ELT pipelines.</li><li>Thinks like a scientist and builds like an engineer; comfortable with high autonomy.</li><li>US citizen or Green Card holder (no visa sponsorship).</li><li>Hybrid in New York City, with travel once per quarter.</li></ul><p><strong>Compensation:</strong> $200K – $300K base + 0.1% – 1% equity. Full-time, hybrid in New York City.</p>]]></description>
+    <salary><![CDATA[$200K – $300K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Sr/Staff Data Engineer]]></title>
+    <date><![CDATA[Thu, 29 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[orderful-senior-staff-data-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-orderful-senior-staff-data-engineer.html]]></url>
+    <company><![CDATA[Orderful]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Orderful is the modern, AI-powered EDI platform used by 400+ companies, including Koch Industries and Liquid Death, to trade supply chain data. Backed by Andreessen Horowitz, it's the fastest growing supply chain technology company in North America. You'll be the second data hire, partnering with the data lead to build data products and extend a modern data platform.</p><p><strong>Who can apply:</strong> Must live in the US or Canada with work authorization there. Please don't apply from outside the US or Canada.</p><p><strong>What you'll do</strong></p><ul><li>Own large parts of the data function end to end, from pipelines to analytics and governance.</li><li>Build an agentic semantic layer, event-driven data products and customer-facing analytics.</li><li>Design and operate data infrastructure on AWS, Snowflake and Databricks, including on-call.</li><li>Drive zero-to-one work across streaming, data governance and knowledge management.</li><li>Evaluate and select tools to keep the platform flexible as AI evolves.</li></ul><p><strong>Requirements</strong></p><ul><li>5+ years building and operating data platforms.</li><li>SQL, Python, AWS, Snowflake, Databricks, dbt, Airflow or Dagster, Fivetran, Kafka or Kinesis.</li><li>Thrives in ambiguity and thinks in systems.</li><li>US citizen or Green Card holder, or authorized to work in Canada (no visa sponsorship).</li><li>Based in the US or Canada.</li></ul><p><strong>Compensation:</strong> $190K – $225K base, up to $260K+ for staff-level or outstanding candidates, plus competitive equity. Full-time, remote in the US or Canada.</p>]]></description>
+    <salary><![CDATA[$190K – $260K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Quantitative Researcher]]></title>
+    <date><![CDATA[Thu, 29 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[petra-security-quantitative-researcher]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-petra-security-quantitative-researcher.html]]></url>
+    <company><![CDATA[Petra Security]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Petra Security is an AI-powered platform that protects small and mid-sized businesses from account takeovers in Microsoft 365. Founded by YC W24 alumni from Abnormal Security, Palo Alto Networks and Bridgewater, Petra protects 2.5M+ users across 10,000+ businesses. You'll own detection and forensics models, which are core to the product.</p><p><strong>Who can apply:</strong> On-site 5 days a week in San Francisco. Visa sponsorship available (new H1B, TN or transfers).</p><p><strong>What you'll do</strong></p><ul><li>Build and improve ML models for account-compromise detection, targeting 100% recall and near-100% precision.</li><li>Separate attacker activity from real-user activity across the full activity timeline.</li><li>Own the full research pipeline: pull and clean data, engineer features and model.</li><li>Choose model architectures with production latency in mind, then ship and maintain your code.</li><li>Own specific modeling goals and their results in a small, elite team.</li></ul><p><strong>Requirements</strong></p><ul><li>4+ years of experience as a quantitative researcher.</li><li>Deep statistical rigor and comfort with messy alternative data.</li><li>Python, SQL, machine learning, time series modeling, anomaly detection and feature engineering.</li><li>Able to work on-site 5 days a week in San Francisco.</li></ul><p><strong>Compensation:</strong> $210K – $270K base + competitive equity. Full-time, on-site in San Francisco. Visa sponsorship available.</p>]]></description>
+    <salary><![CDATA[$210K – $270K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Data Engineer II]]></title>
+    <date><![CDATA[Thu, 29 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[apartment-list-senior-data-engineer-ii]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-apartment-list-senior-data-engineer-ii.html]]></url>
+    <company><![CDATA[Apartment List]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Apartment List matches renters to curated apartments across 6M+ rental units. As Senior Data Engineer II (IC4) you'll own the architecture of a growing data platform: end-to-end pipeline design, platform investment tradeoffs and the technical calls that keep it reliable as it scales, while staying hands-on.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only. Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Own and evolve pipeline architecture across ingestion, transformation, modeling and serving.</li><li>Lead platform improvements in warehouse cost, compute efficiency and access control.</li><li>Drive large, cross-team projects and own their outcomes.</li><li>Lead monitoring and testing strategy and handle the hardest production issues.</li><li>Mentor data and analytics engineers and integrate AI into data engineering workflows.</li></ul><p><strong>Requirements</strong></p><ul><li>6–9 years of experience as a data engineer or data platform engineer.</li><li>Apache Airflow, BigQuery, containers, CI/CD, Kubernetes and Datadog.</li><li>US citizen or Green Card holder (no visa sponsorship).</li><li>Based in the US, with company onsites up to 4 times a year.</li></ul><p><strong>Compensation:</strong> $155K – $221K base (based on location) + competitive equity. Full-time, remote in the US.</p>]]></description>
+    <salary><![CDATA[$155K – $221K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Partner Data Analyst]]></title>
+    <date><![CDATA[Thu, 29 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[sparrow-partner-data-analyst]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-sparrow-partner-data-analyst.html]]></url>
+    <company><![CDATA[Sparrow]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Sparrow powers 180+ credit unions with Crest, a marketing and engagement platform built for credit unions. It has been profitable for 24+ months with triple-digit revenue growth. You'll take full ownership of partner data mapping and troubleshooting, working with the CPO and CTO, with a path into data leadership and governance.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only. Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Map each new credit union's core banking data into the Crest platform.</li><li>Fix live data issues fast, from field mapping to campaign logic.</li><li>Explain technical findings simply to Partner Success Managers.</li><li>Document and structure the data mapping process with the CPO and CTO.</li><li>Build reusable SQL, Python or JavaScript checks, automation and governance standards.</li></ul><p><strong>Requirements</strong></p><ul><li>2–4 years as a data analyst, solutions engineer or data ops/integration analyst.</li><li>SQL, Python, JavaScript, Excel and relational databases.</li><li>Curious, pragmatic and patient with non-technical teammates.</li><li>US citizen or Green Card holder (no visa sponsorship).</li><li>5 days a week in the New York office.</li></ul><p><strong>Compensation:</strong> $100K – $135K base + 0.05% – 0.15% equity. Full-time, on-site in New York City.</p>]]></description>
+    <salary><![CDATA[$100K – $135K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Data Engineer (AI & Data Products)]]></title>
+    <date><![CDATA[Thu, 29 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[systemzero-senior-data-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-systemzero-senior-data-engineer.html]]></url>
+    <company><![CDATA[systemzero]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[GB]]></country>
+    <description><![CDATA[<p>systemzero is building an AI-native operating system for CFOs: autonomous agents that turn finance from backward-looking reporting into strategic intelligence. It's backed by HG Capital, Apax Partners, Silver Lake and Anthropic angels. You'll be a hands-on IC reporting to the CTO and will guide a core data team of four.</p><p><strong>Who can apply:</strong> Must live in London or Amsterdam and work UK/CET hours. Please don't apply from outside the UK or the Netherlands.</p><p><strong>What you'll do</strong></p><ul><li>Build and own production Python pipelines into a graph and vector store (SurrealDB).</li><li>Add data providers and connectors such as Snowflake, ERP, accounting and billing systems.</li><li>Design the data ontology so AI retrieval and agent reasoning stay accurate.</li><li>Own your work end to end across data, DevOps and infrastructure.</li><li>Move toward a 60/40 split between IC work and mentoring the data team.</li></ul><p><strong>Requirements</strong></p><ul><li>6–10 years in data engineering, ML systems or backend-heavy engineering.</li><li>Python, TypeScript, SQL, PostgreSQL, Snowflake, GCP, graph databases, vector stores and RAG.</li><li>Based in London or Amsterdam and working UK/CET hours.</li><li>Able to meet the team on-site about every 2 months in New York, London or Amsterdam.</li></ul><p><strong>Compensation:</strong> £90K – £110K base, possibly higher for exceptional candidates, plus competitive equity and benefits. Full-time, remote from London or Amsterdam.</p>]]></description>
+    <salary><![CDATA[£90K – £110K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Forward Deployed Software Engineer, US Government]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[palantir-forward-deployed-software-engineer-us-government]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-palantir-forward-deployed-software-engineer-us-government.html]]></url>
+    <company><![CDATA[Palantir]]></company>
+    <city><![CDATA[Washington]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Palantir (NYSE: PLTR) builds the data and AI platforms that governments, defense organizations and the world's largest companies rely on for their most critical work. Forward Deployed Software Engineers work directly with customers to understand their biggest problems, then design and build solutions that use data against them, on projects followed directly by Palantir's CTO.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only. Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Work directly with customers to understand their problems and implement data-driven solutions.</li><li>Design and implement technical solutions and code custom web applications.</li><li>Work in small teams with minimal supervision and own high-stakes projects end to end.</li><li>Discuss architecture with fellow engineers and interact with customer executives.</li><li>Help set strategy for the team.</li></ul><p><strong>Requirements</strong></p><ul><li>1+ years of experience with a strong computer science or software engineering background.</li><li>US citizen or Green Card holder (no visa sponsorship).</li><li>Able to work on-site in Washington, DC or New York City.</li></ul><p><strong>Compensation:</strong> $135K – $200K base. Full-time, on-site in Washington, DC or New York City.</p>]]></description>
+    <salary><![CDATA[$135K – $200K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Software Engineer, Autonomous Systems]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[palantir-senior-software-engineer-autonomous-systems]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-palantir-senior-software-engineer-autonomous-systems.html]]></url>
+    <company><![CDATA[Palantir]]></company>
+    <city><![CDATA[Seattle]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Palantir (NYSE: PLTR) builds the data and AI platforms that governments, defense organizations and the world's largest companies rely on for their most critical work. This customer-facing product team builds Command and Control (C2) and agentic autonomy software that lets users manage robotic and autonomous systems, combining sensors, unmanned vehicles, LLMs and real-time decision making.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only. Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Design, build and optimize software for mission-critical autonomous systems.</li><li>Develop algorithms that process data from many sensors for real-time state estimation and threat detection.</li><li>Build LLM and AI-driven systems that assess threats and make fast decisions.</li><li>Integrate with sensors, effectors and autonomous platforms.</li><li>Engineer scalable, reliable and fail-safe systems for high-stakes environments.</li></ul><p><strong>Requirements</strong></p><ul><li>4–10 years of backend or service-layer software engineering, currently hands-on.</li><li>Experience with Rust, Python, C++ or Java.</li><li>US citizen or Green Card holder (no visa sponsorship).</li><li>Hybrid, with travel to client sites.</li></ul><p><strong>Compensation:</strong> $145K – $275K base + RSUs. Hybrid in Seattle, New York, Washington DC or Palo Alto.</p>]]></description>
+    <salary><![CDATA[$145K – $275K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Forward Deployed Software Engineer, Edge Autonomous Systems]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[palantir-forward-deployed-software-engineer-edge-autonomous-systems]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-palantir-forward-deployed-software-engineer-edge-autonomous-systems.html]]></url>
+    <company><![CDATA[Palantir]]></company>
+    <city><![CDATA[Washington]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Palantir (NYSE: PLTR) builds the data and AI platforms that governments, defense organizations and the world's largest companies rely on for their most critical work. This newly formed team builds software that runs on compute-constrained, intermittently connected systems such as drones and other unmanned vehicles, and connects it to Palantir's platform, AI and data fusion services.</p><p><strong>Who can apply:</strong> US citizens living in the US only (US security clearance required). Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Build, test, integrate and deploy mission-critical autonomy software for autonomous systems.</li><li>Connect autonomy solutions to Palantir's platform, AI, sensor and data fusion services.</li><li>Make things work in the field: deployment, integration, security, testing and flight testing.</li><li>Partner with experts in sensing, AI, systems engineering, hardware and robotics.</li></ul><p><strong>Requirements</strong></p><ul><li>2+ years of professional software development experience.</li><li>2+ years integrating and deploying software to edge or autonomous systems (drones, self-driving, edge servers).</li><li>Strong skills in Rust, Python, Go or similar, plus Linux, CI, networking and security.</li><li>Active US security clearance, or eligible and willing to obtain one.</li><li>Able to travel 25–75%.</li></ul><p><strong>Compensation:</strong> $135K – $200K base + RSUs. Hybrid in Washington, DC.</p>]]></description>
+    <salary><![CDATA[$135K – $200K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Front-End Engineer, Defense]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[palantir-front-end-engineer-defense]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-palantir-front-end-engineer-defense.html]]></url>
+    <company><![CDATA[Palantir]]></company>
+    <city><![CDATA[Washington]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Palantir (NYSE: PLTR) builds the data and AI platforms that governments, defense organizations and the world's largest companies rely on for their most critical work. You'll join Gotham, Palantir's defense product, building data-intensive interfaces such as geospatial workflows and real-time collaboration tools that make complex work simple for non-technical users.</p><p><strong>Who can apply:</strong> US citizens living in the US only (US security clearance required). Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Build high-scale, collaborative geospatial workflows.</li><li>Design frameworks that power complex workflows across applications in one workspace.</li><li>Develop real-time collaborative tooling and data-analysis solutions.</li><li>Own the APIs and schemas behind your frontend code, working with backend engineers.</li></ul><p><strong>Requirements</strong></p><ul><li>2–5 years of frontend or full-stack engineering experience.</li><li>Strong JavaScript, TypeScript and React skills.</li><li>Bachelor's in Computer Science or equivalent understanding of algorithms and systems design.</li><li>Eligible and willing to obtain a US security clearance (Palantir sponsors the process).</li></ul><p><strong>Compensation:</strong> $135K – $200K base + RSUs, plus relocation assistance. On-site 4–5 days a week in Washington, DC.</p>]]></description>
+    <salary><![CDATA[$135K – $200K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Forward Deployed Infrastructure Engineer, UK Government]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[palantir-forward-deployed-infrastructure-engineer-uk-government]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-palantir-forward-deployed-infrastructure-engineer-uk-government.html]]></url>
+    <company><![CDATA[Palantir]]></company>
+    <city><![CDATA[London]]></city>
+    <country><![CDATA[GB]]></country>
+    <description><![CDATA[<p>Palantir (NYSE: PLTR) builds the data and AI platforms that governments, defense organizations and the world's largest companies rely on for their most critical work. On the UK Government team, you'll build, operate and maintain the high-performance services behind Palantir's platforms, and lead automation using Palantir's own Foundry and Apollo platforms and LLM tools.</p><p><strong>Who can apply:</strong> Must live in the UK and hold active UK DV clearance. Please don't apply from outside the UK.</p><p><strong>What you'll do</strong></p><ul><li>Build, operate and maintain reliable, scalable services for UK Government deployments.</li><li>Own production reliability: monitoring, alerting, configuration management and upgrades.</li><li>Deploy new Palantir products and migrate to the latest infrastructure.</li><li>Lead automation to reduce manual operations, using Foundry, Apollo and AI tools.</li><li>Join an on-call rotation about every 5–6 weeks.</li></ul><p><strong>Requirements</strong></p><ul><li>1–5 years in infrastructure engineering, SRE or a related field.</li><li>Hands-on experience running large-scale production systems; Kubernetes is a plus.</li><li>Active UK DV clearance already held, and sole British nationality.</li><li>Hybrid in London, with in-office work for classified tasks.</li></ul><p><strong>Compensation:</strong> £90K – £105K base + RSUs, plus relocation assistance. Hybrid in London.</p>]]></description>
+    <salary><![CDATA[£90K – £105K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Forward Deployed Infrastructure Engineer, US Government]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[palantir-forward-deployed-infrastructure-engineer-us-government]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-palantir-forward-deployed-infrastructure-engineer-us-government.html]]></url>
+    <company><![CDATA[Palantir]]></company>
+    <city><![CDATA[Honolulu]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Palantir (NYSE: PLTR) builds the data and AI platforms that governments, defense organizations and the world's largest companies rely on for their most critical work. Baseline is Palantir's forward deployed infrastructure team of about 90 engineers worldwide, keeping operations seamless across every environment, from on-prem to cloud and from commercial to government networks.</p><p><strong>Who can apply:</strong> US citizens living in the US only (US security clearance required). Please don't apply from outside the US.</p><p><strong>What you'll do</strong></p><ul><li>Support and operate Palantir software: monitoring, alerting, configuration and upgrades.</li><li>Deploy new Palantir products and migrate to the latest infrastructure.</li><li>Debug and optimize services for long-term reliability and scale.</li><li>Automate workflows and runbooks, including with LLM and AI tools.</li><li>Join the support on-call schedule.</li></ul><p><strong>Requirements</strong></p><ul><li>1–3 years in infrastructure engineering, SRE or a related field.</li><li>Experience with Java, Kubernetes, Terraform, Ansible, Linux and cloud (AWS, Azure, GCP).</li><li>US citizen or permanent resident with an active Top Secret clearance.</li><li>Based in Honolulu, with travel up to 50%.</li></ul><p><strong>Compensation:</strong> $135K – $200K base + equity, with relocation sponsored. Hybrid in Honolulu.</p>]]></description>
+    <salary><![CDATA[$135K – $200K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Founding GTM]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[ancep-founding-gtm]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-ancep-founding-gtm.html]]></url>
+    <company><![CDATA[Ancep]]></company>
+    <city><![CDATA[London]]></city>
+    <country><![CDATA[GB]]></country>
+    <description><![CDATA[<p>Ancep is building the AI agent layer for the $3T commercial insurance market, automating submission intake, data extraction, insurer outreach and quote comparison for brokers. Still in stealth, it already works with 3 of the top 10 global brokers and is backed by top European and American investors. As Founding GTM you'll be the first commercial hire, selling hands-on while building the go-to-market motion from scratch alongside the founders.</p><p><strong>What you'll do</strong></p><ul><li>Own the full sales cycle, from outbound prospecting to closing deals with insurance brokers.</li><li>Build the go-to-market motion and sales playbook from scratch.</li><li>Work directly with the founders to shape how the product goes to market.</li><li>Act as a player-coach: carry a quota now and build the sales team as the company grows.</li></ul><p><strong>Requirements</strong></p><ul><li>1–5 years of full-cycle sales experience at an early-stage company, selling to large enterprises.</li><li>Proven track record of building real revenue with high ownership.</li><li>Excited to build from scratch without a playbook; insurance knowledge is not required.</li><li>Able to work 5 days a week in the London office (visa sponsorship and relocation available).</li></ul><p><strong>Compensation:</strong> £70K – £140K base + commission + meaningful equity + relocation. On-site 5 days a week in London. Open to visa sponsorship.</p>]]></description>
+    <salary><![CDATA[£70K – £140K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Enterprise Account Executive]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[fireworks-ai-enterprise-account-executive]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-fireworks-ai-enterprise-account-executive.html]]></url>
+    <company><![CDATA[Fireworks AI]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Fireworks AI is building the future of generative AI infrastructure, independently benchmarked as the fastest LLM inference platform. Founded by veterans of Meta PyTorch and Google Vertex AI, it's a $4B Series C company backed by Benchmark, Sequoia and Lightspeed. As Enterprise Account Executive you'll drive new business with large enterprises and technical buyers.</p><p><strong>What you'll do</strong></p><ul><li>Develop and execute a sales strategy within targeted enterprise accounts.</li><li>Own the full sales cycle, from prospecting to procurement.</li><li>Generate pipeline and work with channel and alliance partners to close deals.</li><li>Forecast accurately and keep a high level of customer satisfaction.</li><li>Travel for client visits and presentations as needed.</li></ul><p><strong>Requirements</strong></p><ul><li>6+ years of SaaS sales, including 3+ years selling to technical audiences.</li><li>Track record of closing six-figure deals in large, complex enterprise accounts.</li><li>Experience selling technical or infrastructure products (APIs, SDKs, DevOps) is a strong plus.</li><li>Based in the US; US citizen or Green Card holder (no visa sponsorship).</li></ul><p><strong>Compensation:</strong> $155K – $175K base, $310K – $350K OTE (50/50 split) with no commission cap, plus meaningful equity. Fully remote anywhere in the US.</p>]]></description>
+    <salary><![CDATA[$155K – $175K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Enterprise Sales Manager, Housing]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[elise-ai-senior-enterprise-sales-manager]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-elise-ai-senior-enterprise-sales-manager.html]]></url>
+    <company><![CDATA[EliseAI]]></company>
+    <city><![CDATA[Austin]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>EliseAI builds agentic AI for housing and healthcare and powers 1 in 6 apartments in the US. Backed by a $250M Series E led by Andreessen Horowitz, its ARR has grown to $200M. You'll build and lead the new Texas office from the ground up, closing enterprise deals yourself while hiring and developing a team, with a clear path to second-line leadership within 12 months.</p><p><strong>What you'll do</strong></p><ul><li>Personally close enterprise deals with regional and national property management companies.</li><li>Stand up the new Texas office: help find the space, hire AEs and grow the regional presence.</li><li>Lead, mentor and manage enterprise AEs across the full sales cycle.</li><li>Partner with Customer Success, Product and Marketing on new business and expansion.</li><li>Run pipeline reviews and forecasting, and represent EliseAI at industry conferences.</li></ul><p><strong>Requirements</strong></p><ul><li>7+ years of B2B SaaS enterprise sales, including 3+ years as an enterprise AE.</li><li>2–3+ years managing AEs at companies with fewer than 1,000 employees.</li><li>Experience with challenger-style, full-cycle enterprise selling.</li><li>Able to work on-site in Austin 4 days a week (open to visa transfers).</li></ul><p><strong>Compensation:</strong> $210K – $240K base, $350K – $400K OTE (60/40 split) + competitive equity. On-site 4 days a week in Austin, Texas.</p>]]></description>
+    <salary><![CDATA[$210K – $240K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Head of Product Marketing]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[candex-head-of-product-marketing]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-candex-head-of-product-marketing.html]]></url>
+    <company><![CDATA[Candex]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Candex is a fast-growing global B2B fintech that makes enterprise purchasing fast and simple, serving Global 2,000 companies in almost 50 countries. It has raised $130M+ from investors including Goldman Sachs, JP Morgan and American Express. As the first Product Marketing hire, reporting directly to the CEO, you'll build the entire function from scratch.</p><p><strong>What you'll do</strong></p><ul><li>Build the product marketing function: processes, launch frameworks and operating cadence.</li><li>Develop clear positioning and messaging that turns complex fintech into simple value propositions.</li><li>Own go-to-market for new products, partnerships and country launches.</li><li>Equip sales and customer success with battle cards, pitch decks and competitive intel.</li><li>Run customer interviews and win/loss analysis, and set KPIs that tie marketing to business impact.</li></ul><p><strong>Requirements</strong></p><ul><li>5–15 years of experience in product marketing or product management.</li><li>Experience building marketing functions or launch frameworks.</li><li>Able to tailor messaging by segment, industry, region and buyer persona.</li><li>Based in or near Miami, Boston or New York; travel 4–5 times a year (visa sponsorship available).</li></ul><p><strong>Compensation:</strong> $210K – $250K base + annual bonus + equity, with medical, dental, vision, 401K and unlimited PTO. Remote on East Coast hours.</p>]]></description>
+    <salary><![CDATA[$210K – $250K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Sr. Enterprise Account Executive]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pointr-senior-enterprise-account-executive]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-pointr-senior-enterprise-account-executive.html]]></url>
+    <company><![CDATA[Pointr]]></company>
+    <city><![CDATA[Boston]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Pointr is a global leader in indoor location technology, live in thousands of venues and powering geolocation for 25 million people, with customers like UCHealth and the U.S. Department of Homeland Security. You'll join the growing healthcare vertical to drive new-business growth into hospitals and health systems, owning complex, multi-stakeholder sales cycles.</p><p><strong>What you'll do</strong></p><ul><li>Run complex enterprise sales cycles into hospitals, from discovery through RFP, negotiation and close.</li><li>Manage existing enterprise health system accounts to drive renewals and expansions.</li><li>Generate new pipeline through outbound, your network, partners and industry conferences.</li><li>Navigate large buying committees across IT, facilities, clinical leadership and the C-suite.</li><li>Work closely with Sales Engineering, Customer Success, Marketing and partners.</li></ul><p><strong>Requirements</strong></p><ul><li>5+ years of complex B2B enterprise sales with a record of closing large deals.</li><li>Healthcare or healthcare IT sales experience strongly preferred.</li><li>Experience with competitive RFPs and methodologies like MEDDIC or MEDDPICC.</li><li>Based in Boston (in office 2 days a week); US citizen or Green Card holder.</li></ul><p><strong>Compensation:</strong> $115K – $140K base, $230K – $280K OTE + stock options, uncapped renewal commission, 401(k), 18 days PTO and paid parental leave.</p>]]></description>
+    <salary><![CDATA[$115K – $140K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Account Executive]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[govdash-account-executive]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-govdash-account-executive.html]]></url>
+    <company><![CDATA[GovDash]]></company>
+    <city><![CDATA[Washington]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>GovDash helps businesses win and deliver government contracts with a secure AI platform covering the full contracting lifecycle. In 2025 alone its customers won more than $5B in contracts, and the company has raised $42M. They're hiring 2–3 Account Executives to round out a sales team of seven.</p><p><strong>What you'll do</strong></p><ul><li>Run the full sales cycle from discovery calls to closing deals with government contractors.</li><li>Become an expert on the GovDash platform and deliver compelling demos.</li><li>Build relationships with C-level executives and heads of growth.</li><li>Work with the engagement team to onboard new customers.</li><li>Share customer feedback to help shape the product.</li></ul><p><strong>Requirements</strong></p><ul><li>3–5 years in full-cycle B2B software sales (minimum 2 years as an AE).</li><li>Experience demoing a complex product.</li><li>Curious and quick to learn the government procurement space.</li><li>4 days in office in Arlington, VA or New York; US citizen or Green Card holder.</li></ul><p><strong>Compensation:</strong> $120K – $150K base, $240K – $300K OTE + competitive equity. Relocation support available.</p>]]></description>
+    <salary><![CDATA[$120K – $150K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Account Executive]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[timescapes-account-executive]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-timescapes-account-executive.html]]></url>
+    <company><![CDATA[Timescapes]]></company>
+    <city><![CDATA[Dallas]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Timescapes provides construction cameras and software for real-time visual progress tracking, used on 400+ projects across Australia, Canada, New Zealand and the US, with customers like NASA and Hensel Phelps. You'll own and build the greenfield Texas territory, helping scale US revenue from ~$600K to $2–3M+ within a year.</p><p><strong>What you'll do</strong></p><ul><li>Run full-cycle sales: self-source, prospect and close new logos among top general contractors.</li><li>Build relationships in the field through job site visits, associations and lunch-and-learns.</li><li>Make 50–100 outbound calls a day, supported by a BDR and marketing team.</li><li>Manage pipeline in HubSpot and drive 5–7 closed deals a month.</li><li>Work with Marketing and Customer Success to grow accounts over time.</li></ul><p><strong>Requirements</strong></p><ul><li>4–8 years of full-cycle B2B SaaS sales.</li><li>Experience selling into construction (Tier 1 and Tier 2 general contractors).</li><li>An existing network in the construction industry is a strong plus.</li><li>Hybrid in Plano/Dallas, TX; US citizen or Green Card holder.</li></ul><p><strong>Compensation:</strong> $125K – $140K base, $250K – $280K OTE (50/50 split) + competitive equity. Top performers are exceeding 150% attainment.</p>]]></description>
+    <salary><![CDATA[$125K – $140K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Account Executive]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[garage-account-executive]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-garage-account-executive.html]]></url>
+    <company><![CDATA[Garage]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Garage is the AI-powered marketplace transforming how America's essential assets, like fire trucks and specialty vehicles, are bought and sold. Backed by Y Combinator and $18M in funding, it has expanded to all 50 states and grown revenue more than 10x in under a year. They're hiring multiple Account Executives.</p><p><strong>What you'll do</strong></p><ul><li>Own the full sales cycle, from sourcing and discovery to closing new logos.</li><li>Balance inbound and outbound to build your own pipeline.</li><li>Travel to meet customers in person and build strong relationships.</li><li>Represent Garage at conferences and with customers like fire chiefs and fleet managers.</li><li>Manage a growing book of business with discipline in your CRM.</li></ul><p><strong>Requirements</strong></p><ul><li>2–6 years as a full-cycle Account Executive, ideally at an early-stage startup.</li><li>Competitive, self-driven and comfortable with ambiguity.</li><li>Experience selling to government municipalities is a strong plus.</li><li>Based in Philadelphia, Houston, St. Louis, Nashville, NYC, Charlotte or Miami; US citizen or Green Card holder.</li></ul><p><strong>Compensation:</strong> $93K – $118K base, $186K – $236K OTE + competitive equity. Fully remote within the listed cities.</p>]]></description>
+    <salary><![CDATA[$93K – $118K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Account Executive]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[first-resonance-senior-account-executive]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-first-resonance-senior-account-executive.html]]></url>
+    <company><![CDATA[First Resonance]]></company>
+    <city><![CDATA[Los Angeles]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>First Resonance builds ION Factory OS, the leading operating system for modern manufacturers, used by teams building NASA's lunar lander, eVTOLs, micro nuclear reactors and more. The Series A company has raised $34M+. You'll join a small sales team selling to the most ambitious hardware companies, in a hunting role reporting directly to the COO.</p><p><strong>What you'll do</strong></p><ul><li>Own the full sales cycle for enterprise deals from $50K to several hundred thousand in ACV.</li><li>Hunt for new business, mainly through outbound.</li><li>Sell a technical, AI-native product to engineers, operators and manufacturing leaders.</li><li>Translate MES/PLM/ERP value into business outcomes for C-suite stakeholders.</li><li>Share market insights with product and engineering.</li></ul><p><strong>Requirements</strong></p><ul><li>5+ years of closing experience in B2B sales.</li><li>Direct experience selling MES, PLM or ERP software, ideally to manufacturers.</li><li>Comfortable in a ~50-person startup with ambiguity and a fast pace.</li><li>Based in Los Angeles, in office 3–4 days a week; US citizen or Green Card holder.</li></ul><p><strong>Compensation:</strong> $100K – $140K base, $200K – $280K OTE + competitive equity. Hybrid in El Segundo, Los Angeles.</p>]]></description>
+    <salary><![CDATA[$100K – $140K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Applied AI Engineer]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[ifs-senior-applied-ai-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-ifs-senior-applied-ai-engineer.html]]></url>
+    <company><![CDATA[IFS]]></company>
+    <city><![CDATA[UK]]></city>
+    <country><![CDATA[GB]]></country>
+    <description><![CDATA[<p>IFS is a global leader in Industrial AI software with 7,000+ employees in 80 countries. It is building a small moonshot team inside R&amp;D, the AI Software Factory, to change how software gets built. The first project is an intelligence layer on top of IFS's enterprise databases, not a chatbot bolted on. As the senior engineer, you set the engineering rigor for the team and own the architecture and evaluation approach.</p><p><strong>What you'll do</strong></p><ul><li>Ship the first product: build the AI intelligence layer on IFS's enterprise data with a small, flat team.</li><li>Own the architecture: decide how work is split across agents, how concurrent changes are isolated and merged, and how results are verified.</li><li>Design the evals, regression tests and drift checks that show whether an agentic workflow is safe to expand.</li><li>Stay hands-on: write orchestration, evaluation and codebase-analysis components and wire them into real codebases and CI.</li><li>Review hard technical calls and guide engineers building on your architecture (no direct reports).</li></ul><p><strong>Requirements</strong></p><ul><li>8+ years of production software engineering experience.</li><li>Hands-on experience building with LLM agents or tool-using systems.</li><li>Strong background in distributed systems, CI/CD and system evaluation.</li><li>Tech stack: Agentic AI Systems, Distributed Systems, DAG Scheduling, Static Analysis, CI/CD.</li><li>Must already have the right to work in the UK or the UAE (no visa sponsorship).</li></ul><p><strong>Compensation:</strong> €100K – €160K base, based on experience and qualifications. Hybrid role based in the UK or Dubai.</p>]]></description>
+    <salary><![CDATA[€100K – €160K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[AI Applied Engineer]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[dwelly-ai-applied-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-dwelly-ai-applied-engineer.html]]></url>
+    <company><![CDATA[Dwelly]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[GB]]></country>
+    <description><![CDATA[<p>Dwelly is a UK-based, AI-first lettings and property management platform that grows by acquiring traditional letting agencies and moving them onto its technology within two months. Backed by $263M in funding, it aims to lead the £100 billion UK lettings market. As AI Applied Engineer you'll unify existing AI flows, build a robust evaluation layer and scale the agentic infrastructure for future acquisitions.</p><p><strong>What you'll do</strong></p><ul><li>Scale Dwelly's AI engine that automates tenant finding, property management and finance.</li><li>Unify existing AI flows into one consistent, reliable system.</li><li>Build a robust evaluation layer for AI and agentic workflows.</li><li>Scale the agentic infrastructure to support new agency acquisitions.</li><li>Work in a small cross-functional squad with high autonomy and ownership.</li></ul><p><strong>Requirements</strong></p><ul><li>3+ years of software engineering experience.</li><li>Experience with LLM orchestration and agentic workflows.</li><li>Tech stack: TypeScript, Node.js, PostgreSQL, Python.</li><li>Based in the UK or Europe and able to work UK hours (preferred: London, Spain, Portugal, Poland).</li><li>Must already have the right to work in your country (no visa sponsorship).</li></ul><p><strong>Compensation:</strong> €100K – €150K base + competitive equity. Fully remote across UK and European time zones, with occasional in-person team gatherings.</p>]]></description>
+    <salary><![CDATA[€100K – €150K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[AI Engineer]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[altas-ai-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-altas-ai-engineer.html]]></url>
+    <company><![CDATA[Altas Partners]]></company>
+    <city><![CDATA[Toronto]]></city>
+    <country><![CDATA[CA]]></country>
+    <description><![CDATA[<p>Altas Partners is a North American private equity firm managing more than $10 billion, with offices in Toronto and New York. The AI Engineer will build AI tools, apps and systems for the investment team and portfolio companies, working directly with senior investors and the AI &amp; Advanced Analytics team. It's an ideal role for a recent graduate or early-career engineer who combines strong technical skills with business judgment.</p><p><strong>What you'll do</strong></p><ul><li>Build and ship AI agents, apps and systems that help the investment team source and diligence companies.</li><li>Partner with portfolio company teams to deliver AI solutions that improve how those businesses operate.</li><li>Take work from prototype to production: write, test, deploy and support it.</li><li>Build AI search over the firm's knowledge base, plus the data pipelines behind it.</li><li>Build evaluation infrastructure to keep AI systems accurate, reliable and cost-effective.</li></ul><p><strong>Requirements</strong></p><ul><li>1–5 years of hands-on software engineering or applied AI experience.</li><li>Degree in Computer Science, Engineering, Mathematics, Statistics or a related field.</li><li>Experience building on LLM APIs: agents, tool use, retrieval and evaluations.</li><li>Strong Python and SQL; TypeScript, React, AWS/GCP or Snowflake are a plus.</li><li>Able to work in Toronto 4 days a week (open to visa transfers, e.g. OPT or H-1B transfers).</li></ul><p><strong>Compensation:</strong> CA$100K – CA$150K base + discretionary bonus. On-site in Toronto Monday to Thursday, remote Fridays.</p>]]></description>
+    <salary><![CDATA[CA$100K – CA$150K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Forward Deployed ML Engineer]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[protege-forward-deployed-ml-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-protege-forward-deployed-ml-engineer.html]]></url>
+    <company><![CDATA[Protege]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Protege is building the infrastructure layer for AI training data, connecting data holders with vetted AI companies. Backed by $65M from Andreessen Horowitz, CRV and others, it hit its entire 2026 goal by June. As the first Forward Deployed ML Engineer on the Benchmarks &amp; Evaluations team, you'll work with the GM, researchers and frontier AI customers to build the technical foundation for AI model evaluation.</p><p><strong>What you'll do</strong></p><ul><li>Partner with the GM and early customers to design and build benchmarks and evals across domains and modalities.</li><li>Build and own backend infrastructure: data pipelines, execution environments, storage and orchestration.</li><li>Stand up sandboxed environments for agentic evals with tools, code execution and multi-step tasks.</li><li>Own the engineering side of customer engagements end to end.</li><li>Spot repeatable eval patterns and infrastructure gaps that become product opportunities.</li></ul><p><strong>Requirements</strong></p><ul><li>4–8 years of engineering experience with hands-on ML model evaluation work.</li><li>Ownership of backend and infrastructure (data pipelines, execution environments).</li><li>Experience building benchmarks, evals or human data pipelines for LLMs.</li><li>Strong written communication for customer-facing work.</li><li>Must be US-based and a US citizen or Green Card holder (no visa sponsorship).</li></ul><p><strong>Compensation:</strong> $170K – $270K base + competitive equity. Fully remote within the United States.</p>]]></description>
+    <salary><![CDATA[$170K – $270K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Staff Product Engineer]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[blacksmith-staff-product-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-blacksmith-staff-product-engineer.html]]></url>
+    <company><![CDATA[Blacksmith]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Blacksmith runs GitHub Actions faster and cheaper on its own global fleet of bare-metal machines, serving 3,000+ companies and growing fast (~$10M ARR in under 2 years, $58.5M raised from GV and Peak XV). As Staff Product Engineer you will own the architecture of new products that don't exist in the industry yet, the next generation of AI-native developer tooling, as a hands-on technical leader.</p><p><strong>What you'll do</strong></p><ul><li>Own and drive the architectural direction for new AI-native developer tooling products.</li><li>Translate business and product strategy into long-term technical roadmaps and execution plans.</li><li>Drive new products from 0 to 1 and own production outcomes: reliability, performance and operational excellence.</li><li>Mentor senior engineers and act as a force multiplier across the team.</li><li>Operate in ambiguous problem spaces where both the problem and the solution need to be defined.</li></ul><p><strong>Requirements</strong></p><ul><li>7–20 years of experience as a full-stack engineer owning 0-to-1 product builds end to end.</li><li>Track record of leading the technical direction of a product from an early stage to an industry-recognized customer experience.</li><li>Power user of coding agents and agentic development workflows.</li><li>Strong communication skills with engineers, leadership and non-technical stakeholders.</li><li>Tech stack: TypeScript, React.</li></ul><p><strong>Compensation:</strong> $280K – $380K base + significant early-stage equity. In-person 5 days a week in New York City (Flatiron). Open to visa transfers (e.g. H-1B, OPT); no new visas.</p>]]></description>
+    <salary><![CDATA[$280K – $380K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Tooling Engineer]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[castelion-tooling-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-castelion-tooling-engineer.html]]></url>
+    <company><![CDATA[Castelion]]></company>
+    <city><![CDATA[Torrance]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Castelion is a modern aerospace and defense production company, backed by Andreessen Horowitz, Lightspeed and General Catalyst, scaling from prototypes to production. As a Tooling Engineer you will design the jigs, fixtures, molds and handling assemblies that safely move and process large batches of energetic materials for solid rocket motor production.</p><p><strong>What you'll do</strong></p><ul><li>Design and develop large-scale tooling (jigs, fixtures, molds and handling assemblies) for heavy, hazardous materials.</li><li>Engineer solutions for temperature control and safe material movement between buildings.</li><li>Collaborate with manufacturing, design and production teams to meet cost, quality and delivery targets.</li><li>Lead tooling projects end to end, from concept to production floor, including FEA validation, tolerance stack-ups and DFM.</li><li>Mentor junior tooling engineers and technicians while meeting aerospace and defense standards.</li></ul><p><strong>Requirements</strong></p><ul><li>3–10 years of experience in tooling design for large-scale, heavy or hazardous hardware.</li><li>Strong engineering fundamentals and hands-on, high-stakes production experience.</li><li>Tools: CAD (SolidWorks / NX / CATIA), FEA, GD&amp;T, tolerance stack-up analysis.</li><li>Must be a US citizen or Green Card holder (no visa sponsorship).</li></ul><p><strong>Compensation:</strong> $140K – $200K base + competitive equity (may flex higher for exceptional candidates). 5 days on-site in Torrance, CA.</p>]]></description>
+    <salary><![CDATA[$140K – $200K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Full-Stack Software Engineer]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[retell-ai-full-stack-software-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-retell-ai-full-stack-software-engineer.html]]></url>
+    <company><![CDATA[Retell AI]]></company>
+    <city><![CDATA[Redwood City]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Retell AI is reimagining the call center with voice AI agents used by thousands of companies, including CBS and Lenovo. Backed by Y Combinator and growing from $5M to $80M ARR with a ~50-person team. As a Senior Full-Stack Engineer you'll work across React, TypeScript and Node.js, from prompt orchestration and telephony integrations to dashboards and analytics.</p><p><strong>What you'll do</strong></p><ul><li>Develop core features such as prompt orchestration, dashboards, analytics and telephony integrations.</li><li>Build scalable full-stack systems, from polished UIs to robust APIs and DevOps workflows.</li><li>Lead projects from architecture to production, owning coding, deployment and iteration.</li><li>Create intuitive interfaces and APIs that let customers activate in hours.</li><li>Support customer onboarding and turn feedback into product improvements.</li></ul><p><strong>Requirements</strong></p><ul><li>5+ years as a balanced (50:50) full-stack engineer at start-ups or in big tech.</li><li>Strong skills in React, Node.js, JavaScript/TypeScript, Python and AWS.</li><li>Comfortable in a fast, high-ownership, in-office startup environment.</li></ul><p><strong>Compensation:</strong> $215K – $290K + very competitive equity. In person 5 days a week in Redwood City, CA. Open to visa transfers and new sponsorships (H-1B, TN); can support visa and relocation for the US, Canada, Australia or Singapore.</p>]]></description>
+    <salary><![CDATA[$215K – $290K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Software Engineer]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[apollo-senior-software-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-apollo-senior-software-engineer.html]]></url>
+    <company><![CDATA[Apollo.io]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Apollo.io is the AI-powered go-to-market platform trusted by 500,000+ companies, combining the largest B2B contact database with agentic sales and marketing tools. The company is profitable and rebuilding its product around AI and agents. You'll own significant systems end to end with a high-bar, AI-native engineering team.</p><p><strong>What you'll do</strong></p><ul><li>Own significant systems and features end to end, from design through production and operation.</li><li>Build and operate large-scale distributed systems, combining the right technologies (Kafka, databases, etc.).</li><li>Break down hard, ambiguous problems and ship them with clear accountability for reliability, performance and cost.</li><li>Build AI-native agent systems used by hundreds of thousands of people worldwide.</li></ul><p><strong>Requirements</strong></p><ul><li>5–8 years in backend / full-stack engineering building large-scale distributed systems.</li><li>Experience operating systems at scale and choosing the right tools for the job.</li><li>Comfortable with AI-assisted development as a core part of your workflow.</li><li>Tech stack: React, Ruby on Rails, Python, MongoDB, Elasticsearch, Kubernetes, Docker, Terraform, GCP.</li></ul><p><strong>Compensation:</strong> $170K – $311K base (San Francisco) + 15% target bonus + competitive equity. Hybrid, 3 days in office. Open to visa transfers (e.g. H-1B, OPT).</p>]]></description>
+    <salary><![CDATA[$170K – $311K + bonus]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Head of Marketing]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[genesis-computing-head-of-marketing]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-genesis-computing-head-of-marketing.html]]></url>
+    <company><![CDATA[Genesis Computing]]></company>
+    <city><![CDATA[New York]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Genesis Computing builds autonomous AI data agents for enterprise data engineering teams, founded by early Snowflake employees. As Head of Marketing you'll own positioning, product launches, content, sales enablement and demand generation, using AI tools to scale a lean, high-impact marketing function.</p><p><strong>What you'll do</strong></p><ul><li>Build and lead the marketing function and hire the team as the company grows.</li><li>Own a clear, differentiated positioning and messaging for technical and executive buyers.</li><li>Lead product marketing: launches, competitive analysis, customer research and use cases.</li><li>Enable enterprise sales with presentations, solution briefs, battlecards and demo narratives.</li><li>Lead content, customer proof and demand generation across email, webinars, partners and events.</li><li>Build AI-powered marketing workflows (e.g. Claude) and own the marketing plan, budget and results.</li></ul><p><strong>Requirements</strong></p><ul><li>6+ years in product marketing for a technical B2B company.</li><li>Hands-on leader who sets strategy and stays close to execution.</li><li>Practical experience using AI to improve marketing execution.</li><li>Based in or near New York City; must be a US citizen or Green Card holder.</li></ul><p><strong>Compensation:</strong> $190K – $220K. Hybrid in New York City (2–3 days in office). No visa sponsorship.</p>]]></description>
+    <salary><![CDATA[$190K – $220K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Solutions Engineer]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[workos-solutions-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-workos-solutions-engineer.html]]></url>
+    <company><![CDATA[WorkOS]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>WorkOS builds developer tools and APIs that make companies enterprise ready: authentication, identity and access control, powering OpenAI, Cursor, Perplexity, Vercel and Plaid. Recently raised a $100M Series C at a $2B valuation. As a Solutions Engineer you'll sit between engineering, product and sales, and build prototypes, integrations and demos that unblock adoption.</p><p><strong>What you'll do</strong></p><ul><li>Work directly with customers to design and implement solutions using WorkOS products.</li><li>Own technical outcomes end to end: discovery, architecture, implementation and handoff.</li><li>Lead demos and proof-of-concepts, and partner with Account Executives on evaluations.</li><li>Identify blockers early and drive momentum without waiting for instructions.</li><li>Share structured feedback with Engineering and Product.</li></ul><p><strong>Requirements</strong></p><ul><li>3–6 years in pre-sales / solutions engineering at B2B SaaS startups (under 500 employees).</li><li>Strong engineering fundamentals and excellent communication.</li><li>Familiar with APIs, web stacks, SAML, SCIM, OAuth, SSO and AI coding tools.</li></ul><p><strong>Compensation:</strong> $160K – $200K base (OTE $200K – $250K, 80/20 split) + competitive equity. Hybrid, 2–3 days in office. Visa transfers case by case (no new H-1Bs).</p>]]></description>
+    <salary><![CDATA[$160K – $200K (OTE $250K)]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Product Design Lead, Design Systems]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[rippling-product-design-lead-design-systems]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-rippling-product-design-lead-design-systems.html]]></url>
+    <company><![CDATA[Rippling]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Rippling brings HR, IT and Finance into one unified platform and has raised $1.2B from top investors. As a Staff/Principal-level Product Design Lead for Design Systems, you'll make 40+ products feel like one seamless experience, including a growing mobile design system, with one of the strongest engineering investments in systems work in the industry.</p><p><strong>What you'll do</strong></p><ul><li>Design repeatable, scalable UX patterns and flows across all product verticals, including mobile.</li><li>Build AI-driven systems that define and measure good design.</li><li>Create AI prototyping tools and code-based checks for design standards.</li><li>Own platform-wide initiatives from strategy to hands-on prototyping (Codex, Cursor, Claude Code).</li><li>Partner with engineers, PMs and designers to raise the bar on craft.</li></ul><p><strong>Requirements</strong></p><ul><li>8+ years as a product designer or design systems designer.</li><li>AI-native systems thinker with excellent visual and mobile craft.</li><li>Comfortable setting vision and building the work yourself.</li><li>Based in the US, Canada or UK (in-office 3 days a week if near a Rippling office).</li></ul><p><strong>Compensation:</strong> $200K – $280K base + equity (RSUs) and benefits; final base depends on location tier and level. Location priority: NYC, Toronto, US East Coast remote, London, SF / Seattle, US remote. Open to visa transfers.</p>]]></description>
+    <salary><![CDATA[$200K – $280K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Product Design Lead]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[rippling-product-design-lead]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-rippling-product-design-lead.html]]></url>
+    <company><![CDATA[Rippling]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Rippling gives businesses one place to run HR, IT and Finance. As a Product Design Lead you'll own a critical product vertical, such as Spend Management (cards, bill pay, expenses, travel) or Platform (permissions, data visualization, shared surfaces), turning deep administrative complexity into simple, elegant workflows.</p><p><strong>What you'll do</strong></p><ul><li>Define the long-term roadmap and short-term tactics for your product area with cross-functional leaders.</li><li>Lead end-to-end design from research and wireframes to high-fidelity prototypes and QA.</li><li>Develop scalable design frameworks and primitives across the unified platform.</li><li>Partner with UX Research to turn user insights into product decisions.</li><li>Mentor designers and champion a consumer-grade quality bar for enterprise software.</li></ul><p><strong>Requirements</strong></p><ul><li>8+ years of product design experience shipping complex products (e.g. Fintech, SaaS, Enterprise).</li><li>Mix of high-calibre big tech and growth-stage (Series C+) startup experience.</li><li>Proven ability to simplify messy, ambiguous problems into build-ready specs.</li><li>Strong technical fluency, storytelling and communication.</li></ul><p><strong>Compensation:</strong> $165K – $289K + very competitive equity. Remote in the US, or hybrid in NY / SF / Seattle. Visa transfers are straightforward; most visas can be sponsored (adds 5–8 weeks to start).</p>]]></description>
+    <salary><![CDATA[$165K – $289K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Engineering Manager]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[airbnb-engineering-manager]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-airbnb-engineering-manager.html]]></url>
+    <company><![CDATA[Airbnb]]></company>
+    <city><![CDATA[Remote]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Airbnb is the global marketplace for unique stays and experiences. As an Engineering Manager you'll support the growth and scaling of the engineering organization, raise the technical quality and maturity of the platform, and coach engineers at all levels in a fast-paced, startup-like environment.</p><p><strong>What you'll do</strong></p><ul><li>Support the growth and scale of the engineering team.</li><li>Own the technical quality and maturity of the technology to deliver high-impact features.</li><li>Work closely with product and design to shape engineering roadmaps.</li><li>Hire, onboard, develop and retain engineers, fostering psychological safety and inclusion.</li><li>Partner with the head of engineering on technical best practices.</li></ul><p><strong>Requirements</strong></p><ul><li>4+ years of engineering leadership and 4+ years as a hands-on individual contributor.</li><li>Track record of delivering high-impact product features.</li><li>Comfortable in fast-paced, sometimes ambiguous environments; FinTech experience is a plus.</li><li>Tech stack: TypeScript, React, SQL, Python, LangChain.</li></ul><p><strong>Compensation:</strong> $230K – $240K + equity (0.1–0.5). Fully remote, with optional co-working in SF, Seattle, DC or NYC. Visa sponsorship available, including H-1B.</p>]]></description>
+    <salary><![CDATA[$230K – $240K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Member of Technical Staff – Research (AI Security)]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[general-analysis-member-of-technical-staff-research]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-general-analysis-member-of-technical-staff-research.html]]></url>
+    <company><![CDATA[General Analysis]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>General Analysis is an AI safety and security research lab building guardrails, red-teaming frameworks, evaluations and runtime protection for AI and coding agents. As a Research Engineer you'll own the training pipeline, from data generation and environment design to evaluations, using reinforcement learning on distributed systems.</p><p><strong>What you'll do</strong></p><ul><li>Post-train models using reinforcement learning, across the full training pipeline.</li><li>Design data generation, RL environments and evaluations.</li><li>Solve engineering challenges in distributed systems and low signal-to-noise settings.</li><li>Make algorithmic improvements and apply research to real-world AI security problems.</li></ul><p><strong>Requirements</strong></p><ul><li>0–5 years as a researcher or software engineer in AI security, benchmarking or RL.</li><li>Comfortable with PyTorch and RL / post-training infrastructure (e.g. Tinker, verl).</li><li>Academic or industry ML/RL experience; publications at NeurIPS, ICML, ICLR or similar are a plus.</li><li>High agency, strong technical acumen and clear thinking.</li></ul><p><strong>Compensation:</strong> $250K – $450K + 0.5–1.5% equity. 5 days in office in San Francisco. Open to H-1B transfer, TN and STEM OPT.</p>]]></description>
+    <salary><![CDATA[$250K – $450K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Partner]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[compound-law-senior-partner]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-compound-law-senior-partner.html]]></url>
+    <company><![CDATA[Compound Law]]></company>
+    <city><![CDATA[Berlin]]></city>
+    <country><![CDATA[DE]]></country>
+    <description><![CDATA[<p>Compound Law is an AI-native law firm focused on commercial and compliance work, with lawyers from Gleiss Lutz, Latham &amp; Watkins and Freshfields. As a founding Senior Partner you'll bring your portable book of business onto a proprietary agentic platform, act as the face of the firm and help shape its growth toward Series A.</p><p><strong>What you'll do</strong></p><ul><li>Bring your portable book of business onto the platform and keep serving your clients.</li><li>Act as the market-facing face of the firm through your PE/VC and mid-market network.</li><li>Cross-sell commercial and compliance services into your client base.</li><li>Work with the founders to move recurring matters onto the AI agent platform.</li></ul><p><strong>Requirements</strong></p><ul><li>12–20 years of German legal practice; German-qualified Volljurist.</li><li>Personally held, portable book of business of €1M+ (commercial, IT &amp; data, corporate/VC, regulatory).</li><li>Strong network into private equity, VC or mid-market companies.</li><li>Native-level German and professional English; Germany-based.</li></ul><p><strong>Compensation:</strong> €200K – €300K base + share of personal book revenue (OTE €400K – €700K) + 1–5% founding equity. In person in Berlin preferred.</p>]]></description>
+    <salary><![CDATA[€200K – €300K (OTE €700K)]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Solutions Engineer]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[fonoa-solutions-engineer-london]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-fonoa-solutions-engineer-london.html]]></url>
+    <company><![CDATA[Fonoa]]></company>
+    <city><![CDATA[London]]></city>
+    <country><![CDATA[GB]]></country>
+    <description><![CDATA[<p>Fonoa is the AI-first tax operating system covering the full indirect tax lifecycle (tax ID validation, tax determination, e-invoicing and returns) across 120+ countries, trusted by Canva, Netflix, Spotify, Uber and Zoom. As a Solutions Engineer you'll partner with sales to lead technical discovery and design high-value solutions for global enterprises.</p><p><strong>What you'll do</strong></p><ul><li>Lead technical discovery, scoping and solution design for enterprise prospects with Sales.</li><li>Deliver compelling product demos and technical presentations.</li><li>Drive discussions on API integration, gap analysis and implementation planning.</li><li>Become a deep expert in Fonoa's API suite (Lookup, Tax, Returns, E-Invoicing).</li><li>Support customers and ensure a smooth handoff from pre-sales to implementation.</li></ul><p><strong>Requirements</strong></p><ul><li>4–8 years as a solutions engineer or pre-sales engineer.</li><li>Strong with REST APIs, JSON, API documentation and SQL.</li><li>Able to work hybrid in London (UK work authorization; visa transfers only).</li></ul><p><strong>Compensation:</strong> £90K – £120K base + commission (OTE £128K – £171K) + equity + benefits. Hybrid, 2 days a week in London.</p>]]></description>
+    <salary><![CDATA[£90K – £120K (OTE £171K)]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[AI Engineer]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[distyl-ai-engineer-london]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-distyl-ai-engineer-london.html]]></url>
+    <company><![CDATA[Distyl]]></company>
+    <city><![CDATA[London]]></city>
+    <country><![CDATA[GB]]></country>
+    <description><![CDATA[<p>Distyl partners with the world's most ambitious enterprises to design and run their AI transformations, backed by Lightspeed, Khosla Ventures and Coatue. As an AI Engineer in the new London office you'll work directly with Fortune 500 customers to build and ship real-world AI applications, from intelligent agents to full-stack AI products.</p><p><strong>What you'll do</strong></p><ul><li>Build production AI systems with LLMs: prompt engineering, agent workflows, tool use and full-stack products.</li><li>Work directly with enterprise stakeholders to translate complex problems into AI solutions.</li><li>Design scalable architectures balancing performance, reliability, cost and maintainability.</li><li>Contribute to Distillery, Distyl's internal LLM application platform.</li><li>Build rigorous evaluation frameworks for accuracy, latency, cost, reliability and safety.</li></ul><p><strong>Requirements</strong></p><ul><li>5–15 years in software engineering, building production AI/LLM systems in Python.</li><li>Experience with LLMs, agents, RAG, prompt engineering, APIs and evaluation frameworks.</li><li>Able to work hybrid in London (visa transfers only).</li></ul><p><strong>Compensation:</strong> £150K – £200K base + meaningful equity + relocation up to $5K + comprehensive benefits. Hybrid, 3 days a week (Tue–Thu) in London.</p>]]></description>
+    <salary><![CDATA[£150K – £200K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Head of Partnerships]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[canadavisa-head-of-partnerships]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-canadavisa-head-of-partnerships.html]]></url>
+    <company><![CDATA[CanadaVisa]]></company>
+    <city><![CDATA[Toronto]]></city>
+    <country><![CDATA[CA]]></country>
+    <description><![CDATA[<p>CanadaVisa, together with Cohen Immigration Law, has helped newcomers from around the world come to Canada since 1994, and is becoming an AI-native legal technology company. As Head of Partnerships, reporting to the CEO, you'll grow the partnerships business, integrate partners into AI platforms used by millions and build the team that delivers it.</p><p><strong>What you'll do</strong></p><ul><li>Double partnership revenue in 3 years by deepening existing partnerships and landing new ones.</li><li>Integrate partner services into CanadaVisa's AI-native portals and tools, and own their adoption.</li><li>Build partner-sourced legal services revenue to a $1M run rate within 2 years.</li><li>Hire and lead a team of A-players with clear scorecards.</li><li>Keep existing partners happy and contractual commitments on track.</li></ul><p><strong>Requirements</strong></p><ul><li>3–7 years of partnerships experience with strong product intuition (integrating partners into a product).</li><li>Strong commercial judgment on partner economics.</li><li>Experience managing senior stakeholders at large institutions while moving fast in a startup-style team.</li><li>Based in Toronto with Canada work authorization (no visa sponsorship).</li></ul><p><strong>Compensation:</strong> CA$170K – CA$190K base + performance bonus (OTE CA$230K – CA$250K). Hybrid, about 3 days a week in Toronto.</p>]]></description>
+    <salary><![CDATA[CA$170K – CA$190K (OTE CA$250K)]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Lead Generation Specialist]]></title>
+    <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[lead-generation-specialist]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-lead-generation-specialist.html]]></url>
+    <company><![CDATA[U Hirable (confidential client)]]></company>
+    <city><![CDATA[]]></city>
+    <country><![CDATA[]]></country>
+    <description><![CDATA[<p>We are seeking a detail-oriented and technically skilled Lead Generation Specialist with experience in web scraping, data extraction, data quality assurance, and outreach automation. The ideal candidate will source and verify leads, use Python scripts to extract data, manage outreach campaigns, and support sales and operations teams in improving lead generation processes.</p><p><strong>Requirements</strong></p><ul><li>Proven experience in lead generation, web scraping, or data extraction.</li><li>Practical knowledge of Python scripting for automated data collection.</li><li>Experience with data cleaning, validation, deduplication, and database management.</li><li>Familiarity with Apollo, Lusha, ContactOut, LinkedIn, and email automation tools.</li><li>Knowledge of domain setup, email configuration, and email deliverability.</li><li>Strong analytical, troubleshooting, and problem-solving skills.</li><li>Excellent attention to detail and organizational abilities.</li><li>Strong communication skills and the ability to collaborate across teams.</li></ul>]]></description>
+    <salary><![CDATA[]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+</source>
