@@ -44,14 +44,14 @@
     document.head.appendChild(s);
   }
 
-  function markup(c, q) {
-    return '<h2>More jobs in ' + esc(c.name) + '</h2>' +
+  function markup(c, q, loc, nm) {
+    return '<h2>More jobs in ' + esc(nm) + '</h2>' +
       '<p class="wj-sub">More openings from our partner WhatJobs. Each link opens the job on WhatJobs.</p>' +
       '<div id="pnp-' + c.id + '" class="pnp-jobswidget-wrapper" data-id="' + c.id + '">' +
         '<div id="pnp-jobs-content-' + c.id + '" class="pnp-jobs-content"></div>' +
         '<div class="pnp-searchbox-wrapper"><form method="post" action="https://' + c.host + '/searchbox" class="pnp-jobbox" target="_blank" rel="noopener">' +
           '<input type="text" placeholder="Job title or keyword" name="keyword" class="pnp-q" value="' + esc(q) + '" aria-label="Keyword">' +
-          '<input type="text" placeholder="City" name="location" value="' + esc(c.loc) + '" class="pnp-l" aria-label="Location">' +
+          '<input type="text" placeholder="City" name="location" value="' + esc(loc) + '" class="pnp-l" aria-label="Location">' +
           '<input type="submit" value="Find Jobs" class="pnp-find-jobs">' +
           '<input type="hidden" name="utm_source" class="utm_source" value="' + c.pub + '">' +
         '</form></div>' +
@@ -59,10 +59,10 @@
       '</div>';
   }
 
-  function data(c, q) {
+  function data(c, q, loc) {
     window.pnpData = window.pnpData || {};
     window.pnpData[c.id] = {
-      pnp_pub: c.pub, pnp_el: "pnp-jobs-content-" + c.id, pnp_q: q || "", pnp_l: c.loc,
+      pnp_pub: c.pub, pnp_el: "pnp-jobs-content-" + c.id, pnp_q: q || "", pnp_l: loc,
       pnp_chnl: "", pnp_domain: "https://api.whatjobs.com", pnp_lmt: "", pnp_size_title: "",
       pnp_size_desc: "", pnp_radius: "25", pnp_q_variable: "", pnp_l_variable: "", pnp_alt_text: undefined
     };
@@ -92,9 +92,10 @@
     var c = CFG[cc]; if (!el || !c) { if (el) hide(el); return; }
     css();
     q = (q || "").trim();
+    var loc = el.getAttribute("data-l") || c.loc, nm = el.getAttribute("data-l") || c.name;
     el.classList.add("wj-sec"); el.hidden = false;
     var w = document.getElementById("pnp-" + c.id);
-    data(c, q);
+    data(c, q, loc);
     if (w && el.contains(w) && el.getAttribute("data-wjcc") === cc) {
       var f = w.querySelector(".pnp-q"); if (f) f.value = q;
       var content = document.getElementById("pnp-jobs-content-" + c.id); if (content) content.innerHTML = "";
@@ -102,7 +103,7 @@
       emptyCheck(el, c);
       return;
     }
-    el.innerHTML = markup(c, q);
+    el.innerHTML = markup(c, q, loc, nm);
     el.setAttribute("data-wjcc", cc);
     load(c);
     emptyCheck(el, c);
