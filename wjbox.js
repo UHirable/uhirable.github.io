@@ -5,7 +5,12 @@
   "use strict";
   var CFG = {
     eg: { id: "565", pub: "7501", loc: "Egypt", host: "eg.whatjobs.com", name: "Egypt" },
-    bh: { id: "565", pub: "7509", loc: "Bahrain", host: "bh.whatjobs.com", name: "Bahrain" }
+    bh: { id: "565", pub: "7509", loc: "Bahrain", host: "bh.whatjobs.com", name: "Bahrain" },
+    kw: { id: "565", pub: "7508", loc: "Kuwait", host: "kw.whatjobs.com", name: "Kuwait" },
+    uk: { id: "565", pub: "7502", loc: "UK", host: "uk.whatjobs.com", name: "the UK" },
+    ca: { id: "565", pub: "7503", loc: "Canada", host: "ca.whatjobs.com", name: "Canada" },
+    de: { id: "565", pub: "7505", loc: "Germany", host: "de.whatjobs.com", name: "Germany" }
+    // sa (7506) and qa (7507): accounts return no jobs yet (checked Nov 9, 2026)
   };
   var LOADER = "https://static.whatjobs.com/staticMin/ajCore/js/core/Jobbox/widget-loader-v1.js";
   var state = "idle"; // idle | loading | ready
