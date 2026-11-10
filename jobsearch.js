@@ -34,38 +34,8 @@
   const ago = (d) => { const t = Date.parse(d); if (!t) return ""; const days = Math.floor((Date.now() - t) / 864e5); return days <= 0 ? "Today" : days === 1 ? "Yesterday" : days < 30 ? days + " days ago" : ""; };
   if (!window.UHCvPop && !document.querySelector('script[src="cv-popup.js"]')) { const _s = document.createElement("script"); _s.src = "cv-popup.js"; document.head.appendChild(_s); }
   const card = (j, i) => { const desc = clean(j.snippet).slice(0, 170); const chips = [j.location && `<span class="chip">📍 ${esc(j.location)}</span>`, j.type && `<span class="chip pc">${esc(j.type)}</span>`, j.salary && `<span class="chip gold">${esc(j.salary)}</span>`, ago(j.updated) && `<span class="chip">${ago(j.updated)}</span>`].filter(Boolean).join("");
-    return `<article class="job-card live-card"><span class="promo-badge live">Live</span><div class="job-head"><div class="icon3d ${i % 2 ? "gold" : ""} js-ini">${esc((j.company || "?").trim().charAt(0).toUpperCase())}</div><div><h3>${esc(j.title)}</h3><p class="meta">${esc(j.company || "Company not listed")}${j.source === "lensa" ? " · via Lensa" : ""}</p></div></div><div class="chips">${chips}</div><p class="desc">${esc(desc)}${desc.length >= 170 ? "…" : ""}</p><div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${esc(j.link)}" target="_blank" rel="noopener nofollow${j.source === "lensa" ? " sponsored" : ""}" data-src="${esc(j.source || "")}">Apply</a></div></article>`; };
+    return `<article class="job-card live-card"><span class="promo-badge live">Live</span><div class="job-head"><div class="icon3d ${i % 2 ? "gold" : ""} js-ini">${esc((j.company || j.title || "?").trim().charAt(0).toUpperCase())}</div><div><h3>${esc(j.title)}</h3><p class="meta">${j.source === "whatjobs" ? "via WhatJobs" : esc(j.company || "Company not listed") + (j.source === "lensa" ? " · via Lensa" : "")}</p></div></div><div class="chips">${chips}</div><p class="desc">${esc(desc)}${desc.length >= 170 ? "…" : ""}</p><div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${esc(j.link)}" target="_blank" rel="noopener nofollow${j.source === "lensa" || j.source === "whatjobs" ? " sponsored" : ""}" data-src="${esc(j.source || "")}">Apply</a></div></article>`; };
 
-  async function fetchWhatJobs(cc, kw, pg) {
-    const cfg = WJ[cc];
-    if (!cfg) return { jobs: [], totalCount: 0 };
-    try {
-      const params = new URLSearchParams({
-        publisher: cfg.publisher,
-        keyword:   kw || "jobs",
-        location:  cfg.location,
-        limit:     "20",
-        page:      String(pg),
-      });
-      const r = await fetch("https://api.whatjobs.com/api/v1/jobs.json?" + params);
-      if (!r.ok) return { jobs: [], totalCount: 0 };
-      const d = await r.json();
-      const jobs = (d.data || []).map((j) => ({
-        title:    j.title    || "",
-        company:  j.company  || "",
-        location: j.location || "",
-        salary:   j.salary   || "",
-        snippet:  j.snippet  || "",
-        link:     j.url      || "",
-        type:     j.job_type || "",
-        updated:  j.age      || "",
-        source:   "whatjobs",
-      }));
-      return { jobs, totalCount: d.total || jobs.length };
-    } catch (e) {
-      return { jobs: [], totalCount: 0 };
-    }
-  }
 
   async function live(reset) {
     const country = sel.value, kw = box.value.trim();
@@ -73,18 +43,15 @@
     const lo = LENSA && (country === "United States" || country === "all");
     if (LENSA) { ownList.style.display = lo ? "none" : ""; if (countEl) countEl.style.display = lo ? "none" : ""; }
     const wantLive = lo || liveCountry || (kw && (country === "United States" || country === "all"));
-    const wjEl = $("#wj-live");
-    if (!wantLive) { wrap.hidden = true; if (window.UHWJ) UHWJ.hide(wjEl); return; }
+    if (!wantLive) { wrap.hidden = true; return; }
     const cc = CC[country] || "us";
-    if (reset && window.UHWJ) { if (UHWJ.has(cc)) UHWJ.show(wjEl, cc, kw); else UHWJ.hide(wjEl); }
     if (reset) { page = 1; shown = 0; list.innerHTML = ""; }
     const my = ++seq; wrap.hidden = false; status.className = "js-bar"; status.textContent = "Loading live jobs in " + (country === "all" ? "the United States" : country) + "…"; more.hidden = true;
     if (ownList.querySelector(".empty")) { ownList.innerHTML = ""; if (countEl) countEl.textContent = ""; }
     try {
-      const hasWJ = false; // WhatJobs API blocks browser calls; the Jobbox (wjbox.js) is used instead
       const jooblePromise = lo ? Promise.resolve({ jobs: [], totalCount: 0 }) : fetch(API + "?src=jooble&cc=" + cc + "&q=" + encodeURIComponent(kw) + "&page=" + page).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }).catch(() => ({ jobs: [], totalCount: 0, failed: true }));
       const lensaPromise = cc === "us" ? fetch(API + "?src=lensa&q=" + encodeURIComponent(kw) + "&page=" + page).then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] })) : Promise.resolve({ jobs: [], totalCount: 0 });
-      const wjPromise = hasWJ ? fetchWhatJobs(cc, kw, page) : Promise.resolve({ jobs: [], totalCount: 0 });
+      const wjPromise = !lo && window.UHWJF && UHWJF.has(cc) ? UHWJF.fetch(cc, kw, null, page) : Promise.resolve({ jobs: [], hasMore: false });
 
       const [joobleData, wjData, lensaData] = await Promise.all([jooblePromise, wjPromise, lensaPromise]);
       if (my !== seq) return;
@@ -94,14 +61,15 @@
       const lJobs = lensaData.jobs || [];
       if (joobleData.failed && !lJobs.length && !wJobs.length) throw new Error("no live jobs");
       const mix = (a, b) => { const o = []; for (let k = 0; k < Math.max(a.length, b.length); k++) { if (a[k]) o.push(a[k]); if (b[k]) o.push(b[k]); } return o; };
-      const jobs  = [...mix(lJobs, jJobs), ...wJobs];
-      total = Math.max((joobleData.totalCount || 0) + (lensaData.totalCount || 0), wjData.totalCount || 0, jobs.length);
+      const jobs  = mix(mix(lJobs, jJobs), wJobs);
+      total = Math.max((joobleData.totalCount || 0) + (lensaData.totalCount || 0), shown + jobs.length);
+      const plus = wjData.hasMore ? "+" : "";
 
       list.insertAdjacentHTML("beforeend", jobs.map((j, i) => card(j, shown + i)).join("")); shown += jobs.length;
       const where = country === "all" ? "the United States" : country;
-      status.innerHTML = shown ? `<b>${total.toLocaleString()}</b> live jobs${kw ? ` for <b>${esc(kw)}</b>` : ""} in ${esc(where)} · from hundreds of job sites` : `No live jobs${kw ? ` for <b>${esc(kw)}</b>` : ""} in ${esc(where)} right now. Try a shorter keyword.`;
+      status.innerHTML = shown ? `<b>${total.toLocaleString()}${plus}</b> live jobs${kw ? ` for <b>${esc(kw)}</b>` : ""} in ${esc(where)} · from hundreds of job sites` : `No live jobs${kw ? ` for <b>${esc(kw)}</b>` : ""} in ${esc(where)} right now. Try a shorter keyword.`;
       if (!shown) status.className = "js-bar empty";
-      more.hidden = !(jobs.length >= 20 && shown < total);
+      more.hidden = !((jJobs.length + lJobs.length >= 20 && shown < total) || wjData.hasMore);
       try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "live-jobs/" + cc, title: "Live jobs " + cc, event: true }); } catch (e) {}
     } catch (e) { if (my === seq) { status.className = "js-bar empty"; status.textContent = "Couldn't load live jobs right now. Please try again in a moment."; } }
   }
