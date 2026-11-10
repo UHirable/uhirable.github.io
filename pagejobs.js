@@ -34,7 +34,9 @@
       const lJobs = lensaData.jobs || [];
       if (joobleData.failed && !lJobs.length && !wJobs.length) throw new Error("no live jobs");
       const mix = (a, b) => { const o = []; for (let k = 0; k < Math.max(a.length, b.length); k++) { if (a[k]) o.push(a[k]); if (b[k]) o.push(b[k]); } return o; };
-      const jobs  = mix(mix(lJobs, jJobs), wJobs);
+      // one card from each available source in turn, paying partners first: Lensa, WhatJobs, Jooble
+      const rr = (...L) => { const o = []; const n = Math.max(0, ...L.map((a) => a.length)); for (let k = 0; k < n; k++) L.forEach((a) => { if (a[k]) o.push(a[k]); }); return o; };
+      const jobs  = rr(lJobs, wJobs, jJobs);
       total = Math.max((joobleData.totalCount || 0) + (lensaData.totalCount || 0), shown + jobs.length);
       const plus = wjData.hasMore ? "+" : "";
 

@@ -1287,3 +1287,6 @@ textarea { resize: vertical; }
   .hero-actions .btn svg{width:16px;height:16px}
   .hero-match{padding:14px 14px 16px}
 }
+
+/* 3 job cards per row on wide screens */
+@media (min-width: 1100px) { .jobs-list { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
