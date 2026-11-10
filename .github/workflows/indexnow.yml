@@ -1,0 +1,48 @@
+# Tells Bing (IndexNow) which pages changed, so new and updated pages get indexed quickly.
+# - On every push: sends the HTML pages changed in that push (after the site has deployed).
+# - Manual run (Actions > IndexNow > Run workflow): sends every URL in sitemap.xml.
+name: IndexNow
+on:
+  push:
+    branches: [main]
+    paths: ["**.html", "sitemap.xml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Wait for GitHub Pages to deploy
+        if: github.event_name == 'push'
+        run: sleep 240
+      - name: Submit URLs
+        env:
+          KEY: 434f71970dc81e7739833b344ceb4e15
+          HOST: uhirable.github.io
+          EVENT: ${{ github.event_name }}
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: |
+          grep -o '<loc>[^<]*</loc>' sitemap.xml | sed 's/<[^>]*>//g' | sort -u > all.txt
+          if [ "$EVENT" = "push" ] && git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            git diff --name-only "$BEFORE" "$AFTER" -- '*.html' \
+              | sed -e "s#^#https://$HOST/#" -e 's#/index\.html$#/#' | sort -u > changed.txt
+            grep -Fxf changed.txt all.txt > urls.txt || true
+          else
+            cp all.txt urls.txt
+          fi
+          n=$(wc -l < urls.txt)
+          echo "URLs to submit: $n"
+          if [ "$n" -eq 0 ]; then exit 0; fi
+          jq -Rn --arg host "$HOST" --arg key "$KEY" \
+            '{host: $host, key: $key, keyLocation: ("https://" + $host + "/" + $key + ".txt"), urlList: [inputs]}' < urls.txt > body.json
+          code=$(curl -sS -o resp.txt -w '%{http_code}' -X POST 'https://api.indexnow.org/indexnow' \
+            -H 'Content-Type: application/json; charset=utf-8' --data-binary @body.json)
+          echo "IndexNow HTTP $code"; cat resp.txt
+          case "$code" in 200|202) ;; *) exit 1 ;; esac
