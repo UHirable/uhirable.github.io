@@ -1,0 +1,40 @@
+# U Hirable
+
+> U Hirable is a free hiring hub. Job seekers can search live jobs in the UAE, Saudi Arabia, Qatar, Kuwait, Bahrain, Egypt, the United States and the United Kingdom, see typical salaries and employer requirements by job title and city, and check their CV against a job ad for free. Companies can find recruiting support and hiring tools. The site is run by a recruiter and is free to use.
+
+Each "jobs in city" page shows live openings from job-search partners (updated daily), a typical salary range, what employers ask for, where the jobs are, and tips before applying. Some outbound job and tool links are partner links; see the affiliate disclosure.
+
+## Search jobs
+- [Search Jobs](https://uhirable.github.io/jobs.html): live job search by keyword and country
+- [Remote Jobs](https://uhirable.github.io/remote-jobs.html): fully remote roles with the countries you can apply from
+- [Visa Sponsorship Jobs](https://uhirable.github.io/visa-sponsorship-jobs.html): roles that sponsor work visas
+- [Work From Home Jobs for Beginners](https://uhirable.github.io/work-from-home-jobs-for-beginners.html): entry-level remote roles and how to apply
+
+## Jobs and salaries by country
+- [Jobs in the UAE](https://uhirable.github.io/uae.html): Dubai jobs by title, salaries in AED
+- [Jobs in Saudi Arabia](https://uhirable.github.io/saudi-arabia.html): Riyadh jobs by title, salaries in SAR
+- [Jobs in Qatar](https://uhirable.github.io/qatar.html): Doha jobs by title, salaries in QAR
+- [Jobs in Kuwait](https://uhirable.github.io/kuwait.html): Kuwait City jobs by title, salaries in KWD
+- [Jobs in Bahrain](https://uhirable.github.io/bahrain.html): Manama jobs by title, salaries in BHD
+- [Jobs in Egypt](https://uhirable.github.io/egypt.html): Cairo jobs by title, salaries in EGP
+- [Jobs in the United States](https://uhirable.github.io/usa.html): US jobs by title, salaries in USD
+- [Jobs in London](https://uhirable.github.io/london.html): London jobs by title, salaries in GBP and visa sponsorship notes
+
+Example title pages follow the pattern https://uhirable.github.io/{title}-jobs-in-{city}.html, for example [Accountant jobs in Dubai](https://uhirable.github.io/accountant-jobs-in-dubai.html), [Nurse jobs in London](https://uhirable.github.io/nurse-jobs-in-london.html) and [Software engineer jobs in Cairo](https://uhirable.github.io/software-engineer-jobs-in-cairo.html).
+
+## Free CV tools
+- [CV Match Checker](https://uhirable.github.io/cv-match.html): match score, missing keywords and ATS format check against a job ad; runs in the browser, nothing uploaded
+- [CV Builder](https://uhirable.github.io/cv-builder.html): build an ATS-friendly CV
+- [CV Templates](https://uhirable.github.io/cv-templates.html): free Word CV templates
+- [CV Tools](https://uhirable.github.io/cv-tools.html): a guide to free and paid CV tools
+- [Career Boost](https://uhirable.github.io/career-boost.html): free AI tools for job seekers
+
+## For companies
+- [Hire Talent](https://uhirable.github.io/employer.html): recruiting support for companies
+- [Hiring Partners](https://uhirable.github.io/partners.html): EOR, payroll, staffing and recruiting tools
+
+## More
+- [Job Sites](https://uhirable.github.io/job-sites.html): the best job sites by country
+- [Events](https://uhirable.github.io/events.html): hiring events and job fairs
+- [About](https://uhirable.github.io/about.html)
+- [Affiliate Disclosure](https://uhirable.github.io/disclosure.html)
