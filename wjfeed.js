@@ -48,7 +48,7 @@
         source: "whatjobs"
       });
     }
-    return { jobs: jobs, hasMore: !!d.querySelector(".pnp-pagination .next") };
+    return { jobs: jobs, hasMore: jobs.length > 0 && !!d.querySelector(".pnp-pagination .next") };
   }
 
   function fetchJobs(cc, kw, loc, page) {
