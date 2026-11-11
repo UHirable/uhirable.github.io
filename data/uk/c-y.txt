@@ -1,0 +1,397 @@
+a j spilman and son	York	A	0
+A JS 2 Limited	York	A	0
+Able Carers Ltd	York	A	0
+able2achieve	Yeovil	A	0
+ABP Yetminster	Yetminster	A	0
+Absolute Fitness	York	A	0
+ACM Global Central Laboratory Limited	York	A	0
+Ad Signal Limited	York	A	0
+Adtran Networks (UK) Limited	York	A	0
+Advance HE	York	A	0
+AgriSound Limited	York	A	0
+Alan York Limited t/a Red Chilli York	York	A	0
+ALB SCAFFOLDING LIMITED	Yiewsley	A	0
+Alloyed Limited	Yarnton	A	0
+ALS MANAGED SERVICES LIMITED	Ystrad Mynach	A	0
+AMANI'S	York	A	0
+Amco Security Limited	York	A	0
+Ampleforth Abbey and College	York	A	0,1,9,10
+And Stores Limited	Ystrad Mynach	A	0
+Anglo Beef Processors	York	A	0
+Apex Mortgage & Protection Ltd	York	A	0
+Aptamer Group PLC	York	A	0
+Archaeological Management Solutions Ltd (AMS)	York,	A	0
+Archbishop of York	York	A	1,10
+Ardent Limited	York	A	0
+ASPIRE AND LEARN LTD	Ystrad Mynach	A	0
+Athletica Health Ltd	York	A	0
+Atrium Accounts Ltd	York	A	0
+Avoptics Limited	Yeovil	A	0
+Azotic Technologies Limited	York	A	0
+Bamboo Thai Takeaway Ltd	York	A	0
+BANGLE FOOD LTD	Yeovil,	A	0
+BANGLE FOOD LTD T/A RED ROSE	Yeovil	A	0
+Bar Hashery	York	A	0
+BARBICAN HOUSE	York	A	0
+Basu Associates Limited	York	A	0,4
+Benenden Healthcare Society Ltd	York	A	0
+Bere Peninsula Care Ltd	Yelverton	A	0
+Bere Peninsula Pharmacy Limited	Yelverton	A	0
+Bica Italian Ltd T/A Cresci Pizzeria	York	A	0
+Blueloop Limited	Yeovil	A	0
+Boba and Dessert Limited	Yeovil	A	0
+BOBA TWO LIMITED	Yorkshire	A	0
+Bon Bon Bean Limited	York	A	0
+BORA BORA LIMITED	York	A	0
+Boroughbridge Vets Ltd	York	A	0
+boxxe Limited	York	A	0
+Brew & Brownie Limited	York	A	0
+Briars Farm Limited	Yeovil	A	0
+Bridging The Gap	York	A	0
+Bristol Superlight Ltd	Yateley	A	0
+Bristol Uniforms	Yate	A	0,4
+Broadway Lodge	York	A	0
+Brodie Cashmere	Yeadon	A	0
+Brown & Company Architects Ltd	York	A	0
+Brympton House Estates Ltd	Yeovil	A	0
+Byland Engineering Limited	York	A	0
+C-Kore Systems Limited	York	A	0
+Cabelo Adore	York	A	0
+Caesars At The Minister LTD T/A Caesars	York	A	0
+Caledan Ltd	Ystrad mynach	A	0
+Calvary Chapel York	York	A	9,10
+Camelot Care (Yeovil) Ltd	Yeovil	A	0
+Care Horizons ltd	Yate	A	0
+Castle Dawson Limited	York	A	0
+Charters-Reid Surveyors Ltd	York	A	0
+Chiropractic 1st	York	A	0
+Chiropractic Plus	York	A	0
+Christmas Lodge Ltd	York	A	0
+CHUTNI & GRILL LTD	York	A	0
+Cinnamon Bay	Yateley	A	0
+Cleveland Process Designs Limited	Yarm	A	0
+Clockhouse Dental	York	A	0
+Congregation of Jesus Charitable Trust	York	A	1,10
+corpus christi carmelites	York	A	10
+Costcutter Supermarkets Group Ltd	York	A	0
+Court House Farms Ltd.	York	A	0
+Courtside Surgery	Yate	A	0
+CPNW FOOD AND CATERING LTD	York	A	0
+Crumbs Cupcakery	York	A	0
+Cybake Limited	York	A	0
+D & F Rustique Ltd	York	A	0
+D & K STORES (YORK) LIMITED T/A D & K STORES	York	A	0
+D R JONES YEOVIL LTD	Yeovil	A	0
+Dalton Terrace Surgery	York	A	0
+David O'Meara Racing Limited	York	A	0
+Dee News	Yateley	A	0
+Dexter Watson Ltd	York	A	0
+DGP Intelsius Ltd	York	A	0
+Diamond Health Group	Yeovil	A	0
+Diamonds Guest House Ltd	York	A	0
+Diamonds Inn Ltd	York	A	0
+Diamonds Property Development Private Ltd	York	A	0
+DJ Assembly Ltd	York	A	0
+DLT APPS LIMITED	York	A	0
+DNA York Limited	York	A	0
+DNR Yeovil Ltd	Yeovil	A	0
+DONCASTER RACING LIMITED	York	A	0
+Dotfive Limited	Yeovil	A	0
+Dough Eyed Limited	York	A	0
+Dunnington Cricket Club	York	A	11
+Eamonn Byrne Landscape Architects Ltd	York	A	0
+Easingwold Cricket Club	York	A	11
+EDMUND OPTICS LTD	York	A	0,4
+EJ Lazenby Contracts Ltd	Yeovil	A	0
+Elenem Limited	York	A	0
+ELIEZERTZ	York	A	0,9
+EliteNurse Research Nurse Consultancy	York	A	0
+Ellesfield Limited	Yarm	A	0
+Enable Support Services LTd	Yeovil	A	0
+Environment Agency	York	A	0
+Ether/Awe Productions LTD	York	A	0
+Eurofins E&E UK Ltd	York	A	0
+Eurofins Electrical and Electronic UK Limited	York	A	0
+Evolve123 Ltd	York	A	0
+EXCHANGE TECH LTD	Yarm	A	0
+Fera Science Ltd	York	A	0
+Finyx Consulting Ltd	York	A	0
+Fishergate Primary School	York	A	0
+Food Standards Agency	York	A	0
+Forest Poultry Ltd	York	A	0
+Fulford Nursing Home	York	A	0
+Funfishers Out of School Club	York	A	0
+Future Agency Consulting Ltd	York	A	0
+Gaddipati Services Ltd	Yeovil	A	0
+Galiant Health Care Limited	Yeovil	A	0
+Gear4music Ltd.	York	A	0
+Genting Hays Ltd	York	A	0
+Gladstone Tyre & Autocare Ltd	York	A	0
+GNW DESIGNER STUDIO LTD	York	A	0
+GOURMET COFFEE LTD	York	A	0
+GRADESTONE LIMITED	Yarm,	A	0
+Gray Care Ltd	Yeovil	A	0
+Gray Community Care trading as SureCare York	York	A	0
+Green Rose Chemistry Ltd	York	A	0
+Greenhouse OS Ltd	York	A	0
+Greenshoot Care Services	York	A	0
+Growth Partner Management LLP	York	A	0
+gubb inns ltd	Yattendon	A	0
+Halstock Cabinet Makers Ltd	Yeovil	A	0
+Harmony Fire Ltd	Yeovil	A	0
+Haxby Group Pharmacy Limited	York	A	0
+Haxby Group Practice	York	A	0
+HBG Limited	York	A	0
+HD York Ltd	York	A	0
+Heartfelt Care Yeovil and Sherborne Limited	Yeovil	A	0
+HIMALAYAN NEPALESE CHULO LTD T/A EVEREST GURKHA	York	A	0
+His Church Charity	York	A	9,10
+Honey&Greens Ltd	Yiewsley	A	0
+Howard & Byrne Solicitors	York	A	0
+Howells Veterinary Services Limited	York	A	0
+HS Acomb Ltd	York	A	0
+Huma Retails Ltd	York	A	0
+Hummingbird Home Care Yeovil Ltd	Yeovil	A	0
+Hunter Gee Holroyd Limited	York	A	0
+Huntington Dental Surgery	York	A	0
+Huvepharma Ltd	York	A	0
+Incremental Solutions	York	A	0
+Inglepark Limited	Yate	A	0
+Invent Partners Limited	York	A	0
+Inztec Ltd	York	A	0
+IRCA Manufacturing UK Limited	York	A	0,4
+Islam Catering Ltd	York	A	0
+Italian Treasures Ltd T/A Roberto Authentic Italian Gelato	York	A	0
+IVELHURST NURSING HOME LIMITED T/A IVELHURST NURSING HOME	Yeovil	A	0
+Ivy Lodge Care ltd	York	A	0
+Ivy Lodge Retirement Home	York	A	0
+J & P Monkton	York	A	0
+J E Swiers LTD	York	A	0
+JA INV 1 Limited t/a Jaipur Spice York	York	A	0
+James Carson Construction Group Ltd	York	A	0
+James Park Associates Ltd (JPA Design)	Yorkshire	A	0
+James Pegg Dentistry	York	A	0
+Jeganthan Subramaniyam T/A Crofton Stores	Yeovil	A	0
+Jessika Kitchen Ltd. T/As 29 States the Indian Kitchen	York	A	0
+Jinnah Resturant (Malton) LLP	York	A	0
+JMD Railtech Limited	York	A	0,4
+JOHN AND SMITH LTD	Yeovil	A	0
+Joseph Rowntree Foundation	York	A	0
+JRA FAMILY RESTAURANTS LTD T/A MCDONALDS	York	A	0
+JSS Homecare LTD	Yeovil	A	0
+JWTC ltd	York	A	0,3
+Kaleidoscope Solutions Limited	York	A	0
+KASPA'S (NW) LIMITED TA KASPAS	Yeovil	A	0
+KAVIN RETAIL LTD	Yateley	A	0
+Kayas York Limited	York	A	0
+Kleijnen Systematic Reviews Ltd	York	A	0
+Komgree Group Limited	York	A	0
+Ksivas Ltd	York, Boroughbridge	A	0
+Leading Edge Accountancy Solutions Limited	York	A	0
+Leading Solvent Supplies Limited	York	A	0
+Leven Vale DP Ltd	Yarm	A	0
+LivingOn Care Limited	York	A	0
+Livingstone Technologies Limited	York	A	0
+London North Eastern Railway	York	A	0
+LS.Cakery	York	A	0
+LUX RHAAN LIMITED	York	A	0
+M S 2 Stores	Yate	A	0
+Madhyamaka Kadampa Meditation Centre	York	A	1,10
+MALAR RETAILS LTD T/A POPPLETON VILLAGE STORE & POST OFFICE	York	A	0
+MANSHAIL LIMITED	Yeovil	A	0
+Martin Design Associates Ltd	York	A	0
+Mary Pritchard	York	A	0
+Marzano Limited	York	A	0
+Masala Craft Limited TA Atithi Contemporary Indian Restaurant	York	A	0
+Masala Craft R&B Limited TA Masala Craft	York	A	0
+Massala Express Limited	Yeovil	A	0
+Matthias Garn Master Mason + Partner	York	A	0
+Maxi's (York) Ltd	York	A	0
+Maxim London Limited T/A Maxim Food and Wine	Yiewsley	A	0
+MAYONNAISE TREASURE YORK LIMITED	York	A	0
+Medicsensors Limited	York	A	0
+Megan Mechanical Services Ltd	Yateley	A	0
+Meplas Ltd	York	A	0
+Middle Feast Limited	York	A	0
+Midwest Consulting Limited	Yeovil	A	0
+Miler Ltd	York	A	0
+Minerva UK Ltd	York	A	0
+Minster Home Care Limited	York	A	0
+Miracle Artists Ltd	Yelverton	A	3
+MITHU LIMITED	Yarm	A	0
+ML Yorkshire ltd T/A Mumbai Lounge	York	A	0
+Mobile Cottage Ltd T/A iRepair	York	A	0
+MONA & SONS LTD.	York	A	0
+Monitor Computer Systems	York	A	0
+Monster Group (UK)	York	A	0
+Monster Payroll LLP	York	A	0
+Moorcare Devon Limited	Yelverton	A	0
+Moorview Care	York	A	0
+MOUNT SCHOOL (YORK) (THE)	York	A	0
+Mrs Anna Marie Wood t/a Care mUm	York	A	0
+MuddyBoots Nursery Ltd	York	A	0
+National Workforce Ltd	York	A	0
+Native Chartered Architects Ltd	York	A	0
+Nestec York Ltd	York	A	0,4
+New Concept Care Nursing Training Ltd.	York	A	0
+New York Care Ltd	York	A	0
+Nicholls News & Convenience Store Ltd	York	A	0
+Nimbuscare Limited	York	A	0
+Nishara Food and Wine Ltd	Yarm	A	0
+Nvalue UK Limited	York	A	0
+Oak Care Home Services Ltd	York	A	0
+Onebright Ltd	York	A	0
+Optimal Industrial Automation Limited	Yate	A	0
+Optix Software Ltd	York	A	0
+Oshibi	York	A	0
+Overington and Roberts LTD	York	A	0
+OXECO U.K. Limited	Yarnton	A	0
+Ozland Limited	Yiewsley	A	0
+P & J Bielby	York	A	0
+Park View Guest House (York) Limited	York	A	0
+Pathfinder Multi Academy Trust	York	A	0
+Penn Hill Surgery	Yeovil	A	0
+Perspicuity	Yeovil	A	0
+Peter Best Trade Limited	York	A	0
+Philip James Harrison Holt T/A Harrison Holt	York	A	0
+Phoenix Software Limited	York	A	0
+PKJ YORK LTD	York	A	0
+Plazology Ltd	York	A	0
+PLB Projects Ltd	York	A	0
+PMJ Masonry	York	A	0
+PORTAKABIN LIMITED	York	A	0,4
+PPL Training Ltd	York	A	0
+Preston Grove Medical Centre	Yeovil	A	0
+Priory Medical Group	York	A	0
+Pullins Bakers	Yatton	A	0
+PULSAR CONSULTING LTD	Yateley	A	0
+Queen Ethelburgas College	York	A	0
+R & V CAKES LIMITED	Yiewsley	A	0
+Rad Pizza Shop Ltd	York	A	0
+Rapita systems Limited	York	A	0
+Reed Boardall Cold Storage Ltd	York	A	0
+Ribcraft Limited	Yeovil	A	0
+Rising Zal Company Ltd T/A The Mulan	York	A	0
+RK-OM UK LTD	York	A	0
+ROBERT FRITH OPTOMETRISTS (YEOVIL) LIMITED	Yeovil	A	0
+Ropetech Access Solutions Ltd	York	A	0
+Rothwell Group Limited	York	A	0
+S C Mcallister & Co Ltd [Naval Architects]	York	A	0
+Sandburn York Limited	York	A	0
+SCARLETTABBOTT LTD	York	A	0
+SEP Rail Design Ltd	York	A	0
+Shack Empire Ltd	Yiewsley	A	0
+ShelfTrak Ltd	York	A	0
+Sherbutt Home Care Services	York	A	0
+Sheriff Hutton Bridge Cricket Club	York	A	11
+Simply Serve Limted	Yeovil	A	0
+Simpson Associates Information Services Limited	York	A	0
+Sirona care & health	Yate	A	0
+Skyline Properties & Development Ltd t/a Morrisons Daily	York	A	0
+SMART CLEANING GROUP LIMITED	York	A	0
+SNS Food and Wines Limited	York	A	0
+Sonardyne International Limited	Yateley	A	0,4,7
+South Gloucestershire Council	Yate	A	0
+South West Coaches Ltd	Yeovil	A	0
+South York Multi-Academy Trust	York	A	0
+Spice 21 Ltd t/a York Tandoori	York	A	0
+Spirit Motorcycles Limited	Yeovil	A	0
+Sri Venkateshwara Healthcare UK Limited	York	A	0
+SST PETROLEUM LIMITED	Yeovil	A	0
+St Laurence Education Trust (Ampleforth College)	York	A	0
+St Margaret's Homecare	York	A	0
+St Michael le Belfrey PCC	York	A	10
+St Peters School	York	A	0,9
+Stamford Bridge Cricket Club	York	A	11
+STANBROOK ABBEY	York	A	10
+STAR PLUS RETAIL LTD	Yeovil	A	0
+StarCompliance	York	A	0
+Stirling and Son limited	Yelverton	A	0
+Stittenham Racing	York	A	0
+SUNSHINE ORIENTAL SUPERMARKET LTD	York	A	0
+Sure Healthcare Ltd	York	A	0
+Sweet Smart Ltd t/a Mem Saab	Yeovil	A	0
+Sweet Three Ltd T/A Heavenly Desserts	York	A	0
+SYEDAALAM LTD	Yeovil	A	0
+SYLATECH LIMITED	York	A	0
+Symphony Healthcare Services Limited	Yeovil	A	0
+Talysis Ltd	York	A	0
+Tamburino	Yeovil	A	0
+TANCRED HALL CARE CENTRE LTD T/A PEACOCK MANOR NURSING HOME	York	A	0
+TCY Machinery UK Ltd	Yeadon	A	0
+Ted Immigration Ltd	York	A	0
+TEESIDE HEALTH CARE LIMITED T/A Churchview Nursing and Residential Home	Yarm,	A	0
+Thai Leisure Group Limited	York	A	0
+The Bakersmill Company Ltd	Yarm	A	0
+THE COTSWOLD NURSING HOME COMPANY LIMITED	Yeovil	A	0
+The Dexters Ltd	York	A	0
+The Distance Agency Ltd	York	A	0
+The Escrick Surgery	York	A	0
+The Fisher Partnership Limited	York	A	0
+The Gravers Care Home Limited	York	A	0
+The Island	York	A	0
+The Knoll Nursing Home (Yeovil) Ltd	Yeovil	A	0
+THE LINK DENTAL SURGERY	Yateley	A	0
+The Main Company (York) LTD	York	A	0
+THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST MICHAEL LE BELFREY WITH ST CUTHBERT, YORK	York	A	1,9
+The Punto Group Limited	Yiewsley	A	0
+The yak and yeti Gurkha Restaurant	York	A	0
+The York Glaziers Trust	York	A	0
+The York Handmade Brick Co Ltd	York	A	0
+The York Oratory Trust (CIO)	York	A	0,1,9,10
+THEEPANARAYANAN LTD	Yeovil	A	0
+Time For God	York	A	9
+Top Shop	Yate	A	0
+Total System Services Processing Europe Ltd	York	A	0,4
+TOWLER'S CHEMIST LIMITED	York	A	0
+TP Jordeson & Co Ltd (T/A Jordeson Timber)	York	A	0
+Transcend Packaging Ltd	Ystrad Mynach	A	0,4
+Trescal Limited	Yateley	A	0,4
+Trimdon Healthcare Limited T/A Melrosegate Pharmacy	York	A	0
+TRIO MEZZE AND TAPAS BAR LTD	York	A	0
+Trust Impact Ltd	Yr Wyddgrug	A	0
+Trustmarque Solutions Limited	York	A	0
+Turner Little Limited	York	A	0
+Twelve Oaks Software Ltd	York	A	0
+UHY Calvert Smith LLP	York	A	0
+UK Wainh Limited	Yeovil	A	0
+University of York	York	A	0,3,12
+Veiovia Limited	York	A	0
+VetPartners Limited	York	A	0
+Vigi Traders Limited	Yeovil	A	0
+Viridian FX Limited	York	A	0
+Vortex Auto Ltd	York	A	0
+W & S Red Rose Healthcare Limited	York	A	0
+W H Bence Coachworks Ltd	Yate	A	0
+Wason (UK) Limited	York	A	0
+Web Adventure Park	York	A	0
+WETHERBY HOME CARE LIMITED	York	A	0
+Woodhouse Grange Cricket Club	York	A	11
+Woodmansterne Publications Ltd	Yardley Hastings	A	0
+WTVets Limited	Yatton	A	0
+Yakut Limited	York	A	0
+Yarm Medical Practice	Yarm	A	0
+Yate Visionplus Limited t/a Specsavers	Yate	A	0
+Yatton Dental and implant centre	Yatton	A	0
+Yaxley Wines Ltd	Yaxley	A	0
+Yeovil College	Yeovil	A	0
+Yeovil Community Church	Yeovil	A	1,10
+Yeovil Specsavers Limited	Yeovil	A	0
+Yiewsley Food Centre	Yiewsley West Drayton	A	0
+YOO KASE LTD	York	A	0
+York & Scarborough Teaching Hospitals NHS Foundation Trust	York	A	0
+York Bioanalytical Solutions Limited	York	A	0,4
+York Citizen's Theatre Trust Limited	York	A	3
+York City Knights Ltd	York	A	0,11
+York College	York	A	0
+York Lagoon Limited	York	A	0
+York Liberal Jewish Community	York	A	1
+YORK MEDICAL GROUP	York	A	0
+YORK REGENCY ASSOCITES LTD	York	A	0
+York Roast Co Group LTD	York	A	0
+York St John University	York	A	0,12
+Yorkshire Equine Practice	York	A	0
+Yorkshire Wildlife Trust	York	A	0
+Yorktest Laboratories Limited	York	A	0
+Zest Care Homes Limited	Yarm	A	0
+Zure Solutions UK Limited	York	A	0

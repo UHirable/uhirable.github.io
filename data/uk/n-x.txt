@@ -1,0 +1,411 @@
+41 Commercial Street Ltd T/A Xi'an BiangBiang Noodles	London	A	0
+95 X LTD	Havant	A	0
+AA XPRESS LTD	Blaydon-on-Tyne	A	0
+AB Brothers Limited T/A Mamas Food Xpress	Nottingham	A	0
+Aba Xpress Ltd	Hayes	A	0
+AIR X UK LTD	Feltham	A	0
+Amp X Limited	Edinburgh	A	0
+APX XPRESS LIMITED	London	A	0
+AUTO X LIMITED	Slough	A	0
+Calldesk Limited t/a XINIX	Barking	A	0
+Camp XL	Whitbourne	A	9
+Care XY Limited	Walsall	A	0
+Climate Impact X PTE. LTD. (London Branch)	London	A	0,4
+Climate X	London	A	0
+Conception X Limited	London	A	0
+Connect Xtreme Ltd	Chatham	A	0
+COVENTRY XIONGQI LTD	Coventry	A	0
+Crazed Fashion Limited T/A Xposed London	London	A	0
+D & X LTD	Belvedere	A	0
+Delhi Xpress Limited	Essex	A	0
+Delta XD Limited	Basingstoke	A	0
+Digital Insight Technologies Limited trading as Xapien	London	A	0
+Direct X Ltd	Basildon	A	0
+DRAGGONIX LIMITED T/A XING FU TANG	London	A	0
+DYNAMIC X PLUS LTD	Cardiff	A	0
+Electrical Xpress Limited	London	A	0
+Emerald X International Limited	London	A	0
+Enel X Advisory Services UK Limited	London	A	0
+Enel X UK Limited	London	A	0,4
+EVEREST EXPRESS LTD T/A EVEREST XPRESS	Lincoln	A	0
+Exceed (XCD) Holdings Limited	Aberdeen	A	0
+F B F X Ltd	Feltham	A	0,3
+Fleet X logistics ltd	London	A	0
+FONE XPERTS LIMITED T/A FoneXperts	Ayr	A	0
+Fone Xperts Sunderland Ltd T/A FoneXperts	Sunderland	A	0
+Gadget Xchange Bridlington Limited	Bridlington	A	0
+Gadgets Xpress Limited	Essex	A	0
+GLOBAL TOPAS MANAGEMENT LIMITED T/A XIANG & CO ACCOUNTING SERVICES	London	A	0
+Global X Management Company (UK) Limited	London	A	0
+Global Xpress East Midland Ltd T/a B&B Bargains	Derby	A	0
+Globe Xtra UK Ltd. T/A Peri Hubb	Wellingborough	A	0
+Go X Speed	London	A	0
+H X-PRESS LTD	London	A	0
+H3RON.HAUS DESIGN X BUILD LTD	Mitcham	A	0
+Hua Xin Ltd	Manchester	A	0
+Ilford Xchange Ltd	Ilford	A	0
+IMAGINE X GLOBAL LTD	Stretford	A	0,3
+Impact XM Europe Limited	Leatherhead	A	0
+ISON XPERIENCES UK LIMITED	London	A	0
+Jordan Xavier LTD	London	A	0
+Kapoor Convient Store Ltd T/As Xtra Save Supermarket	London	A	0
+Kavor Limited T/A Xtrim Salon	London	A	0
+L G Convenience Store Ltd T/A Best-One Xpress	Bath	A	0
+Lahori Xpress LTD	Preston	A	0
+Liu Xiaomian Ltd	London	A	0
+M X CONSTRUCTION LIMITED	Ealing	A	0
+Med X Drug Limited	Pinner	A	0
+Mercury xRM Ltd	Coleshill	A	0
+Mettler Toledo Safeline X-ray Limited	Royston	A	0,4,7
+Mobile Xone (UK) Ltd	Worcester,	A	0
+Mobile Xperts Ayr Limited	Ayr	A	0
+Nasadimalik LTD T/A Namji Xscape	Milton Keynes	A	0
+Nebula X Gaming Limited (Trading Address)	London	A	0
+Neuro XR	Cambridge	A	0
+Nexus XL Ltd	London	A	0
+Nutrition X	Gloucester	A	0
+Omega X Systems Ltd	Watlington	A	0
+P & X Restaurants Ltd T/A Phoenix Dining	Chichester	A	0
+PARTS XCHANGE LIMITED	Birmingham	A	0
+Phone Xtra Limited	Wakefield	A	0
+PHONES XPERT LIMITED	London	A	0
+Piratheepan Rajakoon TA Xtra Xtra Premier Store	Lowestoft	A	0
+Pixie Bob ltd t/a XTracked	Manchester	A	0
+Polyfoam XPS	Hartlepool	A	0
+Project X Leamington Ltd	Leamington Spa	A	0
+QUALITY PART X LIMITED	Bedfordshire	A	0
+QUALITY PART X SURBITON LIMITED	Ripley	A	0
+Raybloc X-Ray Protection Ltd	Willenhall	A	0
+Roma XP Limited	Stockport	A	0
+Rupeyal Service Station & Rup Xpress Fastfood Limited	Stoke On Trent	A	0
+S A Xpress Limited	London	A	0
+Saint Pius X Catholic High School	Rotherham	A	0
+SENSE X LTD	London	A	0
+SGM XPRESS LTD	Walsall	A	0
+SHAWARMA XPRESS LIMITED	London	A	0
+Shayona Medicare Limited T/A Pharmacy Xpress	Enfield	A	0
+SHIJIA LTD TRADING AS XING FU RESTAURANT	Eastbourne	A	0
+Shu Xiang Ge Limited	London	A	0
+SHUN XIN CENTURY LTD	London	A	0,4
+SIGMA LABS XYZ LTD	London	A	0
+Signature X Limited	London	A	0
+Singh Household Limited T/A Vape X Cell	Egham	A	0
+Society of Saint Pius X	Burghclere	A	1,9,10
+SPICE XPRESS LTD	Spalding	A	0
+St Francis Xavier Foreign Mission Society	Coatbridge	A	1,9,10
+STORM XCCESSORIES LTD	Swatragh	A	0
+Studio XAG Limited	London	A	0
+Support Haven Ltd Trading as Xen Care Services	Ipswich	A	0
+Tab x Tab Limited	London	A	0
+TECHNOCRAT XP@ LTD	Birmingham	A	0
+The Game Xchange Limited	Wembley	A	0
+The Store X Limited	London	A	0
+The Xpression Beauty Limited	Nottingham	A	0
+TIAN XIN LIMITED	London	A	0
+Tong Xiang Hang Limited	Glasgow	A	0
+TRAVEL XPRESS LTD	Shipley	A	0
+Treatz Xpress London Ltd t/a Treatz	London	A	0
+TSE Restaurants Limited T/A Xi'an Oxford	Oxford	A	0
+UNCLES XENIAL LIMITED T/A BRAMLEY INN	Tadley	A	0
+United Business Xpress Limited	Colnbrook	A	0
+UTILITIES XPERTS LIMITED	Walton-On-Thames	A	0
+Vector X-Cel Ltd	Rotherham	A	0
+Victoria Xu Limited t/a Rosslea Hall Hotel	Helensburgh	A	0
+Viva Xpress Logistics (UK) Limited	Hayes	A	0
+VOX XP Limited t/a Ethan B&B	Birmingham	A	0
+X & WHY LIMITED	London, England	A	0
+X and L Limited	Fort William	A	0
+X CLUB LIMITED	London	A	0
+X Cyber Group Ltd	Cloucester	A	0
+X D P Limited	Sutton Coldfield	A	0
+X Facilities Group Limited	Stanmore	A	0
+X Infinity Group Ltd T/A X Infinity Group	Liverpool	A	0
+X INTERNET UK LIMITED	London	A	0,4
+X Law Ltd	Manchester	A	0
+X PROMPT LTD	Slough	A	0
+X R Games Limited	Leeds	A	0
+X TERRACE FASHION LTD	Bishops Stortford	A	0
+X-Aces Consultancy Limited	Basingstoke	A	0
+X-Act IT Ltd	Redruth	A	0
+X-Edit Limited (trading as EditShare)	Basingstoke	A	0,4
+X-Flow II Ltd	Leatherhead	A	0
+X-Pharm Limited	Berkshire	A	0
+X-Press Container Line (UK) Limited	Southampton	A	0,4
+X-R Touring LLP	London	A	3
+X-Rite Ltd.	Stockport	A	0,4
+X.AI LONDON LTD	London	A	0,4
+X1F UK Limited	London	A	0
+X2 BAKERY AND PASTRY LIMITED	London	A	0
+X2X Limited	London	A	0,4
+X3 Consulting	Newcastle Upon Tyne	A	0
+X3H LTD T/A GUNAYDIN	Kingston	A	0
+X3M Marketing Ideas Limited	London	A	0
+X4 Group Ltd	London	A	0,4
+X7 SOLUTIONS LIMITED	Manchester	A	0
+XA Cars Ltd	Slough	A	0
+XAAR Technology Ltd	Cambridge	A	0,4
+Xactly Limited	London	A	0,4
+XAD TECHNOLOGIES LTD	Slough	A	0,7
+XAICARE Ltd	London	A	0
+XAIRA UK LIMITED	London	A	0
+Xalient Holdings Limited	Altrincham	A	0
+Xama Technologies Limited	Camberley	A	0
+Xampla Ltd	Cambridge	A	0
+Xanadu Consultancy Limited	London	A	0,4
+Xanda Ltd	London	A	0
+Xantaro UK Ltd	London	A	0
+Xanthe Quayle Landscape Architects	Huddersfield	A	0
+Xantium Labs Limited	London	A	0
+Xap Therapeutics Limited	Babraham	A	0
+XAPPIE LIMITED	Salford	A	0
+Xara Computers (UK) Limited t/a XC360	London	A	0
+Xara Group Ltd	Hemel Hempstead	A	0
+Xavier Catholic Education Trust	Chertsey	A	0
+Xaviers Accountants Ltd	Preston	A	0
+Xavpuech Ltd. T/A No.1 Fleet Street	Castle Douglas	A	0
+Xavvy Limited	Darlington	A	0
+Xaz Click Solutions Ltd T/A Papa Johns	Waltham Cross	A	0
+XBP EUROPE LIMITED	Egham	A	4
+Xbridge Limited T/A Simply Business	London	A	0
+Xburo UK Limited	Glasgow	A	0
+XCALIBER CUT LTD	London	A	0
+XCap Ecosystem Ltd	London	A	0,4
+XCD HR	Basingstoke	A	0,4
+XCECO LIMITED	Grimsby	A	0
+Xceedance Limited	London	A	0,4
+XCEL BESPOKE LIMITED	Stanmore	A	0
+Xcel Homes Ltd	Market Harborough	A	0
+Xcel Kitchens Uk Ltd	Bradford	A	0
+XCEL LOGISTICS LIMITED	Basildon	A	0
+Xcel Motorsport Group Ltd	Wokingham	A	0
+XCEL RESOURCES LIMITED	Ilford	A	0
+Xcelentra Financial Services Ltd	Milton Keynes	A	0,4,7
+XCELERATOR DENTAL LIMITED	St. Albans	A	0
+XCELL HEALTHCARE SOLUTIONS LTD	Bolton	A	0
+XCELLENCE CAR HIRE LTD	London	A	0
+XCELLENT MANAGEMENT LTD	Ipswich	A	0
+Xcelyst Limited	London	A	0
+Xcentrik Solutions LTD	Croydon	A	0
+Xceptor Ltd	London	A	0
+XCHANGER SERVICES LIMITED	Nuneaton	A	0
+XCLUSIVE MOTOR SERVICES LTD	Birmingham	A	0
+XCLUSIVEBLINKS BEAUTY	Canning Town	A	0
+XCMG UK SALES AND SERVICES LIMITED	High Wycombe	A	0
+XCO2 Energy	London	A	0
+XCom Associates Ltd	Norwich	A	0
+XCZ Development Ltd	Liverpool	A	0
+XD ACUPUNCTURE & MASSAGE LTD	London	A	0
+XD INNOVATION LIMITED	Coventry	A	0
+XD TAXIS LIMITED	Northampton	A	0
+XDEFI Technologies Ltd (trading as XDEFI Wallet)	London	A	0
+XDIRECTN	London	A	3
+XDS Oxford Limited	Oxford	A	0
+XDS Solutions Ltd	Chelmsford	A	0
+Xeal Pharma Limited	Birmingham	A	0
+Xebia UK Limited	London	A	0,4
+XEBRAA TECH LTD	Luton	A	0
+XEIAD	Ilkeston	A	0
+Xeinadin Group Limited	London	A	0
+Xelect Limited	St Andrews	A	0
+Xelent Agency Limited	London	A	0
+Xelion Limited	Derby	A	0
+Xen News	Lither land	A	0
+XEN SMILES LIMITED	Leeds	A	0
+Xendl Software Limited	Bushey	A	0
+Xenelsoft Technologies Limited	Bristol	A	0
+Xenergie Limited	Chelmsford	A	0
+Xeneta Ltd	London	A	0
+XENEX HOLDING LTD	Newcastle Upon Tyne	A	0
+Xenial Intelligence Limited	Norwich	A	0
+XENIUM INTERNATIONAL LIMITED	Surrey	A	0
+Xenom Limited T/A Das Store/Bargain Booze/Costcutter	Folkestone	A	0
+Xenon Hotels Limited T/a Park Avenue Blackpool Pier Hotel	Blackpool,	A	0
+Xenon Lights Ltd	Bradford	A	0
+Xenon Services Ltd	London	A	0
+Xenophon's Horse Limited	Virginia Water	A	0
+XENUK RESTAURANT LTD	Wokingham	A	0
+XEO HOME LIMITED	Manchester	A	0
+XEOTECH LIMITED	Stanmore	A	0
+XEPOS LTD	Solihull	A	0
+XeptionFlow Ltd	London	A	0,2
+Xergy Group Limited	Aberdeen	A	0
+XERIMIS LTD	Theale	A	0
+Xero (UK) Limited	Milton Keynes	A	0,4
+XEROTECH LTD	London	A	0
+Xerox Limited	Uxbridge	A	0,4
+XETROCUBE LTD	London	A	0
+Xeven Solutions Limited	Greater London	A	0
+Xflow Ltd	London	A	0
+XFREEZ REFRIGERATION LTD	Birmingham	A	0
+XGO Logistics Ltd	Orpington	A	0
+xGround Holdings Ltd	Guildford	A	0
+XHAXHO W4 LTD	London	A	0
+XHIBIT (LONDON) LIMITED	London	A	0
+XHYRE LTD	London	A	0
+XI JING CATERING LTD	Windermere	A	0
+XIAN NOODLE LIMITED	London	A	0
+XIANYI LIMITED	London	A	0
+Xiaomi Technology UK Limited	London	A	0,4
+XIAOPANG EXPRESS LIMITED	Glasgow	A	0
+Xiaowangzi Media Ltd	Hull	A	0
+Xiatech Ltd	London	A	0
+XiCare Limited	Leigh-On-Sea	A	0
+Xilinx XDC	Edinburgh	A	0
+Xim Limited	Southampton	A	0
+XIN DANCE LTD	Birmingham	A	0
+Xinde Jiabai UK Co., Ltd.	London	A	0
+Xindi Food Ltd Trading as Chopsticks Oriental	Sutton	A	0
+XINET IT CONSULTING LIMITED	Slough	A	0
+XING HEALTH CARE LIMITED	London	A	0
+Xinlung Group Limited	Manchester	A	0
+XINTIANLUN UK LTD	London	A	0
+XIONGQI LTD	Birmingham	A	0
+XIONGQI SOUTHAMPTON LTD	Birmingham	A	0
+Xiros Ltd	Leeds	A	0
+XiTENYS Limited	Surrey	A	0
+XITRICON LTD	Trowbridge	A	0
+XIX Management Limited	London	A	0,4
+XIYICI LIMITED	London	A	0
+XK studio Ltd	London	A	0
+XL Accounting Solutions Limited	Edgware	A	0
+XL CATLIN SERVICES SE T/A 'AXA XL'	London	A	0,4
+XL Displays Ltd	Peterborough	A	0
+XL Electrical Excellence LTD	Poole	A	0
+XL2023 TRADING LTD T/A GREAT WALL CHINESE RESTAURANT	Salisbury	A	0
+XLCC Ltd	Billericay	A	0
+XLINKS LIMITED	Billericay	A	0
+Xlio Ventures Limited	London	A	0
+XLMedia Plc	London	A	0
+XLN ACCOUNTANTS LTD	London	A	0
+XLN TAKEAWAY LTD	Milton Keynes,	A	0
+XLNC CAR HIRE LTD	Birmingham	A	0
+XLNTECH LTD	Reading	A	0
+XLRT LTD	Manchester	A	0
+XM DYNAMICS LTD	Oxford	A	0
+XM2 UK Limited	London	A	0
+XMHRA CONSULTANTS LTD	Slough	A	0
+XML Ltd	London	A	0,4
+XMOS Limited	Bristol	A	0,4
+Xn Global Systems Ltd	Salford	A	0,4
+Xn8 Ltd	Tipton	A	0
+XOCEAN UK Ltd	Banbury	A	0
+Xodus Group Limited	Aberdeen	A	0,4
+XOKO LTD	Inverness	A	0
+Xolun Limited	Wolverhampton	A	0
+Xometry UK Ltd	Chelmsford	A	0
+XON FUELS UK LIMITED	Cornwall	A	0
+Xoople UK Ltd	Manchester	A	0,4
+Xoptix Limited	Malvern	A	0
+Xoriant UK Limited	London	A	0,4
+Xorlogics Ltd.	London	A	0,4
+Xown Solutions Limited	Oldbury	A	0
+XP Factory plc	London	A	0
+XP PLC	Pangbourne	A	0
+XP Tavern	London	A	0
+Xpansiv Operations Limited	London	A	0
+xpate Ltd	London	A	0,4
+XPD Global UK Limited	Birmingham	A	0
+Xpedent UK Ltd	Salford	A	0
+Xpergia Limited	Oxford	A	0
+Xperia Motors Ltd T/A Lucky Seven Motors	Ilford	A	0
+Xperiensys Limited	Richmond	A	0
+Xpert Accountants Ltd	Manchester	A	0
+Xpert Energy Installations Ltd	Aldermaston	A	0
+Xpert IT & Security Ltd T/A Platinum Info Techs	London	A	0
+Xpert Smile Ltd	Saltcoats, North Ayrshire	A	0
+Xpert Solutionz Ltd	Manchester	A	0
+XPERT TEC LTD	London	A	0
+Xpertnest Ltd	Biggleswade	A	0
+XPERTSOL LIMITED	Reading	A	0
+Xplora Technologies Limited	Chiswick	A	0
+Xplore Clothing Limited	Leicester	A	0
+XPLORO LIMITED	Manchester	A	0
+Xplus London Limited	Kingston	A	0
+XPO Global Ltd	Sutton	A	0
+XPO Supply Chain UK Limited	Northampton	A	0,4
+XPO Transport Solutions UK Limited	Northampton	A	0
+XPRESS ALL LTD	Hillingdon	A	0
+XPRESS HAULAGE LTD	Nottingham	A	0
+Xpress Logistic Services Ltd	West Drayton	A	0
+XPRESS MONEY GLOBAL LIMITED	Birmingham	A	0
+XPRESS PARCEL LTD	London	A	0
+XPRESS SOLUTION GLOBAL LIMITED T/A DIRECT FROM UK	West Bromwich	A	0
+Xpress Tyres Ltd	Manchester	A	0
+Xpress UK Wholesale Ltd	Colchester	A	0
+Xpression MCR Limited	Nottingham	A	0
+XPRESSS 24/7 LTD	Edinburgh	A	0
+XPRT CONSTRUCTION LIMITED	Borehamwood	A	0
+XPS CONSTRUCTION AND SKILLS LEARNING LIMITED	London	A	0
+XPS Pensions Limited	Reading	A	0
+XQUISITE PROPERTIES LIMITED	London	A	0
+XR GLOBAL (UK) LIMITED	London	A	0
+XR Therapeutics	Gateshead	A	0
+XRAY GLAZING LIMITED	London	A	0
+XRC Robotics Ltd	Manor House Lane, Datchet	A	0
+XRECYCLING LTD	Leicester	A	0
+XRENEWABLE LTD	London	A	0
+Xriba LTD	London	A	0
+XRM Technologies	Uxbridge	A	0
+XRN Engineering Ltd	Milford	A	0
+XroadMedia Limited	London	A	0
+XRP Health Ltd	London	A	0
+XRP Traders ltd	Leicester	A	0
+XRP VENTURES LTD T/A Armando's	Redcar	A	0
+XS Global Europe Limited	London	A	0
+XSITE ARCHITECTURE LLP	Newcastle upon Tyne	A	0
+XSolutions365 Ltd	Edinburgh	A	0
+XSQUARE UK LTD T/a Cherry Cosmetics	Leicester,	A	0
+Xstrahl Limited	Walsall	A	0
+XTB Limited	London	A	0
+XTEC Limited	Manchester	A	0
+XTECH SOLUTION PRIVATE LIMITED	Oldham	A	0
+XTEL U.K. Limited	London	A	0
+Xtend Global	Worthing	A	0,9
+Xtensible Logix Ltd	Luton	A	0
+Xtera Ltd	Romford	A	0
+XTM International Ltd	Bude	A	0
+XTOB SUPPORT SERVICES NW LTD	London	A	0
+Xtra Building Supplies Ltd	Heston	A	0
+XTRA CARE PROVIDERS LTD	Radstock	A	0
+XTRA CARE SERVICES LTD	Wood Green	A	0
+Xtra Healthcare	Corby	A	0
+Xtra Limited	London	A	0
+Xtra Xtra Ltd	Lowestoft	A	0
+Xtrac Ltd	Thatcham	A	0
+Xtracare Ltd	Maidstone	A	0
+Xtravirt Limited	Leatherhead	A	0
+Xtreme Bimmerc Cars Ltd	Brentford	A	0
+XTREME INTELLIGENCE LIMITED	Beaconsfield	A	0
+Xtreme Pharmacy	Birmingham	A	0
+XTREME SECURITY LTD	Coventry	A	0
+XTREMETECHXPERTS LIMITED	Guisborough	A	0
+Xtremity & Spinal Solutions Limited	Thornaby on Tees	A	0
+XTX Research LLP	London	A	0
+XUM Enterprise Ltd	Manchester	A	0
+xUnlocked Limited	London	A	0
+XUREL LIMITED	Folkestone	A	0
+Xurrent Software UK Ltd	London	A	0,4
+xWatts Limited	Cambridge	A	0
+XWORKS TRAINING LIMITED T/A Smileworks Aesthetic Training HUB	Liverpool	A	0
+XX Bio UK Limited	Cambridge	A	0
+XXCELL LIMITED	London	A	0
+XXYD Ltd	Reigate Surrey	A	0
+XY Automation Ltd	Wales	A	0
+XY Capital Europe Limited	London	A	0,4
+XY Sense UK Limited	Cheshire	A	0,4
+XYB Limited	London	A	0
+XYFIL LTD	Preston	A	0
+Xylem Water Services Ltd	Nottingham	A	0,4
+Xyme Limited	Oxford	A	0
+Xynera Technologies Limited	Gloucester	A	0
+XYNEXCARE LIMITED	Bolton	A	0
+Xynotech Ltd	Sutton	A	0
+Xynteo Ltd	London	A	0
+XYO WHOLESALE LTD	Birmingham	A	0
+XYRESIC LIMITED T/A STONE PHARMACY	Stone	A	0
+XYZ Reality Ltd	London	A	0
+XZONE MEDIA LTD	Hull	A	0,3
+XZONETRADING LIMITED	London	A	0
+XZYAB Ltd	Oxford	A	0
+Yu Xiang Limited	Chester	A	0
+ZENOVA X LTD	Oxford	A	0

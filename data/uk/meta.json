@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-11",
+ "built": "2026-11-11",
+ "source": "https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers",
+ "orgs": 127693,
+ "routes": [
+  "Skilled Worker",
+  "Tier 2 Ministers of Religion",
+  "Global Business Mobility: UK Expansion Worker",
+  "Creative Worker",
+  "Global Business Mobility: Senior or Specialist Worker",
+  "International Agreement",
+  "Scale-up",
+  "Global Business Mobility: Graduate Trainee",
+  "Global Business Mobility: Service Supplier",
+  "Charity Worker",
+  "Religious Worker",
+  "International Sportsperson",
+  "Government Authorised Exchange",
+  "Seasonal Worker",
+  "Global Business Mobility: Secondment Worker",
+  "Intra-company Routes",
+  "Intra Company Transfers (ICT)",
+  "Tier 2 General"
+ ],
+ "top_cities": [
+  "London",
+  "Birmingham",
+  "Manchester",
+  "Leicester",
+  "Glasgow",
+  "Bristol",
+  "Edinburgh",
+  "Leeds",
+  "Nottingham",
+  "Ilford",
+  "Reading",
+  "Coventry"
+ ]
+}

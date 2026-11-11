@@ -1,0 +1,31 @@
+ALTRULLO LTD	Verwood	A	0
+Atrium Consulting Ltd	Virgina Water	A	0
+C4 Care Limited	Vale Road, Stockport	A	0
+CHEERSHUB LTD	Vauxhall	A	0
+Downside House Residential Care Home	Ventnor	A	0
+Education Matters Group	Victoria	A	0
+eProperty Services Ltd	Virginia Water	A	0
+Fifty Degrees North IOW LTD T/A The Wellington Hotel	Ventnor	A	0
+Green park interim & executive Ltd	Victoria	A	0
+INDIANA TANDOORI LIMITED.T/A The SPICE	Virginia Water	A	0
+JOSHCO LTD T/A LIFESTYLE EXPRESS	Vale Of Glamorgan	A	0
+Kreate Many Limited	Virginia Water	A	0
+Language Insight Limited	Vauxhall	A	0
+Masala Bay Limited	Ventnor	A	0
+Mount Business Services Limited	Virginia Water	A	0
+MR P PUDDU & E HOYLES T/A FEELING FRUITY	Vauxhall	A	0
+NABS ACCOUNTANCY	Victoria Road	A	0
+PGA European Tour	Virginia Water	A	0
+Pharmland Ltd T/A Verwood Pharmacy	Verwood	A	0
+PREMIER DAILY LTD T/A PREMIER	Vale Glamorgan	A	0
+Prestige Nursery Mattresses Ltd	Vicarage Lane, Hoo St, Werburgh,	A	0
+Sun Hung Kai Capital (UK) Limited	Vauxhall	A	0,4
+The Association of International Retailers	Vauxhall	A	0
+The Island Free School	Ventnor	A	0
+The Social Good Network Ltd	Ventnor	A	0
+Ventnor Botanic Garden	Ventnor	A	0
+Ventnor Cricket Club Ltd	Ventnor	A	11
+VENTNOR MEDICAL PRACTICE	Ventnor	A	0
+W G Jones Ltd	Verwood	A	0
+Wentworth Club Ltd	Virginia Water	A	0
+Xenophon's Horse Limited	Virginia Water	A	0
