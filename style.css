@@ -1405,3 +1405,8 @@ textarea { resize: vertical; }
 @media print{.wa-strip,.duo-wa{display:none!important}}
 .wa-strip>div{flex:1 1 200px;min-width:0}
 .wa-strip{margin-top:16px}
+
+/* CV builder: stop the form forcing a sideways scroll on phones */
+.cb-grid>*{min-width:0}
+@media(max-width:900px){.cb-grid{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:520px){.cb-dl{flex-wrap:wrap}.cb-dl .btn{flex:1 1 140px;justify-content:center}}
