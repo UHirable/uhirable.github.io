@@ -1312,3 +1312,5 @@ textarea { resize: vertical; }
 .cvj-all{display:flex;justify-content:center;margin-top:18px}
 @media (max-width:720px){.cvj{padding:20px 16px}.cvj-form{grid-template-columns:1fr}}
 @media (max-width:720px){#cvj-list .job-card:nth-child(n+4){display:none}}
+/* CV builder: lighter example text in the form */
+.cb-form input::placeholder,.cb-form textarea::placeholder{color:#b9bfd9;opacity:1}

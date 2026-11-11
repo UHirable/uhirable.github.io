@@ -2,10 +2,12 @@
 (() => {
   const $ = (s) => document.querySelector(s), $$ = (s) => [...document.querySelectorAll(s)];
   const esc = (t) => String(t || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-  const state = { tpl: "classic", name: "", title: "", city: "", email: "", phone: "", linkedin: "", summary: "", skills: "", langs: "", certs: "", exp: [], edu: [], proj: [] };
+  const state = { tpl: "slate", name: "", title: "", city: "", email: "", phone: "", linkedin: "", summary: "", skills: "", langs: "", certs: "", exp: [], edu: [], proj: [] };
   const KEY = "uh-cv-builder";
-  try { const saved = JSON.parse(localStorage.getItem(KEY) || "null"); if (saved && typeof saved === "object") Object.assign(state, saved); } catch (e) {}
-  const save = () => { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) {} };
+  // Nothing is kept: the CV lives in memory only and is gone when the page is closed or refreshed.
+  // Also remove anything an older version of this page saved in the browser.
+  try { localStorage.removeItem(KEY); } catch (e) {}
+  const save = () => {};
 
   // ---------- form ----------
   const F = ["name", "title", "city", "email", "phone", "linkedin", "summary", "skills", "langs", "certs"];
@@ -24,7 +26,7 @@
   });
   if (!state.exp.length && !state.edu.length) { state.exp.push({ role: "", org: "", from: "", to: "", bul: "" }); state.edu.push({ deg: "", org: "", yr: "", note: "" }); renderRows("exp"); renderRows("edu"); }
   $$(".cb-tpl button").forEach((b) => { b.classList.toggle("on", b.dataset.t === state.tpl); b.addEventListener("click", () => { state.tpl = b.dataset.t; $$(".cb-tpl button").forEach((x) => x.classList.toggle("on", x === b)); save(); render(); }); });
-  $("#cb-clear").addEventListener("click", () => { if (!confirm("Clear everything?")) return; localStorage.removeItem(KEY); location.reload(); });
+  $("#cb-clear").addEventListener("click", () => { if (!confirm("Clear everything?")) return; location.reload(); });
 
   // ---------- extra designs (single column, ATS-safe) ----------
   const DS = {
