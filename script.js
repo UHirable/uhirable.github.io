@@ -411,7 +411,7 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
 // ---------- U Hirable assistant (rule-based, no AI, works offline) ----------
 (function () {
   if (document.getElementById("ua-btn")) return;
-  const WA = "https://wa.me/201515594609", BASE = "";
+  const WA = "https://whatsapp.com/channel/0029VbEDfrB7oQhYTHsf582Q", BASE = "";
   const ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16v11H8l-4 4z"/><path d="M8 9h8M8 12h5"/></svg>';
   const btn = document.createElement("button"); btn.id = "ua-btn"; btn.className = "ua-btn"; btn.type = "button"; btn.setAttribute("aria-label", "Ask Lilo"); btn.className += " img"; btn.innerHTML = "<span class=\"lilo-av\"><img src=\"" + UA_BASE + "robot-head.webp\" alt=\"\"><svg class=\"lilo-hand\" viewBox=\"0 0 40 44\" aria-hidden=\"true\"><path d=\"M10 24 V12 a3 3 0 0 1 6 0 V8 a3 3 0 0 1 6 0 v2 a3 3 0 0 1 6 0 v4 a3 3 0 0 1 6 0 v12 a12 12 0 0 1 -24 0z\" fill=\"#fff\" stroke=\"#c9cffd\" stroke-width=\"2\"/><circle cx=\"22\" cy=\"30\" r=\"4\" fill=\"#4fb6ff\"/></svg><i class=\"lilo-hi\">Hi!</i></span><span>Ask Lilo</span>";
   const panel = document.createElement("div"); panel.className = "ua-panel"; panel.setAttribute("role", "dialog"); panel.setAttribute("aria-label", "Lilo, the U Hirable assistant");
@@ -568,3 +568,10 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
 
 // CV Match popup (loaded once on every page)
 if (!window.UHCvPop && !document.querySelector('script[src$="cv-popup.js"]')) { const _cvs = document.createElement("script"); _cvs.src = UA_BASE + "cv-popup.js"; document.head.appendChild(_cvs); }
+
+// WhatsApp channel clicks (home card, events strip, footer icon)
+document.addEventListener("click", (e) => {
+  const a = e.target.closest && e.target.closest('a[href*="whatsapp.com/channel"]'); if (!a) return;
+  const where = a.dataset.wa || (a.closest("footer") ? "footer" : "other");
+  try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "wa-channel/" + where, title: "WhatsApp channel click: " + where, event: true }); } catch (err) {}
+});
