@@ -1476,3 +1476,7 @@ textarea { resize: vertical; }
 @media(max-width:1000px){.sp-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:700px){.sp-app{padding:14px}.sp-bar,.sp-app[data-set="ca"] .sp-bar{grid-template-columns:1fr 1fr}.sp-bar .sp-main{grid-column:1/-1}.sp-app[data-set="ca"] .sp-bar label:last-child{grid-column:1/-1}}
 @media(max-width:560px){.sp-grid{grid-template-columns:1fr}}
+.sp-switch{display:flex;gap:8px;margin:20px 0 -8px}
+.gd .sp-switch a,.sp-switch span{font-weight:800;font-size:.92rem;padding:8px 16px;border-radius:999px;text-decoration:none;border:1.5px solid #c9cffd;background:#fff;color:#141a52}
+.sp-switch span.on{background:#141a52;border-color:#141a52;color:#ffd23f}
+.gd .sp-switch a:hover{border-color:#0112ff;color:#0112ff}
