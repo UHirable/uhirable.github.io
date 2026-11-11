@@ -1,5 +1,5 @@
 // Live jobs block on the CV pages ("Your CV is ready. Now apply").
-// Fills <section id="cv-jobs">. Country comes from the device time zone (next-step.js -> window.UHGeo); nothing is sent anywhere.
+// Fills <section id="cv-jobs">. Country comes from the device time zone (next-step.js -> window.UHVisitor); nothing is sent anywhere.
 // Jobs come from the same sources as the job search: Lensa + Jooble (Cloudflare worker) and WhatJobs (wjfeed.js).
 (() => {
   const box = document.getElementById("cv-jobs"); if (!box) return;
@@ -13,7 +13,7 @@
   const card = (j, i) => { const desc = clean(j.snippet).slice(0, 150); const chips = [j.location && `<span class="chip">📍 ${esc(j.location)}</span>`, j.type && `<span class="chip pc">${esc(j.type)}</span>`, j.salary && `<span class="chip gold">${esc(j.salary)}</span>`].filter(Boolean).join("");
     return `<article class="job-card live-card"><span class="promo-badge live">Live</span><div class="job-head"><div class="icon3d ${i % 2 ? "gold" : ""} js-ini">${esc((j.company || j.title || "?").trim().charAt(0).toUpperCase())}</div><div><h3>${esc(j.title)}</h3><p class="meta">${j.source === "whatjobs" ? "via WhatJobs" : esc(j.company || "Company not listed") + (j.source === "lensa" ? " · via Lensa" : "")}</p></div></div><div class="chips">${chips}</div><p class="desc">${esc(desc)}${desc.length >= 150 ? "…" : ""}</p><div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${esc(j.link)}" target="_blank" rel="noopener nofollow${j.source === "lensa" || j.source === "whatjobs" ? " sponsored" : ""}" data-src="${esc(j.source || "")}">Apply</a></div></article>`; };
 
-  const geo = window.UHGeo;
+  const geo = window.UHVisitor;
   let cc = geo && NAME[geo.cc] ? geo.cc : "us";
   box.classList.add("cvj");
   box.innerHTML = `<div class="cvj-head"><span class="eyebrow"><span class="dot"></span> Next step · Live openings</span><h2>Your CV is ready. Now apply.</h2><p>Live jobs from our job-search partners. Every card opens the original ad.</p></div>

@@ -32,7 +32,7 @@
   };
   let g = TZ[tz] || (CA.test(tz) ? ["ca", "Canada", "Canada", ""] : US.test(tz) ? ["us", "United States", "the US", ""] : null);
   // shared with cvjobs.js: { cc, country, label } or null when the country is not one we cover
-  window.UHGeo = g ? { cc: g[0], country: g[1], label: g[2] } : null;
+  window.UHVisitor = g ? { cc: g[0], country: g[1], label: g[2] } : null;
   let region, sub, btn, href;
   if (g) { region = g[0]; sub = `Next step: put it to work. We have live openings in ${g[2]} right now.`; btn = `See jobs in ${g[2]} →`; href = g[3] || "jobs.html?country=" + encodeURIComponent(g[1]); }
   else { region = "other"; sub = "Next step: put it to work. Browse open jobs from hundreds of job sites."; btn = "Browse open jobs →"; href = "jobs.html"; }
