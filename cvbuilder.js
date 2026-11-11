@@ -2,7 +2,7 @@
 (() => {
   const $ = (s) => document.querySelector(s), $$ = (s) => [...document.querySelectorAll(s)];
   const esc = (t) => String(t || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-  const state = { tpl: "slate", name: "", title: "", city: "", email: "", phone: "", linkedin: "", summary: "", skills: "", langs: "", certs: "", exp: [], edu: [], proj: [] };
+  const state = { tpl: "modern", name: "", title: "", city: "", email: "", phone: "", linkedin: "", summary: "", skills: "", langs: "", certs: "", exp: [], edu: [], proj: [] };
   const KEY = "uh-cv-builder";
   // Nothing is kept: the CV lives in memory only and is gone when the page is closed or refreshed.
   // Also remove anything an older version of this page saved in the browser.
