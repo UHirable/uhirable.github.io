@@ -1364,3 +1364,18 @@ textarea { resize: vertical; }
 .gd-card:hover{transform:translateY(-4px)}.gd-card b{display:block;font-size:1.15rem;color:#141a52;margin:8px 0 6px}.gd-card small{display:inline-block;background:#eef1ff;color:#0112ff;font-weight:800;border-radius:999px;padding:4px 12px}
 @media (max-width:720px){.gd td:first-child{white-space:normal}}
 .gd a.gd-card{color:#4a5185;font-weight:500}.gd a.gd-card:hover{color:#4a5185}
+/* Compact footer: job-seeker links in two columns, the two short lists stacked; wrapped inline links on phones */
+.fcols{grid-template-columns:1.25fr 2fr 1fr;grid-template-rows:auto 1fr;gap:18px 34px;padding-bottom:20px}
+.fcols .fbrand{grid-column:1;grid-row:1/3}
+.fcols nav[aria-label="For job seekers"]{grid-column:2;grid-row:1/3;columns:2;column-gap:30px}
+.fcols nav[aria-label="For job seekers"] h4{column-span:all}
+.fcols nav[aria-label="For companies"]{grid-column:3;grid-row:1}
+.fcols nav[aria-label="U Hirable"]{grid-column:3;grid-row:2}
+.f1 h4{margin:4px 0 10px}
+.f1 .fcols nav a{margin-bottom:7px;font-size:.94rem;break-inside:avoid}
+@media(max-width:760px){
+  .fcols{grid-template-columns:1fr;grid-template-rows:none;gap:16px}
+  .fcols .fbrand,.fcols nav[aria-label="For job seekers"],.fcols nav[aria-label="For companies"],.fcols nav[aria-label="U Hirable"]{grid-column:1;grid-row:auto;columns:auto;text-align:center}
+  .f1 .fcols nav a{display:inline-block;margin:0 8px 8px;font-size:.92rem}
+  .f1 h4{margin:2px 0 8px}
+}
