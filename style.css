@@ -1323,3 +1323,18 @@ textarea { resize: vertical; }
 .cb-page .gl .gb{flex:0 1 auto}
 #cb-ghnote{margin:10px 2px 0;text-align:center}
 @media print{.cb-page .gh,.cb-page .ph,#cb-ghnote{display:none!important}}
+/* CV builder PDF: only the CV itself is printed. No jobs block, no site parts, no browser header/footer.
+   @page margin 0 stops the browser adding its date/title/URL lines; the page margins come from the spacer rows instead (repeated on every page). */
+.cb-pm{display:none}
+@media print{
+  @page{margin:0}
+  html,body{margin:0!important;padding:0!important;background:#fff!important}
+  #cv-jobs,.cvj,.uhns-ov,.uhcv-ov,.tpv-ov,.topic-faq,.cb-top,.cb-dl,#cb-ghnote,.ua-btn,.ua-panel,header,footer,nav{display:none!important}
+  .cb-sheet{display:table!important;width:100%!important;table-layout:fixed}
+  .cb-pm{display:table-header-group!important;break-inside:avoid;page-break-inside:avoid}.cb-pm.cb-pm-b{display:table-footer-group!important}
+  .cb-pm>div{display:table-row}.cb-pm>div::before{content:"";display:table-cell;height:16mm}
+  .cb-page{display:block!important;padding:0 16mm!important;width:auto!important}
+  /* Executive: the navy frame is drawn around every printed page instead of around the text block */
+  .cb-page.executive{outline:none!important}
+  .cb-page.executive::after{content:"";position:fixed;top:8mm;right:8mm;bottom:8mm;left:8mm;border:2px solid #141a52;pointer-events:none}
+}

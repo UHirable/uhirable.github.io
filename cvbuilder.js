@@ -69,11 +69,13 @@
     const ph = (t) => `<span class="ph">${t}</span>`;
     const EX = { name: "Amel Moussa", title: "Job title", city: "Alexandria, Egypt", email: "name@email.com", phone: "+20 1xx xxx xxxx", linkedin: "linkedin.com/in/yourname" };
     const part = (k) => (state[k] ? esc(state[k]) : ph(EX[k]));
+    // Contact line: a separator is real only between two filled parts, so nothing stray is left when the examples are hidden for PDF.
+    const line = (keys, sep) => { let seen = false; return keys.map((k, i) => { const filled = !!state[k]; const sp = i ? sep : ""; const out = filled ? (seen ? sp : ph(sp)) + esc(state[k]) : ph(sp + EX[k]); if (filled) seen = true; return out; }).join(""); };
     let h;
     if (DS[state.tpl]) {
       const sep = state.tpl === "slate" ? "   |   " : "  •  ";
-      h = `<div class="hd"><div class="n">${part("name")}</div><div class="t">${part("title")}</div><div class="c">${["city", "email", "phone", "linkedin"].map(part).join(sep)}</div></div>`;
-    } else h = `<div class="n">${part("name")}</div><div class="c">${["title", "city", "email", "phone", "linkedin"].map(part).join("  ·  ")}</div>`;
+      h = `<div class="hd"><div class="n">${part("name")}</div><div class="t">${part("title")}</div><div class="c">${line(["city", "email", "phone", "linkedin"], sep)}</div></div>`;
+    } else h = `<div class="n">${part("name")}</div><div class="c">${line(["title", "city", "email", "phone", "linkedin"], "  ·  ")}</div>`;
     const S = sections(); const have = new Set(S.map((s) => s.h));
     const real = (s) => { let o = `<h3>${esc(s.h)}</h3>`; if (s.text) o += `<p>${esc(s.text)}</p>`; if (s.items) for (const it of s.items) { if (it.t) o += `<div class="it"><b>${esc(it.t)}</b>${it.d ? `<span>${esc(it.d)}</span>` : ""}</div>`; if (it.b.length) o += `<ul>${it.b.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`; } return o; };
     // Real sections keep their order; an example block stands in for each main section that is still empty.
