@@ -22,6 +22,9 @@ Each "jobs in city" page shows live openings from job-search partners (updated d
 
 Example title pages follow the pattern https://uhirable.github.io/{title}-jobs-in-{city}.html, for example [Accountant jobs in Dubai](https://uhirable.github.io/accountant-jobs-in-dubai.html), [Nurse jobs in London](https://uhirable.github.io/nurse-jobs-in-london.html) and [Software engineer jobs in Cairo](https://uhirable.github.io/software-engineer-jobs-in-cairo.html).
 
+## Walk-in interviews
+- [Walk-in interviews around the world](https://uhirable.github.io/walk-in-interviews.html): confirmed hiring events and job fairs for the current month by country, each linked to the organiser, updated monthly
+
 ## Career guides
 - [UK CV format](https://uhirable.github.io/uk-cv-format.html): what UK employers expect on a CV, what to leave out, free template, live UK jobs
 - [UK nursing jobs with visa sponsorship](https://uhirable.github.io/uk-nurse-visa-sponsorship-jobs.html): Health and Care Worker visa, NMC registration steps and costs, NHS starting pay, live nursing jobs
