@@ -1,11 +1,35 @@
+# Refreshes the search data behind uk-visa-sponsors.html and canada-lmia-employers.html
+# from the two official sources (GOV.UK register of licensed sponsors, Canada positive LMIA list).
+# It only changes files under data/. It never edits pages, design or text.
+# Runs on the 1st of every month, or manually from Actions > Sponsor data > Run workflow.
 name: Sponsor data
 on:
+  schedule:
+    - cron: "17 3 1 * *"
   workflow_dispatch:
+
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: sponsor-data
+  cancel-in-progress: false
+
 jobs:
-  inspect:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: pip install -q openpyxl && python3 tools/inspect_sources.py
+      - name: Build data from the official files
+        run: |
+          pip install -q openpyxl
+          python3 tools/build_sponsor_data.py
+      - name: Commit data only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "No change in the official data"; exit 0; fi
+          git commit -q -m "Sponsor data: monthly refresh from GOV.UK and Open Canada"
+          git push
+          du -sh data
