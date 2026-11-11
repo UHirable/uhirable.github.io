@@ -26,6 +26,14 @@ Example title pages follow the pattern https://uhirable.github.io/{title}-jobs-i
 - [UK CV format](https://uhirable.github.io/uk-cv-format.html): what UK employers expect on a CV, what to leave out, free template, live UK jobs
 - [UK nursing jobs with visa sponsorship](https://uhirable.github.io/uk-nurse-visa-sponsorship-jobs.html): Health and Care Worker visa, NMC registration steps and costs, NHS starting pay, live nursing jobs
 - [Remote jobs from Egypt that pay in dollars](https://uhirable.github.io/remote-jobs-from-egypt-usd.html): contractor vs employer of record, what to ask before accepting, live remote jobs
+- [Jobs in Germany for English Speakers](https://uhirable.github.io/jobs-in-germany-for-english-speakers.html): visa routes, 2026 salary thresholds, the Opportunity Card for job seekers, live jobs in Germany
+- [German CV Format (Lebenslauf)](https://uhirable.github.io/german-cv-format.html): what German employers expect on a CV, free template, live jobs in Germany
+- [Jobs in Canada for Foreigners](https://uhirable.github.io/jobs-in-canada-for-foreigners.html): employer-specific vs open work permits, LMIA, scam warnings, live jobs in Canada
+- [Canadian Resume Format](https://uhirable.github.io/canadian-resume-format.html): what Canadian employers expect on a resume, what to leave out, live jobs in Canada
+- [Jobs in Kuwait for Expats](https://uhirable.github.io/jobs-in-kuwait-for-expats.html): how the work permit and Article 18 residence work, documents to prepare, live jobs in Kuwait
+- [Jobs in Bahrain for Expats](https://uhirable.github.io/jobs-in-bahrain-for-expats.html): LMRA work permit, who pays, right to change employer, grace period, live jobs in Bahrain
+- [Gulf Jobs for Indian Applicants](https://uhirable.github.io/gulf-jobs-for-indian-applicants.html): registered recruiting agents, legal limit on agent fees, ECR clearance, PBBY insurance, live Gulf jobs
+- [Fresh Graduate Jobs in Egypt](https://uhirable.github.io/fresh-graduate-jobs-in-egypt.html): search words for entry-level jobs, CV with no experience, live jobs in Egypt
 - [All career guides](https://uhirable.github.io/guides.html): each guide lists its official sources and the date it was last checked
 
 ## Free CV tools
