@@ -1,0 +1,30 @@
+3i plc	London	A	0,4,7
+AB InBev UK Ltd	London	A	0,4,7
+ABN AMRO Bank N.V., UK Branch	London	A	0,4,7
+Acrisure International Holdings	London	A	0,4,7
+Addleshaw Goddard LLP	London	A	0,4,7
+Adonis Smart Foods Ltd	London	A	0,4,7
+Akelius Residential Limited	London	A	0,4,7
+Alcatel Submarine Networks UK Ltd	London	A	0,4,7
+Allen Overy Shearman Sterling Service Company Limited	London	A	0,4,7
+Allianz Global Investors UK Limited	London	A	0,4,7
+Amazon UK Services Ltd	London	A	0,4,7
+American Express Services Europe Limited	London	A	0,4,7
+AMWINS GLOBAL RISKS GROUP LIMITED	London	A	0,4,7
+Anglo American Services (UK) Limited	London	A	0,4,7
+Apple Europe Limited	London	A	0,3,4,7
+Arcadis LLP	London	A	0,4,7
+Aros Kapital Ltd	London	A	0,4,7
+Artelia Projects UK Limited	London	A	0,4,7
+AS London Shoreditch Operations B.V.	London	A	0,4,7
+Ashurst LLP	London	A	0,4,7
+Associated Newspapers Ltd	London	A	0,4,7
+Atariya Restaurant London Limited	London	A	0,4,7
+AtkinsRealis UK Limited	London	A	0,4,7
+Atos IT Services UK Ltd	London	A	0,4,7
+AVASO Technology Solutions Ltd	London	A	0,4,7
+Aviva plc	London	A	0,4,7
+BAE Systems Plc	London	A	0,4,7,12
+Banco Santander SA, London Branch	London	A	0,4,7
+Bank of China (UK) Limited	London	A	0,4,7
+Banking Circle	London	A	0,4,7

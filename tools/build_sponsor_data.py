@@ -74,7 +74,13 @@ def build_uk():
         if o["c"]:
             by_city[shard_key(o["c"][0].lower())].append(line)
             cities[o["c"]] += 1
+    # Shown before the visitor types: 30 London employers licensed for Skilled Worker plus both
+    # Global Business Mobility routes below (mostly large employers), in alphabetical order.
+    need = {routes.index(r) for r in ("Skilled Worker", "Global Business Mobility: Senior or Specialist Worker", "Global Business Mobility: Graduate Trainee") if r in routes}
+    london = sorted((o for o in orgs.values() if o["c"] == "London" and o["g"] == "A" and need <= o["r"]), key=lambda o: o["n"].lower())[:30]
+    top = ["\t".join([o["n"], o["c"], o["g"], ",".join(str(i) for i in sorted(o["r"]))]) for o in london]
     files = {"n-%s.txt" % k: "\n".join(v) + "\n" for k, v in by_name.items()}
+    files["top.txt"] = "\n".join(top) + "\n"
     files.update({"c-%s.txt" % k: "\n".join(v) + "\n" for k, v in by_city.items()})
     files["meta.json"] = json.dumps({
         "updated": page.get("public_updated_at", "")[:10], "built": TODAY, "source": UK_PAGE,
@@ -132,7 +138,8 @@ def build_ca():
         e = emp[key]
         lines.append("\t".join([e["n"], e["c"], e["p"], str(e["pos"]), "; ".join(o for o, _ in e["occ"].most_common(3)), e["q"]]))
     newest = found[quarters[-1]]
-    files = {"all.txt": "\n".join(lines) + "\n", "meta.json": json.dumps({
+    top = sorted(lines, key=lambda l: -int(l.split("\t")[3]))[:30]
+    files = {"all.txt": "\n".join(lines) + "\n", "top.txt": "\n".join(top) + "\n", "meta.json": json.dumps({
         "quarters": ["%dQ%d" % q for q in quarters], "published": (newest.get("last_modified") or newest.get("created") or "")[:10],
         "built": TODAY, "source": CA_PAGE, "employers": len(emp), "positions": sum(e["pos"] for e in emp.values()),
     }, ensure_ascii=False, indent=1)}
