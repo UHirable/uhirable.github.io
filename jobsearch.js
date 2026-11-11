@@ -2,7 +2,7 @@
 (() => {
   const API = "https://uhirable-jobs.amel-moussa10.workers.dev/";
 
-  const CC = { "United States": "us", "Egypt": "eg", "Bahrain": "bh", "Kuwait": "kw", "Qatar": "qa", "Saudi Arabia": "sa", "United Arab Emirates": "ae", "United Kingdom": "uk", "Canada": "ca", "Germany": "de" };
+  const CC = { "United States": "us", "Egypt": "eg", "Bahrain": "bh", "Kuwait": "kw", "Qatar": "qa", "Saudi Arabia": "sa", "United Arab Emirates": "ae", "United Kingdom": "uk", "Canada": "ca", "Germany": "de", "India": "in", "Pakistan": "pk" };
   const ORDER = ["United Arab Emirates", "Saudi Arabia", "Qatar", "Kuwait", "Bahrain", "Egypt", "United Kingdom", "Canada", "Germany"];
   const $ = (s) => document.querySelector(s);
   const esc = (t) => String(t || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
@@ -11,7 +11,7 @@
 
   // add live-search countries to the dropdown (after our own countries)
   const have = new Set([...sel.options].map((o) => o.value));
-  const grp = document.createElement("optgroup"); grp.label = "Live search · Gulf & Egypt";
+  const grp = document.createElement("optgroup"); grp.label = "Live search";
   ORDER.forEach((c) => { if (!have.has(c)) { const o = document.createElement("option"); o.value = c; o.textContent = c; grp.appendChild(o); } });
   if (grp.children.length) sel.appendChild(grp);
 
@@ -26,6 +26,8 @@
     "Kuwait": [["kuwait"], ["Kuwait City"]],
     "Bahrain": [["bahrain"], ["Manama"]],
     "Egypt": [["egypt"], ["Cairo", "Alexandria", "Giza", "New Cairo", "Mansoura"]],
+    "India": [["india"], ["Mumbai", "Delhi", "Bangalore", "Bengaluru", "Hyderabad", "Chennai", "Pune", "Kolkata", "Gurgaon", "Noida", "Ahmedabad"]],
+    "Pakistan": [["pakistan"], ["Karachi", "Lahore", "Islamabad", "Rawalpindi", "Faisalabad", "Peshawar"]],
     "United States": [["united states", "usa", "america"], ["New York", "San Francisco", "Los Angeles", "Chicago", "Houston", "Dallas", "Austin", "Boston", "Seattle", "Miami", "Atlanta", "Denver", "Washington"]],
   };
   const PLACE_LIST = [];
@@ -100,6 +102,14 @@
   sel.addEventListener("change", () => { if (!selfChange) autoSet = false; live(true); });
   box.addEventListener("input", () => { if (!detect()) kick(); });
   $("#live-next").addEventListener("click", () => { page++; live(false); });
+  // India and Pakistan appear in the dropdown only once the worker has their Jooble keys (checked once per visit).
+  const u0 = new URLSearchParams(location.search);
+  const addCountry = (c) => { if (hasOpt(c)) return; const o = document.createElement("option"); o.value = c; o.textContent = c; (grp.parentNode ? grp : sel).appendChild(o); if (!grp.parentNode && grp.children.length) sel.appendChild(grp); if (u0.get("country") === c && sel.value === "all") { sel.value = c; sel.dispatchEvent(new Event("change")); } };
+  ["India", "Pakistan"].forEach((c) => {
+    const k = "uh-live-" + CC[c]; let v = null; try { v = sessionStorage.getItem(k); } catch (e) {}
+    if (v === "1") return addCountry(c); if (v === "0") return;
+    fetch(API + "?src=jooble&cc=" + CC[c] + "&q=&page=1").then((r) => r.json()).then((d) => { const ok = !d.error && (d.jobs || []).length > 0; try { sessionStorage.setItem(k, ok ? "1" : "0"); } catch (e) {} if (ok) addCountry(c); }).catch(() => {});
+  });
   const u = new URLSearchParams(location.search); if (u.get("country") && [...sel.options].some((o) => o.value === u.get("country"))) { sel.value = u.get("country"); sel.dispatchEvent(new Event("change")); }
   if (u.get("q")) { box.value = u.get("q"); box.dispatchEvent(new Event("input", { bubbles: true })); }
   document.addEventListener("click", (e) => { const a = e.target.closest && e.target.closest("a[data-src]"); if (!a || !a.dataset.src) return; try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "out/" + a.dataset.src, title: "Job click: " + a.dataset.src, event: true }); } catch (x) {} });

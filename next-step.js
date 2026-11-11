@@ -4,18 +4,29 @@
   if (window.UHNextStep) return;
   const count = (path, title) => { try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path, title, event: true }); } catch (e) {} };
   let tz = ""; try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) {}
-  const MENA = {
-    "Africa/Cairo": ["Egypt", "egypt.html"],
-    "Asia/Riyadh": ["Saudi Arabia", "saudi-arabia.html"],
-    "Asia/Dubai": ["the UAE", "uae.html"],
-    "Asia/Qatar": ["Qatar", "qatar.html"],
-    "Asia/Kuwait": ["Kuwait", "kuwait.html"],
-    "Asia/Bahrain": ["Bahrain", "bahrain.html"],
-  };
+  // Country from the device time zone -> where the "See jobs" button goes.
+  const CA = /^America\/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Montreal|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Whitehorse|Yellowknife|Dawson|Dawson_Creek|Fort_Nelson|Swift_Current|Rankin_Inlet|Resolute|Cambridge_Bay|Inuvik|Thunder_Bay|Nipigon|Atikokan|Creston|Blanc-Sablon)$/;
   const US = /^America\/(New_York|Chicago|Denver|Los_Angeles|Phoenix|Anchorage|Detroit|Boise|Juneau|Sitka|Nome|Adak|Metlakatla|Yakutat|Menominee|Indiana\/.+|Kentucky\/.+|North_Dakota\/.+)$|^Pacific\/Honolulu$/;
+  const TZ = {
+    "Africa/Cairo": ["eg", "Egypt", "Egypt", "egypt.html"],
+    "Asia/Riyadh": ["sa", "Saudi Arabia", "Saudi Arabia", "saudi-arabia.html"],
+    "Asia/Dubai": ["ae", "United Arab Emirates", "the UAE", "uae.html"],
+    "Asia/Qatar": ["qa", "Qatar", "Qatar", "qatar.html"],
+    "Asia/Kuwait": ["kw", "Kuwait", "Kuwait", "kuwait.html"],
+    "Asia/Bahrain": ["bh", "Bahrain", "Bahrain", "bahrain.html"],
+    "Europe/London": ["uk", "United Kingdom", "the UK", ""],
+    "Europe/Belfast": ["uk", "United Kingdom", "the UK", ""],
+    "Europe/Berlin": ["de", "Germany", "Germany", ""],
+    "Europe/Busingen": ["de", "Germany", "Germany", ""],
+    "Asia/Kolkata": ["in", "India", "India", ""],
+    "Asia/Calcutta": ["in", "India", "India", ""],
+    "Asia/Karachi": ["pk", "Pakistan", "Pakistan", ""],
+  };
+  let g = TZ[tz] || (CA.test(tz) ? ["ca", "Canada", "Canada", ""] : US.test(tz) ? ["us", "United States", "the US", ""] : null);
+  // shared with cvjobs.js: { cc, country, label } or null when the country is not one we cover
+  window.UHGeo = g ? { cc: g[0], country: g[1], label: g[2] } : null;
   let region, sub, btn, href;
-  if (MENA[tz]) { const [name, page] = MENA[tz]; region = page.replace(".html", ""); sub = `Next step: put it to work. We have live openings in ${name} right now.`; btn = `See jobs in ${name} →`; href = page; }
-  else if (US.test(tz)) { region = "us"; sub = "Next step: put it to work. See open roles at fast-growing US companies."; btn = "See jobs in the US →"; href = "jobs.html"; }
+  if (g) { region = g[0]; sub = `Next step: put it to work. We have live openings in ${g[2]} right now.`; btn = `See jobs in ${g[2]} →`; href = g[3] || "jobs.html?country=" + encodeURIComponent(g[1]); }
   else { region = "other"; sub = "Next step: put it to work. Browse open jobs from hundreds of job sites."; btn = "Browse open jobs →"; href = "jobs.html"; }
 
   let shown = false;
