@@ -1430,3 +1430,4 @@ textarea { resize: vertical; }
 .wi-foot{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}.wi-foot a{font-weight:800;font-size:.9rem;color:#0112ff;text-decoration:none}.wi-foot a:hover{text-decoration:underline}
 .wi-jobs{margin:14px 0 0}.wi [hidden]{display:none!important}
 @media (max-width:720px){.hero-six .btn:has(.hb-new) .hi{display:none}.hero-six .hb-new{position:absolute;top:3px;right:5px;margin:0;font-size:.52rem;padding:1px 5px;border-radius:6px}}
+.wi-filter{display:flex;align-items:center;gap:10px;margin:18px 0 0;font-weight:800}.wi-filter select{font:inherit;font-weight:700;padding:10px 14px;border-radius:12px;border:1.5px solid #c9cffd;background:#fff;color:#141a52;min-width:240px;max-width:100%}
