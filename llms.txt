@@ -1,6 +1,6 @@
 # U Hirable
 
-> U Hirable is a free hiring hub. Job seekers can search live jobs in the UAE, Saudi Arabia, Qatar, Kuwait, Bahrain, Egypt, the United States and the United Kingdom, see typical salaries and employer requirements by job title and city, and check their CV against a job ad for free. Companies can find recruiting support and hiring tools. The site is run by a recruiter and is free to use.
+> U Hirable is a free hiring hub. Job seekers can search live jobs in the UAE, Saudi Arabia, Qatar, Kuwait, Bahrain, Egypt, the United States, the United Kingdom, Canada, Germany, Spain, India, Pakistan, South Africa, the Philippines and Indonesia, see typical salaries and employer requirements by job title and city, and check their CV against a job ad for free. Companies can find recruiting support and hiring tools. The site is run by a recruiter and is free to use.
 
 Each "jobs in city" page shows live openings from job-search partners (updated daily), a typical salary range, what employers ask for, where the jobs are, and tips before applying. Some outbound job and tool links are partner links; see the affiliate disclosure.
 
@@ -21,6 +21,12 @@ Each "jobs in city" page shows live openings from job-search partners (updated d
 - [Jobs in London](https://uhirable.github.io/london.html): London jobs by title, salaries in GBP and visa sponsorship notes
 
 Example title pages follow the pattern https://uhirable.github.io/{title}-jobs-in-{city}.html, for example [Accountant jobs in Dubai](https://uhirable.github.io/accountant-jobs-in-dubai.html), [Nurse jobs in London](https://uhirable.github.io/nurse-jobs-in-london.html) and [Software engineer jobs in Cairo](https://uhirable.github.io/software-engineer-jobs-in-cairo.html).
+
+## Career guides
+- [UK CV format](https://uhirable.github.io/uk-cv-format.html): what UK employers expect on a CV, what to leave out, free template, live UK jobs
+- [UK nursing jobs with visa sponsorship](https://uhirable.github.io/uk-nurse-visa-sponsorship-jobs.html): Health and Care Worker visa, NMC registration steps and costs, NHS starting pay, live nursing jobs
+- [Remote jobs from Egypt that pay in dollars](https://uhirable.github.io/remote-jobs-from-egypt-usd.html): contractor vs employer of record, what to ask before accepting, live remote jobs
+- [All career guides](https://uhirable.github.io/guides.html): each guide lists its official sources and the date it was last checked
 
 ## Free CV tools
 - [CV Match Checker](https://uhirable.github.io/cv-match.html): match score, missing keywords and ATS format check against a job ad; runs in the browser, nothing uploaded

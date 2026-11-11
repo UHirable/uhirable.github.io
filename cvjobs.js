@@ -14,9 +14,12 @@
     return `<article class="job-card live-card"><span class="promo-badge live">Live</span><div class="job-head"><div class="icon3d ${i % 2 ? "gold" : ""} js-ini">${esc((j.company || j.title || "?").trim().charAt(0).toUpperCase())}</div><div><h3>${esc(j.title)}</h3><p class="meta">${j.source === "whatjobs" ? "via WhatJobs" : esc(j.company || "Company not listed") + (j.source === "lensa" ? " · via Lensa" : "")}</p></div></div><div class="chips">${chips}</div><p class="desc">${esc(desc)}${desc.length >= 150 ? "…" : ""}</p><div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${esc(j.link)}" target="_blank" rel="noopener nofollow${j.source === "lensa" || j.source === "whatjobs" ? " sponsored" : ""}" data-src="${esc(j.source || "")}">Apply</a></div></article>`; };
 
   const geo = window.UHVisitor;
-  let cc = geo && NAME[geo.cc] ? geo.cc : "us";
+  // Guide pages can fix the country, keyword and heading: <section id="cv-jobs" data-cc="uk" data-q="nurse" data-title="…" data-sub="…">
+  const D = box.dataset;
+  let cc = D.cc && NAME[D.cc] ? D.cc : geo && NAME[geo.cc] ? geo.cc : "us";
+  const TITLE = D.title || "Your CV is ready. Now apply.", SUB = D.sub || "Live jobs from our job-search partners. Every card opens the original ad.";
   box.classList.add("cvj");
-  box.innerHTML = `<div class="cvj-head"><span class="eyebrow"><span class="dot"></span> Next step · Live openings</span><h2>Your CV is ready. Now apply.</h2><p>Live jobs from our job-search partners. Every card opens the original ad.</p></div>
+  box.innerHTML = `<div class="cvj-head"><span class="eyebrow"><span class="dot"></span> Next step · Live openings</span><h2>${esc(TITLE)}</h2><p>${esc(SUB)}</p></div>
     <form class="cvj-form" id="cvj-form"><label>Job title<input type="search" id="cvj-q" placeholder="e.g. Accountant, Nurse, Developer" autocomplete="off"></label><label>Country<select id="cvj-cc">${COUNTRIES.map(([c, n]) => `<option value="${c}"${c === cc ? " selected" : ""}>${n}</option>`).join("")}</select></label><button type="submit" class="btn btn-primary">Search jobs</button></form>
     <p class="js-bar" id="cvj-status">Loading live jobs…</p>
     <div class="jobs-list" id="cvj-list"></div>
@@ -42,7 +45,7 @@
     let res = await fetchJobs(cc, kw);
     if (my !== seq) return;
     // First automatic load: if the visitor's country has no live source yet, show US jobs instead of an empty block
-    if (auto && !res.jobs.length && cc !== "us") { cc = "us"; ccEl.value = "us"; res = await fetchJobs("us", kw); if (my !== seq) return; }
+    if (auto && !D.cc && !res.jobs.length && cc !== "us") { cc = "us"; ccEl.value = "us"; res = await fetchJobs("us", kw); if (my !== seq) return; }
     const jobs = res.jobs.slice(0, SHOW);
     list.innerHTML = jobs.map(card).join("");
     const link = "jobs.html?country=" + encodeURIComponent(NAME[cc]) + (kw ? "&q=" + encodeURIComponent(kw) : "");
@@ -55,7 +58,7 @@
       status.className = "js-bar empty"; status.innerHTML = `No live jobs${kw ? ` for <b>${esc(kw)}</b>` : ""} in ${esc(NAME[cc])} right now. Try a shorter job title or another country.`;
       all.textContent = "Open the job search →";
     }
-    count((auto ? "cv-jobs/" : "cv-jobs-search/") + cc, (auto ? "CV page jobs " : "CV page job search ") + cc);
+    count((auto ? (D.page ? "guide-jobs/" + D.page + "/" : "cv-jobs/") : "cv-jobs-search/") + cc, (auto ? "CV page jobs " : "CV page job search ") + cc);
   }
   $("#cvj-form").addEventListener("submit", (e) => { e.preventDefault(); load(false); });
   ccEl.addEventListener("change", () => load(false));
@@ -63,6 +66,6 @@
 
   // Load only when the block is close to the screen, so visitors who never scroll down cost no requests.
   let started = false;
-  const start = () => { if (started) return; started = true; if (!qEl.value) qEl.value = fromBuilder(); load(true); };
+  const start = () => { if (started) return; started = true; if (!qEl.value) qEl.value = D.q || fromBuilder(); load(true); };
   if ("IntersectionObserver" in window) { const io = new IntersectionObserver((en) => { if (en.some((x) => x.isIntersecting)) { io.disconnect(); start(); } }, { rootMargin: "500px 0px" }); io.observe(box); } else start();
 })();
