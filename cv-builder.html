@@ -17,7 +17,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="favicon.png">
   <link rel="preload" href="fonts/plus-jakarta-sans.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="style.css?v=61">
+  <link rel="stylesheet" href="style.css?v=62">
     <script type="application/ld+json">{"@context":"https://schema.org","@type":"SoftwareApplication","name":"U Hirable CV Builder","applicationCategory":"BusinessApplication","operatingSystem":"Web","url":"https://uhirable.github.io/cv-builder.html","description":"Free CV builder that runs in your browser: live preview, ATS-friendly templates, download as Word or PDF, no sign-up.","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}</script>
 <style>
 .cb-tpl{flex-wrap:wrap}
@@ -53,7 +53,7 @@
     <p>Fill the form, watch your CV build itself, download it as Word or PDF. Nothing is uploaded or stored anywhere but your own device.</p>
   </div></section>
   <section class="page-body cb-body"><div class="container">
-    <div class="cb-top"><div class="cb-tpl"><span>Template</span><button type="button" data-t="modern" class="on">Classic</button><button type="button" data-t="slate">Slate</button><button type="button" data-t="crimson">Crimson</button><button type="button" data-t="executive">Executive</button><button type="button" data-t="mono">Mono</button><button type="button" data-t="emerald">Emerald</button></div><div class="cb-actions"><button type="button" class="btn btn-sm btn-primary" id="cb-docx">Download Word</button><button type="button" class="btn btn-sm btn-soft" id="cb-pdf">Download PDF</button><button type="button" class="btn btn-sm btn-soft" id="cb-match">Check with CV Match →</button></div></div>
+    <div class="cb-top"><div class="cb-tpl"><span>Template</span><button type="button" data-t="modern" class="on">Classic</button><button type="button" data-t="slate">Slate</button><button type="button" data-t="crimson">Crimson</button><button type="button" data-t="executive">Executive</button><button type="button" data-t="emerald">Emerald</button></div><div class="cb-actions"><button type="button" class="btn btn-sm btn-primary" id="cb-docx">Download Word</button><button type="button" class="btn btn-sm btn-soft" id="cb-pdf">Download PDF</button><button type="button" class="btn btn-sm btn-soft" id="cb-match">Check with CV Match →</button></div></div>
     <div class="cb-grid">
       <form class="cb-form" onsubmit="return false">
         <details open><summary><i class="i3d s">👤</i> Personal details</summary><div class="cb-fields"><div class="cb-2"><label>Full name<input id="f-name" placeholder="Amel Moussa"></label><label>Job title<input id="f-title" placeholder="Data Analyst"></label></div><div class="cb-2"><label>City, Country<input id="f-city" placeholder="Alexandria, Egypt"></label><label>Email<input id="f-email" type="email" placeholder="name@email.com"></label></div><div class="cb-2"><label>Phone<input id="f-phone" placeholder="+20 1xx xxx xxxx"></label><label>LinkedIn<input id="f-linkedin" placeholder="linkedin.com/in/yourname"></label></div></div></details>
@@ -64,10 +64,10 @@
         <details open><summary><i class="i3d s gold">⚡</i> Skills, languages, certificates</summary><div class="cb-fields"><label>Skills (comma-separated)<input id="f-skills" placeholder="SQL, Python, Tableau, Excel, A/B testing"></label><label>Languages<input id="f-langs" placeholder="English (fluent), Arabic (native)"></label><label>Certificates (one per line)<textarea id="f-certs" rows="2" placeholder="Google Data Analytics Certificate, 2025"></textarea></label></div></details>
         <p class="cm-tiny">Nothing is saved: your details are cleared when you close or refresh this page. <button type="button" class="cb-link" id="cb-clear">Clear everything</button></p>
       </form>
-      <div class="cb-prev"><div class="cb-prev-h"><b>Live preview</b><span id="cb-words">0 words</span></div><div class="cb-sheet"><div id="cb-pv" class="cb-page classic"></div></div><div class="cb-dl"><button type="button" class="btn btn-primary" id="cb-docx2">⬇ Download Word</button><button type="button" class="btn btn-soft" id="cb-pdf2">⬇ Download PDF</button></div></div>
+      <div class="cb-prev"><div class="cb-prev-h"><b>Live preview</b><span id="cb-words">0 words</span></div><div class="cb-sheet"><div id="cb-pv" class="cb-page modern"></div></div><p class="cm-tiny" id="cb-ghnote">Grey lines are examples only. Your Word and PDF files contain just what you type.</p><div class="cb-dl"><button type="button" class="btn btn-primary" id="cb-docx2">⬇ Download Word</button><button type="button" class="btn btn-soft" id="cb-pdf2">⬇ Download PDF</button></div></div>
     </div>
     <section id="cv-jobs" aria-label="Live jobs"></section>
-    <section class="topic-faq cb-faq"><h2>How the free CV builder works</h2><p>Type your details once and the preview updates as you go. Pick one of 6 designs (Classic, Slate, Crimson, Executive, Mono or Emerald), then download a Word file (editable) or a PDF (ready to send). Everything happens inside your browser: your CV is never uploaded to U Hirable or anyone else, nothing is kept after you close or refresh the page, and there is no account, watermark or paid tier.</p><p>Before you apply, click <b>Check with CV Match</b> to compare your new CV against the job ad and see which keywords to add.</p></section>
+    <section class="topic-faq cb-faq"><h2>How the free CV builder works</h2><p>Type your details once and the preview updates as you go. Pick one of 5 designs (Classic, Slate, Crimson, Executive or Emerald), then download a Word file (editable) or a PDF (ready to send). Everything happens inside your browser: your CV is never uploaded to U Hirable or anyone else, nothing is kept after you close or refresh the page, and there is no account, watermark or paid tier.</p><p>Before you apply, click <b>Check with CV Match</b> to compare your new CV against the job ad and see which keywords to add.</p></section>
   </div></section>
   </main>
 
@@ -89,7 +89,7 @@
 
     <script src="script.js?v=44"></script>
   <script src="next-step.js?v=4"></script>
-<script src="cvbuilder.js?v=6"></script>
+<script src="cvbuilder.js?v=7"></script>
   <script src="wjfeed.js?v=2"></script>
   <script src="cvjobs.js?v=1"></script>
   <script data-goatcounter="https://uhirable.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

@@ -1314,3 +1314,12 @@ textarea { resize: vertical; }
 @media (max-width:720px){#cvj-list .job-card:nth-child(n+4){display:none}}
 /* CV builder: lighter example text in the form */
 .cb-form input::placeholder,.cb-form textarea::placeholder{color:#b9bfd9;opacity:1}
+/* CV builder: example blocks in the live preview (never downloaded or printed) */
+.cb-page .ph{color:#b3b9d6;font-style:normal}
+.cb-page .gh h3{opacity:.38}
+.cb-page .gb{display:block;height:10px;border-radius:6px;background:#e4e7f4;margin:7px 0}
+.cb-page .gh .it{align-items:center;margin-top:8px}.cb-page .gh .it .gb{margin:0}.cb-page .gh .it .gt{height:11px;background:#d9ddef}.cb-page .gh .it .gd{width:88px;flex:none}
+.cb-page .gl{display:flex;align-items:center;gap:8px;padding-left:10px}.cb-page .gl::before{content:"";width:5px;height:5px;border-radius:50%;background:#d3d8ec;flex:none}.cb-page .gl .gb{flex:none}
+.cb-page .gl .gb{flex:0 1 auto}
+#cb-ghnote{margin:10px 2px 0;text-align:center}
+@media print{.cb-page .gh,.cb-page .ph,#cb-ghnote{display:none!important}}

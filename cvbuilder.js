@@ -52,19 +52,42 @@
     if (grad) [sumS, eduS, projS, expS, skS, lgS, ctS].forEach((x) => x && S.push(x)); else [sumS, expS, skS, eduS, projS, lgS, ctS].forEach((x) => x && S.push(x));
     return S;
   }
+  // Light grey example blocks for the parts not filled in yet, so the page shows the design before typing.
+  // They are preview-only: sections() (used for Word, PDF and CV Match) never includes them.
+  const bar = (w) => `<span class="gb" style="width:${w}%"></span>`;
+  const gItem = (tw, bullets) => `<div class="it"><span class="gb gt" style="width:${tw}%"></span><span class="gb gd"></span></div>` + bullets.map((w) => `<div class="gl">${bar(w)}</div>`).join("");
+  const GHOST = {
+    Summary: () => bar(100) + bar(96) + bar(62),
+    Experience: () => gItem(46, [88, 80, 70]) + gItem(40, [84, 66]),
+    Skills: () => bar(78),
+    Education: () => gItem(50, [34]),
+    Languages: () => bar(42),
+    Certificates: () => `<div class="gl">${bar(54)}</div>`,
+  };
   function render() {
     const pv = $("#cb-pv"); pv.className = "cb-page " + state.tpl;
-    const contact = [state.title, state.city, state.email, state.phone, state.linkedin].filter(Boolean).join("  ·  ");
+    const ph = (t) => `<span class="ph">${t}</span>`;
+    const EX = { name: "Amel Moussa", title: "Job title", city: "Alexandria, Egypt", email: "name@email.com", phone: "+20 1xx xxx xxxx", linkedin: "linkedin.com/in/yourname" };
+    const part = (k) => (state[k] ? esc(state[k]) : ph(EX[k]));
     let h;
     if (DS[state.tpl]) {
-      const c2 = [state.city, state.email, state.phone, state.linkedin].filter(Boolean).join(state.tpl === "slate" ? "   |   " : "  •  ");
-      h = `<div class="hd"><div class="n">${esc(state.name) || '<span class="ph">Your Name</span>'}</div><div class="t">${esc(state.title) || '<span class="ph">Job title</span>'}</div><div class="c">${esc(c2) || '<span class="ph">City · Email · Phone · LinkedIn</span>'}</div></div>`;
-    } else h = `<div class="n">${esc(state.name) || '<span class="ph">Your Name</span>'}</div><div class="c">${esc(contact) || '<span class="ph">Job title · City · Email · Phone · LinkedIn</span>'}</div>`;
-    const S = sections();
-    if (!S.length) h += `<p class="ph" style="margin-top:30px">Start typing on the left. Your CV appears here as you go.</p>`;
-    for (const s of S) { h += `<h3>${esc(s.h)}</h3>`; if (s.text) h += `<p>${esc(s.text)}</p>`; if (s.items) for (const it of s.items) { if (it.t) h += `<div class="it"><b>${esc(it.t)}</b>${it.d ? `<span>${esc(it.d)}</span>` : ""}</div>`; if (it.b.length) h += `<ul>${it.b.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`; } }
+      const sep = state.tpl === "slate" ? "   |   " : "  •  ";
+      h = `<div class="hd"><div class="n">${part("name")}</div><div class="t">${part("title")}</div><div class="c">${["city", "email", "phone", "linkedin"].map(part).join(sep)}</div></div>`;
+    } else h = `<div class="n">${part("name")}</div><div class="c">${["title", "city", "email", "phone", "linkedin"].map(part).join("  ·  ")}</div>`;
+    const S = sections(); const have = new Set(S.map((s) => s.h));
+    const real = (s) => { let o = `<h3>${esc(s.h)}</h3>`; if (s.text) o += `<p>${esc(s.text)}</p>`; if (s.items) for (const it of s.items) { if (it.t) o += `<div class="it"><b>${esc(it.t)}</b>${it.d ? `<span>${esc(it.d)}</span>` : ""}</div>`; if (it.b.length) o += `<ul>${it.b.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`; } return o; };
+    // Real sections keep their order; an example block stands in for each main section that is still empty.
+    const ORDER = ["Summary", "Experience", "Skills", "Education", "Projects", "Languages", "Certificates"];
+    let ghosts = 0;
+    for (const name of ORDER) {
+      const s = S.find((x) => x.h === name);
+      if (s) h += real(s);
+      else if (GHOST[name]) { ghosts++; h += `<div class="gh" aria-hidden="true"><h3>${name}</h3>${GHOST[name]()}</div>`; }
+    }
+    S.filter((s) => !ORDER.includes(s.h)).forEach((s) => { h += real(s); });
     pv.innerHTML = h;
-    const words = pv.innerText.trim().split(/\s+/).filter(Boolean).length; $("#cb-words").textContent = words + " words · " + (words > 650 ? "likely 2 pages" : "about 1 page");
+    const note = $("#cb-ghnote"); if (note) note.hidden = !ghosts && !!state.name;
+    const words = plainText().trim().split(/\s+/).filter(Boolean).length; $("#cb-words").textContent = words + " words · " + (words > 650 ? "likely 2 pages" : "about 1 page");
   }
   render();
 
