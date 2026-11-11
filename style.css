@@ -1438,3 +1438,6 @@ textarea { resize: vertical; }
 @media(max-width:1100px){.wi-grid.wi-all{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:780px){.wi-grid.wi-all{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:480px){.wi-grid.wi-all{grid-template-columns:1fr}}
+.wi-key{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:8px}.wi-key li{display:flex;align-items:flex-start;gap:10px;line-height:1.5}.wi-key .chip{flex:none;min-width:86px;justify-content:center;text-align:center}
+.wi-filter{flex-wrap:wrap}.wi-filter label{margin-left:6px}.wi-filter label:first-child{margin-left:0}.wi-filter #wi-m{min-width:190px}
+@media(max-width:600px){.wi-filter{display:grid;grid-template-columns:auto 1fr;gap:8px 10px}.wi-filter label{margin:0}.wi-filter select{min-width:0!important;width:100%}}
