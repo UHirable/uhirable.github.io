@@ -49,11 +49,16 @@
       ".uhns a.uhns-aff{display:block;margin-top:12px;padding:11px 14px;border-radius:12px;background:#fff8e1;border:1.5px solid #ffe08a;color:#8a6100;font-weight:800;font-size:.92rem;text-decoration:none}.uhns a.uhns-aff:hover{background:#fff1c2}" +
       ".uhns a.uhns-go:hover{background:#0a1cff}.uhns button.uhns-later{margin-top:12px;border:0;background:none;color:#5b6391;font-weight:700;font-size:.92rem;cursor:pointer;font-family:inherit}" +
       ".uhns button.uhns-x{position:absolute;top:12px;right:12px;width:34px;height:34px;border:0;border-radius:50%;background:#eef1ff;color:#141a52;font-size:1.1rem;font-weight:800;cursor:pointer}" +
+      ".uhns-jobs{margin:0 0 14px;text-align:left}.uhns-jl{margin:0 0 8px;font-size:.78rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:#0a8a4a;display:flex;align-items:center;gap:7px}.uhns-jl i{width:8px;height:8px;border-radius:50%;background:#12b76a;box-shadow:0 0 0 4px rgba(18,183,106,.18)}" +
+      ".uhns a.uhns-job{display:flex;align-items:center;gap:10px;padding:10px 12px;margin-top:7px;border:1.5px solid #e3e7ff;border-radius:13px;text-decoration:none;color:#141a52;background:#f7f8ff}.uhns a.uhns-job:hover{border-color:#0112ff;background:#eef1ff}" +
+      ".uhns-job b{display:block;font-size:.93rem;line-height:1.25;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.uhns-job small{display:block;margin-top:2px;color:#5b6391;font-size:.8rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.uhns-job span{min-width:0;flex:1}.uhns-job em{flex:none;font-style:normal;font-weight:800;font-size:.8rem;color:#0112ff}" +
+      ".uhns-sk{height:54px;margin-top:7px;border-radius:13px;background:linear-gradient(90deg,#eef1ff,#f7f8ff,#eef1ff);background-size:200% 100%;animation:uhnsSk 1.1s linear infinite}@keyframes uhnsSk{to{background-position:-200% 0}}" +
+      ".uhns.has-jobs{padding-top:24px}.uhns.has-jobs .uhns-ic{width:54px;height:54px;border-radius:16px;font-size:27px;margin-bottom:10px;box-shadow:0 5px 0 #070b7a}.uhns.has-jobs p{margin-bottom:14px;font-size:.95rem}.uhns.has-jobs a.uhns-go{background:#fff;color:#0112ff;border:1.5px solid #0112ff;box-shadow:none;padding:11px 16px;font-size:.95rem}.uhns.has-jobs a.uhns-go:hover{background:#eef1ff}.uhns{max-height:calc(100vh - 32px);overflow:auto}" +
       "@keyframes uhnsFade{from{opacity:0}to{opacity:1}}@keyframes uhnsPop{from{opacity:0;transform:scale(.92) translateY(10px)}to{opacity:1;transform:none}}" +
-      "@media (prefers-reduced-motion:reduce){.uhns-ov,.uhns{animation:none}}";
+      "@media (prefers-reduced-motion:reduce){.uhns-ov,.uhns,.uhns-sk{animation:none}}";
     document.head.appendChild(st);
     const ov = document.createElement("div"); ov.className = "uhns-ov";
-    ov.innerHTML = `<div class="uhns" role="dialog" aria-modal="true" aria-labelledby="uhns-t"><button type="button" class="uhns-x" aria-label="Close">×</button><div class="uhns-ic" aria-hidden="true">🎉</div><h3 id="uhns-t">Your CV is ready!</h3><p>${sub}</p><a class="uhns-go" href="${href}">${btn}</a><a class="uhns-aff" href="https://skillsyncer.com/?via=uhirable" target="_blank" rel="noopener sponsored">Check it passes ATS with SkillSyncer →</a><button type="button" class="uhns-later">Maybe later</button></div>`;
+    ov.innerHTML = `<div class="uhns" role="dialog" aria-modal="true" aria-labelledby="uhns-t"><button type="button" class="uhns-x" aria-label="Close">×</button><div class="uhns-ic" aria-hidden="true">🎉</div><h3 id="uhns-t">Your CV is ready!</h3><p>${sub}</p><div class="uhns-jobs" hidden></div><a class="uhns-go" href="${href}">${btn}</a><a class="uhns-aff" href="https://skillsyncer.com/?via=uhirable" target="_blank" rel="noopener sponsored">Check it passes ATS with SkillSyncer →</a><button type="button" class="uhns-later">Maybe later</button></div>`;
     const close = () => { ov.remove(); document.removeEventListener("keydown", onKey); };
     const onKey = (e) => { if (e.key === "Escape") close(); };
     ov.addEventListener("click", (e) => { if (e.target === ov || e.target.closest(".uhns-x") || e.target.closest(".uhns-later")) close(); });
@@ -61,6 +66,30 @@
     ov.querySelector(".uhns-aff").addEventListener("click", () => count("aff/skillsyncer-popup-" + (source || "cv"), "Affiliate click: SkillSyncer (CV ready window)"));
     document.addEventListener("keydown", onKey);
     document.body.appendChild(ov);
+    // Three live jobs in the visitor's country, right inside the window. Each one opens the original ad.
+    if (g) {
+      const jb = ov.querySelector(".uhns-jobs"), dlg = ov.querySelector(".uhns");
+      const esc = (t) => String(t || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+      const kwEl = document.getElementById("f-title"); const kw = kwEl && kwEl.value ? kwEl.value.trim() : "";
+      const head = `<div class="uhns-jl"><i></i>Hiring now in ${esc(g[2])}</div>`;
+      jb.hidden = false; dlg.classList.add("has-jobs"); jb.innerHTML = head + '<div class="uhns-sk"></div><div class="uhns-sk"></div><div class="uhns-sk"></div>';
+      const API = "https://uhirable-jobs.amel-moussa10.workers.dev/";
+      const get = (u) => fetch(u).then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] }));
+      const late = new Promise((r) => setTimeout(() => r(null), 7000));
+      const pull = (k) => Promise.all([
+        window.UHWJF && UHWJF.has(g[0]) ? UHWJF.fetch(g[0], k, null, 1).catch(() => ({ jobs: [] })) : { jobs: [] },
+        g[0] === "us" ? get(API + "?src=lensa&q=" + encodeURIComponent(k) + "&page=1") : { jobs: [] },
+        get(API + "?src=jooble&cc=" + g[0] + "&q=" + encodeURIComponent(k) + "&page=1"),
+      ]).then(([w, l, j]) => { const L = [l.jobs || [], w.jobs || [], j.jobs || []], o = []; for (let k2 = 0; k2 < 3; k2++) L.forEach((a) => { if (a[k2]) o.push(a[k2]); }); return o.filter((x) => x && x.title && x.link).slice(0, 3); });
+      Promise.race([pull(kw).then((o) => (o.length || !kw ? o : pull(""))), late]).then((jobs) => {
+        if (!ov.isConnected) return;
+        if (!jobs || !jobs.length) { jb.hidden = true; dlg.classList.remove("has-jobs"); return; }
+        jb.innerHTML = head + jobs.map((j) => `<a class="uhns-job" href="${esc(j.link)}" target="_blank" rel="noopener nofollow${j.source === "lensa" || j.source === "whatjobs" ? " sponsored" : ""}" data-src="${esc(j.source || "jooble")}"><span><b>${esc(j.title)}</b><small>${esc([j.source === "whatjobs" ? "" : j.company, j.location].filter(Boolean).join(" · ") || g[1])}</small></span><em>Apply →</em></a>`).join("");
+        ov.querySelector(".uhns-go").textContent = "See all jobs in " + g[2] + " →";
+        count("popup-jobs/" + region, "CV ready window: jobs shown (" + region + ")");
+      });
+      jb.addEventListener("click", (e) => { const a = e.target.closest("a[data-src]"); if (a) { count("out/" + a.dataset.src, "Job click: " + a.dataset.src); count("popup-job-click/" + region, "CV ready window: job click (" + region + ")"); } });
+    }
     const go = ov.querySelector(".uhns-go"); try { go.focus({ preventScroll: true }); } catch (e) {}
   }
   window.UHNextStep = (source) => setTimeout(() => show(source), 700);

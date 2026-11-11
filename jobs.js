@@ -22,6 +22,186 @@ const ABOUT = "EliseAI builds agentic AI for housing and healthcare: $250M Serie
 
 const JOBS = [
   {
+    id: "seamflow-forward-deployed-engineer-london",
+    page: "job-seamflow-forward-deployed-engineer-london.html",
+    title: "Forward Deployed Engineer",
+    company: "Seamflow",
+    industry: "AI for Testing, Inspection & Certification",
+    countries: ["United Kingdom"],
+    location: "London, UK",
+    tags: ["On-site", "Full-time", "£100K – £160K", "Visa sponsorship"],
+    brief: "Sit with customers, write the spec and ship full-stack AI workflows at Seamflow, a seed-stage startup backed by Northzone and Initialized Capital. Visa sponsorship and relocation support.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Seamflow builds the software layer for the testing, inspection and certification industry, the work that gets planes, medical devices, lifts and batteries approved before they reach the world, and which still runs on Word files, PDFs and email. Founded in 2025 and backed by a $4.5M seed round co-led by Northzone and Initialized Capital, it is already deployed in six of the ten largest enterprises in its industry. As a Forward Deployed Engineer you'll work next to the founders in Shoreditch and inside customer operations.",
+    responsibilities: [
+      "Embed in customer operations to learn how certification, inspection and compliance work really gets done.",
+      "Run customer calls, write specs and build end-to-end systems: frontend, backend, data model and model layer.",
+      "Own full product surface areas from day one, working directly with the founders.",
+      "Ship to production in your first week and iterate on real user feedback.",
+      "Decide what to build and what not to build, separating requests that generalise from ones that don't.",
+      "Build AI workflows for scheduling, technical review, conformity assessment, field inspection and document intelligence."
+    ],
+    requirements: [
+      "3–6 years as a software or product engineer who has shipped real systems to production users.",
+      "Full-stack: TypeScript, Python, React, Node.js and SQL, with LLM and document-intelligence work.",
+      "Comfortable working directly with customers and turning messy workflows into software.",
+      "Bonus: forward-deployed, founding-team or ex-founder experience.",
+      "On-site in Shoreditch, London, five days a week. Candidates anywhere in Europe are welcome if they relocate to London.",
+      "Open to visa sponsorship and visa transfers, with relocation support."
+    ],
+    compensation: "£100K – £160K base + equity. Lunch and dinner covered, 24/7 gym access, visa sponsorship and relocation support. Full-time, on-site in Shoreditch, London."
+  },
+  {
+    id: "penelope-health-founding-engineer-london",
+    page: "job-penelope-health-founding-engineer-london.html",
+    title: "Founding Engineer",
+    company: "Penelope Health",
+    industry: "Healthcare AI",
+    countries: ["United Kingdom"],
+    location: "London, UK",
+    tags: ["On-site", "Full-time", "£120K – £200K", "Visa transfers only"],
+    brief: "Join a four-person team in Hoxton turning US insurance policy PDFs into computable billing rules. Penelope Health has announced $100M in committed funding.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Penelope Health is building the intelligence infrastructure for American healthcare billing: it ingests hundreds of thousands of payer policy PDFs, extracts structured clinical rules with LLMs, and serves deterministic coverage decisions by API at claims scale. The company has announced $100M in committed funding and a design partnership with a $12B revenue cycle management company. As a Founding Engineer you'll join a team of four in Hoxton, London, and shape the technical foundation from the start.",
+    responsibilities: [
+      "Build the data pipeline that extracts structured clinical rules from payer policy PDFs of 5 to 4,000 pages using LLMs.",
+      "Architect and scale the API and MCP endpoints that serve coverage rules at low latency.",
+      "Convert medical necessity criteria into FHIR queries and formal logic for deterministic evaluation.",
+      "Own 0-to-1 projects end to end, finding high-leverage gaps and building the solution.",
+      "Experiment with AI coding workflows, agents and new tooling in a lean, high-autonomy team."
+    ],
+    requirements: [
+      "2–6 years of production backend or data engineering experience after graduation.",
+      "Strong Python. Significant work in Rust or C/C++ is a plus.",
+      "Degree in computer science, engineering or mathematics.",
+      "On-site five days a week at the Hoxton, London office.",
+      "UK right to work or an existing visa that can be transferred. No new visa sponsorship."
+    ],
+    compensation: "£120K – £200K base + founding-team equity + relocation. Full-time, on-site in Hoxton, London."
+  },
+  {
+    id: "uncountable-enterprise-account-manager-london",
+    page: "job-uncountable-enterprise-account-manager-london.html",
+    title: "Enterprise Account Manager",
+    company: "Uncountable",
+    industry: "R&D Software",
+    countries: ["United Kingdom", "Germany"],
+    location: "London, UK or Munich, Germany",
+    tags: ["Hybrid", "Full-time", "£90K – £120K (OTE £120K – £170K)", "No visa sponsorship"],
+    brief: "Own Uncountable's largest customer accounts in Europe: renewals, expansion and executive relationships for an R&D platform used by chemists and materials scientists.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Uncountable builds a unified R&D platform used by chemists, materials scientists and biologists at enterprise R&D organisations across chemicals, pharmaceuticals, advanced materials and food and beverage. Founded by engineers from MIT and Stanford, it has 130 employees. As an Enterprise Account Manager in London or Munich you'll look after a portfolio of top-tier accounts and help set how the company builds long-term customer partnerships.",
+    responsibilities: [
+      "Act as executive sponsor for the most strategic accounts and own the relationship at the highest level.",
+      "Own gross and net revenue retention and account health across your book of business.",
+      "Handle high-level escalations through to resolution.",
+      "Set the long-term approach for renewals, expansion and complex commercial discussions.",
+      "Bring insights from the customer portfolio into product direction and roadmap priorities.",
+      "Keep Account Management, Scientific Implementation, Support and ML teams aligned on customer outcomes."
+    ],
+    requirements: [
+      "3–6 years as an Enterprise Account Manager or Customer Success Manager at an industrial or enterprise software company.",
+      "Experience owning renewals and expansion for large accounts.",
+      "Comfortable with executive-level relationships and commercial negotiation.",
+      "Based in London or Munich, with in-person work five days a week preferred.",
+      "Not open to visa sponsorship, so you need existing right to work in the UK or Germany."
+    ],
+    compensation: "£90K – £120K base, OTE £120K – £170K, plus equity. Full-time, hybrid in London or Munich."
+  },
+  {
+    id: "rivan-cnc-machinist-london",
+    page: "job-rivan-cnc-machinist-london.html",
+    title: "CNC Machinist",
+    company: "Rivan",
+    industry: "Synthetic Fuels & Hardware",
+    countries: ["United Kingdom"],
+    location: "London, UK",
+    tags: ["On-site", "Full-time", "£45K – £60K", "Visa transfers only"],
+    brief: "Own in-house machining at Rivan, which builds synthetic fuel plants in London. Program, set up and run CNC mills and lathes as production scales.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Rivan Industries designs, manufactures and deploys modular synthetic fuel plants that make synthetic natural gas from air, water and solar power. It has deployed the UK's largest synthetic fuel plant, has about 50 people (roughly 90% engineers) and has raised $50M. Nearly every steel component is made in-house, so as CNC Machinist you'll own machining as the company moves from R&D to production at its factory in Bermondsey.",
+    responsibilities: [
+      "Work directly with engineers to read drawings and decide the best way to manufacture each part.",
+      "Program parts in CAM software such as Fusion 360, then set up and run 3-axis CNC mills and lathes from start to finish.",
+      "Machine stainless steel and aluminium components, from one-off R&D parts to batches of 50–100.",
+      "Help scale production from one system a quarter to one a month, then one a week.",
+      "Deliver finished, inspected parts and help assemble complex R&D equipment."
+    ],
+    requirements: [
+      "3–4+ years of post-qualification experience as a CNC machinist.",
+      "Fully qualified through an apprenticeship or an engineering degree.",
+      "Able to work quickly with little supervision.",
+      "Ideally from a hardware company that makes its own products, such as fusion, aerospace or deep tech.",
+      "Tools: CNC and manual mills and lathes, Hurco WinMax, Fusion 360, metrology tools.",
+      "On-site five days a week in Bermondsey, London. Open to visa transfers."
+    ],
+    compensation: "£45K – £60K base depending on experience, plus equity, private health care, unlimited holiday and an extra £6,000 a year for living within 20 minutes of the HQ."
+  },
+  {
+    id: "ifs-software-engineer-agentic-systems",
+    page: "job-ifs-software-engineer-agentic-systems.html",
+    title: "Software Engineer, Agentic Systems",
+    company: "IFS",
+    industry: "Industrial AI Software",
+    countries: ["United Kingdom", "UAE"],
+    location: "UK or Dubai",
+    tags: ["Hybrid", "Full-time", "€100K – €160K"],
+    brief: "Join the new AI Software Factory at IFS and build the framework that lets many AI agents plan, build, test and review software in parallel, safely.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "IFS provides Industrial AI software for companies that manufacture goods, maintain complex assets and run service operations. Its AI Software Factory is a new engineering function inside R&D that builds the systems letting AI agents do real engineering work on IFS software. As a Software Engineer in Agentic Systems you'll help build and prove a reusable framework for parallel software engineering, with architecture support from a senior engineer.",
+    responsibilities: [
+      "Help define and implement the framework for parallel software engineering across planning, design, build, test, review and operation.",
+      "Turn a feature into a dependency-aware work graph: what can run concurrently, what must be sequenced, and what context each agent needs.",
+      "Build the controls that make parallel agents safe: isolation, blast-radius analysis, overlap detection and retry handling.",
+      "Build and maintain an eval suite for a real agentic engineering workflow, and turn every observed agent failure into a regression test.",
+      "Wire a pilot codebase and its CI pipeline into the verification harness.",
+      "Work with pilot teams on real delivery and turn what you learn into reusable capability."
+    ],
+    requirements: [
+      "A track record of shipping and maintaining production-quality software. Not an entry-level role.",
+      "Practical experience building with AI agents or tool-using LLM systems, beyond a single chat-completion call.",
+      "Able to enter an unfamiliar codebase and reason about work as a dependency graph.",
+      "Strong testing instincts and clear writing about what was checked and how confident the result is.",
+      "No single language or framework is required. Adaptability and engineering fundamentals matter more.",
+      "Nice to have: evaluation methods beyond unit tests, concurrent or graph-shaped systems, MCP or another agent-orchestration framework."
+    ],
+    compensation: "€100K – €160K, based on experience and qualifications. Full-time, hybrid, based in the UK or Dubai."
+  },
+  {
+    id: "runway-senior-staff-product-engineer-europe",
+    page: "job-runway-senior-staff-product-engineer-europe.html",
+    title: "Senior/Staff Product Engineer",
+    company: "Runway",
+    industry: "Generative AI Video",
+    countries: ["United Kingdom", "Germany", "France", "Spain", "Netherlands", "Ireland", "Portugal", "Poland"],
+    location: "Remote · Europe",
+    tags: ["Remote", "Full-time", "$240K – $290K", "Europe"],
+    brief: "Build AI video creation tools at Runway, the research company behind Gen-4.5. Remote-first product engineering team, frontend-leaning full-stack.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Runway is a research-first AI company building multimodal models and the creative tools on top of them, and has raised $860M. Its Product Engineering team of about 18 engineers builds everything users touch, from the multimedia interfaces of its generative tools to the APIs behind them. The team is remote-first across several countries, plans weekly and ships every day. This role is open to engineers based in Europe.",
+    responsibilities: [
+      "Build new interfaces for AI content creation and collaboration.",
+      "Build LLM-powered features and conversational experiences.",
+      "Put generative and computer vision models into production products.",
+      "Own features end to end, roughly 60–70% frontend and 30–40% backend.",
+      "Work across pods and often on several projects at once."
+    ],
+    requirements: [
+      "5+ years as a frontend-leaning full-stack engineer at Series A–E startups, building technically complex products or tools.",
+      "Senior level: 5–8 years and a Senior title. Staff level: 8+ years and a Staff title.",
+      "Stack: TypeScript, React, Node.js, AI APIs and LLMs, React Flow, AWS ECS Fargate.",
+      "Based in Europe. The role is also open in Australia and North America.",
+      "Open to visa transfers. No relocation."
+    ],
+    compensation: "$240K – $290K base. Full-time, remote."
+  },
+  {
     id: "decagon-agent-deployment-engineer-london",
     page: "job-decagon-agent-deployment-engineer-london.html",
     title: "Agent Deployment Engineer",

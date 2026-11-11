@@ -2,7 +2,85 @@
 <source>
   <publisher>U Hirable</publisher>
   <publisherurl>https://uhirable.github.io/</publisherurl>
-  <lastBuildDate>Mon, 09 Nov 2026 00:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 00:00:00 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Forward Deployed Engineer]]></title>
+    <date><![CDATA[Wed, 11 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[seamflow-forward-deployed-engineer-london]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-seamflow-forward-deployed-engineer-london.html]]></url>
+    <company><![CDATA[Seamflow]]></company>
+    <city><![CDATA[London]]></city>
+    <country><![CDATA[GB]]></country>
+    <description><![CDATA[<p>Seamflow builds the software layer for the testing, inspection and certification industry, the work that gets planes, medical devices, lifts and batteries approved before they reach the world, and which still runs on Word files, PDFs and email. Founded in 2025 and backed by a $4.5M seed round co-led by Northzone and Initialized Capital, it is already deployed in six of the ten largest enterprises in its industry. As a Forward Deployed Engineer you'll work next to the founders in Shoreditch and inside customer operations.</p><p><strong>What you'll do:</strong></p><ul><li>Embed in customer operations to learn how certification, inspection and compliance work really gets done.</li><li>Run customer calls, write specs and build end-to-end systems: frontend, backend, data model and model layer.</li><li>Own full product surface areas from day one, working directly with the founders.</li><li>Ship to production in your first week and iterate on real user feedback.</li><li>Decide what to build and what not to build, separating requests that generalise from ones that don't.</li><li>Build AI workflows for scheduling, technical review, conformity assessment, field inspection and document intelligence.</li></ul><p><strong>Requirements:</strong></p><ul><li>3–6 years as a software or product engineer who has shipped real systems to production users.</li><li>Full-stack: TypeScript, Python, React, Node.js and SQL, with LLM and document-intelligence work.</li><li>Comfortable working directly with customers and turning messy workflows into software.</li><li>Bonus: forward-deployed, founding-team or ex-founder experience.</li><li>On-site in Shoreditch, London, five days a week. Candidates anywhere in Europe are welcome if they relocate to London.</li><li>Open to visa sponsorship and visa transfers, with relocation support.</li></ul><p><strong>Compensation:</strong> £100K – £160K base + equity. Lunch and dinner covered, 24/7 gym access, visa sponsorship and relocation support. Full-time, on-site in Shoreditch, London.</p>]]></description>
+    <salary><![CDATA[£100K – £160K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Founding Engineer]]></title>
+    <date><![CDATA[Wed, 11 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[penelope-health-founding-engineer-london]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-penelope-health-founding-engineer-london.html]]></url>
+    <company><![CDATA[Penelope Health]]></company>
+    <city><![CDATA[London]]></city>
+    <country><![CDATA[GB]]></country>
+    <description><![CDATA[<p>Penelope Health is building the intelligence infrastructure for American healthcare billing: it ingests hundreds of thousands of payer policy PDFs, extracts structured clinical rules with LLMs, and serves deterministic coverage decisions by API at claims scale. The company has announced $100M in committed funding and a design partnership with a $12B revenue cycle management company. As a Founding Engineer you'll join a team of four in Hoxton, London, and shape the technical foundation from the start.</p><p><strong>What you'll do:</strong></p><ul><li>Build the data pipeline that extracts structured clinical rules from payer policy PDFs of 5 to 4,000 pages using LLMs.</li><li>Architect and scale the API and MCP endpoints that serve coverage rules at low latency.</li><li>Convert medical necessity criteria into FHIR queries and formal logic for deterministic evaluation.</li><li>Own 0-to-1 projects end to end, finding high-leverage gaps and building the solution.</li><li>Experiment with AI coding workflows, agents and new tooling in a lean, high-autonomy team.</li></ul><p><strong>Requirements:</strong></p><ul><li>2–6 years of production backend or data engineering experience after graduation.</li><li>Strong Python. Significant work in Rust or C/C++ is a plus.</li><li>Degree in computer science, engineering or mathematics.</li><li>On-site five days a week at the Hoxton, London office.</li><li>UK right to work or an existing visa that can be transferred. No new visa sponsorship.</li></ul><p><strong>Compensation:</strong> £120K – £200K base + founding-team equity + relocation. Full-time, on-site in Hoxton, London.</p>]]></description>
+    <salary><![CDATA[£120K – £200K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Enterprise Account Manager]]></title>
+    <date><![CDATA[Wed, 11 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[uncountable-enterprise-account-manager-london]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-uncountable-enterprise-account-manager-london.html]]></url>
+    <company><![CDATA[Uncountable]]></company>
+    <city><![CDATA[London]]></city>
+    <country><![CDATA[GB]]></country>
+    <description><![CDATA[<p>Uncountable builds a unified R&D platform used by chemists, materials scientists and biologists at enterprise R&D organisations across chemicals, pharmaceuticals, advanced materials and food and beverage. Founded by engineers from MIT and Stanford, it has 130 employees. As an Enterprise Account Manager in London or Munich you'll look after a portfolio of top-tier accounts and help set how the company builds long-term customer partnerships.</p><p><strong>What you'll do:</strong></p><ul><li>Act as executive sponsor for the most strategic accounts and own the relationship at the highest level.</li><li>Own gross and net revenue retention and account health across your book of business.</li><li>Handle high-level escalations through to resolution.</li><li>Set the long-term approach for renewals, expansion and complex commercial discussions.</li><li>Bring insights from the customer portfolio into product direction and roadmap priorities.</li><li>Keep Account Management, Scientific Implementation, Support and ML teams aligned on customer outcomes.</li></ul><p><strong>Requirements:</strong></p><ul><li>3–6 years as an Enterprise Account Manager or Customer Success Manager at an industrial or enterprise software company.</li><li>Experience owning renewals and expansion for large accounts.</li><li>Comfortable with executive-level relationships and commercial negotiation.</li><li>Based in London or Munich, with in-person work five days a week preferred.</li><li>Not open to visa sponsorship, so you need existing right to work in the UK or Germany.</li></ul><p><strong>Compensation:</strong> £90K – £120K base, OTE £120K – £170K, plus equity. Full-time, hybrid in London or Munich.</p>]]></description>
+    <salary><![CDATA[£90K – £120K (OTE £120K – £170K)]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[CNC Machinist]]></title>
+    <date><![CDATA[Wed, 11 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[rivan-cnc-machinist-london]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-rivan-cnc-machinist-london.html]]></url>
+    <company><![CDATA[Rivan]]></company>
+    <city><![CDATA[London]]></city>
+    <country><![CDATA[GB]]></country>
+    <description><![CDATA[<p>Rivan Industries designs, manufactures and deploys modular synthetic fuel plants that make synthetic natural gas from air, water and solar power. It has deployed the UK's largest synthetic fuel plant, has about 50 people (roughly 90% engineers) and has raised $50M. Nearly every steel component is made in-house, so as CNC Machinist you'll own machining as the company moves from R&D to production at its factory in Bermondsey.</p><p><strong>What you'll do:</strong></p><ul><li>Work directly with engineers to read drawings and decide the best way to manufacture each part.</li><li>Program parts in CAM software such as Fusion 360, then set up and run 3-axis CNC mills and lathes from start to finish.</li><li>Machine stainless steel and aluminium components, from one-off R&D parts to batches of 50–100.</li><li>Help scale production from one system a quarter to one a month, then one a week.</li><li>Deliver finished, inspected parts and help assemble complex R&D equipment.</li></ul><p><strong>Requirements:</strong></p><ul><li>3–4+ years of post-qualification experience as a CNC machinist.</li><li>Fully qualified through an apprenticeship or an engineering degree.</li><li>Able to work quickly with little supervision.</li><li>Ideally from a hardware company that makes its own products, such as fusion, aerospace or deep tech.</li><li>Tools: CNC and manual mills and lathes, Hurco WinMax, Fusion 360, metrology tools.</li><li>On-site five days a week in Bermondsey, London. Open to visa transfers.</li></ul><p><strong>Compensation:</strong> £45K – £60K base depending on experience, plus equity, private health care, unlimited holiday and an extra £6,000 a year for living within 20 minutes of the HQ.</p>]]></description>
+    <salary><![CDATA[£45K – £60K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Software Engineer, Agentic Systems]]></title>
+    <date><![CDATA[Wed, 11 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[ifs-software-engineer-agentic-systems]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-ifs-software-engineer-agentic-systems.html]]></url>
+    <company><![CDATA[IFS]]></company>
+    <city><![CDATA[London]]></city>
+    <country><![CDATA[GB]]></country>
+    <description><![CDATA[<p>IFS provides Industrial AI software for companies that manufacture goods, maintain complex assets and run service operations. Its AI Software Factory is a new engineering function inside R&D that builds the systems letting AI agents do real engineering work on IFS software. As a Software Engineer in Agentic Systems you'll help build and prove a reusable framework for parallel software engineering, with architecture support from a senior engineer.</p><p><strong>What you'll do:</strong></p><ul><li>Help define and implement the framework for parallel software engineering across planning, design, build, test, review and operation.</li><li>Turn a feature into a dependency-aware work graph: what can run concurrently, what must be sequenced, and what context each agent needs.</li><li>Build the controls that make parallel agents safe: isolation, blast-radius analysis, overlap detection and retry handling.</li><li>Build and maintain an eval suite for a real agentic engineering workflow, and turn every observed agent failure into a regression test.</li><li>Wire a pilot codebase and its CI pipeline into the verification harness.</li><li>Work with pilot teams on real delivery and turn what you learn into reusable capability.</li></ul><p><strong>Requirements:</strong></p><ul><li>A track record of shipping and maintaining production-quality software. Not an entry-level role.</li><li>Practical experience building with AI agents or tool-using LLM systems, beyond a single chat-completion call.</li><li>Able to enter an unfamiliar codebase and reason about work as a dependency graph.</li><li>Strong testing instincts and clear writing about what was checked and how confident the result is.</li><li>No single language or framework is required. Adaptability and engineering fundamentals matter more.</li><li>Nice to have: evaluation methods beyond unit tests, concurrent or graph-shaped systems, MCP or another agent-orchestration framework.</li></ul><p><strong>Compensation:</strong> €100K – €160K, based on experience and qualifications. Full-time, hybrid, based in the UK or Dubai.</p>]]></description>
+    <salary><![CDATA[€100K – €160K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior/Staff Product Engineer]]></title>
+    <date><![CDATA[Wed, 11 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[runway-senior-staff-product-engineer-europe]]></referencenumber>
+    <url><![CDATA[https://uhirable.github.io/job-runway-senior-staff-product-engineer-europe.html]]></url>
+    <company><![CDATA[Runway]]></company>
+    <city><![CDATA[London]]></city>
+    <country><![CDATA[GB]]></country>
+    <description><![CDATA[<p>Runway is a research-first AI company building multimodal models and the creative tools on top of them, and has raised $860M. Its Product Engineering team of about 18 engineers builds everything users touch, from the multimedia interfaces of its generative tools to the APIs behind them. The team is remote-first across several countries, plans weekly and ships every day. This role is open to engineers based in Europe.</p><p><strong>What you'll do:</strong></p><ul><li>Build new interfaces for AI content creation and collaboration.</li><li>Build LLM-powered features and conversational experiences.</li><li>Put generative and computer vision models into production products.</li><li>Own features end to end, roughly 60–70% frontend and 30–40% backend.</li><li>Work across pods and often on several projects at once.</li></ul><p><strong>Requirements:</strong></p><ul><li>5+ years as a frontend-leaning full-stack engineer at Series A–E startups, building technically complex products or tools.</li><li>Senior level: 5–8 years and a Senior title. Staff level: 8+ years and a Staff title.</li><li>Stack: TypeScript, React, Node.js, AI APIs and LLMs, React Flow, AWS ECS Fargate.</li><li>Based in Europe. The role is also open in Australia and North America.</li><li>Open to visa transfers. No relocation.</li></ul><p><strong>Compensation:</strong> $240K – $290K base. Full-time, remote.</p>]]></description>
+    <salary><![CDATA[$240K – $290K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[WFH]]></remotetype>
+  </job>
   <job>
     <title><![CDATA[Agent Deployment Engineer]]></title>
     <date><![CDATA[Mon, 09 Nov 2026 00:00:00 GMT]]></date>
