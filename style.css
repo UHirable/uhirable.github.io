@@ -1401,3 +1401,7 @@ textarea { resize: vertical; }
 .wa-strip .wa-sic{flex:none;width:46px;height:46px;border-radius:14px;background:#25d366;color:#fff;display:grid;place-items:center}
 .wa-strip b{display:block;color:#0b3d24;font-size:1.05rem}.wa-strip div span{color:#3d6b52;font-size:.92rem}
 @media(max-width:860px){.duo{grid-template-columns:1fr;gap:18px}.duo>div{padding:20px}.duo-lilo .ask-art{margin-top:26px}.wa-big{font-size:1.15rem;padding:17px 26px}.duo-wa h2{font-size:1.55rem}.wa-big.sm{margin-left:0;width:100%;justify-content:center}}
+
+@media print{.wa-strip,.duo-wa{display:none!important}}
+.wa-strip>div{flex:1 1 200px;min-width:0}
+.wa-strip{margin-top:16px}
