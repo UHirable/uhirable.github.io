@@ -21,6 +21,14 @@
     "Asia/Kolkata": ["in", "India", "India", ""],
     "Asia/Calcutta": ["in", "India", "India", ""],
     "Asia/Karachi": ["pk", "Pakistan", "Pakistan", ""],
+    "Africa/Johannesburg": ["za", "South Africa", "South Africa", ""],
+    "Europe/Madrid": ["es", "Spain", "Spain", ""],
+    "Atlantic/Canary": ["es", "Spain", "Spain", ""],
+    "Asia/Manila": ["ph", "Philippines", "the Philippines", ""],
+    "Asia/Jakarta": ["id", "Indonesia", "Indonesia", ""],
+    "Asia/Makassar": ["id", "Indonesia", "Indonesia", ""],
+    "Asia/Jayapura": ["id", "Indonesia", "Indonesia", ""],
+    "Asia/Pontianak": ["id", "Indonesia", "Indonesia", ""],
   };
   let g = TZ[tz] || (CA.test(tz) ? ["ca", "Canada", "Canada", ""] : US.test(tz) ? ["us", "United States", "the US", ""] : null);
   // shared with cvjobs.js: { cc, country, label } or null when the country is not one we cover
