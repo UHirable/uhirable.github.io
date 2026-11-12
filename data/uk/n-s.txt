@@ -1343,7 +1343,6 @@ Alpha Start Limited	Sheffield	A	0
 ALPHA STUDY TUTORING CENTRE LTD	New Malden	A	0
 Alpha Systems Fabrication Limited	Crewe	A	0
 ALPHA2 SOLUTIONS & SOFTWARE LIMITED	London	A	0
-ALPHAN TECH SOLUTIONS LTD	Chatham	A	0
 Alphatec Software Limited	Dodford	A	0
 Alpine Building Services Limited	Bexleyheath	A	0
 Alpine Cleaning Services	Eltham	A	0
@@ -1526,7 +1525,7 @@ AN Services ( Raynes Park) Ltd	London	A	0
 AN Superstore Ltd	Manchester	A	0
 ANA CHILD MINDING SERVICES LTD	Hornchurch	A	0
 ANAA SECURITY LIMITED	London	A	0
-Anaconda Services (UK) Limited	Richmond, London	A	0,4
+Anaconda Services (UK) Limited	Staines-Upon-Thames	A	0,4
 Anacott Steel Ltd	London	A	0
 Anacta Strategies UK Ltd	London	A	0,4
 Anahad Kirtan Society	London	A	0
@@ -6270,7 +6269,6 @@ DL BUSINESS SYSTEMS LTD	London	A	0
 Dlala Studios	Witham	A	0
 DLF Seeds Ltd	Inkberrow	A	0
 DLG ShopFitters Limited	Leicester	A	0
-DLS Social & Healthcare Ltd	Wellington	A	0
 DLS Solicitors	Cheshire	A	0
 DM Dehgani Ltd Trading as SMiles by the River	Cheshire	A	0
 DM Food Store Limited	Glasgow	A	0
@@ -7122,7 +7120,7 @@ Energex Technical Services Ltd	Rayleigh	A	0
 Energise Sussex Coast	Bexhill	A	0
 Energize Recruitment Solutions Ltd	Manchester	A	0
 energy and carbon reduction solutions ltd	Ashton-Under-Lyne	A	0
-Energy and Systems Technical Ltd	Downham Market	A	0
+Energy and System Technical Ltd	Downham Market	A	0
 energy design studio ltd t/a and-now	Harrow	A	0
 ENERGY EFFICIENCY SERVICES LIMITED	Stockport	A	4
 Energy Network Services Ltd	Wimborne	A	0
@@ -8442,7 +8440,6 @@ GC Studios Limited, t/a Peregrine	London	A	0
 GCC Construction Services Limited	Heathrow	A	0
 GCI Network Solutions Limited	Wakefield	A	0
 GCS Compliance Services Europe Unlimited Company trading as NAVEX Global	Hammersmith	A	0,4
-GD Auto Services	Kelso	A	0
 GD SMARTWAY LIMITED	Cambridge	A	0
 GD&P CONSTRUCTION SERVICES LTD	Kent	A	0
 GDB Healthcare Services Company Limited	Hatfield	A	0
@@ -9915,7 +9912,6 @@ Hillcrest School and Sixth Form Centre	Birmingham	A	0
 Hillcrest Smiles Ltd t/a Hillcrest Dental Practice	Barnstaple	A	0
 HILLFIELDS SUPERMARKET LTD	Coventry	A	0
 Hillfileds Dental Surgery	Coventry	A	0
-Hillfoot Steel Ltd	Sheffield	A	0
 Hillingdon Borough Central Mosque & Community Services	Hayes	A	9
 Hillingdon Specialist Off Licence	Uxbridge	A	0
 Hills Road Sixth Form College	Cambridge	A	0
@@ -10326,6 +10322,7 @@ I Solution Technology Ltd	London	A	0
 I Squared Capital Advisors (UK) LLP	London	A	0,4
 I stools limited	Wakefield	A	0
 I WISER SOLUTION LTD	London	A	0
+I&S Services Ltd	London	A	0
 I&T SERVICES LIMITED	London	A	0
 I&Y STYLE LIMITED	Hull	A	0
 I'm So Good Ltd	Nottingham	A	0
@@ -10352,7 +10349,7 @@ IAP (UK) SUB LIMITED T/A Insurance Advisory Partners	London	A	0
 iAspire Care Services	Harrow	A	0
 IB & S Ltd T/A Ravello	Bradford on Avon	A	0
 IBASE SOFTWARE SOLUTIONS PVT LIMITED	Cheshire	A	0
-IBC QUALITY SOLUTIONS LIMITED	Leicester	A	0
+IBC QUALITY SOLUTIONS LIMITED	London	A	0
 IBD SOLUTIONS LTD	Portsmouth	A	0
 IBERIA LINEAS AEREAS DE ESPANA SA OPERADORA	Harmondsworth, West Drayton	A	0
 IBERICA DE COMPRAS CORPORATIVAS SL	Milton Keynes	A	4
@@ -11343,6 +11340,7 @@ JEM SYSTEMS LIMITED	Poole	A	0
 Jen Care Solutions Ltd	Oxford, Banbury	A	0
 Jenab 3 Limited T/A Creams Shepherds Bush	London	B	0
 Jenarth Thavarasa T/As Rosewood Stores	Bushey	A	0
+JENKIN SUPPORT SERVICES LTD	London	A	0
 Jenner House Surgery	Farnborough	A	0
 JENOA RISK SERVICES LIMITED	London	A	0
 JERMYN STREET DESIGNS LTD	London	A	0
@@ -13857,7 +13855,6 @@ MBK Solicitors	Tunbridge Wells	A	0
 MBM FOODS SERVICES LTD	Camberley	A	0
 MBM Print SCS Ltd	East Kilbride	A	0
 MBS INTERIORS (SOT) LTD	Stoke-On-Trent	A	0
-MBS STORE LTD	Preston	A	0
 MBS Survey Software Ltd	Steyning	A	0
 MC (Charlotte Street) Ltd T/A Maltby Capital Advisory	London	A	0
 MC Care Services	Dartford	A	0
@@ -15639,7 +15636,6 @@ NORHAM HIGH SCHOOL	North Shields	A	0
 Norland Place School Limited	London	A	0
 Norman Broadbent Executive Search Limited	London	A	0
 NORMAN FORSYTH & SON	Newton Stewart	A	0
-Normanshire Care Services Limited	London	A	0
 Norris Green Specsavers Hearcare Ltd	Norris Green	A	0
 Norse Commercial Services	Norwich	A	0
 NorseCare Services Ltd	Norwich	A	0
@@ -16768,7 +16764,6 @@ People Matter Support Service Limited	Reading	A	0
 People Support Ltd	Swansea	A	0
 PEOPLE, SYSTEMS AND PROCESS (PSP) LTD	Spalding	A	0
 Pepper Corporation Marketing Services Ltd	London	A	0
-PEPPER ENTERPRISES LTD T/A MERINGTON STORE	Southampton	A	0
 Perceptive Consulting Solutions Ltd	Harlestone	A	0
 Percorso Studio Ltd	London	A	0
 Perera & Sons Ltd	Southampton	A	0
@@ -17956,7 +17951,6 @@ Raitech It Servces/trainings Ltd	Ipswich	A	0
 Raj Food & Wine Stores	London	A	0
 Raj Food Services Ltd. T/As Punjab Delight	Slough	A	0
 Raj Law Solicitors	London	A	0
-Raj Pragash Sebamalai Sosai T/A Wayfield Local	Chatham	A	0
 RAJ RESTAURANT SHREWSBURY LIMITED TA The Masala	Shrewsbury	A	0
 RAJ SRI LIMITED	Edinburgh	A	0
 RAJ SWINDON RESTAURANT LTD	Swindon	A	0
@@ -19005,6 +18999,7 @@ S AND K PVT LTD	Loughton	A	0
 S B BREDBURY LTD T/A SHABAZ BALTI HOUSE	Stockport	A	0
 S B Fish (Agency) Ltd	Troon	A	0
 S B Joinery UK Ltd	Stockbridge	A	0
+S BROTHERS INVESTMENTS LTD	London	A	0
 S BROTHERS LIMITED	Hampshire	A	0
 S BURGER LIMITED	London	A	0
 S C Jewellery Design	Edinburgh	A	0
@@ -21525,7 +21520,6 @@ Scottish Squash Limited	Edinburgh	A	11
 Scottish Target Shooting	Edinburgh	A	11
 Scottish Volleyball	Edinburgh	A	11
 Scottish Water	Glasgow	A	0
-Scottish Widows Schroder Personal Wealth Limited	Leeds	A	0
 Scottish Wildlife Trust	Edinburgh	A	0,9
 Scottish Woodlands Ltd	Edinburgh	A	0
 Scottish Youth Hostels Association	Stirling	A	0
@@ -21614,7 +21608,6 @@ SDET Digital Ltd	Morley	A	0
 SDF RESTAURANT LTD T/A The Iskele Restaurant and Bar	London	A	0
 SDG	Armagh	A	0
 SDG GROUP UK&I LTD	London	A	0
-SDG Group UK&I Ltd	Milton Keynes	A	0,4
 SDI PRIVATE LIMITED	Birmingham	A	0
 Sdip Holdings UK Limited	Reading	A	0,4
 SDJ (MCR) LTD	Manchester	A	0
@@ -21939,7 +21932,6 @@ SeeChange Technologies Limited	Manchester	A	0
 SEED ABUNDANCE T/A SA ACCOUNTANCY LTD	Chatham	A	0
 Seed Architects Limited	Manchester	A	0
 Seed Healthcare Services Ltd	Manchester	A	0
-SEED Madagascar	London	A	0
 Seed Mentors Entrepreneurs Academy Consortium Ltd	Lanark	A	0
 Seedcamp Services Ltd	London	A	0
 SEEDLEGALS LTD	London	A	0
@@ -25894,7 +25886,6 @@ Smmmile Bristol Ltd	Bristol	A	0
 SMO Services Limited	Blackpool	A	0
 SMOKE & HERITAGE LIMITED	Newcastle Upon Tyne	A	0
 Smoke & Peppers (Ldn) Ltd	London	A	0
-Smoke Control Services Ltd T/A Group SCS	Cardiff	A	0
 SMOKEBALL UK LTD	London	A	0,4
 Smokemeats Ltd	London	A	0
 Smokers Junction Trading Limited T/A West 9 Food & Wine	London	A	0
@@ -27209,7 +27200,7 @@ Spark Medical Group - St Georges Surgery	Birmingham	A	0
 Spark Product Innovation Limited	Bristol	A	0
 Spark Tutoring Limited	London	A	0
 Spark360 Ltd	Coventry	A	0
-SPARKBROOK MANAGEMENT LIMITED	Birmingham	A	0
+SPARKBROOK MANAGEMENT LIMITED	Dagenham	A	0
 Sparkfast Ltd TA AuditStar	London	A	0
 Sparkh Ltd	London	A	0
 Sparking Hut Ltd	Birmingham	A	0
@@ -27928,7 +27919,6 @@ Springvale Care Limited	Slough	A	0
 Springvilla Care Ltd	London	A	0
 Springwell Medical Group	Sunderland	A	0
 SPRINGWELL TRADING LTD T/A MUST EAT	Perth	A	0
-SPRINGWOOD HEALTHCARE SERVICES LTD	Edgware	A	0
 Springwood residential home ltd	Belper	A	0
 SPRINGWOOD SURGERY	Guisborough	A	0
 SPRINKLED WITH HOPE LTD	Bolton	A	0
@@ -28854,7 +28844,6 @@ ST.MARY'S RESTAURANT LIMITED	Norwich	A	0
 St.Marys House Care Home	Bungay	A	0
 St.Michael's Support Limited	Northampton	A	0
 St.Peter's Mar Thoma Church East Area,London-UK	Romford	A	1
-St.Vibes Ltd	London	A	0
 ST1 Consulting Limited	Ely	A	0
 STA DIAGNOSTICS LTD (17054131)	England	A	2
 STA Legal Limited	Maidstone	A	0
@@ -28960,7 +28949,6 @@ Stamford House Dental Practice	Axminster	A	0
 Stamos Yeoh architects LTD	London	A	0
 Stamp Out Poverty	London	A	0
 STAN WEST LTD T/A SUBWAY	Trowbridge	A	0
-Stanborough School	Welwyn Garden City	A	0
 STANBRIDGE HOUSE	West Sussex	A	0
 STANBROOK ABBEY	York	A	10
 Standard Advisory London Limited	London	A	0,4
@@ -30720,7 +30708,6 @@ Sun on Time Super Market	Mansfield	A	0
 Sun Pharma UK Limited	Uxbridge	A	0
 SUN PROPERTY 666 LIMITED	Southampton	A	0
 Sun Radio Solutions Limited	Newbury	A	0
-Sun Recycling Ltd	Corby	A	0
 SUN SHORE SYSTEMS LIMITED	Houslow	A	0
 SUN STAR GLOBAL LTD	Southall	A	0
 Sun Studio London	London	A	0
@@ -31406,7 +31393,6 @@ SUTTON EXPRESS LTD	Sutton	A	0
 Sutton Harbour Group plc	Plymouth	A	0
 Sutton in the Elms Care Home	Sutton in the Elms	A	0
 Sutton Local Ltd	Sutton	A	0
-Sutton Manor Surgery	Hull	A	0
 Sutton News & Convenience Stores Limited T/A Sutton Convenience Store	Derbyshire	A	0
 Sutton Nursing Homes Limited	Surrey	A	0
 Sutton Nursing Homes Ltd T/A Orchard House N Home	Sutton	A	0
@@ -31669,7 +31655,6 @@ Sweet&Chilli Ltd	London	A	0
 SWEET1NE CUISINE LTD	Ilford	A	0
 Sweetalk & M K HOSSINI LTD	Burgess Hill	A	0
 Sweetgrass Pubs Ltd	Derby	A	0
-SWEETHEARTS AND DESSERTS LIMITED	Oldham,	A	0
 SWEETMAY LIMITED T/A KINGS BAZAAR	Exeter	A	0
 Sweetnam & Bradley Ltd	Malmesbury	A	0
 Sweetreat Ltd	Cornwall	A	0
@@ -31856,6 +31841,7 @@ Syed Jalal Ali Gillani T/a Barlow Store	Manchester	A	0
 Syed Khawarzami Welfare Trust	Milton Keynes	A	9
 SYED PROPERTY LTD	Nottingham	A	0
 SYED SERVICES LTD	Birmingham	A	0
+Syed Solicitors LTD	Ilford	A	0
 SYED VINTAGE GROUP LTD	Ilford	A	0
 SYEDAALAM LTD	Yeovil	A	0
 SYEDS BOUTIQUE LTD	Caernarfon	A	0
@@ -32282,7 +32268,6 @@ Tata Consultancy Services	London	A	0,4,7
 Tata Steel UK Limited	Port Talbot	A	0,4,7
 TATE SOLUTIONS LIMITED	London	A	0
 Tau Marketing Services Limited	London	A	6
-Taunton Homecare Services	Taunton	A	0
 Taunton School Educational Charity	Taunton	A	0,9
 Taunton Specsavers Limited	Taunton	A	0
 Taunton St Andrews Cricket Club	Taunton	A	11
@@ -32498,7 +32483,6 @@ Thai Village Spa Limited	Surrey	A	0
 Thakur Consultancy Services	Northampton	A	0
 THAMBIAH SUTHARSAN T/A SOUTHLAKE PARADE CONVENIENCE STORE	Reading	A	0
 Thames Building Supplies Ltd	London	A	0
-Thames Homecare Service LTD	London	A	0
 Thames Homecare Services (North) Limited	Sheffield	A	0
 Thames Meditation Society	Selsdon	A	1,10
 Thames Network Ltd T/A AB STATION	London	A	0
@@ -34836,6 +34820,7 @@ Walfinch Mid & South Buckinghamshire	High Wycombe	A	0
 Walgate Services Limited	London	A	0
 Walhampton School	Lymington	A	9
 Walker & Smith Limited	Batley	A	0
+Walker & Sutcliffe	Huddersfield	A	0
 Walker B Ltd ta Signs Express Bristol	Bristol	A	0
 Walker Convenience Store Limited	London	A	0
 Walker Sime	Manchester	A	0
@@ -35157,7 +35142,6 @@ White-eagles Educational Services Limited	Nottingham	A	0
 Whitecrest Care Services Limited	Sheffield	A	0
 Whitefield School	London	A	0
 Whitehall Primary School	London	A	0
-Whiteheath Junior School	Ruislip	A	0
 Whitelink Seafoods Ltd	Fraserburgh, Aberdeenshire	A	0
 Whitez Snooker Ltd	Swansea	A	0
 Whitfield Service Station Limited	Dover	A	0
@@ -35312,6 +35296,7 @@ Wolverhampton Girls' High School	Wolverhampton	A	0
 Wolverhampton Road Surgery	Stafford	A	0
 Wolverton Solutions Limited	Milton Keynes	A	0
 Women in Tech SEO Ltd	London	A	0
+WOMENS SUPER LEAGUE FOOTBALL LIMITED	London	A	0
 WONDA AFRICAN FOOD STORE LIMITED	Plymouth	A	0
 Wonderful Care Services Ltd	Peterborough	A	0
 Wonderlust Services Ltd	Chorley	A	0

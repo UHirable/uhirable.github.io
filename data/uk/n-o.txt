@@ -768,6 +768,7 @@ Families Outside	Edinburgh	A	0
 Family Office Tax Services LLP	London	A	0
 Far East Orchard UK Management Limited	London	A	0,4
 Fareport Training Organisation Limited	Fareham	A	0
+FAST FOOD OPERATIONS LIMITED T/A MIAMI CRISPY	Manchester	A	0
 Fat Ox Beckenham Ltd	Beckenham	A	0
 FDX SPORTS AND OUTDOORS LTD	London	A	0
 Financial Ombudsman Service	London	A	0
@@ -3006,6 +3007,7 @@ OpalTec International Limited	Bristol	A	0
 OPAS GROUP LTD	Gosport	A	0
 Opay Holding Limited	St Albans	A	0
 Opcare Limited	Abingdon	A	0,4
+Opco Lloyds Wealth Management Limited	Leeds	A	0
 Opde UK Limited	London	A	0,4
 OPEC CBRNe ltd	Warrington	A	4
 Opecprime Development Ltd	London	A	0
@@ -3266,7 +3268,6 @@ Optiver UK Limited	London	A	0,4
 OPTIVEST INVESTMENT LTD	London	A	0
 Optivet Referrals Ltd	Havant	A	0
 Optix Software Ltd	York	A	0
-OPTO-E TECH LIMITED	London	A	0
 Optometric Technology Group Ltd	London	A	0
 Optometrix Ltd t/a Opticalise Opticians	Harrow	A	0
 Optos Plc	Dunfermline	A	0,4
@@ -3500,7 +3501,6 @@ ORGANZA FASHIONS LTD	Birmingham	A	0
 ORGROW LIMITED	London	A	0
 Orgvue Limited	London	A	0,4
 Ori healthcare ltd	Andover	A	0
-Ori Industries 1 Ltd	London	A	0
 OriBiotech Ltd	London	A	0
 Orica UK Ltd	Warrington	A	0,4,7
 Oricon Ltd	Birmingham	A	0
@@ -3538,6 +3538,7 @@ Origin Design Studio Ltd	Lincoln	A	0
 Origin Education UK International Cultural Exchange Ltd	London	A	0
 Origin Frames Limited	High Wycombe	A	0,4
 Origin Import and Export Limited	Bradford	A	0
+ORIGIN PEPTIDES LIMITED	Linlithgow	A	0
 Origin Primary Limited	London	A	0
 Origin Recruitment Ltd	Lancaster	A	0
 Origin Tattoo Ltd	London	A	0
@@ -4776,7 +4777,6 @@ THE BARNS, OLD COURT BARN	Hereford	A	0
 The Big Church Day Out	Littlehampton	A	3,10
 THE BOMBAY ORPINGTON LTD	Orpington	A	0
 The Bright Morning Star Prisons and Homelessness Outreach	London	A	9
-The Cambridge Oven	Cambridge	A	0
 THE CITY OF MERCY OUTREACH	Leicester	A	1
 The College of Optometrists	London	A	0
 The Community of Our Lady of Walsingham	Dereham	A	1,9,10

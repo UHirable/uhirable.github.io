@@ -46,6 +46,7 @@
 4986 MILES LTD T/A GOAT	Upminster	A	0
 4BIO Ventures Management Limited	London	A	0
 4C Hotels - Minories LLP	London	A	0
+4KAY MOTORS LIMITED	Manchester	A	0
 4T Markets Limited	London	A	0
 5 M'S SCOTS LTD	Glasgow	A	0
 5 STAR CONVENIENCE MCR LTD	Salford	A	0
@@ -2793,7 +2794,6 @@ Edgware Motors Limited	St Albans	A	0
 Edinburgh City Mission SCIO	Edinburgh	A	1
 EDINBURGH HINDU MANDIR & CULTURAL CENTRE	Edinburgh	A	1,10
 Edinburgh Homecare T/A Meloosha Homecare Edinburgh	Edinburgh	A	0
-EDINBURGH MEDICAL RESOURCES UK LTD T/A POLWARTH PHARMACY	Edinburgh	A	0
 Edinburgh Molecular Imaging Limited	Edinburgh	A	0
 Edinburgh Montessori Arts School	Edinburgh	A	0
 EDINBURGH MOSQUE KITCHEN LTD	Edinburgh	A	0
@@ -3100,6 +3100,7 @@ Fasken Martineau LLP	London	A	0,4
 Fast Computers & Mobile Services Ltd	London	A	0
 FAST ENCASH MONEY TRANSFER SERVICES LTD	London	A	0
 FAST EXCHANGE AND MONEY TRANSFER LTD	London	A	0
+FAST FOOD OPERATIONS LIMITED T/A MIAMI CRISPY	Manchester	A	0
 Fast Fwd Multimedia Ltd	Birmingham	A	0
 Fast Moverz Ltd	Leicester	A	0
 Fast PC & Mobile Tech LTD	Leeds	A	0
@@ -4211,6 +4212,7 @@ HUNTLEIGH MEDICAL HEALTHCARE LIMITED	Harrogate	A	0
 HUNTS MOTORS BEDFORD LTD	Bedford	A	0
 Hurst Media Labs	London	A	0
 Hurst, Peirce + Malcolm LLP	33 Johns Mews	A	0
+Huschem Ltd t/a Medicare Pharmacy	Harlow	A	0
 Hush Project Management & Consulting Limited	London	A	0
 Hussain Halal Meat Limited	London	A	0
 HUSSAIN SUPER MART LTD	Wakefield	A	0
@@ -6589,7 +6591,6 @@ MAK BUSINESS CONSULTANTS LTD	Luto	A	0
 Mak Education Limited	London	A	0
 MAK FOODS (HW) LIMITED	High Wycombe	A	0
 MAK GLOBAL CONSULTANTS LTD	Ashton-Under-Lyne	A	0
-Mak Halal Bradford Limited	Bradford	A	0
 Mak Halal Walsall Ltd	Walsall	A	0
 MAK INTEGRATED SERVICES LIMITED	Manchester	A	0
 MAK MORE LTD T/A Southchurch News	Nottingham	A	0
@@ -8558,7 +8559,6 @@ MBS (B'HAM) Ltd	Birmingham	A	0
 MBS INTERIORS (SOT) LTD	Stoke-On-Trent	A	0
 MBS Lighting UK Limited	Slough	A	0
 MBS London Ltd	London	A	0
-MBS STORE LTD	Preston	A	0
 MBS Survey Software Ltd	Steyning	A	0
 MBT CONSULTANCY UK LTD	Reading	A	0
 MC (Charlotte Street) Ltd T/A Maltby Capital Advisory	London	A	0
@@ -10171,7 +10171,6 @@ Micheldever Group Limited	Winchester	A	0,4
 Michelin Tyre plc	Stoke-on-Trent	A	0,4,7
 MICHELL INSTRUMENTS LIMITED	Ely	A	0
 MichelleBelle Limited	Grays	A	0
-Michelmersh Brick UK Limited	Haywards Heath	A	0
 Michelmores LLP	Exeter	A	0
 Michels and Taylor (London) Limited	Elstree	A	0
 Michelson Diagnostics Limited	Maidstone	A	0
@@ -10747,6 +10746,7 @@ Mindray (UK) Limited	Huntingdon	A	0,4
 Minds I Media Ltd	London	A	3
 Minds Matter (Trading Activities) Limited	London	A	0
 MINDS TECHNOLOGIES LIMITED	Croydon	A	0
+Mindscope Behavioural Labs Ltd	London	A	0
 MINDSEARCH LIMITED	London	A	0
 MINDSET AI LTD	London	A	0
 Mindset Recruitment Ltd	Nottingham	A	0
@@ -13415,7 +13415,7 @@ MUDUK INVESTMENT LIMITED	London	A	0
 MUDUK RESTAURANT LTD	Mitcham	A	0
 Muehlhan Wind Service A/S	Hull	A	0,4
 Mueller Europe Limited	West Midlands	A	0
-Mueller International Holdings Limited	Southampton	A	0,4
+Mueller International Holdings Limited	Southampton	A	4
 Muf Architecture/Art LLP	London	A	0
 Muffin Affairs Limited	Wokingham	A	0
 Muffin break harrow ltd	Harrow	A	0
@@ -13574,7 +13574,6 @@ Multitone	Basingstoke	A	0
 Multitop Accountants Ltd	Welling	A	0
 MULTITRENDS LIMITED	Manchester	A	0
 Multiverse Group Limited	London	A	0
-Multivision constructions Ltd	Grangemouth	A	0
 Multrees Consulting Limited	London	A	0
 Multrees Investor Services Limited	Edinburgh	A	0
 MULTUS Biotechnology Limited	London	A	0
@@ -14064,7 +14063,7 @@ Mytton Oak Surgery	Shrewsbury	A	0
 MYUKLAW LIMITED	Huddersfield	A	0
 Myunidays Limited	Nottingham	A	0,4
 MYURAN LTD T/A NISA LOCAL	Ashington	A	0
-MyUtilityGenius Ltd	Rainham	A	0
+MYUTILITYGENIUS LTD	Rainham	A	0
 MyWay Digital Health Ltd	Dundee	A	0
 MYWORLD Creative Projects	London	A	9
 MZ BUILDING SOLUTIONS LTD	Manchester	A	0
@@ -14501,6 +14500,7 @@ OneChronos Markets UK Limited	London	A	0,4
 Oneteam Motors Limited	Grays	A	0
 Ontic Engineering and Manufacturing UK Ltd	Cheltenham	A	0,4
 Opaleye and Middlefell Limited	Gloucester	A	0
+Opco Lloyds Wealth Management Limited	Leeds	A	0
 OPEN HOUSE MCR LTD	Manchester	A	0
 Open Medical Ltd	Ealing	A	0
 Open Outdoor Media Ltd	Liverpool	A	0
@@ -14782,7 +14782,6 @@ People of Grace Gospel Mission	Dartford	A	1,9
 People's Mission	South Shields	A	1
 Pep general maintenance limited	London	A	0
 Pepper Corporation Marketing Services Ltd	London	A	0
-PEPPER ENTERPRISES LTD T/A MERINGTON STORE	Southampton	A	0
 Pepper Money (PMB) Limited	Cardiff	A	0,4
 PER4M Asset Management Limited	London	A	0
 Percy Motors Birmingham Ltd.	Birmingham	A	0
@@ -15277,7 +15276,7 @@ Randall's Monitoring Ltd	Farnham	A	0
 Rania Halal Meat & Fish Store LTD	Oldham	A	0
 Ranic Motors Limited T/A HiQ	London	A	0
 RANIPATHY LTD T/A MADRAS ACCENT	Bromley	A	0
-RANJHCO MANAGEMENT CONSULTANCY LTD	Rochdale	A	0
+RANJHCO MANAGEMENT CONSULTANCY LTD	Warrington	A	0
 RANK Management Ltd.	London	A	0
 Ranmore Fund Management Limited	Woking	A	0
 Rapid Medical Services (UK) Limited	London	A	0
@@ -15332,6 +15331,7 @@ Real Life Ministries	London	A	9
 Real Mission Limited	London	A	0
 Real Music Academy Ltd	Oldham	A	3
 Real Time Media Ltd	Finchley	A	3
+Really Bright Media	London	A	0
 REALSTAR MANAGEMENT (UK) LIMITED	London	A	0
 Realterm Europe Management UK Ltd	London	A	0,4
 Reboot Online Marketing Ltd	London	A	0
@@ -15887,7 +15887,6 @@ Secure My World Ltd	Bolton	A	0
 Secure Risk Management Limited	Birmingham	A	0
 Secureit Services (MCR) LTD	Bolton	A	0
 Sed Medicons Ltd	London	A	0
-SEED Madagascar	London	A	0
 Seed Mentors Entrepreneurs Academy Consortium Ltd	Lanark	A	0
 SEEDLEY MINI MARKET LTD	Greater London	A	0
 Seesaw Media Ltd	235 Regents Park Road	A	0
@@ -16328,7 +16327,7 @@ Space Made Group Limited	London	A	0
 Space Merchants Ltd	Harrow	A	3
 Spar - Morden	Morden	A	0
 Spark Medical Group - St Georges Surgery	Birmingham	A	0
-SPARKBROOK MANAGEMENT LIMITED	Birmingham	A	0
+SPARKBROOK MANAGEMENT LIMITED	Dagenham	A	0
 Sparks Marketing (EMEA) Ltd	Kenilworth	A	0
 Sparta Capital Management Ltd	London	A	0
 Speak Media (UK) Limited	Nottingham	A	0
@@ -16743,7 +16742,6 @@ Sushi Moka Ltd	London	A	0
 Sussex Homecare Support Limited T/A Good Oaks Home Care (Mid-Sussex)	Burgess Hill	A	0
 Sutharshan Tharmasekaran T/As Morley's	London	A	0
 SUTTER HILL MANAGEMENT COMPANY UK, LLP	London	A	0,4
-Sutton Manor Surgery	Hull	A	0
 Suttons Medical Group	Spalding	A	0
 SVA MADRAS KITCHEN GB LIMITED	London	A	0
 Svitzer Marine Limited	Middlesbrough	A	0,4

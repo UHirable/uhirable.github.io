@@ -1045,7 +1045,7 @@ Evotix Limited	Glasgow	A	0
 Excelcare Holdings	Great Linford	A	0
 Excelra BV UK	Greater London	A	0
 EXCELSIOR MARQUEES LTD	Gerrards Cross	A	0
-Exclusive Care	Gateshead	A	0
+Exclusive Care	Gateshead	B	0
 Executives Place Ltd	Godalming	A	0
 Exelot UK Ltd	Gerrards Cross	A	0
 Expectech Limited	Glasgow	A	0
@@ -2113,7 +2113,6 @@ Mulroy Architects Ltd	Guildford	A	0
 MULTI COOL REFRIGERATION COMPANY LTD	Greenford	A	0
 Multi-Color Clydebank Scotland Limited	Glasgow	A	0
 Multilink Management Care Ltd	Gloucester	A	0
-Multivision constructions Ltd	Grangemouth	A	0
 MUMTAZ ENTERPRISES LTD	Gillingham	A	0
 Muneeb Store	Glasgow	A	0
 Munro Studio Limited	Guildford	A	0

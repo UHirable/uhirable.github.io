@@ -1719,7 +1719,6 @@ HAAS AUTOMATION LIMITED	Norwich	A	0
 Haberdashers' Adams	Newport	A	0
 Haddonstone Limited	Northampton	A	0
 HADE EUROPEAN SITE SERVICES LTD	Newark	A	0
-HADY BUILDERS LTD	Nottingham	A	0
 Hafren Veterinary Group Limited	Newtown	A	0
 Hai Robotics U.K. Limited	Northampton	A	0
 Hair Shop (Notts) Ltd	Nottingham	A	0
@@ -2245,7 +2244,7 @@ KMK Newmarket Limited	New market	A	0
 Knights Professional Services	Newcastle under Lyme	A	0
 KNOTTS BAKERY LIMITED	Newtownards	A	0
 Koepon Farms	Newton Stewart	A	0
-Kokoro JNJ Ltd T/A Kokoro Nottingham	Nottingham	A	0
+KOKORO JNJ LTD T/A Kokoro Nottingham	Nottingham	A	0
 Kolys Foods Ltd T/A Mas Bazaar	Newport	A	0
 Komcept Solutions Ltd	Northampton	A	0
 Komodo Digital Ltd	Newcastle upon Tyne	A	0
@@ -2270,6 +2269,7 @@ KS RETAIL LTD	Neath	A	0
 KSD (Contracts) Ltd	Nuneaton	A	0
 Ksne Ltd T/A Pepe's Piri Piri (Trading Address)	Norwich	A	0
 KSZ TAXIS LTD	Newport	A	0
+KTOWNNEWMALDEN LIMITED	New Malden	A	0
 Kubota Noodle Express UK LTD	Newcastle Upon Tyne	A	0
 KULASEKARAM KASINATHAN T/as BRIGG CONVENIENCE STORE	North Lincolnshire	A	0
 Kulcha Express London Ltd	North Harrow	A	0
@@ -4331,6 +4331,7 @@ The Xpression Beauty Limited	Nottingham	A	0
 THEHEALTHCHECK LTD	North Harrow	A	0
 Therapy Assist LTD	Nelson	A	0
 Think for the Future Ltd	Nottingham	A	0
+Think Print (UK) Ltd	Northwich	A	0
 Thivakaran Thillainathan T/A Harry's salad Bar	Newark	A	0
 Thomson Dental Care Limited	North Berwick	A	0
 Thornfield Medical Group	Newcastle upon Tyne	A	0

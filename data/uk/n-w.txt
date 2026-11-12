@@ -1022,7 +1022,6 @@ Dr Z Wiese	Cottenham	A	0
 DRAYCOTE HOTEL & WHITEFIELDS GOLF COMPLEX	Rugby	A	0
 Dream Motoring World Ltd	London	A	0
 DREAM SOLUTION WORLD LIMITED	Gloucester	A	0
-Dream Works Agency Ltd	Uxbridge	A	0
 DRILL WHOLESALE LIMITED	Ingatestone	A	0
 Drink With Dignity Limited	London	A	0
 DRINKS WHOLESALE GROUP LTD	Mitcham	A	0
@@ -1420,7 +1419,6 @@ Grand Slam Wrestling Ltd	Southampton	A	3
 GRAND WINE LTD	Southsea	A	0
 Grange Wood Food and Wine	London	A	0
 Grant Walker Engineering Ltd	Chichester	A	0
-Grapevine (Coventry and Warwickshire) Limited	Coventry	A	0
 Greasby Food & Wine Wirral Limited	Wirral	A	0
 Great Britain Wheelchair Rugby Limited	Twickenham	A	11
 Great Deal Wines Ltd	Birmingham	A	0
@@ -2611,6 +2609,7 @@ One World Travel Services Limited	Slough	A	0
 One Young World Limited	London	A	0
 Online Wellness Limited	Edgware	A	0
 Opal Wave Solutions Ltd	London	A	0
+Opco Lloyds Wealth Management Limited	Leeds	A	0
 Open Doors with Brother Andrew t/a Open Doors UK & Ireland	Witney	A	0
 Open World 2 Limited	Romford	A	0
 OPEN WORLD FINANCIAL SERVICES LTD	London	A	0
@@ -2837,7 +2836,6 @@ Rahman Leisure (W/Bay) Ltd	Whitley Bay	A	0
 Raise Education & Wellbeing Ltd	Bolton	A	0
 Raithwaite Whitby Limited	London	A	0
 Raj Food & Wine Stores	London	A	0
-Raj Pragash Sebamalai Sosai T/A Wayfield Local	Chatham	A	0
 Raja Mudassar Food Limited T/A Caprinos Pizza Withington	Manchester	A	0
 Raja Sahib Metal Works Ltd	Luton	A	0
 Rajah Food & Wine	Ilford	A	0
@@ -3078,7 +3076,6 @@ SCHOONER WINES	St Helens	A	0
 Scotia World Limited	Edinburgh	A	0
 Scottish National Party Westminster Group	London	A	0
 Scottish Water	Glasgow	A	0
-Scottish Widows Schroder Personal Wealth Limited	Leeds	A	0
 Scottish Wildlife Trust	Edinburgh	A	0,9
 Scottish Woodlands Ltd	Edinburgh	A	0
 scuff wheels	Hertfordshire	A	0
@@ -4244,6 +4241,7 @@ Walk-In The Gate Limited	London	A	0
 Walkden Cricket Club	Walkden	A	11
 Walkden Medical Centre	Walkden	A	0
 Walker & Smith Limited	Batley	A	0
+Walker & Sutcliffe	Huddersfield	A	0
 Walker & Watts Limited	Burgess Hill	A	0
 Walker B Ltd ta Signs Express Bristol	Bristol	A	0
 Walker Cole International Ltd	London	A	0
@@ -4727,6 +4725,7 @@ Way2Save Harlesden Limited	London	A	0
 WAYCORE LTD	London	A	0
 Wayfair (UK) Limited	London	A	0,4
 Wayfarer Restaurant Limited	Wigan	A	0
+WAYFIELD LOCAL LTD T/A WAYFIELD LOCAL	Chatham	A	0
 Wayflyer UK Limited	London	A	0
 Wayforward Specialist Support Services LTD	Newton Abbot	A	0
 Waygood Real Estate Limited	Swansea	A	0
@@ -5001,6 +5000,7 @@ Weetabix Ltd	Kettering	A	0,4
 Wefi International UK Limited	London	A	0
 WEFIXANYFONE LTD T/A We Fix Any Phone	Derby	A	0
 WEG (UK) LTD	Redditch	A	0
+WEG Limited t/a West End Garage	Woking	A	0
 WEGLOBAL CONSULTING LIMITED	London	A	0
 Wei's Food Limited	Manchester	A	0
 Wei-UK Consulting Ltd	London	A	0
@@ -5223,7 +5223,7 @@ Wendover Development Limited	London	A	0
 Wendover Studio Limited	London	A	0
 Wendy Wu Tours	London	A	0
 WENDY'S RESTAURANTS OF U.K. LIMITED	Smallfield	A	0,4
-Wengineering Ltd	King''s Lynn	A	0
+Wengineering Ltd	London, England,	A	0
 Wenham Carter Ltd	Hove	A	0
 WENLIN EDUCATION LTD	London	A	0
 Wenlodia (UK) Limited	Northampton	A	0
@@ -5922,7 +5922,6 @@ Whitehaven Rugby League 2010 LTD	Whitehaven	A	11
 Whitehaven Trust Ltd	Bristol	A	1,10
 WHITEHAWK CAFE AND FOOD LIMITED	Brighton	A	0
 Whitehead-Ross Education and Consulting Ltd	Neath	A	0
-Whiteheath Junior School	Ruislip	A	0
 Whitehills Care Ltd	Walton-On-Thames	A	0
 Whitehouse Communications Limited	London	A	0
 WHITELEGG LIMITED	Kent	A	0
@@ -6843,7 +6842,7 @@ Women in Tech SEO Ltd	London	A	0
 Women's Best UK Ltd	London	A	0,4
 Women's Equality Network Wales	Cardiff	A	0
 Women's Pioneer Housing	London	A	0
-Women's Professional Leagues Limited	London	A	0
+WOMENS SUPER LEAGUE FOOTBALL LIMITED	London	A	0
 WONDA AFRICAN FOOD STORE LIMITED	Plymouth	A	0
 Wonda Afro Caribbean Restaurant and Bakery LTD	Plymouth	A	0
 WONDER CARE LTD	Coventry	A	0
@@ -6879,6 +6878,7 @@ Wong Lee Takeaway Ltd	Chesterfield	A	0
 WONG WONG BAKERY LIMITED	Manchester	A	0
 Woo Architects Ltd	London	A	0
 Woo Sang Supermarket	Manchester	A	0
+Woocheen International Limited	London	A	0
 Wood & Wire Made Ltd	Hebden Bridge	A	0
 WOOD AND ASSOCIATES DENTAL CARE LTD	Manchester	A	0
 Wood Burn Diners Ltd	Glasgow	A	0

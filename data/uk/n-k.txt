@@ -684,7 +684,7 @@ Fork & Knife Foods Limited t/a Steakout Coventry	Coventry	A	0
 FORTEX GROCERS LTD T/A Key store	Glasgow	A	0
 FORTUNE BD LIMITED T/A SOYFUL'S KITCHEN	Radstock	A	0
 Fortune300 Ltd t/a Klassic Dry Cleaners	Harrow	A	0
-Foundation of Lady Katherine Leveson	Solihull	A	0
+Foundation of Lady Katherine Leveson	Solihull	B	0
 Founders Keepers LLP	London	A	0
 Fountains of Knowledge	Nelson	A	1
 FPT Software United Kingdom Ltd.	London	A	0,4
@@ -3436,7 +3436,6 @@ KJ Thermosets	Bradford	A	0
 KJ&J ENTERPRISE LTD	Haywards Heath	A	0
 KJAM LIMITED	London	A	0
 KJB Foods Ltd	Birmingham	A	0
-KJD CARE LIMITED	London	A	0
 KJF LTD T/A LARKINS STORE	Arundel	A	0
 KJR Baldock Ltd	Hitchin	A	0
 KJR Software Services Ltd	Reading	A	0
@@ -3708,7 +3707,6 @@ KnowBe4 Uk Ltd	Leeds	A	0
 KNOWBILITY CONSULTANCY LIMITED	Romford	A	0
 Knowcross Limited	London	A	0,4
 KNOWESGATE HOTEL LIMITED	Middlesbrough	A	0
-Knowle & Dorridge Cricket Club	Solihull	A	11
 Knowle Court Limited	Wakefield	A	0
 Knowle court Ltd	Huddersfield	A	0
 Knowle Cricket Club	Bristol	A	11
@@ -3838,7 +3836,7 @@ Kokoro Durham LTD	Walton-On-Thames	A	0
 Kokoro Farnborough Ltd	Walton On Thames	A	0
 KOKORO HANA LTD	Uxbridge	A	0
 Kokoro Hounslow Ltd	Walton On Thames	A	0
-Kokoro JNJ Ltd T/A Kokoro Nottingham	Nottingham	A	0
+KOKORO JNJ LTD T/A Kokoro Nottingham	Nottingham	A	0
 Kokoro JV Management Ltd	Walton On Thames	A	0
 KOKORO NETWORKS LIMITED	Kingston Upon Thames	A	0
 Kokoro Poole Ltd	Walton-On-Thames	A	0
@@ -3852,7 +3850,6 @@ Kokoro Trading Ltd	Walton-on-Thames	A	0
 Kokoro UK Ltd	Walton-on-Thames	A	0
 Kokoro Weybridge LTD	Walton-On-Thames	A	0
 Kokoro Young Ltd	Epsom	A	0
-Kokoro Young Ltd T/A KOKORO Epsom	Epsom	A	0
 Kokulabavan Jeyarasa	Dumfries	A	0
 KOLA CONSTRUCTION LTD	Poole	A	0
 KOLA DESIGN LTD	Birmingham	A	0
@@ -4383,7 +4380,7 @@ KTM Design Limited	Bournemouth	A	0
 KTM Global Comsulting Limited	Pinner	A	0
 KTMP UK LTD	Ilford	A	0
 KTMS Realty Limited	Chigwell	A	0
-KTOWNNEWMALDEN LIMITED	Surrey	A	0
+KTOWNNEWMALDEN LIMITED	New Malden	A	0
 KTR Accounting Services Ltd	Great Leighs	A	0
 KTRADE Limited T/A Daynight Pharmacy	Barking	A	0
 KTS Accountants Ltd	Harrow	A	0

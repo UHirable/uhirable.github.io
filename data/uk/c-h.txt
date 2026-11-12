@@ -1273,7 +1273,6 @@ Cozentus Technologies UK Limited	Harrow	A	0,4
 CPI TMD Technologies Ltd	Hayes	A	0
 Craft Franchise Ltd T/A Craft Burger	Hartlepool	A	0
 Craft Wardrobe Ltd	Hayes	A	0
-Crane Electronics Ltd	Hinckley	A	0
 Cranmead Limited	Hove	A	0
 Cranswick PLC	Hessle	A	0
 Craven Concrete Ltd	High Bentham	A	0
@@ -2573,7 +2572,6 @@ Hindes Hotel	Harrow	A	0
 Hindu Temple & Cultural Trust Centre	Hounslow	A	1,10
 HIRDS HALIFAX LTD	Halifax	A	0
 Hire 2 Style Ltd	Hayes	A	0
-Hirtenberger Defence International Ltd	Hampshire	A	0
 HiSkySat Ltd	Harwell	A	0,4
 Hitachi Construction Machinery (UK) Limited	Hebburn	A	0,4,7
 HITCHIN COFFEE COMPANY LTD	Hertford	A	0
@@ -2713,6 +2711,7 @@ Huntly Tandoori Aberdeen Ltd	Huntly	A	0
 Hurco Europe Ltd	High Wycombe	A	0
 Hurley House Limited	Hurley	A	0
 Hurstpierpoint College Ltd	Hassocks	A	0,9
+Huschem Ltd t/a Medicare Pharmacy	Harlow	A	0
 Hutchinson Homes Limited	Holywood	A	0
 HVL PHARMA UK LTD	Haverhill	A	0,4
 Hyde Convenience Store (Cheshire) Ltd	Hyde	A	0
@@ -3679,7 +3678,6 @@ MHBT Limited	Huddersfield	A	0
 MHHOME LTD	Hudersfield	A	0
 MHM SERVICES (GB) LIMITED	Halifax	A	0
 MI & SON TRADERS LTD	Hayes	A	0
-Michelmersh Brick UK Limited	Haywards Heath	A	0
 MICRAH HEALTHCARE LTD	Hemel Hempstead	A	0
 Micro Precision Gear Technology Limited	Hemel Hempstead	A	0
 MicroFast Technologies Limited	Harrow	A	0
@@ -5408,7 +5406,6 @@ Sustain Homes Limited	Hertfordshire	A	0
 Sutana Ltd t/a Beleza Rodizio	Hull	A	0
 SUTHAHARAN NADESAPILLAI T/A NATIONAL CONVENEINCE STORE	Hull	A	0
 Suthaharan Nadesapillai T/A Today's Express- Inglemire	Hull	A	0
-Sutton Manor Surgery	Hull	A	0
 SV Retail Limited	Harrow	A	0
 SVM Care Limited T/A Walfinch Harrow & Brent	Harrow	A	0
 Swadin Consultancy Ltd	Harrow	A	0
@@ -5710,7 +5707,6 @@ Thind Courier Ltd	Hounslow	A	0
 Thind Music UK Ltd.	Hounslow	A	3
 Thind Subs Ltd	Harrow	A	0
 Third Sector Leaders Kirklees	Huddersfield	A	0
-Thirty8 London Ltd	Herts	A	0
 Thiyash Limited T/A Burbank Food & Wine	Hartlepool	A	0
 Thomas Broadbent & Sons Limited	Huddersfield	A	0
 Thompson Commercials Ltd	Hull	A	0
@@ -6067,6 +6063,7 @@ W.H. Brakspear & Sons Ltd	Henley-on-Thames	A	0
 WAKT Group Ltd	Hyde	A	0
 WAKUSEI LTD	Hemel Hempstead	A	0
 Walfinch Mid & South Buckinghamshire	High Wycombe	A	0
+Walker & Sutcliffe	Huddersfield	A	0
 Walker Modular Limited	Hull	A	0
 Wallace House	Hertford	A	0
 Walnut Hill Equine Clinic Ltd	Henley in Arden	A	0

@@ -246,7 +246,6 @@ Kingdom Youth Services Limited	Swindon	A	0
 Kingswood Early Years Nursery Limited	London	A	0
 Knight Young & Co. (UK) Ltd	London	A	0
 Kokoro Young Ltd	Epsom	A	0
-Kokoro Young Ltd T/A KOKORO Epsom	Epsom	A	0
 KPY PHILLIPS YOUNG LLP	Surrey	A	0
 Kwan Yick (UK) Ltd	Newport	A	0
 L & Y Enterprise Ltd T/AS L'Amandine FSR	Richmond	A	0
@@ -798,7 +797,6 @@ YEO Messaging Ltd	Matlock	A	0
 Yeoman Care Ltd T/A Albert House Nursing Home	Weston Super Mare	A	0
 Yeotown London Ltd.	Barnstaple	A	0
 Yeovil College	Yeovil	A	0
-Yeovil Community Church	Yeovil	A	1,10
 Yeovil Specsavers Limited	Yeovil	A	0
 Yes / No Productions Ltd	Hove	A	3
 Yes 99 Plus Ltd	Greenford	A	0

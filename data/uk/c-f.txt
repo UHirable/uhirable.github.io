@@ -1059,6 +1059,7 @@ Tessaa Ltd	Fareham	A	0
 Testia Limited	Filton	A	0
 The Avenue Care Home	Fareham	A	0
 The Christian Community in Great Britain	Forest Row	A	1,10
+The Collective Agency London Limited	Folkestone	A	0
 The Congregation of the Franciscan Sisters of St. Mary of the Angels	Fareham	A	1
 The Dental Surgery(The Erfans)	Fareham	A	0
 The Establishment Hairdressing Ltd	Farnham	A	0

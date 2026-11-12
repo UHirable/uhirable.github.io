@@ -607,6 +607,7 @@
 4C Hotels Victoria LLP	London	A	0
 4C Hotels-Camden Lock LLP	London	A	0
 4C LABS LTD	London	A	0
+4C Research Group Limited	Bloxham, Banbury	A	0
 4CAST Limited T/A Continuum Economics	London	A	0
 4Demand Ltd	London	A	0
 4Diamonds LTD	Lisburn	A	0
@@ -624,6 +625,7 @@
 4K Networks Ltd	London	A	0
 4KAY LTD	Heywood	A	0
 4Kay Ltd	Keighley	A	0
+4KAY MOTORS LIMITED	Manchester	A	0
 4life Healthcare Services Ltd	Canterbury	A	0
 4M LONDON LIMITED	London	A	0,4
 4ME@U Ltd T/A Devoncare	Plymouth (Devon)	A	0
@@ -1699,7 +1701,6 @@ Opus 2 International Limited	London	A	0
 ORBITAL CARE SERVICES 2 LTD	Kenley	A	0
 ORDER 2 EAT	Bedford	A	0
 ORDER FIRST LIMITED (CRN 11407480)	Ilford	A	0
-Ori Industries 1 Ltd	London	A	0
 ORIENTAL CARE 4 YOUR HEALTH LIMITED	Cornwall	A	0
 Oriental Club (1824) Limited	London	A	0
 OTTERSHAW CHERTSEY LTD T/A 3 Rooms Indian Restaurant	Chertsey	A	0
@@ -1790,6 +1791,7 @@ R & D 2 Pizza Limited T/A Dominos Pizza	West Malling	A	0
 R 4 R Service Station	Gillingham	A	0
 Radhuni 1 Ltd	Belfast	A	0
 Radhuni 2 Ltd T/A Agra Indian Cuisine	Belfast	A	0
+Radiant Infrastructure 1 Ltd	London	A	0
 Ragdale Hall (1990) Limited	Melton Mowbray	A	0
 Rags 4U Ltd	Wolverhampton	A	0
 Ram 217 Limited, t/a Victoria House Care Home	Blantyre	A	0

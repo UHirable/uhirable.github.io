@@ -338,7 +338,6 @@ AK & CO Properties Ltd. T/As Park Store	Tonypandy	A	0
 AK FOOD & DRINKS LTD. T/As SPAR	Swansea	A	0
 AK LINCOLN LTD	Caistor	A	0
 Akasa (Europe) Ltd.	Greenford	A	0
-Akebar Park Leisure LTD	Leyburn	A	0
 Akela Future Living Ltd	Birmingham	A	0
 AKG (UK) Learning Limited	London	A	0,4
 AKL LOCALS LIMITED T/A LONDIS	Redruth	A	0
@@ -1327,7 +1326,6 @@ Brow Lodge Limited TA Brow Lodge Beauty, Nails and Hair Boutique	Oxford	A	0
 Brown & Carroll(london) Ltd	Basildon	A	0
 Browning & Associates Ltd.	London	A	0
 Brownlee Fitness Ltd.	Ipswich	A	11
-Browns Leisure Limited	South Shields	A	0
 BRP LONDON LTD T/A JALSHA TANDOORI RESTAURANT	Kent	A	0
 BRS London Limited	London	A	0
 Brummer & Partners Asset Management (UK) Ltd.	London	A	0
@@ -3034,7 +3032,7 @@ FOSTER LONDON LIMITED	London	A	0
 Fosters Off Licence	Rhyl	A	0
 Found8tions Youth Support Services Ltd.	London	A	0
 Foundation for Liver Research	London	A	0
-Foundation of Lady Katherine Leveson	Solihull	A	0
+Foundation of Lady Katherine Leveson	Solihull	B	0
 Founders For Good Ltd.	London	A	0,4
 Founders Law Limited	London	A	0
 Foundry Lane Surgery	Leeds	A	0
@@ -3256,7 +3254,7 @@ Global eProcure Ltd.	London	A	0,4
 Global Fresh Food London Ltd	London	A	0
 GLOBAL HARVEST CHURCH (LONDON)	Sidcup	A	1
 Global Learning Europe Ltd	London	A	0,4
-Global Legal Action Network	London	A	0
+Global Legal Action Network (GLAN)	London	A	0
 Global Legal Consultants	London	A	0
 Global Legal Group	London	A	0
 Global Legal Solutions Ltd t/as GLS Solicitors	Brentford	A	0
@@ -9651,6 +9649,7 @@ Mimica Lab Ltd.	Dullingham	A	0
 MINADEIN UK Ltd.	Brighton	A	2
 MIND LINKS MCR LTD	Manchester	A	0
 Mind the Gap Consulting Ltd.	London	A	0
+Mindscope Behavioural Labs Ltd	London	A	0
 Mindspace London Limited	London	A	0
 Mindstone Learning Limited (t/a Mindstone)	London	A	0
 Minerva Europe Ltd.	Essex	A	0
@@ -10328,6 +10327,7 @@ ONLY LOVE BEAUTY LIMITED	London	A	0
 ONSB LTD T/A LEATHERHEAD POST OFFICE	Leatherhead	A	0
 ONWAY LDD LTD	Reading	A	0
 Onyx Living Ltd	Manchester	A	0
+Opco Lloyds Wealth Management Limited	Leeds	A	0
 Open College Network London Region	London	A	0
 Open House London Limited	London	A	0
 Open Plan Law Limited	Oxford	A	0
@@ -10954,7 +10954,6 @@ Raj Jewellers (Leicester) Ltd	Leicester	A	0
 RAJ LADIES TAILOR LIMITED	London	A	0
 Raj Law Solicitors	London	A	0
 RAJ NEWS & OFF LICENSES	Chesterfield, Derbyshire	A	0
-Raj Pragash Sebamalai Sosai T/A Wayfield Local	Chatham	A	0
 RAJA LOGISTICS LTD	Birmingham	A	0
 RAJAGOBALAN VEERAPATHIRAN T/A MOORES OFF LICENCE AND STORE	Mansfield	A	0
 RAJAS LEEDS LTD	Leeds	A	0
@@ -12428,6 +12427,7 @@ The City of Leicester College	Leicester	A	0
 The City of Liverpool College	Liverpool	A	0
 The Coffee Lounge (Lindley) Limited	Huddersfield	A	0
 The Collaborative London Limited	London	A	0
+The Collective Agency London Limited	Folkestone	A	0
 The Community Lettings Management Company LTD	Liverpool	A	0
 The Community of Our Lady of Walsingham	Dereham	A	1,9,10
 The Congregation of the Daughters of the Cross of Liege	Sutton	A	1,10
@@ -12814,7 +12814,6 @@ THIRAVIYANATHAN MURALITHARAN T/A ALLENBY LATE SHOP	Ramsgate	A	0
 Third life care Limited	Glasgow	A	0
 Third Man Records London Limited	London	A	0
 Third Sector Leaders Kirklees	Huddersfield	A	0
-Thirty8 London Ltd	Herts	A	0
 This Is Language Ltd	Oxford	A	0
 Thistle Pharma Ltd t/a Rokshaw Laboratories	Sunderland	A	0
 Thivakar Navaratnam t/as Lawns News Agent	Broadstairs	A	0
@@ -13362,6 +13361,7 @@ Watford Hotel Ltd T/A Holiday Inn Express London - Watford Junction	Watford	A	0
 Waugh Thistleton Architects Ltd.	London	A	0
 Wave Fashion Limited T/a Krisp London	Willesden, London	A	0
 Way Of Life Management Ltd	London	A	0
+WAYFIELD LOCAL LTD T/A WAYFIELD LOCAL	Chatham	A	0
 Wayne Leighton LLP	Elstree	A	0
 Wayside Lodge Equestrian LTD	Leicester	A	0
 WDS Associates LS Limited	Kingswood	A	0
@@ -13526,7 +13526,7 @@ Woking Foods and Wine Limited T/A Londis	Woking	A	0
 WOKING LOCAL PVT LTD	Woking	A	0
 Wolverhampton Wanderers FC (1986) Ltd.	Wolverhampton	A	0,4,11
 WOMBATS LONDON LTD.	London	A	0
-Women's Professional Leagues Limited	London	A	0
+WOMENS SUPER LEAGUE FOOTBALL LIMITED	London	A	0
 Wonder Chicken Ltd. T/As Chicken Wonder	London	A	0
 Wonder London Limited	London	A	0
 Wong Lange Ltd	London	A	0

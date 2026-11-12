@@ -893,7 +893,6 @@ B&C Retails Ltd T/as The Cornish Oggy Oggy Pasty Company	Exeter	A	0
 B&E Live Limited	London	A	0
 B&F SOLUTIONS LTD	Wakefield	A	0,3
 B&G Double Glazing Ltd	Dagenham	A	0
-B&G Double Glazing Ltd	London	A	0
 B&GT Limited	Bristol	A	0
 B&H CALL LIMITED	Salisbury	A	0
 B&H CONVENIENCE STORE LTD T/A VICTORIA NEWS	London	A	0
@@ -3602,7 +3601,6 @@ BeTo Solutions Ltd	Romford	A	0
 Beto`s UK Ltd	Bournemouth	A	0
 Betongpark Limited	London	A	0
 Better Bargain	Newcastle Upon Tyne	A	0
-Better Brows Limited	Buckinghamshire	A	0
 Better Care Services Ltd	Cannock	A	0
 Better Collective UK Services Ltd	London	A	0
 Better Dairy Limited	London	A	0
@@ -4698,7 +4696,7 @@ Blackburn Rovers Ladies Football Club	Blackburn	A	11
 BLACKBURN SMILECARE LTD	Blackburn	A	0
 BLACKBURN U K TRUST	Blackburn	A	0,9
 BLACKCOUNTRY MOTORS LTD	Oldbury	A	0
-Blackdice Healthcare Limited	Devon	A	0
+Blackdice Healthcare Limited	Devon	B	0
 Blacketts Medical Practice	Darlington	A	0
 Blackfaulds Nursing Home Limited	Falkirk	A	0
 Blackfen School for Girls	Sidcup	A	0
@@ -6460,7 +6458,6 @@ Brantwood Avenue Post Office	Dundee	A	0
 BRAR CARPET & FLOORING LTD	Uxbridge	A	0
 Brar Transport Ltd	Dudley	A	0
 Brarista Ltd	London	A	0
-BRARUS LIMITED	Staffordshire	A	0
 BRASFOOD LIMITED	London	A	0
 Brasil Warrant UK Limited	London	A	0
 Brass for Africa	Wokingham	A	3
@@ -6774,6 +6771,7 @@ Bridgewater care	Ferndown	A	0
 Bridgewater Entertainments Ltd t/aThe Ledbury Restaurant	London	A	0
 Bridgewater Loans Ltd	Preston	A	0
 Bridgewater Support Solutions Limited	Manchester	A	0
+BRIDGEWATER VENTURES LIMITED	Manchester	A	0
 Bridgeway Consulting Limited	Nottingham	A	0
 Bridgewell Consultants Ltd	Glasgow	A	0
 Bridgewood & Neitzert Ltd	London	A	0
@@ -6874,6 +6872,7 @@ BRIGHTEDGE ACADEMY LIMITED	London	A	0
 Brightedge Technologies Limited	London	A	0,4
 Brightening Lives Ltd	North Yorkshire	A	0
 Brightening Lives Ltd	Thirsk	A	0
+Brighter Beginnings (HW) Ltd	London	A	0
 Brighter Day Care at Home Ltd	Salisbury	A	0
 Brighter Days Care at Home Ltd	Durrington	A	0
 Brighter Future Services Limited	Dagenham	A	0
@@ -6886,7 +6885,6 @@ Brighter Star Services Ltd	Southall, England,	A	3
 BRIGHTER STAYS	Hitchin	A	0
 Brighter Stays Limited	Hitchin	A	0
 Brighteye Advisors London Limited	London	A	0
-BrightGen Limited, T/A Credera	London	A	0
 BrightInsight Delivery UK	London	A	0
 Brightkidz Preschool Ltd	Stanmore	A	0
 Brightlight Support Ltd	Oxford	A	0
@@ -7552,7 +7550,6 @@ Browns (South Molton Street) Limited	London	A	0,4
 Browns 1934 Ltd	London	A	0
 Browns Bonds Hill	Londonderry	A	0
 Browns Cars Limited	Newry	A	0
-Browns Leisure Limited	South Shields	A	0
 Browns Manufacturing Limited	Kelloholm	A	0
 Browns Short Break Respite Ltd	St Helens	A	0
 Brownscombe House	Haslemere	A	0
@@ -10268,7 +10265,7 @@ Hack the Box	London	A	0
 HackerOne B.V.	London	A	0,4
 Hackney Building Supplies Ltd	London	A	0
 HADEED BRODICK LIMITED	Kirkcaldy	A	0
-HADY BUILDERS LTD	Nottingham	A	0
+HADY BUILDERS LTD	Derby	A	0
 HAGAN FISH BAR & CAFE LTD	Carmarthen	A	0
 HAHNBECK BUSINESS SYSTEMS LTD	London	A	0
 HAI BOX W12 LTD	Richmond	A	0
@@ -11772,7 +11769,6 @@ MAJOR CURRY AFFAIR BURNTWOOD LTD	Burntwood	A	0
 Major League Baseball Europe Limited	London	A	0,4
 MAK Building & Electric Maintenance Ltd.	Peterborough	A	0
 MAK BUSINESS CONSULTANTS LTD	Luto	A	0
-Mak Halal Bradford Limited	Bradford	A	0
 Make Believe Ideas	Berkhamsted	A	0
 MAKKAH TRAVEL BFD LTD	Bradford	A	0
 MAKS BUILDERS LTD	Birmingham	A	0
@@ -12004,7 +12000,6 @@ Michael Boles t/a Largs Chiropractic Clinic	Largs	A	0
 Michael Bradbrook Consultants Ltd T/a Bradbrook Consulting	London	A	0
 Michaelis Boyd Associates Ltd	London	A	0
 MICHEAL FISH BAR LIMITED	Twickenham	A	0
-Michelmersh Brick UK Limited	Haywards Heath	A	0
 Mici Brothers Limited	London	A	0
 Mick Appleby Racing & Breeding Ltd	Oakham	A	0
 MICROGRAPHIA BIO LIMITED	London	A	0
@@ -12028,6 +12023,7 @@ Mind Bridge Consulting LTD	Reading	A	0
 Mind in Barnet	London	A	0
 Mind in Bradford	Bradford	A	0
 MINDI BUILDERS LIMITED	Ilford	A	0
+Mindscope Behavioural Labs Ltd	London	A	0
 Minety Battery Storage Limited	Reading	A	0,4
 MINISTRIES WITHOUT BORDERS INTERNATIONAL	Cardiff	A	1,9,10
 Ministry of Defence; Defence Business Services	Bristol	A	0
@@ -13359,6 +13355,7 @@ Reading Borough Council	Reading	A	0
 Reading Building Services Ltd	Reading	A	0
 Reading Buses	Reading	A	0
 READY TO BUILD LTD	Hayes	A	0
+Really Bright Media	London	A	0
 Reckitt Benckiser Group Plc	Slough	A	0,4,7
 Recognise Bank Limited	London	A	0
 RECURE BIOTECHNOLOGY & COSMETICS LIMITED	London	A	0
@@ -13611,6 +13608,7 @@ S AND J BROTHERS LIMITED	Ilford	A	0
 S B BREDBURY LTD T/A SHABAZ BALTI HOUSE	Stockport	A	0
 S B Fish (Agency) Ltd	Troon	A	0
 S B Joinery UK Ltd	Stockbridge	A	0
+S BROTHERS INVESTMENTS LTD	London	A	0
 S BROTHERS LIMITED	Hampshire	A	0
 S BURGER LIMITED	London	A	0
 S C NEWS (BACUP) LTD	Bacup	A	0
@@ -16003,7 +16001,6 @@ Zero7 Restaurant and Bar	Hornchurch	A	0
 ZESHAN BARGAIN LTD	Manchester	A	0
 ZESTY BITES PIZZERIA AND DESSERTS LTD	Middlesbrough	A	0
 ZETESMED Ltd t/a BUTTERFLY Dental Practice	Oswestry	A	0
-Zeus Brokers Limited	London	A	0
 ZG BUSINESS SERVICES LIMITED	Newcastle upon Tyne	A	0
 Zhixiang Bespoke Culture Limited	London	A	0
 Zion Baptist Church	Cambridge	A	1

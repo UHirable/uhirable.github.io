@@ -1665,6 +1665,7 @@ JENI MT COMPANY LTD T/a GULF	Plymouth	A	0
 JENIII LTD T/A ESSO	Birmingham	A	0
 Jenjudan UK Limited	Bromborough	A	0
 JENKI DRINKS LTD	London	A	0
+JENKIN SUPPORT SERVICES LTD	London	A	0
 Jenkins IP Limited	London	A	0
 Jenner & Block London LLP	London	A	0,4
 Jenner House Surgery	Farnborough	A	0
@@ -3095,7 +3096,7 @@ KIRUSTIKA JEYANTHAN	Coventry	A	0
 KK Jewellers Ltd	Edinburgh	A	0
 KKTK2 LTD TARO JAPANESE RESTAURANT	London	A	0
 Koinonia John the Baptist Ireland Ltd	Ballymena	A	1,9,10
-Kokoro JNJ Ltd T/A Kokoro Nottingham	Nottingham	A	0
+KOKORO JNJ LTD T/A Kokoro Nottingham	Nottingham	A	0
 Kokoro JV Management Ltd	Walton On Thames	A	0
 Kokulabavan Jeyarasa	Dumfries	A	0
 Koshia Jose t/a Andover Stores	Andover	A	0
@@ -3886,7 +3887,6 @@ WEST MIDLANDS JAPAN MOTORS LTD	Birmingham	A	0
 WEST OAK JOINERY LTD.	Letchworth Garden City	A	0
 Western Jewellers	Tooting Broadway	A	0
 WESTWOOD JOINERY & CONSTRUCTION LIMITED	Sheffield	A	0
-Whiteheath Junior School	Ruislip	A	0
 will jones agri services	Carmarthen	A	0
 William Jackson Food Group	Hull	A	0
 Williams Jet Tenders Ltd	Berinsfield	A	0

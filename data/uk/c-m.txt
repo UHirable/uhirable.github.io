@@ -27,6 +27,7 @@
 42Video Limited	Morden	A	0,3
 444 Rentals Ltd	Manor Park	A	0
 4Fashions Ltd	Manchester	A	0
+4KAY MOTORS LIMITED	Manchester	A	0
 4way Consulting Ltd	Manchester	A	0
 5 Dimensions Trust	Milton Keynes	A	0
 5 Health Northwest Ltd T/ A iPharmacy Princess Road	Manchester	A	0
@@ -879,6 +880,7 @@ Bridgelea Primary School	Manchester	A	0
 Bridgeporth Ltd	Milton Keynes	A	0,4
 Bridges Electrical Engineers Ltd	Midsomer Norton	A	0
 Bridgewater Support Solutions Limited	Manchester	A	0
+BRIDGEWATER VENTURES LIMITED	Manchester	A	0
 Brielle Healthcare Services LTD	Milton Keynes	A	0
 BRIGHT BIOTECH LIMITED	Manchester	A	0
 BRIGHT FUTURE TUITION LTD	Manchester	A	0
@@ -1031,7 +1033,6 @@ Carisbrook Dental Care Ltd	Manchester	A	0
 Carnivore Cartel Ltd	Motherwell	A	0
 Carpenders Care Limited	Middlesex	A	0
 CARPET HOUSE LTD	Manchester	A	0
-Carpeteria (UK) Ltd	Manchester	A	0
 CARS 4 U TRADERS LTD	Manchester	A	0
 CARS EMPORIUM LIMITED	Manchester	A	0
 CARS IN MK LTD	Milton Keynes	A	0
@@ -1045,7 +1046,6 @@ Castle School Education Trust	Mangotsfield	A	0
 Castlefield Advisory Partners Limited	Manchester	A	0
 Castlefield Gallery	Manchester	A	0
 Castlefield Hospitality Ltd	Manchester	A	0
-Caswell Chiropractic Limited	Milton Keynes	A	0
 Catamountain Limited T/A Kebab Centre	Middlesborough	A	0
 Caterham Surgical Supplies Limited	Milton Keynes	A	0
 Catermatch Solutions Ltd	Manchester	A	0
@@ -1890,6 +1890,7 @@ Fashion Gateway Limited	Manchester	A	0
 FASHIZO UK LIMITED	Manchester	A	0
 FAST AUTOS	Manchester	A	0
 Fast Cargo And Logistics Limited	Manchester	A	0
+FAST FOOD OPERATIONS LIMITED T/A MIAMI CRISPY	Manchester	A	0
 Fast Track Properties	Manchester	A	0
 Fastfit Station MK Limited	Milton Keynes	A	0
 FASTWAY COURIERS LTD	Manchester	A	0
@@ -4786,7 +4787,6 @@ Scottish Borders Council	Melrose	A	0
 Scriptpad Limited	Milton Keynes	A	0
 Scuzi Limited T/A Storia	Maidenhead	A	0
 SDET Digital Ltd	Morley	A	0
-SDG Group UK&I Ltd	Milton Keynes	A	0,4
 SDJ (MCR) LTD	Manchester	A	0
 SDL Limited	Maidenhead	A	0
 SDMC CONSULTANTS LIMITED	Milton Keynes	A	0

@@ -609,7 +609,6 @@ B D HEALTHCARE LIMITED	Walsall	A	0
 B DHANDA LTD	Gravesend	A	0
 B J M Dental Laboratory Ltd	Wallington	A	0
 B&G Double Glazing Ltd	Dagenham	A	0
-B&G Double Glazing Ltd	London	A	0
 B&M Design & Build Ltd	London	A	0
 B&R DISTRIBUTION LTD	London	A	0
 B'ham Door Panels Ltd	West Bromwich	A	0
@@ -3370,6 +3369,7 @@ DEPENDABLE HEALTH CARE LTD	Huddersfield	A	0
 Dependable Home Care Services	Worcester	A	0
 Dependable Social & Mental Health Limited	Abingdon	A	0
 Dephna Group Limited	London	A	0
+DEPIXEN LIMITED	London	A	0
 Depixus	Cambridge	A	0
 Deplidge International Ltd.	Lytham St Annes	A	3
 Deploy Ecommerce Limited	Stoke-on-Trent	A	0
@@ -4762,7 +4762,6 @@ DLG Architects LLP	Leeds	A	0
 DLG ShopFitters Limited	Leicester	A	0
 DLLNI Limited	Bangor	A	0,4
 Dlocal OpCo UK Ltd	London	A	0
-DLS Social & Healthcare Ltd	Wellington	A	0
 DLS Solicitors	Cheshire	A	0
 DLT APPS LIMITED	York	A	0
 DLT Engineering Ltd	Higham Ferrers	A	0
@@ -5664,7 +5663,6 @@ Dream Smile Clinic Limited t/a Dream Smile Dental Clinic	London	A	0
 Dream Smiles Dent Ltd	Manchester	A	0
 DREAM SOLUTION WORLD LIMITED	Gloucester	A	0
 Dream Transport Solutions Ltd	Sandy	A	0
-Dream Works Agency Ltd	Uxbridge	A	0
 DreamDart Ltd	London	A	0
 Dreamer & Fortune Ltd	London	A	0
 Dreamer Space International Education Ltd	London	A	0
@@ -7335,7 +7333,6 @@ HIMALAYAN DRY CLEANING LIMITED T/A DEE'S DRY CLEANERS	Thatcham	A	0
 HINDU CULTURAL ASSOCIATION ( MATA DA MANDIR)	Dudley	A	1,10
 Hippo Digital Limited	Leeds	A	0
 Hira Dental Laboratory Ltd.	Coventry	A	0
-Hirtenberger Defence International Ltd	Hampshire	A	0
 Hitachi Digital Services UK Limited	London	A	0,4
 HJKB Limited T/A Conway House Dental Practice	High Wycombe	A	0
 HK Design and Construction Ltd	Harrow	A	0
@@ -7924,7 +7921,6 @@ KNDS DEFENCE UK LIMITED	Stockport	A	0,4
 Knight Dragon Developments Limited	London	A	0
 Knight R& D Limited	London	A	0
 KNIGHTSHILL DENTAL PRACTICE LIMITED	London	A	0
-Knowle & Dorridge Cricket Club	Solihull	A	11
 Knowsley Disability Concern	Liverpool	A	0
 Knox Digital Limited	London	A	0
 Ko Dental Practice	London	A	0
@@ -10343,7 +10339,6 @@ SWEECH DATA SOLUTIONS LTD	Watford	A	0
 Sweet Street Desserts LTD	Huddersfield	A	0,4
 SWEET TALKERS DESSERT LIMITED	London	A	0
 Sweet Three Ltd T/A Heavenly Desserts	York	A	0
-SWEETHEARTS AND DESSERTS LIMITED	Oldham,	A	0
 SWIFT DENTAL LABORATORY LTD	Bolton	A	0
 SWINDON DISPENSARY LIMITED	Swindon	A	0
 Swindon Dispensary Limited T/A Swindon Pharmacy	Swindon	A	0

@@ -93,7 +93,7 @@ High Quality Food London Limited	London	A	0
 HOME OWNERS QS LTD	Glasgow	A	0
 Hub2Asia Limited t/a QIMA	London	A	0
 I Q Trading Limited	Wembley	A	0
-IBC QUALITY SOLUTIONS LIMITED	Leicester	A	0
+IBC QUALITY SOLUTIONS LIMITED	London	A	0
 INTERNATIONAL QUALIFICATIONS AND CERTIFICATIONS ASSESSMENT BOARD LTD	Kensington, London	A	0
 INTERNATIONAL QUALIFICATIONS BOARD LTD	London	A	0
 Internet Query Marketing Ltd	Essex	A	0
@@ -459,7 +459,6 @@ QUALITECH INTEGRATED SERVICES LTD	Thrapton	A	0
 Qualitest Software Testing Limited	London	A	0,4
 Qualitetch Components Ltd	March	A	0
 Qualities Services Ltd	London	A	0
-Quality & Compassion Ltd	Aylesbury	A	0
 Quality & Compassionate Care Ltd	Bristol	A	0
 Quality + Care Solutions Ltd	Easington Colliery	A	0
 QUALITY AND PRICE FURNITURE LTD	Nottingham	A	0
@@ -484,7 +483,7 @@ Quality Care Resourcing	Colchester	A	0
 Quality Care Scotland Ltd	Glasgow	A	0
 Quality care selby ltd	Selby	A	0
 QUALITY CARE SERVICES LIMITED	Peterborough	A	0
-Quality care time ltd	Southgate	A	0
+Quality care time ltd	Barnet	A	0
 QUALITY CARPET & FLOORING LTD	Romford	A	0
 Quality Carpet & Furniture Ltd	Luton	A	0
 Quality Cars and Parts Limited	Dagenham	A	0

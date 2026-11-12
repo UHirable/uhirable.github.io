@@ -3153,6 +3153,7 @@ FAST EXCHANGE AND MONEY TRANSFER LTD	London	A	0
 FAST FOOD AND IMPORT EXPORT LIMITED	Hull	A	0
 FAST FOOD CUMBERNAULD TRADING LTD	Cumbernauld	A	0
 Fast Food Experts Ltd	Newcastle Upon Tyne	A	0
+FAST FOOD OPERATIONS LIMITED T/A MIAMI CRISPY	Manchester	A	0
 FAST FOOD PACKAGING LTD	Wednesbury	A	0
 Fast Food Systems Ltd	Reading	A	0
 Fast Freight Forward Limited	Harlow	B	0
@@ -3453,7 +3454,7 @@ FEN HOUSE DENTAL PRACTICE	Spalding	A	0
 Fence Gate Limited	Burnley	A	0
 Fencepiece Road Medical Centre	Hainault	A	0
 Fenchem GB Limited	Manchester	A	0,4
-Fenchurch Advisory Partners LLP	London	A	0
+Fenchurch Advisory Partners LLP	London	A	0,4
 Fenchurch Law (UK) Ltd	London	A	0,4
 Fencing Mart Limited	Oldham	A	0
 Fencom Ltd	Bolton	A	0
@@ -5505,7 +5506,7 @@ Foundation for Genomics and Population Health	Cambridge	A	0
 Foundation for International Education	London	A	0
 Foundation for Liver Research	London	A	0
 Foundation Matters	Barrow on Trent	A	1,9,10
-Foundation of Lady Katherine Leveson	Solihull	A	0
+Foundation of Lady Katherine Leveson	Solihull	B	0
 Foundations What Works Centre for children and families	London	A	0
 FOUNDDIGITAL DS LTD	London	A	0
 Founders For Good Ltd.	London	A	0,4
@@ -6267,7 +6268,7 @@ Fugen UK Limited	Harrow	A	0
 Fugro GB Limited	Wallingford	A	0,4
 Fujax UK Limited	London	A	0
 Fuje Art Ltd	Coventry	A	0
-Fuji Industries UK Ltd	London	A	4
+Fuji Industries UK Ltd	London	A	0,4
 Fuji London Ltd T/A Fuji	London	A	0
 Fuji Seal Europe Limited	Gillingham	A	0,4
 Fuji Trading Co Ltd	London	A	4
@@ -12208,6 +12209,7 @@ Wolverhampton Carpet & Flooring Limited	Wolverhampton	A	0
 Wolverhampton Wanderers FC (1986) Ltd.	Wolverhampton	A	0,4,11
 Women for Women International UK	London	A	0
 Women in Film and TV (UK)	London	A	0
+WOMENS SUPER LEAGUE FOOTBALL LIMITED	London	A	0
 WONDA AFRICAN FOOD STORE LIMITED	Plymouth	A	0
 WONDER FOUNDATION	London	A	0,9
 Woodenways Timber Frames Ltd	Wellington	A	0

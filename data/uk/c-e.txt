@@ -997,7 +997,6 @@ Edinburgh International Book Festival	Edinburgh	A	0,3,9
 Edinburgh International Festival Society	Edinburgh	A	0,3
 Edinburgh Korean Church	Edinburgh	A	1
 Edinburgh Korean Grace Church	Edinburgh	A	1
-EDINBURGH MEDICAL RESOURCES UK LTD T/A POLWARTH PHARMACY	Edinburgh	A	0
 Edinburgh Molecular Imaging Limited	Edinburgh	A	0
 Edinburgh Montessori Arts School	Edinburgh	A	0
 EDINBURGH MOSQUE KITCHEN LTD	Edinburgh	A	0
@@ -1799,7 +1798,6 @@ KMS HARDRANGE LIMITED	Ellesmere Port	A	0
 Knight Advisory Services Limited	Egham	A	0
 KOCHCHI LTD	Edinburgh	A	0
 Kokoro Young Ltd	Epsom	A	0
-Kokoro Young Ltd T/A KOKORO Epsom	Epsom	A	0
 Koltransport Ltd	Essex	A	0
 KORLOY UK LIMITED	Exhall	A	0,4
 Korotana Group Ltd	Essex	A	0
@@ -2507,6 +2505,7 @@ Profilm Advanced Materials Ltd	Englefield Green	A	0
 Progroup Board Ltd	Ellesmere Port	A	0,4
 PROJECTS BULK PIPING LIMITED	England	A	2
 Projekt 42	Edinburgh	A	9
+ProjektRide	Edinburgh	A	0
 PROMISING HEALTHCARE LIMITED	Essex	A	0
 PROMORTEK LTD	Essex	A	0
 Prospect Farming	Exeter	A	0
@@ -3016,7 +3015,6 @@ Springdene Nursing & Care Homes Ltd	Enfield	A	0
 Springfield Health Services Limited	Emsworth	A	0
 Springfield Properties (Scotland) LTD	Edinburgh	A	0
 Springhill Farms (Pershore) Ltd	Evesham	A	0
-SPRINGWOOD HEALTHCARE SERVICES LTD	Edgware	A	0
 SQUARE COOL LTD	Essex	A	0
 SREE EATERY LTD	Edinghburgh	A	0
 SREE LAKSHMI NARASIMHA ENTERPRISES LIMITED T/as NAVARASA INDIAN STREET KITCHEN	Edinburgh	A	0

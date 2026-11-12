@@ -496,7 +496,6 @@ Gandhi Gravesend Ltd	Kent	A	0
 GASFIT	Kent	A	0
 Gateway Care Services ltd	Kent	A	0
 GAYATHRI NEWS BOX LIMITED T/A The News Box	Kingston Upon Thames	A	0
-GD Auto Services	Kelso	A	0
 GD&P CONSTRUCTION SERVICES LTD	Kent	A	0
 Gemini Cars Ltd	Kempston	A	0
 General Chiropractic Council	Kennington	A	0
@@ -1539,7 +1538,6 @@ Webcurl limited	Kidlington	A	0
 Weetabix Ltd	Kettering	A	0,4
 Welfare Group Limited Ltd T/A Sydenham Londis	Kent	A	0
 WELL CARE 24/7 LTD	Keighley	A	0
-Wengineering Ltd	King''s Lynn	A	0
 Wentworth Care LTD t/a The Garth Care Services	Kington	A	0
 West Coast Sea Products Ltd	Kirkcudbright	A	0
 West End Convenience Store	Kemsing	A	0

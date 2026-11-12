@@ -1758,7 +1758,6 @@ Cradley Express T/A Family Shopper	Cradlley Heath	A	0
 Crafter Engineering Limited	Warrington	A	0
 Cragside Energy Limited	London	A	0
 Cranage EMC Testing Limited	Market Drayton	A	0
-Crane Electronics Ltd	Hinckley	A	0
 Crave-In Enterprises Ltd	Perth	A	0
 CRC Evans Limited	Kintore	A	0,4
 Create Consulting Engineers Ltd	Norwich	A	0
@@ -3204,6 +3203,7 @@ Eden Trust	St Austell	A	9
 Edenberries Day Nursery and Pre School Limited	Essex	A	0
 Edenbridge Accident Repair Centre Limited	Edenbridge	A	0
 Edenbridge Medical Practice	Edenbridge	A	0
+Edenbrook Limited	London	A	0
 Edenfield Cricket Club	Bury	A	11
 Edengate Travel Ltd	Newry	A	0
 Edenhall Edenvalley hotel ltd	Penrith	A	0
@@ -3304,7 +3304,6 @@ Edinburgh International Book Festival	Edinburgh	A	0,3,9
 Edinburgh International Festival Society	Edinburgh	A	0,3
 Edinburgh Korean Church	Edinburgh	A	1
 Edinburgh Korean Grace Church	Edinburgh	A	1
-EDINBURGH MEDICAL RESOURCES UK LTD T/A POLWARTH PHARMACY	Edinburgh	A	0
 Edinburgh Molecular Imaging Limited	Edinburgh	A	0
 Edinburgh Montessori Arts School	Edinburgh	A	0
 EDINBURGH MOSQUE KITCHEN LTD	Edinburgh	A	0
@@ -4928,7 +4927,7 @@ Energize Recruitment Solutions Ltd	Manchester	A	0
 Energizer Group Limited	Bucks	A	0,4
 ENERGY & COMPLIANCE TECHNOLOGY LTD	Wakefield	A	0
 energy and carbon reduction solutions ltd	Ashton-Under-Lyne	A	0
-Energy and Systems Technical Ltd	Downham Market	A	0
+Energy and System Technical Ltd	Downham Market	A	0
 Energy Ark Ltd	Stroud	A	0
 Energy Aspects Ltd	London	A	0
 Energy Assets Limited	Manchester	A	0
@@ -5136,6 +5135,7 @@ Enlighten Software Limited	London	A	0,4
 ENLIGHTENED CARE GENERATION LTD	Leicester	A	0
 Enlightenment Care Services Ltd	Peterborough	A	0
 Enlim Excavations Ltd	Bellaghy	A	0
+Enliva Homecare Taunton	Taunton	A	0
 ENM Capital Ltd	London	A	0
 Enmarq Technologies Limited	Reading	A	0,4
 ENMEI Knightsbridge Limited	London	A	0
@@ -6812,7 +6812,7 @@ Exclaimer Limited	Hampshire	A	0,4
 ExcluServ Limited	Camberley	A	0
 EXCLUSIF PRESENTATIONS LTD	London	A	0
 EXCLUSIVE ACCOUNTANTS LTD	Hounslow	A	0
-Exclusive Care	Gateshead	A	0
+Exclusive Care	Gateshead	B	0
 Exclusive Law Ltd	56 Peter Street	A	0
 Exclusive Linens Limited	Luton	A	0
 EXCLUSIVE LOGISTICS SOLUTIONS LIMITED	Nottingham	A	0
@@ -8721,7 +8721,6 @@ Kodali Enterprise Limited	Skegness	A	0
 Koei Tecmo Europe Ltd	Letchworth Garden City	A	0,4
 Koito Europe Ltd	Droitwich Spa	A	4
 Kokoro Alliance Ltd( T/A Kokoro Eastbourne)	Raynes Park	A	0
-Kokoro Young Ltd T/A KOKORO Epsom	Epsom	A	0
 KOME Entertainment	Warwick	A	3
 Kome express Ilford	Ilford	A	0
 KOME EXPRESS LEYTONSTONE HIGH ROAD LTD	London	A	0
@@ -10226,7 +10225,6 @@ Penta Real Estate Limited	Manchester	A	2
 People for the Ethical Treatment of Animals (PETA) Foundation	London	A	0
 People's Energy	Dalkeith	A	0
 Pepco import export ltd	Harrow	A	0
-PEPPER ENTERPRISES LTD T/A MERINGTON STORE	Southampton	A	0
 Perception Events Ltd	London	A	0
 Perez Literary & Entertainment Ltd	London	A	0
 Perfect Clean Edinburgh Ltd	Edinburgh	A	0
@@ -12247,6 +12245,7 @@ Third Equation Ltd	Bristol	A	0
 THIRD EYE PROTECTION LTD	London	A	0
 Third Eye Security Ltd	Uxbridge	A	0
 Third Generation Environmentalism Ltd	London	A	0,4
+This is Embrace Limited	London	A	0
 THIS WORKS EOR SERVICES LIMITED	Leicester	A	0
 THIYAGARASA ENTERPRISES LTD T/A PREMIER	Gloucestershire	A	0
 THIYANAMANY KEMANATHAN T/A HIGH ROAD STORE - GO LOCAL EXTRA	Cumbria	A	0
@@ -12842,6 +12841,7 @@ Webb Yates Engineers Ltd	London	A	0
 Webflow Europe UK Ltd	London	A	0,4
 WEDDINGS AND EVENTS AT CHARNOCK FARM	Leyland	A	0
 WEEFIN ESG UK LTD	London	A	0,2,4
+WEG Limited t/a West End Garage	Woking	A	0
 WELBOURN R&P EXPRESS LTD	Welbourn	A	0
 Well Co Engineering Automation UK Ltd	Birmingham	A	2
 Wellbeing Enterprises CIC	Runcorn	A	0

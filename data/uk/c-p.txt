@@ -988,6 +988,7 @@ Greaves 3D Engineering Limited	Peterborough	A	0
 GREEK TASTE LTD	Peterlee	A	0
 GREEKOUZINA LIMITED	Preston	A	0
 Green City Services Ltd	Peterborough	A	0
+Green Colo Ltd	Portchester, Fareham	A	0
 Green Spaces (Cornwall) Ltd	Penryn	A	0
 Green Technologies Limited t/a AA Labels	Peterborough	A	0
 Green Valley Care Limited	Pontypool	A	0
@@ -1494,7 +1495,6 @@ MAYA'S KITCHEN AND BAR LIMITED	Perth	A	0
 Mayflower Medical Group	Plymouth	A	0
 MAYORLYTE LTD	Plymouth	A	0
 MAZEE GROUP LTD	Perth	A	0
-MBS STORE LTD	Preston	A	0
 McAndrew Martin Limited	Portsmouth	A	0
 McCallion Engineering Limited	Portglenone	A	0
 McCann & Partners Ltd	Penarth Marina	A	0

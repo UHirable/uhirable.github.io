@@ -833,7 +833,6 @@ Zetron Limited	Hull	A	0
 Zetta Connect LTD	London	A	0
 ZEUGMA KITCHEN LTD	London	A	0,6
 Zeurope International Limited	London	A	0
-Zeus Brokers Limited	London	A	0
 Zeus Cars Ltd	Bedford	A	0
 Zeus Electrical Constructions Ltd	London	A	0
 Zeus Labs Limited	London	A	0

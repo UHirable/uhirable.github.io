@@ -605,7 +605,6 @@ Alpha Therm Limited	Wrotham Heath	A	0
 ALPHA TRAINING & CONSULTANTS LTD	Knaresborough	A	0
 Alpha Trust	Colchester	A	0
 ALPHALAKE TECHNOLOGIES LTD	Northampton	A	0
-ALPHAN TECH SOLUTIONS LTD	Chatham	A	0
 Alpharithm Technologies Limited	London	A	0,4
 AlphaSense Technology Limited	London	A	0,4
 Alphr Technology Ltd	Letchworth Garden City	A	0
@@ -3044,7 +3043,7 @@ ENCYCLOMEDIA TV LTD	London	A	0
 Energeia Technologies	Antrim	A	0
 Energex Technical Services Ltd	Rayleigh	A	0
 ENERGY & COMPLIANCE TECHNOLOGY LTD	Wakefield	A	0
-Energy and Systems Technical Ltd	Downham Market	A	0
+Energy and System Technical Ltd	Downham Market	A	0
 Energy Potential Tech Solutions Limited	Denbighshire	A	0
 Energy Trading Ireland Limited	Belfast	A	0
 Engage Technology Partners Limited	Ipswich	A	0
@@ -3060,6 +3059,7 @@ Eni Trade & Biofuels S.p.A UK Establishment	London	A	0,4
 Enji Technologies	London	A	0
 Enjoy Training Limited	Wokingham	A	0
 Enlighten Learning Trust	Esher	A	0
+Enliva Homecare Taunton	Taunton	A	0
 Enmarq Technologies Limited	Reading	A	0,4
 ENRICH LEARNING TRUST	Norwich	A	0
 Ent Corporations Limited (trading as Tanvan)	London	A	0
@@ -6951,7 +6951,6 @@ OPTIMISTIC TECH SERVICES LIMITED	Manchester	A	0
 OPTIMUS TECHNOCRATS	Bury St. Edmunds	A	0
 OPTIMUS TRADING SERVICES LTD	Swansea	A	0
 Options Technology Limited	London	A	0,4
-OPTO-E TECH LIMITED	London	A	0
 Optometric Technology Group Ltd	London	A	0
 Opus Dei Charitable Trust	London	A	1,10
 Opus Talent Solutions Limited	London	A	0
@@ -7577,7 +7576,7 @@ QSR Trading Limited	Meriden	A	0
 Qualcomm Technologies International Ltd	Cambridge	A	0
 QUALIENT TECHNOLOGY SOLUTIONS UK LIMITED	Reading	A	0
 Qualitest Software Testing Limited	London	A	0,4
-Quality care time ltd	Southgate	A	0
+Quality care time ltd	Barnet	A	0
 Quality Chicken & Ribs Limited t/as Quality Chicken & Ribs	Kent	A	0
 Quality Technology Services (UK) Ltd	London	A	0,4
 Quality Traders Ltd	Romford	A	0
@@ -9431,7 +9430,6 @@ T Williams Sport Horses Ltd	Folkestone	A	0
 T Wills & Sons (NI) Ltd	Ardglass	A	0
 T&A Property Development Ltd	London	A	0
 T&D Media Group Ltd	Surrey	A	0
-T&G CONSULTANT LTD	Swindon	A	0
 T&G Engineering Co Ltd	West Byfleet	A	0
 T&J Farnell LTD	Cambridge	A	0
 T&J Legacy Group Limited	Seaford	A	0
@@ -9531,7 +9529,6 @@ TAAL STORES LTD	Birmingham	A	0
 TAANVI LIMITED T/AS KING EDWARD FOOD AND WINE	Deal	A	0
 TAAR TECHNOLOGICA LTD	Slough	A	0
 Taayab Foods Ltd	Luton	A	0
-TAAZ TANDOORI LIMITED	Doncaster	A	0
 TAB BRISTOL LTD	Bristol	A	0
 Tab Labs Ltd	London	A	0
 Tab x Tab Limited	London	A	0
@@ -10236,7 +10233,6 @@ Taunton Association for the Homeless	Taunton	A	0
 Taunton Buffet Ltd	Taunton	A	0
 Taunton Deane Cricket Club	Taunton	A	11
 Taunton Dental and Implant Centre	Taunton	A	0
-Taunton Homecare Services	Taunton	A	0
 Taunton Road Medical Centre	Bridgwater	A	0
 Taunton School Educational Charity	Taunton	A	0,9
 Taunton Specsavers Limited	Taunton	A	0
@@ -11487,7 +11483,6 @@ Thames Ditton Retail Limited	Thames Ditton	A	0
 Thames Freeport Limited	London	A	0
 THAMES FRESH FRUIT AND VEGETABLES LIMITED T/A Daily Needs	Ashford	A	0
 THAMES HIGHTECH LTD	London	A	0
-Thames Homecare Service LTD	London	A	0
 Thames Homecare Services (North) Limited	Sheffield	A	0
 Thames Import Export Ltd	Rainham	A	0
 Thames Mammography Limited	London	A	0
@@ -12191,6 +12186,7 @@ Think Green Land ltd	Wickford	A	0
 THINK INSIDE LTD	London	A	0
 THINK INVESTMENTS EUROPE LLP	London	A	0,4
 Think Jam Limited	Borehamwood	A	0
+Think Print (UK) Ltd	Northwich	A	0
 Think Publishing	London	A	0
 Think Research	Poole	A	0
 Think Study & Learn Limited	Manchester	A	0
@@ -12245,7 +12241,6 @@ Thirsk Smiles LTD	Thirsk	A	0
 Thirsty Soft Drinks Ltd	Melbourne	A	0
 Thirty Holdings Limited	London	A	0
 Thirty Three LLP	London	A	0
-Thirty8 London Ltd	Herts	A	0
 Thiru Cluster Limited	Croydon	A	0
 THIRU FOOD & WINE LTD	Birkenhead	A	0
 Thirumakal Kandiah T/A Cherry Tree Convenience Store (Premier)	Blackpool	A	0
@@ -12255,6 +12250,7 @@ This and That (Manchester) Ltd T/A This & That	Manchester	A	0
 This Bank Limited	London	A	0
 This Day Capital Limited	London	A	0
 This is Beyond Limited	Shepherds Bush, London	A	0
+This is Embrace Limited	London	A	0
 This Is Language Ltd	Oxford	A	0
 This Is Molo Limited	London	A	0
 THIS IS SYNTHESIS UK LTD	London	A	0
@@ -12597,6 +12593,7 @@ Ticketmaster UK Limited	London	A	0,4
 tickford street convenience store ltd	Milton Keynes	A	0
 Tickford Superstore	Newport Pagnell	A	0
 Tickhill Cricket Club	Doncaster	A	11
+Tickhill Restaurant Limited	Doncaster	A	0
 Tickled Pink Publishing Limited	Esher	A	0
 Tickmart Ltd	London	A	0
 TICKTON POST OFFICE	Beverley	A	0
@@ -12896,7 +12893,6 @@ Titian Software Ltd	London	A	0
 Title Split Limited	Denby, Derbyshire	A	0
 Titu's Kitchen Ltd	Chelmsford	A	0
 Titus Learning Limited	Saltaire	A	0
-Tivarri Limited	Bath	A	0
 Tiverton High School	Tiverton	A	0
 TIVIDALE CHICKEN LTD	Birmingham	A	0
 TIW Group Ltd	London	A	0
@@ -15582,7 +15578,6 @@ VCG Technology Services Limited	Stockport	A	0
 VD Shops Ltd TAs Barneys	Inverness	A	0
 VDC Trading Ltd	London	A	0
 vdg trading ltd t/a cafe roma	St.Albans	A	0
-Vea Telecoms UK Limited	Bracknell	A	0,4
 Veba Waterloo Ltd. T/As Black Sheep Coffee	London	A	0
 Vecom Sillavan Metal Treatment Limited	Bury	A	0,4
 VEERAKATHY KANDIAH THAYAKARAN	Hertfordshire	A	0

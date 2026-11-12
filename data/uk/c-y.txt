@@ -375,7 +375,6 @@ Yate Visionplus Limited t/a Specsavers	Yate	A	0
 Yatton Dental and implant centre	Yatton	A	0
 Yaxley Wines Ltd	Yaxley	A	0
 Yeovil College	Yeovil	A	0
-Yeovil Community Church	Yeovil	A	1,10
 Yeovil Specsavers Limited	Yeovil	A	0
 Yiewsley Food Centre	Yiewsley West Drayton	A	0
 YOO KASE LTD	York	A	0

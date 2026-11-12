@@ -1,0 +1,300 @@
+Grandison Management, Inc.	Howell	NJ	63360	Physical Therapists; Occupational Therapists		IL,NY,FL
+Amazon.com Services LLC	Seattle	WA	22060	Software Developers; Business Intelligence Analysts; Computer and Information Systems Managers	163400	WA,CA,TX
+NVIDIA Corporation	Santa Clara	CA	12922	Software Developers; Electronics Engineers, Except Computer; Information Technology Project Managers	187000	CA,TX,WA
+Qualcomm Technologies, Inc.	San Diego	CA	12072	Electronics Engineers, Except Computer; Software Developers; Industrial Production Managers	156900	CA,TX,CO
+CGI Technologies and Solutions Inc.	Fairfax	VA	11242	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	112900	TX,PA,LA
+Meta Platforms, Inc	Menlo Park	CA	9476	Software Developers; Computer and Information Research Scientists; Data Scientists	211800	CA,WA,NY
+Apple Inc.	Cupertino	CA	9399	Software Developers; Electronics Engineers, Except Computer; Electrical Engineers	181100	CA,TX,WA
+Infosys Limited	Richardson	TX	7990	Computer Systems Engineers/Architects; Information Technology Project Managers; Management Analysts	92600	TX,NC,CA
+Cisco Systems, Inc.	San Jose	CA	5901	Software Developers; Electronics Engineers, Except Computer; Information Technology Project Managers	161000	CA,NC,TX
+Oracle America, Inc.	Austin	TX	5876	Software Developers; Computer and Information Systems Managers; Computer Systems Analysts	149000	CA,TX,WA
+Google LLC	Mountain View	CA	5604	Software Developers; Information Technology Project Managers; Data Scientists	194000	CA,WA,NY
+Databricks, Inc.	San Francisco	CA	5079	Software Developers; Computer Systems Engineers/Architects; Sales Engineers	153400	CA,WA,TX
+Kforce Inc.	Tampa	FL	4990	Software Developers; Operations Research Analysts; Business Intelligence Analysts		TX,CA,GA
+Super Micro Computer, Inc.	San Jose	CA	4913	Software Developers; Information Technology Project Managers; Electrical Engineers	141000	CA
+Amazon Web Services, Inc.	Seattle	WA	4884	Software Developers; Computer and Information Systems Managers; Business Intelligence Analysts	162600	WA,TX,CA
+Cognizant Technology Solutions US Corp	College Station	TX	4845	Computer Systems Engineers/Architects; Software Quality Assurance Analysts and Testers; Information Technology Project Managers	110200	TX,NJ,NC
+Microsoft Corporation	Redmond	WA	4211	Software Developers; Data Scientists; Information Technology Project Managers	173800	WA,CA,TX
+Amazon Development Center U.S., Inc.	Seattle	WA	4147	Software Developers; Computer and Information Systems Managers; Information Technology Project Managers	165000	WA,CA,VA
+Deloitte Consulting LLP	Philadelphia	PA	3860	Software Developers; Computer and Information Systems Managers; Operations Research Analysts	141600	TX,FL,CA
+Palo Alto Networks, Inc.	Santa Clara	CA	3425	Software Developers; Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators	184000	CA,TX,WA
+Ernst & Young U.S. LLP	Secaucus	NJ	2522	Accountants and Auditors; Database Administrators; Software Developers	167700	NY,TX,CA
+Tata Consultancy Services Limited	Rockville	MD	2357	Computer Systems Engineers/Architects; Computer Programmers; Computer Systems Analysts	90600	TX,NJ,CA
+Synopsys, Inc.	Sunnyvale	CA	2147	Electronics Engineers, Except Computer; Software Developers; Architectural and Engineering Managers	147000	CA,TX,MA
+Wal-mart Associates, Inc.	Bentonville	AR	2099	Software Developers; Business Intelligence Analysts; Data Scientists	145700	AR,CA,NJ
+Sandisk Technologies, Inc.	Milpitas	CA	2046	Electronics Engineers, Except Computer; Industrial Engineers; Software Quality Assurance Analysts and Testers	137200	CA,CO,WA
+Wipro Limited	East Brunswick	NJ	2002	Computer Programmers; Computer Systems Engineers/Architects; Information Technology Project Managers	98900	TX,CA,NJ
+Tesla, Inc.	Austin	TX	1927	Manufacturing Engineers; Software Developers; Industrial Engineers	150000	CA,TX,NV
+Amazon Data Services, Inc	Seattle	WA	1886	Software Developers; Industrial Engineers; Civil Engineers	148800	WA,VA,CA
+Western Digital Technologies, Inc.	San Jose	CA	1840	Electronics Engineers, Except Computer; Industrial Engineers; Software Developers	148300	CA,CO,MN
+JPMorgan Chase & Co.	Chicago	IL	1572	Software Developers; Financial and Investment Analysts; Data Scientists	162500	NY,TX,NJ
+Fidelity Technology Group, LLC d/b/a Fidelity Investments	Boston	MA	1567	Software Developers; Computer and Information Systems Managers; Data Scientists	129000	NC,TX,NH
+MediaTek USA Inc.	San Jose	CA	1551	Electronics Engineers, Except Computer; Software Developers; Electrical Engineers	159900	CA,TX,MA
+Snowflake Inc.	Menlo Park	CA	1526	Software Developers; Database Administrators; Sales Engineers	160000	CA,WA,TX
+Deloitte & Touche LLP	Philadelphia	PA	1431	Accountants and Auditors; Information Security Analysts; Management Analysts	102900	CA,TX,NY
+Compunnel Software Group, Inc	Princeton	NJ	1401	Software Developers; Computer Systems Analysts; Software Quality Assurance Analysts and Testers	110000	TX,NC,NJ
+Intuit Inc.	Mountain View	CA	1362	Software Developers; Data Scientists; Operations Research Analysts	186100	CA,NC,NY
+HCL America Inc	Santa Clara	CA	1241	Computer Systems Engineers/Architects; Information Technology Project Managers; Computer Programmers	116000	TX,CA,NC
+Accenture LLP	Chicago	IL	1216	Computer Systems Analysts; Information Technology Project Managers; Computer Programmers	144200	TX,CA,PA
+Capgemini America Inc	Chicago	IL	1192	Software Developers; Software Quality Assurance Analysts and Testers; Computer Programmers	130600	TX,IL,NJ
+Deloitte Tax LLP	Philadelphia	PA	1168	Accountants and Auditors; Software Developers; Operations Research Analysts	97400	CA,TX,NY
+ByteDance Inc.	San Jose	CA	1044	Software Developers; Data Scientists; Computer and Information Research Scientists	229900	CA,WA,NY
+Salesforce, Inc.	San Francisco	CA	1037	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	205200	CA,WA,TX
+Texas Instruments Incorporated	Dallas	TX	1018	Electrical Engineers; Software Developers; Electronics Engineers, Except Computer	124500	TX,CA,AZ
+Qualcomm Atheros, Inc.	San Diego	CA	1013	Software Developers; Electronics Engineers, Except Computer	152500	CA,NJ,TX
+TikTok Inc.	Culver City	CA	975	Software Developers; Data Scientists; Computer and Information Systems Managers	230200	CA,WA,NY
+Citibank, N.A.	New York	NY	952	Software Developers; Financial Quantitative Analysts; Business Intelligence Analysts	157000	TX,FL,NY
+LTIMindtree Limited	Edison	NJ	949	Software Developers; Computer Systems Engineers/Architects; Information Technology Project Managers	100800	TX,NJ,FL
+Goldman Sachs & Co. LLC	New York	NY	917	Financial Quantitative Analysts; Software Developers; Financial and Investment Analysts	140000	UT,NY,TX
+Intel Corporation	Santa Clara	CA	893	Electronics Engineers, Except Computer; Software Developers; Materials Engineers	143500	OR,CA,AZ
+Mirafra Inc	Houston	TX	880	Electrical Engineers; Software Quality Assurance Analysts and Testers	160000	CA,TX
+Bloomberg L.P.	New York	NY	867	Software Developers; Computer and Information Systems Managers; News Analysts, Reporters, and Journalists	160800	NY,NJ,CA
+ServiceNow, Inc.	Santa Clara	CA	860	Software Developers; Computer and Information Systems Managers; Operations Research Analysts	151200	CA,WA,FL
+Qualcomm Incorporated	San Diego	CA	812	Software Developers; Financial and Investment Analysts; Financial Managers	140800	CA,MO,NC
+Insight Global, LLC	Atlanta	GA	804	Registered Nurses; Software Developers; Data Scientists	113300	WA,TX,NC
+OpenAI OpCo, LLC	San Francisco	CA	792	Software Developers; Information Technology Project Managers; Data Scientists	255000	CA,WA,NY
+Mastech Digital Technologies, Inc.	Moon Township	PA	774	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	112900	TX,NC,NH
+IBM Corporation	Durham	NC	760	Software Developers; Computer Systems Analysts; Information Technology Project Managers	147600	TX,NY,CA
+Samsung Semiconductor, Inc.	San Jose	CA	735	Software Developers; Electronics Engineers, Except Computer; Software Quality Assurance Analysts and Testers	168800	CA,TX,MD
+Mphasis Corporation	New York	NY	696	Computer Programmers; Software Developers; Information Technology Project Managers	120000	TX,NJ,DE
+Uber Technologies, Inc.	San Francisco	CA	681	Software Developers; Data Scientists; Operations Research Analysts	191800	CA,NY,WA
+TT Commerce & Global Services LLC	Culver City	CA	669	Software Developers; Data Scientists; Market Research Analysts and Marketing Specialists	176000	CA,WA,NY
+Zoox Inc.	Foster City	CA	643	Software Developers; Industrial Engineers; Software Quality Assurance Analysts and Testers	184200	CA,WA,NJ
+Goldman Sachs Bank USA	New York	NY	629	Software Developers; Financial and Investment Analysts; Business Intelligence Analysts	146500	TX,NY,DE
+Qualcomm Innovation Center, Inc.	San Diego	CA	611	Software Developers	157600	CA,TX,CO
+Eli Lilly and Company	Indianapolis	IN	585	Statisticians; Chemists; Medical Scientists, Except Epidemiologists	136200	IN,MA,CA
+PricewaterhouseCoopers Advisory Services LLC	Tampa	FL	578	Operations Research Analysts; Computer and Information Systems Managers; Software Developers	180000	NY,TX,CA
+Randstad Digital, LLC	Woburn	MA	544	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	130000	TX,NC,NJ
+Capital One Services, LLC	Richmond	VA	543	Data Scientists; Software Developers; Computer and Information Research Scientists	143400	VA,IL,NY
+Robinhood Markets, Inc.	Menlo Park	CA	522	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	178100	CA,NY,WA
+Boston Consulting Group, Inc.	Boston	MA	518	Management Analysts; Data Scientists; Software Developers	190000	NY,TX,IL
+Tech Mahindra (americas), Inc	Bedminster	NJ	503	Software Developers; Computer Systems Analysts; Computer Programmers	109300	TX,CA,GA
+Cummins Inc.	Nashville	TN	496	Mechanical Engineers; Software Developers; Electrical Engineers	103200	IN,MN,NC
+Ford Motor Company	Dearborn	MI	488	Software Developers; Automotive Engineers; Mechanical Engineers	125400	MI,CA,TX
+Fujitsu North America, Inc.	Dallas	TX	462	Software Developers; Management Analysts; Database Administrators	118700	TX,NY,MA
+General Motors	Warren	MI	455	Software Developers; Mechanical Engineers; Electrical Engineers	145800	MI,CA,TX
+Morgan Stanley Services Group Inc.	New York	NY	452	Software Developers; Financial Quantitative Analysts; Financial Risk Specialists	164500	NY,GA,MD
+Lucid USA, Inc.	Newark	CA	448	Automotive Engineers; Mechanical Engineers; Software Developers	150700	CA,AZ,MI
+Micron Technology, Inc.	Boise	ID	434	Electrical Engineers; Electronics Engineers, Except Computer; Materials Engineers	131600	ID,TX,CA
+PayPal, Inc.	San Jose	CA	427	Software Developers; Data Scientists; Computer and Information Systems Managers	180000	CA,TX,IL
+Bain & Company, Inc.	Boston	MA	424	Management Analysts; Data Scientists; Web and Digital Interface Designers	192000	CA,IL,TX
+Federal Express Corporation	Memphis	TN	410	Software Developers; Information Technology Project Managers; Statisticians	116300	TN,TX,PA
+Arriver Software LLC	San Diego	CA	402	Software Developers; Electronics Engineers, Except Computer	121400	MI
+Capital One, National Association	Richmond	VA	400	Data Scientists; Project Management Specialists; Operations Research Analysts	115900	VA,NY,TX
+Bank Of America N.A.	Charlotte	NC	389	Software Developers; Financial Quantitative Analysts; Financial and Investment Analysts	153800	NC,NJ,TX
+CVS Shared Services Resources LLC	Woonsocket	RI	383	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	133000	TX,NY,CT
+Adobe Inc.	San Jose	CA	382	Software Developers; Data Scientists; Business Intelligence Analysts	200000	CA,WA,UT
+LinkedIn Corporation	Sunnyvale	CA	374	Software Developers; Data Scientists; Computer and Information Systems Managers	182500	CA,NY,WA
+KPMG LLP	Dallas	TX	371	Accountants and Auditors; Financial and Investment Analysts; Software Developers	146200	NY,CA,TX
+Hewlett Packard Enterprise Company	Spring	TX	369	Computer Systems Engineers/Architects; Software Developers; Information Technology Project Managers	147500	CA,TX,MA
+UST Global Inc	Aliso Viejo	CA	368	Software Developers; Computer Systems Analysts; Information Technology Project Managers	114600	WA,TX,VA
+Infinite Computer Solutions, Inc.	Rockville	MD	367	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	108700	TX,GA,MO
+American Express Travel Related Services Company, Inc.	New York	NY	363	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	151300	AZ,NY,FL
+Dana-Farber Cancer Institute	Boston	MA	358	Biological Technicians; Molecular and Cellular Biologists; Bioinformatics Scientists	75500	MA
+L&T Technology Services Limited	Edison	NJ	356	Mechanical Engineers; Software Developers; Software Quality Assurance Analysts and Testers	92800	IL,TX,OH
+Advanced Micro Devices, Inc.	Santa Clara	CA	354	Electronics Engineers, Except Computer; Software Developers; Computer and Information Systems Managers	150900	TX,CA,MA
+DoorDash, Inc.	San Francisco	CA	348	Software Developers; Data Scientists; Operations Research Analysts	171300	CA,NY,WA
+Applied Materials, Inc	Santa Clara	CA	346	Industrial Engineers; Materials Engineers; Mechanical Engineers	151100	CA,TX,AZ
+U.S. Bank National Association	Minneapolis	MN	345	Software Developers; Financial Quantitative Analysts; Data Scientists	127000	TX,MN,NC
+Barclays Services Corp.	New York	NY	339	Software Developers; Business Intelligence Analysts; Network and Computer Systems Administrators	150000	NJ,NY,DE
+Goldman Sachs Services LLC	New York	NY	338	Software Developers; Computer and Information Systems Managers; Information Security Analysts	153500	TX,NY,UT
+Rivian Automotive, LLC	Irvine	CA	335	Mechanical Engineers; Industrial Engineers; Software Developers	142400	CA,IL,MI
+City National Bank	Los Angeles	CA	327	Software Developers; Financial Quantitative Analysts; Software Quality Assurance Analysts and Testers	137700	CA,NY,NC
+Netflix, Inc.	Los Gatos	CA	327	Software Developers; Data Scientists; Computer and Information Research Scientists	226200	CA,WA,NY
+Virtusa Corporation	Southborough	MA	321	Computer Systems Analysts; Computer Systems Engineers/Architects; Software Quality Assurance Analysts and Testers	120100	TX,NJ,FL
+Cohesity, Inc.	Santa Clara	CA	312	Software Developers; Network and Computer Systems Administrators; Computer and Information Systems Managers	167400	CA,MN,TX
+Gp Technologies LLC	North Brunswick	NJ	306	Computer Programmers; Software Developers; Information Security Analysts	98500	TX,NJ,GA
+Synechron Inc.	New York	NY	304	Software Developers; Software Quality Assurance Analysts and Testers; Computer Programmers	114200	NC,TX,NJ
+X.ai LLC	Palo Alto	CA	294	Software Developers; Computer and Information Systems Managers; Sales Engineers	240000	CA,NY,NC
+Skilltune Technologies Inc	North Brunswick	NJ	293	Computer Programmers; Software Developers; Information Security Analysts	98400	NJ,TX,NC
+Optum Services, Inc.	Eden Prairie	MN	287	Software Developers; Data Scientists; Business Intelligence Analysts	126900	TX,MN,CA
+Comcast Cable Communications, LLC	Philadelphia	PA	286	Software Developers; Computer and Information Systems Managers; Software Quality Assurance Analysts and Testers	142200	PA,VA,NJ
+Anthropic, PBC	San Francisco	CA	284	Software Developers; Data Scientists; Financial and Investment Analysts	194800	CA,NY,WA
+Charles Schwab & Company, Inc.	Westlake	TX	284	Software Developers; Software Quality Assurance Analysts and Testers; Information Technology Project Managers	155700	TX,CO,IL
+BlackRock Financial Management, Inc.	Princeton	NJ	283	Software Developers; Financial and Investment Analysts; Financial Quantitative Analysts	145000	NY,GA,DE
+Government Employee Insurance Company (GEICO)	Bethesda	MD	280	Software Developers; Computer and Information Systems Managers; Data Scientists	174100	TX,MD,CA
+Hexaware Technologies, Inc.	Iselin	NJ	279	Computer Programmers; Software Developers; Information Technology Project Managers	105800	VA,TX,IL
+McKinsey & Company, Inc. United States	New York	NY	279	Management Analysts; Data Scientists; Software Developers	187700	GA,NY,MA
+American Airlines, Inc.	Fort Worth	TX	275	Software Developers; Operations Research Analysts; Financial and Investment Analysts	105100	TX,AZ,OK
+SAP America, Inc.	Newtown Square	PA	273	Computer Systems Analysts; Software Developers; Computer and Information Systems Managers	159400	PA,TX,CA
+TikTok U.S. Data Security Inc.	San Jose	CA	271	Software Developers; Data Scientists; Information Technology Project Managers	190400	CA,WA,NY
+eBay Inc.	San Jose	CA	266	Software Developers; Computer and Information Systems Managers; Data Scientists	193700	CA,TX,WA
+Cadence Design Systems, Inc.	San Jose	CA	262	Electronics Engineers, Except Computer; Software Developers; Sales Engineers	152200	CA,TX,MA
+CitiusTech Inc.	Princeton	NJ	261	Software Developers; Software Quality Assurance Analysts and Testers; Computer Programmers	108000	TN,PA,OR
+Asml Us, LP	Chandler	AZ	259	Mechanical Engineers; Industrial Engineers; Architectural and Engineering Managers	119700	CT,CA,OR
+Htc Global Services Inc.	Troy	MI	257	Computer Programmers; Software Developers; Computer Systems Analysts	100000	IL,MI,WI
+Expedia, Inc.	Seattle	WA	255	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	149200	WA,TX,IL
+Fiserv Solutions, LLC	Milwaukee	WI	255	Software Developers; Computer Systems Engineers/Architects; Software Quality Assurance Analysts and Testers	130700	NJ,GA,CA
+Persistent Systems Limited	Santa Clara	CA	255	Computer Programmers; Information Technology Project Managers; Software Developers	114800	CA,TX,NC
+Innova Solutions, Inc.	Atlanta	GA	252	Software Developers; Computer Systems Analysts; Software Quality Assurance Analysts and Testers	98900	TX,NC,NJ
+Washington University	St. Louis	MO	251	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; General Internal Medicine Physicians	70000	MO,NY,TX
+KLA Corporation	Milpitas	CA	250	Nanosystems Engineers; Computer Systems Engineers/Architects; Mechanical Engineers	151700	CA,MI,AZ
+RCM Technologies Inc.	New York	NY	248	Occupational Therapists; Physical Therapists; Speech-Language Pathologists		NY,CA
+Nokia of America Corporation	Murray Hill	NJ	247	Software Quality Assurance Analysts and Testers; Software Developers; Computer Network Architects	145200	TX,CA,NJ
+Amgen Inc.	Thousand Oaks	CA	246	Software Developers; Chemists; Operations Research Analysts	140200	CA,MA,FL
+The Leland Stanford, Jr University	Stanford	CA	244	Biochemists and Biophysicists; Molecular and Cellular Biologists; Medical Scientists, Except Epidemiologists	87300	CA,MA,GA
+Populus Group LLC	Troy	MI	243	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists		TX,MI,CA
+Wells Fargo Bank, N.A.	Phoenix	AZ	242	Software Developers; Financial Quantitative Analysts; Mathematicians	148400	NC,CA,NY
+Mastech Digital Resourcing, Inc.	Moon Township	PA	240	Software Developers; Software Quality Assurance Analysts and Testers; Database Architects	138300	TX,RI,NH
+People Center, Inc. d/b/a Rippling	San Francisco	CA	240	Software Developers; Computer and Information Systems Managers; Data Scientists	237500	CA,NY,WA
+T-Mobile USA, Inc.	Bellevue	WA	240	Software Developers; Computer Systems Engineers/Architects; Electrical Engineers	145000	WA,TX,KS
+State Street Bank and Trust Company	Boston	MA	238	Software Developers; Financial Quantitative Analysts; Information Technology Project Managers	133700	MA,NJ,TX
+Caterpillar Inc	Irving	TX	237	Software Developers; Mechanical Engineers; Electrical Engineers	113400	IL,TX,CA
+FIS Management Services, LLC	New York	NY	235	Software Developers; Software Quality Assurance Analysts and Testers; Information Technology Project Managers	135500	FL,GA,WI
+MH Sub I LLC	El Segundo	CA	235	Information Technology Project Managers; Web and Digital Interface Designers; Market Research Analysts and Marketing Specialists	95100	CA,NJ
+Bofa Securities, Inc.	Charlotte	NC	232	Financial and Investment Analysts; Financial Quantitative Analysts; Software Developers	175000	NY,CA,IL
+Mayo Clinic	Rochester	MN	230	Medical Scientists, Except Epidemiologists; Physicians, All Other; Medical and Clinical Laboratory Technologists	89900	MN,AZ,FL
+Marvell Semiconductor, Inc.	Santa Clara	CA	228	Electronics Engineers, Except Computer; Software Developers; Validation Engineers	156900	CA,MA,TX
+University of Michigan	Ann Arbor	MI	228	Medical Scientists, Except Epidemiologists; Molecular and Cellular Biologists; Engineering Teachers, Postsecondary	72300	MI,IL,MN
+GlobalLogic Inc.	Santa Clara	CA	225	Software Developers; Software Quality Assurance Analysts and Testers; Computer Programmers	112900	TX,CA,IL
+Intellectt, Inc.	Iselin	NJ	223	Mechanical Engineers; Validation Engineers; Industrial Engineers	149800	CA,MN,TX
+Caremark LLC	Woonsocket	RI	220	Software Developers; Data Scientists; Business Intelligence Analysts	145000	TX,IL,AZ
+Montefiore Medical Center	Bronx	NY	219	Physicians, All Other; Management Analysts; Medical and Clinical Laboratory Technologists	103000	NY,NJ
+MPG Operations LLC	New York	NY	218	Software Developers; Financial and Investment Analysts; Data Scientists	120300	NY,FL,CA
+Stripe, LLC	South San Francisco	CA	218	Software Developers; Information Technology Project Managers; Operations Research Analysts	159000	WA,CA,NY
+Zensar Technologies, Inc.	Chicago	IL	218	Computer Systems Analysts; Software Developers; Computer Programmers	115000	CA,NC,GA
+Louisiana Children's Medical Center	New Orleans	LA	215	Registered Nurses; Critical Care Nurses		LA
+Cleveland Clinic Foundation	Cleveland	OH	212	Physicians, All Other; Medical Scientists, Except Epidemiologists; Hospitalists	76900	OH,FL,WA
+Mastercard Technologies, LLC	O'Fallon	MO	210	Software Developers; Information Technology Project Managers; Database Administrators	138000	MO,NY,TX
+Quadrant Technologies LLC	Redmond	WA	210	Computer Systems Analysts; Software Developers; Database Administrators	111600	WA,TX,GA
+Waymo LLC	Mountain View	CA	210	Software Developers; Computer and Information Research Scientists; Data Scientists	205000	CA,NY,WA
+Broadcom Corporation	Palo Alto	CA	207	Electronics Engineers, Except Computer; Software Developers; Software Quality Assurance Analysts and Testers	173900	CA,MA,TX
+Medline Industries, LP.	Northfield	IL	207	Software Developers; Operations Research Analysts; Computer and Information Systems Managers	139000	IL,TX,NJ
+VMware LLC	Palo Alto	CA	207	Software Developers; Computer and Information Systems Managers; Computer Network Architects	187900	CA,TX,MA
+The Goodyear Tire & Rubber Company	Akron	OH	205	Software Developers; Mechanical Engineers; Electrical and Electronic Engineering Technologists and Technicians	92200	OH
+WSP USA Inc.	New York	NY	199	Civil Engineers; Electrical Engineers; Water/Wastewater Engineers	109900	TX,CA,FL
+ExlService.com, LLC	New York	NY	198	Data Scientists; Management Analysts; Software Developers	120000	NJ,NY,CT
+LTM Limited	Edison	NJ	198	Computer Systems Engineers/Architects; Software Developers; Software Quality Assurance Analysts and Testers	95400	TX,NJ,FL
+Annapurna Labs (U.S.) Inc.	Seattle	WA	197	Software Developers; Computer Hardware Engineers; Computer and Information Research Scientists	180600	CA,TX,WA
+Amazon Advertising LLC	Seattle	WA	195	Software Developers; Market Research Analysts and Marketing Specialists; Computer and Information Systems Managers	177000	NY,WA,VA
+Cigna-Evernorth Services Inc.	St. Louis	MO	195	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	152100	TX,NJ,CT
+Dallas Independent School District	Dallas	TX	195	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School	69500	TX
+Lam Research Corporation	Fremont	CA	193	Materials Engineers; Electronics Engineers, Except Computer; Software Developers	136400	CA,OR,AZ
+Coforge Limited	Princeton	NJ	192	Software Developers; Software Quality Assurance Analysts and Testers; Computer Systems Analysts	106000	TX,PA,GA
+Humana Inc.	Louisville	KY	190	Software Developers; Information Technology Project Managers; Computer Systems Engineers/Architects	132500	KY,TX,MA
+Johns Hopkins University	Baltimore	MD	190	Medical Scientists, Except Epidemiologists; Biochemists and Biophysicists; Molecular and Cellular Biologists	75000	MD,FL,DC
+Truist Bank	Charlotte	NC	189	Software Developers; Data Scientists; Financial Quantitative Analysts	132700	GA,NC,NY
+Charter Communications, Inc.	St. Louis	MO	187	Software Developers; Computer Network Architects; Software Quality Assurance Analysts and Testers	125700	CO,MO,NC
+Jacobs Engineering Group Inc.	Houston	TX	187	Civil Engineers; Construction Managers; Architects, Except Landscape and Naval	100000	TX,VA,WA
+RELX, Inc.	Alpharetta	GA	185	Software Developers; Data Scientists; Database Administrators	120000	NC,CA,TX
+University Of Florida	Gainesville	FL	182	Physicians, All Other; Health Specialties Teachers, Postsecondary; Medical Scientists, Except Epidemiologists	93400	FL,WA,AZ
+Management Health Systems, LLC	Sunrise	FL	181	Registered Nurses; Medical and Clinical Laboratory Technologists; Physical Therapists		TN,IL,MS
+Morgan Stanley & Co., LLC	New York	NY	180	Financial and Investment Analysts; Financial Quantitative Analysts; Statisticians	200000	NY,CA
+At&t Services, Inc.	Dallas	TX	178	Software Developers; Information Technology Project Managers; Business Intelligence Analysts	168700	TX,GA,WA
+CVS Pharmacy Inc.	Woonsocket	RI	178	Software Developers; Data Scientists; Statisticians	153500	TX,RI,GA
+Tata Elxsi Limited	Troy	MI	177	Software Quality Assurance Analysts and Testers; Computer Systems Engineers/Architects; Software Developers	92400	PA,CA,MN
+St. Jude Children's Research Hospital	Memphis	TN	176	Biochemists and Biophysicists; Bioinformatics Scientists; Biostatisticians	86300	TN,MO
+Msr Technology Group LLC	Wilmington	DE	175	Software Developers; Computer Programmers; Software Quality Assurance Analysts and Testers	104500	TX,MI,IL
+UBS Business Solutions US LLC	Nashville	TN	175	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	138500	NJ,NC,TN
+ZS Associates, Inc.	Evanston	IL	175	Information Technology Project Managers; Operations Research Analysts; Data Scientists	172400	NJ,CA,IL
+ADP Technology Services, Inc.	Roseland	NJ	174	Software Developers; Information Technology Project Managers; Data Scientists	132400	NJ,GA,NY
+Pyramid Consulting, Inc.	Alpharetta	GA	174	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	114200	TX,NC,GA
+Analog Devices, Inc.	Wilmington	MA	172	Electronics Engineers, Except Computer; Electrical Engineers; Software Developers	140400	MA,CA,NC
+Home Depot Management Company LLC	Atlanta	GA	171	Operations Research Analysts; Software Developers; Data Scientists	130000	GA,TX,VA
+Snap Inc.	Santa Monica	CA	171	Software Developers; Data Scientists; Special Effects Artists and Animators	180700	CA,WA,NY
+V-Soft Consulting Group, INC	Louisville	KY	171	Software Developers; Computer Programmers; Software Quality Assurance Analysts and Testers	102000	TX,PA,OH
+Satin Solutions LLC	North Brunswick	NJ	170	Computer Programmers; Software Developers; Software Quality Assurance Analysts and Testers	98500	TX,NJ,GA
+Trustees Of The University Of Pennsylvania	Philadelphia	PA	169	Medical Scientists, Except Epidemiologists; Biochemists and Biophysicists; Physicians, All Other	80000	PA,IL
+Visa Technology & Operations LLC	Foster City	CA	169	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	149200	TX,CA,CO
+UT Southwestern Medical Center	Dallas	TX	168	Medical Scientists, Except Epidemiologists; Molecular and Cellular Biologists; Radiologists	73400	TX
+Mongodb, Inc.	New York	NY	166	Software Developers; Market Research Analysts and Marketing Specialists; Data Scientists	162600	CA,NY,WA
+Icahn School of Medicine at Mount Sinai	New York	NY	163	Medical Scientists, Except Epidemiologists; Natural Sciences Managers; Physicians, All Other	94500	NY
+Medtronic, Inc.	Minneapolis	MN	163	Software Developers; Validation Engineers; Regulatory Affairs Specialists	118400	MN,CA,MA
+The MathWorks, Inc.	Natick	MA	163	Software Developers; Software Quality Assurance Analysts and Testers; Sales Engineers	131100	MA,CA,MI
+Aetna Resources LLC	Woonsocket	RI	161	Software Developers; Data Scientists; Statisticians	142800	CT,TX,NY
+Lifeline Nursing Solutions, LLC	Cumming	GA	160	Critical Care Nurses	84500	GA,KS
+Docusign Inc.	San Francisco	CA	159	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	187600	CA,WA,IL
+AECOM Technical Services, Inc.	Dallas	TX	154	Civil Engineers; Construction Managers; Transportation Planners	98000	NY,CA,TX
+Dell Products L.P.	Round Rock	TX	154	Software Developers; Software Quality Assurance Analysts and Testers; Market Research Analysts and Marketing Specialists	170000	TX,MA,CA
+Oracle Financial Services Software, Inc.	Bridgewater	NJ	153	Software Developers; Computer Systems Analysts; Computer and Information Systems Managers	150400	VA,NJ,FL
+University of California, San Francisco	San Francisco	CA	153	Biochemists and Biophysicists; Health Specialties Teachers, Postsecondary; Medical Scientists, Except Epidemiologists	92700	CA
+Intuitive Surgical Operations, Inc.	Sunnyvale	CA	151	Software Developers; Industrial Engineers; Mechanical Engineers	164000	CA,GA,TX
+Roblox Corporation	San Mateo	CA	151	Software Developers; Data Scientists; Computer and Information Systems Managers	255200	CA
+Kaseya US LLC	Miami	FL	150	Software Developers; Information Security Analysts; Computer Systems Analysts	103600	FL,SC,NY
+Dish Wireless LLC	Englewood	CO	149	Software Developers; Computer Network Architects; Data Scientists	115400	CO,TX,WY
+Airbnb, Inc.	San Francisco	CA	148	Software Developers; Data Scientists; Architectural and Engineering Managers	194500	CA,WA,NY
+Nutanix, Inc.	San Jose	CA	148	Software Developers; Software Quality Assurance Analysts and Testers; Architectural and Engineering Managers	186100	CA,NC,WA
+Thermo Fisher Scientific, Inc.	Waltham	MA	148	Software Developers; Chemists; Data Scientists	117500	CA,PA,MA
+Bristol-Myers Squibb Company	Lawrenceville	NJ	147	Medical Scientists, Except Epidemiologists; Data Scientists; Bioinformatics Scientists	154700	NJ,MA,WA
+Yale University	New Haven	CT	147	Medical Scientists, Except Epidemiologists; Molecular and Cellular Biologists; Health Specialties Teachers, Postsecondary	88000	CT
+Social Finance, LLC	San Francisco	CA	146	Software Developers; Data Scientists; Computer and Information Systems Managers	210000	WA,CA,NY
+The University of Iowa	Iowa City	IA	146	Anesthesiologists; Medical Scientists, Except Epidemiologists; Healthcare Practitioners and Technical Workers, All Other	110300	IA,CA,NC
+The Vanguard Group, Inc.	Malvern	PA	146	Software Developers; Data Scientists; Database Administrators	156700	PA,TX,NC
+Bilinguals Inc.	Forest Hills	NY	145	Speech-Language Pathologists; Special Education Teachers, Preschool; Healthcare Social Workers	66700	NY
+Coupang Global LLC	Mountain View	CA	145	Software Developers; Data Scientists; Information Technology Project Managers	212200	WA,CA
+HCL Global Systems Inc	Farmington Hills	MI	145	Software Developers; Computer Systems Engineers/Architects; Computer Systems Analysts		TX,GA,MI
+Siemens Industry Software Inc.	Plano	TX	143	Software Developers; Sales Engineers; Mechanical Engineers	146100	CA,MI,OR
+Tavaro	Fort Pierce	FL	143	Office Clerks, General		FL
+Columbia University	New York	NY	142	Medical Scientists, Except Epidemiologists; Molecular and Cellular Biologists; Physicists	81700	NY
+Fca US LLC	Auburn Hills	MI	142	Mechanical Engineers; Architectural and Engineering Managers; Electrical Engineers	135000	MI,NY,OH
+Photon Infotech, Inc.	Dallas	TX	141	Software Developers; Computer Programmers; Data Scientists	112200	TX,NJ,IL
+TikTok USDS Joint Venture LLC	Culver City	CA	141	Software Developers; Data Scientists; Information Security Engineers	187700	CA,WA,NY
+NTT DATA Americas, Inc.	Plano	TX	138	Software Quality Assurance Analysts and Testers; Database Administrators; Business Intelligence Analysts	121800	TX,NC,CA
+University of Minnesota	Minneapolis	MN	138	Health Specialties Teachers, Postsecondary; Molecular and Cellular Biologists; Engineering Teachers, Postsecondary	80600	MN
+Health Care Service Corporation	Chicago	IL	137	Software Developers; Operations Research Analysts; Software Quality Assurance Analysts and Testers	122100	TX,TN,IL
+Yahoo Holdings Inc.	New York	NY	137	Software Developers; Data Scientists; Computer and Information Systems Managers	154000	CA,TX,WA
+AbbVie Inc.	North Chicago	IL	136	Medical Scientists, Except Epidemiologists; Statisticians; Chemists	145600	IL,CA,WI
+General Hospital Corporation	Somerville	MA	136	Medical Scientists, Except Epidemiologists; Data Scientists; Biochemists and Biophysicists	75500	MA
+Workday, Inc.	Pleasanton	CA	136	Software Developers; Computer and Information Systems Managers; Information Security Analysts	162800	CA,GA,CO
+Citigroup Global Markets Inc.	New York	NY	133	Financial and Investment Analysts; Financial Quantitative Analysts; Securities, Commodities, and Financial Services Sales Agents	175000	NY,CA,TX
+Emory University	Atlanta	GA	133	Medical Scientists, Except Epidemiologists; Physicians, All Other; Radiologists	79500	GA,VA,CA
+Visa U.S.A. Inc.	Foster City	CA	132	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	149200	CA,TX,CO
+Lowe's Companies, Inc.	Mooresville	NC	131	Software Developers; Data Scientists; Information Technology Project Managers	133500	NC,WA
+Tiger Analytics, Inc.	Santa Clara	CA	131	Operations Research Analysts; Computer Systems Engineers/Architects; Data Scientists	155500	TX,IL,NJ
+Board of Regents of the University of Nebraska	Lincoln	NE	130	Health Specialties Teachers, Postsecondary; Physicians, All Other; Medical Scientists, Except Epidemiologists	72800	NE,MD,MI
+Citadel Americas Services LLC	Miami	FL	130	Operations Research Analysts; Financial and Investment Analysts; Software Developers	125000	NY,CT,FL
+Tcw LLC	Los Angeles	CA	130	Financial and Investment Analysts; Information Technology Project Managers; Software Developers	118600	CA,NY,PA
+Autodesk, Inc.	San Francisco	CA	129	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	150400	CA,MI,WA
+TSMC Arizona Corporation	Phoenix	AZ	128	Materials Engineers; Mechanical Engineers; Manufacturing Engineers	105800	AZ
+University of Pittsburgh	Pittsburgh	PA	128	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Bioinformatics Scientists	70000	PA,KS
+Akamai Technologies, Inc.	Cambridge	MA	127	Software Developers; Computer Network Architects; Software Quality Assurance Analysts and Testers	153700	MA,CA,TX
+Dell USA L.P.	Round Rock	TX	127	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	166000	TX,CA,MA
+Navy Federal Credit Union	Vienna	VA	126	Software Developers; Database Architects; Data Scientists	155500	VA,CA,TX
+Pinterest, Inc.	San Francisco	CA	126	Software Developers; Data Scientists; Computer and Information Systems Managers	180700	CA,WA,NY
+Avant Healthcare Professionals, LLC.	Maitland	FL	124	Registered Nurses		MT,TN,VA
+The University of Southern California	Los Angeles	CA	124	Health Specialties Teachers, Postsecondary; Biochemists and Biophysicists; Molecular and Cellular Biologists	75700	CA
+Beaconfire Staffing Solutions Inc.	East Windsor	NJ	123	Computer Programmers; Software Developers; Database Administrators	130600	NJ,CA,TX
+Emc Corporation	Round Rock	TX	123	Software Developers; Software Quality Assurance Analysts and Testers; Sales Engineers	165900	MA,TX,CA
+Indiana University Health, Inc.	Indianapolis	IN	123	Registered Nurses; Medical and Clinical Laboratory Technologists; Physical Therapists	92000	IN
+University of California, Los Angeles	Los Angeles	CA	123	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Software Developers, Non R&D	102200	CA,MD
+Gilead Sciences, Inc.	Foster City	CA	122	Computer and Information Systems Managers; Medical Scientists, Except Epidemiologists; Information Technology Project Managers	159200	CA,NC,NJ
+NIKE, Inc.	Beaverton	OR	122	Software Developers; Commercial and Industrial Designers; Computer and Information Systems Managers	165600	OR,TX,IL
+Rutgers, The State University of New Jersey	Newark	NJ	121	Medical Scientists, Except Epidemiologists; Molecular and Cellular Biologists; Physicians, All Other	89300	NJ
+University of Rochester	Rochester	NY	121	Registered Nurses; Medical Scientists, Except Epidemiologists; Surgeons, All Other	70000	NY
+Asm America Inc.	Phoenix	AZ	120	Mechanical Engineers; Materials Engineers; Software Developers	117800	AZ,OR,NJ
+Atlassian US, Inc.	San Francisco	CA	120	Software Developers; Data Scientists; Information Technology Project Managers	200000	CA,WA,TX
+Brillio, LLC	New York	NY	120	Software Developers; Information Technology Project Managers; Business Intelligence Analysts	125200	CA,TX,FL
+Cotiviti, Inc.	South Jordan	UT	120	Software Developers; Computer Systems Analysts; Data Scientists	125800	GA,WA,TX
+The University of Alabama at Birmingham	Birmingham	AL	120	Health Specialties Teachers, Postsecondary; Medical Scientists, Except Epidemiologists; Physicians, All Other	72000	AL,TX
+Audible, Inc.	Newark	NJ	119	Software Developers; Computer and Information Systems Managers; Software Quality Assurance Analysts and Testers	158100	NJ,CA,MA
+Infineon Technologies Americas Corp.	El Segundo	CA	119	Electronics Engineers, Except Computer; Electrical Engineers; Validation Engineers	155900	CA,TX,MI
+University Of Miami	Miami	FL	119	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Physicians, All Other	90000	FL,NJ
+Beacon Hill Solutions Group LLC	Boston	MA	118	Software Developers; Information Technology Project Managers; Data Scientists		TX,MA,CA
+Northwestern University	Evanston	IL	118	Medical Scientists, Except Epidemiologists; Biochemists and Biophysicists; Materials Scientists	72100	IL,GA
+Texas A&M University	College Station	TX	118	Engineering Teachers, Postsecondary; Architecture Teachers, Postsecondary; Medical Scientists, Except Epidemiologists	87200	TX
+Artech, LLC	Morristown	NJ	117	Software Developers; Software Quality Assurance Analysts and Testers; Business Intelligence Analysts		TX,NC,NJ
+Samsung Austin Semiconductor, LLC	Austin	TX	117	Electronics Engineers, Except Computer; Industrial Engineers; Software Developers	115000	TX,CA
+The Bank of New York Mellon	Pittsburgh	PA	117	Data Scientists; Software Developers; Information Technology Project Managers	145000	PA,NY,FL
+Barclays Capital Inc.	New York	NY	116	Financial and Investment Analysts; Financial Quantitative Analysts; Business Intelligence Analysts	175000	NY,NJ,CA
+The Ohio State University	Columbus	OH	116	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Molecular and Cellular Biologists	81200	OH,MA
+Citadel Securities Americas Services LLC	Miami	FL	115	Operations Research Analysts; Software Developers; Financial Quantitative Analysts	150000	NY,FL,IL
+Cosmic Healthcare, LLC	Aldie	VA	115	Medical and Clinical Laboratory Technologists		NY,IN,IL
+Elevance Health, Inc.	Indianapolis	IN	115	Software Developers; Information Technology Project Managers; Business Intelligence Analysts	141200	GA,VA,TX
+Genentech, Inc.	South San Francisco	CA	115	Biochemists and Biophysicists; Medical Scientists, Except Epidemiologists; Molecular and Cellular Biologists	141500	CA,OR,NY
+Jane Street Group, LLC	New York	NY	115	Software Developers; Financial Quantitative Analysts; Operations Research Analysts	300000	NY
+The Elevance Health Companies, Inc.	Indianapolis	IN	115	Software Developers; Information Technology Project Managers; Data Scientists	143000	VA,GA,TX
+The University of Chicago	Chicago	IL	115	Medical Scientists, Except Epidemiologists; Biochemists and Biophysicists; Health Specialties Teachers, Postsecondary	84600	IL,CA,TX
+Purdue University	West Lafayette	IN	114	Engineering Teachers, Postsecondary; Business Teachers, Postsecondary; Data Scientists	91400	IN
+Stantec Consulting Services Inc.	Denver	CO	114	Civil Engineers; Electrical Engineers; Water/Wastewater Engineers	96000	CA,TX,IL
+University of California, Berkeley	Berkeley	CA	114	Molecular and Cellular Biologists; Chemists; Physicists	93300	CA
+Deere & Company	Moline	IL	112	Software Developers; Electrical Engineers; Mechanical Engineers	131400	IL,IA,NC
+Eaton Corporation	Cleveland	OH	110	Electrical Engineers; Software Developers; Industrial Engineers	121400	NC,SC,PA
+Mayer Brown LLP	Washington	DC	110	Lawyers; Paralegals and Legal Assistants; Software Developers	179400	NY,IL,CA
+New York City Department of Education	Brooklyn	NY	110	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	66700	NY
+The University of Virginia	Charlottesville	VA	110	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Chemists	79900	VA,TX,NJ
+Red Hat, LLC	Raleigh	NC	109	Software Developers; Data Scientists; Computer Systems Analysts	153000	MA,NC,TX
+Squad Software, Inc.	Dallas	TX	109	Software Developers; Computer Programmers; Information Technology Project Managers	103300	TX,NJ,GA
+Cloudflare, Inc.	San Francisco	CA	108	Software Developers; Information Security Analysts; Computer and Information Systems Managers	164800	TX,CA,NY
+Paycom Payroll, LLC	Oklahoma City	OK	108	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	139800	TX,OK
+The University of Texas M.D. Anderson Cancer Center	Houston	TX	108	Medical Scientists, Except Epidemiologists; Biochemists and Biophysicists; Biological Scientists, All Other	79200	TX
+Axon Enterprise, Inc.	Scottsdale	AZ	107	Software Developers; Industrial Engineers; Software Quality Assurance Analysts and Testers	140000	WA,AZ,MA

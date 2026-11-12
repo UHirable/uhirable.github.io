@@ -30,6 +30,7 @@
 4 Roads Ltd	Kenilworth	A	0
 4 Sisters (Midlands) Ltd,TA Saffron Wala Bar & Restaurant	Birmingham	A	0
 444 Rentals Ltd	Manor Park	A	0
+4C Research Group Limited	Bloxham, Banbury	A	0
 4FEET RETAIL LTD	London	A	0
 4Site Recruitment limited	London	A	0
 4You Hospitality Services Limited (Trading as Ravens Ait)	Surbiton	A	0
@@ -1866,7 +1867,6 @@ Edenbridge Accident Repair Centre Limited	Edenbridge	A	0
 Edenhurst Rest Home	Nottingham	A	0
 edg restore ltd	Glasgow	A	0
 Edgware Road Supermarket Limited t/a Edgware Road Supermarket and Off Licence	London	A	0
-EDINBURGH MEDICAL RESOURCES UK LTD T/A POLWARTH PHARMACY	Edinburgh	A	0
 Edinburgh Remakery	Edinburgh	A	0
 EDINBURGH RESTAURANT (EDINBURGH) LTD Trading as Timberyard	Edinburgh	A	0
 Edith Healthcare Limited T/A Edith Healthcare Ringwood	Poole	A	0
@@ -5447,6 +5447,7 @@ RADIANCE STAR LTD	London	A	0
 Radiant & Charm Limited	Manchester	A	0
 Radiant Care Limited T/A Harmony House Nursing Home	Brighton	A	0
 RADIANT CARE SERVICES LTD	Redhill	A	0
+Radiant Infrastructure 1 Ltd	London	A	0
 Radiant Media Limited	London	A	0
 Radiant Medicare Limited T/A Rj's Pharmacy	Middlesex,	A	0
 RADIANT WORLD CORPORATION (UK) LIMITED	London	A	0
@@ -5709,7 +5710,6 @@ RAJ NEWS & OFF LICENSES	Chesterfield, Derbyshire	A	0
 RAJ PANJAB RECORDS LTD	Hayes, London	A	0
 RAJ PAVILION CATERING LIMITED T/A RAJ PAVILION	Kent	A	0
 RAJ PAVILLIONS (BRISTOL) LIMITED	Bristol	A	0
-Raj Pragash Sebamalai Sosai T/A Wayfield Local	Chatham	A	0
 RAJ RESTAURANT (KENT) LTD	Sevenoaks	A	0
 RAJ RESTAURANT SHREWSBURY LIMITED TA The Masala	Shrewsbury	A	0
 RAJ SRI LIMITED	Edinburgh	A	0
@@ -6011,7 +6011,7 @@ Ranjana Limited t/a Royal Gurkha Nepalese & Indian Restaurant	Edinburgh	A	0
 Ranjanie Convenience Store	Bristol	A	0
 Ranjha care limited	Skegness	A	0
 Ranjha Transport Ltd	Manchester	A	0
-RANJHCO MANAGEMENT CONSULTANCY LTD	Rochdale	A	0
+RANJHCO MANAGEMENT CONSULTANCY LTD	Warrington	A	0
 RANJIT ROOFING COMPANY LIMITED	Hounslow	A	0
 Ranjodh Scaffolding Limited	Hayes	A	0
 Rank Leisure Holdings Ltd	Maidenhead	A	0
@@ -6634,6 +6634,7 @@ Reality Church London	London	A	1,9
 Reality Holdings Ltd	London	A	0
 RealityMine Limited	Manchester	A	0
 Reall Limited	Coventry	A	0
+Really Bright Media	London	A	0
 Really Flexible Care Ltd	Leicester	A	0
 Really Happening Ltd	East Dulwich	A	3
 Really Secure Company Limited	Redditch	A	0
@@ -11215,7 +11216,6 @@ Summerley Recruitment LTD	Bognor Regis	A	0
 SUN HILL RACING LTD	Leyburn	A	0
 SUN N AQUA LTD T/A SAFAR RESTAURANT	Axminster	A	0
 Sun Radio Solutions Limited	Newbury	A	0
-Sun Recycling Ltd	Corby	A	0
 Suna Restaurant Ltd	Folkestone	A	0
 Sunday Riley Modern Skincare	London	A	0
 Sundial Cottage Rest Home Ltd	Fawley	A	0
@@ -11907,6 +11907,7 @@ Thunder Rugby Ltd	Newcastle Upon Tyne	A	11
 Thush Retail limited	Dunstable	A	0
 THUSYANTHAN RAJARETNAM T/A JG STORE - GO LOCAL	Cheshire	A	0
 TIANA RETAIL LIMITED	Warwickshire	A	0
+Tickhill Restaurant Limited	Doncaster	A	0
 Tiger Recruitment Ltd	London	A	0
 TIGER ROCK CITY	Liverpool	A	0
 TIGER ROCK RENSHAW LTD	Liverpool	A	0

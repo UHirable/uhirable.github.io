@@ -580,6 +580,7 @@ AMS No Dig Limited	Scunthorpe	A	4
 Amtal Limited	Slough	A	0
 AMUST4MUSIC Ltd	Spondon	A	3
 AMZ Care Ltd	Slough	A	0
+Anaconda Services (UK) Limited	Staines-Upon-Thames	A	0,4
 Anand Sweets Ltd	Swindon	A	0
 ANANTA AYURVEDA LTD	Slough	A	0
 Anantharajah Nirosan T/A NIRO EXPRESS	Sidcup	A	0
@@ -1335,7 +1336,6 @@ Bramhall Gourmet Ltd T/A Turquoise Cafe Patisserie	Stockport	A	0
 Bramley Home Care Limited	Shaftesbury	A	0
 BRANCO FLEX LIMITED	Salford	A	0
 Brands Konnect Limited	Southgate, London, England	A	0
-BRARUS LIMITED	Staffordshire	A	0
 BRC & SONS LIMITED	Southall	A	0
 BRC Promotions Ltd	Stockport	A	0
 BREAD SPREAD LIMITED	Southall	A	0
@@ -1421,7 +1421,6 @@ Broughton House - Veteran Care Village	Salford	A	0
 BROW BUZZ LTD T/A Brow Buzz Beauty	Sevenoaks	A	0
 Brown Earth Technologies UK Limited	Sutton	A	0
 Brown&co The Brand Collective Ltd	Swaffham	A	0
-Browns Leisure Limited	South Shields	A	0
 Browns Short Break Respite Ltd	St Helens	A	0
 BROWS REDEFINED LIMITED	Scotland	A	0
 Bruce Coaches Scotland Ltd	Salsburgh	A	0
@@ -3107,7 +3106,7 @@ Forsyth of Denny	Stirling	A	0
 Fortem Capital Limited	Stanmore	A	0
 FORTIS CARE LIMITED	Stevenage	A	0
 Forwessun International Limited	Speke	A	0,4
-Foundation of Lady Katherine Leveson	Solihull	A	0
+Foundation of Lady Katherine Leveson	Solihull	B	0
 Foundrax Engineering Products Limited	Somerton	A	0
 Four Aces Trading Limited	Southall	A	0
 Four Acre Health Centre	St Helens	A	0
@@ -3794,7 +3793,6 @@ Hill Aerospace Limited	Stafford	A	0
 Hill Farm Leisure Limited	Stratford Upon Avon	A	0
 Hill Top Engineering and Fabrication ltd	Selby	A	0
 Hillcrest Manor Limited	Shrewsbury	A	0
-Hillfoot Steel Ltd	Sheffield	A	0
 Hillside (Media Services) Limited	Stoke-On-Trent	A	0
 Hillside (Shared Services 2018) Limited	Stoke on Trent	A	0
 Hillside (Technology) Limited	Stoke-On-Trent	A	0
@@ -3866,6 +3864,7 @@ Home Hospitality Ltd	Stourport- on- Severn	A	0
 Home Improvements and Construction Ltd	Surbiton	A	0
 HOME REPUBLIC LIMITED	Sutton	A	0
 Homebazaaruk LTD	Saliksbury	A	0
+Homebridge Care Group Ltd	Southend-on-sea	B	0
 HOMECROFT RESIDENTIAL HOME	Sutton Coldfield	A	0
 Homecroft(Wyndley grange)Limited	Sutton Coldfield	A	0
 Homefield Preparatory School Trust Limited	Sutton	A	0
@@ -4618,7 +4617,6 @@ Knauf (UK) GmbH	Sittingbourne	A	0,4,7
 KNAUF INSULATION LIMITED	St Helens	A	0,4,7
 KNDS DEFENCE UK LIMITED	Stockport	A	0,4
 KNIGHT RIDERS SECURE LIMITED	Slough	A	0
-Knowle & Dorridge Cricket Club	Solihull	A	11
 Knowledge Integration Ltd	Sheffield	A	0
 KNSI Aviation Engineering Ltd	Stansted	A	0
 Knypersley Cricket Club	Stoke-on-Trent	A	11
@@ -4670,7 +4668,6 @@ KST Monkmoor Convenience Store	Shrewsbury	A	0
 KT TRADING PRIVATE LTD	South Yorkshire	A	0
 KTF Home Improvements Ltd	Stoke on Trent	A	0
 Kthai St. Andrews Ltd., T/A Tanon Thai Street Food	St.Andrews	A	0
-KTOWNNEWMALDEN LIMITED	Surrey	A	0
 Kube Medical Limited	Swindon	A	0
 Kuijpers Balfour Ltd	Sidcup	A	0
 Kukavannan Kanagarasa T/A Jaks Store	Swansea	A	0
@@ -5579,7 +5576,7 @@ MTI Contractor Limited	Slough	A	0
 MTorres UK Limited	Saltney	A	0,4
 MTP COOLING LTD	Slough	A	0
 Mu Education & Career Limited	Silchester	A	0
-Mueller International Holdings Limited	Southampton	A	0,4
+Mueller International Holdings Limited	Southampton	A	4
 MUHAFAH AVIATION SERVICES (UK) LTD	Slough, Berkshire	A	0
 Muhammad Ayub Ltd	Southall	A	0
 Muhammad Husham Saleem T/a Caprinos Pizza	Stoke on Trent	A	0
@@ -6314,7 +6311,6 @@ People Support Ltd	Swansea	A	0
 People's Mission	South Shields	A	1
 PEOPLE, SYSTEMS AND PROCESS (PSP) LTD	Spalding	A	0
 Pepe's Piri Piri	St Helens	A	0
-PEPPER ENTERPRISES LTD T/A MERINGTON STORE	Southampton	A	0
 Per Tutti Limited	St Albans	A	0
 Perera & Sons Ltd	Southampton	A	0
 Perfect Contractors Limited	Staines-Upon-Thames	A	0
@@ -6473,6 +6469,7 @@ Portswood Mini Mart Limited	Southampton	A	0
 Positive East	Stepney	A	0
 Positive Paths Healthcare	Shifnal	A	0
 Poste Hotels Ltd	Stamford	A	0
+POWAKADDY INTERNATIONAL LTD	Sittingbourne	A	0
 POWELL SYSTEM ENGINEERING LIMITED	Sidcup,	A	0
 Power & Water	Swansea	A	0
 Power Control and Automation Solutions Limited	Sheffield	A	0
@@ -6692,7 +6689,6 @@ Qualitaste Limited	St. Albans	A	0
 QUALITY ASSURED CARE SERVICES LTD	Studley	A	0
 Quality by Randomization Limited	Salford	A	0
 Quality care selby ltd	Selby	A	0
-Quality care time ltd	Southgate	A	0
 Quality Dental : Shoreham-by-Sea ( Shoreham Oral Care Ltd )	Shoreham-by-Sea	A	0
 Quality dry cleaners	Surrey	A	0
 QUALITY INDIAN FOODS LTD T/A KOH-I-NOOR	Sheerness	A	0
@@ -8565,7 +8561,6 @@ T Motor Limited	Shefford	A	0
 T R Smith & Sons Builders Ltd	Sutton in Ashfield	A	0
 T T TRANSPORT PVT LTD	Southall	A	0
 T&D Media Group Ltd	Surrey	A	0
-T&G CONSULTANT LTD	Swindon	A	0
 T&J Legacy Group Limited	Seaford	A	0
 T&T PRIVATE HIRE LTD	St. Ives	A	0
 T&T Retailers Ltd T/A Roberts Convenience Store	Sidcup	A	0

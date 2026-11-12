@@ -1661,7 +1661,6 @@ DK and Company Services Ltd	Wellingborough	A	0
 DK Practice & Lab Limited	Weymouth	A	0
 DKR MANAGEMENT SERVICES LIMITED	Walsall	A	0
 Dlala Studios	Witham	A	0
-DLS Social & Healthcare Ltd	Wellington	A	0
 DM ALL MOBILE ACCESSORIES LIMITED T/A Phone Kit	Wembley	A	0
 DM Equine and Accountancy Ltd	Wantage	A	11
 DMD Dental Ltd t/a Lab94	Wrexham	A	0
@@ -2261,6 +2260,7 @@ Genesis Cancer Care UK Ltd	Waterlooville	A	0,4
 Genesis Media Limited	West Bromwich	A	0,3
 Genga & Co Solicitors Ltd	Wembley	A	0
 Gensafe Limited	Wilmslow	A	0
+Geobear Ltd	Wolverhampton	A	0
 Georges Plaice	Wrexham	A	0
 Geoscape Limited	Watford	A	0
 Geotechnical Observations Limited	Weybridge	A	0
@@ -4833,6 +4833,7 @@ RAMSY BARBER'S CLUB LTD	Wales	A	0
 Rance Healthcare Services Ltd	Wolverhampton	A	0
 Rangdonu Spice Ltd T/A The Original CurryLand	Worthing	A	0
 RANGE DESSERTS LTD	Wythenshawe	A	0
+RANJHCO MANAGEMENT CONSULTANCY LTD	Warrington	A	0
 Ranmore Fund Management Limited	Woking	A	0
 RAPHA CATERING HARBURY LTD T/A HARBURY CATCH	Warwick	A	0
 Rapid Pharma Ltd	Watford	A	0
@@ -5654,7 +5655,6 @@ Stafford Lifestyle Express Limited	Walsall	A	0
 STALLIONS SOLUTIONS LTD	Walsall	A	0
 Stallions Technologies Ltd	Wolverhampton	A	0
 Stalwart Odrit Achievers Ltd	Wolverhampton	A	0
-Stanborough School	Welwyn Garden City	A	0
 STANBRIDGE HOUSE	West Sussex	A	0
 Standish Medical Practice	Wigan	A	0
 Standley Design and Build Ltd	Wimbledon	B	0
@@ -6612,6 +6612,7 @@ Webexpenses	Witney	A	0
 WEDNESBURY FOOD BAZAR LTD	Wednesbury	A	0
 Wednesbury Service Station (Gajjar) Limited	Wednesbury	A	0
 Weeley Veterinary Centre	Weeley	A	0
+WEG Limited t/a West End Garage	Woking	A	0
 WEINBRINER LTD	West Drayton	A	0
 WELBOURN R&P EXPRESS LTD	Welbourn	A	0
 Welcome Church	Woking	A	1

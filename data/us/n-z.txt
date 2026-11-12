@@ -1,0 +1,440 @@
+A & Z Pharmaceutical, Inc.	Hauppauge	NY	2	Microbiologists; Chemists		NY
+A To Z Wholesale LLC	Branson	MO	1	Management Analysts		MO
+A. Zahner Company	Kansas City	MO	1	Architects, Except Landscape and Naval		MO
+Alexander Zhong Law Firm, LLC	Rockville	MD	1	Judicial Law Clerks		MD
+Australia And New Zealand Banking Group Limited	New York	NY	1	Accountants and Auditors		NY
+Carl Zeiss Industrial Metrology, LLC	White Plains	NY	1	Software Developers		OR
+Carl Zeiss Industrial Quality Solutions, LLC	White Plains	NY	1	Mechanical Engineers		MI
+Carl Zeiss Meditec, Inc.	Dublin	CA	10	Software Developers; Mechanical Engineers; Photonics Engineers	154400	CA,MO,TX
+Carl Zeiss Microscopy, LLC	White Plains	NY	2	Electronics Engineers, Except Computer; Electrical Engineers		CA
+Carl Zeiss SBE, LLC	White Plains	NY	2	Industrial Engineers		AZ,CA
+Carl Zeiss Vision Inc.	Hebron	KY	1	Health and Safety Engineers, Except Mining Safety Engineers and Inspectors		KY
+Carl Zeiss X-ray Microscopy, Inc	White Plains	NY	2	Computer Systems Analysts; Materials Scientists		CA
+Carl Zeiss, Inc.	White Plains	NY	1	Business Intelligence Analysts		NY
+Chan Zuckerberg Biohub, Inc	San Francisco	CA	1	Bioinformatics Scientists		CA
+Chan Zuckerberg Initiative, LLC	Redwood City	CA	3	Project Management Specialists; Purchasing Agents, Except Wholesale, Retail, and Farm Products; Database Administrators	132000	CA
+Chan Zuckerberg Institute for Advanced Biological Imaging, LLC	Redwood City	CA	1	Photonics Engineers		CA
+Day & Zimmermann, Inc.	Philadelphia	PA	3	Software Developers; Computer Systems Analysts	142300	PA
+Dean Stephen Zaneteas PT PLLC	Brooklyn	NY	1	Physical Therapists		NY
+Dee Zee, Inc.	Des Moines	IA	1	Software Developers		IA
+Dough Zone USA Inc.	Bellevue	WA	1	Market Research Analysts and Marketing Specialists		WA
+DSP Zusters LLC	Aubrey	TX	2	Software Quality Assurance Analysts and Testers; Software Developers		GA,FL
+DxForge Inc., a subsidiary of Zyxware Technologies Private Limited	Round Rock	TX	1	Human Resources Managers		TX
+Enza Zaden Research USA, Inc.	Salinas	CA	1	Soil and Plant Scientists		CA
+Eric Zhang & Associates, LLP	Irvine	CA	4	Accountants and Auditors		CA,WA
+Ermenegildo Zegna Corporation	New York	NY	1	Wholesale and Retail Buyers, Except Farm Products		NY
+F & Z Diamonds LLC	Atlanta	GA	1	Operations Research Analysts		GA
+Florida Hospital Zephyrhills, Inc.	Zephyrhills	FL	4	Dietitians and Nutritionists; Medical and Clinical Laboratory Technologists	69100	FL
+Floyd Zadkovich (US) LLP	New York	NY	2	Lawyers		IL,NJ
+Hair Zone, Inc.	Moonachie	NJ	1	Graphic Designers		NJ
+IGLOBAL EXPORTS, LLC dba ZONOS	St George	UT	1	Data Scientists		UT
+Jiali & Zhulin LLC	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
+Joseph Chen & Zhu, LLP	Irvine	CA	1	Accountants and Auditors		CA
+Jun Zhou CPA Ltd	Chicago	IL	1	Accountants and Auditors		IL
+Kentucky Reptile Zoo, Inc	Slade	KY	1	Animal Caretakers		KY
+Law Offices of Candice Zaguedoun PA	Miami	FL	1	Paralegals and Legal Assistants		FL
+Law Offices of Claire Zhu, PC	City of Industry	CA	1	Lawyers		CA
+Maxine Z Magri CPA PLC	Harrisonburg	VA	1	Accountants and Auditors		VA
+New Zion Services LLC	Jersey City	NJ	3	Exercise Physiologists; Medical and Health Services Managers; Physical Therapists		NY
+Olson Zaltman & Associates, LLC	Pittsburgh	PA	1	Market Research Analysts and Marketing Specialists		PA
+One Zyme, Inc.	Lexington	MA	1	Information Technology Project Managers		WA
+Parental Zen LLC	Campbell	CA	2	Special Education Teachers, All Other		CA,MA
+Paris Tokyo By Zazi Sushi LLC	West Hollywood	CA	1	Sales Managers		CA
+Paul Ziert & Associates Inc	Norman	OK	1	Interpreters and Translators		OK
+Paul Ziert and Associates Inc.	Norman	OK	1	Database Administrators		OK
+Ricardo Zurita Architecture & Planning, P.C.	New York	NY	1	Interior Designers		NY
+S&S Wireless Zone Inc.	Houston	TX	1	Logisticians		TX
+Simcere Zaiming, Inc.	Cambridge	MA	1	Regulatory Affairs Specialists		MA
+Soulsync Z LLC	Miami	FL	1	Training and Development Specialists		FL
+Tekies Zen LLC	Tampa	FL	2	Software Developers		TX
+The Care Zoom LLC	Springfield	VA	1	Software Developers		VA
+The Law Offices of Fuqiang Zhang, P.C.	Flushing	NY	5	Judicial Law Clerks	73700	NY
+The Society for Christian Instruction of Zeeland, Michigan	Zeeland	MI	2	Self-Enrichment Teachers; Elementary School Teachers, Except Special Education		MI
+The Zhou Law Group, APC	San Jose	CA	1	Judicial Law Clerks		CA
+Think Zone Learning Inc.	San Jose	CA	1	Instructional Coordinators		CA
+Tiospa Zina Tribal School	Agency Village	SD	9	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, All Other	59800	SD
+Torres & Zheng at Law, P.C.	New York	NY	1	Judicial Law Clerks		NY
+Triple Z Trading INC	Smyrna	DE	2	Human Resources Specialists		DE
+Van Zilver Inc	Austin	TX	1	Chief Executives		TX
+Walters Zackria Associates, PLLC.	Fort Lauderdale	FL	1	Architects, Except Landscape and Naval		FL
+Washington Education Zone LLC	Lanham	MD	2	Educational, Guidance, and Career Counselors and Advisors; Accountants and Auditors		MD
+Weinberg Zareh Malkin Price LLP	New York	NY	1	Judicial Law Clerks		NY
+Xu Z Chen Psychiatrist PLLC	Brooklyn	NY	5	Mental Health Counselors	62000	NY
+Xylem Water Solutions Zelienople LLC	Zelienople	PA	1	Civil Engineers		PA
+Yangxiang Zhongmu American Trading Corp.	Oak Brook	IL	1	Accountants and Auditors		IL
+Yi Zhu	Brighton	MA	1	Mental Health Counselors		CA
+Yoh, A Day & Zimmermann Company	Philadelphia	PA	53	Software Developers; Software Quality Assurance Analysts and Testers; Biological Technicians	140000	TX,CA,MA
+Z & C Cpas, LLP	Arcadia	CA	1	Accountants and Auditors		CA
+Z Advertising Group, LLC	Coral Gables	FL	1	Graphic Designers		FL
+Z Data, Inc.	Boise	ID	1	Database Administrators		GA
+Z Golf Food & Beverage Services, LLC	Temecula	CA	1	Software Developers		CA
+Z Square, LLC	El Segundo	CA	1	Financial and Investment Analysts		CA
+Z&W Food Inc.	Long Island City	NY	1	Market Research Analysts and Marketing Specialists		NY
+Z&zventuras LLC	Celebration	FL	1	Legal Support Workers, All Other		FL
+Z. Wang & Associates, P.C.	Chicago	IL	6	Lawyers; Human Resources Specialists	100000	IL
+Z000, Inc.	Brooklyn	NY	1	Software Developers		NY
+Z2 Investment Partners LLC	Stafford	TX	1	Financial and Investment Analysts		TX
+Z21 Labs, Inc.	Redwood City	CA	1	Business Intelligence Analysts		CA
+Z2Data LLC	Santa Clara	CA	1	Information Technology Project Managers		CA
+Z2K Inc.	St. Albans	NY	2	Transportation, Storage, and Distribution Managers; Accountants and Auditors		NY
+Z3 Technologies Inc	Duluth	GA	8	Software Developers; Computer Programmers; Data Scientists	103400	TX,GA,DE
+Zach Technology Inc.	Walnut	CA	1	Computer Systems Engineers/Architects		CA
+Zachary Group LLC	Lake Forest	CA	1	Accountants and Auditors		CA
+Zachry Engineering Corp	San Antonio	TX	1	Electrical Engineers		NC
+Zacks Investment Management, Inc.	Chicago	IL	4	Financial Specialists, All Other; Financial and Investment Analysts; Financial Quantitative Analysts	104600	IL
+Zacua Manco LLC	San Mateo	CA	1	Financial and Investment Analysts		CA
+Zaelab LLC	Westport	CT	2	Market Research Analysts and Marketing Specialists; Software Developers		NH,IL
+Zaelestis Group, Inc.	New York	NY	4	Web Developers		NY,PA
+Zaffre Health Plan Solutions LLC	Boston	MA	2	Software Developers		TX,RI
+Zafran Security, Inc.	New York	NY	1	Management Analysts		NY
+Zagg Inc	Midvale	UT	1	Management Analysts		UT
+Zaghi & Chrzan, LLP	Los Angeles	CA	1	Lawyers		CA
+zaimler, Inc.	San Mateo	CA	3	Data Scientists; Web and Digital Interface Designers; Software Developers	191000	CA
+Zain Business Inc	Houston	TX	1	Management Analysts		TX
+Zaiput Flow Technologies, LLC	Waltham	MA	2	Chemical Engineers		MA
+ZAIS Group, LLC	Holmdel	NJ	1	Financial Specialists, All Other		NJ
+Zakat Foundation of America	Bridgeview	IL	1	Community and Social Service Specialists, All Other		IL
+Zale Delaware, Inc.	Akron	OH	92	Software Developers; Computer Systems Analysts; Database Administrators	135000	TX,OH,NC
+Zalles Electrical Power Services, LLC	Missouri City	TX	1	Electrical Engineers		TX
+Zalzali & Associates, Inc.	Lake Forest	CA	1	Operations Research Analysts		CA
+Zam Network LLC	Los Angeles	CA	1	Market Research Analysts and Marketing Specialists		CA
+ZAM's Hope Community Resource Center	Chicago	IL	1	Accountants and Auditors		IL
+Zaman Construction Corp	Ozone Park	NY	1	Accountants and Auditors		NY
+Zanbato inc	Mountain View	CA	2	Software Quality Assurance Analysts and Testers		TX
+Zanders US, Inc.	New York	NY	2	Project Management Specialists; Computer and Information Systems Managers		NY
+Zane Hospitality Inc.	Riverside	CA	1	Market Research Analysts and Marketing Specialists		CA
+Zane Solutions LLC	Plano	TX	16	Data Scientists; Computer Programmers; Computer Systems Analysts	96000	TX
+Zanesville Steel LTD	Zanesville	OH	1	Information Technology Project Managers		OH
+Zaniboni Lighting, LLC	Clearwater	FL	2	Electrical Engineers; Industrial Engineers		FL
+Zanskar Geothermal & Minerals, Inc.	Salt Lake City	UT	3	Geoscientists, Except Hydrologists and Geographers	138500	UT
+Zap Energy, Inc.	Everett	WA	2	Mechanical Engineers		WA
+ZAP Engineering & Construction Services, Inc.	Lakewood	CO	2	Mechanical Engineers; Civil Engineers		CO
+Zap Surgical Systems, Inc.	San Carlos	CA	3	Software Quality Assurance Analysts and Testers; Database Administrators; Regulatory Affairs Managers	187900	CA
+Zapcom Group, Inc.	Irving	TX	3	Software Developers; Computer Programmers		TX,NC
+Zappos.com LLC	Las Vegas	NV	67	Software Developers; Market Research Analysts and Marketing Specialists; Data Scientists	159600	NY,WI,WA
+Zaspar Technologies LLC	Lathrop	CA	2	Computer Systems Analysts; Computer Programmers		TX
+Zasti Inc.	Ashburn	VA	1	Compliance Officers		VA
+ZAV Transport, LLC	Gresham	OR	1	Computer Systems Analysts		OR
+Zaven IT Solutions INC	Irving	TX	5	Software Developers	85000	MI,AR,TX
+Zaya Care, Inc.	New York	NY	1	Medical and Health Services Managers		UT
+Zayn Aerospace	Lathrop	CA	1	Mechanical Engineers		CA
+Zaynab Satchu, DVM, P.C.	New York	NY	3	Veterinarians		NY
+Zayo Group, LLC	Denver	CO	7	Computer Network Architects; Software Developers; Network and Computer Systems Administrators	135600	CO,TX
+ZAZ Enterprise Inc	El Monte	CA	1	Film and Video Editors		CA
+Zazzle, Inc.	Menlo Park	CA	2	Software Developers		CA
+Zbs Pos Ca LLC	San Francisco	CA	1	Market Research Analysts and Marketing Specialists		CA
+Zclap Inc.	Coppell	TX	1	Computer and Information Systems Managers		TX
+Zco Corporation	Nashua	NH	2	Information Technology Project Managers		NH
+ZD Jasper Realty, Inc.	Great Neck	NY	1	Construction Managers		NY
+Zdaas LLC	Glen Burnie	MD	1	Information Technology Project Managers		NC
+Zdg, LLC	New York	NY	1	Cost Estimators		NY
+ZDS LLC Dba: ZDS Design/Consulting Services	Scott Depot	WV	2	Electrical Engineers; Mechanical Engineers		WV
+ZDZ Dental PLLC	Marlborough	MA	1	Medical and Health Services Managers		MA
+Zeal & Yore LLC	Redmond	WA	1	Market Research Analysts and Marketing Specialists		WA
+Zeal Solutions Inc	Princeton	NJ	1	Software Developers		NC
+Zealogics Llc.	Branchburg	NJ	6	Software Developers; Electrical Engineers	103200	NJ,CA,FL
+Zealous Solutions	Novi	MI	5	Software Developers; Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators		TX,VA,DC
+Zealtech, Inc.	Fremont	CA	2	Computer Systems Engineers/Architects; Data Scientists		CA,FL
+Zealth, Inc.	San Mateo	CA	2	Software Developers; Information Technology Project Managers		CA,NJ
+Zeb AI, Inc.	Wilmington	DE	1	Software Developers		PA
+Zebra Technologies Corporation	Lincolnshire	IL	31	Software Quality Assurance Analysts and Testers; Software Developers; Information Technology Project Managers	132400	GA,NY,IL
+Zecca Ross Law Firm P.C.	Phoenix	AZ	1	Judicial Law Clerks		AZ
+Zeco Systems, Inc.	Los Angeles	CA	1	Computer Hardware Engineers		CA
+ZEDEDA, Inc.	San Jose	CA	1	Software Developers		CA
+Zedra Global Expansion US LLC	Cambridge	MA	1	Compensation, Benefits, and Job Analysis Specialists		MA
+Zeeco, Inc.	Tulsa	OK	4	Software Developers; Training and Development Specialists; Financial Managers	83000	OK
+Zeel Networks, Inc.	New York	NY	1	Financial Managers		FL
+Zeeto Technologies, Inc.	Princeton	NJ	13	Software Developers; Network and Computer Systems Administrators; Information Security Analysts		TX,WA,CA
+Zef Scientific, Inc.	San Diego	CA	9	Electronics Engineers, Except Computer; Mechanical Engineers	130000	MA,DE,CT
+ZEFR, Inc.	Los Angeles	CA	3	Data Scientists; Software Developers	150000	CA
+Zeitro, Inc.	Santa Clara	CA	2	Data Scientists		CA
+Zelantetech LLC	Katy	TX	5	Software Developers; Database Administrators; Web Developers	106000	TX
+Zelecloud LLC	Raleigh	NC	10	Software Developers; Computer Programmers; Software Quality Assurance Analysts and Testers	109600	CA,TN,GA
+Zelis Healthcare, LLC	Boston	MA	3	Software Developers; Data Warehousing Specialists; Computer and Information Systems Managers	180300	MO,NJ,NC
+Zeller Electric, Inc.	Goodfield	IL	1	Construction Managers		IL
+Zemer International, Inc.	Midlothian	TX	1	Industrial Engineers		TX
+Zemoso Technologies Inc	Plano	TX	1	Information Technology Project Managers		TX
+Zen Educate Inc.	Saint Paul	MN	1	Information Technology Project Managers		GA
+Zen Trading LLC	Pelham	AL	1	Logisticians		AL
+Zenafide Inc.	Palo Alto	CA	3	Project Management Specialists	140000	CA,WA
+Zenarai LLC	North Plains	OR	1	Software Developers		OR
+Zenarate, Inc.	Palo Alto	CA	1	Computer and Information Systems Managers		NY
+Zenas BioPharma (USA) LLC	Waltham	MA	1	Natural Sciences Managers		MA
+Zenda LLC	New York	NY	1	Human Factors Engineers and Ergonomists		NY
+Zendar Inc.	Berkeley	CA	4	Data Scientists	167500	CA
+Zendesk, Inc.	San Francisco	CA	29	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	175000	CA,TX,MA
+Zenfair Solutions Inc.	San Ramon	CA	3	Data Scientists; Software Developers	96000	CA,TX
+Zeng Law Group, PLLC	New York	NY	2	Judicial Law Clerks		NY
+ZenHer, Inc.	Mountain View	CA	1	Information Technology Project Managers		CA
+Zeni, Inc.	Palo Alto	CA	1	Computer Systems Engineers/Architects		CA
+ZeniMax Media Inc.	Rockville	MD	1	Software Developers		MD
+Zenith Academy	Columbus	OH	1	Secondary School Teachers, Except Special and Career/Technical Education		OH
+Zenith Electronics, LLC	Lincolnshire	IL	1	Software Developers		CA
+Zenith Firearms, Inc	Afton	VA	1	Chemical Engineers		VA
+Zenith Infotek, LLC	Lewisville	TX	18	Software Quality Assurance Analysts and Testers; Software Developers; Computer Systems Analysts	112000	TX,GA,WA
+Zenith Insurance Company	Woodland Hills	CA	2	Software Quality Assurance Analysts and Testers; Software Developers		CA
+Zenith IT Solutions LLC	Lake Mary	FL	4	Software Developers	90400	TX,MA
+Zenith LifeScience LLC	South Plainfield	NJ	7	Regulatory Affairs Specialists; Molecular and Cellular Biologists; Project Management Specialists		MA,DE,CA
+Zenith Media Services, Inc.	New York	NY	9	Data Scientists; Software Developers; Business Intelligence Analysts	125000	GA,NY,TX
+Zenith Rehabilitation Services, Inc.	Chino Hills	CA	1	Speech-Language Pathologists		CA
+Zenith Services Inc	Princeton	NJ	4	Computer Systems Analysts; Computer Systems Engineers/Architects	91700	FL,TX,CA
+Zenith Software Solutions, Inc.	Ashburn	VA	5	Software Developers; Computer Occupations, All Other; Data Scientists	95000	NJ,NC,DC
+Zenleads, Inc.	Covina	CA	2	Data Scientists; Computer and Information Research Scientists		CA,NY
+Zenmo Group Inc	New York	NY	2	Human Resources Specialists; Market Research Analysts and Marketing Specialists		NY
+Zenni USA, Inc.	Columbus	OH	3	Data Scientists; Graphic Designers; Computer Systems Engineers/Architects	99000	FL,MA,CA
+Zeno Group, Inc.	New York	NY	2	Advertising and Promotions Managers; Market Research Analysts and Marketing Specialists		DC,CO
+Zeno Management, Inc.	San Diego	CA	1	Clinical Data Managers		TX
+Zeno Moto Corporation	Bozeman	MT	1	Architectural and Engineering Managers		CA
+Zenobe Americas, Inc.	Chicago	IL	1	Financial Managers		IL
+Zenon LLC	New York	NY	4	Operations Research Analysts	96500	MA,NJ
+ZenOptics Inc.	San Jose	CA	1	Information Technology Project Managers		NJ
+Zensa LLC	Redmond	WA	1	Information Technology Project Managers		AZ
+Zensar Technologies, Inc.	Chicago	IL	218	Computer Systems Analysts; Software Developers; Computer Programmers	115000	CA,NC,GA
+Zenseng American Ginseng Corp.	Wausau	WI	1	Data Scientists		WI
+Zensoft IT Solutions Inc	Westborough	MA	18	Software Developers; Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators	113600	TX,FL,VA
+Zenspace IT LLC	Charlotte	NC	7	Software Developers; Business Intelligence Analysts; Database Administrators		IL,VA,FL
+ZenspaceIT LLC	Charlotte	NC	6	Software Developers; Data Scientists		TX,NJ
+Zentech Consulting Inc	Little Elm	TX	15	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	101200	TX,FL,NH
+ZenTech Solutions LLC	Plano	TX	3	Software Developers; Network and Computer Systems Administrators		TX
+Zenthor IT LLC	Brookfield	WI	6	Software Developers	126500	TX,MA,MD
+Zentrix IT Solutions LLC	Charlotte	NC	29	Data Scientists; Software Developers; Business Intelligence Analysts	80000	TX,TN,MO
+Zenux Healthcare	Atlanta	GA	1	Operations Research Analysts		GA
+ZeOmega Inc	Plano	TX	2	Information Technology Project Managers; Database Administrators		TX
+Zeon Chemicals L.P.	Louisville	KY	1	Computer Systems Analysts		KY
+Zephyr AI, Inc.	McLean	VA	1	Molecular and Cellular Biologists		CA
+Zephyr Ventilation, LLC	Alameda	CA	1	Database Administrators		CA
+Zeplin, Inc.	San Francisco	CA	1	Commercial and Industrial Designers		CA
+Zeppelin Systems USA, Inc.	Odessa	FL	1	Electrical Engineers		TX
+Zepsor Technologies, Inc.	Burlington	MA	1	Nanosystems Engineers		MA
+Zepto Life Technology, Inc.	Saint Paul	MN	1	Industrial Engineers		MN
+Zerion Inc	San Francisco	CA	1	Marketing Managers		NY
+Zerlotti Genetics Ltd	Pleasanton	TX	1	Animal Scientists		TX
+Zero Group Club LLC	Long Island City	NY	2	Logistics Analysts; Market Research Analysts and Marketing Specialists		NY
+Zero Hash Holdings Ltd.	Chicago	IL	1	Accountants and Auditors		IL
+Zero Motorcycles Inc.	Scotts Valley	CA	3	Mechanical Engineers; Software Developers; Electrical Engineers	140000	CA
+Zero Sigma LLC	Rensselaer	NY	2	Computer and Information Systems Managers; Software Developers		MA
+Zero to One Media Inc.	Dover	DE	1	Producers and Directors		PA
+Zerocodehr Inc	Lake Mary	FL	4	Software Developers; Information Technology Project Managers	121600	FL
+Zeroex, Inc.	San Francisco	CA	1	Software Developers		NJ
+Zeromatter Technologies, Inc.	Mountain View	CA	4	Computer and Information Research Scientists; Software Developers; Robotics Engineers	217500	CA,MD
+ZeroPlus Derivatives LLC	Chicago	IL	1	Software Developers		IL
+ZeroRFI, Inc.	Atlanta	GA	1	Software Developers		GA
+Zerra Partners Inc.	Columbus	OH	1	Management Analysts		NY
+Zertain Inc	Middletown	DE	1	Data Scientists		NJ
+Zest Consulting LLC	Pleasanton	CA	2	Database Architects; Human Resources Specialists		CA
+Zest LLC	Greenbelt	MD	1	Civil Engineers		MD
+Zest Wholesale Inc	Long Island City	NY	1	Business Operations Specialists, All Other		NY
+ZestFinance, Inc.	Burbank	CA	12	Data Scientists; Software Developers; Computer and Information Research Scientists	145000	CA,NC,NJ
+ZestTech LLC	Sacramento	CA	1	Market Research Analysts and Marketing Specialists		CA
+Zesty.io Platform, Inc.	San Diego	CA	1	Search Marketing Strategists		WA
+Zet Investment Inc	Diamond Bar	CA	1	Database Administrators		CA
+Zeta Charter Schools - New York City	New York	NY	2	Elementary School Teachers, Except Special Education; Education Administrators, Kindergarten through Secondary		NY
+Zeta Charter Schools, Inc.	New York	NY	3	Financial and Investment Analysts; Information Technology Project Managers; Data Scientists	140000	NY
+Zeta Energy Corp.	Houston	TX	1	Materials Engineers		TX
+Zeta Global Corp.	New York	NY	12	Software Developers; Data Scientists; Database Architects	215600	CA,TX,FL
+Zeta Services Inc.	San Ramon	CA	1	Marketing Managers		NJ
+Zeta Surgical Inc.	Boston	MA	3	General and Operations Managers; Project Management Specialists; Medical Scientists, Except Epidemiologists	150000	MA
+Zetec, Inc.	Snoqualmie	WA	1	Electrical Engineers		WA
+Zeterre Landscape Architecture, Inc	San Francisco	CA	1	Architectural and Civil Drafters		CA
+Zetlin & De Chiara LLP	New York	NY	1	Judicial Law Clerks		NY
+Zettabyte AI, Inc.	Palo Alto	CA	1	Information Technology Project Managers		CA
+Zettalogix Inc	Iselin	NJ	1	Software Developers		TN
+Zettaprime Inc.	Lexington	SC	1	Information Security Analysts		TX
+Zeus Consulting LLC	San Francisco	CA	1	Public Relations Specialists		CA
+Zeus Solutions Inc	Houston	TX	19	Software Developers; Data Scientists; Business Intelligence Analysts	121100	TX
+Zeva Technology, LLC	Plano	TX	3	Electrical Engineers	75000	TX
+Zeyospace Inc	Frisco	TX	4	Software Developers; Computer Programmers	127700	TX
+ZF Active Safety and Electronics US, LLC	Northville	MI	10	Electronics Engineers, Except Computer; Mechatronics Engineers; Electrical Engineers	99500	IN,MI
+ZF Active Safety US Inc.	Northville	MI	25	Electronics Engineers, Except Computer; Software Developers; Logisticians	119500	MI
+ZF Axle Drives Marysville, LLC	Marysville	MI	1	Mechanical Engineers		MI
+ZF Chassis Components, LLC	Newton	NC	1	Manufacturing Engineers		NC
+ZF Chassis Systems Duncan, LLC	Duncan	SC	1	Automotive Engineers		SC
+ZF CV Systems North America LLC	Auburn Hills	MI	12	Automotive Engineers; Industrial Engineers; Mechanical Engineers	107300	MI,OH
+ZF Gainesville, LLC	Gainesville	GA	4	Mechanical Engineers; Manufacturing Engineers; Automotive Engineers	89200	GA,SC
+ZF Marine Propulsion Systems Miramar, LLC	Miramar	FL	1	Accountants and Auditors		FL
+ZF North America Inc.	Northville	MI	5	Industrial Engineers; Automotive Engineers; Mechanical Engineers	106400	MI
+ZF Passive Safety Systems US LLC	Washington	MI	1	Purchasing Managers		MI
+ZF Services, LLC	Vernon Hills	IL	2	Logistics Analysts; Mechanical Engineers		IL
+ZF Transmissions Gray Court, LLC	Gray Court	SC	19	Industrial Engineers; Manufacturing Engineers; Purchasing Agents, Except Wholesale, Retail, and Farm Products	90000	SC
+Zfy Inc	Monrovia	CA	1	Accountants and Auditors		CA
+Zgage Inc.	Princeton	NJ	1	Software Developers		FL
+ZGC Capital Corporation	Mountain View	CA	2	Meeting, Convention, and Event Planners		CA
+ZGlobal Inc.	Folsom	CA	2	Mechanical Engineers; Electrical Engineers		CA
+Zhang Financial LLC	Portage	MI	1	Investment Fund Managers		MI
+Zhang House LLC	Washington	DC	1	Operations Research Analysts		DC
+Zhao Business Solution Inc.	Atlanta	GA	2	Market Research Analysts and Marketing Specialists; Graphic Designers		GA
+Zhao CPA PC	Houston	TX	2	Accountants and Auditors		TX
+Zhao Dimond, Inc.	Daly City	CA	1	Business Intelligence Analysts		CA
+ZHD Consulting Inc	Santa Ana	CA	3	Financial Specialists, All Other; Market Research Analysts and Marketing Specialists		CA,IL
+zHeight Inc.	Menlo Park	CA	1	Architectural and Civil Drafters		CA
+Zhong Lun Law Firm LLP	New York	NY	4	Paralegals and Legal Assistants; Lawyers		NY,CA
+Zhongxin Linuo Incorporated	Aurora	IL	1	Accountants and Auditors		IL
+Zhonjin Future USA Inc	Arcadia	CA	1	Market Research Analysts and Marketing Specialists		CA
+Zhoton Technologies LLC	Iselin	NJ	1	Software Developers		IL
+Zhou Law Inc, A.p.c.	City of Industry	CA	2	Legal Support Workers, All Other; Lawyers		CA
+Zhuzhou Cemented Carbide Works USA, Inc.	Ann Arbor	MI	1	Accountants and Auditors		MI
+ZI Engineering, P.C.	Lynbrook	NY	1	Mechanical Engineers		NY
+Zia Consulting, Inc.	Boulder	CO	4	Software Developers; Computer Systems Analysts	146100	CO
+Ziddos, Inc.	Farmers Branch	TX	8	Software Developers	112900	TX,FL
+Ziehm-Orthoscan, Inc.	Scottsdale	AZ	1	Mechanical Engineers		AZ
+Ziering Medical, A Professional Corporation	West Hollywood	CA	1	Physicians, All Other		CA
+Ziff Davis, Inc (fka J2 Global, Inc)	New York	NY	1	Computer Systems Analysts		CA
+Ziff Davis, LLC	New York	NY	4	Software Developers; Statisticians; Business Intelligence Analysts	135400	NY,NJ,WA
+Zifo Technologies, Inc	Deerfield	IL	45	Bioinformatics Scientists; Information Technology Project Managers; Computer Systems Engineers/Architects	93200	MA,NC,CA
+Ziggi Fintech Inc	Austin	TX	1	Information Technology Project Managers		FL
+ZignEx, Inc	The Woodlands	TX	3	Software Developers; Logisticians	110000	TX
+Ziksatech, LLC	Plano	TX	5	Software Developers; Data Warehousing Specialists	113000	TX
+Zillion Group	Hayward	CA	8	Software Developers; Statisticians; Graphic Designers	106700	CA,NJ,MI
+Zillion Network, Inc.	Palo Alto	CA	2	Database Administrators		CA
+Zillion Technologies Inc.	Ashburn	VA	10	Software Developers; Marketing Managers; Computer Systems Engineers/Architects	118800	VA,TX,MO
+Zillow, Inc.	Seattle	WA	54	Software Developers; Data Scientists; Computer and Information Systems Managers	169200	WA,CA,NJ
+Zilpin Tech LLC	Irving	TX	2	Software Developers		MD
+Zim Aircraft Cabin Solutions, LLC	Greensboro	NC	1	Mechanical Engineers		NC
+Zima International, Inc.	New York	NY	9	Data Scientists; Logisticians; Software Developers	144400	NY,MA,CA
+ZiMetrics LLC	Austin	TX	4	Computer Network Architects; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	105700	NC,TX,NJ
+Zimi Inc	Lords Valley	PA	1	Software Developers		DC
+Zimmer Biomet CMF and Thoracic, LLC	Warsaw	IN	1	Validation Engineers		FL
+Zimmer Biomet Spine, Inc.	Westminster	CO	1	Industrial Engineers		MS
+Zimmer Gunsul Frasca Architects LLP	Portland	OR	9	Architects, Except Landscape and Naval; Interior Designers; Landscape Architects	75900	DC,NY,OR
+Zimmer Surgical, Inc.	Warsaw	IN	1	Validation Engineers		OH
+Zimmer US, Inc.	Warsaw	IN	1	Sales Engineers		CA
+Zimmer, Inc.	Warsaw	IN	41	Validation Engineers; Computer Systems Analysts; Manufacturing Engineers	116600	IN,TX,VA
+Zimmet Law Group, P.C.	New York	NY	2	Judicial Law Clerks		NY
+Zimperium, Inc.	Dallas	TX	3	Software Developers; Software Quality Assurance Analysts and Testers	116100	TX,CO
+Zinc Learning Labs Inc.	New York	NY	1	Computer and Information Systems Managers		NY
+Zinier Inc	San Mateo	CA	2	Software Developers		IL,TX
+Zinnia Health, LLC	Irvine	CA	1	Web Developers		NY
+Zinnov, LLC	The Woodlands	TX	2	Management Analysts		WA,NY
+Zinosys Solutions LLC	Liberty Hill	TX	4	Computer Programmers; Computer Systems Analysts; Software Developers	88200	TX
+Zinrelo, Inc.	San Antonio	TX	2	Marketing Managers		TX
+Zinus, Inc.	Tracy	CA	2	Supply Chain Managers		CA
+Zion Acupuncture LLC	Reston	VA	1	Acupuncturists		VA
+Zion Cloud Solutions LLC	Deerfield	IL	18	Software Developers; Business Intelligence Analysts; Software Quality Assurance Analysts and Testers	110500	IL,TX
+Zion Natural History Association	Springdale	UT	1	Operations Research Analysts		UT
+Zion Track Holding LLC	North Charleston	SC	1	Network and Computer Systems Administrators		SC
+Zion Ventures, Inc.	Tulsa	OK	1	Data Scientists		OK
+Zione Solutions, LLC.	Farmington	MI	1	Software Developers		VA
+Zions Bancorporation, N.A.	Salt Lake City	UT	40	Software Developers; Network and Computer Systems Administrators; Business Intelligence Analysts	131500	UT,TX,FL
+ZionTech Solutions, Inc.	Milpitas	CA	4	Software Developers; Information Technology Project Managers	130400	TX,CA,MA
+Zip Co US Inc.	New York	NY	1	Business Operations Specialists, All Other		NY
+ZipHQ, Inc.	San Francisco	CA	27	Software Developers; Operations Research Analysts; Information Security Analysts	190000	CA,NY
+Zipline International Inc.	South San Francisco	CA	39	Software Developers; Mechanical Engineers; Aerospace Engineers	175000	CA
+Zippy Labs Inc	Glendale	AZ	1	Software Developers		AZ
+ZipRecruiter, Inc.	Santa Monica	CA	13	Software Developers; Data Scientists; Computer and Information Systems Managers	155000	CA,WA
+ZipStorm, Inc.	Bellevue	WA	3	Software Developers; Data Scientists	155000	WA,NY
+Zira Technologies Inc.	San Francisco	CA	1	Management Analysts		CA
+Zirlen Technologies, Inc	Houston	TX	16	Software Developers; Computer Network Architects; Data Scientists	112400	TX,CA,GA
+Zitao Liu, M.D., Professional Corporation	Fremont	CA	2	Biological Scientists, All Other		CA
+Ziu LLC	Tampa	FL	2	Logisticians		FL
+Ziya Business Inc	Tucker	GA	2	Accountants and Auditors		GA
+ZJP Investments LLC	Sugar Land	TX	2	Business Intelligence Analysts; Data Scientists		TX
+Zk Technology Llc.	Tampa	FL	1	Market Research Analysts and Marketing Specialists		FL
+ZL Technologies, Inc.	Milpitas	CA	1	Database Architects		CA
+ZLNewCo, Inc.	Mountain View	CA	1	Computer and Information Research Scientists		CA
+Zm Art Studio, LLC	Harvard	MA	2	Coaches and Scouts		MA
+ZM Cyber Sale LLC	Philadelphia	PA	1	Logisticians		PA
+Zm Mobility LLC	Tucson	AZ	1	Project Management Specialists		AZ
+ZMC Kitchen and Bath INC.	Rancho Cordova	CA	1	Market Research Analysts and Marketing Specialists		CA
+ZNA Services, LLC	Schaumburg	IL	3	Data Scientists; Financial and Investment Analysts; Statisticians	140800	NJ,NY
+ZO Motors North America LLC	Fontana	CA	10	Industrial Engineers; Manufacturing Engineers; Mechanical Engineers	160000	CA
+Zocdoc, Inc.	New York	NY	8	Software Developers; Data Scientists	201800	NY,WA
+Zodha Solutions LLC	Jersey City	NJ	4	Software Developers; Computer Programmers	100000	FL,NJ,PA
+Zodiac, Inc.	St. Louis	MO	1	Energy Engineers, Except Wind and Solar		MO
+Zoeller Company	Louisville	KY	1	Materials Engineers		IN
+Zoetis, Inc.	Parsippany	NJ	41	Software Developers; Biochemists and Biophysicists; Market Research Analysts and Marketing Specialists	115000	NJ,MI,CA
+ZOFS Engineering and Land Surveying P.C.	Valley Stream	NY	9	Civil Engineers; Mechanical Engineers		NY,CT
+Zoftec, LLC	Phoenix	AZ	1	Software Developers		AZ
+Zoho Technologies	Pleasanton	CA	2	Sales Engineers; Robotics Engineers		TX
+Zoll Data Systems, Inc	Broomfield	CO	2	Software Developers		CO,CA
+Zoll Manufacturing Corporation	Pittsburgh	PA	1	Software Developers		PA
+Zoll Medical Corporation	Chelmsford	MA	4	Regulatory Affairs Specialists; Software Quality Assurance Analysts and Testers; Compensation, Benefits, and Job Analysis Specialists	93500	MA,CO,CA
+ZOLLER Inc.	Ann Arbor	MI	2	Software Developers		MI
+Zolon Tech Solutions, Inc.	Herndon	VA	1	Software Developers		VA
+Zolon Tech, Inc.	Herndon	VA	2	Computer Systems Analysts; Database Administrators		NC,PA
+Zonestra Technologies LLC	Austin	TX	11	Software Developers; Business Intelligence Analysts; Software Quality Assurance Analysts and Testers	112900	TX,PA,NC
+Zonge International, Inc.	Tucson	AZ	1	Geoscientists, Except Hydrologists and Geographers		AZ
+Zoni Language Centers Inc	New York	NY	1	Human Resources Specialists		NY
+Zoological Society of San Diego	San Diego	CA	1	Zoologists and Wildlife Biologists		CA
+Zoom Communications, Inc.	San Jose	CA	61	Software Developers; Computer and Information Research Scientists; Computer and Information Systems Managers	172400	CA,WA,TX
+ZoomInfo Technologies, LLC	Vancouver	WA	27	Software Developers; Business Intelligence Analysts; Information Technology Project Managers	154800	MA,WA,NJ
+ZoomLogi, Inc.	San Francisco	CA	2	Computer and Information Systems Managers; Software Developers		CA
+ZoomRx, Inc.	Cambridge	MA	3	Business Intelligence Analysts	120000	CA,NJ,GA
+Zoox Inc.	Foster City	CA	643	Software Developers; Industrial Engineers; Software Quality Assurance Analysts and Testers	184200	CA,WA,NJ
+Zoria Housing LLC	Richmond Hill	NY	2	Cost Estimators; Civil Engineers		NY
+Zoro Tools, Inc.	Chicago	IL	7	Data Scientists; Statisticians; Software Developers	154500	IL
+Zotec Partners, LLC	Carmel	IN	4	Software Developers; Data Scientists; Health Informatics Specialists	107700	IN,IL,NY
+Zots LLC	Weatherford	TX	1	Chefs and Head Cooks		TX
+Zowta LLC	Austin	TX	1	Treasurers and Controllers		GA
+zPaper, Inc.	Roswell	GA	1	Software Developers		TX
+ZPE Systems, Inc.	Fremont	CA	1	Software Developers		CA
+ZPMC North America, Inc.	Irvine	CA	2	Logistics Analysts; Mechanical Engineers		WA,NJ
+ZPods Holdings LLC	St. Charles	MO	1	Operations Research Analysts		MA
+Zprocis Solutions, Inc.	Naples	FL	3	Computer Programmers; Database Architects; Computer Network Architects	100000	FL,TX
+Zreya Tech Inc	Collierville	TN	3	Software Developers; Business Intelligence Analysts; Data Scientists	96000	WA,CA,TX
+ZS Associates, Inc.	Evanston	IL	175	Information Technology Project Managers; Operations Research Analysts; Data Scientists	172400	NJ,CA,IL
+ZSC Enterprises LLC	Atlanta	GA	1	Accountants and Auditors		GA
+Zscale, LLC	Durham	NC	8	Data Scientists; Software Developers; Information Technology Project Managers	114200	TX,NC,VA
+Zscaler, Inc.	San Jose	CA	102	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	192100	CA,TX,WA
+Zschimmer & Schwarz Interpolymer Inc.	Louisville	OH	1	Materials Scientists		KY
+ZSFab, Inc.	Waltham	MA	1	Mechanical Engineers		MA
+ZT Group Int'l, Inc.	Secaucus	NJ	34	Manufacturing Engineers; Industrial Engineers; Accountants and Auditors	117100	NJ,TX
+ZT Group Int'l, Inc. d/b/a ZT Systems	Secaucus	NJ	6	Manufacturing Engineers; Software Developers; Information Technology Project Managers	121900	NJ,WA
+ZT Wealth, LLC	Houston	TX	1	Financial and Investment Analysts		TX
+Zts Systems LLC	Leola	PA	2	Software Quality Assurance Analysts and Testers; Data Scientists		PA
+Zuber Lawler, LLP	Los Angeles	CA	1	Judicial Law Clerks		CA
+Zuci Systems, Inc.	Plano	TX	2	Software Developers; Business Intelligence Analysts		NJ
+Zuckermann Harpsichords International, LLC	Stonington	CT	1	Musical Instrument Repairers and Tuners		CT
+Zuffa, LLC	Las Vegas	NV	1	Lawyers		NY
+Zum Services, Inc.	Redwood City	CA	4	Software Developers; Computer and Information Systems Managers	230000	CA
+Zume IT, Inc.	Farmington Hills	MI	7	Software Developers; Human Resources Specialists; Computer Systems Analysts	110000	CA,MD,TX
+Zuni Public School District	Zuni	NM	5	Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	59500	NM
+Zuora, Inc.	Foster City	CA	21	Software Developers; Computer and Information Systems Managers; Computer Systems Analysts	189500	CA,TX,GA
+Zuplon, LLC	Hillsborough	NJ	1	Business Intelligence Analysts		GA
+Zupt, LLC	Houston	TX	1	Surveyors		TX
+Zura LLC	Chesterfield	MO	1	Marketing Managers		MO
+Zurg Automation LLC	Dover	DE	1	Industrial Engineers		DE
+Zuri Furniture, LLC	Lewisville	TX	1	Market Research Analysts and Marketing Specialists		TX
+Zurich Alternative Asset Management, LLC	New York	NY	4	Financial and Investment Analysts	149400	NY
+Zurich American Insurance Company	Schaumburg	IL	35	Software Developers; Computer Systems Analysts; Software Quality Assurance Analysts and Testers	130400	IL,MN,TX
+Zurich HR, LLC	North Miami	FL	1	Marketing Managers		NY
+Zurich Services Corporation	Schaumburg	IL	1	Financial Risk Specialists		CA
+Zurich Services US LLC	Schaumburg	IL	2	Computer Occupations, All Other; Information Technology Project Managers		IL
+Zurn Water LLC	Milwaukee	WI	1	Financial and Investment Analysts		NC
+Zurno Inc.	Seminole	FL	2	Market Research Analysts and Marketing Specialists; Accountants and Auditors		FL
+Zurno of GA LLC	Duluth	GA	1	Logistics Analysts		GA
+Zuru LLC	El Segundo	CA	1	Logisticians		CA
+ZURU Tech US LLC	El Segundo	CA	3	Architects, Except Landscape and Naval	91800	CA,WA
+Zuvan Renewables LLC	Denver	CO	3	Solar Energy Systems Engineers; Data Scientists		CO
+Zw LLC	Chapel Hill	NC	1	Software Developers		NC
+ZweigWhite, PLLC	Fayetteville	AR	1	Management Analysts		FL
+Zwift Inc.	Long Beach	CA	2	Software Developers		UT,CA
+ZwillGen PLLC	Washington DC	DC	1	Data Scientists		IL
+Zwin USA Inc	Elizabeth	NJ	1	Financial and Investment Analysts		NJ
+ZwitterCo Inc.	Woburn	MA	1	Supply Chain Managers		MA
+Zwo USA LLC	Florham Park	NJ	1	Market Research Analysts and Marketing Specialists		NJ
+Zydus Pharmaceuticals Usa, Inc.	Pennington	NJ	3	Financial Managers; Regulatory Affairs Managers; Computer and Information Systems Managers	150000	NJ
+Zylidac Bio LLC	Emeryville	CA	1	Mechatronics Engineers		CA
+Zyliq Inc	Millstone	NJ	1	Information Technology Project Managers		NJ
+Zylog Systems Ltd DBA Zsl Inc	Edison	NJ	1	Computer Programmers		MD
+Zyltech Engineering LLC	Houston	TX	2	Software Developers; Training and Development Specialists		TX
+Zylun Insights, LLC	Lehi	UT	1	Project Management Specialists		UT
+Zymebalanz LLC	Santa Clara	CA	9	Computer Programmers; Data Scientists; Operations Research Analysts	123500	CA
+Zymo Research Corporation	Irvine	CA	2	Bioinformatics Technicians		CA
+Zymo Solutions LLC	Herndon	VA	2	Software Developers; Business Intelligence Analysts		FL,TX
+ZymoChem, Inc.	San Leandro	CA	3	Chemists; Materials Engineers	150300	CA
+Zync Technologies, LLC	Plano	TX	1	Computer Systems Analysts		WA
+Zynex Medical Inc.	Englewood	CO	1	Market Research Analysts and Marketing Specialists		CO
+Zynexio LLC	Sheridan	WY	4	Data Scientists; Software Developers	92800	AR,VA
+Zynga, Inc.	San Mateo	CA	10	Software Developers; Project Management Specialists; Producers and Directors	150400	CA,TX,CO
+Zyno Medical LLC	Natick	MA	2	Industrial Engineers; Mechanical Engineers		NY,MA
+Zyntek Inc	Roanoke	TX	3	Computer Programmers; Computer Network Support Specialists	77400	TX
+Zyny	Tracy	CA	2	Business Operations Specialists, All Other		CA
+Zyon Digital Solutions LLC	Plano	TX	3	Software Developers	100500	TX,OH
+Zyphra Technologies Inc.	San Francisco	CA	1	Software Developers		CA
+Zyscovich LLC	Miami	FL	1	Designers, All Other		FL
+Zyter Inc	Rockville	MD	6	Information Technology Project Managers; Business Intelligence Analysts; Accountants and Auditors	122300	MD,NJ,MO
+Zytus, Inc.	Richmond	VA	3	Software Developers; Computer Programmers	133500	CA,SC
+Zywie Inc.	Johns Creek	GA	1	Data Scientists		GA
+ZZ Day Spa Inc.	New York	NY	1	Financial and Investment Analysts		NY
+Zzas Trading Inc.	Peachtree Corners	GA	2	Market Research Analysts and Marketing Specialists		GA
+zZounds Music, LLC	Chicago	IL	1	Computer and Information Systems Managers		IL

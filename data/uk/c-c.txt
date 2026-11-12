@@ -259,6 +259,7 @@ Aeracura limited	Crewe	A	0
 AerFin Limited	Crawley	A	0
 Aero Engine Services Ltd.	Cardiff	A	0
 Aeros Limited	Coventry	A	0
+AEROSILICON LTD	Chatham	A	0
 Aertec Solutions Ltd	Chester	A	0,4
 AESG Ltd	City of London	A	0
 Aetha Consulting Limited	Cambridge	A	0
@@ -410,7 +411,6 @@ Alpha Systems Fabrication Limited	Crewe	A	0
 Alpha Trust	Colchester	A	0
 ALPHAANALYTICS LIMITED	Chelmsford	A	0
 ALPHAKEY GROUP LIMITED	Cardiff	A	0
-ALPHAN TECH SOLUTIONS LTD	Chatham	A	0
 Alqaim55 Ltd	Coventry	A	0
 ALS Laboratories (UK) Limited	Coventry	A	0
 ALTEN GLOBAL TECHNOLOGIES	Cambridge,	A	0,4
@@ -1677,6 +1677,7 @@ Cisco International Limited	Cardiff	A	0,4
 Citi Group (Kent) Limited T/A Citi Terrace	Canterbury	A	0
 CITIMOUNT (CATFORD) LTD	Catford	A	0
 CITIMOUNT (COLCHESTER) LTD	Colchester	A	0
+CITY ACCOUNTANCY LTD	Croydon	A	0
 City Care Services Limited	Cambridge	A	0
 City Church (Cambridge)	Cambridge	A	10
 City College Limited	Coventry	A	0
@@ -3147,7 +3148,6 @@ Granta Medical Practices	Cambridge	A	0
 Grantabridge Research Limited	Cambridge	A	0
 Grants Convenience Store	Colchester	A	0
 Grapelli Limited	Cobham	A	0
-Grapevine (Coventry and Warwickshire) Limited	Coventry	A	0
 Gratton House Dental Surgery	Cheltenham	A	0
 Gravity Civil and Structural Engineering Ltd	Chelmsford	A	0
 GRAYDON SPORTS LIMITED	Coventry	A	0
@@ -3180,6 +3180,7 @@ Greengage Environmental Limited	Canterbury	A	0
 Greenhill Pigs	Co Tyrone	A	0
 Greenspark Ltd	Cheadle	A	0
 Greentek Energy LTD	Coventry	A	0
+Greif UK Plastics Limited	Cheshire	A	0
 GREY MATTERS TRADING AND CONSULTANCY LIMITED	Chelmsford	A	0
 Greyhound Properties Limited	Cranbrook	A	0
 GRILL HUT CHELMSFORD LIMITED	Chelmsford	A	0
@@ -3686,7 +3687,6 @@ Ionbond UK Limited	Consett	A	0
 Ionoptika Ltd	Chandler's Ford	A	0,12
 Iontas Limited	Cambridge	A	0
 IOS RECRUITMENT AND TRAINING SERVICES LTD	Cardiff	A	0
-Ipackchem Limited	Cheshire	A	0
 IPAF	Crooklands	A	0
 IPG Photonics (UK) LTD	Coventry	A	0
 iPipeline Limited	Cheltenham	A	0,4
@@ -5621,7 +5621,7 @@ Premiercare (Midlands) Ltd	Coventry	A	0
 Premium Foods Stores LLP	Cambridge	A	0
 Premkumar Thurairajah T/A Hello Chicken HAPPY COD	Coventry	A	0
 Presbyterian Church of Wales	Cardiff	A	1,10
-Prestige Consultants Ltd	Croydon	A	0
+PRESCRIPTION2YOU HEALTHCARE LTD	Clacton-On-Sea	A	0
 Prestige International U.K. Limited	Croydon	A	0,4
 Pretoria Energy Company (Services) Ltd	Cambridge	A	0
 Prettygate Ltd t/a Ambrose Pharmacy	Colchester	A	0
@@ -5797,7 +5797,6 @@ Rainbow Bargain Ltd	Cardiff	A	0
 RAINBOW DIAGNOSTICS LTD	Chelmsford	A	0
 Rainbow Direct Care Ltd	Corby	A	0
 RAJ NEWS & OFF LICENSES	Chesterfield, Derbyshire	A	0
-Raj Pragash Sebamalai Sosai T/A Wayfield Local	Chatham	A	0
 Rajan Limited	Coventry	A	0
 RAJATHURAI SASIKUMAR T/A CHARLWOOD VILLAGE STORE	Charlwood Village	A	0
 RAJKEL LIMITED T/A GREENCHEM	Croydon	A	0
@@ -6521,7 +6520,6 @@ Smith Kerins Ltd	Colchester	A	0
 SMITH'S FACILITIES GROUP LTD	Coleraine	A	0
 SMJM Consulting Services Limited	Chelmsford	A	0
 SML EUROPE LTD	Corby	A	0,4
-Smoke Control Services Ltd T/A Group SCS	Cardiff	A	0
 Smokeworks Limited	Cambridge	A	0
 SMQA Limited	Coventry	A	0
 SMS Group Technical Services UK Limited	Chesterfield	A	0,4
@@ -6806,7 +6804,6 @@ Summit Medical Limited	Cheltenham	A	0
 SUMO FOOD LTD	Coventry	A	0
 Sumologic Limited	Chichester	A	0,4
 SumTotal Systems UK Limited	Camberley	A	0,4
-Sun Recycling Ltd	Corby	A	0
 SUNDAY APP LIMITED	Cheshire	A	0,4
 Sunfixings Ltd	Cheltenham	A	0
 Sunflowers Care Limited	Cambridgeshire	A	0
@@ -7073,7 +7070,6 @@ THE BUTTS ROAD FILLING STATION	Coventry	A	0
 The C3 Church	Cambridge	A	1
 The CAM Academy Trust	Cambourne	A	0
 The Cambridge Access Validating Agency	Cambridge	A	0
-The Cambridge Oven	Cambridge	A	0
 The Cambridge Satchel Company Limited	Cambridge	A	0,4
 The Canterbury Academy	Canterbury	A	0
 The Care Staff Consulting Limited	Cambridge	A	0
@@ -7790,6 +7786,7 @@ Waterstone Chambers LLP t/a Waterstone Legal	City of London	A	0
 WAVE PHOTONICS LTD	Cambridge	A	0
 WaveBreak Therapeutics Limited	Cambridge	A	0
 Waverley Medical Practice	Coatbridge	A	0
+WAYFIELD LOCAL LTD T/A WAYFIELD LOCAL	Chatham	A	0
 WBM DESIGN AND CONSTRUCTION LTD	Clacton-On-Sea	A	0
 WCMC	Cambridge	A	0
 WD Meats	Coleraine	A	0

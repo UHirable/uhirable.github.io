@@ -3042,6 +3042,7 @@ Aeropeople Limited	Stansted	A	0
 Aeroplas Uk Ltd	Great Bridge	A	0
 Aeros Limited	Coventry	A	0
 Aeroservices Ltd	Leeds	A	0
+AEROSILICON LTD	Chatham	A	0
 AEROSPACE ENGINEERING SOLUTIONS LTD	Braintree	A	0
 Aerospace Technology Institute	London	A	0
 aerospaceHV Ltd	Manchester	A	0
@@ -4133,7 +4134,6 @@ AKD Facilities Management Limited	Slough	A	0
 AKD PENSARN STORES LTD	Abergele	A	0
 AKDENIZ RESTAURANT TRADING LIMITED	London	A	0
 AKE TRADE CONSULTANCY LTD	London	A	0
-Akebar Park Leisure LTD	Leyburn	A	0
 Akela Future Living Ltd	Birmingham	A	0
 Akelius Residential Limited	London	A	0,4,7
 AKENA LTD T/A ESSO	Hertfordshire	A	0
@@ -5557,7 +5557,6 @@ Alphadyne Asset Management (UK) LLP	London	A	0,4
 AlphaGrep UK Limited	London	A	0,4
 ALPHAKEY GROUP LIMITED	Cardiff	A	0
 ALPHALAKE TECHNOLOGIES LTD	Northampton	A	0
-ALPHAN TECH SOLUTIONS LTD	Chatham	A	0
 ALPHANE CAPITAL LIMITED	London	A	0
 Alphanove Consultancy Ltd	London	A	0
 Alpharithm Technologies Limited	London	A	0,4
@@ -6506,7 +6505,7 @@ ANABIA TRANSPORTS LTD	Romford	A	0
 AnaCap Financial Partners Limited	London	A	0
 Anacapa Wavepower Ltd.	London	A	0,4
 Anaconda Equipment International	Dungannon	A	0
-Anaconda Services (UK) Limited	Richmond, London	A	0,4
+Anaconda Services (UK) Limited	Staines-Upon-Thames	A	0,4
 Anacott Steel Ltd	London	A	0
 Anacta Strategies UK Ltd	London	A	0,4
 Anaeko Limited	Belfast	A	0
@@ -6844,6 +6843,7 @@ ANGLEBOND LTD	London	A	0
 Anglepoint (UK) Limited	London	A	0
 Angles Solutions PVT Limited	Grays	A	0
 Anglesey Pet Clinic Limited	Holyhead	A	0
+Anglia Autoflow Limited	Diss	A	0
 Anglia Cathodic Protection Services Limited	Burwell	A	0
 Anglia Community Eye Service Ltd	Wisbech	A	0
 Anglia Enterprise (UK) Ltd.	Harrow	A	0
@@ -10525,6 +10525,7 @@ AUTOMANIA BIRMINGHAM LTD	West Bromwich	A	0
 AUTOMANIA MOT LTD	Manchester	A	0
 AUTOMASTER REPAIR CENTRE LTD	Oldham	A	0
 Automata Technologies Limited	London	A	0
+Automated Architecture Ltd	Bristol	A	0
 Automated Building & Energy Controls Ltd.	Tewkesbury	A	0
 Automated Business Systems Limited (ABS Ltd)	Wendover	A	0
 Automated Engineering Services (UK) Limited	London	A	2
@@ -12216,6 +12217,7 @@ Citizens Advice Plymouth	Plymouth	A	0
 Citizens Advice Richmond	Hampton	A	0
 City & County Care Services Ltd T/A Aspire UK	Leicester,	A	0
 CITY ACADEMY (ARTS) LIMITED	London	A	0
+CITY ACCOUNTANCY LTD	Croydon	A	0
 City Accounts UK Limited	London	A	0
 City Acquisitions Ltd	London	A	0
 City Athletic Limited	London	A	0
@@ -12836,7 +12838,6 @@ Dream AI Ltd t/a Dream Agility	Rossendale	A	0
 Dream Apartments Belfast Ltd	Belfast	A	0
 Dream Art Decor Limited	Wales	A	0
 DREAM ASSET LIMITED	London	A	0
-Dream Works Agency Ltd	Uxbridge	A	0
 Dreamland Floors Ashton Ltd	Ashton-Under-Lyne	A	0
 DREAMZ DESSERTS (AYL) LIMITED	Aylesbury	A	0
 Dress Up Accessories Ltd	London	A	0
@@ -13316,7 +13317,7 @@ FEARLESS YOUTH ASSOCIATION LTD	Nottingham	A	0
 Featherstone Newsagent Ltd Trading As Byram Park Stores	Byram	A	0
 FEEL GOOD AUTOS LIMITED t/a Feel Good Autos	Newcastle upon Tyne	A	0
 Feilden Fowles Architects Limited	London	A	0
-Fenchurch Advisory Partners LLP	London	A	0
+Fenchurch Advisory Partners LLP	London	A	0,4
 FERNANDO & SONS PROPERTY LIMITED T/A AGS PARK LANE CONVENIENCE STORE	Sunderland	A	0
 Ferrari N.V. UK Branch trading as Ferrari North Europe	Slough	A	0,4
 FG AUTO SOLUTIONS LTD	Birmingham	A	0
@@ -13599,7 +13600,6 @@ GC ACCOUNTANCY MANAGEMENT SERVICES LTD	Great Warley	A	0
 GCH (ASCOT) LIMITED	Uxbridge	A	0
 GCP Applied Technologies (UK) Limited	Slough	A	0,4
 GCS Compliance Services Europe Unlimited Company trading as NAVEX Global	Hammersmith	A	0,4
-GD Auto Services	Kelso	A	0
 GE Aviation Systems Limited	Cheltenham	A	0,4,7
 Geely Auto UK Limited	Milton Keynes	A	0,4
 GELATO A CASA UK LTD	London	A	0
@@ -13703,7 +13703,7 @@ GLOBAL BUSINESS ASSOCIATES LTD	Ilford	A	0
 Global Cement and Concrete Association	London	A	0
 Global Food (Ashton) Ltd	Tameside	A	0
 Global Infrastructure Advisors Limited	London	A	0
-Global Legal Action Network	London	A	0
+Global Legal Action Network (GLAN)	London	A	0
 Global Loan Agency Services	London	A	0,4
 Global Market Hair, Cosmetics, African &Caribbean Food Limited	Nottingham	A	0
 Global Prophetic Alliance	Glasgow	A	1,10
@@ -18818,6 +18818,7 @@ The Chowdury Accountants Ltd	Oldham	A	0
 The Church of the Lord (Aladura) Worldwide	London	A	1,10
 The Co-operative Academies Trust	Manchester	A	0
 The Coalition for a Digital Economy (Coadec) Ltd t/a The Startup Coalition	London	A	0
+The Collective Agency London Limited	Folkestone	A	0
 The College of West Anglia	King's Lynn	A	0
 The Competition and Markets Authority	London	A	0,5
 The Complete Works Alternative Education	Aldgate East	A	0

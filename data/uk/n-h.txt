@@ -1564,7 +1564,7 @@ Black Pearl Homes Limited	London	A	0
 Blackberry Hill Limited	London	A	0
 Blackbrook house care Ltd	Fareham	A	0
 BLACKBURN HOME CARE SERVICES LIMITED	Darwen	A	0
-Blackdice Healthcare Limited	Devon	A	0
+Blackdice Healthcare Limited	Devon	B	0
 Blackfaulds Nursing Home Limited	Falkirk	A	0
 Blackfriars Hotels Limited	London	A	0
 Blackheath High School GDST	London	A	0,3
@@ -1791,6 +1791,7 @@ Bright Horizons Family Solutions	Northampton	A	0,4
 BRIGHT STAR BUSINESS HOUSE LIMITED	London	A	0
 BRIGHT TINEY HOME NURSERY LTD	Barking	A	0
 Brightblessing Healthcare Ltd	Milton Keynes	A	0
+Brighter Beginnings (HW) Ltd	London	A	0
 Brighter Day Care at Home Ltd	Salisbury	A	0
 Brighter Days Care at Home Ltd	Durrington	A	0
 Brighter Hope Fishing (Shetland) Ltd	Lerwick	A	0
@@ -3203,7 +3204,6 @@ DJ'S Health Mantra Limited	Ilford	A	0
 DJP Healthcare Limited	London	A	0
 DK Hospitality Limited	Halifax	A	0
 DKH Holding Ltd	London	A	0
-DLS Social & Healthcare Ltd	Wellington	A	0
 DM Hall LLP	Edinburgh	A	0
 DMC Healthcare	Peckham	A	0
 DMP Healthcare (Cherry Orchard) Ltd	Harrow	A	0
@@ -3667,6 +3667,7 @@ ENGTAN HOLDINGS LTD	Manchester	A	0
 Enhance Healthcare Holdings Ltd	Hamilton	A	0
 Eni CCUS Holding Limited	London	A	0,4
 Eni Energy Group Holdings Limited	London	A	0
+Enliva Homecare Taunton	Taunton	A	0
 Ennismore Hotel Management UK Limited	London	A	0
 Ennogen Healthcare International Limited	Dartford	A	0
 ENNOGEN HEALTHCARE LTD	Dartford	A	0
@@ -4966,7 +4967,7 @@ Hadron International Ltd	London	A	0
 HADSON RETAIL LIMITED T/A UKEUMANUFACTURING	Perivale	A	0
 HADSUP LIMITED	Slough	A	0
 Hadwen Health (also known as Hadwen Medical Practice)	Gloucester	A	0
-HADY BUILDERS LTD	Nottingham	A	0
+HADY BUILDERS LTD	Derby	A	0
 Haeco Global Engine Support	London, Heathrow	A	0
 Haefele Software Limited	London	A	0
 Haefele Software Ltd	London	A	0
@@ -7707,7 +7708,6 @@ Hilldales Residential Care Home Ltd	Ilfracombe	A	0
 Hillfields Church Coventry	Coventry	A	9
 HILLFIELDS SUPERMARKET LTD	Coventry	A	0
 Hillfileds Dental Surgery	Coventry	A	0
-Hillfoot Steel Ltd	Sheffield	A	0
 HILLGAY LTD	Burges Hill	A	0
 Hillingdon Borough Central Mosque & Community Services	Hayes	A	9
 Hillingdon Health Centre	Uxbridge	A	0
@@ -7910,7 +7910,6 @@ Hirsch Secure UK Limited	Coventry	A	0
 Hirsh Limited	London	A	0
 Hirst Conservation Limited	Sleaford	A	0
 Hirt and Carter London Limited	London	A	0
-Hirtenberger Defence International Ltd	Hampshire	A	0
 HIS - MIKI TRAVEL UK LIMITED	London	A	0,4
 His Church Charity	York	A	9,10
 His Church London	London	A	1
@@ -8501,6 +8500,7 @@ Homebeech Limited	Chandlers Ford	A	0
 Homebox	Crawley	A	0
 Homeboy Pizza Co LTD	Leeds	A	0
 Homebridge Care Group Ltd	Barking	A	0
+Homebridge Care Group Ltd	Southend-on-sea	B	0
 HOMEBUDS LIMITED	Essex	A	0
 Homecare (London) Ltd	London	A	0
 Homecare diy lee ltd	London	A	0
@@ -9571,6 +9571,7 @@ Hurstpierpoint College Ltd	Hassocks	A	0,9
 Hurtigruten UK Limited	London	A	0,4
 Husain Bulman and Co- Chartered Accountants	London	A	0
 Husaini Islamic Centre	Peterborough	A	1,10
+Huschem Ltd t/a Medicare Pharmacy	Harlow	A	0
 Husco International Partners LLP	Runcorn	A	0,4
 HUSEYIN SENER T/A DRY CENTRE	London	A	0
 HUSH CLEAN LIMITED	Southampton	A	0
@@ -11097,7 +11098,6 @@ MAJESTIC CARE HOME LIMITED	Handsworth	A	0
 MAJOR ESTATES (HARROW) LIMITED	Harrow	A	0
 Majorlift Hydraulic Equipment Ltd	Wotton Under Edge	A	0
 MAK FOODS (HW) LIMITED	High Wycombe	A	0
-Mak Halal Bradford Limited	Bradford	A	0
 Mak Halal Walsall Ltd	Walsall	A	0
 Make Honey Ltd	London	A	0
 Makeney Hall Hotel Ltd T/A Makeney Hall Hotel	Belper	A	0
@@ -11753,7 +11753,7 @@ MT HIGH TECH LTD	Warrington	A	0
 MTN Home & Gifts Ltd	Dunfermline	A	0
 MTS Healthcare	Basildon	A	0
 MUBARIK HALAL MEAT LTD	Morden	A	0
-Mueller International Holdings Limited	Southampton	A	0,4
+Mueller International Holdings Limited	Southampton	A	4
 Muffin break harrow ltd	Harrow	A	0
 Muhammad Asif T/A Bismillah Roti House	Halifax	A	0
 Muhammad Husham Saleem T/a Caprinos Pizza	Stoke on Trent	A	0
@@ -12890,6 +12890,7 @@ PREMIUM LINE HEALTHCARE SOLUTIONS LIMITED	Leatherhead	A	0
 Premkumar Thurairajah T/A Hello Chicken HAPPY COD	Coventry	A	0
 Premson Limited T/A Hemants Chemists	South Ockendon	A	0
 PRESCIENT HEALTHCARE GROUP (UK) LTD	London	A	0
+PRESCRIPTION2YOU HEALTHCARE LTD	Clacton-On-Sea	A	0
 PRESTBURY INVESTMENT HOLDINGS LIMITED	London	A	0
 PRESTIGE CAR HIRE MANAGEMENT LTD	Barking	A	0
 PRESTIGE HAIR LTD	London	A	0
@@ -14459,7 +14460,6 @@ Springfield Manor UK Limited T/A Springfield Manor Nursing Home	Guildford	A	0
 Springhead Health Ltd	Northfleet	A	0
 SPRINGLAWN HOUSE LTD	Omagh	A	0
 Springout House Ltd	Dagenham	A	0
-SPRINGWOOD HEALTHCARE SERVICES LTD	Edgware	A	0
 Springwood residential home ltd	Belper	A	0
 SPRINKLED WITH HOPE LTD	Bolton	A	0
 Square Guys H Ltd	London	A	0
@@ -14991,7 +14991,6 @@ TASTY BITES (HULL) LIMITED	Hull	A	0
 TASTY BREAD HOUSE LTD	Croydon	A	0
 Tattoo Heroes Limited	London	A	0
 Taunton Association for the Homeless	Taunton	A	0
-Taunton Homecare Services	Taunton	A	0
 Taunton Vale Healthcare	Taunton	A	0
 Taurus Healthcare Limited	Hereford	A	0
 TAVERHAM DENTAL HEALTH CLINIC LTD	Norwich	A	0
@@ -15064,7 +15063,6 @@ Thai Haven Ltd	London	A	0
 Thai Home Surrey Ltd	Godalming	A	0
 Thames & Hudson Ltd	London	A	0,4
 THAMES HIGHTECH LTD	London	A	0
-Thames Homecare Service LTD	London	A	0
 Thames Homecare Services (North) Limited	Sheffield	A	0
 Thanet Health Community Interest Company	Broadstairs	A	0
 THANH QUANG LTD trading as Vietnam House Restaurant	Edinburgh	A	0

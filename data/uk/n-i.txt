@@ -2363,7 +2363,7 @@ FST (Scotland) Ltd t/a Swagelok Scotland Teesside & Ireland	Aberdeenshire	A	0
 FTG DEVELOPMENT AND INVESTMENT LTD	London	A	0
 FTV Management International, Ltd	London	A	0,4
 FTV Proclad International Ltd	Glenrothes	A	0
-Fuji Industries UK Ltd	London	A	4
+Fuji Industries UK Ltd	London	A	0,4
 FUJIFILM Speciality Ink Systems Limited	Broadstairs	A	0,4
 FUJISANKEI COMMUNICATIONS INTERNATIONAL,INC.	London	A	0,4
 Fukoku Life International (UK) Limited	London	A	4
@@ -2785,7 +2785,6 @@ Himalayan Sushi Bar Ltd T/A Iro Sushi Clapham	London	A	0
 Hines Europe Real Estate Investments Limited	London	A	0,4
 Hippos Studio Image LTD	Leeds	A	0
 HIRIX INTENATIONAL LTD	Leicester	A	0
-Hirtenberger Defence International Ltd	Hampshire	A	0
 Hiseas International (British) Limited	London	A	0
 Hitachi Information Control Systems Europe Ltd.	Bradford on Avon	A	0,4
 Hitec Instruments Ltd	Liverpool	A	0
@@ -2951,6 +2950,7 @@ I&L Biosystems UK LTD	Woking	A	0
 I&R Enterprises Limited	Derbyshire	A	0
 I&S Construction Limited	Dartford	A	0
 I&S GLOBAL LTD	Birmingham	A	0
+I&S Services Ltd	London	A	0
 I&S TRANSPORT LTD	Stockport	A	0
 I&T SERVICES LIMITED	London	A	0
 I&Y STYLE LIMITED	Hull	A	0
@@ -3057,7 +3057,7 @@ IBBI FOODS LTD t/a Pepe's Piri Piri	Cardiff	A	0
 Ibbu Kart Ltd	Newcastle Upon Tyne	A	0
 IBBY BUILDERS LTD	Oldham	A	0
 IBBY Restaurant Ltd	Glasgow	A	0
-IBC QUALITY SOLUTIONS LIMITED	Leicester	A	0
+IBC QUALITY SOLUTIONS LIMITED	London	A	0
 IBC TV Ltd.	Hmamersmith	A	4
 IBC Vehicles Limited	Luton	A	0,4
 IBCOS COMPUTERS LTD	Poole	A	0
@@ -5809,7 +5809,6 @@ IP Group plc	London	A	0
 IP Integration Limited	Reading	A	0
 IP Solicitors	Ilford	A	0
 IP-PERFORMANCE LTD	Bristol	A	0
-Ipackchem Limited	Cheshire	A	0
 IPAF	Crooklands	A	0
 Ipandi UK Limited	London	A	0
 iPayLinks UK LLP	London	A	0
@@ -7517,7 +7516,7 @@ MTD UK & Ireland Ltd	Swindon	A	0
 MTJ International Limited	London	A	0
 MTS Investment LTD	Gwent	A	0
 MUDUK INVESTMENT LIMITED	London	A	0
-Mueller International Holdings Limited	Southampton	A	0,4
+Mueller International Holdings Limited	Southampton	A	4
 Mughal In West Limited	Hendon	A	0
 Muhammad Ilyas: Trading as Everfresh Butchers	Milton Keynes	A	0
 MUHAMMADI TRUST OF GREAT BRITAIN AND NORTHERN IRELAND	London	A	0
@@ -7879,7 +7878,6 @@ Orbis Investments (U.K.) Limited	London	A	0,4
 Orbit iTech Ltd	Birmingham	A	0
 Orcan Intelligence Ltd	London	A	0
 ORCHESTRATING IDENTITY LIMITED	Croydon	A	0
-Ori Industries 1 Ltd	London	A	0
 ORIFLAME INVESTMENT HOLDING PLC	London	A	0,4
 Origin Education UK International Cultural Exchange Ltd	London	A	0
 Origin Import and Export Limited	Bradford	A	0
@@ -8145,6 +8143,7 @@ Potente International LLP	Ongar	P	2
 Potter Clarkson IP Ltd.	Nottingham	A	0
 Potters Independent Living Ltd	Alford	A	0
 Poulton Pop In Ltd T/A Poulton Pop In	Wallasey	A	0
+POWAKADDY INTERNATIONAL LTD	Sittingbourne	A	0
 Power and Energy International	Newbury	A	0,4
 POWER INSIGHT LTD	Brentwood	A	0
 Power Integrations UK Limited	Cambridge	A	0,4
@@ -8327,6 +8326,7 @@ Radcliffe Care Services Limited T/A Home Instead Nottingham	Nottingham	A	0
 Radfield Home Care - Camden, Islington & Haringey	London	A	0
 Radhe Foods LTD T/A Barsana Indian restaurant	Birmingham	A	0
 Radhuni 2 Ltd T/A Agra Indian Cuisine	Belfast	A	0
+Radiant Infrastructure 1 Ltd	London	A	0
 Radwell International UK Ltd	Newcastle Under Lyme	A	0,4
 Rafael International Limited	Winnersh	A	0
 RAFAH INTERNATIONAL	Batley	A	9
@@ -8581,6 +8581,7 @@ S & M International (UK) Limited	Bradford	A	0
 S & S INNOVATIVE LTD T/A Payslip Accountants	Swindon	A	0
 S & S INVESTMENTS (BOLTON) LTD	Bolton	A	0
 S A R I Consulting Limited	London	A	0
+S BROTHERS INVESTMENTS LTD	London	A	0
 S D INT LTD	Bradford	A	0
 S H & M J Investment Limited	Cardiff	A	0
 S I Foods (Leicester) Limited	Leicester	A	0
@@ -9699,6 +9700,7 @@ Thinks Insight and Strategy (Britain Thinks) Limited	London	A	0
 Thinks Insight and Strategy (Britain Thinks) Limited	Looe	A	0
 Third Wave Identity	London	A	0
 This is Beyond Limited	Shepherds Bush, London	A	0
+This is Embrace Limited	London	A	0
 This Is Language Ltd	Oxford	A	0
 This Is Molo Limited	London	A	0
 THIS IS SYNTHESIS UK LTD	London	A	0
@@ -10232,6 +10234,7 @@ Women for Women International UK	London	A	0
 Women in Data Limited	Berrington Way	A	0
 Women in Film and TV (UK)	London	A	0
 Women in Tech SEO Ltd	London	A	0
+Woocheen International Limited	London	A	0
 Woodhall Capital International	London	A	0,4
 Woodhouse Grove School part of Methodist Independent Schools Trust	Bradford	A	0
 Woodland Initiative	Fitling	A	0

@@ -289,6 +289,7 @@ Brasserie 21 Ltd T/A Cafe Vie The Bistro	Ossett	A	0
 Breeding Vision	Dunstable	A	0
 Brentwood Vineyard Church	Brentwood	A	1
 Bridge Valley Limited t/a Bridge Coffee Roasters	Cardiff	A	0
+BRIDGEWATER VENTURES LIMITED	Manchester	A	0
 Brighton London Road Vision Plus Limited TA Brighton London Road Specsavers Limited	Brighton	A	0
 Brighton Visionplus Limited TA Specsavers Brighton Limited	Brighton	A	0
 BRILLIANT TRADERS LTD T/A BRILLIANT VISA SERVICES	Hounslow	A	0
@@ -2669,6 +2670,7 @@ VARITRONIX (U.K.) LIMITED	Bracknell	A	0
 Varkan Foods Ltd T/A Brewery Field Street Food Restaurant	Bridgend	A	0
 Varley Clothing Limited	London	A	0
 Varni Imports Limited	London	A	0
+VARNI LTD	Bradford	A	0
 Varnish Software Limited	Stratford Upon Avon	A	0
 Varo Consulting Ltd	Poole	A	0
 Varo Partners Limited	London	A	0
@@ -2788,7 +2790,7 @@ VDP MANAGEMENT LIMITED	Brackley	A	0
 VDX LTD	London	A	0
 VE BUILD LIMITED	Kenton	A	0
 VE3 Global Ltd	London	A	0,4
-Vea Telecoms UK Limited	Bracknell	A	0,4
+Vea Group Limited	Bracknell	A	0,4
 Veba Waterloo Ltd. T/As Black Sheep Coffee	London	A	0
 Vebra Solutions Limited	London	A	0
 VEBS Consultant Ltd	Camberley	A	0

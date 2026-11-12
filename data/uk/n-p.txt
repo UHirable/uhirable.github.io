@@ -455,7 +455,6 @@ AKA PHARMA	Stoke on Trent	A	0
 AKA Promotions Limited	London	A	0
 AKAL SAHAI PROPERTIES LTD	Birmingham	A	0
 AKD PENSARN STORES LTD	Abergele	A	0
-Akebar Park Leisure LTD	Leyburn	A	0
 AKH Property Maintenance Ltd	Lincoln	A	0
 Akira Partners LLP	London	A	0
 AKM Trading Ltd T/A Gosport Community Pharmacy	Gosport	A	0
@@ -2490,7 +2489,7 @@ Columbia Pictures Corporation Limited	London	A	0,4
 Colville Primary School	London	A	0
 Combe Coastal Practice	Ilfracombe	A	0
 COMBI CONSTRUCTION & PROPERTIES LTD	Birmingham	A	0
-COMELIT PAC LIMITED	Luton	A	0
+COMELIT PAC LIMITED	Luton	A	0,4
 COMFY HOME PROPERTIES LTD	Leicester	A	0
 Comline Auto Parts Limited	Bedford	A	0
 Commerce Pulse Ltd.	Milton Keynes	A	0
@@ -3414,7 +3413,6 @@ EDGE PLUS UK LIMITED-15165171	London	A	2
 Edge Property Ltd	Southall	A	0
 Edggbasston Investments Ltd t/a Prince of Wales Nursing Home	Birmingham	A	0
 Edina Power Ltd	Lisburn	A	0
-EDINBURGH MEDICAL RESOURCES UK LTD T/A POLWARTH PHARMACY	Edinburgh	A	0
 EDINBURGH PHONE & VAPE LTD	Edinburgh	A	0
 Edinburgh Primary School	London	A	0
 Edinburgh Printmakers Ltd	Edinburgh	A	0
@@ -3868,7 +3866,7 @@ Felix Consultants Private Limited	Solihull	A	0,6
 Felixstowe road medical practice	Ipswich	A	0
 Fen House Dental Practice	Gosberton	A	0
 FEN HOUSE DENTAL PRACTICE	Spalding	A	0
-Fenchurch Advisory Partners LLP	London	A	0
+Fenchurch Advisory Partners LLP	London	A	0,4
 Fenland Group Practice	Doddington	A	0
 Fenland PCN Ltd	Cambs	A	0
 Fenmarc Produce Ltd	Wisbech	A	0
@@ -4526,6 +4524,7 @@ Greggs Wood Pharmacy	Tunbridge Wells	A	0
 Gregory Park Holding Ltd Trading as Four Seasons Hotel Hampshire	Dogmersfield	A	0,4
 Gregory Pennington Limited	Stretford	A	0
 Gregory, Priestley and Stewart	Sutton-in-Ashfield	A	0
+Greif UK Plastics Limited	Cheshire	A	0
 Greiner Packaging Limited	Dungannon	A	0
 GRETNA DENTAL PRACTICE	Gretna Green	A	0
 Grey Epoch Portfolio Management Limited	London	A	0
@@ -5078,6 +5077,7 @@ Hunton Park Hospitality Ltd	Watford	A	0
 Hurley Clinic Partnership known as The Hurley Group	London	A	0
 Hurlingham Polo Association	Kidlington	A	11
 Hurst, Peirce + Malcolm LLP	33 Johns Mews	A	0
+Huschem Ltd t/a Medicare Pharmacy	Harlow	A	0
 Husco International Partners LLP	Runcorn	A	0,4
 Hush Project Management & Consulting Limited	London	A	0
 Husky Petroleum Ltd	West Lothian	A	0
@@ -8008,6 +8008,7 @@ Organise Platform HQ Ltd	London	A	0
 Organon Pharma (UK) Limited	Cramlington	A	0,4
 Orient Property Services Ltd	Essex	A	0
 ORIENTAL PRINTING LIMITED	Tibury	A	0
+ORIGIN PEPTIDES LIMITED	Linlithgow	A	0
 Origin Primary Limited	London	A	0
 Original Additions (Beauty Products) Limited	Middlesex	A	0
 Orion Pharma (UK) Ltd	Reading	A	0
@@ -9982,7 +9983,6 @@ Pepler Lee Group	Burgess Hill	A	0
 Pepper & Crust Ltd	Batley	A	0
 Pepper (UK) Limited	London	A	0,4
 Pepper Corporation Marketing Services Ltd	London	A	0
-PEPPER ENTERPRISES LTD T/A MERINGTON STORE	Southampton	A	0
 Pepper Money (PMB) Limited	Cardiff	A	0,4
 Pepper Rocks Limited	Nottingham	A	0
 Pepperdine University	London	A	4
@@ -12345,6 +12345,7 @@ Pova Care Ltd	Bradford	A	0
 POVITEC LIMITED	London	A	0
 Povoas Packaging Limited	Desborough	A	0
 POW Food Limited	London	A	0
+POWAKADDY INTERNATIONAL LTD	Sittingbourne	A	0
 Powder White Lite Ltd	London	A	0
 Powdertech Bicester Ltd.	Long Crendon	A	0
 Powell (UK) Ltd	Bradford	A	0,4
@@ -12880,6 +12881,7 @@ Presbyterian Church of Wales	Cardiff	A	1,10
 PRESCIENT HEALTHCARE GROUP (UK) LTD	London	A	0
 PRESCRIBING LIFESTYLE LTD	London	A	0
 Prescription Point Ltd	Leeds	A	0
+PRESCRIPTION2YOU HEALTHCARE LTD	Clacton-On-Sea	A	0
 Prescriptions4U Ltd	Nottingham	A	0
 Presdales School Academy Trust	Ware	A	0
 Present Model Management Ltd	Romford	A	3
@@ -12913,7 +12915,6 @@ Prestige Construction Group Limited	London	A	0
 Prestige Constructions International Ltd	London	A	0,2
 Prestige Constructions London Ltd.	Romford	A	0
 Prestige Constructions Ltd	Luton	A	0
-Prestige Consultants Ltd	Croydon	A	0
 Prestige Food And Wine Ltd	Hounslow	A	0
 Prestige Gifting	Halifax	A	0
 PRESTIGE HAIR LTD	London	A	0
@@ -13743,6 +13744,7 @@ PROJECTS DG LTD	Wolverhampton	A	0
 Projects Expert UK Limited	Watford	A	0
 Projectus Consulting	London	A	0
 Projekt 42	Edinburgh	A	9
+ProjektRide	Edinburgh	A	0
 Projex Cellular Infrastructure UK Limited	Bristol	A	0
 Projex Support Ltd	Chelmsford	A	0
 PROJUKTI TEAM LIMITED	London	A	0
@@ -14761,7 +14763,6 @@ Raj Jagadish T/A Phoenix Orthodontics	Gloucester	A	0
 RAJ PANJAB RECORDS LTD	Hayes, London	A	0
 RAJ PAVILION CATERING LIMITED T/A RAJ PAVILION	Kent	A	0
 RAJ PAVILLIONS (BRISTOL) LIMITED	Bristol	A	0
-Raj Pragash Sebamalai Sosai T/A Wayfield Local	Chatham	A	0
 Raja Akram Property Solutions Limited	Manchester	A	0
 RAJA BARBER LTD T/A PRINCE CUT BARBER HAIR SALON	Glasgow	A	0
 Raja Mudassar Food Limited T/A Caprinos Pizza Withington	Manchester	A	0
@@ -15514,7 +15515,6 @@ SCOTT HOBBS PLANNING LTD	Edinburgh	A	0
 Scottish Environment Protection Agency	Holytown	A	0
 Scottish Equity Partners LLP	Glasgow	A	0
 Scottish National Party Westminster Group	London	A	0
-Scottish Widows Schroder Personal Wealth Limited	Leeds	A	0
 SCP Partners UK Limited	London	A	0
 Scruffy Dog Productions	Birmingham	A	0
 Scuderia Car Parts Ltd	Egham	A	0
@@ -17390,6 +17390,7 @@ ThetaRay Private Limited	London	A	0,4
 Theydon Bois Pharmacy Ltd	Epping	A	0
 Theydon Property Services Limited	London	A	0
 Think Design Produce Ltd	London	A	0
+Think Print (UK) Ltd	Northwich	A	0
 Think Publishing	London	A	0
 THIRD EYE PROTECTION LTD	London	A	0
 Third Revolution Projects Ltd	London	A	0
@@ -18314,7 +18315,6 @@ WM PROPERTIES MANCHESTER LTD	Sale	A	0
 WOKING LOCAL PVT LTD	Woking	A	0
 WOLF POWER SERVICES LIMITED	London	A	0
 Women's Pioneer Housing	London	A	0
-Women's Professional Leagues Limited	London	A	0
 Wonderland Productions (NI) Limited	Belfast	A	3
 Wood Thilsted Partners Ltd	London	A	0
 Woodberry Down Dental Practice	London	A	0

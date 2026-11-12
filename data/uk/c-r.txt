@@ -220,7 +220,6 @@ AMQ Healthcare	Rugeley	A	0
 AMS CONTRACTORS LTD	Romford	A	0
 Anaaya Ltd T/A Go Local Extra	Rainworth	A	0
 ANABIA TRANSPORTS LTD	Romford	A	0
-Anaconda Services (UK) Limited	Richmond, London	A	0,4
 Analyttica Datalab Private Limited	Reading	A	0
 ANANYA RETAIL LTD	Ripon	A	0
 Anekaa Limited	Romford	A	0
@@ -2125,7 +2124,7 @@ MY PREMIER STORE LIMITED T/A PREMIER EXPRESS	Rotherham	A	0
 Mycoplasma Experience LTD	Redhill	A	0
 Myrtle Learning Ltd	Rochester	A	0
 Mystic Lounge Tattoo Ltd	Reading,	A	0
-MyUtilityGenius Ltd	Rainham	A	0
+MYUTILITYGENIUS LTD	Rainham	A	0
 MZ JOINERY AND WOODWORKS LTD	Ruislip	A	0
 N & Y SECURITY SUPPLIES LTD	Romford	A	0
 N ANDERSON LIMITED	Rugby	A	0
@@ -2563,7 +2562,6 @@ Ramsgate Specsavers Limited	Ramsgate	A	0
 RANAIN LOGISTICS LTD	Rochdale	A	0
 Rand Brothers	Royston	A	0
 Rani's Restaurant Ltd	Ramsgate	A	0
-RANJHCO MANAGEMENT CONSULTANCY LTD	Rochdale	A	0
 RansiTech Solutions Ltd	Reading	A	0
 RAPID7 INTERNATIONAL LIMITED	Reading	A	0,4
 RATATYPE LTD	Ramsgate	A	0
@@ -3580,7 +3578,6 @@ WHITE BEAR RICKMANSWORTH LTD	Rickmansworth	A	0
 White Hart Associates (London) Limited	Richmond	A	0
 White's Foodservice Equipment Ltd	Redditch	A	0
 Whitehaven Care Home	Radstock	A	0
-Whiteheath Junior School	Ruislip	A	0
 Whittington's Guest House	Rochdale	A	0
 Whizztechi	Reading	A	0
 WHMM LTD	Reading	A	0

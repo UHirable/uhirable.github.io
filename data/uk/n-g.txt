@@ -49,6 +49,7 @@
 4 Seasons Grocery Ltd	Cardiff	A	0
 408 Media Group Ltd	Sandbach	A	0
 4986 MILES LTD T/A GOAT	Upminster	A	0
+4C Research Group Limited	Bloxham, Banbury	A	0
 4S GLOBAL LIMITED	Coventry	A	0
 5 Star Glazing Ltd	Uxbridge	A	0
 505 Games Limited	Milton Keynes	A	0
@@ -781,7 +782,6 @@ B & G LIQUOR STORES LTD	Oldbury	A	0
 B G B LTD	Coventry	A	0
 B OWNER GROUP LTD	Manchester	A	0
 B&G Double Glazing Ltd	Dagenham	A	0
-B&G Double Glazing Ltd	London	A	0
 B&O Restaurants Group Limited	London	A	0
 B&S Group Limited	Chester	A	0
 B&S PHARMA LTD T/A ARDLEIGH GREEN PHARMACY	Hornchurch	A	0
@@ -3594,7 +3594,6 @@ GCS Private Limited	Newcastle Upon Tyne	A	0
 GCTEA Limited	Manchester	A	0
 GCU (UK) Limited	Derry	A	0
 GCW Global Customised Wealth LLP	London	A	0
-GD Auto Services	Kelso	A	0
 GD FASHION LIMITED	Heywood	A	0
 GD SMARTWAY LIMITED	Cambridge	A	0
 GD TRAVEL LTD	Stockport	A	0
@@ -3900,6 +3899,7 @@ Geo Specialty Chemicals UK Ltd	Southampton	A	0
 Geo2 Remediation Limited	Bradford	A	0
 GeoAcoustics Ltd	Great Yarmouth	A	0
 Geoactive Limited	Kingswells	A	0
+Geobear Ltd	Wolverhampton	A	0
 Geobear Residential Ltd	Skelmersdale	A	0
 Geocento Limited	Andover	A	0
 Geodis Contract Logistics UK Ltd	Cressex Business Park	A	0
@@ -4874,7 +4874,7 @@ Global Investors Group Limited	Woodford Green	A	0
 Global Java Bean Ltd T/A Esquires Coffee	Northampton	A	0
 GLOBAL KIDNEY FOUNDATION	Birmingham	A	0,9
 Global Learning Europe Ltd	London	A	0,4
-Global Legal Action Network	London	A	0
+Global Legal Action Network (GLAN)	London	A	0
 Global Legal Consultants	London	A	0
 Global Legal Group	London	A	0
 Global Legal Solutions Ltd t/as GLS Solicitors	Brentford	A	0
@@ -6241,7 +6241,6 @@ Grapedata Limited	London	A	0
 Grapelli Limited	Cobham	A	0
 Grapes Bar Ltd	Bristol	A	0
 Grapeseed Media Ltd	London	A	0
-Grapevine (Coventry and Warwickshire) Limited	Coventry	A	0
 GRAPH Strategy UK LLP	London	A	0
 Graphcore Limited	Bristol	A	0,4
 Graphene Innovations Manchester Ltd	Manchester	A	0
@@ -6486,6 +6485,7 @@ GREEN CLOVE LTD T/A KOHE-NOOR/IANNARELLI'S	Forfar	A	0
 Green Code Architects Ltd	London	A	0
 GREEN CODE TECHNOLOGIES LIMITED	England	A	2
 GREEN COLLAR RESOURCES LTD	Birmingham	A	0
+Green Colo Ltd	Portchester, Fareham	A	0
 GREEN COMPARED LTD	Romford	A	0
 Green Corridor	London	A	0
 Green County Ltd	Ilford	A	0
@@ -6805,6 +6805,7 @@ Gregory Park Holding Ltd Trading as Four Seasons Hotel Hampshire	Dogmersfield	A	
 Gregory Pennington Limited	Stretford	A	0
 Gregory, Priestley and Stewart	Sutton-in-Ashfield	A	0
 Greif UK Ltd.	Ellesmere Port	A	0
+Greif UK Plastics Limited	Cheshire	A	0
 Greig + Stephenson Limited	London	A	0
 GREINER BIO-ONE LIMITED	Stonehouse	A	0
 Greiner Packaging Limited	Dungannon	A	0
@@ -7884,6 +7885,7 @@ Home Group Ltd	Newcastle Upon Tyne	A	0
 Home Grown Club	London	A	0
 Home Grown Hotels Ltd	Lyndhurst	A	0
 Homebridge Care Group Ltd	Barking	A	0
+Homebridge Care Group Ltd	Southend-on-sea	B	0
 Homecroft(Wyndley grange)Limited	Sutton Coldfield	A	0
 HOMENEED GOLDERS GREEN UK LTD	London	A	0
 HOMES CARE GROUP LTD	Leicester	A	0
@@ -11039,7 +11041,6 @@ SDA Global Ltd	Nottingham	A	0
 SDC Group Limited	Glasgow	A	0
 SDDE Smith Group Limited	Saltburn-by-the-Sea	A	0
 SDG GROUP UK&I LTD	London	A	0
-SDG Group UK&I Ltd	Milton Keynes	A	0,4
 SDK Group Limited	Edinburgh	A	0
 SDL Group Ltd	Burnley	A	0
 SDR Glass Limited	West Drayton	A	0
@@ -11311,7 +11312,6 @@ Smith,Gambrell & Russell International LLP	London	A	0,4
 Smiths (Gloucester) Ltd	Stonehouse	A	11
 Smiths Detection Group Limited	London	A	0,4
 SMM Global UK Ltd	London	A	0
-Smoke Control Services Ltd T/A Group SCS	Cardiff	A	0
 SMOKIN GRILL STOP LIMITED T/A SMOKIN GRILL STOP	London	A	0
 SMOKING GRILL (YORKSHIRE) LTD	Shipley	A	0
 SMRT Global Ltd	London	A	0
@@ -12920,6 +12920,7 @@ Vaspa Ltd T/a Vaspa Double Glazing	Park Royal	A	0
 VATAX (G.B) LTD	Oldham	A	0
 Vayusun Global Ltd	Birmingham	A	0
 VE3 Global Ltd	London	A	0,4
+Vea Group Limited	Bracknell	A	0,4
 VECTOR COMPANIES GROUP LIMITED	Manchester	A	0
 Vector GB Limited	Birmingham	A	0
 VECTURA GROUP PLC	Chippenham	A	0,4
@@ -13083,6 +13084,7 @@ WebN Group (UK) Limited	London	A	0,4
 Webster Griffin Ltd	Crowborough	A	0
 Wednesbury Service Station (Gajjar) Limited	Wednesbury	A	0
 Wee Bee Grocers Spar Ltd	Burnley	A	0
+WEG Limited t/a West End Garage	Woking	A	0
 Weight to Go Ltd	Birmingham	A	0
 Weil, Gotshal & Manges (London) LLP	London	A	0,4
 WEINGART GLOBAL LIMITED	London	A	0

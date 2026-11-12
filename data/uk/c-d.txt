@@ -170,6 +170,7 @@ Anchor Nursing and Social Care Limited	Dunfermline	A	0
 Andra Health Ltd	Derby	A	0
 Andrew Sissons Consulting (London) Limited	Deptford	A	0
 ANGEL UK CARE LIMITED	Dagenham	A	0
+Anglia Autoflow Limited	Diss	A	0
 Angus Halal Meat Ltd	Dundee	A	0
 Anika Mall Ltd	Dartford	A	0
 ANIMA RESIDENTIAL CARE LIMITED	Dartford	A	0
@@ -362,7 +363,7 @@ BK CONSTRUCTION LTD	Derby	A	0
 BK IT Solutions Ltd	Dagenham	A	0
 Black & Brown Dental Limited	Dunfermline	A	0
 BLACKBURN HOME CARE SERVICES LIMITED	Darwen	A	0
-Blackdice Healthcare Limited	Devon	A	0
+Blackdice Healthcare Limited	Devon	B	0
 Blacketts Medical Practice	Darlington	A	0
 Blacksheep Design Collectives limited	Deal	A	0
 Blaiket Mains Dairy Co Ltd	Dumfries	A	0
@@ -1022,7 +1023,7 @@ Empathy View Healthcare Services	Dudley	A	0
 Empire Homes Group Ltd	Derby	A	0
 Encompass Engineering Solutions Ltd	Derby	A	0
 Energies of the Future Limited	Derby	A	0
-Energy and Systems Technical Ltd	Downham Market	A	0
+Energy and System Technical Ltd	Downham Market	A	0
 Energy Potential Tech Solutions Limited	Denbighshire	A	0
 ENERTECH LIMITED	Droitwich	A	0
 Enevate Homes Limited	Dartford	A	0
@@ -1305,6 +1306,7 @@ H.B. Food Services Ltd	Dewsbury	A	0
 H2H SAVE-MORE LIMITED	Denham	A	0
 Hack Partners Limited	Devizes	A	0
 Hackney Meat Traders Ltd	Dagenham	A	0
+HADY BUILDERS LTD	Derby	A	0
 Hafod Y Green Rehabilitation and Nursing Centre	Denbigh	A	0
 Haitham Tabra t/a Perth Road Post Office	Dundee	A	0
 Halesi Limited T/A Aangan Restaurant	Derby	A	0
@@ -2694,6 +2696,7 @@ South Wingfield Cricket Club	Derbyshire	A	11
 Southern Healthcare (Wessex) Ltd	Dawlish	A	0
 SPAR (FORFAR) LIMITED	Dundee	A	0
 Spar Supersave ltd	Dudley	A	0
+SPARKBROOK MANAGEMENT LIMITED	Dagenham	A	0
 Specdrum Ltd	Dungannon	A	0
 Specfab Ltd.	Dungannon	A	0
 Special Care Services Ltd	Derby	A	0
@@ -2821,7 +2824,6 @@ T H White Limited	Devizes	A	0
 T.Lochhead & Sons	Dumfries	A	0
 TA &SJ Kempthorne	Delabole	A	0
 TAANVI LIMITED T/AS KING EDWARD FOOD AND WINE	Deal	A	0
-TAAZ TANDOORI LIMITED	Doncaster	A	0
 TAG2 CONVENIENCE LTD	Droylsden	A	0
 Tahir Mahmood T/A City Booze	Dundee	A	0
 Tailored Image Ltd	Dungannon	A	0
@@ -2964,6 +2966,7 @@ THS+	Derby	A	0
 Thush Retail limited	Dunstable	A	0
 THYRON SERVICES LTD	Dartford	A	0
 Tickhill Cricket Club	Doncaster	A	11
+Tickhill Restaurant Limited	Doncaster	A	0
 Tiger Project Services Ltd	Dagenham	A	0
 Tik Trading Limited	Dordon	A	0
 Tile World Kent Limited	Dulwich	A	0

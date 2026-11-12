@@ -520,6 +520,7 @@ Energy Developments (UK) Limited	Towcester	A	4
 ENERGYFORCE LIMITED	Tickton	A	0
 Enex Hoizon Ltd	Tankersley	A	0
 ENGAGED LTD	Towcester	A	0
+Enliva Homecare Taunton	Taunton	A	0
 Enreach UK Limited	Telford	A	0
 ENTECH CATERING ENGINEERS (LONDON) LTD	Tenterden	A	0
 ENVIRO-COOL UK LTD	Tonbridge	A	0
@@ -1513,7 +1514,6 @@ Taunton Association for the Homeless	Taunton	A	0
 Taunton Buffet Ltd	Taunton	A	0
 Taunton Deane Cricket Club	Taunton	A	11
 Taunton Dental and Implant Centre	Taunton	A	0
-Taunton Homecare Services	Taunton	A	0
 Taunton School Educational Charity	Taunton	A	0,9
 Taunton Specsavers Limited	Taunton	A	0
 Taunton St Andrews Cricket Club	Taunton	A	11

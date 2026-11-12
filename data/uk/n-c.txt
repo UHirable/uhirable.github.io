@@ -3567,7 +3567,6 @@ BRIGHT SITES CONSULTING LIMITED	London	A	0
 Brighter Day Care at Home Ltd	Salisbury	A	0
 Brighter Days Care at Home Ltd	Durrington	A	0
 Brighter Living Care Limited	Earley	A	0
-BrightGen Limited, T/A Credera	London	A	0
 Brighton & Hove Albion Football Club	Brighton	A	0,11
 Brighton & Hove Albion Women's Football Club	Brighton	A	11
 Brighton & Hove City Council	Hove	A	0
@@ -5687,7 +5686,6 @@ CARPET LAND AND FLOORING LTD	Stockport	A	0
 CARPET WORLD CARDIFF LTD	Cardiff	A	0
 Carpet World Flooring Ltd	Birmingham	A	0
 Carpet World London Ltd	Feltham	A	0
-Carpeteria (UK) Ltd	Manchester	A	0
 CarpetFix Ltd	Nottingham	A	0
 Carpetiers Limited	Wellingborough	A	0
 Carpets 2 Go Ltd	Bolton	A	0
@@ -5987,7 +5985,7 @@ Castlewood Hotels Holding Ltd	Folkestone	A	0
 Castons Consulting Limited	London	A	0
 Casual Films Limited	London	A	0
 Casual Fitters Ltd	London	A	0
-Caswell Chiropractic Limited	Milton Keynes	A	0
+Caswell Chiropractic Limited	London	A	0
 Casyan Ltd T/as Cleeve House	Worcester	A	0
 CAT G1 LIMITED T/A BEST ONE PREMIER STORE	Kilmarnock	A	0
 Cat Tech Europe Limited	Scunthorpe	A	4
@@ -8543,6 +8541,7 @@ City & Guilds Limited	London	A	0
 City & Provincial Properties Ltd	London	A	0
 City 1st Ltd	Slough	A	0
 CITY ACADEMY (ARTS) LIMITED	London	A	0
+CITY ACCOUNTANCY LTD	Croydon	A	0
 City Accounts UK Limited	London	A	0
 City Acquisitions Ltd	London	A	0
 City and Commercial Ltd	London	A	0
@@ -10097,7 +10096,7 @@ Comebounty Ltd	Surrey	A	0
 Comeca UK Limited	Burslem	A	0
 Comech Metrology Limited	Derby	A	0
 comedic Ltd	Mitcham	A	0
-COMELIT PAC LIMITED	Luton	A	0
+COMELIT PAC LIMITED	Luton	A	0,4
 COMERCIAL INVESTMENT OF UK LIMITED	London	P	2
 COMET UNIVERSE LTD	Richmond Upon Thames	A	0
 Comex 2000 (UK) Ltd	Derby	A	0
@@ -11877,7 +11876,6 @@ CRANBERRYS BAR AND KITCHEN LTD t/a Cranberry's	Glasgow	A	0
 Cranbrook Lettings Ltd	Ilford	A	0
 Cranbrook School	Cranbrook	A	0,9
 Crane Biosciences Ltd	London	A	0
-Crane Electronics Ltd	Hinckley	A	0
 Crane Limited	Ipswich	A	0,4
 Crane Merchandising Systems Limited	Chippenham	A	0,4
 Crane Plastics Ltd	Brixworth	A	0
@@ -15004,7 +15002,7 @@ Excellency Catering Limited T/A Excellency Midlands	Telford	A	0
 Excellent Care 1st Limited	Welling	A	0
 Excellent Care Ltd	Caterham	A	0
 Exception Capital LLP	Saffron Walden	A	0
-Exclusive Care	Gateshead	A	0
+Exclusive Care	Gateshead	B	0
 Executive Carers Ltd	Lichfield	A	0
 Executive Channel Europe Ltd	London	A	0
 Executive Channel Europe Ltd trading as ECNlive	London	A	0,4
@@ -15227,6 +15225,7 @@ FAST CARGO LIMITED	London	A	0
 Fast Charger Ltd	London	A	0
 Fast Computers & Mobile Services Ltd	London	A	0
 FAST FOOD CUMBERNAULD TRADING LTD	Cumbernauld	A	0
+FAST FOOD OPERATIONS LIMITED T/A MIAMI CRISPY	Manchester	A	0
 FAST GUJ CONSTRUCTION LIMITED	Barking	A	0
 Fast Lane Car Limited	London	A	0
 FAST LOGISTICS CARGO TRANSPORT LIMITED	Northampton	A	0
@@ -16622,7 +16621,6 @@ GRANVILLE COMMUNITY HOMES LIMITED	Liverpool	A	0
 Granville Community Kitchen	London	A	0
 Granville Convenience store	Kingswinford	A	0
 Granville Oil & Chemicals Ltd	Rotherham	A	0,4
-Grapevine (Coventry and Warwickshire) Limited	Coventry	A	0
 Graphite Capital Management LLP	London	A	0
 GRASMERE CARE HOME LTD	Sutton	A	0
 Grass Converters Limited	Anglesey	A	0
@@ -16688,6 +16686,7 @@ GREEN CLOVE LTD T/A KOHE-NOOR/IANNARELLI'S	Forfar	A	0
 Green Code Architects Ltd	London	A	0
 GREEN CODE TECHNOLOGIES LIMITED	England	A	2
 GREEN COLLAR RESOURCES LTD	Birmingham	A	0
+Green Colo Ltd	Portchester, Fareham	A	0
 GREEN COMPARED LTD	Romford	A	0
 Green Corridor	London	A	0
 Green County Ltd	Ilford	A	0
@@ -17781,6 +17780,7 @@ Home to Home Care Services Ltd	Warwick	A	0
 HOME TO SCHOOLS TRAVEL LTD T/A CENTRAL CARS AND BUSES	Bolton	A	0
 Home2home with care	Castle Gresley	A	0
 Homebridge Care Group Ltd	Barking	A	0
+Homebridge Care Group Ltd	Southend-on-sea	B	0
 Homecare North East CIC	Gateshead	A	0
 Homecare Scotland Care Services Ltd	Glasgow	A	0
 Homecare We Care LTD	Manchester	A	0
@@ -19618,7 +19618,6 @@ Kite Lake Capital Management (UK) LLP	London	A	0
 Kiveton convenience Store	Sheffield	A	0
 Kiwi Commerce Ltd	Manchester	A	0
 KJ CARGO SHIPPING SERVICES LTD	London	A	0
-KJD CARE LIMITED	London	A	0
 KK & P LIMITED, T/A K & B Convenience Store	Maidenhead, England,	A	0
 KK CAKES LTD	Telford,	A	0
 KK CHICKEN SHOP LTD	London	A	0
@@ -19671,7 +19670,6 @@ Knorr-Bremse Systems for Commercial Vehicles Ltd	Bristol	A	0,4,7
 know Africa CIO	Manchester	A	9
 KNOW. CONSULTING LIMITED	Tonbridge	A	0
 KNOWBILITY CONSULTANCY LIMITED	Romford	A	0
-Knowle & Dorridge Cricket Club	Solihull	A	11
 Knowle Court Limited	Wakefield	A	0
 Knowle court Ltd	Huddersfield	A	0
 Knowle Cricket Club	Bristol	A	11
@@ -22267,7 +22265,6 @@ Multicultural Resource Centre	Rochdale	A	9
 Multilink Management Care Ltd	Gloucester	A	0
 Multiple Care Solutions Ltd	Dagenham	A	0
 Multiplex Construction Europe Limited	London	A	0,4
-Multivision constructions Ltd	Grangemouth	A	0
 Multrees Consulting Limited	London	A	0
 MUMBAI CUISINES LIMITED T/a Mumbai	Kendal	A	0
 MUMBAI FUSION CATERING LTD	Harrow	A	0
@@ -22952,7 +22949,6 @@ Norma Care Limited	Aylesbury	A	0
 Normah Cafe Ltd	London	A	0
 Norman Galloway Homes CIC	Nottingham	A	0
 Normanby Hall Cricket Club	Middlesbrough	A	0,11
-Normanshire Care Services Limited	London	A	0
 Normanton Lodge Care Ltd t/as Normanton Lodge Care Home	Bognor Regis	B	0
 Norr Consultants Limited	Cambridge	A	0,4
 Norroy Capital Corp	London	A	0,4
@@ -24610,7 +24606,6 @@ Prestige Construction Group Limited	London	A	0
 Prestige Constructions International Ltd	London	A	0,2
 Prestige Constructions London Ltd.	Romford	A	0
 Prestige Constructions Ltd	Luton	A	0
-Prestige Consultants Ltd	Croydon	A	0
 Prestige Health & Social Care Limited	Derby	A	0
 PRESTIGE HOME CARE LIMITED	Maidenhead	A	0
 PRESTIGE M.O.T CENTRE LTD	Dagenham	A	0
@@ -24976,7 +24971,6 @@ QUADWAVE CONSULTING UK LIMITED	London	A	0
 Quaero Capital LLP	London	A	0
 Qualitas Mortgage Capital Ltd	London	A	0,4
 Qualitetch Components Ltd	March	A	0
-Quality & Compassion Ltd	Aylesbury	A	0
 Quality & Compassionate Care Ltd	Bristol	A	0
 Quality + Care Solutions Ltd	Easington Colliery	A	0
 QUALITY ASSURED CARE SERVICES LTD	Studley	A	0
@@ -24992,7 +24986,7 @@ Quality Care Resourcing	Colchester	A	0
 Quality Care Scotland Ltd	Glasgow	A	0
 Quality care selby ltd	Selby	A	0
 QUALITY CARE SERVICES LIMITED	Peterborough	A	0
-Quality care time ltd	Southgate	A	0
+Quality care time ltd	Barnet	A	0
 QUALITY CARPET & FLOORING LTD	Romford	A	0
 Quality Carpet & Furniture Ltd	Luton	A	0
 Quality Cars and Parts Limited	Dagenham	A	0
@@ -25258,7 +25252,7 @@ Rangolee Sweet Centre	Coventry	A	0
 Rani Indian Cuisine trading as Rani	Sutton-in-Ashfield	A	0
 Ranjanie Convenience Store	Bristol	A	0
 Ranjha care limited	Skegness	A	0
-RANJHCO MANAGEMENT CONSULTANCY LTD	Rochdale	A	0
+RANJHCO MANAGEMENT CONSULTANCY LTD	Warrington	A	0
 RANTHARU CATERERS LIMITED T/A HERALI	Aylesbury	A	0
 Ranya Food Centre Ltd	London	A	0
 RAOS HEALTHCARE LIMITED T/A PARKVIEW DISPENSING CHEMIST	Leicester	A	0
@@ -27465,7 +27459,6 @@ Smiles4Ever Limited T/A Enhance Dental Centre	High Wycombe	A	0
 Smithfield Health & Social Care Limited	Kent	A	0
 SMJ Childcare Ltd	Brentwood	A	0
 SMJM Consulting Services Limited	Chelmsford	A	0
-Smoke Control Services Ltd T/A Group SCS	Cardiff	A	0
 SMOORE UK CO., LTD	London	A	0,4
 Smooth Is Fast LTD T/A CRANK	Peckham	A	0
 SMOP CT LTD	Manchester	A	0
@@ -28822,7 +28815,6 @@ T D DATA CONSULTANCY LTD	Slough	A	0
 T J S Construction Leeds Ltd	Leeds	A	0
 T M Foods Corporations Ltd T/A T M Foods Corporations Ltd	Birmingham	A	0
 T Rama Construction Ltd	Nottingham	A	0
-T&G CONSULTANT LTD	Swindon	A	0
 T&M Commerce Ltd	London	A	0
 T&N Star Ltd T/A T&N Convenience Store	Gateshead	A	0
 T&T Retailers Ltd T/A Roberts Convenience Store	Sidcup	A	0
@@ -29261,7 +29253,6 @@ THE CAKEBOX NORTHAMPTON LIMITED	Northampton	A	0
 The Calcutta Club Limited TA Calcutta Club	Nottingham	A	0
 The CAM Academy Trust	Cambourne	A	0
 The Cambridge Access Validating Agency	Cambridge	A	0
-The Cambridge Oven	Cambridge	A	0
 The Cambridge Practice	Aldershot	A	0
 The Cambridge Satchel Company Limited	Cambridge	A	0,4
 The Camden Society	Grantham	A	0
@@ -29462,6 +29453,7 @@ The Cogworks Ltd	London	A	0
 The Cohens Group	Bolton	A	0
 The Collaborate I CIC	Birmingham	A	0
 The Collaborative London Limited	London	A	0
+The Collective Agency London Limited	Folkestone	A	0
 The College of Optometrists	London	A	0
 The College of Richard Collyer	Horsham	A	0
 The College of St Barnabas	Lingfield	A	0
@@ -32486,7 +32478,6 @@ YELLOW CARS U.K. LIMITED	Bristol	A	0
 Yelverton Care LLP	Plymouth	A	0
 Yeoman Care Ltd T/A Albert House Nursing Home	Weston Super Mare	A	0
 Yeovil College	Yeovil	A	0
-Yeovil Community Church	Yeovil	A	1,10
 YES CHEF JESMOND LIMITED / DABBAWAL JESMOND	Tyne	A	0
 YES WE WILL DO COURIERS LTD	Harrow	A	0
 YGF CHINATOWN LTD	London	A	0

@@ -1360,7 +1360,7 @@ Global Compact Network UK	London	A	0
 Global Family Care Network (SCIO)	Falkirk	A	0,9
 GLOBAL FOOD (NELSON) LTD	Nelson	A	0
 Global Fruit & Nuts Ltd	Stratford-Upon-Avon	A	0
-Global Legal Action Network	London	A	0
+Global Legal Action Network (GLAN)	London	A	0
 GLOBAL NANO NETWORK LIMITED	Coventry	A	0
 GLOBAL NAVIGATION SYSTEM LTD	Birmingham	A	0
 Global Network of Sex Work Projects Limited (NSWP)	Edinburgh	A	0
@@ -1934,7 +1934,7 @@ Kobinath Nithiyanantham T/A Mill Street Food & Wine	Leek	A	0
 Kofax Northern Ireland Ltd	Londonderry	A	0,4
 Koh Thai Noodle Ltd	Plymouth	A	0
 Kohila Niranjane Sasitharan T/A Prince Food And Wine	Surrey	A	0
-Kokoro JNJ Ltd T/A Kokoro Nottingham	Nottingham	A	0
+KOKORO JNJ LTD T/A Kokoro Nottingham	Nottingham	A	0
 KOKORO NETWORKS LIMITED	Kingston Upon Thames	A	0
 Kongsberg Norcontrol Limited	Bristol	A	0
 Korea National Pension Service	London	A	0,4
@@ -5578,7 +5578,6 @@ Norman-K London Limited	London	A	0
 Normanby Dental	Middlesbrough	A	0
 Normanby Hall Cricket Club	Middlesbrough	A	0,11
 Normanhurst	Bexhill On Sea	A	0
-Normanshire Care Services Limited	London	A	0
 Normanton Lodge Care Ltd t/as Normanton Lodge Care Home	Bognor Regis	B	0
 Normanton Lodge Limited	South Normanton	A	0
 NORMANTON PARK HOTEL LIMITED	Oakham	A	0

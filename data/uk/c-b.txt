@@ -62,6 +62,7 @@
 4 Sisters (Midlands) Ltd,TA Saffron Wala Bar & Restaurant	Birmingham	A	0
 4 Test Limited	Bexleyheath	A	0
 47 KITCHEN & CATERING LTD	Bury	A	0
+4C Research Group Limited	Bloxham, Banbury	A	0
 4Ever Care UK Ltd	Blackburn	A	0
 4PS Construction Solutions Limited	Birmingham	A	0
 4SSG UK Limited	Birmingham	A	0
@@ -1259,6 +1260,7 @@ Auto Vision Limited	Birmingham	A	0
 Autodesk Ltd	Birmingham	A	0,4
 Autoenterprises ltd	Basildon	A	0
 AUTOFIX BOLTON LIMITED	Bolton	A	0
+Automated Architecture Ltd	Bristol	A	0
 AUTOMATION ONE LTD	Brighton	A	0
 AUTOZONE	Bradford	A	0
 Aux IT Solutions	Bournemouth	A	0
@@ -1787,7 +1789,6 @@ Beta Research Ltd.	Burton-on-Trent	A	4
 Bethel Community Church	Barnsley	A	1
 Beths Grammar School	Bexley	A	0
 Beto`s UK Ltd	Bournemouth	A	0
-Better Brows Limited	Buckinghamshire	A	0
 BETTER THINGS AHEAD PRODUCTIONS LTD	Belfast	A	0
 Bevan	Bradford	A	0
 Bevan Brittan LLP	Bristol	A	0
@@ -7562,7 +7563,6 @@ Majestic-12 Ltd	Birmingham	A	0
 Maji Financial Wellbeing Ltd	Beckenham	A	0
 MAJOR CURRY AFFAIR BURNTWOOD LTD	Burntwood	A	0
 Major Foods Ltd	Barking	A	0
-Mak Halal Bradford Limited	Bradford	A	0
 MAK UK CA Services Ltd	Birmingham	A	0
 MAKBAL CONSULTANT LTD	Brighton	A	0
 Make Believe Ideas	Berkhamsted	A	0
@@ -9706,6 +9706,7 @@ Quaker Service	Belfast	A	9
 Qualified Ltd	Birmingham	A	0
 Quality & Compassionate Care Ltd	Bristol	A	0
 Quality Care Home (Midlands) Ltd	Birmingham	A	0
+Quality care time ltd	Barnet	A	0
 QUALITY CENTER LIMITED	Birmingham	A	0
 QUALITY FIRST AND FOREMOST CARE LIMITED	Bristol	A	0
 Quality Healthcare Professionals LTD	Bournemouth	A	0
@@ -11226,7 +11227,6 @@ Spark Data Systems Ltd	Bristol	A	0
 SPARK EDUCARE AND CONSULTANCY LTD	Birmingham	A	0
 Spark Medical Group - St Georges Surgery	Birmingham	A	0
 Spark Product Innovation Limited	Bristol	A	0
-SPARKBROOK MANAGEMENT LIMITED	Birmingham	A	0
 Sparking Hut Ltd	Birmingham	A	0
 Sparkol Limited	Bristol	A	0
 Sparkswood Ltd	Brought on in Furness	A	0
@@ -12389,7 +12389,6 @@ Titan Education Trust	Birmingham	A	0
 Titan Plant Hire Ltd	Birmingham	A	0
 TITAN PMR LIMITED	Bristol	A	0
 Titanic Hotel Belfast Limited	Belfast	A	0
-Tivarri Limited	Bath	A	0
 TIVIDALE CHICKEN LTD	Birmingham	A	0
 Tixed Booked UK Ltd t/a TRAVELFRO LTD	Bracknell	A	0
 TJ McGurran Ltd	Belfast	A	0
@@ -12857,6 +12856,7 @@ Varcity Living Limited	Bangor	A	0
 Varenne Restaurants Limited	Belfast	A	0
 VARITRONIX (U.K.) LIMITED	Bracknell	A	0
 Varkan Foods Ltd T/A Brewery Field Street Food Restaurant	Bridgend	A	0
+VARNI LTD	Bradford	A	0
 VARS Technology	Blackpool	A	0
 VARSANI WINE HOUSE LTD T/A BARGIN BOOZE	Bolton	A	0
 VASILA LTD	Blackburn	A	0
@@ -12869,7 +12869,7 @@ VBA RETAIL LTD	Bristol	A	0
 VBN EXPRESS LTD	Barnsley	A	0
 Vcare Professionals Ltd	Bolton	A	0
 VDP MANAGEMENT LIMITED	Brackley	A	0
-Vea Telecoms UK Limited	Bracknell	A	0,4
+Vea Group Limited	Bracknell	A	0,4
 Vecom Sillavan Metal Treatment Limited	Bury	A	0,4
 Vector GB Limited	Birmingham	A	0
 VEDBAEK LIMITED T/A The NAV People	Burghclere	A	0
