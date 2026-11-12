@@ -110,10 +110,7 @@ def main(paths=None):
             d = dec.date() if isinstance(dec, datetime.datetime) else dec if isinstance(dec, datetime.date) else None
             if d is None:
                 continue
-            try:
-                pos = max(1, int(pos or 1))
-            except (TypeError, ValueError):
-                pos = 1
+            pos = 1  # count certified applications, one per case. The 'worker positions' field is unreliable (a few filings claim thousands)
             pay = None
             if clean(unit).lower() == "year":
                 try:
