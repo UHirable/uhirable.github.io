@@ -7,7 +7,7 @@
 import collections, glob, html, json, os, re, sys, unicodedata
 
 SITE = "https://uhirable.github.io/"
-CSS_V = "77"
+CSS_V = "78"
 esc = html.escape
 MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 
@@ -556,6 +556,152 @@ def build_ca(sitemap):
     print("Canada: %d province, %d city and %d job pages" % (n_prov, n_city, n_job))
 
 
+# ---------------------------------------------------------------- United States (H-1B)
+US_DIR = os.environ.get("US_DIR", "data/us")
+US_SRC = "https://www.dol.gov/agencies/eta/foreign-labor/performance"
+US_CAP = 150
+US_NOTE = ('          <p class="gd-note"><b>A certified LCA is not a visa and not an open job.</b> It is the first step an employer takes before filing an H-1B petition, and it also covers extensions and transfers for people already in the US. '
+           'Use the list to find employers that sponsor regularly, then check their current vacancies.</p>\n')
+US_FOOT = (f'          <h2>Sources</h2><ul class="gd-src"><li><a href="{US_SRC}" target="_blank" rel="noopener">US Department of Labor, Office of Foreign Labor Certification: LCA disclosure data (H-1B)</a></li><li><a href="https://www.uscis.gov/working-in-the-united-states/h-1b-specialty-occupations" target="_blank" rel="noopener">USCIS: H-1B specialty occupations</a></li></ul>\n'
+           f'          <p class="gd-src">Built from public US government data. U Hirable is not connected to the Department of Labor or USCIS. Employer names are grouped as they were filed, so one company can appear under more than one legal name. We refresh this page at the start of every month.</p>\n')
+
+
+def us_money(v):
+    return "$" + num(v) if v else "-"
+
+
+def us_table(rows, first_col="Employer"):
+    body = "".join(f"<tr><td>{esc(r[0])}</td><td>{esc(r[1]) + ', ' + esc(r[2]) if r[1] else '-'}</td><td>{num(r[3])}</td><td>{esc(r[4])}</td><td>{us_money(r[5])}</td></tr>" for r in rows)
+    return ('<div class="gd-tw spc-tw"><table class="spc-table"><thead><tr><th>' + first_col + '</th><th>Head office</th><th>Applications certified</th><th>Main job categories</th><th>Median salary offered</th></tr></thead><tbody>' + body + "</tbody></table></div>")
+
+
+def us_read(name, keyed):
+    out = collections.OrderedDict() if keyed else []
+    path = os.path.join(US_DIR, name)
+    for l in open(path, encoding="utf-8"):
+        p = l.rstrip("\n").split("\t")
+        if keyed:
+            k, p = p[0], p[1:]
+        if len(p) < 7:
+            continue
+        p[3] = int(p[3])
+        p[5] = int(p[5]) if p[5] else 0
+        if keyed:
+            out.setdefault(k, []).append(p)
+        else:
+            out.append(p)
+    return out
+
+
+def build_us(sitemap):
+    meta = json.load(open(os.path.join(US_DIR, "meta.json"), encoding="utf-8"))
+    if meta["employers"] < 5000:
+        raise RuntimeError("US data looks too small: %d employers" % meta["employers"])
+    names = meta["state_names"]
+    top, by_state, by_city, by_job = us_read("all-top.txt", False), us_read("by-state.txt", True), us_read("by-city.txt", True), us_read("by-job.txt", True)
+    sh = shell("uk-visa-sponsors.html")
+    my = lambda iso: "%s %s" % (MONTHS[int(iso[5:7]) - 1], iso[:4])
+    period = "%s to %s" % (my(meta["from"]), my(meta["to"]))
+    mod = max(meta["built"], "2026-11-12")
+    HUB = "us-h1b-sponsors.html"
+    state_pages = [(names[s], "us-h1b-sponsors-%s.html" % slug(names[s]), s) for s in sorted(meta["states"], key=lambda s: -meta["states"][s][0]) if s in by_state and meta["states"][s][1] >= 20]
+    state_file = {s: f for _, f, s in state_pages}
+    city_pages = [(c, st, "us-h1b-sponsors-%s-%s.html" % (slug(c), st.lower()), pos, n) for c, st, pos, n in meta["cities"][:40] if "%s|%s" % (c, st) in by_city]
+    job_pages = [(j, "us-h1b-sponsors-%s.html" % slug(j), pos, n, sts) for j, pos, n, sts in meta["jobs"][:30] if j in by_job and slug(j) not in {slug(v) for v in names.values()}]
+    switch = '          <p class="sp-switch"><a href="us-h1b-sponsors.html">Search all US sponsors</a><a href="uk-visa-sponsors.html">United Kingdom</a><a href="canada-lmia-employers.html">Canada</a></p>\n'
+    links = lambda skip: (link_list([("All US sponsors (search)", HUB)] + [(n, f) for n, f, _ in state_pages[:20] if f != skip]) +
+                          "\n          " + link_list([("%s, %s" % (c, st), f) for c, st, f, _, _ in city_pages[:16] if f != skip]) +
+                          "\n          " + link_list([(j, f) for j, f, _, _, _ in job_pages[:14] if f != skip]))
+    steps = ('          <h2>How to use this list</h2>\n          <ol class="gd-steps">\n'
+             '            <li><b>Target employers that sponsor often.</b> A high number of certified applications means the employer files for foreign workers every year.</li>\n'
+             '            <li><b>Match the job category.</b> The table shows the kinds of jobs each employer filed for. Apply where your occupation is on the list.</li>\n'
+             '            <li><b>Compare the pay.</b> The median salary is what the employer wrote on its filings. Use it when you negotiate.</li>\n'
+             '            <li><b>Apply on the employer\'s careers page</b> and say clearly whether you need H-1B sponsorship or a transfer.</li>\n          </ol>\n'
+             '          <div class="gd-cta"><a class="btn btn-primary" href="us-h1b-sponsors.html">Search all H-1B sponsors</a><a class="btn btn-soft" href="jobs.html?country=United%20States">Search live US jobs</a><a class="btn btn-soft" href="cv-templates.html">Free CV templates</a></div>\n')
+    common_faq = [
+        ("What is an LCA and how is it linked to the H-1B visa?", "A Labor Condition Application is filed by the employer with the Department of Labor before it can file an H-1B petition. It states the job, the place of work and the pay. A certified LCA does not guarantee a visa."),
+        ("Does a company on this list have open jobs now?", "Not necessarily. The data shows past filings, including extensions and transfers for current employees. Check the employer's careers page for current vacancies."),
+    ]
+    n_pages = 0
+    # states
+    for name, fname, st in state_pages:
+        rows = by_state[st]
+        pos, n_emp = meta["states"][st]
+        cities = [(c, f, p) for c, s2, f, p, _ in city_pages if s2 == st]
+        city_txt = (" The cities with the most filings are " + ", ".join(f'<a href="{f}">{esc(c)}</a>' for c, f, _ in cities[:4]) + ".") if cities else ""
+        body = (GD + f'          <p class="gd-answer">{num(n_emp)} employers had Labor Condition Applications certified for H-1B jobs in {esc(name)} from {period}, with {num(pos)} certified applications in total. This page ranks them, from US Department of Labor data.</p>\n' + switch +
+                f'          <p>The numbers count certified applications where the place of work is in {esc(name)}, whatever state the employer is based in.{city_txt}</p>\n' + US_NOTE + GD_END +
+                jobs_block("us", "", "", "Live jobs in the United States", "Type your job title to see current openings. Check each advert for visa sponsorship before you apply.", "us-h1b-state") + GD +
+                f'          <h2>Top H-1B sponsors in {esc(name)}</h2>\n          {us_table(rows[:US_CAP])}\n' +
+                (f'          <p class="spc-more">Showing the {US_CAP} employers with the most certified applications in {esc(name)}, out of {num(n_emp)}. <a href="{HUB}">Search all sponsors</a> for the rest.</p>\n' if n_emp > US_CAP else "") +
+                steps + '          {FAQ}\n' + f'          <h2>H-1B sponsors in other states, cities and jobs</h2>\n          {links(fname)}\n' + US_FOOT + GD_END)
+        faq = [(f"Which companies sponsor H-1B visas in {name}?", f"By certified applications from {period}, the largest are {rows[0][0]}, {rows[1][0]} and {rows[2][0]}. {num(n_emp)} employers filed for jobs in {name} in total.")] + common_faq
+        out = render(sh, fname, f"H-1B Visa Sponsors in {name}: Top {min(US_CAP, n_emp)} Employers", f"{num(n_emp)} employers filed for H-1B workers in {name}. See the top sponsors, their job categories and median salaries, from US Department of Labor data.",
+                     "US Department of Labor data", f"H-1B visa sponsors in {name}", f"Employers with certified H-1B filings for jobs in {name}, {period}.", body, faq,
+                     [("Home", ""), ("US H-1B sponsors", HUB), (name, fname)], mod)
+        open(fname, "w", encoding="utf-8", newline="\n").write(out); sitemap[fname] = mod; n_pages += 1
+    # cities
+    for c, st, fname, pos, n_emp in city_pages:
+        rows = by_city["%s|%s" % (c, st)]
+        sname = names[st]
+        body = (GD + f'          <p class="gd-answer">{num(n_emp)} employers had Labor Condition Applications certified for H-1B jobs in {esc(c)}, {esc(sname)} from {period}, with {num(pos)} certified applications in total. This page ranks them, from US Department of Labor data.</p>\n' + switch +
+                f'          <p>The numbers count certified applications where the place of work is {esc(c)}. See also ' + (f'<a href="{state_file[st]}">all H-1B sponsors in {esc(sname)}</a>.' if st in state_file else "the full search.") + '</p>\n' + US_NOTE + GD_END +
+                jobs_block("us", "", c, f"Live jobs in {c}", "Type your job title to see current openings. Check each advert for visa sponsorship before you apply.", "us-h1b-city") + GD +
+                f'          <h2>Top H-1B sponsors in {esc(c)}</h2>\n          {us_table(rows[:US_CAP])}\n' +
+                (f'          <p class="spc-more">Showing the {US_CAP} employers with the most certified applications in {esc(c)}, out of {num(n_emp)}. <a href="{HUB}">Search all sponsors</a> for the rest.</p>\n' if n_emp > US_CAP else "") +
+                steps + '          {FAQ}\n' + f'          <h2>H-1B sponsors in other states, cities and jobs</h2>\n          {links(fname)}\n' + US_FOOT + GD_END)
+        faq = [(f"Which companies sponsor H-1B visas in {c}?", f"By certified applications from {period}, the largest are {rows[0][0]}, {rows[1][0]} and {rows[2][0]}. {num(n_emp)} employers filed for jobs in {c} in total.")] + common_faq
+        out = render(sh, fname, f"H-1B Visa Sponsors in {c}, {st}: Top {min(US_CAP, n_emp)} Employers", f"{num(n_emp)} employers filed for H-1B workers in {c}, {sname}. See the top sponsors, their job categories and median salaries, from US Department of Labor data.",
+                     "US Department of Labor data", f"H-1B visa sponsors in {c}, {sname}", f"Employers with certified H-1B filings for jobs in {c}, {period}.", body, faq,
+                     [("Home", ""), ("US H-1B sponsors", HUB), ("%s, %s" % (c, st), fname)], mod)
+        open(fname, "w", encoding="utf-8", newline="\n").write(out); sitemap[fname] = mod; n_pages += 1
+    # jobs
+    for j, fname, pos, n_emp, sts in job_pages:
+        rows = by_job[j]
+        low = j[0].lower() + j[1:]
+        st_rows = "".join(f"<tr><td>{('<a href=' + chr(34) + state_file[s] + chr(34) + '>' + esc(names[s]) + '</a>') if s in state_file else esc(names.get(s, s))}</td><td>{num(n)}</td></tr>" for s, n in sts)
+        kw = re.split(r",| and |\(", j)[0].strip().lower()
+        kw = kw[:-1] if kw.endswith("s") and not kw.endswith("ss") else kw
+        body = (GD + f'          <p class="gd-answer">{num(n_emp)} employers had Labor Condition Applications certified for H-1B workers in the job category "{esc(j)}" from {period}, with {num(pos)} certified applications in total. This page ranks them, from US Department of Labor data.</p>\n' + switch +
+                f'          <h2>Where the jobs are</h2>\n          <div class="gd-tw spc-tw"><table><thead><tr><th>State</th><th>Applications certified</th></tr></thead><tbody>{st_rows}</tbody></table></div>\n'
+                f'          <p>"{esc(j)}" is the official occupation category (SOC title) the employers chose on their filings. Job titles inside it vary.</p>\n' + US_NOTE + GD_END +
+                jobs_block("us", kw, "", f"Live {kw} jobs in the United States", "Current openings from our job-search partners. Check each advert for visa sponsorship before you apply.", "us-h1b-job") + GD +
+                f'          <h2>Top H-1B sponsors for {esc(low)}</h2>\n          <p>The number is applications certified in this job category. The salary is the employer\'s median across all its H-1B filings.</p>\n          {us_table(rows[:US_CAP])}\n' +
+                (f'          <p class="spc-more">Showing the {US_CAP} employers with the most certified applications in this category, out of {num(n_emp)}. <a href="{HUB}">Search all sponsors</a> for the rest.</p>\n' if n_emp > US_CAP else "") +
+                steps + '          {FAQ}\n' + f'          <h2>H-1B sponsors in other jobs, states and cities</h2>\n          {links(fname)}\n' + US_FOOT + GD_END)
+        faq = [(f"Which companies sponsor H-1B visas for {low}?", f"By certified applications from {period}, the largest are {rows[0][0]}, {rows[1][0]} and {rows[2][0]}. {num(n_emp)} employers filed in this category in total."),
+               (f"Which states have the most H-1B jobs for {low}?", "By certified applications, " + ", ".join(names.get(s, s) for s, _ in sts[:3]) + " come first.")] + common_faq
+        out = render(sh, fname, f"H-1B Sponsors for {j}: Top {min(US_CAP, n_emp)} Employers", f"{num(n_emp)} employers filed for H-1B {low}. See the top sponsors, where the jobs are and median salaries, from US Department of Labor data.",
+                     "US Department of Labor data", f"H-1B sponsors for {low}", f"Employers with certified H-1B filings in this job category, {period}.", body, faq,
+                     [("Home", ""), ("US H-1B sponsors", HUB), (j, fname)], mod)
+        open(fname, "w", encoding="utf-8", newline="\n").write(out); sitemap[fname] = mod; n_pages += 1
+    # hub with the search
+    opts = "".join(f'<option value="{s}">{esc(names[s])}</option>' for s in sorted(names, key=lambda s: names[s]))
+    body = (GD + f'          <p class="gd-answer">{num(meta["employers"])} US employers had Labor Condition Applications certified for H-1B workers from {period}, with {num(meta["positions"])} certified applications in total. Search them by company name to see how often an employer sponsors, for which jobs and at what pay.</p>\n'
+            '          <p class="sp-switch"><a href="uk-visa-sponsors.html">United Kingdom</a><a href="canada-lmia-employers.html">Canada</a><span class="on">United States</span></p>\n'
+            '          <div class="sp-app" id="sp-app" data-set="us">\n            <div class="sp-bar">\n'
+            '              <label class="sp-main"><span>Search employers</span><input id="sp-q" type="search" placeholder="e.g. Google, Deloitte, university" autocomplete="off" disabled></label>\n'
+            f'              <label><span>Head office state</span><select id="sp-f"><option value="">All states</option>{opts}</select></label>\n            </div>\n'
+            '            <div class="sp-chips" id="sp-chips"></div>\n            <p class="sp-status" id="sp-status" aria-live="polite">Loading the list…</p>\n            <div class="sp-grid" id="sp-list"></div>\n'
+            '            <p class="sp-morewrap"><button type="button" class="btn btn-soft" id="sp-more" hidden>Show more</button></p>\n          </div>\n'
+            '          <ul class="wi-key">\n            <li><span class="chip gold">Applications certified</span> The employer\'s certified H-1B Labor Condition Applications in the period. It includes extensions and transfers, so it is higher than the number of new hires.</li>\n'
+            '            <li><span class="chip">Median salary</span> The middle yearly salary the employer wrote on its filings.</li>\n'
+            '            <li><span class="chip pc">Works in</span> The states where most of the employer\'s H-1B jobs are located.</li>\n          </ul>\n' + US_NOTE + GD_END +
+            jobs_block("us", "", "", "Live jobs in the United States", "Type your job title to see current US openings. Check each advert for visa sponsorship before you apply.", "us-h1b") + GD +
+            '          <!--sp-browse--><h2>Browse H-1B sponsors by state</h2>\n          ' + link_list([(f"{n} ({num(meta['states'][s][1])})", f) for n, f, s in state_pages]) +
+            '\n          <h2>Browse by city</h2>\n          ' + link_list([("%s, %s" % (c, st), f) for c, st, f, _, _ in city_pages]) +
+            '\n          <h2>Browse by job</h2>\n          ' + link_list([(j, f) for j, f, _, _, _ in job_pages]) + '<!--/sp-browse-->\n'
+            f'          <h2>The 50 largest H-1B sponsors in the US</h2>\n          {us_table(top[:50])}\n' + steps +
+            '          {FAQ}\n' + US_FOOT + GD_END)
+    faq = [("Which companies sponsor the most H-1B visas?", f"By certified Labor Condition Applications from {period}, the largest are {top[0][0]}, {top[1][0]} and {top[2][0]}."),
+           ("How do I check if a company sponsors H-1B visas?", "Type the company name into the search on this page. If it appears, it had H-1B applications certified in the last 12 months, and you can see how many and for which job categories.")] + common_faq
+    out = render(sh, HUB, f"H-1B Visa Sponsors List: Search {num(meta['employers'])} US Employers", f"Search {num(meta['employers'])} US employers that filed for H-1B workers in the last 12 months. See filings, job categories and median salaries, from Department of Labor data.",
+                 "US Department of Labor data", "H-1B visa sponsors list", "US employers that file for H-1B workers, and how often.", body, faq, [("Home", ""), ("US H-1B sponsors", HUB)], mod)
+    out = out.replace('<script src="cvjobs.js', '<script src="sponsors.js?v=3"></script>\n  <script src="cvjobs.js', 1)
+    open(HUB, "w", encoding="utf-8", newline="\n").write(out); sitemap[HUB] = mod
+    print("US: hub + %d state, %d city and %d job pages" % (len(state_pages), len(city_pages), len(job_pages)))
+
+
 # ---------------------------------------------------------------- hub block + sitemap
 def set_browse(hub, block, before):
     s = open(hub, encoding="utf-8").read()
@@ -587,7 +733,8 @@ def update_sitemap(pages):
 
 
 failed, sm = 0, {}
-for fn in (build_uk, build_ca):
+builders = (build_uk, build_ca) + ((build_us,) if os.path.exists(os.path.join(US_DIR, "meta.json")) else ())
+for fn in builders:
     try:
         fn(sm)
     except Exception as e:  # keep the other country's pages
@@ -595,4 +742,4 @@ for fn in (build_uk, build_ca):
         print("SKIPPED %s: %r" % (fn.__name__, e))
 if sm:
     update_sitemap(sm)
-sys.exit(1 if failed == 2 else 0)
+sys.exit(1 if failed == len(builders) else 0)

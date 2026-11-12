@@ -1507,3 +1507,4 @@ textarea { resize: vertical; }
 .pj-cmp tr:last-child td{border-bottom:0}.pj-cmp th{background:#f4f6ff;color:#141a52;font-weight:800}
 .pj-cmp td:first-child{font-weight:700}.pj-cmp a{color:#0112ff;text-decoration:none}.pj-cmp a:hover{text-decoration:underline}
 .pj-text p a{color:#0112ff;font-weight:700;text-decoration:none}.pj-text p a:hover{text-decoration:underline}
+#sp-more[hidden]{display:none}

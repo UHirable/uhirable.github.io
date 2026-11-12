@@ -26,6 +26,7 @@ Example title pages follow the pattern https://uhirable.github.io/{title}-jobs-i
 - [Walk-in interviews around the world](https://uhirable.github.io/walk-in-interviews.html): confirmed hiring events and job fairs for the current month by country, each linked to the organiser, updated monthly
 - [UK visa sponsorship companies](https://uhirable.github.io/uk-visa-sponsors.html): searchable copy of the Home Office register of employers licensed to sponsor UK work visas, by company name or town, refreshed monthly from GOV.UK
 - [Canada LMIA employers list](https://uhirable.github.io/canada-lmia-employers.html): searchable list of employers in Canada issued a positive LMIA in the last four quarters, by job, city or province, from the official Open Canada dataset
+- [US H-1B visa sponsors list](https://uhirable.github.io/us-h1b-sponsors.html): searchable list of US employers with certified H-1B Labor Condition Applications in the last 12 months, with job categories and median salaries, plus pages by state, city and job, from US Department of Labor data
 
 ## Career guides
 - [UK CV format](https://uhirable.github.io/uk-cv-format.html): what UK employers expect on a CV, what to leave out, free template, live UK jobs

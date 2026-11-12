@@ -1,5 +1,5 @@
-// Search over the official sponsor lists. Data lives in data/uk and data/ca and is rebuilt
-// every month from GOV.UK and Open Canada by .github/workflows/sponsor-data.yml.
+// Search over the official sponsor lists. Data lives in data/uk, data/ca and data/us and is rebuilt
+// every month from GOV.UK, Open Canada and the US Department of Labor by .github/workflows/sponsor-data.yml.
 (function () {
   var app = document.getElementById("sp-app");
   if (!app) return;
@@ -35,7 +35,14 @@
     return '<article class="sp-card"><h3>' + esc(f[0]) + '</h3><p class="sp-where">📍 ' + esc(f[1] || "Location not listed") + (f[2] ? ", " + esc(f[2]) : "") + '</p><p class="sp-tags"><span class="chip gold">' + num(f[3]) + (f[3] === "1" ? " position" : " positions") + " approved</span></p>" +
       (occ.length ? '<p class="sp-occ">' + occ.map(esc).join(" · ") + "</p>" : "") + '<p class="sp-last">Latest approval: ' + esc(niceQ(f[5])) + '</p><a class="sp-jobs" data-sp="jobs" href="' + jobsLink("Canada", occ.length ? shortOcc(occ.filter(function (o) { return cur.length && cur.some(function (t) { return o.toLowerCase().indexOf(t) >= 0; }); })[0] || occ[0]) : shortName(f[0])) + '">Search live jobs in Canada →</a></article>';
   };
-  var card = SET === "uk" ? cardUK : cardCA;
+  var cardUS = function (f) {
+    var occ = f[4] ? f[4].split("; ") : [], ws = f[6] ? f[6].split(",") : [];
+    return '<article class="sp-card"><h3>' + esc(f[0]) + '</h3><p class="sp-where">' + (f[1] ? "📍 " + esc(f[1]) + ", " + esc(f[2]) : "Head office not listed") + '</p><p class="sp-tags"><span class="chip gold">' + num(f[3]) + (f[3] === "1" ? " application" : " applications") + " certified</span>" +
+      (f[5] ? '<span class="chip">Median $' + num(f[5]) + "</span>" : "") + "</p>" + (occ.length ? '<p class="sp-occ">' + occ.map(esc).join(" · ") + "</p>" : "") +
+      (ws.length ? '<p class="sp-last">Works in: ' + ws.map(function (s) { return esc((meta.state_names || {})[s] || s); }).join(", ") + "</p>" : "") +
+      '<a class="sp-jobs" data-sp="jobs" href="' + jobsLink("United States", shortName(f[0])) + '">Search live US jobs →</a></article>';
+  };
+  var card = SET === "uk" ? cardUK : SET === "us" ? cardUS : cardCA;
 
   var render = function (reset) {
     if (reset) { shown = 0; list.innerHTML = ""; }
@@ -46,7 +53,7 @@
   };
   var say = function (t) { status.textContent = t; };
 
-  var HINT = SET === "uk" ? "30 London employers licensed for several visa routes, A to Z. Type a company name or a town to search all of them." : "The 30 employers with the most approved positions. Type a job, a city or an employer to search all of them.";
+  var HINT = SET === "us" ? "The 30 employers with the most certified H-1B applications. Type a company name to search all of them." : SET === "uk" ? "30 London employers licensed for several visa routes, A to Z. Type a company name or a town to search all of them." : "The 30 employers with the most approved positions. Type a job, a city or an employer to search all of them.";
   var showTop = function () {
     var me = ++seq; cur = [];
     load("top.txt").then(function (rows) { if (me !== seq) return; results = rows; render(true); say(HINT); }).catch(function () { if (me === seq) say("Type at least 2 letters to search the official list."); });
@@ -69,15 +76,17 @@
           return mode === "city" ? hay.indexOf(q) === 0 : tokens.every(function (t) { return hay.indexOf(t) >= 0; });
         }
         if (f && r[2] !== f) return false;
+        if (SET === "us") { var nm = r[0].toLowerCase(); return tokens.every(function (t) { return nm.indexOf(t) >= 0; }); }
         var h = (r[0] + " " + r[1] + " " + r[4]).toLowerCase();
         return tokens.every(function (t) { return h.indexOf(t) >= 0; });
       });
       var rank = function (r) { var n = r[0].toLowerCase(); return n.indexOf(q) === 0 ? 0 : n.indexOf(" " + q) >= 0 ? 1 : 2; };
       var tier = function (r) { var has = function (s) { s = s.toLowerCase(); return tokens.every(function (t) { return s.indexOf(t) >= 0; }); }; return has(r[4]) ? 0 : has(r[0]) ? 1 : 2; };
       if (SET === "ca") out.sort(function (a, b) { return tier(a) - tier(b) || b[3] - a[3] || (a[0] < b[0] ? -1 : 1); });
+      else if (SET === "us") out.sort(function (a, b) { return rank(a) - rank(b) || b[3] - a[3]; });
       else if (mode !== "city") out.sort(function (a, b) { return rank(a) - rank(b) || (a[0] < b[0] ? -1 : 1); });
       results = out; render(true);
-      say(out.length ? num(out.length) + (out.length === 1 ? " match" : " matches") + ' for "' + box.value.trim() + '"' + (SET === "uk" ? " on the register dated " + niceDate(meta.updated) + "." : " in the official list.")
+      say(out.length ? num(out.length) + (out.length === 1 ? " match" : " matches") + ' for "' + box.value.trim() + '"' + (SET === "uk" ? " on the register dated " + niceDate(meta.updated) + "." : SET === "us" ? " in the Department of Labor data." : " in the official list.")
         : 'No match for "' + box.value.trim() + '". Check the spelling, try one word of the name, or ' + (SET === "uk" && mode !== "city" ? "search by town instead." : "try a shorter search."));
       if (!counted) { counted = true; count("sponsor-search/" + SET, "Sponsor list search: " + SET); }
     }).catch(function () { if (me === seq) say("The list could not be loaded. Check your connection and try again."); });
@@ -92,6 +101,8 @@
       fill("sp-count", num(m.orgs)); fill("sp-date", niceDate(m.updated));
       filter.insertAdjacentHTML("beforeend", m.routes.map(function (r, i) { return '<option value="' + i + '">' + esc(r) + "</option>"; }).join(""));
       chips.innerHTML = m.top_cities.slice(0, 8).map(function (c) { return '<button type="button" class="sp-chip" data-city="' + esc(c) + '">' + esc(c) + "</button>"; }).join("");
+    } else if (SET === "us") {
+      fill("sp-count", num(m.employers));
     } else {
       fill("sp-count", num(m.employers)); fill("sp-pos", num(m.positions)); fill("sp-date", niceDate(m.published));
       fill("sp-range", niceQ(m.quarters[0]).replace(/^(\w+) to \w+ /, "$1 ") + " to " + niceQ(m.quarters[m.quarters.length - 1]).replace(/^\w+ to /, ""));
