@@ -1480,3 +1480,6 @@ textarea { resize: vertical; }
 .gd .sp-switch a,.sp-switch span{font-weight:800;font-size:.92rem;padding:8px 16px;border-radius:999px;text-decoration:none;border:1.5px solid #c9cffd;background:#fff;color:#141a52}
 .sp-switch span.on{background:#141a52;border-color:#141a52;color:#ffd23f}
 .gd .sp-switch a:hover{border-color:#0112ff;color:#0112ff}
+
+/* hero: more air between the two rows of buttons */
+@media (min-width:721px){.hero-actions.hero-float.hero-six{row-gap:26px}}

@@ -9,8 +9,23 @@
     kw: { id: "565", pub: "7508", loc: "Kuwait", host: "kw.whatjobs.com", name: "Kuwait" },
     uk: { id: "565", pub: "7502", loc: "UK", host: "uk.whatjobs.com", name: "the UK" },
     ca: { id: "565", pub: "7503", loc: "Canada", host: "ca.whatjobs.com", name: "Canada" },
-    de: { id: "565", pub: "7505", loc: "Germany", host: "de.whatjobs.com", name: "Germany" }
-    // sa (7506) and qa (7507): accounts return no jobs yet (checked Nov 9, 2026)
+    de: { id: "565", pub: "7505", loc: "Germany", host: "de.whatjobs.com", name: "Germany" },
+    ae: { id: "565", pub: "7595", loc: "United Arab Emirates", host: "en-ae.whatjobs.com", name: "the UAE" },
+    in: { id: "565", pub: "7596", loc: "India", host: "en-in.whatjobs.com", name: "India" },
+    pk: { id: "565", pub: "7597", loc: "Pakistan", host: "en-pk.whatjobs.com", name: "Pakistan" },
+    ph: { id: "565", pub: "7598", loc: "Philippines", host: "en-ph.whatjobs.com", name: "the Philippines" },
+    id: { id: "565", pub: "7599", loc: "Indonesia", host: "en-id.whatjobs.com", name: "Indonesia" },
+    za: { id: "565", pub: "7600", loc: "South Africa", host: "en-za.whatjobs.com", name: "South Africa" },
+    es: { id: "565", pub: "7601", loc: "Spain", host: "es.whatjobs.com", name: "Spain" },
+    br: { id: "565", pub: "7602", loc: "Brazil", host: "br.whatjobs.com", name: "Brazil" },
+    ke: { id: "565", pub: "7603", loc: "Kenya", host: "en-ke.whatjobs.com", name: "Kenya" },
+    be: { id: "565", pub: "7604", loc: "Belgium", host: "be.whatjobs.com", name: "Belgium" },
+    ar: { id: "565", pub: "7605", loc: "Argentina", host: "ar.whatjobs.com", name: "Argentina" },
+    pt: { id: "565", pub: "7607", loc: "Portugal", host: "pt.whatjobs.com", name: "Portugal" },
+    mx: { id: "565", pub: "7610", loc: "Mexico", host: "es-mx.whatjobs.com", name: "Mexico" },
+    fr: { id: "565", pub: "7611", loc: "France", host: "fr.whatjobs.com", name: "France" },
+    nl: { id: "565", pub: "7612", loc: "Netherlands", host: "nl.whatjobs.com", name: "the Netherlands" }
+    // No jobs yet (checked Nov 12, 2026): sa 7506, qa 7507, ua 7608, cn 7609, jp 7613; ru 7606 has 1 job
   };
   var LOADER = "https://static.whatjobs.com/staticMin/ajCore/js/core/Jobbox/widget-loader-v1.js";
   var state = "idle"; // idle | loading | ready

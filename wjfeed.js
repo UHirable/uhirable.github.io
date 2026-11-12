@@ -11,8 +11,23 @@
     kw: { pub: "7508", loc: "Kuwait" },
     uk: { pub: "7502", loc: "UK" },
     ca: { pub: "7503", loc: "Canada" },
-    de: { pub: "7505", loc: "Germany" }
-    // sa (7506) and qa (7507): accounts return no jobs yet
+    de: { pub: "7505", loc: "Germany" },
+    ae: { pub: "7595", loc: "United Arab Emirates" },
+    in: { pub: "7596", loc: "India" },
+    pk: { pub: "7597", loc: "Pakistan" },
+    ph: { pub: "7598", loc: "Philippines" },
+    id: { pub: "7599", loc: "Indonesia" },
+    za: { pub: "7600", loc: "South Africa" },
+    es: { pub: "7601", loc: "Spain" },
+    br: { pub: "7602", loc: "Brazil" },
+    ke: { pub: "7603", loc: "Kenya" },
+    be: { pub: "7604", loc: "Belgium" },
+    ar: { pub: "7605", loc: "Argentina" },
+    pt: { pub: "7607", loc: "Portugal" },
+    mx: { pub: "7610", loc: "Mexico" },
+    fr: { pub: "7611", loc: "France" },
+    nl: { pub: "7612", loc: "Netherlands" }
+    // No jobs yet (checked Nov 12, 2026): sa 7506, qa 7507, ua 7608, cn 7609, jp 7613; ru 7606 has 1 job
   };
   var API = "https://api.whatjobs.com/api/v1/jobinjector.js";
   var pending = {};

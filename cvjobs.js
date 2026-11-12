@@ -4,7 +4,7 @@
 (() => {
   const box = document.getElementById("cv-jobs"); if (!box) return;
   const API = "https://uhirable-jobs.amel-moussa10.workers.dev/";
-  const COUNTRIES = [["us", "United States"], ["uk", "United Kingdom"], ["ca", "Canada"], ["de", "Germany"], ["ae", "United Arab Emirates"], ["sa", "Saudi Arabia"], ["qa", "Qatar"], ["kw", "Kuwait"], ["bh", "Bahrain"], ["eg", "Egypt"], ["in", "India"], ["pk", "Pakistan"], ["za", "South Africa"], ["es", "Spain"], ["ph", "Philippines"], ["id", "Indonesia"]];
+  const COUNTRIES = [["us", "United States"], ["uk", "United Kingdom"], ["ca", "Canada"], ["de", "Germany"], ["ae", "United Arab Emirates"], ["sa", "Saudi Arabia"], ["qa", "Qatar"], ["kw", "Kuwait"], ["bh", "Bahrain"], ["eg", "Egypt"], ["in", "India"], ["pk", "Pakistan"], ["za", "South Africa"], ["es", "Spain"], ["ph", "Philippines"], ["id", "Indonesia"], ["ke", "Kenya"], ["fr", "France"], ["nl", "Netherlands"], ["be", "Belgium"], ["pt", "Portugal"], ["br", "Brazil"], ["mx", "Mexico"], ["ar", "Argentina"]];
   const NAME = Object.fromEntries(COUNTRIES);
   const SHOW = 6;
   const esc = (t) => String(t || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));

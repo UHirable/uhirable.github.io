@@ -2,7 +2,7 @@
 (() => {
   const API = "https://uhirable-jobs.amel-moussa10.workers.dev/";
 
-  const CC = { "United States": "us", "Egypt": "eg", "Bahrain": "bh", "Kuwait": "kw", "Qatar": "qa", "Saudi Arabia": "sa", "United Arab Emirates": "ae", "United Kingdom": "uk", "Canada": "ca", "Germany": "de", "India": "in", "Pakistan": "pk", "South Africa": "za", "Spain": "es", "Philippines": "ph", "Indonesia": "id", "Kenya": "ke", "Oman": "om", "Sri Lanka": "lk", "Uganda": "ug", "Nigeria": "ng", "Australia": "au", "France": "fr", "Netherlands": "nl", "Ireland": "ie", "Singapore": "sg", "Malaysia": "my" };
+  const CC = { "United States": "us", "Egypt": "eg", "Bahrain": "bh", "Kuwait": "kw", "Qatar": "qa", "Saudi Arabia": "sa", "United Arab Emirates": "ae", "United Kingdom": "uk", "Canada": "ca", "Germany": "de", "India": "in", "Pakistan": "pk", "South Africa": "za", "Spain": "es", "Philippines": "ph", "Indonesia": "id", "Kenya": "ke", "Oman": "om", "Sri Lanka": "lk", "Uganda": "ug", "Nigeria": "ng", "Australia": "au", "France": "fr", "Netherlands": "nl", "Ireland": "ie", "Singapore": "sg", "Malaysia": "my", "Brazil": "br", "Belgium": "be", "Argentina": "ar", "Portugal": "pt", "Mexico": "mx" };
   const ORDER = ["United Arab Emirates", "Saudi Arabia", "Qatar", "Kuwait", "Bahrain", "Egypt", "United Kingdom", "Canada", "Germany"];
   const $ = (s) => document.querySelector(s);
   const esc = (t) => String(t || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
@@ -110,9 +110,10 @@
   const u0 = new URLSearchParams(location.search);
   const BASE = new Set(["us", ...ORDER.map((c) => CC[c])]);
   const addCountry = (c) => { if (hasOpt(c)) return; const o = document.createElement("option"); o.value = c; o.textContent = c; grp.appendChild(o); if (!grp.parentNode) sel.appendChild(grp); if (u0.get("country") === c && sel.value === "all") { sel.value = c; sel.dispatchEvent(new Event("change")); } };
-  const addAll = (ccs) => { Object.keys(CC).filter((c) => !BASE.has(CC[c]) && ccs.includes(CC[c])).sort().forEach(addCountry); };
+  const addAll = (ccs) => { Object.keys(CC).filter((c) => !BASE.has(CC[c]) && (ccs.includes(CC[c]) || (window.UHWJF && UHWJF.has(CC[c])))).sort().forEach(addCountry); };
   (() => {
     let v = null; try { v = sessionStorage.getItem("uh-live-ccs"); } catch (e) {}
+    addAll([]); /* WhatJobs countries need no worker key */
     if (v) return addAll(v.split(","));
     fetch(API + "?src=countries").then((r) => r.json()).then((d) => { if (!Array.isArray(d.countries)) return addAll(["in", "pk"]); /* older worker: the two known extra countries */ try { sessionStorage.setItem("uh-live-ccs", d.countries.join(",")); } catch (e) {} addAll(d.countries); }).catch(() => {});
   })();
