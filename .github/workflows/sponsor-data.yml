@@ -26,6 +26,8 @@ jobs:
         run: |
           pip install -q openpyxl
           python3 tools/build_sponsor_data.py
+      - name: Download the US H-1B (LCA) disclosure files and rebuild data/us
+        run: python3 tools/build_h1b_data.py
       - name: Rebuild the city, province and job pages from the data
         run: python3 tools/build_sponsor_pages.py
       - name: Commit data and its pages
