@@ -608,7 +608,7 @@ def build_us(sitemap):
     HUB = "us-h1b-sponsors.html"
     state_pages = [(names[s], "us-h1b-sponsors-%s.html" % slug(names[s]), s) for s in sorted(meta["states"], key=lambda s: -meta["states"][s][0]) if s in by_state and meta["states"][s][1] >= 20]
     state_file = {s: f for _, f, s in state_pages}
-    city_pages = [(c, st, "us-h1b-sponsors-%s-%s.html" % (slug(c), st.lower()), pos, n) for c, st, pos, n in meta["cities"][:40] if "%s|%s" % (c, st) in by_city]
+    city_pages = [(c, st, "us-h1b-sponsors-%s-%s.html" % (slug(c), st.lower()), pos, n) for c, st, pos, n in meta["cities"][:41] if "%s|%s" % (c, st) in by_city and "us-h1b-sponsors-%s-%s.html" % (slug(c), st.lower()) not in state_file.values()]
     job_pages = [(j, "us-h1b-sponsors-%s.html" % slug(j), pos, n, sts) for j, pos, n, sts in meta["jobs"][:30] if j in by_job and slug(j) not in {slug(v) for v in names.values()}]
     switch = '          <p class="sp-switch"><a href="us-h1b-sponsors.html">Search all US sponsors</a><a href="uk-visa-sponsors.html">United Kingdom</a><a href="canada-lmia-employers.html">Canada</a></p>\n'
     links = lambda skip: (link_list([("All US sponsors (search)", HUB)] + [(n, f) for n, f, _ in state_pages[:20] if f != skip]) +
