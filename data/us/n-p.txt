@@ -246,14 +246,14 @@ Angela Berkovich Dmd Pa	Deerfield Beach	FL	1	Dentists, General		FL
 Angelini Pharma, Inc.	Atlanta	GA	3	Validation Engineers; Fire-Prevention and Protection Engineers	105000	GA
 Anheuser-Busch Brewing Properties, LLC	St. Louis	MO	1	Industrial Production Managers		FL
 Anidjar & Levine, P.A.	Fort Lauderdale	FL	1	Paralegals and Legal Assistants		FL
-Animal Hospital of Morris Park	Bronx	NY	3	Veterinarians		NY
+Animal Hospital of Morris Park	Bronx	NY	2	Veterinarians		NY
 Anne Arundel County Public Schools	Annapolis	MD	12	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Special Education Teachers, Secondary School	83600	MD
 Anomaly Partners LLC	New York	NY	1	Graphic Designers		NY
 Ansira Partners II, LLC	St. Louis	MO	1	Software Quality Assurance Analysts and Testers		IL
 Antha Prerna Foundation	Los Angeles	CA	1	Data Scientists		TX
 Anthony Brown Pharmacy Inc	Orchard Park	NY	5	Data Scientists; Computer Systems Analysts	61900	NY
 Anthony Tucci PHD PLLC	Oak Brook	IL	1	Clinical and Counseling Psychologists		IL
-Anthropic, PBC	San Francisco	CA	284	Software Developers; Data Scientists; Financial and Investment Analysts	194800	CA,NY,WA
+Anthropic, PBC	San Francisco	CA	149	Software Developers; Computer and Information Research Scientists; Data Scientists	194800	CA,NY,WA
 Antin Infrastructure Partners US Services LLC	New York	NY	2	Investment Fund Managers; Financial and Investment Analysts		NY
 Anton Paar QuantaTec, Inc.	Boynton Beach	FL	2	Computer and Information Systems Managers; Sales Engineers		FL
 Anton Paar USA, Inc.	Ashland	VA	4	Engineering Technologists and Technicians, Except Drafters, All Other; Mechanical Engineers; Industrial Production Managers	82900	IL,CA
@@ -269,7 +269,7 @@ Apnar Pharma LLP	East Windsor	NJ	1	Chemists		NJ
 Apogee Consulting Group, P.A.	Cary	NC	1	Mechanical Engineers		IN
 Apogee Medical Group, Pennsylvania, PC	Dallas	TX	3	Hospitalists		PA
 Apollo Pharmacy Rx LLC	Newark	NJ	1	Logistics Analysts		NJ
-Apozeal Pharmaceuticals Inc	Levittown	PA	5	Quality Control Analysts; Logistics Engineers	83000	PA
+Apozeal Pharmaceuticals Inc	Levittown	PA	4	Quality Control Analysts; Logistics Engineers	83000	PA
 APPCO Pharma LLC	Piscataway	NJ	7	Chemists; Regulatory Affairs Specialists	67000	NJ
 Appian Way Energy Partners LLC	Cambridge	MA	2	Financial Quantitative Analysts; Software Developers		MA
 Apple Payments Services LLC	Austin	TX	11	Software Developers; Architectural and Engineering Managers; Data Scientists	174100	CA,TX,WA
@@ -309,8 +309,8 @@ Artemis Power Tech Inc	Lewes	DE	1	General and Operations Managers		NY
 Artia Global Partners LP	Miami	FL	1	Bioinformatics Scientists		FL
 Artisan Partners Limited Partnership	Milwaukee	WI	1	Financial and Investment Analysts		NY
 Artisan Screen Printing, Inc.	Azusa	CA	1	Data Scientists		CA
-Artistic Paver Manufacturing, LLC .	Miami	FL	2	Industrial Production Managers		FL
-Artistic Pavers Manufacurers	North Miami	FL	2	Manufacturing Engineers		FL
+Artistic Paver Manufacturing, LLC .	Miami	FL	1	Industrial Production Managers		FL
+Artistic Pavers Manufacurers	North Miami	FL	1	Manufacturing Engineers		FL
 Aruna Investment Partners LLC	Dallas	TX	1	Financial and Investment Analysts		TX
 Asana Partners Payroll Services, LLC	Charlotte	NC	3	Financial Quantitative Analysts	60600	NC
 Asante Physician Partners	Medford	OR	7	Physicians, All Other; Family Medicine Physicians	250000	OR
@@ -335,7 +335,7 @@ Asian Pacific Health Care Venture, Inc.	Los Angeles	CA	1	Computer Occupations, A
 Asian Pacific Motor Group LLC	Shoreline	WA	2	Web Developers; Software Developers		WA,CA
 Ask Parable Inc.	Brooklyn	NY	1	Software Developers		FL
 Aslan Protects, Inc.	Dover	DE	1	Software Developers		DC
-ASP Personnel Services Inc.	Pennsauken	NJ	2	Computer Systems Analysts		NJ
+ASP Personnel Services Inc.	Pennsauken	NJ	1	Computer Systems Analysts		NJ
 Aspen Publishing, LLC	Burlington	MA	2	Instructional Coordinators		CA
 Aspire Pharmaceuticals Inc.	Somerset	NJ	3	Quality Control Systems Managers; Chemists	160000	NJ
 Assemble Platforms Inc.	San Mateo	CA	4	Software Developers; Graphic Designers	202500	CA
@@ -389,7 +389,7 @@ Automated Production Systems, Inc.	Sterling Heights	MI	2	Mechatronics Engineers;
 Automotive Robotics Proving Labs Inc	East Peoria	IL	5	Software Developers; Electrical Engineers; Validation Engineers	92800	IL,NC
 Auxilior Capital Partners, Inc.	Plymouth Meeting	PA	2	Budget Analysts; Business Intelligence Analysts		PA
 Avangrid Power, LLC	Portland	OR	2	Cost Estimators; Financial Risk Specialists		IL,MA
-Avant Healthcare Professionals, LLC.	Maitland	FL	124	Registered Nurses		MT,TN,VA
+Avant Healthcare Professionals, LLC.	Maitland	FL	26	Registered Nurses		TN,MT,VA
 Aven Hospitality Solutions PTE. LTD.	Frisco	TX	1	Software Developers		NC
 Aviation Service Partners Inc (ASP)	Albertville	AL	1	Aerospace Engineers		TX
 AVJ Properties, LLC	Santa Monica	CA	2	Public Relations Managers		CA
@@ -419,7 +419,7 @@ Balanced Rock Power, LLC	Moab	UT	2	Electrical Engineers		CA,GA
 Balboa Bay Partners LLC	San Juan Capistrano	CA	5	Information Technology Project Managers; Business Intelligence Analysts	175000	CA
 Baldor Professional Services LLC	Bronx	NY	1	Information Technology Project Managers		WA
 Ballentine Partners, LLC	Waltham	MA	1	Financial and Investment Analysts		MA
-Ballon Stoll P.C.	New York	NY	3	Paralegals and Legal Assistants; Graphic Designers		NY
+Ballon Stoll P.C.	New York	NY	2	Graphic Designers; Paralegals and Legal Assistants		NY
 Baltimore City Public Schools	Baltimore	MD	11	Special Education Teachers, Elementary School; Data Scientists; Special Education Teachers, Secondary School	91800	MD
 Banco Popular de Puerto Rico			2	Financial Quantitative Analysts		
 Banner Ridge Partners LP	New York	NY	2	Financial and Investment Analysts; Financial Quantitative Analysts		NY
@@ -431,7 +431,7 @@ Baringa Partners LP	New York	NY	1	Management Analysts		NY
 Barn Owl Precision Agriculture Inc.	La Junta	CO	1	Mechanical Engineers		CO
 Barr Physical Therapy, P.C.	Killeen	TX	1	Speech-Language Pathologists		TX
 Basalite Building Products LLC	Roseville	CA	1	Industrial Production Managers		UT
-Base Power, Inc.	Austin	TX	9	Supply Chain Managers; Project Management Specialists; Electrical Engineers	142200	TX,CA
+Base Power, Inc.	Austin	TX	8	Supply Chain Managers; Project Management Specialists; Data Scientists	142200	TX,CA
 Basin Electric Power Cooperative	Bismarck	ND	4	Database Administrators; Construction Managers; Software Quality Assurance Analysts and Testers	82900	ND
 Bass Pro, LLC	Springfield	MO	8	Software Developers; Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators	102500	MO,OH,NE
 Bastion Platforms, Inc.	New York	NY	1	Software Developers		CA
@@ -610,7 +610,7 @@ Build on Paper Engineering PC	Rochester	NY	2	Civil Engineers		NY
 Bull Attorneys, P.A.	Wichita	KS	1	Web Administrators		KS
 Burdick Painting Inc.	Santa Clara	CA	1	Civil Engineers		CA
 Bureau Veritas Consumer Products Services, Inc.	Buffalo	NY	1	Validation Engineers		CA
-Burger & Comer, P.C.			3	Accountants and Auditors		
+Burger & Comer, P.C.			1	Accountants and Auditors		
 Burke E. Porter Machinery Company	Grand Rapids	MI	1	Software Developers		MI
 Burke Structural Engineers P.C.	Costa Mesa	CA	1	CIVIL ENGINEERS		CA
 Business Risk Partners, Inc.	Windsor	CT	1	Data Scientists		CT
@@ -710,10 +710,10 @@ Castle Pay, Inc.	Hudson	NY	1	Web and Digital Interface Designers		NY
 Catalent Pharma Solutions, LLC	Tampa	FL	38	Biological Technicians; Chemists; Regulatory Affairs Specialists	90700	WI,FL,MD
 Catalyst Partners LLC	Grand Rapids	MI	1	Mechanical Engineers		MI
 Cathay Pacific Airways Limited	New York	NY	5	Mechanical Engineers	120000	NY,AK,CA
-Cathedral Plumbing of Texas, LLC	Carrollton	TX	6	Software Developers		TX
+Cathedral Plumbing of Texas, LLC	Carrollton	TX	1	Software Developers		TX
 Catholic Diocese of Peoria	Peoria	IL	2	Clergy		IL
 Cavalry Portfolio Services LLC	Greenwich	CT	4	Operations Research Analysts; Software Developers; Budget Analysts	104500	AZ
-Cayuga Medical Associates, P.C.	Ithaca	NY	10	Physicians, All Other; Family Medicine Physicians; Neurologists	299700	NY
+Cayuga Medical Associates, P.C.	Ithaca	NY	9	Physicians, All Other; Neurologists; Family Medicine Physicians	299700	NY
 CD Peacock 1837 Inc.	Oak Brook	IL	1	Market Research Analysts and Marketing Specialists		IL
 CDA Collaborative Learning Projects, Inc.	Cambridge	MA	1	Social and Community Service Managers		FL
 Celanese Polymer Products, LLC	Irving	TX	1	Chemists		DE
@@ -821,7 +821,7 @@ Coen Partners LLC	Minneapolis	MN	4	Landscape Architects	81700	MN,TX
 Cogent Healthcare of Georgia, P.C.	Nashville	TN	1	Hospitalists		SC
 Cogent Healthcare of Iowa, P.C.	Nashville	TN	3	Hospitalists		IA
 Cogent Healthcare of Kentucky, P.S.C.	Nashville	TN	1	Hospitalists		KY
-Cogent Medical Care, P.C.	Nashville	TN	3	Hospitalists		NY
+Cogent Medical Care, P.C.	Nashville	TN	2	Hospitalists		NY
 Colder Products Company	Roseville	MN	1	Industrial Engineers		MN
 Coleman Partners Architects	Baton Rouge	LA	1	Architects, Except Landscape and Naval		LA
 Collaborative Learning Project Inc	Concord	MA	1	Secondary School Teachers, Except Special and Career/Technical Education		MA
@@ -931,7 +931,7 @@ CS Power Systems Inc.	Walnut Creek	CA	1	Financial Managers		CA
 CSG Forte Payments Inc. d/b/a CSG	Englewood	CO	1	Software Developers		TX
 Csi Professionals Inc.	Glendale	CA	3	Operations Research Analysts; Market Research Analysts and Marketing Specialists; Computer Systems Analysts		CA
 Css Payroll Co, L.P.	Los Angeles	CA	22	Software Developers; Commercial and Industrial Designers; Information Technology Project Managers	205000	CA,WA,NY
-CTC Property LLC	Memphis	TN	7	Software Developers; Electrical Engineers	150000	TN
+CTC Property LLC	Memphis	TN	3	Software Developers; Electrical Engineers	150000	TN
 CTH Physicians Clinic	Carson City	NV	1	Physicians, All Other		NV
 Cudd Pumping Services, Inc.	The Woodlands	TX	5	Petroleum Engineers; Mechanical Engineers	85600	TX
 Cumberland Plastics Corporation	Woodbury	TN	1	Industrial Production Managers		TN
@@ -1063,7 +1063,7 @@ DOTec Professional Corporation	St. Charles	MO	5	Civil Engineers; Architects, Exc
 Doug Uhlig Psychological Services PLLC	Rego Park	NY	1	Mental Health Counselors		NY
 Dover Public School District	Dover	NJ	1	Secondary School Teachers, Except Special and Career/Technical Education		NJ
 Downtown Brooklyn PT, PC	Rego Park	NY	1	Physical Therapists		NY
-Downtown Physicians Medical PLLC	New York	NY	7	Physical Therapists; Exercise Physiologists	110000	NY
+Downtown Physicians Medical PLLC	New York	NY	5	Physical Therapists; Exercise Physiologists	110000	NY
 Downtown Psychiatry Chicago PLLC	Chicago	IL	1	Health Informatics Specialists		IL
 DP Professionals, Inc.	Columbia	SC	1	Software Developers		SC
 DPR Construction, A General Partnership	San Francisco	CA	72	Civil Engineers; Construction Managers; Project Management Specialists	99500	TX,CA,VA
@@ -1103,7 +1103,7 @@ Dzmitry Bandarenka, CPA, PLC	South Burlington	VT	1	Accountants and Auditors		MD
 E & P Holdings 1 LLC	Plainview	NY	1	Cost Estimators		NY
 E Pro Technologies Llc.	Woodbridge	NJ	1	Software Developers		NE
 E-it Professionals Corp.	Livonia	MI	3	Software Developers		CT,FL,TX
-Eagle Butte Public School District 20-1	Eagle Butte	SD	11	Elementary School Teachers, Except Special Education		SD
+Eagle Butte Public School District 20-1	Eagle Butte	SD	2	Elementary School Teachers, Except Special Education		SD
 Eagle Flexible Packaging, Inc.	Batavia	IL	1	Operations Research Analysts		IL
 Eagle Procurement & Industrial Contractor, LLC	La Porte	TX	1	Industrial Engineers		
 Eagle Technology Partners Inc.	New York	NY	2	Software Developers		NY
@@ -1259,7 +1259,7 @@ Fairmont Pediatrics & Associates	Pasadena	TX	1	Statisticians		TX
 Faith Regional Physician Services, LLC	Norfolk	NE	1	Physicians, All Other		NE
 Falcon Placement Services	Pearland	TX	4	Software Developers	127600	NJ,TX
 FALK Panel LLC	Walker	MI	1	Operations Research Analysts		MI
-Fame Pbx LLC	Plano	TX	2	Software Developers		TX
+Fame Pbx LLC	Plano	TX	1	Software Developers		TX
 Familia Dental Peoria 1 LLC	Peoria	IL	2	Dentists, General		IL
 Family First Primary Clinic LLC	Cumming	GA	1	Family Medicine Physicians		GA
 Family Periodontic Specialists, PLC	Effingham	IL	1	Dentists, General		MN
@@ -1301,7 +1301,7 @@ Flexstone Partners, LLC	New York	NY	1	Financial and Investment Analysts		NY
 Flint Pharmacy MI LLC	Flint	MI	1	Operations Research Analysts		MI
 Florence Public School District One	Florence	SC	8	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	62100	SC
 Florida Arthritis Center, PL	Debary	FL	1	Physicians, All Other		FL
-Florida Emergency Physicians Kang & Associates, M.d., LLC	Knoxville	TN	17	Emergency Medicine Physicians; Emergency Medicine Physician		FL
+Florida Emergency Physicians Kang & Associates, M.d., LLC	Knoxville	TN	8	Emergency Medicine Physicians; Emergency Medicine Physician		FL
 Florida Food Products LLC	Lake Mary	FL	2	Network and Computer Systems Administrators; Industrial Engineers		OR,FL
 Florida Hospital Healthcare Partners, Inc.	Ormond Beach	FL	22	Hospitalists; Physicians, All Other; Cardiologists	300000	FL
 Florida Hospital Healthcare Partners,inc.	Ormond Beach	FL	1	Physicians, All Other		FL
@@ -1354,7 +1354,7 @@ Freshine Products, Inc	New York	NY	1	Survey Researchers		NY
 Freudenberg Performance Materials, LP	Candler	NC	1	Materials Engineers		MI
 Freudenberg-nok General Partnership	Plymouth	MI	11	Mechanical Engineers; Materials Engineers; Architectural and Engineering Managers	96700	MI,NH,IN
 Frick Paper Company LLC	Orange	CA	1	Market Research Analysts and Marketing Specialists		CA
-Fridley Public Schools Independent School District 14	Fridley	MN	107	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	49100	MN
+Fridley Public Schools Independent School District 14	Fridley	MN	21	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	49100	MN
 Frog Creek Partners (FCP), LLC	Casper	WY	1	Industrial Engineers		WY
 Frontier Auto Parts, Inc.	Raleigh	NC	1	Financial and Investment Analysts		NC
 Frontier Capital Partners LLC	Miami	FL	1	Operations Research Analysts		FL
@@ -1459,7 +1459,7 @@ Global Packaging Supply, Inc.	Hayward	CA	1	Market Research Analysts and Marketin
 Global Payment Holding Company	Atlanta	GA	36	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	116900	GA,TX,FL
 Global Payments Holding Company	Atlanta	GA	1	Software Developers		LA
 Global Preparatory Academy, Inc.	Indianapolis	IN	2	Special Education Teachers, Elementary School; Middle School Teachers, Except Special and Career/Technical Education		IN
-Global Process Consultants LLC	Plantation	FL	7	Engineers, All Other; Mechatronics Engineers		FL
+Global Process Consultants LLC	Plantation	FL	3	Engineers, All Other; Mechatronics Engineers		FL
 Globalization Partners U.S., Inc.	Boston	MA	1	Data Scientists		WA
 GlobalTax Partners LLC	Wellesley	MA	1	Accountants and Auditors		MA
 Glouston Capital Partners, LLC	Boston	MA	1	Financial and Investment Analysts		MA
@@ -1494,7 +1494,7 @@ GQG Partners LLC	Fort Lauderdale	FL	2	Financial and Investment Analysts		NY
 Grafton Public Schools 18	Grafton	ND	1	Elementary School Teachers, Except Special Education		ND
 Graham Packaging Company, L.P.	Lancaster	PA	2	Industrial Engineers; Mechanical Engineers		PA
 Graham Partners, LLC	Newtown Square	PA	2	Financial and Investment Analysts		PA
-Grand Forks Public Schools	Grand Forks	ND	11	Special Education Teachers, Secondary School; Special Education Teachers, Middle School; Special Education Teachers, Elementary School	66600	ND
+Grand Forks Public Schools	Grand Forks	ND	8	Special Education Teachers, Secondary School; Special Education Teachers, Middle School; Secondary School Teachers, Except Special and Career/Technical Education	66600	ND
 Grand Island Public Schools	Grand Island	NE	1	Secondary School Teachers, Except Special and Career/Technical Education		NE
 Grand Rehab PT P.C.	Brooklyn	NY	1	Physical Therapists		NY
 Grandinetti & Associates, P.S.	Spokane	WA	1	Accountants and Auditors		WA
@@ -1549,13 +1549,13 @@ Growth Public Schools	Sacramento	CA	1	Elementary School Teachers, Except Special
 GrowthPoint Technology Partners, LLC	San Francisco	CA	1	Financial and Investment Analysts		CA
 GT Industrial Products, LLC	Aurora	CO	1	Logisticians		CO
 GTIS Partners LP	New York	NY	1	Business Operations Specialists, All Other		NY
-Guam Ukudu Power, LLC			11	Electrical Engineers; Financial Managers; Mechanical Engineers	66100	
+Guam Ukudu Power, LLC			10	Electrical Engineers; Financial Managers; Mechanical Engineers	66100	
 Guardian Healthcare Providers, Inc.	Brentwood	TN	12	Medical and Clinical Laboratory Technologists		TX,NM,AR
 Guggenheim Partners Investment Management, LLC	Chicago	IL	2	Financial and Investment Analysts		NY
 gulaid consulting engineers, P.C.	Elgin	IL	1	Civil Engineers		IL
 Gulf South Pipeline Company, LLC	Houston	TX	5	Software Developers	159000	TX
 Gulfview Vision Associates, P.A.	Lutz	FL	7	Optometrists	165000	FL
-Guthrie Medical Group, P.C.	Sayre	PA	35	Hospitalists; Physicians, All Other; General Internal Medicine Physicians	345800	NY,PA
+Guthrie Medical Group, P.C.	Sayre	PA	25	Hospitalists; Physicians, All Other; General Internal Medicine Physicians	345800	NY,PA
 Gwinnett County Public Schools	Suwanee	GA	4	Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Secondary School	65300	GA
 Gwinnett County Public Schools (o/b/o Gwinnett County Board of Education)	Suwanee	GA	9	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	65300	GA
 GYDE Architects P.C.	Jackson	WY	1	Architectural and Civil Drafters		WY
@@ -1631,7 +1631,7 @@ Health Policy Associates, Inc.	Dedham	MA	1	Regulatory Affairs Specialists		TX
 Health Professionals of Holmes County, Inc.	Millersburg	OH	1	Radiologic Technologists and Technicians		OH
 Healthcare Development Partners, Inc.	Port St. Lucie	FL	1	Software Developers		NY
 HealthCare Partners Medical Group, P.C.	El Segundo	CA	1	Family Medicine Physicians		CA
-Healthpeak Properties, LLC	Denver	CO	2	Software Developers		CA
+Healthpeak Properties, LLC	Denver	CO	1	Software Developers		CA
 HealthTexas Provider Network	Dallas	TX	1	Exercise Physiologists		TX
 Healthy Smile PLC	Grand Rapids	MI	1	Dentists, General		MI
 Hearst Business Publishing, Inc.	Troy	MI	2	Software Quality Assurance Analysts and Testers		WA,NC
@@ -1696,7 +1696,7 @@ HMB Pharmacy Management LLC	Bronx	NY	2	Regulatory Affairs Specialists; Pharmacis
 Hmb Pharmacy Mgt LLC	Bronx	NY	1	Regulatory Affairs Specialists		NY
 Hmong College Prep Academy	St. Paul	MN	1	Secondary School Teachers, Except Special and Career/Technical Education		MN
 HN Pharma Inc.	Sylmar	CA	1	Accountants and Auditors		CA
-Hoag Memorial Hospital Presbyterian	Newport Beach	CA	3	Biological Scientists, All Other		CA
+Hoag Memorial Hospital Presbyterian	Newport Beach	CA	2	Biological Scientists, All Other		CA
 Hobas Pipe USA, Inc.	Houston	TX	1	General and Operations Managers		TX
 Hobe & Lucas Certified Public Accountants, Inc.	Independence	OH	1	Accountants and Auditors		OH
 Hoffman, Bricker & Adams, P.C.	St. Louis	MO	1	Accountants and Auditors		MO
@@ -1714,7 +1714,7 @@ Honors Pathway, PBC	Oakland	CA	1	Software Developers		CA
 Honors Review Princeton LLC	Princeton	NJ	1	Educational, Guidance, and Career Counselors and Advisors		NJ
 Hood Packaging Corporation	Atlanta	GA	1	Computer Systems Analysts		KS
 Hoover Pharmacy LLC	Hamtramck	MI	1	Pharmacists		MI
-Hope Public School District	Hope	AR	4	Middle School Teachers, Except Special and Career/Technical Education		AR
+Hope Public School District	Hope	AR	1	Middle School Teachers, Except Special and Career/Technical Education		AR
 Horizon Institute for Public Service	Washington	DC	1	Natural Sciences Managers		DC
 Horse Pilates LLC	Algonquin	IL	1	Public Relations Specialists		IL
 Horvath & Partners Management Consulting Corporation	Atlanta	GA	1	Management Analysts		GA
@@ -1728,9 +1728,9 @@ Hospitalist Medicine Physicians of California, Inc.	Tacoma	WA	3	Hospitalists		CA
 Hospitalist Medicine Physicians of Connecticut, LLC	Nashville	TN	1	Hospitalists		CT
 Hospitalist Medicine Physicians of Georgia “ TCS, P.C.	Tacoma	WA	2	Anesthesiologists		GA
 Hospitalist Medicine Physicians of Ohio, P.C.	Nashville	TN	3	Hospitalists		OH
-Hospitalist Medicine Physicians of Richland County, Ltd.	Nashville	TN	9	Hospitalists		OH
-Hospitalist Medicine Physicians of Texas, PLLC	Nashville	TN	19	Hospitalists		TX,NM,KS
-Hospitalist Medicine Physicians of Virginia, LLC	Nashville	TN	9	Hospitalists		VA
+Hospitalist Medicine Physicians of Richland County, Ltd.	Nashville	TN	8	Hospitalists		OH
+Hospitalist Medicine Physicians of Texas, PLLC	Nashville	TN	18	Hospitalists		TX,NM,KS
+Hospitalist Medicine Physicians of Virginia, LLC	Nashville	TN	8	Hospitalists		VA
 Hospitalist Physicians of Indiana, P.C.	Knoxville	TN	7	Hospitalists; Physicians, All Other		IN
 Hospitalist Physicians of Massachusetts, P.C.	Knoxville	TN	3	Hospitalists; Physicians, All Other		MA
 Hospitalist Services of Nevada-Scherr, P.C.	Knoxville	TN	1	Physicians, All Other		NV
@@ -1812,7 +1812,7 @@ In Physics, LLC	Towson	MD	2	Physicists		MN,WI
 Inbound - Partners LLC	Chicago	IL	1	Computer Systems Analysts		NC
 Inbound Partners-LLC	Chicago	IL	1	Computer Systems Analysts		TX
 Incyte Pathology, P.S.	Spokane Valley	WA	2	Physicians, Pathologists		WA
-Independent Hospitalist Physicians PLLC	Jackson	MI	11	Hospitalists; Physician Assistants		MI
+Independent Hospitalist Physicians PLLC	Jackson	MI	2	Physician Assistants; Hospitalists		MI
 Independent Physicians Resource, Inc.	Atlanta	GA	16	Physicians, All Other; Emergency Medicine Physicians	320000	IL,TN,IA
 Independent Project Analysis, Inc.	Ashburn	VA	2	Software Developers; Operations Research Analysts		VA
 Indiana Healthcare Physician Services.	Indiana	PA	1	Urologists		PA
@@ -1843,8 +1843,8 @@ Innovative Insulation Products, Inc.	Roanoke	TX	1	Mechanical Engineers		TX
 Innovative JOGO Physical Therapy LLC	Old Bridge	NJ	1	Physical Therapists		NJ
 Innovative Legal Service, P.C.	Los Angeles	CA	6	Lawyers; Judicial Law Clerks; Market Research Analysts and Marketing Specialists	240000	CA
 Innovative Packaging Solutions, Inc.	Temecula	CA	1	Quality Control Systems Managers		CA
-Innovative Physical Rehab And Wellness Center	Kendall Park	NJ	8	Physical Therapists		NJ
-Innovative Physical Therapy and Fitness Center Inc.	Kendall Park	NJ	12	Physical Therapists		NJ
+Innovative Physical Rehab And Wellness Center	Kendall Park	NJ	1	Physical Therapists		NJ
+Innovative Physical Therapy and Fitness Center Inc.	Kendall Park	NJ	1	Physical Therapists		NJ
 Innovative Physical Therapy and Fitness Centers, LLC	Abingdon	MD	1	Physical Therapists		MD
 Innovative Project Solutions, Inc.	San Francisco	CA	1	Mechanical Engineers		CA
 InPatient Consultants of Illinois, P.C.	Knoxville	TN	1	Physicians, All Other		IL
@@ -1881,7 +1881,7 @@ InterWell Health Partners Inc.	Boston	MA	1	Software Developers		TX
 Inteva Products, LLC	Troy	MI	1	Software Developers		IN
 Intuitive Technology Partners, Inc.	Iselin	NJ	3	Database Architects; Sales Engineers; Information Technology Project Managers	126800	FL,TX,NJ
 INV Performance Materials, LLC	Wichita	KS	1	Industrial Engineers		DE
-InvaGen Pharmaceuticals, Inc.	Warren	NJ	43	Chemists; Regulatory Affairs Specialists; Logisticians	88000	NY,MA
+InvaGen Pharmaceuticals, Inc.	Warren	NJ	38	Chemists; Regulatory Affairs Specialists; Logisticians	88000	NY,MA
 InvaTech Pharma Solutions LLC	East Brunswick	NJ	1	Chemists		NJ
 Inwood Pharma Inc	New York	NY	1	Regulatory Affairs Specialists		NY
 Ionis Pharmaceuticals Inc	Carlsbad	CA	4	Information Technology Project Managers; Chemists; Medical Scientists, Except Epidemiologists	145200	CA,MD
@@ -1913,10 +1913,10 @@ IvyRehab Physical Therapy, Occupational Therapy & Speech-Language Pathology, PLL
 J Popup LLC	Long Island City	NY	2	Financial Specialists, All Other; Financial and Investment Analysts		NY
 J&W PharmLab	Levittown	PA	1	Chemists		PA
 J. D. Pharmacy Inc.	New York	NY	2	Management Analysts; Regulatory Affairs Specialists		NY
-J.B. Poindexter & Co., Inc.	Houston	TX	2	Industrial Engineers		TX
+J.B. Poindexter & Co., Inc.	Houston	TX	1	Industrial Engineers		TX
 J.M.Trippon& Co. P.C.	Houston	TX	1	Accountants and Auditors		TX
 J.P. Strom, Jr. P.A.	Columbia	SC	1	Business Intelligence Analysts		SC
-J.W. Pepper & Son, Inc.	Exton	PA	4	Software Developers		PA
+J.W. Pepper & Son, Inc.	Exton	PA	1	Software Developers		PA
 J5 Infrastructure Partners LLC	Irvine	CA	1	Civil Engineers		MD
 Jabil Procurement Services, Inc	St. Petersburg	FL	1	Logisticians		CA
 JAC Products, Inc.	Saline	MI	1	Industrial Production Managers		MI
@@ -2170,7 +2170,7 @@ Liberty Parking Partners, LLC	Philadelphia	PA	1	Lodging Managers		DC
 Libra Global Philanthropies Foundation Inc	New York	NY	1	Public Relations Specialists		NY
 Lifefusion Pharma LLC	New Brunswick	NJ	2	Biological Technicians; Validation Engineers		NJ
 LifeHealth, P.C.	Gadsden	AL	1	Physicians, All Other		AL
-Lifespan Physician Group Inc.	Providence	RI	39	Physicians, All Other; Hospitalists; Anesthesiologists	252400	RI,MA
+Lifespan Physician Group Inc.	Providence	RI	35	Physicians, All Other; Anesthesiologists; Hospitalists	252400	RI,MA
 Lifetime Dental Professionals of New Hampshire, PC	Effingham	IL	2	Dentists, General		NH
 LigentCom Photonics Inc.	South Plainfield	NJ	1	Photonics Engineers		NJ
 Lighthouse Community Public Schools	Oakland	CA	1	Speech-Language Pathologists		CA
@@ -2360,7 +2360,7 @@ Merit Dental of Pennsylvania, P.C.	Costa Mesa	CA	2	Dentists, General		PA
 Merritt Island Discount Pharmacy LLC	Merritt Island	FL	1	Pharmacists		FL
 Messina Madrid Law PA	Miami	FL	1	Judicial Law Clerks		CA
 Meta Payments Inc. (formerly known as Facebook Payments, Inc)	Menlo Park	CA	1	Computer and Information Research Scientists		NY
-Meta Platforms, Inc	Menlo Park	CA	9476	Software Developers; Computer and Information Research Scientists; Data Scientists	211800	CA,WA,NY
+Meta Platforms, Inc	Menlo Park	CA	3476	Software Developers; Computer and Information Research Scientists; Data Scientists	211800	CA,WA,NY
 Metaldyne Powertrain Components, Inc.	Twinsburg	OH	1	Mechanical Engineers		OH
 Metaldyne SinterForged Products, LLC	North Vernon	IN	1	Mechanical Engineers		IN
 MetLife Legal Plans, Inc.	New York	NY	1	Software Quality Assurance Analysts and Testers		WA
@@ -2492,7 +2492,7 @@ National Fire Protection Association	Quincy	MA	1	Business Intelligence Analysts	
 National Healthcare Professionals LLC	Chicago	IL	1	Biochemists and Biophysicists		IL
 National Marrow Donor Program	Minneapolis	MN	8	Software Developers; Software Developers, Non R&D; Bioinformatics Scientists	140300	MN,FL,OR
 National Pasteurized Eggs LLC	Lansing	IL	2	Food Scientists and Technologists		IL
-National Pediatric M.D., P.C.	Corona	NY	5	Pediatricians, General		NY
+National Pediatric M.D., P.C.	Corona	NY	1	Pediatricians, General		NY
 National Pharmaceutical Council, Inc	Washington	DC	1	Economists		CA
 National Plastics Color, Inc.	Valley Center	KS	1	Supply Chain Managers		KS
 National Public Radio, Inc.	Washington	DC	6	Software Developers; News Analysts, Reporters, and Journalists; Editors	124400	DC
@@ -2591,7 +2591,7 @@ North American Partners In Anesthesia, Nj, LLC	Melville	NY	1	Anesthesiologists		
 North Bronx Pharmacy Rx LLC	Bronx	NY	1	Regulatory Affairs Specialists		NY
 North Central Distributors, Powered by Ravis LLC	Dallas	TX	1	Operations Research Analysts		TX
 North County Public Defense, PLLC	Bellingham	WA	1	Lawyers		WA
-North East Carolina Prep School	Tarboro	NC	3	Elementary School Teachers, Except Special Education		NC
+North East Carolina Prep School	Tarboro	NC	2	Elementary School Teachers, Except Special Education		NC
 North Park University	Chicago	IL	1	Educational, Guidance, and Career Counselors and Advisors		IL
 North Platte, Nebraska Hospital Corporation	North Platte	NE	2	Physical Therapists; Physicians, All Other		NE
 North Point IT Corp	Southlake	TX	4	Software Developers; Computer Occupations, All Other		WA,TX,MI
@@ -2635,7 +2635,7 @@ Ny Plates And Registration Solution Corp.	Long Island City	NY	1	Management Analy
 NY West Acupuncture P.C.	New York	NY	1	Acupuncturists		NY
 O'Donnell, Dannwolf & Partners Architects, Inc.	Hollywood	FL	1	Architects, Except Landscape and Naval		FL
 O'Flaherty Law, P.C.	Naperville	IL	2	Lawyers		IL
-O'Grady Peyton International	Savannah	GA	17	Medical and Clinical Laboratory Technologists; Medical and Clinical Laboratory Technicians	75100	VA,MI,MA
+O'Grady Peyton International	Savannah	GA	11	Medical and Clinical Laboratory Technologists; Medical and Clinical Laboratory Technicians	75100	VA,MI,TX
 O'neil Langan Architects, P.C.	New York	NY	3	Architects, Except Landscape and Naval; Interior Designers; Architectural and Civil Drafters	82400	NY
 Oak Park Kidney Center LLC	Oak Park	IL	1	Medical and Health Services Managers		IL
 Oaklawn Psychiatric Center, Inc.	Goshen	IN	1	Mental Health Counselors		IN
@@ -2676,7 +2676,7 @@ Omni Legal Group, PLC	Los Angeles	CA	1	Lawyers		CA
 Omni Powertrain Technologies, LLC	Houston	TX	2	Mechanical Engineers		TX
 OmniOn Power, Inc.	Plano	TX	1	Electronics Engineers, Except Computer		TX
 On Site Personnel Group Inc.	Philadelphia	PA	3	Database Administrators	69000	PA
-One on One Physical Therapy, LLC	Bridgewater	NJ	19	Physical Therapists	78800	NY
+One on One Physical Therapy, LLC	Bridgewater	NJ	15	Physical Therapists	78800	NY
 One Rock Capital Partners, LLC	New York	NY	1	Financial and Investment Analysts		CA
 Onepoint Acupuncture P.C.	Albertson	NY	5	Acupuncturists		NY
 OneWorld Properties Group, LLC	Fort Lauderdale	FL	1	Financial Managers		FL
@@ -2742,7 +2742,7 @@ P3 Technologies Inc.	Irving	TX	3	Software Developers; Data Scientists		TX,OH
 P3 USA Inc	Greenville	SC	1	Mechanical Engineers		SC
 P4Bios Corporation	Seattle	WA	1	Molecular and Cellular Biologists		WA
 P4R LLC	Orlando	FL	1	Biological Technicians		FL
-PA Consulting and Financial Services INC	Richardson	TX	3	Accountants and Auditors; Financial and Investment Analysts		TX
+PA Consulting and Financial Services INC	Richardson	TX	2	Accountants and Auditors; Financial and Investment Analysts		TX
 PA Consulting Group, Inc.	New York	NY	17	Economists; Management Analysts; Data Scientists	93300	CO,IL,VA
 PA Industries, Inc.	Bloomfield	CT	1	Mechanical Engineers		CT
 Paalar LLC	Frisco	TX	3	Software Developers		AR
@@ -2900,7 +2900,7 @@ Palmetto Solar LLC	Charleston	SC	1	Solar Energy Systems Engineers		SC
 Palms Management Services, LLC	Juno Beach	FL	1	Data Scientists		FL
 Palmyra Pharmacy LLC	Palmyra	NJ	1	Market Research Analysts and Marketing Specialists		NJ
 Palni Inc.	McKinney	TX	24	Software Developers; Mechanical Engineers; Computer Programmers	112900	TX,IL,DE
-Palo Alto Networks, Inc.	Santa Clara	CA	3425	Software Developers; Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators	184000	CA,TX,WA
+Palo Alto Networks, Inc.	Santa Clara	CA	278	Software Developers; Network and Computer Systems Administrators; Sales Engineers	184000	CA,TX,WA
 Palo Alto Veterans Institute for Research	Palo Alto	CA	3	Biological Scientists, All Other; Clinical Data Managers		CA
 Palo Pinto Hospital District	Mineral Wells	TX	1	Medical and Clinical Laboratory Technologists		TX
 Paloma Partners Management Company	Greenwich	CT	1	Financial Quantitative Analysts		NY
@@ -3079,7 +3079,7 @@ Parkk Marine, LLC	Rockledge	FL	1	Marine Engineers and Naval Architects		FL
 Parklane Holdings, Inc.	Pasadena	CA	1	Chief Executives		CA
 Parkore Inc	Minneapolis	MN	1	Market Research Analysts and Marketing Specialists		MN
 Parkview Financial, LLC a California Limited Liability Company	Los Angeles	CA	1	Loan Officers		CA
-Parkview Health System, Inc.	Fort Wayne	IN	27	Physicians, All Other; Mental Health and Substance Abuse Social Workers; Clinical and Counseling Psychologists	110000	IN
+Parkview Health System, Inc.	Fort Wayne	IN	16	Physicians, All Other; Mental Health and Substance Abuse Social Workers; Pediatricians, General	110000	IN
 Parkview Hospital, Inc.	Fort Wayne	IN	4	Medical and Clinical Laboratory Technologists; Pharmacists		IN
 Parkway Pharmacy LLC	Lubbock	TX	1	Database Administrators		TX
 Parla Dynamics Inc.	McLean	VA	1	Computer Programmers		VA
@@ -3202,7 +3202,7 @@ Patty Wang Cpa, A Professional Corp.	Huntington Beach	CA	1	Accountants and Audit
 Paul C Chang Dental Inc.	Upland	CA	1	Dentists, General		CA
 Paul Hastings LLP	Los Angeles	CA	5	Lawyers	365000	NY,CA
 Paul J. Dougherty M.D., Inc.	Westlake Village	CA	1	Optometrists		CA
-Paul Rabinowitz Glass Company, Inc.	Philadelphia	PA	2	Cost Estimators		PA
+Paul Rabinowitz Glass Company, Inc.	Philadelphia	PA	1	Cost Estimators		PA
 Paul Smith LLC	New York	NY	1	Project Management Specialists		NY
 Paul Smith's College	Paul Smiths	NY	1	Forestry and Conservation Science Teachers, Postsecondary		NY
 Paul W. Hiss MD, LDT	Sparks	NV	1	Optometrists		NV
@@ -3211,7 +3211,7 @@ Paul Ziert & Associates Inc	Norman	OK	1	Interpreters and Translators		OK
 Paul Ziert and Associates Inc.	Norman	OK	1	Database Administrators		OK
 Paul's Machine & Welding Corp.	Villa Grove	IL	1	Project Management Specialists		IL
 PAUL'S Machine and Welding Corp.	Villa Grove	IL	1	Project Management Specialists		IL
-Paul, Weiss, Rifkind, Wharton & Garrison, LLP	New York	NY	74	Lawyers	225000	NY,DC,NJ
+Paul, Weiss, Rifkind, Wharton & Garrison, LLP	New York	NY	44	Lawyers	225000	NY,DC,NJ
 Paulus, Sokolowski And Sartor, LLC	Warren	NJ	1	Civil Engineers		NY
 Pavane Solutions Inc.	Saddle Brook	NJ	8	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	105700	GA,IN,KY
 Pave Financial, Inc.	Los Altos	CA	1	Software Developers		CA
@@ -3470,7 +3470,7 @@ Pentangle Tech Services LLC	Farmington Hills	MI	81	Mechanical Engineers; Softwar
 Pentara Corporation	Millcreek	UT	2	Biostatisticians; Statisticians		UT
 Penumbra, Inc.	Alameda	CA	25	Industrial Engineers; Bioengineers and Biomedical Engineers; Information Security Analysts	133400	CA,GA
 People Bloom Counseling PLLC	Redmond	WA	1	Mental Health Counselors		WA
-People Center, Inc. d/b/a Rippling	San Francisco	CA	240	Software Developers; Computer and Information Systems Managers; Data Scientists	237500	CA,NY,WA
+People Center, Inc. d/b/a Rippling	San Francisco	CA	88	Software Developers; Data Scientists; Computer and Information Systems Managers	237500	CA,NY,WA
 People Integra LLC	Bethesda	MD	1	Information Technology Project Managers		CA
 People Look Inc	Carlstadt	NJ	1	Business Intelligence Analysts		NJ
 People Tech Enterprises Inc	Newark	DE	8	Web and Digital Interface Designers; Computer Programmers; Computer Systems Engineers/Architects	110100	WA
@@ -3689,7 +3689,7 @@ Pharo Management, Inc.	New York	NY	1	Software Developers		NY
 Pharr-san Juan-alamo Independent School District	Pharr	TX	2	Middle School Teachers, Except Special and Career/Technical Education		TX
 Phase Change Energy Solutions, Inc.	Greensboro	NC	1	Project Management Specialists		NC
 Phase Sensitive Innovations, Inc.	Newark	DE	1	Nanosystems Engineers		DE
-Phase Technologies LLC	Rapid City	SD	2	Electronics Engineers, Except Computer		SD
+Phase Technologies LLC	Rapid City	SD	1	Electronics Engineers, Except Computer		SD
 Phase, Inc.	Cornelius	NC	1	Bioengineers and Biomedical Engineers		NC
 Phased Right Inc.	Lakewood	CO	2	Electrical Engineers		AZ,MI
 Phasor Health, LLC	Houston	TX	1	Computer Network Support Specialists		TX
@@ -3781,7 +3781,7 @@ Phoenix Satellite Television US, Inc	Irwindale	CA	2	Graphic Designers; News Anal
 Phoenix Staff, Inc.	Phoenix	AZ	4	Data Scientists	121700	AZ
 Phoenix Tailings, Inc.	Burlington	MA	1	Materials Engineers		MA
 Phoenix Tech Solutions INC.	Sacramento	CA	9	Software Developers; Web Developers; Financial Specialists, All Other	103000	CA,FL,ID
-Phoenix Technical Solutions, Inc.	Meadville	PA	11	Industrial Engineers; Mechanical Engineers		OH,TX
+Phoenix Technical Solutions, Inc.	Meadville	PA	2	Mechanical Engineers; Industrial Engineers		TX,OH
 Phoenix Technologies LLC	Somerset	NJ	11	Network and Computer Systems Administrators; Software Developers; Database Architects	96900	TX,AR,NJ
 Phoenix Technologies,llc	Somerset	NJ	3	Network and Computer Systems Administrators; Software Developers; Computer Programmers	79800	FL,NC
 Phoenix Tree Publishing Inc.	Chicago	IL	1	Public Relations Specialists		IL
@@ -3801,7 +3801,7 @@ Photronics, Inc.	Brookfield	CT	1	Accountants and Auditors		CT
 Php Ins Tx PLLC	Irving	TX	2	Physicians, All Other		TX
 Php Staffing LLC	New York	NY	14	Exercise Physiologists; Physical Therapists; Fitness and Wellness Coordinators	85900	NY
 Phreesia, Inc.	Wilmington	DE	4	Computer and Information Systems Managers; Software Developers; Data Scientists	162500	TX,FL,IL
-Phronetic Psychotherapy LCSW PC	New York	NY	13	Mental Health Counselors; Mental Health and Substance Abuse Social Workers		NY,NJ
+Phronetic Psychotherapy LCSW PC	New York	NY	10	Mental Health Counselors; Mental Health and Substance Abuse Social Workers		NY,NJ
 Phung Enterprises	Trabuco Canyon	CA	1	Market Research Analysts and Marketing Specialists		CA
 PhyCARE Solutions, Inc.	Lake Grove	NY	3	Data Scientists; Business Intelligence Analysts	67000	FL,NY
 Phygital24 Inc	Frisco	TX	7	Information Technology Project Managers; Computer Programmers; Network and Computer Systems Administrators	93000	TX,PA,CA
@@ -3812,7 +3812,7 @@ Physical Medicine and Rehabilitation MSG, LLP	Syracuse	NY	1	Physical Medicine an
 Physical Therapy of Hicksville, PLLC	Hicksville	NY	1	Rehabilitation Counselors		NY
 Physical Therapy of New York, PC	Brooklyn	NY	1	Exercise Physiologists		NY
 Physical Therapy of the City, PC	Brooklyn	NY	8	Exercise Physiologists; Physical Therapists	85900	NY
-Physician Affiliate Group Of Ny, PC	New York	NY	73	Physicians, All Other; Anesthesiologists; Psychiatrists	247200	NY
+Physician Affiliate Group Of Ny, PC	New York	NY	53	Physicians, All Other; Psychiatrists; Hospitalists	247200	NY
 Physician Groups, LC	St. Louis	MO	3	General Internal Medicine Physicians; Family Medicine Physicians; Hospitalists	250000	MO
 Physician Paradigms, LLC	Dallas	TX	1	Computer Programmers		TX
 Physician Partners Management Services, Inc.	San Diego	CA	1	Data Scientists		CA
@@ -3852,7 +3852,7 @@ Pictor Biotech, Inc.	Norton	VA	1	Industrial Ecologists		VA
 Picture Health Inc.	Cleveland	OH	1	Bioengineers and Biomedical Engineers		OH
 PIDC Construction, LLC	Hopkinton	MA	1	Project Management Specialists		MA
 Piece Of Cake Moving and Storage LLC	Maspeth	NY	2	Logisticians; Market Research Analysts and Marketing Specialists		NY
-Piedmont Athens Regional Medical Center, Inc.	Athens	GA	23	Physicians, All Other; Medical and Clinical Laboratory Technologists; Healthcare Practitioners and Technical Workers, All Other	65200	GA
+Piedmont Athens Regional Medical Center, Inc.	Athens	GA	8	Physicians, All Other; Medical and Clinical Laboratory Technologists; Healthcare Practitioners and Technical Workers, All Other	65200	GA
 Piedmont Global	Arlington	VA	1	Operations Research Analysts		NY
 Piedmont Healthcare, Inc.	Atlanta	GA	3	Operations Research Analysts; Genetic Counselors; Financial Managers	118000	GA
 Piedmont Henry Hospital, Inc.	Atlanta	GA	1	Medical and Clinical Laboratory Technologists		GA
@@ -3866,7 +3866,7 @@ Pierce Lighting Inc.	New York	NY	2	Interior Designers		NY
 PIERCE Property Services LLC	Winchester	MA	1	Cost Estimators		MA
 Piero Salussolia P.a.	Miami Beach	FL	1	Judicial Law Clerks		FL
 Pierre De Angelis Architects Inc.	Los Angeles	CA	1	Architects, Except Landscape and Naval		CA
-Pierre Indian Learning Center	Pierre	SD	4	Elementary School Teachers, Except Special Education		SD
+Pierre Indian Learning Center	Pierre	SD	1	Elementary School Teachers, Except Special Education		SD
 PieSoft, LLC.	Bethlehem	PA	2	Project Management Specialists		PA,TX
 Piezos Technology Solutions Inc	Northville	MI	2	Software Developers; Computer and Information Systems Managers		MI,FL
 Pig in the Forest Pet Food LLC	Cheyenne	WY	1	Accountants and Auditors		WY
@@ -3881,7 +3881,7 @@ Pilecki Institute USA	New York	NY	1	Lawyers		NY
 Pilgrim's Pride Corporation	Greeley	CO	9	Industrial Engineers; Accountants and Auditors; Market Research Analysts and Marketing Specialists	96600	CO,GA,MN
 Pillar America, Inc.	Houston	TX	1	Mechanical Engineers		CA
 Pillars Development, LLC	Nashville	TN	1	Urban and Regional Planners		VA
-Pillpack LLC	Seattle	WA	31	Project Management Specialists; Computer and Information Systems Managers; Software Developers	136900	MA,TN,TX
+Pillpack LLC	Seattle	WA	13	Software Developers; Business Intelligence Analysts; Financial and Investment Analysts	136900	MA,TX,WA
 Pills2Me Inc.	Las Vegas	NV	1	Medical and Health Services Managers		NV
 Pillsbury Winthrop Shaw Pittman LLP	Nashville	TN	7	Lawyers; Judicial Law Clerks	390000	NY
 Pilot Technologies LLC	Plainsboro	NJ	36	Computer Programmers; Computer Systems Engineers/Architects; Web Developers	95000	CA,NJ,MO
@@ -3962,7 +3962,7 @@ Pioneer Global, Inc.	Richardson	TX	1	Computer Programmers		AZ
 Pioneer GMP Consulting LLC	Newton	MA	2	Validation Engineers		IL,WI
 Pioneer Life Science LLC	East Brunswick	NJ	3	Chemists; Market Research Analysts and Marketing Specialists	105000	NJ
 Pioneer Medical Group, LLC	Tampa	FL	10	Hospitalists	255000	FL
-Pioneer Medical Group, PL	Tampa	FL	4	Hospitalists; Family Medicine Physicians	255000	FL
+Pioneer Medical Group, PL	Tampa	FL	3	Hospitalists; Family Medicine Physicians	255000	FL
 Pioneer Mutual Federal Credit Union	Sugar Land	TX	3	Market Research Analysts and Marketing Specialists; Compliance Officers		TX
 Pioneer NeuroHealth, LLC	Temple Terrace	FL	1	Neurologists		FL
 Pioneer Plastics, Inc.	Warren	MI	1	Industrial Engineers		MI
@@ -4028,7 +4028,7 @@ PJT Partners Holdings LP	New York	NY	44	Financial and Investment Analysts; Busin
 PK Associates LLC	Scottsdale	AZ	1	Civil Engineers		AZ
 PK Retail Holdings, Inc.	Brea	CA	1	Management Analysts		CA
 PKB Engineering Corporation	Secaucus	NJ	1	Civil Engineers		NJ
-PKF O'Connor Davies Advisory LLC	Harrison	NY	11	Accountants and Auditors		NY
+PKF O'Connor Davies Advisory LLC	Harrison	NY	2	Accountants and Auditors		NY
 PKNIC Inc	Sacramento	CA	1	Computer Occupations, All Other		CA
 PKWARE, Inc.	Milwaukee	WI	1	Software Developers		AZ
 Pl Dental Sc	Coon Rapids	MN	1	Dentists, General		MN
@@ -4192,12 +4192,12 @@ PNS Capital LLC	Waller	TX	2	Financial Quantitative Analysts; Market Research Ana
 PNT Financial LLC	Chicago	IL	1	Financial Quantitative Analysts		IL
 PO Lighting USA Inc.	Plymouth	MI	1	Mechanical Engineers		MI
 Pocas International Corp.	South Hackensack	NJ	1	Accountants and Auditors		NJ
-Pocket AI LLC	Bellevue	WA	8	Computer and Information Research Scientists	220000	WA
+Pocket AI LLC	Bellevue	WA	5	Computer and Information Research Scientists	220000	WA
 Pocket Nurse Enterprises LLC	Monaca	PA	1	Logistics Analysts		PA
 Poclain Hydraulics, Inc.	Sturtevant	WI	1	Mechanical Engineers		WI
 Poclink Tech LLC	Jersey city	NJ	3	Operations Research Analysts	121000	NJ
 Pocono waterworks Inc	lake Ariel	PA	1	Management Analysts		PA
-POD Health, Inc.	Cedar Park	TX	2	Software Developers		TX
+POD Health, Inc.	Cedar Park	TX	1	Software Developers		TX
 Podean LLC	New York	NY	1	General and Operations Managers		NJ
 Podimetrics, Inc.	Somerville	MA	1	Compliance Officers		MA
 PODS Enterprises, LLC	Clearwater	FL	4	Software Quality Assurance Analysts and Testers; Software Developers; Accountants and Auditors	124000	FL,SC,NE
@@ -4227,7 +4227,7 @@ Poizon, Inc.	Pasadena	CA	1	Sales Engineers		CA
 Poke Fish Su Corp	Syracuse	NY	1	Business Intelligence Analysts		NY
 Poke House Inc.	Campbell	CA	1	Operations Research Analysts		CA
 Pokee AI, Inc.	Bellevue	WA	1	Software Developers		CA
-Pokroy Medical Group of Nevada, LTD	Sunrise	FL	5	Physicians, All Other	250000	NV
+Pokroy Medical Group of Nevada, LTD	Sunrise	FL	3	Physicians, All Other	250000	NV
 Polakams, LLC	Chester Springs	PA	3	Software Developers; Computer Systems Analysts	120000	PA,VA
 Polar Asset Management Partners (US) Inc.	New York	NY	2	Software Developers		NY
 Polar IT Services Inc	Elkridge	MD	5	Software Quality Assurance Analysts and Testers; Software Developers	106500	FL,MD,NJ
@@ -4290,7 +4290,7 @@ Popcorn AI Tech, Inc.	San Francisco	CA	5	Data Scientists; Market Research Analys
 PopHealthCare, LLC	Franklin	TN	2	Computer and Information Systems Managers		TN
 PopID Inc	Santa Monica	CA	1	Software Developers		CA
 Poplar Ave LLC	Memphis	TN	2	Cost Estimators		VA
-Popli Architecture & Engineering & LS, DPC	Penfield	NY	4	Civil Engineers	75900	NY
+Popli Architecture & Engineering & LS, DPC	Penfield	NY	3	Civil Engineers	75900	NY
 Poppies Bakeries LLC	Battleboro	NC	1	Food Scientists and Technologists		NC
 POPS Therapy LLC	Clifton	NJ	1	Clinical and Counseling Psychologists		NJ
 Popular Bank	Rosemont	IL	2	Software Developers; Business Intelligence Analysts		IL,NY
@@ -4383,7 +4383,7 @@ Powerback Rehabilitation, LLC	Kennett Square	PA	5	Physical Therapists; Medical a
 PowerBuild Construction, LLC	Dunwoody	GA	3	Project Management Specialists; Civil Engineers	84600	GA,TX
 PowerCon PTS Inc.	New York	NY	1	Mechanical Engineers		NY
 PowerFlex Solar, LLC	San Diego	CA	1	Purchasing Agents, Except Wholesale, Retail, and Farm Products		CA
-PowerGEM LLC	Clifton Park	NY	5	Operations Research Analysts; Sales Engineers; Software Developers	97600	IL,AL,MA
+PowerGEM LLC	Clifton Park	NY	4	Operations Research Analysts; Sales Engineers; Software Developers	97600	IL,AL,MA
 Powergen Controls, LLC	Houston	TX	1	Electrical Engineers		TX
 Powerhouse Controls Inc.	Nashville	TN	1	Sales Engineers		TN
 Powermind Solutions, Inc.	Alpharetta	GA	8	Computer Programmers; Software Developers	98400	GA,NJ,PA
@@ -4396,7 +4396,7 @@ Powers Park Healthcare, Inc.	Santa Barbara	CA	1	Occupational Therapists		CA
 PowerSchool Group LLC	Folsom	CA	4	Information Technology Project Managers; Software Developers	131600	TX,VA
 PowerSchool LLC	Folsom	CA	4	Software Developers; Network and Computer Systems Administrators; Computer and Information Systems Managers	145000	MI,NC,MD
 Powerseal Pipeline Products Corp	Wichita Falls	TX	1	Mechanical Engineers		TX
-Powersource Automation And Controls LLC	Hockley	TX	4	Mechatronics Engineers		TX
+Powersource Automation And Controls LLC	Hockley	TX	2	Mechatronics Engineers		TX
 PowerTec Distribution & Motor Control Corp.	Tucson	AZ	3	Mechanical Engineers	140000	AZ
 Powerup Technology, Inc.	Arlington	VA	1	Data Scientists		VA
 Pozent Corporation	Piscataway	NJ	2	Software Quality Assurance Analysts and Testers; Data Scientists		FL,NJ
@@ -4549,7 +4549,7 @@ Premier Eldorado Inc	Frisco	TX	2	Computer Systems Analysts; Business Operations 
 Premier Group Services, Inc.	Landover	MD	1	Accountants and Auditors		MD
 Premier Health Partners	Dayton	OH	1	Network and Computer Systems Administrators		OH
 Premier Health Services Inc.	Washington DC	DC	1	Financial and Investment Analysts		DC
-Premier Hospitalists of Bakersfield Inc.	Bakersfield	CA	5	Hospitalists	280000	CA
+Premier Hospitalists of Bakersfield Inc.	Bakersfield	CA	4	Hospitalists	280000	CA
 Premier Imaging, LLC	Danbury	CT	1	Radiologists		CT
 Premier IT Solutions, LLC	Richardson	TX	18	Software Developers	114000	TX,FL,CA
 Premier Kaikei LLP	Torrance	CA	1	Accountants and Auditors		CA
@@ -4594,7 +4594,7 @@ Prescott Pharmacy Ltc Inc	Worcester	MA	1	Regulatory Affairs Specialists		MA
 Prescott's, Inc.	Monument	CO	1	Economists		NY
 PreScouter, Inc.	Chicago	IL	2	Environmental Engineers; Management Analysts		OH,MA
 Prescriptive Data, Inc	Milwaukee	WI	2	Software Developers		NY
-Presence Chicago Hospitals Network	Chicago	IL	8	Healthcare Practitioners and Technical Workers, All Other	78500	IL
+Presence Chicago Hospitals Network	Chicago	IL	3	Healthcare Practitioners and Technical Workers, All Other	78500	IL
 Preservation Chicago, NFP	Chicago	IL	1	Social Science Research Assistants		IL
 Preservation Design Partnership, LLC	Philadelphia	PA	1	Architectural and Civil Drafters		PA
 President and Board of Trustees of Santa Clara College	Santa Clara	CA	2	Mathematical Science Teachers, Postsecondary; Computer Programmers		CA
@@ -4624,7 +4624,7 @@ Pretium Packaging, L.L.C.	St. Louis	MO	2	Logistics Analysts; Industrial Producti
 Pretium Partners, LLC	New York	NY	1	Financial Quantitative Analysts		IL
 Prevail Infotech Inc	Sandy	UT	1	Software Developers		UT
 Prevalon Energy LLC	Heathrow	FL	1	Lawyers		FL
-Prevea Clinic, Inc.	Green Bay	WI	8	Physicians, All Other; Hospitalists; General Internal Medicine Physicians	326900	WI
+Prevea Clinic, Inc.	Green Bay	WI	4	General Internal Medicine Physicians; Family Medicine Physicians; Physicians, All Other	326900	WI
 PreVeil, Inc.	Boston	MA	2	Software Developers; Market Research Analysts and Marketing Specialists		MI,CT
 PreventiveMD Inc	Raleigh	NC	1	Data Scientists		NC
 Prevhealth Inc	Folsom	PA	1	Computer User Support Specialists		PA
@@ -4744,7 +4744,7 @@ Primoris Systems LLC	Katy	TX	7	Computer Programmers; Software Developers; Comput
 Primus Cloud Software Solutions LLC	Centennial	CO	2	Software Quality Assurance Analysts and Testers		TX
 PRIMUS Global Services, Inc.	Irving	TX	5	Data Scientists; Software Developers; Industrial Engineers		FL,TX,NY
 Prince Contracting, LLC	Tampa	FL	2	Construction Managers; Cost Estimators		FL
-Prince Edward County Public Schools	Farmville	VA	2	Special Education Teachers, Middle School		VA
+Prince Edward County Public Schools	Farmville	VA	1	Special Education Teachers, Middle School		VA
 Prince Industries, Inc.	Carol Stream	IL	1	Industrial Production Managers		IL
 Prince of Peace Enterprises, Inc.	Livermore	CA	1	Lawyers		CA
 Princess Cruise Lines, Ltd.	Santa Clarita	CA	4	Financial and Investment Analysts; Operations Research Analysts; Software Developers	118900	FL,TX
@@ -5015,7 +5015,7 @@ Prophet Security, Inc.	Atherton	CA	4	Software Developers	168900	CA
 Propio LS, LLC	Overland Park	KS	4	Software Developers	155000	KS,TX
 Propoint Graphics LLC	New York	NY	4	Graphic Designers	76700	NY
 ProQuest, LLC	Ann Arbor	MI	5	Software Developers; Computer and Information Systems Managers; Web and Digital Interface Designers	132600	MI,TX,NH
-Prorataai, Inc.	Pasadena	CA	102	Computer and Information Research Scientists; Software Developers	149200	WA
+Prorataai, Inc.	Pasadena	CA	6	Computer and Information Research Scientists; Software Developers	149200	WA
 Prorize LLC	Marietta	GA	2	Operations Research Analysts		GA,TX
 Prorsum Technologies, Inc.	Itasca	IL	6	Software Developers; Management Analysts	103400	GA,MI,VA
 ProRx, LLC	Exton	PA	3	General and Operations Managers; Industrial Production Managers; Computer Occupations, All Other		PA
@@ -5518,7 +5518,7 @@ SAI Advanced Power Solutions Inc.	Franklin Park	IL	15	Electrical Engineers; Proj
 Sai Bear Creek Pharmacy LLC	Wildomar	CA	2	Pharmacists		CA
 Sai Pharmacy LLC	Hemlock	MI	1	Pharmacists		MI
 Sai Priya, LLC	Houston	TX	1	Computer Systems Analysts		TX
-SAI-Med Partners LLC	Reading	PA	16	Market Research Analysts and Marketing Specialists; Natural Sciences Managers	132500	PA
+SAI-Med Partners LLC	Reading	PA	4	Market Research Analysts and Marketing Specialists; Natural Sciences Managers	132500	PA
 Saint Francis Medical Partners, LLC	Cape Girardeau	MO	2	Clinical and Counseling Psychologists; Physician Assistants		MO
 Saint Joseph Parish	Needham	MA	1	Music Directors and Composers		MA
 Saint Mary Physical Therapy, PC	Elmhurst	NY	1	Exercise Physiologists		NY
@@ -5658,7 +5658,7 @@ Smile Plus Dental PC	Edison	NJ	1	Dentists, General		NJ
 Smislova, Kehnemui & Associates, PA	Potomac	MD	1	Civil Engineers		MD
 Smith-Sinnett Architecture, P.A.	Raleigh	NC	1	Interior Designers		NC
 Sn Pharmacy LLC	Union City	NJ	2	Regulatory Affairs Specialists; Database Administrators		NJ
-SNK Petroleum Wholesalers, Inc.	Danbury	CT	3	Accountants and Auditors; Information Security Engineers		CT
+SNK Petroleum Wholesalers, Inc.	Danbury	CT	2	Accountants and Auditors; Information Security Engineers		CT
 Society for Science & The Public	Washington	DC	1	Information Technology Project Managers		DC
 Society of Saint Pius X, Orlando, Florida, Inc.	Sanford	FL	1	Secondary School Teachers, Except Special and Career/Technical Education		FL
 Soft Parch LLC	Casper	WY	19	Computer Programmers; Computer Network Support Specialists; Software Developers	83600	TX,NJ,CA
@@ -5682,9 +5682,9 @@ Sony Pictures Television, Inc.	Culver City	CA	1	Business Intelligence Analysts		
 Soroco Americas Private Limited	Boston	MA	1	Information Technology Project Managers		MA
 Sound Inpatient Physicians - Michigan, PLLC	Nashville	TN	2	Hospitalists		MI
 Sound Patrol, Inc.	West Hollywood	CA	2	Financial Managers		FL
-Sound Physicians of Florida IV, LLC	Tacoma	WA	7	Hospitalists		FL
+Sound Physicians of Florida IV, LLC	Tacoma	WA	4	Hospitalists		FL
 Sound Physicians of Florida VI, LLC	Nashville	TN	5	Hospitalists		FL
-Sound Physicians of Illinois, LLC	Nashville	TN	8	Hospitalists		MO,IL
+Sound Physicians of Illinois, LLC	Nashville	TN	7	Hospitalists		MO,IL
 Sound Physicians of Massachusetts, Inc.	Nashville	TN	4	Hospitalists		MA
 Sound Point Capital Management LP	New York	NY	2	Financial and Investment Analysts; Credit Analysts		NY
 Source Point Wellness Acupuncture & Herbs	Los Angeles	CA	1	Acupuncturists		CA
@@ -5693,7 +5693,7 @@ South Col Engineering, P.C.	Albany	NY	1	Civil Engineers		NY
 South Pacific Physical Therapy, Inc.	Sherman Oaks	CA	1	Physical Therapists		CA
 South Pacific Rehabilitation Services Inc.	Encino	CA	3	Occupational Therapists; Physical Therapists; Speech-Language Pathologists		CA
 South Pine LLC	Alhambra	CA	1	Business Operations Specialists, All Other		CA
-South Sound Inpatient Physicians, PLLC	Nashville	TN	30	Hospitalists		WA,OR
+South Sound Inpatient Physicians, PLLC	Nashville	TN	22	Hospitalists		WA,OR
 Southampton County Public Schools	Courtland	VA	3	Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	46300	VA
 Southcentral Pathology Laboratory, P.A.	Wichita	KS	1	Physicians, Pathologists		KS
 Southcoast Physicians Group, Inc.	Fairhaven	MA	6	Hospitalists; Physicians, All Other; General Internal Medicine Physicians	245000	MA
@@ -6201,7 +6201,7 @@ Universal Processing, LLC	New York	NY	9	Financial Specialists, All Other; Market
 Universal Property & Casualty Insurance Company	Fort Lauderdale	FL	1	Computer Systems Analysts		FL
 Universal Protection Service, LP	Irvine	CA	5	Data Scientists; Software Developers; Financial and Investment Analysts	80000	CA,IL,NY
 Universal Radiology Partners of Nevada, LLC	West Palm Beach	FL	3	Radiologists	239200	NV
-Universidad Politecnica de Puerto Rico, Inc.			6	Engineering Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary	47900	
+Universidad Politecnica de Puerto Rico, Inc.			3	Engineering Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary	47900	
 University at Buffalo Pathologists, Inc.	Williamsville	NY	2	Physicians, Pathologists		NY
 University Health Physicians	Kansas City	MO	3	Physicians, All Other	400000	MO
 University of Cincinnati Physicians, Inc.	Cincinnati	OH	6	Health Specialties Teachers, Postsecondary		OH,KY
@@ -6265,7 +6265,7 @@ Valley Physician Services, P.C.	Paramus	NJ	1	Surgeons, All Other		NJ
 Value Pharma Inc	Newark	NJ	1	Regulatory Affairs Specialists		NY
 Value Plus Engineering Solutions LLC	Indianapolis	IN	1	Construction Managers		IN
 Van De Poel & Levy LLP	Walnut Creek	CA	1	Lawyers		CA
-Van Pelt Construction Services	Fairfield	CA	2	Project Management Specialists		CA
+Van Pelt Construction Services	Fairfield	CA	1	Project Management Specialists		CA
 Vance County Public Schools	Henderson	NC	1	Elementary School Teachers, Except Special Education		NC
 Vanda Pharmaceuticals Inc.	Washington	DC	3	Data Scientists; Clinical Data Managers; Bioinformatics Scientists	100000	DC
 Vanderbilt Integrated Providers, LLC	Nashville	TN	1	Physicians, All Other		TN
@@ -6380,7 +6380,7 @@ We the Protesters Inc.	New York	NY	1	Data Scientists		IL
 Wealth Planning Advisory Group	Bedminster	NJ	1	Financial and Investment Analysts		NJ
 Weave Platform Inc.	Claymont	DE	2	Sales Engineers; Bioinformatics Scientists		CA,MA
 Weber Partners, Ltd.	Columbus	OH	1	General and Operations Managers		CA
-WebMD Professional Services LLC	Newark	NJ	29	Software Developers; Business Intelligence Analysts; Web and Digital Interface Designers	103200	NJ
+WebMD Professional Services LLC	Newark	NJ	5	Business Intelligence Analysts; Software Developers; Web and Digital Interface Designers	103200	NJ
 Webster Pacific LLC	San Francisco	CA	1	Statisticians		ME
 Weinberg Zareh Malkin Price LLP	New York	NY	1	Judicial Law Clerks		NY
 Weitz & Luxenberg P.C	New York	NY	1	Accountants and Auditors		NY

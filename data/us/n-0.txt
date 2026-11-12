@@ -368,14 +368,14 @@ Immersion 5 LLC	Palo Alto	CA	1	Kindergarten Teachers, Except Special Education		
 Independent School District 206	Alexandria	MN	2	Special Education Teachers, Elementary School		MN
 Independent School District 256	Red Wing	MN	2	Special Education Teachers, Elementary School; Secondary School Teachers, Except Special and Career/Technical Education		MN
 Independent School District 270, Hopkins	Hopkins	MN	5	Middle School Teachers, Except Special and Career/Technical Education; Kindergarten Teachers, Except Special Education; Elementary School Teachers, Except Special Education	61000	MN
-Independent School District 423	Hutchinson	MN	7	Special Education Teachers, Elementary School; Special Education Teachers, Secondary School; Special Education Teachers, All Other	49000	MN
+Independent School District 423	Hutchinson	MN	5	Special Education Teachers, Elementary School; Special Education Teachers, Secondary School; Special Education Teachers, All Other	49000	MN
 Independent School District 424	Lester Prairie	MN	1	Special Education Teachers, Middle School		MN
 Independent School District 656	Faribault	MN	7	Elementary School Teachers, Except Special Education; Kindergarten Teachers, Except Special Education; School Psychologists	51800	MN
 Independent School District 719	Prior Lake	MN	2	Elementary School Teachers, Except Special Education		MN
 Independent School District 834 Stillwater	Stillwater	MN	1	Elementary School Teachers, Except Special Education		MN
 Interaction 24, Llc.	Bayonne	NJ	1	Computer Systems Analysts		NJ
 Interco Division 10 (Texas) LLC	Katy	TX	1	Construction Managers		TX
-Intermediate School District 917	Rosemount	MN	5	Special Education Teachers, All Other		MN
+Intermediate School District 917	Rosemount	MN	1	Special Education Teachers, All Other		MN
 ISG World 1, LLC	Palm Beach	FL	1	Financial and Investment Analysts		FL
 It's A New 10, LLC	Miami	FL	1	Accountants and Auditors		FL
 Jacam Chemical Company 2013, LLC	Gardendale	TX	1	Chemists		KS
@@ -399,7 +399,7 @@ Mach 2000 Technologies, Inc.	Woodmere	NY	6	Software Quality Assurance Analysts a
 Main Street Pharmacy 3 LLC	Bridgeport	CT	1	Information Technology Project Managers		CT
 Mars 0817 Inc	Flushing	NY	1	Market Research Analysts and Marketing Specialists		NY
 Massivit 3D Inc.	Alpharetta	GA	1	Materials Engineers		GA
-Maven 365 LLC	Beaumont	TX	4	Market Research Analysts and Marketing Specialists		TX
+Maven 365 LLC	Beaumont	TX	2	Market Research Analysts and Marketing Specialists		TX
 Miss 8, Inc.	Los Angeles	CA	1	Fashion Designers		CA
 Mission 42 Ventures, Inc	Austin	TX	2	Software Quality Assurance Analysts and Testers; Software Developers		TX
 MS 56 Corporation	Doral	FL	1	Financial and Investment Analysts		FL
@@ -434,7 +434,7 @@ Public Hospital District 1-A of Whitman County	Pullman	WA	1	Physicians, All Othe
 Quality 360 Healthcare Alliance	Carmel	IN	1	Mental Health and Substance Abuse Social Workers		IN
 Quantum Energy Partners (2020), LLC	Houston	TX	2	Data Scientists		TX
 Raf 2.0, LLC	Bala Cynwyd	PA	1	Business Intelligence Analysts		PA
-Rantoul City Schools 137	Rantoul	IL	5	Middle School Teachers, Except Special and Career/Technical Education		IL
+Rantoul City Schools 137	Rantoul	IL	1	Middle School Teachers, Except Special and Career/Technical Education		IL
 Regional School Unit 1	Bath	ME	1	Education Administrators, Kindergarten through Secondary		ME
 Roosevelt School District 66	Phoenix	AZ	8	Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Special Education Teachers, Middle School	73000	AZ
 Route 26 LLC	Greenville	NY	1	Meeting, Convention, and Event Planners		NY
@@ -442,7 +442,7 @@ RS 12909 Hospitality LLC	Houston	TX	1	Electronics Engineers, Except Computer		TX
 Rule 14, LLC	Santa Monica	CA	2	Software Developers; Financial Specialists, All Other		CA
 Russell-Tyler-Ruthton ISD 2902	Tyler	MN	2	Special Education Teachers, Elementary School		MN
 Savannah 3PL LLC	Orangeburg	SC	1	Management Analysts		SC
-School District No. 15 Of Mohave County	Bullhead City	AZ	7	Special Education Teachers, Middle School; Special Education Teachers, Secondary School; Secondary School Teachers, Except Special and Career/Technical Education	47200	AZ
+School District No. 15 Of Mohave County	Bullhead City	AZ	6	Special Education Teachers, Secondary School; Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School	47200	AZ
 SEIU Local 113	Saint Paul	MN	3	Labor Relations Specialists	82500	IA
 Service 1ST Financial LLC	Bethesda	MD	1	Software Developers		MD
 Serviceco Merger Sub 2 LLC	San Francisco	CA	1	Software Developers		NC
@@ -470,7 +470,7 @@ Think Force 360 LLC	Irving	TX	2	Computer Systems Analysts; Software Developers		
 Tier 5 Holdings LLC	Atlanta	GA	1	Data Scientists		GA
 Tier 5 Technologies, LLC	Hayward	CA	1	Software Developers		CA
 Toltec School District 22	Eloy	AZ	6	Elementary School Teachers, Except Special Education; Special Education Teachers, Middle School; Special Education Teachers, Elementary School	52000	AZ
-Tower 4 Liberty Market LLC	New York	NY	2	Web Developers		NY
+Tower 4 Liberty Market LLC	New York	NY	1	Web Developers		NY
 Trilogy 5G Inc.	Irving	TX	1	Electronics Engineers, Except Computer		TX
 Twenty Four 7 Global Solutions Inc.	Carson	CA	2	Market Research Analysts and Marketing Specialists; Purchasing Agents, Except Wholesale, Retail, and Farm Products		CA
 UES Professional Solutions 29, Inc.	Pineville	NC	1	Civil Engineers		NC

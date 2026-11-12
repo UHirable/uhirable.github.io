@@ -94,7 +94,7 @@ Alvarez & Marsal Consumer and Retail Group, LLC	New York	NY	12	Management Analys
 Alzheimer's Disease And Related Disorders Association, Inc.	Chicago	IL	2	Web Developers		MS
 Amalgam Rx. Inc.	Wilmington	DE	2	Web and Digital Interface Designers; Data Scientists		DC,DE
 Amarex Clinical Research, LLC	Germantown	MD	2	Statisticians; Natural Sciences Managers		MD
-Amazon Retail LLC	Seattle	WA	25	Logisticians; Financial and Investment Analysts; Supply Chain Managers	115000	WA,TX,NY
+Amazon Retail LLC	Seattle	WA	7	Logisticians; Financial and Investment Analysts; Supply Chain Managers	115000	WA,NY,TX
 Ambi Robotics, Inc.	Berkeley	CA	1	Robotics Engineers		CA
 Ambit RD Inc	Morristown	NJ	7	Management Analysts; Data Scientists	135000	NJ,NY,PA
 Ambrosia Parade Restaurant, LLC	Old Bridge	NJ	2	Management Analysts		NJ
@@ -114,7 +114,7 @@ American Retail Management LLC	Elkhart	IN	1	Software Developers		IN
 American Revelry, LLC	Burleson	TX	1	Cooks, Restaurant		TX
 American River Nutrition, LLC	Hadley	MA	1	Chemists		MA
 American Robotech Inc.	Plano	TX	1	Marketing Managers		TX
-American Society of Radiologic Technologists	Albuquerque	NM	4	Software Developers		NM
+American Society of Radiologic Technologists	Albuquerque	NM	2	Software Developers		NM
 American Software Resources, Inc.	Woodmere	NY	9	Business Intelligence Analysts; Computer Systems Analysts		FL,WA
 American Water Resources, LLC	Naperville	IL	2	Software Developers; Market Research Analysts and Marketing Specialists		NJ
 Amerr Rugs Inc	Gainesville	GA	1	Management Analysts		GA
@@ -138,7 +138,7 @@ Aon Risk Services, Inc. of Maryland	Chicago	IL	1	Business Intelligence Analysts	
 Apex Medical Research, AMR, Inc.	Chicago	IL	6	Social Science Research Assistants; Operations Research Analysts; Market Research Analysts and Marketing Specialists	68000	IL,TX
 Apollo Pharmacy Rx LLC	Newark	NJ	1	Logistics Analysts		NJ
 Apollo Real Estate Capital LLC	Austin	TX	1	Financial and Investment Analysts		TX
-Appalachian Regional Healthcare, Inc.	Hazard	KY	12	Medical and Clinical Laboratory Technologists; Surgeons, All Other; Physical Therapists	530000	KY,WV
+Appalachian Regional Healthcare, Inc.	Hazard	KY	10	Medical and Clinical Laboratory Technologists; Surgeons, All Other; Physical Therapists	530000	KY,WV
 Applied Medical Resources Corporation	Rancho Santa Margarita	CA	20	Management Analysts; Software Developers; Regulatory Affairs Specialists	137000	CA
 Applied Research Associates, Inc.	Albuquerque	NM	4	Civil Engineers; Software Developers	83300	IL,CA,TX
 Applied Research Works, Inc	San Ramon	CA	1	Computer and Information Systems Managers		NC
@@ -220,7 +220,7 @@ Banner Ridge Partners LP	New York	NY	2	Financial and Investment Analysts; Financ
 Banyan Risk USA Inc.	New York	NY	2	Market Research Analysts and Marketing Specialists		NJ
 Bard College at Simon's Rock	Barrytown	NY	1	Mental Health Counselors		NY
 Bard, Rao & Athanas Consulting Engineers, LLC	Boston	MA	2	Mechanical Engineers; Electrical Engineers		FL,MA
-Barlow Respiratory Hospital	Los Angeles	CA	5	Critical Care Nurses		CA
+Barlow Respiratory Hospital	Los Angeles	CA	1	Critical Care Nurses		CA
 Bartholomew County Rural Electric Membership Corporation	Columbus	IN	1	Electrical Engineers		IN
 Basis Research Institute	Nyc	NY	3	Computer and Information Research Scientists	160000	NY
 Baxter County Regional Hospital, Inc.	Mountain Home	AR	1	Cardiologists		AR
@@ -368,7 +368,7 @@ Central Arkansas Radiation Therapy Institute, Inc.	Little Rock	AR	4	Business Int
 Century Restaurants, Inc.	Charleston	SC	1	Training and Development Specialists		NH
 Ceres Robotics, Inc.	Montara	CA	2	Aerospace Engineers		CA
 Chadwick Riley Corporation	Jacksonville	FL	6	Software Quality Assurance Analysts and Testers; Software Developers	104700	IL,FL,KS
-Chai Research Corp	Palo Alto	CA	7	Software Developers	264500	CA
+Chai Research Corp	Palo Alto	CA	3	Software Developers	264500	CA
 Champaign County Regional Planning Commission	Urbana	IL	1	Operations Research Analysts		IL
 ChampionX Resources, Inc.	Sugar Land	TX	7	Chemists; Sales Engineers; Industrial Engineers	130400	TX
 Chao.S Public Relations Inc.	Long Island City	NY	1	Market Research Analysts and Marketing Specialists		NY
@@ -457,7 +457,7 @@ Coral Academy of Science Reno	Reno	NV	5	Secondary School Teachers, Except Specia
 Core Natural Resources f/k/a CONSOL Mining Company LLC	Canonsburg	PA	3	Business Intelligence Analysts; Database Architects	110000	PA
 Core Rehab Staffing, Inc.	Astoria	NY	7	Exercise Physiologists; Therapists, All Other	62400	NY
 Coriell Institute for Medical Research	Camden	NJ	1	Software Developers		NJ
-Cornerstone Research, Inc.	Boston	MA	74	Economists; Software Developers; Data Scientists	232500	NY,CA,DC
+Cornerstone Research, Inc.	Boston	MA	59	Economists; Software Developers; Data Scientists	232500	CA,NY,MA
 Corning Research & Development Corporation	Corning	NY	29	Mechanical Engineers; Materials Engineers; Photonics Engineers	123400	NY,NC,TX
 Corporate Employment Resources, Inc.	Atlanta	GA	8	Electronics Engineers, Except Computer; Mechanical Engineers; Computer Systems Engineers/Architects		ND,MI,NC
 Corporate Environmental Risk Management	Atlanta	GA	1	Sustainability Specialists		GA
@@ -467,7 +467,7 @@ Corvus Robotics Inc.	Mountain View	CA	4	Robotics Engineers; Logisticians; Web De
 CoStar Realty Information Inc.	Arlington	VA	17	Software Developers; Database Administrators; Software Quality Assurance Analysts and Testers	158400	CA,VA
 County of Riverside	Moreno Valley	CA	1	Medical and Health Services Managers		CA
 County of Rosebud Colstrip School District 19	Colstrip	MT	1	Middle School Teachers, Except Special and Career/Technical Education		MT
-County of Rosebud School District 32J	Ashland	MT	5	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	41600	MT
+County of Rosebud School District 32J	Ashland	MT	3	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	41600	MT
 CRABI Robotics Inc	Medford	MA	1	Robotics Engineers		MA
 Crash Safety Research Center, LLC	East Hampton	CT	1	Data Scientists		CT
 Crave Robotics Inc	San Dimas	CA	2	Operations Research Analysts		CA
@@ -624,7 +624,7 @@ ENSCO Rail, Inc.	Vienna	VA	2	Software Developers; Industrial Engineers		VA
 Ensemble RCM LLC	Blue Ash	OH	4	Computer and Information Systems Managers; Software Developers; Database Architects	164100	PA,FL,GA
 Ensign Santa Rosa LLC	Santa Rosa	CA	1	Physical Therapists		CA
 Enterprise Risk Management Inc	Coral Gables	FL	2	Information Security Analysts		FL
-Entertainment Retail Enterprises LLC	Apopka	FL	2	Web and Digital Interface Designers		FL
+Entertainment Retail Enterprises LLC	Apopka	FL	1	Web and Digital Interface Designers		FL
 Entregas RS International LLC	Miami	FL	1	Logisticians		FL
 Environmental Resources Management, Inc.	Malvern	PA	3	Environmental Engineers; Software Developers	142100	IL,TX,VA
 Environmental Systems Research Institute, Inc.	Redlands	CA	104	Software Developers; Software Quality Assurance Analysts and Testers; Information Security Engineers	118500	CA,NC,VA
@@ -738,7 +738,7 @@ Ge Renewables North America, LLC	Pensacola	FL	2	Industrial Production Managers		
 Gecko Robotics, Inc.	Pittsburgh	PA	3	Software Developers; Robotics Engineers	190000	MA,PA,NY
 Gelman, Rosenberg & Freedman, A Professional Corporation	Bethesda	MD	2	Accountants and Auditors		MD
 General Reinsurance Corporation	Stamford	CT	1	Data Scientists		CT
-General Robotics Technology, Inc.	Redmond	WA	20	Robotics Engineers		WA
+General Robotics Technology, Inc.	Redmond	WA	2	Robotics Engineers		WA
 Genesee & Wyoming Railroad Services, Inc.	Rochester	NY	2	Data Warehousing Specialists; Economists		NY,IL
 Genesis Fertility and Reproductive Medicine, P.C.	Brooklyn	NY	1	Medical and Clinical Laboratory Technologists		NY
 Genesis Global Recruiting, Inc.	Miramar	FL	1	Special Effects Artists and Animators		NY
@@ -758,7 +758,7 @@ Global Association of Risk Professionals, Inc.	Jersey City	NJ	3	Financial Risk S
 Global Digital Resources LLC	Addison	TX	5	Software Developers	91500	TX,FL
 Global Engineering Resources, LLC	Rochester Hills	MI	1	Architectural and Engineering Managers		MI
 Global Enterprise Tech Resources, Inc.	Troy	MI	6	Computer Systems Engineers/Architects; Software Developers; Computer Systems Analysts	121200	MI
-Global Nursing Recruiters	Tucker	GA	15	Critical Care Nurses; Medical and Health Services Managers	83800	AL,KS,GA
+Global Nursing Recruiters	Tucker	GA	14	Critical Care Nurses; Medical and Health Services Managers	83800	AL,KS,NJ
 Global Research Synergies, Inc.	Orlando	FL	2	Marketing Managers		FL
 Global Resources International, Inc.	Flowery Branch	GA	1	Bioengineers and Biomedical Engineers		GA
 Global Trauma Research	Brooklyn	NY	1	Instructional Coordinators		NY
@@ -864,7 +864,7 @@ Honda Research Institute USA, Inc.	San Jose	CA	8	Computer and Information Resear
 Honghai Realty Services Inc.	Lake Forest	CA	1	Financial and Investment Analysts		CA
 Honors Review Princeton LLC	Princeton	NJ	1	Educational, Guidance, and Career Counselors and Advisors		NJ
 Hoosier Racing Tire Corp.	Lakeville	IN	3	Mechanical Engineers; Architectural and Engineering Managers; Logistics Analysts	99700	IN
-Hospitalist Medicine Physicians of Richland County, Ltd.	Nashville	TN	9	Hospitalists		OH
+Hospitalist Medicine Physicians of Richland County, Ltd.	Nashville	TN	8	Hospitalists		OH
 House & Robertson Architects, Inc.	Houston	TX	1	Designers, All Other		TX
 Houston Advanced Research Center (HARC)	The Woodlands	TX	1	Computer and Information Research Scientists		TX
 HRB Professional Resources, LLC	Kansas City	MO	31	Software Developers; Computer Systems Engineers/Architects; Information Technology Project Managers	135000	MO,TX,VA
@@ -901,7 +901,7 @@ Indorama Ventures Sustainable Recycling, LLC	Dallas	TX	1	Electrical Engineers		T
 Indus River Technologies Inc	Irving	TX	10	Software Developers; Database Administrators; Computer Systems Analysts	95100	TX,PA,NC
 Industrial Control Repair Inc	Warren	MI	1	Industrial Engineers		MI
 Information Resource Group, Inc.	Jefferson City	MO	5	Software Developers	117500	MO,TX,OH
-Innovative Physical Rehab And Wellness Center	Kendall Park	NJ	8	Physical Therapists		NJ
+Innovative Physical Rehab And Wellness Center	Kendall Park	NJ	1	Physical Therapists		NJ
 Insight Rx, Inc.	San Francisco	CA	5	Software Developers; Bioengineers and Biomedical Engineers	134000	CA
 Inspire Resources, LLC	Atlanta	GA	21	Software Developers; Data Scientists; Information Technology Project Managers	138300	GA,MA,VA
 Instinct Robotics Inc	Pittsburgh	PA	2	Web and Digital Interface Designers; Computer and Information Systems Managers		PA
@@ -933,7 +933,7 @@ IT Rysources Inc	Farmingtonhills	MI	11	Software Developers; Software Quality Ass
 Italy Rehab PT PC	Brooklyn	NY	1	Physical Therapists		NY
 Ivy Rehab Physical Therapy, Occupational Therapy & Speech-Language Pathology, PLLC	White Plains	NY	2	Physical Therapists		MI
 J R Dadwal Inc.	San Jose	CA	3	Veterinarians	240000	CA
-J-Star Research, Inc.	South Plainfield	NJ	23	Chemists; Mechanical Engineers	107400	NJ
+J-Star Research, Inc.	South Plainfield	NJ	16	Chemists; Mechanical Engineers	107400	NJ
 J.A. Rosa Construction, LLC	Wolcott	CT	1	Construction Managers		CT
 J.r. Reingold & Associates, Inc.	Alexandria	VA	1	Public Relations Specialists		VA
 JAC Recruitment (US), Inc.	New York	NY	1	Market Research Analysts and Marketing Specialists		NJ
@@ -971,11 +971,11 @@ JRN Rani Enterprises, LLC	Thornburg	VA	1	Software Developers		VA
 Jsi Research & Training Institute	Boston	MA	1	Public Relations Specialists		MA
 Jupiter Research Inc.	New York	NY	3	Financial Quantitative Analysts	200000	NY
 Jupiter Research Services, Inc.	Edison	NJ	4	Operations Research Analysts; Clinical Research Coordinators	121000	NJ
-Justice Resource Institute Inc.	Needham	MA	15	Rehabilitation Counselors; Mental Health Counselors; Social and Community Service Managers	49900	MA,RI
+Justice Resource Institute Inc.	Needham	MA	14	Rehabilitation Counselors; Mental Health Counselors; Social and Community Service Managers	49900	MA,RI
 Jw Real Estate Services, LLC	Boston	MA	1	Market Research Analysts and Marketing Specialists		MA
 JWS Air Conditioning & Refrigeration, Inc.			1	Compensation and Benefits Managers		
 Jxj Realty LLC	Rego Park	NY	1	Market Research Analysts and Marketing Specialists		NY
-K2 Medical Research LLC	Maitland	FL	2	Clinical Research Coordinators		FL
+K2 Medical Research LLC	Maitland	FL	1	Clinical Research Coordinators		FL
 Kadlec Regional Medical Center	Renton	WA	6	General Internal Medicine Physicians; Surgeons, All Other; Cardiologists	183900	WA
 Kahn, Litwin, Renza and Co., Ltd.	Providence	RI	4	Accountants and Auditors	119500	MA
 Kansas City Southern Railway Company	Kansas City	MO	12	Software Developers; Business Intelligence Analysts; Data Scientists	134600	MO
@@ -1015,7 +1015,7 @@ Lake Region Manufacturing, Inc.	Chaska	MN	1	Industrial Engineers		MN
 Lake Regional Health System	Osage Beach	MO	8	Medical and Clinical Laboratory Technologists	69500	MO
 Lakes Regional Healthcare	Spirit Lake	IA	2	Medical and Clinical Laboratory Technologists		IA
 Lakeshore Recycling Systems, LLC	Rosemont	IL	1	Data Scientists		IL
-Lam Research Corporation	Fremont	CA	193	Materials Engineers; Electronics Engineers, Except Computer; Software Developers	136400	CA,OR,AZ
+Lam Research Corporation	Fremont	CA	186	Materials Engineers; Electronics Engineers, Except Computer; Software Developers	136400	CA,OR,AZ
 Lancaster Regional Hospital LP	Lancaster	TX	1	Computer Network Support Specialists		TX
 Lankenau Institute for Medical Research	Wynnewood	PA	3	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary		PA
 Las Vegas Veterinary Referral Center, Critical and Emergency Care LLC	Las Vegas	NV	1	Veterinarians		NV
@@ -1080,7 +1080,7 @@ Lupin Research, Inc.	Coral Springs	FL	5	Natural Sciences Managers; Chemists; Qua
 Lutheran Immigration and Refugee Service	Baltimore	MD	1	Computer Systems Analysts		MD
 Lux Research, Inc.	Boston	MA	2	Market Research Analysts and Marketing Specialists		MI,TX
 LWS Research Inc.	West Hollywood	CA	1	Software Quality Assurance Analysts and Testers		PA
-LXD Research & Display, LLC	Raleigh	NC	2	Electrical Engineers		NC
+LXD Research & Display, LLC	Raleigh	NC	1	Electrical Engineers		NC
 M Cannon Roofing Company LLC	St. Charles	IL	1	Cost Estimators		IL
 M. R. Tudor - California, Inc.	Upland	CA	1	Supply Chain Managers		CA
 M. Suzette Rivera & Associates, P.C.	Astoria	NY	1	Judicial Law Clerks		NY
@@ -1102,15 +1102,15 @@ Manning & Kass, Ellrod, Ramirez, Trester LLP	Los Angeles	CA	1	Lawyers		CA
 Marco Q. Rossi & Associati PLLC	Los Angeles	CA	1	Judicial Law Clerks		FL
 Marine Repair Services of New York, LLC	Charleston	SC	1	Software Developers		SC
 Markcity, Rothman, Cantwell & Breitner, PA	Plantation	FL	1	Training and Development Specialists		FL
-Market Revolution Inc.	Miami	FL	3	Market Research Analysts and Marketing Specialists		FL
+Market Revolution Inc.	Miami	FL	2	Market Research Analysts and Marketing Specialists		FL
 Marriott Ownership Resorts, Inc.	Orlando	FL	4	Software Developers	125000	FL,VA,TX
 Martello Re Services Company LLC	Charlotte	NC	4	Database Architects; Actuaries	186000	NC,NY
 Mason RX Inc	Bronx	NY	2	Business Intelligence Analysts; Data Scientists		NY
-Mastech Digital Resourcing, Inc.	Moon Township	PA	240	Software Developers; Software Quality Assurance Analysts and Testers; Database Architects	138300	TX,RI,NH
+Mastech Digital Resourcing, Inc.	Moon Township	PA	40	Software Developers; Software Quality Assurance Analysts and Testers; Database Architects	138300	TX,RI,NH
 Master Roofing & Siding Inc	Montvale	NJ	2	Cost Estimators		NJ
 Matamna RE Inc.	Dallas	TX	1	Market Research Analysts and Marketing Specialists		TX
 Materials Resources LLC	Xenia	OH	1	Materials Scientists		OH
-Matic Robots, Inc.	Mountain View	CA	25	Robotics Engineers; Mechanical Engineers; Industrial Engineers	166600	CA
+Matic Robots, Inc.	Mountain View	CA	22	Robotics Engineers; Mechanical Engineers; Industrial Engineers	166600	CA
 Matrix Racquet Club, LLC	Lowell	AR	1	Financial and Investment Analysts		AR
 Matrix Renewables USA LLC	Miami	FL	1	Solar Energy Systems Engineers		CA
 Matter RE LLC	New York	NY	1	Management Analysts		NY
@@ -1167,16 +1167,16 @@ Missouri Dental Professionals, Richard Straus, D.M.D., PC	Effingham	IL	1	Dentist
 Missouri Organic Recycling, Inc.	Kansas City	MO	2	Accountants and Auditors		MO
 Mitsubishi Electric Research Laboratories, Inc.	Cambridge	MA	7	Computer and Information Research Scientists; Aerospace Engineers; Data Scientists	161000	MA
 MKTG Rhythm LLC	Greenville	SC	1	Market Research Analysts and Marketing Specialists		SC
-Moby Robotics Inc.	Miami	FL	3	Robotics Engineers		FL
+Moby Robotics Inc.	Miami	FL	1	Robotics Engineers		FL
 Model Evaluation and Threat Research Inc.	Covina	CA	2	Computer and Information Research Scientists		CA
 Momentum Resource Solutions, LLC	Atlanta	GA	3	Data Scientists; Information Technology Project Managers; Software Quality Assurance Analysts and Testers		NY,NJ
 Monarch Resorts, LLC.	Corpus Christi	TX	1	Construction Managers		TX
 Monster Reservations Group LLC	Myrtle Beach	SC	3	Software Developers	110000	SC
 Monte Rosa Therapeutics Inc.	Boston	MA	2	Bioinformatics Scientists		MA
-Montefiore New Rochelle Hospital	New Rochelle	NY	12	Physicians, All Other	79000	NY
+Montefiore New Rochelle Hospital	New Rochelle	NY	4	Physicians, All Other	79000	NY
 Monterey Bay Aquarium Research Institute	Moss Landing	CA	3	Geoscientists, Except Hydrologists and Geographers; Marine Engineers and Naval Architects; Remote Sensing Technicians	86800	CA,TX
 Monterey Bay Aquarium Research Institute (MBARI)	Moss Landing	CA	3	Remote Sensing Technicians; Biological Technicians	55000	CA
-Monument Health Rapid City Hospital, Inc.	Rapid City	SD	71	Registered Nurses; Cardiologists; Physicians, All Other	550000	SD
+Monument Health Rapid City Hospital, Inc.	Rapid City	SD	6	Registered Nurses; Cardiologists; Physicians, All Other	550000	SD
 Morningstar Research Services, LLC	Chicago	IL	3	Financial and Investment Analysts	125000	IL
 Morris & Ritchie Associates, Inc	Abingdon	MD	3	Civil Engineers	96400	MD,CA
 Morrow Reardon Wilkinson Miller, Ltd	Albuquerque	NM	1	Landscape Architects		NM
@@ -1193,7 +1193,7 @@ MS Amlin Reinsurance Managers, Inc.	Miami	FL	1	Insurance Underwriters		FL
 MSB Global Resources Corporation	Wichita	KS	1	Aerospace Engineers		NC
 Mueser Rutledge Consulting Engineers PLLC	New York	NY	4	Civil Engineers	105800	NY,PA
 Mugleston Ranch Plaza Dental Group, PC	Irvine	CA	1	Dentists, General		NV
-Multiway Robotics America Inc.	Duluth	GA	2	Computer Systems Engineers/Architects		GA
+Multiway Robotics America Inc.	Duluth	GA	1	Computer Systems Engineers/Architects		GA
 Munich American Reassurance Company	Atlanta	GA	3	Actuaries; Information Security Analysts	159000	NY
 Munich Re America Services, Inc.	Princeton	NJ	12	Software Developers; Information Technology Project Managers; Database Architects	156200	OH,NY,CT
 Munich Reinsurance America, Inc.	Princeton	NJ	10	Data Scientists; Actuaries; Operations Research Analysts	159700	NY,NJ
@@ -1227,7 +1227,7 @@ Navigators Real Estate, Inc.	Arcadia	CA	2	Market Research Analysts and Marketing
 Neighborhood Health Plan of Rhode Island	Smithfield	RI	2	Data Warehousing Specialists; Accountants and Auditors		RI
 Nelson Mullins Riley & Scarborough LLP	Columbia	SC	4	Lawyers	215200	NY,TX,GA
 Neon Redwood LLC	San Francisco	CA	1	Database Architects		CA
-Neosho Memorial Regional Medical Center	Chanute	KS	6	Medical and Clinical Laboratory Technologists; Surgeons, All Other		KS
+Neosho Memorial Regional Medical Center	Chanute	KS	2	Medical and Clinical Laboratory Technologists; Surgeons, All Other		KS
 Nestle Nutrition R&d Centers, Inc	Fremont	MI	1	Food Scientists and Technologists		NJ
 Nestle Purina Global Resources	Arlington	VA	1	Marketing Managers		MO
 Nestle R&d Center, Inc	Marysville	OH	2	Mechanical Engineers; Regulatory Affairs Specialists		VA,OH
@@ -1285,7 +1285,7 @@ Northwest Immigrant Rights Project	Seattle	WA	1	Lawyers		WA
 Norton Rose Fulbright US LLP	New York	NY	15	Judicial Law Clerks; Lawyers	225000	NY,MN,IL
 Nostrand RX Inc	Brooklyn	NY	1	Business Intelligence Analysts		NY
 Nova Green Recycling, LLC	Kansas City	KS	2	Accountants and Auditors; Market Research Analysts and Marketing Specialists		KS
-Nova R&D, Inc.	West Covina	CA	2	Electrical Engineers		CA
+Nova R&D, Inc.	West Covina	CA	1	Electrical Engineers		CA
 Nova Robotics LLC	Cupertino	CA	1	Software Developers		CA
 Novartis Institutes for BioMedical Research, Inc.	East Hanover	NJ	26	Molecular and Cellular Biologists; Biological Scientists, All Other; Bioinformatics Scientists	92000	MA,CA
 Novecks Rx LLC	North Bergen	NJ	2	Business Intelligence Analysts		NJ
@@ -1355,8 +1355,8 @@ Parker Rodriguez, Inc.	Alexandria	VA	1	Landscape Architects		VA
 Partnerships for Trauma Recovery	Berkeley	CA	1	Marriage and Family Therapists		CA
 Paryani Real Estate, LLC	Atlanta	GA	1	Cost Estimators		GA
 Path Robotics Inc.	Columbus	OH	14	Software Developers; Robotics Engineers; Architectural and Engineering Managers	172200	OH,CA
-Paul Rabinowitz Glass Company, Inc.	Philadelphia	PA	2	Cost Estimators		PA
-Paul, Weiss, Rifkind, Wharton & Garrison, LLP	New York	NY	74	Lawyers	225000	NY,DC,NJ
+Paul Rabinowitz Glass Company, Inc.	Philadelphia	PA	1	Cost Estimators		PA
+Paul, Weiss, Rifkind, Wharton & Garrison, LLP	New York	NY	44	Lawyers	225000	NY,DC,NJ
 PAVE Southeast Raleigh Charter School	Raleigh	NC	1	Elementary School Teachers, Except Special Education		NC
 Payden & Rygel	Los Angeles	CA	2	Financial and Investment Analysts; Software Developers		CA
 PCS Retirement, LLC	Wilmington	DE	1	Data Scientists		NY
@@ -1384,7 +1384,7 @@ Physical Medicine and Rehabilitation MSG, LLP	Syracuse	NY	1	Physical Medicine an
 Physicians Committee for Responsible Medicine	Washington	DC	1	Medical Scientists, Except Epidemiologists		NC
 Pi R-Square Solutions LLC	Alpharetta	GA	2	Software Developers		TX,FL
 Pickle Robot Company	Charlestown (Boston City)	MA	8	Mechatronics Engineers; Mechanical Engineers	142700	MA
-Piedmont Athens Regional Medical Center, Inc.	Athens	GA	23	Physicians, All Other; Medical and Clinical Laboratory Technologists; Healthcare Practitioners and Technical Workers, All Other	65200	GA
+Piedmont Athens Regional Medical Center, Inc.	Athens	GA	8	Physicians, All Other; Medical and Clinical Laboratory Technologists; Healthcare Practitioners and Technical Workers, All Other	65200	GA
 PIMCO Prime Real Estate LLC	New York	NY	1	Financial and Investment Analysts		NY
 Pine Rest Christian Health Mental Services	Grand Rapids	MI	1	Psychologists, All Other		MI
 Pinnacle Technical Resources, Inc.	Dallas	TX	17	Software Developers; Web and Digital Interface Designers; Computer Systems Engineers/Architects		TX,AZ,NC
@@ -1487,7 +1487,7 @@ R.T. Patterson Company, Inc.	Exton	PA	2	Civil Engineers		PA
 R.V. Kuhns & Associates, Inc.	Portland	OR	1	Financial and Investment Analysts		OR
 R1 RCM Holdco Inc.	Murray	UT	8	Software Developers; Information Technology Project Managers; Business Intelligence Analysts	140200	CO,TX,VA
 R10 Labs, Inc.	Lewis Center	OH	1	Computer and Information Systems Managers		OH
-R2 Technologies Corporation	Alpharetta	GA	41	Computer Programmers; Computer Systems Engineers/Architects; Software Developers	86600	GA,MA,SC
+R2 Technologies Corporation	Alpharetta	GA	22	Computer Programmers; Computer Systems Engineers/Architects; Software Developers	86600	GA,MA,KY
 R2C Innovations, Inc	Farmington	MI	1	Software Developers		MI
 R2gate America, Inc.	Fair Lawn	NJ	6	Market Research Analysts and Marketing Specialists; Accountants and Auditors; Operations Research Analysts		NJ
 R2J Investments LLC	Dallas	TX	1	Pharmacists		TX
@@ -1702,7 +1702,7 @@ Rani Therapeutics, LLC	San Jose	CA	1	Mechanical Engineers		CA
 Ranial Systems, Inc.	Long Island City	NY	3	Statisticians; Computer Programmers; Information Technology Project Managers	81000	NY
 Ranjeet Koirala CPA PC	Bedford	TX	1	Marketing Managers		TX
 Rantoul City School District 137	Rantoul	IL	3	Elementary School Teachers, Except Special Education; Career/Technical Education Teachers, Middle School	59100	IL
-Rantoul City Schools 137	Rantoul	IL	5	Middle School Teachers, Except Special and Career/Technical Education		IL
+Rantoul City Schools 137	Rantoul	IL	1	Middle School Teachers, Except Special and Career/Technical Education		IL
 Rao’s Consulting Engineers, Llc.	Cedar Park	TX	1	Computer Systems Analysts		TX
 Rap Equities LLC	New York	NY	1	Financial and Investment Analysts		NY
 Rapacki and Co PA	Edina	MN	1	Accountants and Auditors		MN
@@ -1833,7 +1833,7 @@ RCI, LLC (Travel and Leisure Co.)	Orlando	FL	1	Business Intelligence Analysts		I
 Rck Pharmacy LLC	New York	NY	1	Database Administrators		NY
 RCK Techiees Inc	Jacksonville	FL	1	Information Technology Project Managers		CO
 RCM Technologies (USA) Inc	Montvale	NJ	2	Electrical Engineers; Commercial and Industrial Designers		NJ
-RCM Technologies Inc.	New York	NY	248	Occupational Therapists; Physical Therapists; Speech-Language Pathologists		NY,CA
+RCM Technologies Inc.	New York	NY	9	Occupational Therapists; Speech-Language Pathologists; Physical Therapists		NY,CA
 RCP Inc.	Houston	TX	1	Training and Development Specialists		TX
 RCR Technology Corporation	Indianapolis	IN	8	Software Developers; Computer Systems Engineers/Architects; Software Quality Assurance Analysts and Testers	95200	IN,CA
 Rcro LLC	Malvern	PA	1	Software Developers		NJ
@@ -1856,7 +1856,7 @@ Re IT Services Inc	Leander	TX	5	Software Developers; Information Security Analys
 RE Tech Advisors Inc.	McLean	VA	1	Data Scientists		VA
 Re-Steel Supply Co., Inc.	Eddystone	PA	1	Quality Control Analysts		PA
 Re:Car, Inc.	Troy	MI	15	Mechanical Engineers; Validation Engineers; Mechatronics Engineers	130000	MI,IN
-re:Cycle Reverse Logistics LLC	Seattle	WA	18	Network and Computer Systems Administrators; Industrial Engineers; Information Technology Project Managers	143400	KY,PA,TN
+re:Cycle Reverse Logistics LLC	Seattle	WA	9	Industrial Engineers; Network and Computer Systems Administrators; Information Technology Project Managers	143400	PA,KY,TN
 Reach Financial LLC (fka Liberty Lending, LLC)	New York	NY	2	Credit Analysts; Financial and Investment Analysts		NY
 Reach Power, Inc.	Redwood City	CA	1	Software Developers		CA
 Reach Security, Inc.	Sunnyvale	CA	1	Information Technology Project Managers		CA
@@ -1865,7 +1865,7 @@ ReachLocal, Inc.	New York	NY	3	Advertising and Promotions Managers; Software Dev
 ReachMobi, Inc.	Overland Park	KS	2	Software Developers; Market Research Analysts and Marketing Specialists		FL,PA
 ReachNett Consulting, Inc.	Carrollton	TX	1	Operations Research Analysts		TX
 ReaCredence IT Solutions Inc.	Huntersville	NC	1	Computer and Information Systems Managers		NC
-Reaction Co.			3	Civil Engineers		
+Reaction Co.			2	Civil Engineers		
 Reactor Eye, Inc.	Houston	TX	1	Mechanical Engineers		TX
 Reactor Technologies, Inc.	San Francisco	CA	1	Software Developers		CA
 READ Cased Hole, Inc.	Houston	TX	1	Mechanical Engineers		TX
@@ -1976,7 +1976,7 @@ Red Hibbert Group LLC	San Ramon	CA	9	Software Developers; Data Scientists; Softw
 Red Lake School District 38	Red Lake	MN	5	Special Education Teachers, Secondary School; Special Education Teachers, Middle School; Elementary School Teachers, Except Special Education	68700	MN
 Red Leaf Chicago, LLC	Chicago	IL	1	Digital Forensics Analysts		IL
 Red Luck Consulting Inc.	Dallas	TX	1	Financial and Investment Analysts		TX
-Red Mesa Unified School Disctrict 27	Teec Nos Pos	AZ	8	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School		AZ
+Red Mesa Unified School Disctrict 27	Teec Nos Pos	AZ	2	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School		AZ
 Red Meters LLC	Orlando	FL	1	Software Developers		FL
 Red Oak Sourcing, LLC	Foxboro	MA	1	Data Scientists		MA
 Red Oak Strategic, LLC	Alexandria	VA	1	Software Developers		VA
@@ -2026,7 +2026,7 @@ Redolent Inc.	Fremont	CA	3	Web Developers; Management Analysts	109600	CA
 Redondo Beach Unified School District	Redondo Beach	CA	2	Elementary School Teachers, Except Special Education		CA
 Redpanda Data, Inc.	San Francisco	CA	1	Software Developers		CA
 Redpath and Company, LLC	Saint Paul	MN	1	Financial and Investment Analysts		MN
-Redrob, Inc.	New York	NY	2	Software Developers		NY
+Redrob, Inc.	New York	NY	1	Software Developers		NY
 RedSail Technologies, LLC	Spartanburg	SC	3	Software Developers; Network and Computer Systems Administrators	160000	TX,SC
 Redseal, Inc.	Menlo Park	CA	1	Software Developers		TX
 Redshift Enterprise Consulting Solutions LLC	Alpharetta,	GA	1	Computer Programmers		GA
@@ -2068,7 +2068,7 @@ Refik Anadol Studio, LLC	Los Angeles	CA	2	Data Scientists; Special Effects Artis
 Refinitiv Global Markets Inc	New York	NY	1	Financial Quantitative Analysts		MA
 Refinitiv US LLC	New York	NY	25	Software Developers; Network and Computer Systems Administrators; Computer and Information Systems Managers	122400	MO,NY,IL
 Reflect Orbital Inc.	Hawthorne	CA	3	Software Developers; Aerospace Engineers	157100	CA
-Reflection AI, Inc.	Brooklyn	NY	23	Software Developers; Computer and Information Research Scientists; Computer and Information Systems Managers	189600	CA,NY
+Reflection AI, Inc.	Brooklyn	NY	22	Software Developers; Computer and Information Research Scientists; Computer and Information Systems Managers	189600	CA,NY
 Reflection Healthcare LLC	Newport	TN	1	Family Medicine Physicians		TN
 Reflection Window Company, LLC	Chicago	IL	3	Architects, Except Landscape and Naval; Cost Estimators; Architectural and Engineering Managers	84000	IL,TX
 Reflective Inc.	San Francisco	CA	1	Atmospheric and Space Scientists		CA
@@ -2152,7 +2152,7 @@ Relation Insurance, Inc.	Overland Park	KS	1	Administrative Services Managers		CA
 RelationalAI, Inc.	Berkeley	CA	2	Software Developers; Information Technology Project Managers		WA
 Relativistic Engine LLC	Miami Lakes	FL	1	Computer Systems Analysts		FL
 Relativity ODA LLC	Chicago	IL	10	Software Developers; Computer and Information Research Scientists	152600	IL,NJ
-Relay Electric	Suffolk	VA	2	Helpers--Electricians		VA
+Relay Electric	Suffolk	VA	1	Helpers--Electricians		VA
 Relay Network, LLC	Radnor	PA	1	Software Developers		NV
 Relay Robotics, Inc.	San Jose	CA	3	Supply Chain Managers	135100	CA
 Relentless Adrenaline Corporation	Lathrop	CA	1	Software Quality Assurance Analysts and Testers		CA
@@ -2228,7 +2228,7 @@ Remit2Any Inc	Bellevue	WA	1	Computer and Information Systems Managers		WA
 Remitly, Inc.	Seattle	WA	41	Software Developers; Information Technology Project Managers; Accountants and Auditors	160000	WA,VA,MI
 Remote Tiger, Inc.	Greenbelt	MD	17	Software Developers; Computer Programmers	97500	TX,MD,IL
 Remwes, LLC	Springfield	IL	6	Software Developers; Bioengineers and Biomedical Engineers	132600	IL
-Remy Center			6	Training and Development Specialists		ID
+Remy Center			1	Training and Development Specialists		ID
 REN Group Inc.	Munhall	PA	1	Software Developers		AL
 Rena Sports Inc.	New York	NY	2	Market Research Analysts and Marketing Specialists		NY
 Renaisons LLC	Rowlett	TX	1	Human Resources Specialists		TX
@@ -2243,7 +2243,7 @@ RenaissanceTech LLC	Dublin	OH	1	Computer Systems Analysts		IN
 Renal Associates of Alabama, LLC	Columbus	GA	2	Physicians, All Other		AL
 Renal Associates of Montgomery, PC	Montgomery	AL	4	Physicians, All Other	287500	AL
 Renal Care Consultants, P.C.	Medford	OR	1	Physicians, All Other		OR
-RenalCare Associates, SC	Peoria	IL	6	Physicians, All Other	280000	IL
+RenalCare Associates, SC	Peoria	IL	3	Physicians, All Other	280000	IL
 Render Services, Inc.	San Francisco	CA	1	Data Scientists		CA
 Renee Cooley Lighting Design Inc	New York	NY	4	Architects, Except Landscape and Naval	120000	NY
 Renee Systems Inc	Brecksville	OH	5	Business Intelligence Analysts; Information Technology Project Managers	102600	KY,NY,MO
@@ -2300,7 +2300,7 @@ Rescale, Inc.	Draper	UT	2	Software Developers		PA,NJ
 Resco Products, Inc. US	Pittsburgh	PA	1	Supply Chain Managers		PA
 Research & Robotics Inc	New Bedford	MA	1	Robotics Engineers		MA
 Research and Diagnostic Systems, Inc.	Minneapolis	MN	4	Molecular and Cellular Biologists; Software Quality Assurance Analysts and Testers; Biostatisticians	96800	MN,MA
-Research Center for Clinical Studies, Inc.	Norwalk	CT	5	Biostatisticians		CT
+Research Center for Clinical Studies, Inc.	Norwalk	CT	1	Biostatisticians		CT
 Research Corporation of the University of Hawaii	Honolulu	HI	18	Data Scientists; Molecular and Cellular Biologists; Geoscientists, Except Hydrologists and Geographers		HI
 Research Data and Communication Technologies Benefit Corporation	Garrett Park	MD	2	Database Administrators		MD
 Research Data Group, Inc.	Salem	VA	1	Software Quality Assurance Analysts and Testers		ID
@@ -2375,7 +2375,7 @@ Resource Systems Group, Inc.	White River Junction	VT	1	Transportation Engineers	
 RESOURCE9 Group Inc	Long Island City	NY	1	Software Quality Assurance Analysts and Testers		NC
 Resourcepoint Consulting Inc	Titusville	FL	1	Software Developers		FL
 Resourcesoft Inc	Marlborough	MA	3	Software Developers; Data Scientists		MA,DC,RI
-Resourcesys, Inc.	Ellicott City	MD	22	Computer Systems Engineers/Architects; Software Developers; Computer Programmers	94700	NJ,GA
+Resourcesys, Inc.	Ellicott City	MD	6	Computer Systems Engineers/Architects; Software Developers; Computer Programmers	94700	NJ,GA
 Resourcis Information Services, Inc	Cumming	GA	1	Management Analysts		OK
 Resourznet Solutions Inc	Hayward	CA	1	Database Administrators		CA
 RESPEC, Inc.	Rapid City	SD	2	Mining and Geological Engineers, Including Mining Safety Engineers		CO,TX
@@ -2725,7 +2725,7 @@ Riveron Consulting LLC	Dallas	TX	2	Management Analysts		CA
 Riverpoint Medical, LLC	Portland	OR	1	Validation Engineers		OR
 Rivers Agile Solutions, Inc.	Callery	PA	1	Software Quality Assurance Analysts and Testers		PA
 Rivers and Christian	Los Angeles	CA	1	Architects, Except Landscape and Naval		CA
-Rivers Construction Group Ltd	Jessup	MD	2	Civil Engineers		MD
+Rivers Construction Group Ltd	Jessup	MD	1	Civil Engineers		MD
 Riverside Assesments, LLC	Itasca	IL	2	Software Developers; Statisticians		IL
 Riverside Christian Academy	Fayetteville	NC	1	Elementary School Teachers, Except Special Education		NC
 Riverside Community School District	Carson	IA	1	Secondary School Teachers, Except Special and Career/Technical Education		IA
@@ -2843,7 +2843,7 @@ Robertson, Anschutz, Schneid & Crane, LLC	Boca Raton	FL	2	Paralegals and Legal A
 Robigo, Inc.	Cambridge	MA	1	Biochemists and Biophysicists		MA
 Robin Lee Investment Inc.	Irvine	CA	1	Financial Quantitative Analysts		CA
 Robin Systems, Inc.	San Mateo	CA	3	Software Developers; Computer Network Architects	190000	CA
-Robinhood Markets, Inc.	Menlo Park	CA	522	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	178100	CA,NY,WA
+Robinhood Markets, Inc.	Menlo Park	CA	138	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	178100	CA,NY,WA
 Robins Kaplan LLP	Minneapolis	MN	1	Business Intelligence Analysts		MN
 Robinson Mills Williams	San Francisco	CA	1	Architects, Except Landscape and Naval		CA
 Roblox Corporation	San Mateo	CA	151	Software Developers; Data Scientists; Computer and Information Systems Managers	255200	CA
@@ -2876,7 +2876,7 @@ Rochester City School District	Rochester	NY	1	Business Intelligence Analysts		NY
 Rochester Colon and Rectal Surgeons, PC	Rochester	NY	1	Surgeons, All Other		NY
 Rochester Electronics, LLC	Newburyport	MA	1	Software Developers		OH
 Rochester Gas and Electric Corporation	Orange	CT	1	Management Analysts		NY
-Rochester General Hospital	Rochester	NY	48	Registered Nurses; Hospitalists; General Internal Medicine Physicians	113700	NY,NJ
+Rochester General Hospital	Rochester	NY	33	Hospitalists; General Internal Medicine Physicians; Registered Nurses	113700	NY,NJ
 Rochester Institute of Technology	Rochester	NY	17	Engineering Teachers, Postsecondary; Physics Teachers, Postsecondary; Energy Engineers, Except Wind and Solar	56800	NY
 Rochester Math and Science Academy	Rochester	MN	1	Secondary School Teachers, Except Special and Career/Technical Education		MN
 Rochling Automotive USA, LLP	Duncan	SC	2	Architectural and Engineering Managers; Mechanical Engineers		SC,MI
@@ -3050,7 +3050,7 @@ Roswell Clinic Corporation	Roswell	NM	1	Surgeons, All Other		NM
 Roswell Independent School District	Roswell	NM	2	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		NM
 Roswell Park Cancer Institute	Buffalo	NY	12	Physicians, All Other; General Internal Medicine Physicians; Surgeons, All Other	285000	NY
 Rotary Seamer Specialist Group, LLC	Barberton	OH	4	Architectural and Engineering Managers	185200	OH
-Roth & Company LLP	Brooklyn	NY	7	Accountants and Auditors	61200	IL
+Roth & Company LLP	Brooklyn	NY	3	Accountants and Auditors	61200	IL
 Roth Industries, LLC	Colorado Springs	CO	2	Food Scientists and Technologists		CO
 Rothman National Management Services Organization	Philadelphia	PA	1	Business Intelligence Analysts		PA
 Rothschild & Co US Inc.	New York	NY	14	Financial and Investment Analysts	175000	NY,CA
@@ -3141,7 +3141,7 @@ Rs Plan LLC	San Gabriel	CA	1	Management Analysts		CA
 RS Shippers LLC	North Oaks	MN	1	Business Operations Specialists, All Other		MN
 Rs Solutions, LLC	Chesterfield	MO	4	Software Developers; Information Security Analysts; Computer Systems Analysts	123000	NC,TX,GA
 RS Technologies INC	Novi	MI	5	Software Developers; Data Scientists	102200	MI
-RS&A, Inc. dba Solutech	Plano	TX	4	Electrical Engineers; Bioengineers and Biomedical Engineers		TX
+RS&A, Inc. dba Solutech	Plano	TX	2	Bioengineers and Biomedical Engineers; Electrical Engineers		TX
 Rs, LLC	Overland Park	KS	3	Database Architects; Business Intelligence Analysts	162800	KS
 RSA Security USA LLC	Burlington	MA	2	Software Quality Assurance Analysts and Testers; Software Developers		MA,NC
 RSA Tech Group LLC	Little Elm	TX	5	Computer Network Support Specialists; Software Developers; Software Quality Assurance Analysts and Testers	72500	TX,MI,GA
@@ -3233,7 +3233,7 @@ Ruscilli Construction Co. LLC	Dublin	OH	1	Construction Managers		OH
 Rush Administrative Services Inc.	New Braunfels	TX	2	Software Developers; Logisticians		TX
 Rush Medical Group	Chicago	IL	6	Physicians, All Other; Radiologists; Neurologists	301100	IL
 Rush Memorial Hospital	Rushville	IN	1	Physical Therapists		IN
-Rush University Medical Center	Chicago	IL	25	Healthcare Practitioners and Technical Workers, All Other; Medical Scientists, Except Epidemiologists; Software Developers, Non R&D	90400	IL,NJ,GA
+Rush University Medical Center	Chicago	IL	24	Healthcare Practitioners and Technical Workers, All Other; Medical Scientists, Except Epidemiologists; Software Developers, Non R&D	90400	IL,NJ,GA
 Rusk Technologies LLC	Bloomington	IL	1	Computer Programmers		IL
 Russell Group Inc.	Davenport	IA	2	Project Management Specialists		IA
 Russell Investments Group LLC	Seattle	WA	8	Financial and Investment Analysts; Software Developers; Financial Quantitative Analysts	108300	WA,NY
@@ -3312,7 +3312,7 @@ Samsung Research America, Inc.	Mountain View	CA	45	Computer and Information Rese
 Samuel A. Ramirez & Company, Inc.	New York	NY	2	Financial Managers		NY
 San Antonio Regional Hospital	Upland	CA	2	Physicians, All Other		CA
 San Diego Biomedical Research Institute	San Diego	CA	3	Microbiologists; Biological Technicians; Molecular and Cellular Biologists	79000	CA
-San Juan Regional Medical Center, Inc.	Farmington	NM	4	Hospitalists		NM
+San Juan Regional Medical Center, Inc.	Farmington	NM	1	Hospitalists		NM
 Sandvik Rock Processing Solutions North America, LLC	Cleveland	OH	1	Mechanical Engineers		OH
 Sanitation and Health Rights in India	New Orleans	LA	1	Social and Community Service Managers		RI
 Santa Rosa Community Health	Santa Rosa	CA	1	Marriage and Family Therapists		CA
@@ -3347,7 +3347,7 @@ Seth P. Roye Architect PC	New York	NY	1	Architectural and Civil Drafters		NY
 Seven Research, LLC	New York	NY	2	Financial Quantitative Analysts		NY
 Shared Reality LLC	New York	NY	1	Editors		CA
 Sharma Rehabilitation Services PLLC	Glendale	NY	2	Physical Therapists		NY
-Shasta Regional Medical Group, Inc.	Redding	CA	2	Hospitalists		CA
+Shasta Regional Medical Group, Inc.	Redding	CA	1	Hospitalists		CA
 Shaw Heavy Equipment Repair	Spart	IL	1	Mechanical Engineers		IL
 Shepley Bulfinch Richardson & Abbott Inc.	Boston	MA	2	Architects, Except Landscape and Naval		MA,TX
 Sheppard Mullin Richter & Hampton LLP	Los Angeles	CA	4	Judicial Law Clerks; Lawyers	230000	CA,IL,DC
@@ -3552,7 +3552,7 @@ The Family Rosary Inc	North Easton	MA	1	Financial Managers		MA
 The Federal Reserve Bank of St. Louis	St. Louis	MO	1	Software Developers		MO
 The Feinstein Institutes For Medical Research	Manhasset	NY	12	Medical Scientists, Except Epidemiologists; Biological Technicians; Life Scientists, All Other	73100	NY
 The Financial Risk Group LLC	Cary	NC	1	Network and Computer Systems Administrators		CA
-The Goodyear Tire & Rubber Company	Akron	OH	205	Software Developers; Mechanical Engineers; Electrical and Electronic Engineering Technologists and Technicians	92200	OH
+The Goodyear Tire & Rubber Company	Akron	OH	25	Software Developers; Mechanical Engineers; Electrical and Electronic Engineering Technologists and Technicians	92200	OH
 The Green Room Holdings, Inc.	Phoenix	AZ	1	Landscape Architects		AZ
 The Habit Restaurants, LLC	Irvine	CA	1	Market Research Analysts and Marketing Specialists		CA
 The Hanover Research Council LLC	Arlington	VA	8	Survey Researchers	74000	VA,CO,CA
@@ -3600,7 +3600,7 @@ The Research Foundation For The State University Of New York	Buffalo	NY	8	Medica
 The Research Institute at Nationwide Children's Hospital	Columbus	OH	18	Biochemists and Biophysicists; Bioinformatics Scientists; Business Operations Specialists, All Other	70000	OH
 The Restaurant Assistants LLC	Sarasota	FL	1	Accountants and Auditors		FL
 The Retail Equation, Inc.	Irvine	CA	1	Software Developers		MI
-The Reynolds & Reynolds Company	Houston	TX	10	Software Developers		TX
+The Reynolds & Reynolds Company	Houston	TX	1	Software Developers		TX
 The Richford Health Center Inc.	Richford	VT	1	Dentists, General		VT
 The Rickel Law Firm P.c	St Clair Shores	MI	1	Accountants and Auditors		MI
 The RMR Group LLC	Newton	MA	1	Chief Sustainability Officers		MA
@@ -3619,7 +3619,7 @@ The Scripps Research Institute	La Jolla	CA	18	Biochemists and Biophysicists; Bio
 The Solomon R. Guggenheim Foundation	New York	NY	1	General and Operations Managers		NY
 The Tire Rack, Inc.	South Bend	IN	1	Data Scientists		IN
 The Translational Genomics Research Institute	Phoenix	AZ	6	Molecular and Cellular Biologists; Medical Scientists, Except Epidemiologists; Bioinformatics Scientists	72200	AZ
-The Unity Hospital of Rochester	Rochester	NY	58	Registered Nurses; Hospitalists; Physicians, All Other	171800	NY
+The Unity Hospital of Rochester	Rochester	NY	30	Registered Nurses; Hospitalists; Physicians, All Other	171800	NY
 The University of Arkansas at Little Rock	Little Rock	AR	8	Mathematical Science Teachers, Postsecondary; Data Scientists; Sociology Teachers, Postsecondary		AR
 The University Of Texas Rio Grande Valley	Edinburg	TX	77	Health Specialties Teachers, Postsecondary; Engineering Teachers, Postsecondary; Medical and Clinical Laboratory Technologists	70000	TX
 The Walter R. Earle Corporation	Wall Township	NJ	1	Industrial Engineers		NJ
@@ -3630,7 +3630,7 @@ Theramedic Rehab Inc.	Stafford	TX	3	Physical Therapists; Computer Systems Engine
 Thomas Rubin & Kelley PC	Phoenix	AZ	1	Lawyers		AZ
 Thomson Reuters (Tax & Accounting), Inc.	Frisco	TX	2	Management Analysts; Software Developers		NY,GA
 Thomson Reuters Holdings Inc.	Eagan	MN	28	Software Developers; Data Scientists; Information Technology Project Managers	145800	MN,NY,TX
-Thomson Reuters Services, Inc.	Eagan	MN	32	Accountants and Auditors; Information Technology Project Managers	93900	MN,CA,TX
+Thomson Reuters Services, Inc.	Eagan	MN	12	Accountants and Auditors; Information Technology Project Managers	93900	MN,TX,CA
 Thorin Resources, LLC	Ouray	CO	2	Chief Executives		CO
 Thorne Research, Inc.	New York	NY	1	Industrial Engineers		SC
 Three Crosses Regional Hospital, LLC	Las Cruces	NM	2	Emergency Medicine Physicians; Physicians, All Other		NM
@@ -3688,7 +3688,7 @@ Two Rivers Dental P.C.	Naperville	IL	2	Data Scientists; Dentists, General		IL
 Two Roads Development LLC	Miami	FL	1	Construction Managers		FL
 TX: Team Rehab, Inc.	Indianapolis	IN	1	Physical Therapists		MD
 TXU Energy Retail Company LLC	Irving	TX	1	Business Intelligence Analysts		TX
-U R First LLC	Las Vegas	NV	2	Registered Nurses		NV
+U R First LLC	Las Vegas	NV	1	Registered Nurses		NV
 U R L inc	Harrisburg	PA	1	Software Developers		PA
 U.S. Money Reserve, Inc.	Austin	TX	1	Treasurers and Controllers		TX
 U.S. News & World Report, L.P.	New York	NY	5	Computer Occupations, All Other; Information Technology Project Managers; Software Developers	103000	NY,NJ,FL
@@ -3727,7 +3727,7 @@ University of Puerto Rico-Rio Piedras Campus			3	Postsecondary Teachers, All Oth
 University of Redlands	Redlands	CA	1	Market Research Analysts and Marketing Specialists		CA
 University of Rhode Island	Kingston	RI	15	Biochemists and Biophysicists; Mathematical Science Teachers, Postsecondary; Physicists	87000	RI,TX
 University of Richmond	Richmond	VA	2	Business Teachers, Postsecondary; Economics Teachers, Postsecondary		VA
-University of Rochester	Rochester	NY	121	Registered Nurses; Medical Scientists, Except Epidemiologists; Surgeons, All Other	70000	NY
+University of Rochester	Rochester	NY	120	Registered Nurses; Medical Scientists, Except Epidemiologists; Surgeons, All Other	70000	NY
 University Radiology Associates, LLP	Syracuse	NY	2	Radiologists		NY
 Unlimited Net Resources, LLC	Irvine	CA	1	Market Research Analysts and Marketing Specialists		CA
 UPM Raflatac, Inc.	Mills River	NC	1	Software Developers		NC

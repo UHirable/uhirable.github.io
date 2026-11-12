@@ -146,8 +146,8 @@ Altera Digital Health Inc.	Raleigh	NC	13	Software Developers; Software Quality A
 Alvin Ailey Dance Foundation, Inc.	New York	NY	1	Operations Research Analysts		NY
 Alzheimer's Disease And Related Disorders Association, Inc.	Chicago	IL	2	Web Developers		MS
 AM of Washington DC, LLC	Ashburn	VA	1	Public Relations Specialists		VA
-Amazon Data Services, Inc	Seattle	WA	1886	Software Developers; Industrial Engineers; Civil Engineers	148800	WA,VA,CA
-Amazon Development Center U.S., Inc.	Seattle	WA	4147	Software Developers; Computer and Information Systems Managers; Information Technology Project Managers	165000	WA,CA,VA
+Amazon Data Services, Inc	Seattle	WA	959	Software Developers; Industrial Engineers; Civil Engineers	148800	WA,VA,CA
+Amazon Development Center U.S., Inc.	Seattle	WA	2001	Software Developers; Computer and Information Research Scientists; Information Technology Project Managers	165000	WA,CA,NY
 Amber Grace Davis	Woburn	MA	1	Judicial Law Clerks		CA
 AMD Design LLC	Santa Clara	CA	22	Mechanical Engineers; Electronics Engineers, Except Computer; Logistics Analysts	123600	NJ,WA,TX
 America by Design Foundation	Washington, D.C.	DC	1	Software Developers		DC
@@ -330,7 +330,7 @@ Better Direct, LLC	Tempe	AZ	6	Market Research Analysts and Marketing Specialists
 Beveridge & Diamond, P.C.	Washington D.C.	DC	1	Lawyers		NY
 Bexar County Hospital District	San Antonio	TX	4	Pediatricians, General; Audiologists; Physical Medicine and Rehabilitation Physicians	270000	TX
 Bharti Desai CPA, PC	Marietta	GA	1	Accountants and Auditors		GA
-Bhatia Dental Corporation	Fresno	CA	2	Dentists, General		CA
+Bhatia Dental Corporation	Fresno	CA	1	Dentists, General		CA
 Bibb County School District	Macon	GA	7	Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education	67000	GA
 Big Dany LLC	Plano	TX	1	Software Developers		PA
 Big Dipper Campfire LLC	Bellevue	WA	2	Management Analysts; Operations Research Analysts		MO
@@ -339,7 +339,7 @@ Bioenergy Development Group LLC	Memphis	TN	1	Electrical Engineers		TN
 BioFire Diagnostics, LLC	Salt Lake City	UT	1	Software Quality Assurance Analysts and Testers		UT
 Bitmain Delaware Holding Company, Inc.	Irvine	CA	2	Market Research Analysts and Marketing Specialists; Computer Network Support Specialists		TX,CO
 BL Distribution West, LLC	Las Vegas	NV	1	Accountants and Auditors		NV
-Black Duck Software, Inc.	Burlington	MA	46	Network and Computer Systems Administrators; Computer and Information Systems Managers; Software Developers	144000	MA,TX,WA
+Black Duck Software, Inc.	Burlington	MA	8	Software Developers; Network and Computer Systems Administrators; Computer and Information Systems Managers	144000	MA,TX,WA
 Bloomfield Dental Care	Bloomfield	CT	2	Dentists, General		CT
 Blue Diamond Technologies Inc	Plano	TX	5	Data Scientists; Software Developers; Computer Programmers	83700	KS,FL,GA
 Blue Line Foodservice Distribution, Inc.	Detroit	MI	1	Software Developers		MI
@@ -347,7 +347,7 @@ Bluejay Diagnostics Inc	Acton	MA	1	Bioengineers and Biomedical Engineers		MA
 Blueridge Dynamic Solutions	Herndon	VA	11	Software Developers; Data Scientists; Database Administrators	112900	VA,FL,TX
 BlueWave Project Development, LLC	Boston	MA	1	Civil Engineers		MA
 Blush Dental & Orthodontics P.C.	Houston	TX	1	Dentists, General		TX
-BNB Design, LLC	Bonner Springs	KS	2	Architects, Except Landscape and Naval		KS
+BNB Design, LLC	Bonner Springs	KS	1	Architects, Except Landscape and Naval		KS
 Boca Radiology Group Division of Mori, Bean, and Brooks, Inc.	Boca Raton	FL	1	Physicians, All Other		FL
 BodyShopBids, Inc. d/b/a Snapsheet	Chicago	IL	1	Software Developers		IL
 Boeing Digital Solutions, Inc.	Englewood	CO	1	Software Developers		CO
@@ -438,7 +438,7 @@ Carbeeco Digital Inc	Costa Mesa	CA	1	Market Research Analysts and Marketing Spec
 Carbon County School District No 2	Hanna	WY	1	Secondary School Teachers, Except Special and Career/Technical Education		WY
 Carbon Direct Inc.	New York	NY	1	Sustainability Specialists		NY
 Carden Dotzler Hammond, PLLC	Syracuse	NY	1	Lawyers		NY
-Care And Dignity Health Services LLC	Berlin	NJ	6	Business Operations Specialists, All Other; Social and Community Service Managers; Training and Development Managers	137500	NJ
+Care And Dignity Health Services LLC	Berlin	NJ	4	Business Operations Specialists, All Other; Social and Community Service Managers; Training and Development Managers	137500	NJ
 Care Dental & Esthetics LLC	Houston	TX	1	Interior Designers		TX
 Care Discount Pharmacy	Harrisburg	PA	1	Pharmacy Technicians		PA
 Carnegie Institution of Washington d/b/a Carnegie Institution for Science	Washington	DC	2	Soil and Plant Scientists		CA
@@ -504,7 +504,7 @@ Churchill Downs Technology Initiatives Company	Louisville	KY	1	Data Scientists		
 Cicero Technologies, Inc. dba Eudia	San Juan Capistrano	CA	7	Software Developers	187700	CA
 Cipher Digital Inc.	New York	NY	1	Software Developers		NY
 Cirrus Design Corporation	Duluth	MN	3	Aerospace Engineers; Mechanical Engineers; Electrical Engineers	116100	MN,TX
-Citi Development & Construction, Inc.			2	Construction Managers		
+Citi Development & Construction, Inc.			1	Construction Managers		
 Citi Diamonds Inc.	Atlanta	GA	2	Operations Research Analysts		GA
 Citizens Memorial Hospital District	Bolivar	MO	1	Physicians, All Other		MO
 City of Boston Treasury Division	Boston	MA	9	Operations Research Analysts; Urban and Regional Planners; Management Analysts		MA
@@ -584,10 +584,10 @@ Corporate Diligence Specialists, LLC	San Francisco	CA	1	Accountants and Auditors
 Corporate Image Dining Services, Inc	Stamford	CT	1	Operations Research Analysts		CT
 Cosine Design Studio LLC	Evanston	IL	1	Designers, All Other		CO
 Cosmic Design Studio, LLC	Atlanta	GA	1	Landscape Architects		GA
-Costello Doab Enterprises LLC	Austin	TX	4	Sales Engineers; Training and Development Specialists; Market Research Analysts and Marketing Specialists	90000	TX
+Costello Doab Enterprises LLC	Austin	TX	3	Training and Development Specialists; Market Research Analysts and Marketing Specialists; Sales Engineers	90000	TX
 County of Fergus School Dis. No.44.	Moore	MT	2	Secondary School Teachers, Except Special and Career/Technical Education		MT
 County of McHenry School District 50	Harvard	IL	1	Secondary School Teachers, Except Special and Career/Technical Education		IL
-County of Rosebud School District 32J	Ashland	MT	5	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	41600	MT
+County of Rosebud School District 32J	Ashland	MT	3	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	41600	MT
 Court Street Dental PLLC	Westfield	MA	1	Dentists, General		MA
 Covalense Digital Solutions, LLC	Herndon	VA	1	Software Developers		CA
 Covasant Data Sciences, Inc.	Little Elm	TX	3	Computer and Information Research Scientists; Software Developers; Business Operations Specialists, All Other	184600	CA,TX
@@ -762,7 +762,7 @@ Dana Automotive Systems Group, LLC	Maumee	OH	10	Mechanical Engineers; Software D
 Dana Driveshaft Manufacturing, LLC	Maumee	OH	1	General and Operations Managers		MI
 Dana Heavy Vehicle Systems Group, LLC	Maumee	OH	2	Electrical Engineers; Mechanical Engineers		OH
 Dana Limited	Maumee	OH	3	Computer and Information Systems Managers; Manufacturing Engineers; Accountants and Auditors	119300	MI,OH
-Dana-Farber Cancer Institute	Boston	MA	358	Biological Technicians; Molecular and Cellular Biologists; Bioinformatics Scientists	75500	MA
+Dana-Farber Cancer Institute	Boston	MA	107	Molecular and Cellular Biologists; Bioinformatics Scientists; Biological Technicians	75500	MA
 Danaher Corporation	Washington	DC	3	Industrial Engineers; Database Architects; Marketing Managers	170000	TX,IN,DC
 Danbury Hospital	Danbury	CT	6	Healthcare Diagnosing or Treating Practitioners, All Other; Physicians, All Other; Medical and Clinical Laboratory Technologists	91300	CT
 Danbury Wings LLC	Danbury	CT	1	Business Operations Specialists, All Other		CT
@@ -880,7 +880,7 @@ Databank Holdings, Ltd.	Dallas	TX	3	Accountants and Auditors; Computer Network A
 Databento Inc.	Salt Lake City	UT	1	Graphic Designers		MA
 Databloom LLC	Leander	TX	3	Database Administrators	95000	TX,VA
 DataBrew LLC	Marysville	OH	3	Software Developers	109300	GA,OH
-Databricks, Inc.	San Francisco	CA	5079	Software Developers; Computer Systems Engineers/Architects; Sales Engineers	153400	CA,WA,TX
+Databricks, Inc.	San Francisco	CA	327	Software Developers; Computer Systems Engineers/Architects; Sales Engineers	153400	CA,WA,TX
 Databrx Technologies LLC	Plano	TX	2	Software Developers		MD,UT
 Databuoy Corporation	Vienna	VA	3	Software Developers; Software Quality Assurance Analysts and Testers; Project Management Specialists	82500	VA,WV
 Datacaliper LLC	Apex	NC	1	Software Developers		NC
@@ -1183,7 +1183,7 @@ Dedicated Physicians Group of Michigan, PLLC	Miami Gardens	FL	1	General Internal
 Dedicated Senior Medical Centers of Florida, LLC	Miami	FL	16	General Internal Medicine Physicians; Family Medicine Physicians; Cardiologists	239200	FL
 Dedoes Industries LLC	Walled Lake	MI	1	Architectural and Engineering Managers		MI
 Dee Zee, Inc.	Des Moines	IA	1	Software Developers		IA
-DeeBeCon Inc	Nashua	NH	11	Software Developers; Computer Systems Engineers/Architects; Computer Systems Analysts	109900	NH,CA
+DeeBeCon Inc	Nashua	NH	6	Software Developers; Computer Systems Engineers/Architects; Computer Systems Analysts	109900	NH,CA
 Deel US LLC	San Francisco	CA	31	Software Developers; Financial and Investment Analysts; Marketing Managers	175000	NY,CA,NJ
 Deemsys Inc	Gahanna	OH	6	Software Developers; Mechanical Engineers; Computer Programmers	101900	OH,MI
 Deep Cogito Inc.	San Francisco	CA	1	Software Developers		CA
@@ -1218,7 +1218,7 @@ Deere & Company	Moline	IL	112	Software Developers; Electrical Engineers; Mechani
 Deerfield Academy	Deerfield	MA	2	Secondary School Teachers, Except Special and Career/Technical Education		MA
 Deeta IT Solutions, Inc	Middlesex	NJ	1	Software Quality Assurance Analysts and Testers		GA
 Defaked, Inc.	San Francisco	CA	2	Software Developers		CA
-Defendify, Inc.	Portland	ME	2	Information Security Analysts		ME
+Defendify, Inc.	Portland	ME	1	Information Security Analysts		ME
 Defense In Depth Solutions Inc	Houston	TX	1	Computer Programmers		TX
 Defensive Health, Inc.	San Francisco	CA	1	General and Operations Managers		CA
 Defiance College	Defiance	OH	1	Computer Science Teachers, Postsecondary		OH
@@ -1236,7 +1236,7 @@ DeGolyer and MacNaughton Corp.	Dallas	TX	2	Petroleum Engineers; Data Scientists	
 Deinde Financial, LLC	Chicago	IL	3	Software Developers; Data Scientists	108100	IL
 Deinrim Solutionss LLC	Cumming	GA	1	Software Developers		IL
 DEKA Research & Development Corp.	Manchester	NH	11	Mechatronics Engineers; Computer and Information Research Scientists; Mechanical Engineers	111000	NH
-Dekalb Community Unit School District 428	Dekalb	IL	4	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education		IL
+Dekalb Community Unit School District 428	Dekalb	IL	3	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education		IL
 Dekeo Inc.	Newark	DE	1	General and Operations Managers		WA
 Dekker Design LLC	Phoenix	AZ	1	Architects, Except Landscape and Naval		AZ
 Deko International Co., Ltd.	Earth City	MO	1	Budget Analysts		MO
@@ -1278,14 +1278,14 @@ Della Infotech Inc.	Princeton	NJ	1	Regulatory Affairs Specialists		TX
 DellinSF Management LLC	Philadelphia	PA	1	Financial and Investment Analysts		CA
 Dellner Bubenzer USA Inc	Spring	TX	1	Financial and Investment Analysts		TX
 Delmarva Kidney and Hypertension Specialists, LLC	Salisbury	MD	1	Physicians, All Other		MD
-Deloitte & Touche LLP	Philadelphia	PA	1431	Accountants and Auditors; Information Security Analysts; Management Analysts	102900	CA,TX,NY
-Deloitte Consulting LLP	Philadelphia	PA	3860	Software Developers; Computer and Information Systems Managers; Operations Research Analysts	141600	TX,FL,CA
-Deloitte Corporate Finance LLC	Philadelphia	PA	4	Financial and Investment Analysts		CA
-Deloitte LLP	Philadelphia	PA	15	Financial and Investment Analysts; Financial Managers; Management Analysts	138100	FL,MA,OR
-Deloitte Services LP	Philadelphia	PA	96	Software Developers; Computer and Information Systems Managers; Market Research Analysts and Marketing Specialists	150000	TX,TN,IL
-Deloitte Tax LLP	Philadelphia	PA	1168	Accountants and Auditors; Software Developers; Operations Research Analysts	97400	CA,TX,NY
+Deloitte & Touche LLP	Philadelphia	PA	713	Accountants and Auditors; Information Security Analysts; Management Analysts	102900	CA,TX,NY
+Deloitte Consulting LLP	Philadelphia	PA	1878	Software Developers; Computer and Information Systems Managers; Database Architects	141600	TX,FL,CA
+Deloitte Corporate Finance LLC	Philadelphia	PA	2	Financial and Investment Analysts		CA
+Deloitte LLP	Philadelphia	PA	7	Financial and Investment Analysts; Financial Managers; Management Analysts	138100	FL,MA,OR
+Deloitte Services LP	Philadelphia	PA	48	Software Developers; Computer and Information Systems Managers; Market Research Analysts and Marketing Specialists	150000	TX,TN,IL
+Deloitte Tax LLP	Philadelphia	PA	578	Accountants and Auditors; Software Developers; Operations Research Analysts	97400	CA,TX,NY
 Deloitte Touche Tohmatsu Services, LLC	New York	NY	19	Information Technology Project Managers; Software Developers; Network and Computer Systems Administrators	149200	TX,IL,TN
-Deloitte Transactions and Business Analytics LLP	Philadelphia	PA	56	Information Security Analysts; Operations Research Analysts; Financial and Investment Analysts	139700	NY,TX,TN
+Deloitte Transactions and Business Analytics LLP	Philadelphia	PA	28	Information Security Analysts; Operations Research Analysts; Financial and Investment Analysts	139700	NY,TX,TN
 Delos Living LLC	New York	NY	1	Environmental Scientists and Specialists, Including Health		MN
 Delphi, Inc	San Francisco	CA	2	Software Developers; Materials Engineers		CA
 Delphic Software Solutions Inc	Alpharetta	GA	11	Software Developers; Computer Programmers	115000	VA,TX,NC
@@ -1474,7 +1474,7 @@ Design Data Corporation	Lincoln	NE	1	Network and Computer Systems Administrators
 Design Develop LLC	Charlottesville	VA	1	Interior Designers		MD
 Design Engineered Fabrications, Inc.	Winston-Salem	NC	1	Architectural and Engineering Managers		NC
 Design Executive Council, LLC	San Francisco,	CA	1	Market Research Analysts and Marketing Specialists		NJ
-Design Group JEDI Incorporated	Chicago	IL	2	Architects, Except Landscape and Naval		IL
+Design Group JEDI Incorporated	Chicago	IL	1	Architects, Except Landscape and Naval		IL
 Design Partners Incorporated	Honolulu	HI	1	Construction Managers		HI
 Design Ready Controls, Inc.	Brooklyn Park	MN	2	Electrical Engineers		MN
 Design Systems, Inc.	Farmington Hills	MI	2	Mechanical Engineers; Industrial Engineers		MI
@@ -1482,7 +1482,7 @@ Design Technologies & Manufacturing Co.	Troy	OH	1	Mechanical Engineers		OH
 Design Workshop, Inc.	Basalt	CO	11	Architectural and Civil Drafters; Landscape Architects	67200	CO,TX,NC
 Design-Aire Engineering, Inc.	Indianapolis	IN	1	Mechanical Engineers		IN
 Designed Conveyor Systems, LLC	Franklin	TN	1	Mechanical Engineers		TN
-Designer Brands, Inc.	Columbus	OH	24	Software Quality Assurance Analysts and Testers; Data Warehousing Specialists; Database Architects	122300	OH,PA
+Designer Brands, Inc.	Columbus	OH	6	Database Architects; Software Developers; Software Quality Assurance Analysts and Testers	122300	OH,PA
 Designers Choice LLC	Boston	MA	1	Project Management Specialists		MA
 Designlibro Inc.	San Jose	CA	2	Data Scientists; Software Developers		CA
 Desika Foods LLC	Novi	MI	1	Buyers and Purchasing Agents, Farm Products		MI
@@ -1609,7 +1609,7 @@ Dhd Architecture P.C.	New York	NY	1	Architects, Except Landscape and Naval		NY
 Dhham Llc.	Exton	PA	1	Computer User Support Specialists		PA
 DHHS/Centers for Disease Control and Prevention (CDC)	Atlanta	GA	2	Computer Systems Analysts		GA
 DHI Rockies Services, LLC	Vernal	UT	3	Network and Computer Systems Administrators	92900	UT
-Dhillon Engineering, Inc.	Owings Mill	MD	4	Architects, Except Landscape and Naval; Electrical Engineers		MD
+Dhillon Engineering, Inc.	Owings Mill	MD	3	Architects, Except Landscape and Naval; Electrical Engineers		MD
 DHL Express (USA), Inc.	Plantation	FL	2	Logistics Engineers; Management Analysts		KY,FL
 DHR Inc.	Dover	DE	1	Management Analysts		NY
 Dhrma Bhakti Inc	Huntington Beach	CA	1	Market Research Analysts and Marketing Specialists		CA
@@ -1764,7 +1764,7 @@ Dila Development and Construction LLC	Washington	DC	1	Market Research Analysts a
 Dilan Construction, LLC	Washington	DC	1	Architects, Except Landscape and Naval		DC
 Dilandro Andrews Engineering, PLLC	Southampton	NY	1	Civil Engineers		NY
 DiLeonardo International Inc.	Warwick	RI	2	Interior Designers		RI
-DiligenceSquared Inc.	New York	NY	9	Software Developers; Management Analysts	156600	NY
+DiligenceSquared Inc.	New York	NY	6	Management Analysts; Software Developers	156600	NY
 Diligency Accountancy Corporation	Arcadia	CA	1	Accountants and Auditors		CA
 Diligent Group LLC	Sterling	VA	7	Software Developers		GA,KS,DC
 Diligent Innovation Fabrication & Machine Inc.	Bourbonnais	IL	2	Mechanical Engineers		IL
@@ -2031,7 +2031,7 @@ Domino's Pizza, Inc.	Ann Arbor	MI	23	Software Developers; Data Scientists; Softw
 Domo, Inc.	American Fork	UT	1	Software Developers		UT
 Domtar Paper Company LLC	Fort Mill	SC	1	Business Intelligence Analysts		SC
 Domu Technology Inc.	San Francisco	CA	1	Data Scientists		CA
-Domyn, Inc.	New York	NY	7	Computer and Information Research Scientists; Data Scientists	193000	NJ,NY,NC
+Domyn, Inc.	New York	NY	6	Computer and Information Research Scientists; Data Scientists	193000	NJ,NY,NC
 Don Wood Inc	Orlando	FL	1	Industrial Engineers		FL
 Donald Danforth Plant Science Center	St. Louis	MO	8	Soil and Plant Scientists; Data Scientists; Natural Sciences Managers	61800	MO
 Donaldson Company, Inc.	Bloomington	MN	1	Software Developers		IL
@@ -2108,7 +2108,7 @@ Doublu, Inc.	Columbia	SC	1	Market Research Analysts and Marketing Specialists		S
 Doucet & Associates, Inc.	San Diego	CA	2	Civil Engineers		TX
 Doug Uhlig Psychological Services PLLC	Rego Park	NY	1	Mental Health Counselors		NY
 Dough Zone USA Inc.	Bellevue	WA	1	Market Research Analysts and Marketing Specialists		WA
-Dougherty County School District	Albany	GA	13	Special Education Teachers, Elementary School; Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	54200	GA
+Dougherty County School District	Albany	GA	6	Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School	54200	GA
 Dougherty County School System	Albany	GA	10	Special Education Teachers, Secondary School; Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School	48700	GA
 Douglas A Thom Clinic, Inc	Framingham	MA	1	Speech-Language Pathologists		MA
 Douglas C. Wright Architects P.C.	New York	NY	1	Architectural and Civil Drafters		NY
@@ -2128,7 +2128,7 @@ Dow Jones and Company, Inc.	New York	NY	9	Software Developers; Web and Digital I
 Dow Silicones Corporation	Midland	MI	2	Chemical Engineers; Materials Scientists		MI
 Dowling Company, Inc.	Wailuku	HI	2	Financial Quantitative Analysts; Financial and Investment Analysts		HI,NY
 Downtown Brooklyn PT, PC	Rego Park	NY	1	Physical Therapists		NY
-Downtown Physicians Medical PLLC	New York	NY	7	Physical Therapists; Exercise Physiologists	110000	NY
+Downtown Physicians Medical PLLC	New York	NY	5	Physical Therapists; Exercise Physiologists	110000	NY
 Downtown Psychiatry Chicago PLLC	Chicago	IL	1	Health Informatics Specialists		IL
 Doxel, Inc.	Menlo Park	CA	2	Software Developers; Information Technology Project Managers		WA,TN
 Doximity, Inc.	San Francisco	CA	5	Statisticians; Software Developers; Data Scientists	130000	CA,TX,MA
@@ -2161,7 +2161,7 @@ Dr Pepper Seven Up, Inc.	Frisco	TX	3	Computer and Information Systems Managers; 
 Dr Richard James M Hansen & Associates Fort Mill Pc.	Orange	CA	1	Dentists, General		SC
 Dr. A. K. Richardson and Associates, P.A.	Hickory	NC	1	Dentists, General		NC
 Dr. Anosh DDS Inc. dba: Procare Dental	Rancho Cordova	CA	1	Medical and Health Services Managers		GA
-Dr. Dental of Connecticut PC	Hamden	CT	6	Dentists, General	189900	CT
+Dr. Dental of Connecticut PC	Hamden	CT	5	Dentists, General	189900	CT
 Dr. Dental of Massachusetts PC	Framingham	MA	1	Dentists, General		MA
 Dr. Hon-yen Wong, Inc	Rockville	MD	1	Operations Research Analysts		MD
 Dr. Hon-yuen Wong, Inc	Rockville	MD	1	Operations Research Analysts		MD
@@ -2879,7 +2879,7 @@ Honda Development & Manufacturing Of America, LLC	Marysville	OH	37	Mechanical En
 Honeydew Design LLC	Allen	TX	1	Web and Digital Interface Designers		TX
 Hoonah City School District	Hoonah	AK	4	Special Education Teachers, All Other; Secondary School Teachers, Except Special and Career/Technical Education	67500	AK
 Hoosier Dental IN, LLC	Nashville	TN	1	Dentists, General		IN
-Hope Public School District	Hope	AR	4	Middle School Teachers, Except Special and Career/Technical Education		AR
+Hope Public School District	Hope	AR	1	Middle School Teachers, Except Special and Career/Technical Education		AR
 Horizon Science Academy Dayton Downtown	Dayton	OH	1	Elementary School Teachers, Except Special Education		OH
 Horizon Science Academy Dayton High School, Inc.	Dayton	OH	1	Secondary School Teachers, Except Special and Career/Technical Education		OH
 Hospice of Dayton, Inc.	Dayton	OH	1	Physicians, All Other		OH
@@ -2899,7 +2899,7 @@ Hunter Douglas Inc.	Broomfield	CO	7	Software Developers; Network and Computer Sy
 Hurricane Hill Development Company PLLC	Mason	NH	3	Solar Energy Systems Engineers	107200	NH
 Hutton Development LLC	Chattanooga	TN	1	Database Administrators		TN
 HWKN Architecture DPC	New York	NY	1	Interior Designers		NY
-Hy Line Dental Associates PC	Naperville	IL	2	Dentists, General		IL
+Hy Line Dental Associates PC	Naperville	IL	1	Dentists, General		IL
 Hyperscale Data Inc.	Las Vegas	NV	1	Financial Specialists, All Other		NV
 Hysham School District 1	Hysham	MT	1	Secondary School Teachers, Except Special and Career/Technical Education		MT
 i3 Product Development, LLC	Sun Prairie	WI	1	Web and Digital Interface Designers		WI
@@ -2912,7 +2912,7 @@ Ice Data Indices, LLC	Atlanta	GA	3	Software Developers; Data Scientists	152200	G
 Ice Data Services, Inc.	Atlanta	GA	9	Software Developers; Software Quality Assurance Analysts and Testers; Financial and Investment Analysts	109300	GA,MA
 iDEAL Semiconductor Devices Corp.	Bethlehem	PA	1	Electrical Engineers		PA
 Ideation Design Group LLC	Phoenix	AZ	1	Architectural and Civil Drafters		AZ
-Iditarod Area School Disctrict	Mcgrath	AK	6	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		AK
+Iditarod Area School Disctrict	Mcgrath	AK	2	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		AK
 Iditarod Area School District	McGrath	AK	4	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		AK
 IGLOBAL EXPORTS, LLC dba ZONOS	St George	UT	1	Data Scientists		UT
 Igor Elperin DDS PLLC	Yakima	WA	2	Dentists, General		WA
@@ -2939,7 +2939,7 @@ Independence School District R30	Independence	MO	2	Secondary School Teachers, Ex
 Independent School District 206	Alexandria	MN	2	Special Education Teachers, Elementary School		MN
 Independent School District 256	Red Wing	MN	2	Special Education Teachers, Elementary School; Secondary School Teachers, Except Special and Career/Technical Education		MN
 Independent School District 270, Hopkins	Hopkins	MN	5	Middle School Teachers, Except Special and Career/Technical Education; Kindergarten Teachers, Except Special Education; Elementary School Teachers, Except Special Education	61000	MN
-Independent School District 423	Hutchinson	MN	7	Special Education Teachers, Elementary School; Special Education Teachers, Secondary School; Special Education Teachers, All Other	49000	MN
+Independent School District 423	Hutchinson	MN	5	Special Education Teachers, Elementary School; Special Education Teachers, Secondary School; Special Education Teachers, All Other	49000	MN
 Independent School District 424	Lester Prairie	MN	1	Special Education Teachers, Middle School		MN
 Independent School District 656	Faribault	MN	7	Elementary School Teachers, Except Special Education; Kindergarten Teachers, Except Special Education; School Psychologists	51800	MN
 Independent School District 719	Prior Lake	MN	2	Elementary School Teachers, Except Special Education		MN
@@ -2990,7 +2990,7 @@ Inter-American Dialogue	Washington	DC	1	Public Relations Managers		DC
 Interborough Developmental & Consultation Center, Inc.	Brooklyn	NY	2	Mental Health and Substance Abuse Social Workers		CO,NY
 Interborough Developmental and Consultation Center, Inc.	Brooklyn	NY	7	Mental Health Counselors; Child, Family, and School Social Workers	94500	NY
 Interco Division 10 (Texas) LLC	Katy	TX	1	Construction Managers		TX
-Intermediate School District 917	Rosemount	MN	5	Special Education Teachers, All Other		MN
+Intermediate School District 917	Rosemount	MN	1	Special Education Teachers, All Other		MN
 International Delights LLC	Clifton	NJ	1	Food Scientists and Technologists		NJ
 International Development Group Advisory Services LLC	Arlington	VA	1	Market Research Analysts and Marketing Specialists		VA
 International Dining Concepts, LLC			1	Accountants and Auditors		
@@ -3184,7 +3184,7 @@ Lebanon City School District Board of Education	Lebanon	OH	5	Middle School Teach
 Lee County School District	Bishopville	SC	21	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education	59500	SC
 Legrand DPC, LLC	West Hartford	CT	1	Sales Engineers		NY
 Lehighton Family Dentistry, LLC.	Lehighton	PA	1	Dentists, General		PA
-Leland School District	Leland	MS	5	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School	42800	MS
+Leland School District	Leland	MS	4	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School	42800	MS
 Leng C. Haong, D.D.S, Inc.	Costa Mesa	CA	1	Dentists, General		CA
 Leo Does IT Inc	Mercedes	TX	3	Software Developers	88200	TX
 Leonova Design Studio LLC	Duluth	GA	1	Commercial and Industrial Designers		GA
@@ -3242,9 +3242,9 @@ Luxcraft Home Design LLC	Atlanta	GA	1	Market Research Analysts and Marketing Spe
 Luxe Dental Care, LLC	Stevensville	MD	2	Dentists, General		MD
 Luxe Distribution LLC	Tacoma	WA	2	Market Research Analysts and Marketing Specialists; Interior Designers		WA
 Luxury Diamonds LLC	Los Angeles	CA	2	Management Analysts; Market Research Analysts and Marketing Specialists		CA
-LXD Research & Display, LLC	Raleigh	NC	2	Electrical Engineers		NC
+LXD Research & Display, LLC	Raleigh	NC	1	Electrical Engineers		NC
 Lycee Francais de Chicago, Inc.	Chicago	IL	1	Secondary School Teachers, Except Special and Career/Technical Education		IL
-Lycee Francais de New York	New York	NY	20	School Psychologists; Instructional Coordinators		NY
+Lycee Francais de New York	New York	NY	2	School Psychologists; Instructional Coordinators		NY
 Lycee International de Boston/ International School of Boston Inc	Cambridge	MA	1	Secondary School Teachers, Except Special and Career/Technical Education		MA
 Lyn Dg LLC	Sugar Land	TX	1	Market Research Analysts and Marketing Specialists		TX
 Lyons Construction & Development LLC	Miami	FL	1	Construction Managers		NY
@@ -3279,13 +3279,13 @@ Mark David Levine, M.D., Professional Corporation	Sacramento	CA	7	Psychiatrists;
 Marketing Associates, LLC dba OneMagnify	Detroit	MI	8	Business Intelligence Analysts; Data Scientists	109000	MI,TX
 Markit On Demand, Inc.	Santa Monica	CA	2	Software Developers; Software Quality Assurance Analysts and Testers		CO
 Marlboro County School District	Bennettsville	SC	1	Secondary School Teachers, Except Special and Career/Technical Education		SC
-Marvel Dental DDS, PC	Fort Wayne	IN	4	Dentists, General	250000	IN
+Marvel Dental DDS, PC	Fort Wayne	IN	3	Dentists, General	250000	IN
 Maryland Department of Health - Clifton T. Perkins Hospital Center	Jessup	MD	1	Psychiatrists		MD
 MASS Design Group, Ltd.	Boston	MA	6	Designers, All Other; Architects, Except Landscape and Naval; Training and Development Specialists	85000	MA,NY,NM
 Masserman & Ducey, LLP	Sherman Oaks	CA	2	Paralegals and Legal Assistants		CA
-Mastech Digital Alliances, Inc.	Moon Township	PA	6	Software Developers		TX
-Mastech Digital Resourcing, Inc.	Moon Township	PA	240	Software Developers; Software Quality Assurance Analysts and Testers; Database Architects	138300	TX,RI,NH
-Mastech Digital Technologies, Inc.	Moon Township	PA	774	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	112900	TX,NC,NH
+Mastech Digital Alliances, Inc.	Moon Township	PA	1	Software Developers		TX
+Mastech Digital Resourcing, Inc.	Moon Township	PA	40	Software Developers; Software Quality Assurance Analysts and Testers; Database Architects	138300	TX,RI,NH
+Mastech Digital Technologies, Inc.	Moon Township	PA	129	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	112900	TX,NC,NH
 Matrix Design Group, Inc.	Colorado Springs	CO	1	Civil Engineers		CO
 Matrix Design LLC	Bartlett	IL	1	Mechatronics Engineers		IL
 Matt Peterson Design	Los Angeles	CA	1	Architects, Except Landscape and Naval		CA
@@ -3305,7 +3305,7 @@ Medicine Depot Inc.	Brooklyn	NY	1	Pharmacists		NY
 Mega Data Analytics Llc.	Piscataway	NJ	10	Computer Programmers; Network and Computer Systems Administrators; Software Developers	90800	TX,GA,NJ
 Megha Agrawal DDS PLLC	Morresville	NC	1	Dentists, General		NC
 Mehta & Pipalia Dds Inc.	Clovis	CA	2	Dentists, General		CA
-Meier Architects D.P.C.	New York	NY	2	Architects, Except Landscape and Naval		NY
+Meier Architects D.P.C.	New York	NY	1	Architects, Except Landscape and Naval		NY
 Meilbert De Vera Lopez			2	Mechanical Engineers		
 Mekhael Dental PLLC	Seguin	TX	1	Dentists, General		TX
 Melissa & Doug LLC	Wilton	CT	1	Computer Systems Engineers/Architects		CT
@@ -3382,7 +3382,7 @@ Modulus Designs	Costa Mesa	CA	1	Civil Engineers		CA
 Moen Copi Day School Grant	Tuba City	AZ	2	Elementary School Teachers, Except Special Education		AZ
 Moffat County School District RE-1	Craig	CO	1	Elementary School Teachers, Except Special Education		CO
 Molecular Devices, LLC	San Jose	CA	4	Marketing Managers; Software Developers; Bioengineers and Biomedical Engineers	148700	CA,AZ
-Monarch Montessori of Denver Charter School	Denver	CO	2	Elementary School Teachers, Except Special Education		CO
+Monarch Montessori of Denver Charter School	Denver	CO	1	Elementary School Teachers, Except Special Education		CO
 Money Dolly, LLC FKA SunRiver Gourmet, LLC	Missoula	MT	1	Data Scientists		CA
 Monolith Diagnostics	Kingman	AZ	1	Physicians, Pathologists		AZ
 Monroe Dental Studio PC	Monroe Township	NJ	1	Dentists, General		NJ
@@ -3460,7 +3460,7 @@ New Sparkling Diamond, LLC	Beaumont	TX	1	Industrial Engineers		TX
 New Van Dan Enterprises, Inc.	Houston	TX	1	Marketing Managers		TX
 New Wave Design and Contracting	Sunnyside	NY	1	Civil Engineers		NY
 New York Auto Depot Inc.	Highland Park	NJ	3	Art Directors; Market Research Analysts and Marketing Specialists; Public Relations Specialists		NJ
-New York City Department of Education	Brooklyn	NY	110	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	66700	NY
+New York City Department of Education	Brooklyn	NY	16	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	66700	NY
 New York City Department of Investigation	New York	NY	2	Government Property Inspectors and Investigators; Fraud Examiners, Investigators and Analysts		NY
 New York Design Architects, LLP.	New York	NY	1	Architects, Except Landscape and Naval		NY
 New York State Department of Health	Albany	NY	1	Biochemists and Biophysicists		NY
@@ -3549,7 +3549,7 @@ Omaha Public Power District	Omaha	NE	4	Software Developers; Computer Systems Eng
 Omaha Public Schools, District 0001	Omaha	NE	6	Elementary School Teachers, Except Special Education	86900	NE
 Omali Diagnostics LLC	Farmers Branch	TX	1	Medical and Clinical Laboratory Technologists		TX
 Omni Design Technologies, Inc.	Milpitas	CA	1	Electronics Engineers, Except Computer		CA
-On Defend	Jacksonville	FL	3	Software Quality Assurance Analysts and Testers		FL
+On Defend	Jacksonville	FL	1	Software Quality Assurance Analysts and Testers		FL
 Oncare Digital Assets, Inc.	Richardson	TX	1	Industrial Engineers		WI
 One Family Dental LLC	Greenwood	IN	1	Dentists, General		IN
 One Two Six Design	Santa Clara	CA	1	Interior Designers		CA
@@ -3634,7 +3634,7 @@ Pender Community Hospital District	Pender	NE	3	Medical and Clinical Laboratory T
 Pendergast Elementary School District	Phoenix	AZ	3	Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Special Education Teachers, Elementary School	53200	AZ
 Peninsula Pediatric Dentistry, PC	Newport News	VA	2	Dentists, All Other Specialists		VA
 Pentagram Design, Inc.	New York	NY	2	Graphic Designers		NY,MD
-People Center, Inc. d/b/a Rippling	San Francisco	CA	240	Software Developers; Computer and Information Systems Managers; Data Scientists	237500	CA,NY,WA
+People Center, Inc. d/b/a Rippling	San Francisco	CA	88	Software Developers; Data Scientists; Computer and Information Systems Managers	237500	CA,NY,WA
 Peoria Unified School District	Glendale	AZ	3	Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	60300	AZ
 PEP Development Services, LLC	Pasadena	CA	1	Software Developers		CA
 Pepsi-cola Sales & Distribution, Inc.	Purchase	NY	1	Occupational Health and Safety Specialists		TX
@@ -3673,7 +3673,7 @@ Pistevo Decision LLC	Herndon	VA	1	Software Developers		TX
 PitchBook Data, Inc.	Chicago	IL	4	Information Security Analysts; Graphic Designers; Software Developers	133900	WA
 Pitingaro & Doetsch Consulting Engineers, P.C.	Middletown	NY	2	Environmental Engineers		NY
 Pixel Dental Surgical, PLLC	McKinney	TX	1	Dentists, General		TX
-PKF O'Connor Davies Advisory LLC	Harrison	NY	11	Accountants and Auditors		NY
+PKF O'Connor Davies Advisory LLC	Harrison	NY	2	Accountants and Auditors		NY
 Pl Dental Sc	Coon Rapids	MN	1	Dentists, General		MN
 Plainspace Architecture and Design DPC	New York	NY	1	Architectural and Civil Drafters		NY
 Platform Design LLC	Seattle	WA	1	Landscape Architects		WA
@@ -3753,7 +3753,7 @@ Quality Design Services, Inc.	Okemos	MI	8	Electronics Engineers, Except Computer
 Quality Door and Hardware Inc	West Babylon	NY	2	Market Research Analysts and Marketing Specialists		NY
 Quant Dynamics Solutions Inc	Memphis	TN	15	Data Scientists; Network and Computer Systems Administrators; Computer Systems Analysts	89500	TX,IL,TN
 Quantum Diamond Technologies Inc.	Waltham	MA	3	Biochemists and Biophysicists; Software Developers	123000	MA
-Quest Diagnostics Incorporated	Tampa	FL	77	Medical and Clinical Laboratory Technologists; Software Developers; Biochemists and Biophysicists	109800	CA,NV,OH
+Quest Diagnostics Incorporated	Tampa	FL	27	Medical and Clinical Laboratory Technologists; Software Developers; Biochemists and Biophysicists	109800	CA,PA,NV
 Questpay Inc DBA V2 Technologies Inc	North Brunswick	NJ	3	Software Developers	125000	GA,NC
 Quinn David & Associates, LLC	Milwaukee	WI	5	Software Developers		VA,MO
 Qwest Corporation d/b/a CenturyLink QC	Monroe	LA	1	Information Security Analysts		CO
@@ -3875,7 +3875,7 @@ Rox Data Corp	San Francisco	CA	4	Software Developers; Management Analysts; Marke
 Royal Dental Care, LLC	Waltham	MA	1	Dentists, General		MA
 Royal Dynasty US Restaurant Management, Inc.	Hayward	CA	1	Graphic Designers		CA
 Rs Dragon Technologies LLC	Dallas	TX	5	Software Developers; Validation Engineers	112900	TX,MO
-RS&A, Inc. dba Solutech	Plano	TX	4	Electrical Engineers; Bioengineers and Biomedical Engineers		TX
+RS&A, Inc. dba Solutech	Plano	TX	2	Bioengineers and Biomedical Engineers; Electrical Engineers		TX
 RST South Star Dental PLLC	La Marque	TX	1	Dentists, General		TX
 Rums Department, LLC	Los Angeles	CA	1	Statisticians		CA
 RWS Design and Controls Inc.	Roscoe	IL	2	Software Developers; Mechanical Engineers		IL
@@ -3925,7 +3925,7 @@ SCH Services, Inc dba SullivanCotter, Inc.	Minneapolis	MN	1	Data Scientists		MN
 Schenectady City School District	Schenectady	NY	3	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School	64200	NY
 Schiltz Dds Manchester, PLLC	Manchester	NH	1	Dentists, General		NH
 Schmidt Design Group, Inc	San Diego	CA	1	Architectural and Civil Drafters		CA
-School District No. 15 Of Mohave County	Bullhead City	AZ	7	Special Education Teachers, Middle School; Special Education Teachers, Secondary School; Secondary School Teachers, Except Special and Career/Technical Education	47200	AZ
+School District No. 15 Of Mohave County	Bullhead City	AZ	6	Special Education Teachers, Secondary School; Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School	47200	AZ
 School District of Arcadia Board of Education	Arcadia	WI	2	Elementary School Teachers, Except Special Education; Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors		WI
 School District of Greenfield	Greenfield	WI	1	Middle School Teachers, Except Special and Career/Technical Education		WI
 School District of Kansas City 33	Kansas City	MO	10	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Secondary School	65400	MO
@@ -4141,7 +4141,7 @@ Sumner County Hospital District No 1	Caldwell	KS	1	Medical and Clinical Laborato
 Sun Dental Group	Lorena	TX	1	Dentists, All Other Specialists		TX
 Sunnyside Unified School District No. 12	Tucson	AZ	2	Middle School Teachers, Except Special and Career/Technical Education; Speech-Language Pathologists		AZ
 Sunpin Solar Development LLC	Irvine	CA	1	Solar Energy Systems Engineers		CA
-Sunplus Data Group, Inc.	Lawrenceville	GA	4	Software Developers		GA
+Sunplus Data Group, Inc.	Lawrenceville	GA	3	Software Developers		GA
 Sunshine Dental of Manchester Inc.	Manchester	CT	1	Dentists, General		CT
 Sunshine Developmental School, Inc.	Jamaica	NY	1	Physical Therapists		NY
 Sunshine Vision Development Center LLC	Natick	MA	1	Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists		MA
@@ -4232,7 +4232,7 @@ The Dennis Group Inc.	Springfield	MA	2	Construction Managers; Mechanical Enginee
 The Dentist at Hopkinton, PC	Hopkinton	MA	1	Dentists, General		MA
 The Depository Trust & Clearing Corporation	Jersey City	NJ	46	Software Developers; Software Quality Assurance Analysts and Testers; Computer Network Architects	149400	FL,TX,NJ
 The Detroit Lions, Inc.	Allen Park	MI	1	Data Scientists		MI
-The Devereux Foundation	Rutland	MA	90	Rehabilitation Counselors; Social and Community Service Managers; Mental Health Counselors	39200	MA,NY,PA
+The Devereux Foundation	Rutland	MA	74	Rehabilitation Counselors; Social and Community Service Managers; Mental Health Counselors	39200	MA,NY,PA
 The Diamond Merchants LLC	New York	NY	1	Architectural and Civil Drafters		NY
 The Diocese of Monterey Parish & School Operating Corporation	Monterey	CA	1	Clergy		CA
 The Dionysus Group, LLC	Manchester	NH	2	Information Technology Project Managers		NH
@@ -4269,7 +4269,7 @@ THINK Architecture and Design PLLC	Brooklyn	NY	1	Architects, Except Landscape an
 Think Development Systems	Norcross	GA	3	Software Developers; Computer Systems Analysts; Computer Programmers	104000	GA,NJ
 Tiberina Detroit, Inc.	Detroit	MI	1	Industrial Production Managers		MI
 Tidal Investments LLC d.b.a. Tidal Financial Group	Milwaukee	WI	1	Market Research Analysts and Marketing Specialists		CA
-TikTok U.S. Data Security Inc.	San Jose	CA	271	Software Developers; Data Scientists; Information Technology Project Managers	190400	CA,WA,NY
+TikTok U.S. Data Security Inc.	San Jose	CA	122	Software Developers; Data Scientists; Database Architects	190400	CA,WA,NY
 Tillotson Design Associates Inc.	New York	NY	2	Interior Designers		NY,TX
 Timeback Incorporated (DBA Reflex Robotics)	Brooklyn	NY	1	Mechanical Engineers		NY
 Tire Distributor Xperts, LLC	Gardena	CA	1	Market Research Analysts and Marketing Specialists		CA
@@ -4298,7 +4298,7 @@ TREKK Design Group, LLC	Kansas City	MO	1	Project Management Specialists		NE
 Tremont Road Dental Super, PC	Atlanta	GA	2	Dentists, General		VA
 Tresbu Digital Inc	Solana Beach	CA	1	Software Developers		IL
 Trevor Chen DDS, Inc.	Sacramento	CA	2	Dentists, General		CA
-Tri City Dental LLC	Southborough	MA	2	Dentists, General		MA
+Tri City Dental LLC	Southborough	MA	1	Dentists, General		MA
 Tri Ventures, Inc. D/b/a Aquent LLC	Boston	MA	4	Software Developers		IL,IA
 Tri-Hill Family Dentistry, LLC	York	PA	1	Dentists, General		PA
 Triangle Day School Inc	Durham	NC	1	Computer User Support Specialists		NC
@@ -4360,7 +4360,7 @@ Universal Distribution Center LLC	Monroe Township	NJ	1	Accountants and Auditors	
 Universal Green Developers LLC	Plano	TX	1	Construction Managers		TX
 Universal Smiles Dentistry Edgewater	Edgewater	FL	1	Health Informatics Specialists		FL
 Universidad Central del Caribe, Inc.			1	Statistical Assistants		
-Universidad Politecnica de Puerto Rico, Inc.			6	Engineering Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary	47900	
+Universidad Politecnica de Puerto Rico, Inc.			3	Engineering Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary	47900	
 University Corporation for Advanced Internet Development	Ann Arbor	MI	1	Computer Systems Analysts		TX
 University Dental Health Services, Inc	Pittsburgh	PA	1	Dentists, All Other Specialists		PA
 University of Arkansas System Division of Agriculture	Little Rock	AR	9	Soil and Plant Scientists; Economists; Animal Scientists	51900	AR
@@ -4370,7 +4370,7 @@ University of Colorado Denver	Aurora	CO	42	Radiologists; Biological Technicians;
 University of Colorado Denver / Anschutz	Aurora	CO	36	Medical Scientists, Except Epidemiologists; Biochemists and Biophysicists; Biological Technicians	63600	CO
 University Of Delaware	Newark	DE	25	Business Teachers, Postsecondary; Soil and Plant Scientists; Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary	95300	DE
 University of Denver	Denver	CO	6	Chemists; Psychology Teachers, Postsecondary; Economics Teachers, Postsecondary	56200	CO
-University of Detroit Mercy	Detroit	MI	14	Health Specialties Teachers, Postsecondary; Software Developers; Business Teachers, Postsecondary	101000	MI
+University of Detroit Mercy	Detroit	MI	10	Health Specialties Teachers, Postsecondary; Software Developers; Business Teachers, Postsecondary	101000	MI
 University of Massachusetts Dartmouth	North Dartmouth	MA	6	Business Teachers, Postsecondary; Statisticians; Engineering Teachers, Postsecondary	93300	MA
 University of North Dakota	Grand Forks	ND	21	Career/Technical Education Teachers, Postsecondary; Engineering Teachers, Postsecondary; Health Specialties Teachers, Postsecondary	76200	ND,TX
 University of Notre Dame du Lac	Notre Dame	IN	36	Chemists; Engineering Teachers, Postsecondary; Education Administrators, Postsecondary	84400	IN,DC
@@ -4457,16 +4457,16 @@ Well Dot, Inc.	Chapel Hill	NC	1	Software Developers		MA
 Wells Branch Family Dental PLLC	Pflugerville	TX	1	Dentists, General		TX
 Wesco Distribution, Inc.	Pittsburgh	PA	15	Software Developers; Operations Research Analysts; Information Technology Project Managers	127300	IL,TX,PA
 West Coast Dental Administrative Services, LLC	Los Angeles	CA	3	Software Developers	215000	CA
-West Harvey-Dixmoor School District 147	Harvey	IL	4	Preschool Teachers, Except Special Education		IL
+West Harvey-Dixmoor School District 147	Harvey	IL	1	Preschool Teachers, Except Special Education		IL
 West Virginia University Dental Corporation	Morgantown	WV	1	Dentists, All Other Specialists		WV
 WestEast Design Group, LLC	San Antonio	TX	1	Architects, Except Landscape and Naval		TX
 Western Dental Services, Inc.	Orange	CA	19	Dentists, General; Software Developers; Orthodontists		CA,OR
-Western Digital Technologies, Inc.	San Jose	CA	1840	Electronics Engineers, Except Computer; Industrial Engineers; Software Developers	148300	CA,CO,MN
+Western Digital Technologies, Inc.	San Jose	CA	160	Electronics Engineers, Except Computer; Industrial Engineers; Software Developers	148300	CA,CO,MN
 Westfield Distributing (North Dakota) Inc.	Horace	ND	3	Mechanical Engineers; Business Intelligence Analysts	74300	IL
 Wharton Independent School District	Wharton	TX	1	Secondary School Teachers, Except Special and Career/Technical Education		TX
 White Drive Motors and Steering LLC	Hopkinsville	KY	2	Industrial Engineers; Logisticians		KY
 White Hawk Engineering and Design, LLC	Norman	OK	1	Civil Engineers		TX
-White Shield School District	Roseglen	ND	12	Kindergarten Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	46900	ND
+White Shield School District	Roseglen	ND	3	Kindergarten Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	46900	ND
 Whiteriver Unified School District 20	Whiteriver	AZ	1	Middle School Teachers, Except Special and Career/Technical Education		AZ
 WhizOps Data Solutions LLC	Sugar Hill	GA	1	Market Research Analysts and Marketing Specialists		GA
 WI Dental S.C.	Manitowoc	WI	1	Dentists, General		WI
@@ -4514,10 +4514,10 @@ Youngchi Chang DDS PLLC	Shallotte	NC	1	Dentists, General		NC
 Yuancong Wang Do PLLC	Flushing	NY	2	Management Analysts		NY
 Yujia Yao DDS Inc	San Jose	CA	1	Management Analysts		CA
 Yujia Yao Dental Corporaon	San Jose	CA	1	Dentists, General		CA
-Yukon Flats School District	Fort Yukon	AK	5	Elementary School Teachers, Except Special Education		AK
+Yukon Flats School District	Fort Yukon	AK	1	Elementary School Teachers, Except Special Education		AK
 Yulf Decoration Group LLC	Houston	TX	1	Computer Occupations, All Other		TX
 Z Data, Inc.	Boise	ID	1	Database Administrators		GA
-Zale Delaware, Inc.	Akron	OH	92	Software Developers; Computer Systems Analysts; Database Administrators	135000	TX,OH,NC
+Zale Delaware, Inc.	Akron	OH	11	Software Developers; Computer Systems Analysts; Database Administrators	135000	TX,OH,NC
 Zaynab Satchu, DVM, P.C.	New York	NY	3	Veterinarians		NY
 ZDS LLC Dba: ZDS Design/Consulting Services	Scott Depot	WV	2	Electrical Engineers; Mechanical Engineers		WV
 ZDZ Dental PLLC	Marlborough	MA	1	Medical and Health Services Managers		MA

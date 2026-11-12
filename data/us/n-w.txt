@@ -44,7 +44,7 @@ Allora Modern Wellness LLC	Starkville	MS	1	Medical and Health Services Managers	
 ALS Wholesale LLC	Worcester	MA	1	Project Management Specialists		MA
 AM of Washington DC, LLC	Ashburn	VA	1	Public Relations Specialists		VA
 Amazon Web Services Puerto Rico LLC	Seattle	WA	3	Software Developers; Sales Managers	180900	
-Amazon Web Services, Inc.	Seattle	WA	4884	Software Developers; Computer and Information Systems Managers; Business Intelligence Analysts	162600	WA,TX,CA
+Amazon Web Services, Inc.	Seattle	WA	1766	Software Developers; Computer and Information Systems Managers; Computer Network Support Specialists	162600	WA,TX,CA
 America West Medical Transportation Inc.	Sacramento	CA	1	Market Research Analysts and Marketing Specialists		CA
 American Baptist Churches of Wisconsin, Inc.	Wauwatosa	WI	1	Clergy		WI
 American Wagering, Inc.	Las Vegas	NV	3	Software Quality Assurance Analysts and Testers; Software Developers; Computer and Information Systems Managers	161000	NJ,NV
@@ -53,7 +53,7 @@ American Water Works Service Company, Inc.	Camden	NJ	4	Software Developers; Comp
 American Woodmark Corporation	Winchester	VA	5	Computer Systems Analysts; Industrial Engineers; Information Technology Project Managers	99600	VA,NC,CA
 Amrize West Central, Inc.	Dundee	MI	1	General and Operations Managers		WA
 Ana Williamson Architect, Inc.	Menlo Park	CA	1	Architects, Except Landscape and Naval		CA
-Anayas Way Inc	Jonesboro	AR	14	Instructional Coordinators		AR
+Anayas Way Inc	Jonesboro	AR	2	Instructional Coordinators		AR
 Andersen Windows, Inc.	Oak Park Heights	MN	1	Software Developers		TX
 Apex Dental Fort Wayne LLC	Fort Wayne	IN	1	Dentists, General		IN
 Apex Wireless Solutions LLC	Mesa	AZ	1	Electronics Engineers, Except Computer		TX
@@ -92,7 +92,7 @@ Baldwin Wallace University	Berea	OH	1	Economics Teachers, Postsecondary		OH
 Baroldi Wood Mance LLP	Foothill Ranch	CA	1	Accountants and Auditors		CA
 Barret, Woodyard & Associates, Inc	Peachtree Corners	GA	1	Industrial Engineers		GA
 Barry & Wynn Architects, Inc.	Danville	CA	1	Architectural and Civil Drafters		CA
-Bates White, LLC	Washington	DC	3	Economists		DC
+Bates White, LLC	Washington	DC	1	Economists		DC
 Bath & Body Works Brand Management, Inc.	Columbus	OH	2	Market Research Analysts and Marketing Specialists; Commercial and Industrial Designers		IL,OH
 Bath & Body Works Direct, Inc.	Columbus	OH	2	Web Developers; Operations Research Analysts		TX,OH
 Bath & Body Works Logistics Services, LLC	Columbus	OH	2	Logisticians; Database Architects		OH
@@ -164,7 +164,7 @@ CC Wellness LLC	Valencia	CA	2	Graphic Designers		CA
 Cellular World LLC	Miami	FL	1	Database Administrators		FL
 Central Mechanical Wichita, LLC	Wichita	KS	1	Mechanical Engineers		KS
 Central Washington University	Ellensburg	WA	1	Art, Drama, and Music Teachers, Postsecondary		WA
-CEP America – Washington, PLLC	Emeryville	CA	2	General Internal Medicine Physicians		WA
+CEP America – Washington, PLLC	Emeryville	CA	1	General Internal Medicine Physicians		WA
 Chapa & Salinas Private Wealth Group LLC	McAllen	TX	1	Financial Quantitative Analysts		TX
 Charles B. Wang Community Health Center	New York	NY	2	Nurse Practitioners; Healthcare Social Workers		NY
 Charles C.H. Wu & Associates, A Professional Corporation	Irvine	CA	1	Accountants and Auditors		CA
@@ -174,7 +174,7 @@ Chicago Oriental Wholesale Market, Inc.	Chicago	IL	1	Logisticians		IL
 Chipmunk's World, Inc	Mineola	NY	1	Accountants and Auditors		NY
 Christine Wang & Associates, Ltd.	Vienna	VA	1	Accountants and Auditors		VA
 Chun Yu Works (U.S.A.) Inc.	Pomona	CA	1	Business Intelligence Analysts		CA
-CIBC World Markets Corp.	New York	NY	41	Financial and Investment Analysts; Financial Quantitative Analysts; Credit Analysts	141800	NY,WI,TX
+CIBC World Markets Corp.	New York	NY	20	Financial and Investment Analysts; Financial Quantitative Analysts; Credit Analysts	141800	NY,WI,TX
 Cipriani & Werner, P.C.	Pittsburgh	PA	1	Lawyers		PA
 Citigroup Washington, Inc.	New York	NY	1	Regulatory Affairs Specialists		DC
 City of Lakes Waldorf School	Minneapolis	MN	1	Kindergarten Teachers, Except Special Education		MN
@@ -282,7 +282,7 @@ East West Food Packaging Inc	Anaheim	CA	1	Business Intelligence Analysts		CA
 East West Industrial Engineering LLC	Ann Arbor	MI	1	Manufacturing Engineers		IN
 East West Systems Inc.	Mount Arlington	NJ	7	Software Developers	106000	TX,OH,IL
 Eastern Washington University	Cheney	WA	3	Coaches and Scouts; Computer Science Teachers, Postsecondary; Education Teachers, Postsecondary	55000	WA
-Edward W. Sparrow Hospital Association	Lansing	MI	12	Hospitalists; Surgeons, All Other; Physicians, Pathologists	275900	MI
+Edward W. Sparrow Hospital Association	Lansing	MI	10	Surgeons, All Other; Physicians, Pathologists; Medical Scientists, Except Epidemiologists	275900	MI
 Eight West Management LLC	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
 EKI Environment & Water, Inc.	Daly City	CA	3	Hydrologists; Environmental Engineers; Water/Wastewater Engineers	100800	CA,CT
 Elan Rgv Wireless LLC	Stafford	TX	2	Database Administrators; Operations Research Analysts		TX
@@ -341,7 +341,7 @@ Garret Cord Werner LLC	Seattle	WA	1	Architects, Except Landscape and Naval		WA
 Gaston Walsh Law Group, LLC	Glendale	AZ	1	Paralegals and Legal Assistants		AZ
 GATC West Virginia, Inc.	Morgantown	WV	2	Operations Research Analysts		WV
 Gatewood Wealth Solutions	Brentwood	MO	1	Financial and Investment Analysts		MO
-Geisinger Wyoming Valley Medical Center	Danville	PA	18	General Internal Medicine Physicians; Physicians, All Other; Neurologists	71700	PA
+Geisinger Wyoming Valley Medical Center	Danville	PA	10	General Internal Medicine Physicians; Physicians, All Other; Neurologists	71700	PA
 Gene Friend Way Inc	San Francisco	CA	1	General and Operations Managers		CA
 Genesee & Wyoming Railroad Services, Inc.	Rochester	NY	2	Data Warehousing Specialists; Economists		NY,IL
 George W. Girvin & Associates, Inc	Larkspur	CA	1	Architectural and Civil Drafters		CA
@@ -359,7 +359,7 @@ Golden West Trading, Inc.	Vernon	CA	1	Logisticians		CA
 Goldman Sachs Wealth Services, L.P.	New York	NY	50	Software Developers; Financial and Investment Analysts; Operations Research Analysts	112500	NY,TX,IL
 Gorinshteyn & Watkins LLC	Atlanta	GA	1	Lawyers		GA
 Gps-st Wellness LLC	Tampa	FL	2	Search Marketing Strategists; Market Research Analysts and Marketing Specialists		FL
-Grace William Health Systems Inc	Klamath Falls	OR	7	Substance Abuse and Behavioral Disorder Counselors	48400	OR,MD
+Grace William Health Systems Inc	Klamath Falls	OR	4	Substance Abuse and Behavioral Disorder Counselors	48400	MD,OR
 Grandizio, Wilkins, Little & Matthews, LLP	Hunt Valley	MD	1	Accountants and Auditors		MD
 Grandizio,Wilkins, Little & Matthews, LLP	Hunt Valley	MD	1	Accountants and Auditors		MD
 Gravity Well LLC	Sherman Oaks	CA	1	Network and Computer Systems Administrators		CA
@@ -401,7 +401,7 @@ HearX West, LLC	Palm Beach Gardens	FL	1	Audiologists		CA
 Helix Wireless Inc	East Brunswick	NJ	5	Software Developers; Web Developers; Accountants and Auditors	80000	NJ
 Heritage Wealth Advisors, LLC	Minneapolis	MN	1	Financial and Investment Analysts		MN
 Highline Warren LLC	Memphis	TN	1	Compensation and Benefits Managers		TN
-Hillside Nursing Center Of Wake Forest, Inc	Wake Forest	NC	2	Medical and Health Services Managers		NC
+Hillside Nursing Center Of Wake Forest, Inc	Wake Forest	NC	1	Medical and Health Services Managers		NC
 Himalaya Wellness USA Limited	Sugar Land	TX	1	Industrial Engineers		TX
 Hobbs Straus Dean & Walker, LLP	Washington	DC	1	Business Operations Specialists, All Other		CA
 Hodes Weill & Associates, LP	New York	NY	1	Financial and Investment Analysts		NY
@@ -431,7 +431,7 @@ Info Way Solutions, LLC	Fremont	CA	15	Computer Programmers; Data Scientists; Sof
 Inner Work, LLC	Newark	DE	6	Business Intelligence Analysts; Compliance Officers; Market Research Analysts and Marketing Specialists		NJ,CA,WA
 Innerpak of Wisconsin, Inc.	Watertown	WI	1	Industrial Engineers		WI
 INNIO Waukesha Gas Engines Inc.	Waukesha	WI	1	Mechanical Engineers		WI
-Innovative Physical Rehab And Wellness Center	Kendall Park	NJ	8	Physical Therapists		NJ
+Innovative Physical Rehab And Wellness Center	Kendall Park	NJ	1	Physical Therapists		NJ
 Inovonics Wireless Corporation	Westminster	CO	1	Software Developers		CO
 Inseego Wireless, Inc.	San Diego	CA	3	Information Technology Project Managers; Software Quality Assurance Analysts and Testers; Architectural and Engineering Managers	143600	CA
 Institute for the Study of War, Inc.	Washington	DC	1	Social Science Research Assistants		DC
@@ -490,7 +490,7 @@ Lama Wholesale Inc	Haltom City	TX	1	Business Operations Specialists, All Other		
 Lansing Board of Water & Light	Lansing	MI	1	Database Administrators		MI
 Larry Walker Associates, Inc.	Davis	CA	1	Environmental Engineers		CA
 Last Word Consulting Inc	Laurel Springs	NJ	1	Software Developers		MA
-Latham & Watkins LLP	New York	NY	82	Lawyers; Operations Research Analysts	273000	NY,CA,TX
+Latham & Watkins LLP	New York	NY	53	Lawyers; Operations Research Analysts	273000	NY,CA,TX
 Latitude Wines, LLC	Alamo	CA	1	Financial and Investment Analysts		CA
 Law Office of Baoqin Wang, LLC	Beaverton	OR	1	Lawyers		OR
 Law Office of Kenneth W. Jiang	New York	NY	1	Lawyers		NY
@@ -639,7 +639,7 @@ Paul W. Hiss MD, LDT	Sparks	NV	1	Optometrists		NV
 Paul Walters Implant Dentistry Associates of Louisiana, a Professional Corporation	Metairie	LA	2	Prosthodontists		LA
 Paul's Machine & Welding Corp.	Villa Grove	IL	1	Project Management Specialists		IL
 PAUL'S Machine and Welding Corp.	Villa Grove	IL	1	Project Management Specialists		IL
-Paul, Weiss, Rifkind, Wharton & Garrison, LLP	New York	NY	74	Lawyers	225000	NY,DC,NJ
+Paul, Weiss, Rifkind, Wharton & Garrison, LLP	New York	NY	44	Lawyers	225000	NY,DC,NJ
 Paving the Way Multi Service Institute	Washington	DC	2	Mental Health Counselors		DC
 Pay With Spire, Inc.	Dallas	TX	1	Business Intelligence Analysts		TX
 Pearl World Inc	New York	NY	9	Graphic Designers; Public Relations Specialists; Logistics Analysts	79700	NY
@@ -755,7 +755,7 @@ Sky Web Network, Inc.	Saginaw	MI	1	Computer Network Architects		MI
 SMACT Works, Inc.	Dublin	OH	3	Software Developers	160000	AZ,OH
 Smile Design Dentistry Westchase, LLC	Effingham	IL	1	Dentists, General		FL
 Smoot Construction Company of Washington DC	Washington	DC	1	Construction Managers		DC
-SNK Petroleum Wholesalers, Inc.	Danbury	CT	3	Accountants and Auditors; Information Security Engineers		CT
+SNK Petroleum Wholesalers, Inc.	Danbury	CT	2	Accountants and Auditors; Information Security Engineers		CT
 Solaris Water Midstream Services, LLC	Houston	TX	1	Water/Wastewater Engineers		TX
 SolarWinds Worldwide, LLC	Austin	TX	4	Software Developers; Marketing Managers; Web and Digital Interface Designers	174100	TX
 SOLO World Partners LLC	Riverview	MI	1	Supply Chain Managers		MI
@@ -799,7 +799,7 @@ Sullivan & Worcester LLP	Boston	MA	2	Judicial Law Clerks; Lawyers		MA,NY
 Sumitomo Electric Wiring Systems, Inc.	Farmington Hills	MI	1	Industrial Engineers		MI
 Sun West Mortgage Company, Inc.	Cerritos	CA	2	Software Developers; Financial Quantitative Analysts		MO,CA
 Sunrise Wholesale LLC	Macon	GA	3	Accountants and Auditors; Data Scientists		GA
-Sunrise Wholesalers Inc	Jersey City	NJ	4	Data Scientists; Operations Research Analysts	79500	NJ
+Sunrise Wholesalers Inc	Jersey City	NJ	3	Data Scientists; Operations Research Analysts	79500	NJ
 Sunshine Windows Manufacturing Inc	Hialeah	FL	1	Mechanical Engineers		FL
 Supply Chain Wizard, LLC	Princeton	NJ	1	Logistics Analysts		FL
 Surf Air Wireless, LLC	Elkhart	IN	3	Data Scientists; Database Administrators	80000	IL,IN
@@ -825,7 +825,7 @@ The College of William and Mary	Williamsburg	VA	22	Computer Science Teachers, Po
 The College of Wooster	Wooster	OH	3	Communications Teachers, Postsecondary; Economics Teachers, Postsecondary	69700	OH
 The Community Wellness Project	St. Louis	MO	1	Medical and Health Services Managers		MO
 The Elie Wiesel Foundation For Humanity, Inc.	New York	NY	1	Graphic Designers		VA
-The Feet Washers Inc	Fort Pierce	FL	25	Social and Human Service Assistants		FL
+The Feet Washers Inc	Fort Pierce	FL	1	Social and Human Service Assistants		FL
 The George Washington University	Washington	DC	16	Software Developers; Physicists; Electrical Engineers	95000	DC,MD,NC
 The Gleason Works	Rochester	NY	2	Lawyers; Network and Computer Systems Administrators		NY
 The Home for Little Wanderers	Boston	MA	29	Rehabilitation Counselors; Mental Health Counselors; Social and Community Service Managers	46600	MA,NH
@@ -1031,7 +1031,7 @@ Walbrydge Technologies Inc	Albany	NY	17	Software Developers; Software Quality As
 Walden Behavioral Care, Inc.	Dedham	MA	1	Biological Technicians		MA
 Walden Robotics, Inc.	Cambridge	MA	1	Software Developers		MA
 Walgreen Co.	Deerfield	IL	46	Pharmacists; Software Developers; Information Technology Project Managers	153700	IL,WA,TX
-Walker Architects, Inc.	Gainesville	FL	2	Architectural and Civil Drafters		FL
+Walker Architects, Inc.	Gainesville	FL	1	Architectural and Civil Drafters		FL
 Walker Consultants, Inc.	Portage	MI	7	Civil Engineers; Architectural and Civil Drafters	90500	TX,GA,NY
 Walker Healthforce, LLC	Bloomfield Hills	MI	1	Management Analysts		NJ
 Walker Macy LLC	Portland	OR	1	Landscape Architects		OR
@@ -1058,7 +1058,7 @@ Walnut Street Baptist Church	Louisville	KY	1	Clergy		KY
 Walong Marketing, Inc.	Buena Park	CA	2	Management Analysts; Computer Network Support Specialists		CA
 Walor North America, Inc.	Columbus	OH	1	Industrial Engineers		OH
 Walsh Patel Group Consulting LLC	Morganville	NJ	1	Computer Network Architects		PA
-Walsh Washburn LLC	Overland Park	KS	2	Tax Preparers		KS
+Walsh Washburn LLC	Overland Park	KS	1	Tax Preparers		KS
 Walsworth Publishing Company, Inc.	Marceline	MO	1	Data Scientists		KS
 Walt Disney Parks And Resorts U.s., Inc.	Burbank	CA	2	Software Developers; Graphic Designers		CA,FL
 Walter Associates, Inc.	Saline	MI	1	Software Developers		MI
@@ -1188,7 +1188,7 @@ Watsco, Inc.	Coconut Grove	FL	1	Network and Computer Systems Administrators		FL
 Watson Farley & Williams LLP	New York	NY	1	Lawyers		NY
 Watson Institute	Boulder	CO	1	Market Research Analysts and Marketing Specialists		FL
 Watson Marlow Americas Manufacturing Inc.	Devens	MA	1	Industrial Engineers		MA
-Watsonrice LLP	New York	NY	6	Accountants and Auditors	73100	NY
+Watsonrice LLP	New York	NY	3	Accountants and Auditors	73100	NY
 Watts Auction Realty Appraisals Inc.	Rustburg	VA	1	Market Research Analysts and Marketing Specialists		VA
 Watts Regulator Company	North Andover	MA	2	Logisticians		NH,CA
 Watttime Corporation	Oakland	CA	1	Climate Change Policy Analysts		NY
@@ -1282,7 +1282,7 @@ Web Synergies Americas Inc.	Sugar Land	TX	1	Computer and Information Systems Man
 Web Wisor Inc.	Naperville	IL	1	Software Developers		IL
 Web Yoga, Inc.	Dayton	OH	2	Software Developers		MD,OH
 Web3ola LLC	Henrico	VA	5	Software Developers; Network and Computer Systems Administrators; Data Scientists	102500	VA,NH,MO
-webAI, Inc	Austin	TX	13	Computer and Information Research Scientists; Software Developers	160000	TX
+webAI, Inc	Austin	TX	10	Software Developers; Computer and Information Research Scientists	160000	TX
 Webasto Roof Systems Inc.	Auburn Hills	MI	10	Industrial Engineers; Manufacturing Engineers; Mechanical Engineers	109800	MI
 Webasto Thermo & Comfort NA, Inc.	Fenton	MI	1	Industrial Engineers		MI
 Webb School	Bell Buckle	TN	1	Secondary School Teachers, Except Special and Career/Technical Education		TN
@@ -1304,7 +1304,7 @@ Webinterstate, LLC	Faribault	MN	1	Accountants and Auditors		IL
 Webject Systems Inc	Bridgewater	MA	10	Software Developers; Information Technology Project Managers; Data Scientists	131100	MA,NC,DC
 Webkorps LLC	Sheridan	WY	3	Software Developers	85300	IL,TX
 Weblinx Solutions LLC	Fairlawn	OH	3	Computer Programmers; Data Scientists		TX,FL
-WebMD Professional Services LLC	Newark	NJ	29	Software Developers; Business Intelligence Analysts; Web and Digital Interface Designers	103200	NJ
+WebMD Professional Services LLC	Newark	NJ	5	Business Intelligence Analysts; Software Developers; Web and Digital Interface Designers	103200	NJ
 WebMD, LLC	Newark	NJ	7	Software Developers; Computer Network Architects; Software Quality Assurance Analysts and Testers	160000	NJ,TX
 WebmobileZ Inc	Troy	MI	4	Software Developers	102200	MI
 Webranding Global LLC	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
@@ -1353,7 +1353,7 @@ Weis Yunnan Rice Noodles LLC	Brighton	MA	1	Occupational Health and Safety Specia
 Weisbrod Matteis & Copley PLLC	Seattle	WA	1	Lawyers		WA
 Weishaupt America Inc.	Elgin	IL	1	Mechanical Engineers		IL
 Weiss Architects LLC	Chicago	IL	1	Architectural and Civil Drafters		IL
-Weiss Asset Management LP	Boston	MA	8	Financial Quantitative Analysts; Financial Managers; Software Developers	195000	MA
+Weiss Asset Management LP	Boston	MA	6	Financial Managers; Software Developers; Financial Quantitative Analysts	195000	MA
 Weiss Manfredi Architects LLP	New York	NY	1	Interior Designers		NY
 Weiss Ratings LLC	Palm Beach Gardens	FL	1	Software Developers		FL
 Weissman's Theatrical Supplies, Inc.	St. Louis	MO	1	Network and Computer Systems Administrators		MO
@@ -1371,7 +1371,7 @@ Welch Design Studio Interiors, Inc.	El Segundo	CA	1	Architectural and Civil Draf
 Welcome Fuels, LLC	Suwanee	GA	3	Human Resources Specialists; Budget Analysts; Financial Managers	63400	GA
 Welcome Real Estate Services, LLC	Houston	TX	1	Data Scientists		TX
 Weld-On Adhesives, Inc.	Compton	CA	1	Computer and Information Systems Managers		CA
-Weldon City Schools	Weldon	NC	16	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Special Education Teachers, Elementary School	41800	NC
+Weldon City Schools	Weldon	NC	13	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Librarians and Media Collections Specialists	41800	NC
 Welk-ko Fabricators, Inc.	Livonia	MI	1	Manufacturing Engineers		MI
 Welkin Technologies LLC	Alpharetta	GA	17	Software Developers; Computer Programmers; Software Quality Assurance Analysts and Testers		TX,NC,CA
 Well Dot, Inc.	Chapel Hill	NC	1	Software Developers		MA
@@ -1426,7 +1426,7 @@ Welltower, Inc.	Toledo	OH	8	Financial and Investment Analysts; Data Scientists; 
 Welmade Technology Corp	Phoenix	AZ	1	Business Operations Specialists, All Other		AZ
 Welocalize, Inc.	New York City	NY	1	Project Management Specialists		NJ
 Welspun Pipes, Inc.	Little Rock	AR	15	Mechanical Engineers; Accountants and Auditors; Electrical Engineers	68700	AR
-Welthy Inc.	Miami	FL	4	Chief Executives	180000	FL
+Welthy Inc.	Miami	FL	3	Chief Executives	180000	FL
 Weltman, Weinberg & Reis Co, LPA	Independence	OH	1	Lawyers		OH
 Wenatchee Valley Medical Group, PS	Wenatchee	WA	3	General Internal Medicine Physicians	335000	WA
 Wenche Chung Md & Kuoting Lee Lac A.	Arcadia	CA	1	Market Research Analysts and Marketing Specialists		CA
@@ -1474,7 +1474,7 @@ West Contra Costa Unified School District	Richmond	CA	26	Special Education Teach
 West Creek Financial, Inc. (d/b/a Koalafi)	Richmond	VA	1	Data Warehousing Specialists		NJ
 West Florida Premier Inc	Brandon	FL	1	Coaches and Scouts		FL
 West Fraser, Inc.	Cordova	TN	1	Manufacturing Engineers		AL
-West Harvey-Dixmoor School District 147	Harvey	IL	4	Preschool Teachers, Except Special Education		IL
+West Harvey-Dixmoor School District 147	Harvey	IL	1	Preschool Teachers, Except Special Education		IL
 West Las Vegas Schools	Las Vegas	NM	1	Middle School Teachers, Except Special and Career/Technical Education		NM
 West Monroe Partners, Inc.	Chicago	IL	2	Management Analysts		NY
 West Penn Allegheny Health System	Pittsburgh	PA	7	Medical and Clinical Laboratory Technologists; Healthcare Diagnosing or Treating Practitioners, All Other; Business Intelligence Analysts	69600	PA,FL
@@ -1497,7 +1497,7 @@ West Virginia State University	Institute	WV	3	Computer Science Teachers, Postsec
 West Virginia State University Research And Development Corporation	Institute	WV	4	Education Administrators, Postsecondary; Biologists	75600	WV,IL
 West Virginia University	Morgantown	WV	99	Health Specialties Teachers, Postsecondary; Biochemists and Biophysicists; Economists	84400	WV,PA,CA
 West Virginia University Dental Corporation	Morgantown	WV	1	Dentists, All Other Specialists		WV
-West Virginia University Hospitals, Inc.	Morgantown	WV	35	Acute Care Nurses; Critical Care Nurses; General Internal Medicine Physicians	267100	WV,CA
+West Virginia University Hospitals, Inc.	Morgantown	WV	8	General Internal Medicine Physicians; Acute Care Nurses; Project Management Specialists	267100	WV,CA
 West Virginia University Medical Corporation	Morgantown	WV	75	General Internal Medicine Physicians; Pediatricians, General; Neurologists	275400	WV,PA
 West Windsor-Plainsboro Regional School District	West Windsor	NJ	1	Elementary School Teachers, Except Special Education		NJ
 West Yavapai Guidance Clinic	Prescott Valley	AZ	1	Health Informatics Specialists		UT
@@ -1521,7 +1521,7 @@ Western Climate Initiative, Inc.	Sacramento	CA	1	Business Intelligence Analysts	
 Western Colorado University	Gunnison	CO	3	Network and Computer Systems Administrators	83000	NY
 Western Connecticut State University	Danbury	CT	1	Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary		CT
 Western Dental Services, Inc.	Orange	CA	19	Dentists, General; Software Developers; Orthodontists		CA,OR
-Western Digital Technologies, Inc.	San Jose	CA	1840	Electronics Engineers, Except Computer; Industrial Engineers; Software Developers	148300	CA,CO,MN
+Western Digital Technologies, Inc.	San Jose	CA	160	Electronics Engineers, Except Computer; Industrial Engineers; Software Developers	148300	CA,CO,MN
 Western Electricity Coordinating Council	Salt Lake City	UT	1	Operations Research Analysts		UT
 Western Extrusions Corporation	Carrollton	TX	1	Mechatronics Engineers		TX
 Western Governors University	Salt Lake City	UT	13	Software Developers; Data Scientists; Business Operations Specialists, All Other	140000	UT,MI,AZ
@@ -1560,7 +1560,7 @@ Westlake Kitchen USA Inc	Ontario	CA	2	Accountants and Auditors		CA
 Westlake Management Services Inc.	Houston	TX	5	Computer and Information Systems Managers; Computer Programmers; Mechanical Engineers	155400	TX,GA,FL
 Westlake Services, LLC	Los Angeles	CA	1	Computer Systems Analysts		CA
 Westlock Controls Corporation	Saddle Brook	NJ	1	Business Intelligence Analysts		NJ
-Westmoreland County School Board	Montross	VA	5	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School	47400	VA
+Westmoreland County School Board	Montross	VA	4	Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School; Secondary School Teachers, Except Special and Career/Technical Education	47400	VA
 Westnovo Freight Inc	City of Industry	CA	1	Budget Analysts		CA
 Weston & Sampson Engineers, Inc.	Reading	MA	9	Landscape Architects; Civil Engineers; Environmental Engineers	80500	MA,CT,NC
 Weston Solutions, Inc.	West Chester	PA	1	Civil Engineers		TX
@@ -1629,7 +1629,7 @@ White Picket Team LLC	Mckinney	TX	1	Market Research Analysts and Marketing Speci
 White Plains Hospital Medical Center	White Plains	NY	5	Medical and Clinical Laboratory Technologists; Healthcare Social Workers; Radiologists		NY
 White River Health System Inc	Batesville	AR	5	Registered Nurses		AR
 White River Technologies, Inc.	Newton	MA	1	Electrical Engineers		NH
-White Shield School District	Roseglen	ND	12	Kindergarten Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	46900	ND
+White Shield School District	Roseglen	ND	3	Kindergarten Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	46900	ND
 White Star Capital USA, Inc.	New York	NY	1	Financial and Investment Analysts		NY
 Whitebox Advisors, LLC	Minneapolis	MN	1	Credit Analysts		TX
 Whiteford, Taylor and Preston LLP	Baltimore	MD	1	Lawyers		NY
@@ -1757,7 +1757,7 @@ Willow Laboratories, Inc.	Irvine	CA	2	Software Quality Assurance Analysts and Te
 Willow Lake School District 12-3	Willow Lake	SD	2	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		SD
 Willow Life Sciences, Inc.	Allston	MA	1	Operations Research Analysts		CA
 Willow Wealth, Inc.	New York	NY	1	Financial and Investment Analysts		NY
-Willsfly Technologies Inc	Spokane	WA	21	Software Developers; Information Security Analysts; General and Operations Managers	122700	WA
+Willsfly Technologies Inc	Spokane	WA	20	Software Developers; Information Security Analysts; Data Scientists	122700	WA
 Willsmarg Technologies LLC	Richmond	VA	13	Software Developers; Information Security Analysts; Computer Network Architects	108600	VA
 Willton Investment Management, LLC	New York	NY	2	Financial Managers		NY
 WilMac Multidistrict Special Education Unit	Williston	ND	2	Special Education Teachers, Secondary School; Special Education Teachers, Preschool		ND
@@ -1849,14 +1849,14 @@ Wippman Gozum Goldberg and Helfer Group LLC	Arlington Heights	IL	1	Accountants a
 Wipro Appirio INC	Indianapolis	IN	3	Computer Systems Analysts; Computer Programmers; Computer Systems Engineers/Architects	142400	IL,NY,CA
 Wipro Connected Services Inc	Bellevue	WA	4	Information Technology Project Managers; Software Quality Assurance Analysts and Testers; Graphic Designers	136400	TX,CA,NJ
 Wipro Enterprises, Inc.	Chambersburg	PA	1	Manufacturing Engineers		PA
-Wipro Limited	East Brunswick	NJ	2002	Computer Programmers; Computer Systems Engineers/Architects; Information Technology Project Managers	98900	TX,CA,NJ
+Wipro Limited	East Brunswick	NJ	1300	Computer Programmers; Computer Systems Engineers/Architects; Information Technology Project Managers	98900	TX,NJ,CA
 Wipro NextGen Enterprise Inc.,	Atlanta	GA	2	Computer Programmers; Computer Systems Engineers/Architects		GA
 Wipro Pari Inc.	Rochester Hills	MI	4	Mechanical Engineers; Mechatronics Engineers	114100	MI,IL
 Wipro Telecom Consulting LLC	Atlanta	GA	4	Computer Systems Analysts; Computer Systems Engineers/Architects	129800	GA,TX,IL
 Wire Bender Inc	Burbank	CA	2	Human Resources Specialists		CA
 Wired Electrical Services Inc	Tomball	TX	1	Market Research Analysts and Marketing Specialists		TX
 WiredHive, LLC	McKinney	TX	1	Data Scientists		TX
-Wireless Game Group, LLC	Redford	MI	7	First-Line Supervisors of Retail Sales Workers; Occupational Health and Safety Specialists; Computer User Support Specialists		MI,WI
+Wireless Game Group, LLC	Redford	MI	5	First-Line Supervisors of Retail Sales Workers; Occupational Health and Safety Specialists; Computer User Support Specialists		MI,WI
 Wireless Next, Inc.	Miami	FL	1	General and Operations Managers		FL
 Wireless Vision, LLC	Birmingham	MI	3	Software Developers; Database Architects	118900	MI
 Wisconsin Aluminum Foundry Company, Inc.	Manitowoc	WI	1	Accountants and Auditors		WI
@@ -2017,8 +2017,8 @@ Woolpert Inc	Dayton	OH	19	Architectural and Civil Drafters; Civil Engineers; Arc
 Wooshin North America, LLC	Wayne	MI	1	Industrial Engineers		MI
 Wooshin Safety Systems North America,LLC	Wayne	MI	2	Mechanical Engineers		MI
 Wooster School Corporation	Danbury	CT	1	Instructional Coordinators		CT
-Woot Services LLC	Seattle	WA	13	Graphic Designers; Software Developers	133400	WA,TX
-Woot.com LLC	Seattle	WA	13	Market Research Analysts and Marketing Specialists; Software Developers	129000	TX,WA
+Woot Services LLC	Seattle	WA	4	Software Developers; Graphic Designers	133400	WA,TX
+Woot.com LLC	Seattle	WA	4	Software Developers; Market Research Analysts and Marketing Specialists	129000	TX,WA
 Worcester Academy	Worcester	MA	1	Secondary School Teachers, Except Special and Career/Technical Education		MA
 Worcester Polytechnic Institute	Worcester	MA	20	Engineering Teachers, Postsecondary; Chemical Engineers; Electrical Engineers, R&D	71000	MA
 Worcester Refugee and Immigrant Support and Empowerment (RISE) for Health Inc.	Worcester	MA	1	Social and Community Service Managers		MA
@@ -2047,7 +2047,7 @@ Worklance Inc.	Schaumburg	IL	2	Industrial Engineers		NJ,NE
 Workllama LLC	Alpharetta	GA	2	Software Developers		GA
 WorkMagic Inc.	Newark	CA	5	Market Research Analysts and Marketing Specialists; Marketing Managers; Data Scientists	180000	CA,NY,NJ
 Workmate Inc	Old Bridge	NJ	5	Software Developers	105000	NJ
-Workmate Labs Inc	New York	NY	2	Software Developers		NY
+Workmate Labs Inc	New York	NY	1	Software Developers		NY
 WorkOnward Inc	New York	NY	1	Business Intelligence Analysts		NY
 WorkOS, Inc.	San Francisco	CA	2	Graphic Designers; Software Developers		CA
 Workover Solutions, Inc.	Pittsburgh	PA	1	Petroleum Engineers		PA
@@ -2105,7 +2105,7 @@ Worldwide Oilfield Machine Inc	Houston	TX	3	Industrial Engineers; Mechanical Eng
 Worldwide Retail Solutions Inc.	Hauppauge	NY	1	Commercial and Industrial Designers		NY
 Worldwide Sport Nutritional Supplements, Inc.	New York	NY	2	General and Operations Managers; Food Scientists and Technologists		NY
 Worldwise Plastics LLC	Lewisburg	TN	4	General and Operations Managers; Computer Systems Analysts; Logisticians	51300	TN
-Worley Group, Inc.	Houston	TX	18	Architectural and Engineering Managers; Civil Engineers; Electrical Engineers	172300	TX,CA,WV
+Worley Group, Inc.	Houston	TX	17	Architectural and Engineering Managers; Civil Engineers; Electrical Engineers	172300	CA,TX,WV
 Worthington Enterprises Inc.	Columbus	OH	1	Computer Systems Engineers/Architects		OH
 Worx Engineering, Inc.	Lake Forest	CA	1	Market Research Analysts and Marketing Specialists		CA
 WorXsiteHR Insurance Solutions Inc	Oxnard	CA	2	Software Developers		TX
@@ -2178,7 +2178,7 @@ Wwc, P.C.	San Mateo	CA	7	Accountants and Auditors; Web Administrators; Computer 
 WWEX Franchise Holdings, LLC	Dallas	TX	10	Software Developers; Business Intelligence Analysts; Software Quality Assurance Analysts and Testers	155000	TX,AR,MN
 wwwfiftyflowerscom, INC	Boise	ID	1	Marketing Managers		FL
 Wxy Beauty Inc.	Long Island City	NY	1	Market Research Analysts and Marketing Specialists		NY
-Wyckoff Heights Medical Center	Brooklyn	NY	18	Physicians, All Other; Dietitians and Nutritionists; Pediatricians, General	85400	NY
+Wyckoff Heights Medical Center	Brooklyn	NY	8	Physicians, All Other; Dietitians and Nutritionists; Pediatricians, General	85400	NY
 Wye Consulting Services LLC	Aurora	IL	2	Software Developers; Computer Systems Engineers/Architects		VA,GA
 Wynbit Inc	Sterling	VA	7	Software Developers	126100	VA,TX
 Wyncore Inc.	Alpharetta	GA	2	Software Developers		GA

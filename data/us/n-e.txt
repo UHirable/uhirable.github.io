@@ -84,7 +84,7 @@ Akaysha Energy US LLC	Portland	OR	1	Network and Computer Systems Administrators	
 Akkodis E&T, LLC	Jacksonville	FL	21	Software Developers; Database Administrators; Network and Computer Systems Administrators		NJ,NC,MI
 AKS Engineering & Forestry, LLC	Tualatin	OR	1	Construction Managers		MO
 Albert Einstein College of Medicine	Bronx	NY	39	Biochemists and Biophysicists; Medical Scientists, Except Epidemiologists; Microbiologists	75000	NY
-Albert Einstein Medical Center	Philadelphia	PA	34	Healthcare Practitioners and Technical Workers, All Other; General Internal Medicine Physicians; Medical Scientists, Except Epidemiologists	78600	PA
+Albert Einstein Medical Center	Philadelphia	PA	17	Healthcare Practitioners and Technical Workers, All Other; Medical Scientists, Except Epidemiologists; General Internal Medicine Physicians	78600	PA
 Albireo Energy LLC	Edison	NJ	2	Electronics Engineers, Except Computer; Electrical Engineers		MA,NJ
 Albuquerque School of Excellence	Albuquerque	NM	1	Elementary School Teachers, Except Special Education		NM
 Alfa Tech Consulting Engineers, Inc.	San Jose	CA	4	Mechanical Engineers; Electrical Engineers; Project Management Specialists	89200	CA
@@ -153,7 +153,7 @@ Anschutz Exploration Corporation	Denver	CO	1	Petroleum Engineers		CO
 Antelope Enterprise Holdings USA Inc.	New York	NY	2	Business Operations Specialists, All Other; Human Resources Specialists		NY
 Anthro Energy	Alameda	CA	5	Chemical Engineers; Mechanical Engineers	121000	CA
 Antin, Ehrlich & Epstein, LLP	New York	NY	1	Paralegals and Legal Assistants		NY
-Antora Energy Inc.	Sunnyvale	CA	8	Energy Engineers, Except Wind and Solar; Mechanical Engineers; Project Management Specialists	130000	SD,CA
+Antora Energy Inc.	Sunnyvale	CA	5	Mechanical Engineers; Project Management Specialists; Energy Engineers, Except Wind and Solar	130000	CA,SD
 Anyi Travel & Experience LLC	Houston	TX	2	Market Research Analysts and Marketing Specialists		TX
 Anywhere Real Estate Operations, LLC	Madison	NJ	1	Software Developers		TX
 ANZ Consulting Engineering PLLC	New York	NY	2	Construction and Building Inspectors		NY
@@ -391,7 +391,7 @@ Can-achieve global education Inc	Irvine	CA	1	Instructional Coordinators		CA
 Canadian Solar (USA) Energy Corporation	Austin	TX	1	Architectural and Engineering Managers		TX
 Cantata Express	Ontario	CA	1	Graphic Designers		CA
 Canton Food Enterprises, Inc.	Medley	FL	2	Instructional Coordinators		FL
-Canton Medical Education Foundation, Inc.	Canton	OH	2	General Internal Medicine Physicians		OH
+Canton Medical Education Foundation, Inc.	Canton	OH	1	General Internal Medicine Physicians		OH
 Canyon Magnet Energy Inc.	Newark	NJ	1	Computer Programmers		NJ
 Canyon State Electric Co, Inc.	Tempe	AZ	2	Civil Engineers		AZ
 Capasso Enterprises, Inc	Middletown	CT	1	Cost Estimators		CT
@@ -414,7 +414,7 @@ Castillo Engineering, Inc.	Miami	FL	1	Management Analysts		FL
 Catawba County Board of Education	Newton	NC	1	Kindergarten Teachers, Except Special Education		NC
 Cato's General Engineering, Inc.	Hayward	CA	1	Cost Estimators		CA
 CC Energy USA, Inc.	Houston	TX	1	Petroleum Engineers		TX
-CDG Engineers, Inc.	Saint Louis	MO	3	Civil Engineers		MO
+CDG Engineers, Inc.	Saint Louis	MO	2	Civil Engineers		MO
 CDKL Energy Group Inc	Brookshire	TX	1	Mechanical Engineers		TX
 Cec Elevator Cab Corb	Bronx	NY	1	Mechanical Engineers		NY
 Cedarville Engineering Group, LLC	Pottstown	PA	1	Construction and Building Inspectors		PA
@@ -540,7 +540,7 @@ Corporate Environmental Risk Management	Atlanta	GA	1	Sustainability Specialists	
 Correct Equipment, Inc.	Redmond	WA	1	Computer Systems Analysts		WA
 Cosmos Granite East LLC	Raleigh	NC	1	Database Administrators		NC
 Cosmos Granite South East, LLC	Peachtree	GA	1	Logisticians		GA
-Costello Doab Enterprises LLC	Austin	TX	4	Sales Engineers; Training and Development Specialists; Market Research Analysts and Marketing Specialists	90000	TX
+Costello Doab Enterprises LLC	Austin	TX	3	Training and Development Specialists; Market Research Analysts and Marketing Specialists; Sales Engineers	90000	TX
 Coterra Energy Inc.	Houston	TX	1	Software Developers		TX
 Cotmac Electronics Inc.	Madison Heights	MI	1	Mechatronics Engineers		MI
 Council for the New Energy Economics	Wilmington	NC	3	Economists		NM
@@ -633,7 +633,7 @@ Devon Energy Production Company, LP	Oklahoma City	OK	1	Software Developers		OK
 Dexur Enterprises Inc	Orlando	FL	2	Computer Systems Analysts; Health Informatics Specialists		FL
 DH Dental Employment Services LLC	Brea	CA	3	Information Technology Project Managers; Database Architects; Computer Network Support Specialists	142800	PA,NC,NJ
 Dhanu Global Enterprises, Incorporation	Chantilly	VA	5	Software Developers; Software Quality Assurance Analysts and Testers; Computer Programmers	109000	CA,TX,VA
-Dhillon Engineering, Inc.	Owings Mill	MD	4	Architects, Except Landscape and Naval; Electrical Engineers		MD
+Dhillon Engineering, Inc.	Owings Mill	MD	3	Architects, Except Landscape and Naval; Electrical Engineers		MD
 DHL Express (USA), Inc.	Plantation	FL	2	Logistics Engineers; Management Analysts		KY,FL
 Diamond Electric Mfg. Corporation	Eleanor	WV	4	Electrical Engineers; Manufacturing Engineers	93600	MI,WV
 Diamond Expressions Inc.	New York	NY	1	Information Security Analysts		NY
@@ -768,7 +768,7 @@ EAC Design Inc.	Minneapolis	MN	1	Software Developers		NC
 Eagle Analytical Services, Inc.	Houston	TX	3	Microbiologists; Medical and Clinical Laboratory Technologists	64300	TX
 Eagle Bancorp, Inc.	Bethesda	MD	3	Software Developers; Information Security Engineers	135700	MD
 Eagle Bend Manufacturing Inc.	Clinton	TN	1	Industrial Engineers		TN
-Eagle Butte Public School District 20-1	Eagle Butte	SD	11	Elementary School Teachers, Except Special Education		SD
+Eagle Butte Public School District 20-1	Eagle Butte	SD	2	Elementary School Teachers, Except Special Education		SD
 Eagle Butte School District 20-1	Eagle Butte	SD	2	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		SD
 Eagle Construction & Restoration, LLC	Sugar Hill	GA	3	Civil Engineers	98400	GA
 Eagle Contracting, LLC	Ft. Worth	TX	1	Construction Managers		TX
@@ -856,7 +856,7 @@ Easter Seals Rehabilitation Center, Inc.	Evansville	IN	1	Audiologists		IN
 Eastern Bank	Boston	MA	2	Credit Analysts; Software Developers		MA,SC
 Eastern Communications LTD	Long Island City	NY	1	Accountants and Auditors		NY
 Eastern Connecticut State University	Willimantic	CT	2	Business Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary		CT
-Eastern Contractors Corporation	Suwanee	GA	17	Civil Engineers; Project Management Specialists; Construction Managers	110000	GA
+Eastern Contractors Corporation	Suwanee	GA	13	Civil Engineers; Mechanical Engineers; Architectural and Engineering Managers	110000	GA
 Eastern Data of Virginia Inc.	Virginia Beach	VA	1	Network and Computer Systems Administrators		VA
 Eastern Dental of Burlington, LLC	Cinnaminson	NJ	1	Dentists, General		NJ
 Eastern Gas Transmission and Storage Inc.	Bridgeport	WV	1	Computer Network Architects		WV
@@ -1062,7 +1062,7 @@ Edgeall Inc.	San Jose	CA	1	Data Scientists		CA
 Edgecombe County Public Schools	Tarboro	NC	2	Special Education Teachers, Elementary School		NC
 Edged Infrastructure , LLC	Darien	CT	1	Electrical Engineers		CA
 Edgehog LLC	Chicago	IL	1	Financial Quantitative Analysts		IL
-Edgemont Healthcare Staffing, LLC	Miami	FL	10	Registered Nurses		FL
+Edgemont Healthcare Staffing, LLC	Miami	FL	2	Registered Nurses		FL
 EdgeQ, Inc.	Santa Clara	CA	1	Electrical Engineers		CA
 Edgescale AI, Inc.	Denver	CO	1	Computer and Information Systems Managers		CO
 Edgesoft Corporation	McKinney	TX	7	Data Scientists; Information Technology Project Managers; Software Developers	112900	TX,VA
@@ -1124,7 +1124,7 @@ Edward Clark Landscape Architect	Flanders	NJ	1	Landscape Architects		NJ
 Edward Kozanlian Architect LLC	New York	NY	1	Architects, Except Landscape and Naval		NY
 Edward M. Kennedy Community Health Center, Inc.	Worcester	MA	1	Pediatricians, General		MA
 Edward Via College of Osteopathic Medicine	Blacksburg	VA	1	Health Specialties Teachers, Postsecondary		LA
-Edward W. Sparrow Hospital Association	Lansing	MI	12	Hospitalists; Surgeons, All Other; Physicians, Pathologists	275900	MI
+Edward W. Sparrow Hospital Association	Lansing	MI	10	Surgeons, All Other; Physicians, Pathologists; Medical Scientists, Except Epidemiologists	275900	MI
 Edwards & Daniels Architects, Inc.	Salt Lake City	UT	2	Architects, Except Landscape and Naval		UT
 Edwards Aquifer Authority	San Antonio	TX	1	Database Administrators		TX
 Edwards Capital Special Assets LLC	New York	NY	1	Financial and Investment Analysts		NY
@@ -1313,7 +1313,7 @@ Electricfish Energy, Inc	San Carlos	CA	1	Mechanical Engineers		CA
 Electrify America LLC	Reston	VA	4	Software Developers; Computer and Information Systems Managers; Financial and Investment Analysts	160400	NC,TX,PA
 Electro Magnetic Test Inc	Mountain View	CA	1	Software Quality Assurance Analysts and Testers		CA
 Electro Scan Inc.	Sacramento	CA	1	Software Developers		CA
-Electro Scientific Industries, Inc.	Beaverton	OR	26	Computer and Information Systems Managers		OR
+Electro Scientific Industries, Inc.	Beaverton	OR	2	Computer and Information Systems Managers		OR
 Electro-tech Services Inc	Louisville	KY	1	Solar Energy Systems Engineers		KY
 Electro-Voice Dynacord LLC	Burnsville	MN	3	Data Scientists; Electrical Engineers; Industrial Engineers	119600	MN,SC
 Electro-Voice Dynacord LLC (F/K/A Bosch Security Systems, LLC)	Burnsville	MN	3	Logistics Analysts; Operations Research Analysts; Industrial Engineers	91100	SC,MN
@@ -1352,7 +1352,7 @@ Element Technologies Inc	Monmouth Junction	NJ	10	Computer Systems Analysts; Comp
 Element TV Company, LP	Edina	MN	1	Manufacturing Engineers		SC
 Element5 Inc.	Plano	TX	1	Software Quality Assurance Analysts and Testers		TX
 Elemental Scientific, Inc.	Omaha	NE	3	Bioengineers and Biomedical Engineers; Mechanical Engineers; Chemists	92200	OR,AZ,NE
-Elemental Technologies LLC	Seattle	WA	13	Information Technology Project Managers; Software Developers	186500	WA,OR,CO
+Elemental Technologies LLC	Seattle	WA	4	Information Technology Project Managers; Software Developers	186500	WA,OR,CO
 Elementary Minds LLC	Austin, TX	TX	1	Data Scientists		NJ
 Elementary Robotics, Inc.	South Pasadena	CA	1	Robotics Engineers		AZ
 Elementis Specialties, Inc.	East Windsor	NJ	1	Electrical Engineers		MO
@@ -1391,7 +1391,7 @@ Eleven Talents Holdings LLC	Omaha	NE	1	Operations Research Analysts		NE
 ELFA Ventures LLC	Irving	TX	2	Information Security Analysts		CT
 ELGi Compressors USA, Inc.	Charlotte	NC	1	Accountants and Auditors		NC
 Elgin-New Leipzig Pubic School District 49	Elgin	ND	1	Elementary School Teachers, Except Special Education		ND
-Eli Lilly and Company	Indianapolis	IN	585	Statisticians; Chemists; Medical Scientists, Except Epidemiologists	136200	IN,MA,CA
+Eli Lilly and Company	Indianapolis	IN	242	Statisticians; Chemists; Software Developers	136200	IN,MA,CA
 Eliassen Group, LLC	Reading	MA	63	Software Developers; Software Quality Assurance Analysts and Testers; Database Architects	124000	TX,NC,MA
 Elica Health Centers	Sacramento	CA	1	General Internal Medicine Physicians		CA
 Elicc Americas Corporation	Poway	CA	22	Architects, Except Landscape and Naval; Civil Engineers; Architectural and Engineering Managers	99500	NY,NJ,FL
@@ -1489,7 +1489,7 @@ Elo Touch Solutions, Inc.	Richardson	TX	6	Data Scientists; Software Quality Assu
 Elog International Inc	Newton	MA	1	Compliance Officers		MA
 ELogicSquare Inc.	Jacksonville	FL	8	Software Developers; Data Scientists	103100	FL,NJ,TX
 ELogisTek LLC	Fontana	CA	8	Logisticians	90000	GA
-Elogistics (GA) Service Corp.	Austell	GA	7	Graphic Designers; Market Research Analysts and Marketing Specialists; Public Relations Specialists	46100	GA
+Elogistics (GA) Service Corp.	Austell	GA	6	Market Research Analysts and Marketing Specialists; Graphic Designers; Public Relations Specialists	46100	GA
 Elon University	Elon	NC	7	Instructional Coordinators; Business Teachers, Postsecondary; Political Science Teachers, Postsecondary	73600	NC
 Elong International USA Inc.	Carrollton	TX	1	Accountants and Auditors		TX
 Elorian AI, Inc.	San Francisco	CA	1	Computer and Information Research Scientists		CA
@@ -1507,7 +1507,7 @@ Elula International Inc.	Owatonna	MN	1	Financial Specialists, All Other		MN
 Elutions Services, Inc.	Tampa	FL	1	Web and Digital Interface Designers		WI
 Elvee Jewels Inc.	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
 Elvera Jewels Inc	New York	NY	1	Accountants and Auditors		NY
-Elvinger SARL PLLC	New York	NY	4	Judicial Law Clerks; Public Relations Specialists	153600	NY
+Elvinger SARL PLLC	New York	NY	3	Judicial Law Clerks; Public Relations Specialists	153600	NY
 ELXR Technologies LLC	Plano	TX	17	Software Developers; Computer Programmers	112900	TX,VA,NY
 Elyon Legal Inc.	Boston	MA	1	Lawyers		MA
 Elysian Designs Inc	New York	NY	2	Business Intelligence Analysts		NY
@@ -1748,8 +1748,8 @@ Energetics Consulting Engineers LLC	Aurora	CO	1	Mechanical Engineers		CO
 Energetiq Technology, Inc.	Wilmington	MA	1	Sales Engineers		MA
 Energix EPC US LLC	Arlington	VA	2	Civil Engineers; Project Management Specialists		VA
 Energized Composite Technologies LLC.	Orlando	FL	1	Materials Engineers		FL
-Energized for Excellence Academy, Inc.	Houston	TX	10	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	60000	TX
-Energized for STEM Academy, Inc.	Houston	TX	15	Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	60000	TX
+Energized for Excellence Academy, Inc.	Houston	TX	8	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	60000	TX
+Energized for STEM Academy, Inc.	Houston	TX	5	Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	60000	TX
 Energizer Manufacturing, Inc.	Clayton	MO	1	Chemical Engineers		OH
 Energon Solar LLC	Houston	TX	1	Logisticians		TX
 Energy and Environmental Economics, Inc.	San Francisco	CA	3	Environmental Engineers	153000	NY,CA
@@ -1812,7 +1812,7 @@ ENGIE Energy Marketing North America, Inc.	Houston	TX	1	Chief Executives		TX
 ENGIE Insight Services, Inc.	Spokane	WA	1	Software Quality Assurance Analysts and Testers		WA
 ENGIE North America, Inc.	Houston	TX	6	Operations Research Analysts; Electrical Engineers; Financial and Investment Analysts	100700	TX,CA
 Engine No. 1 LP	San Francisco	CA	1	Electrical Engineers		PA
-Engineered Concepts, Inc.	N. Stonington	CT	3	Civil Engineers		MA
+Engineered Concepts, Inc.	N. Stonington	CT	1	Civil Engineers		MA
 Engineered Consultants Incorporated	Rocky Hill	CT	1	Civil Engineers		CT
 Engineered Services, Inc.	Sterling	VA	1	Cost Estimators		VA
 Engineered Tax Services, Inc.	West Palm Beach	FL	1	Software Developers		NC
@@ -1914,7 +1914,7 @@ Ensymbios Inc	Garden Grove	CA	3	Software Quality Assurance Analysts and Testers;
 Entagile, LLC	Fairfax	VA	7	Financial Quantitative Analysts; Software Developers	108000	VA,DC
 Entanglement, Inc.	Miami	FL	1	Computer and Information Research Scientists		CO
 Entech Civil Engineers, Inc.	Houston	TX	1	Civil Engineers		TX
-Entech Consulting, LLC	Malvern	PA	8	Software Developers; Computer Systems Analysts; Information Technology Project Managers	89000	PA,NC
+Entech Consulting, LLC	Malvern	PA	7	Software Developers; Computer Systems Analysts; Information Technology Project Managers	89000	PA,NC
 Entech Engineering, P.C.	New York	NY	12	Civil Engineers; Designers, All Other; Computer Systems Engineers/Architects	122700	NY
 Entegee, Inc.	Jacksonville	FL	5	Construction Managers; Mechanical Engineers; Automotive Engineers		GA,OK,MD
 Entegris, Inc.	Billerica	MA	19	Industrial Engineers; Manufacturing Engineers; Chemical Engineers	115000	MA,TX,MN
@@ -1949,7 +1949,7 @@ Enterprise Value Systems LLC	Katy	TX	2	Computer Systems Analysts		TX
 Enterprise Vision Technologies, Inc.	Santa Monica	CA	1	Software Developers		NJ
 Enterprise64	Vienna	VA	1	Management Analysts		VA
 EnterpriseDB Corporation (EDB)	Boston	MA	5	Software Developers; Marketing Managers; Sales Engineers	180000	FL,NC,TX
-Entertainment Retail Enterprises LLC	Apopka	FL	2	Web and Digital Interface Designers		FL
+Entertainment Retail Enterprises LLC	Apopka	FL	1	Web and Digital Interface Designers		FL
 Entervending, LLC	Orlando	FL	1	Economists		FL
 Enthought, Inc.	Austin	TX	4	Sales Engineers; Financial Managers	169500	TX
 Enthsquare Inc	Hamilton Township	NJ	1	Computer Network Architects		NJ
@@ -2059,7 +2059,7 @@ EPIC Microsystems Inc.	San Jose	CA	1	Electronics Engineers, Except Computer		CA
 Epic Notion LLC	Charlotte	NC	2	Web and Digital Interface Designers		NC
 Epic of Wisconsin, Inc.	West Bend	WI	1	Search Marketing Strategists		WI
 Epic Pharma LLC	Laurelton	NY	5	Market Research Analysts and Marketing Specialists; CHEMISTS; Regulatory Affairs Specialist	82100	NY,MO
-Epic Systems Corporation	Verona	WI	29	Software Developers; Computer and Information Systems Managers	135000	WI,TN,MO
+Epic Systems Corporation	Verona	WI	14	Software Developers; Computer and Information Systems Managers	135000	WI,TN,MO
 Epickx Inc	Monmouth Junction	NJ	35	Computer Network Support Specialists; Management Analysts; Business Intelligence Analysts	96900	NJ,MO,TX
 Epicor Software Corporation	Austin	TX	4	Data Scientists; Industrial Engineers; Software Developers	126200	TX,WA
 EpicRise Electronics LLC	Wilmington	DE	1	Interpreters and Translators		DE
@@ -2129,7 +2129,7 @@ Equity Data Science, Inc.	New York	NY	1	Data Scientists		NY
 Equity in Education Coalition	Renton	WA	1	Sociologists		CA
 Equity International Management, LLC	Chicago	IL	2	Economists		IL
 Equity Management LLC	Colorado Springs	CO	1	Financial and Investment Analysts		CO
-Equity Methods, LLC	Scottsdale	AZ	21	Financial and Investment Analysts; Financial Managers	100000	AZ,GA
+Equity Methods, LLC	Scottsdale	AZ	8	Financial and Investment Analysts; Financial Managers	100000	AZ,GA
 Equity READ LLC	New York	NY	2	Appraisers and Assessors of Real Estate		NY
 Equity Residential Services, LLC	Chicago	IL	1	Business Intelligence Analysts		IL
 Equivariant Systems Corp	San Francisco	CA	1	Software Developers		OK
@@ -2562,7 +2562,7 @@ Excel Abacus Advisors Inc	Wellesley	MA	1	Accountants and Auditors		MA
 Excel Associates LLC	Alpharetta	GA	5	Software Developers; Computer Systems Analysts; Network and Computer Systems Administrators	107000	IL,NY,PA
 Excel Dental Solutions Inc	Indianapolis	IN	1	Database Administrators		IN
 Excel Dental, P.C.	Lowell	MA	1	Dentists, General		MA
-Excel Education LLC	Alpharetta	GA	13	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, All Other	65300	GA
+Excel Education LLC	Alpharetta	GA	11	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School	65300	GA
 Excel Elite Inc.	Southfield	MI	1	Training and Development Specialists		MI
 Excel Est Services Inc	Dallas	TX	4	Computer Systems Engineers/Architects; Software Quality Assurance Analysts and Testers	83400	CA,DE,CT
 Excel Food Mart, Inc.	Oklahoma City	OK	2	Accountants and Auditors		OK
@@ -2635,7 +2635,7 @@ Expanse Medical, Inc.	Pleasanton	CA	1	Quality Control Systems Managers		CA
 Expansion Core INC	Williston Park	NY	1	Operations Research Analysts		NY
 Expedent Corp	Edison	NJ	3	Database Architects; Computer Network Architects	111000	AL,VA
 Expedera Inc	Santa Clara	CA	1	Software Developers		CA
-Expedia, Inc.	Seattle	WA	255	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	149200	WA,TX,IL
+Expedia, Inc.	Seattle	WA	228	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	149200	WA,TX,IL
 Expedite Alliance Inc.	Johns Creek	GA	1	Transportation, Storage, and Distribution Managers		TN
 Expedite Technology Solutions LLC	Alpharetta	GA	1	Software Developers		MI
 Expeditors International of Washington, Inc.	Bellevue	WA	12	Software Developers; Business Intelligence Analysts; Software Quality Assurance Analysts and Testers	150000	WA,FL,MI
@@ -2655,7 +2655,7 @@ Exploratory Sciences Inc.	New York	NY	1	Data Scientists		CT
 Explore Academy	Albuquerque	NM	1	Secondary School Teachers, Except Special and Career/Technical Education		NM
 Explore Charter Schools of Brooklyn	Brooklyn	NY	1	Elementary School Teachers, Except Special Education		NY
 Explore Digits Inc.	Rockville	MD	2	Business Intelligence Analysts; Software Developers		MD,FL
-Explore Engage Enjoy	Roseburg	OR	2	Speech-Language Pathologists		OR
+Explore Engage Enjoy	Roseburg	OR	1	Speech-Language Pathologists		OR
 Explore Interfaces Inc.	San Francisco	CA	1	Software Developers		CA
 Expo Convention Contractors Inc.	Miami	FL	1	Logisticians		FL
 Exponent Technologies, Inc.	Dallas	TX	1	Information Technology Project Managers		TX
@@ -2771,7 +2771,7 @@ Fleis & VandenBrink Engineering, Inc.	Grand Rapids	MI	1	Civil Engineers		IN
 Flexaseal Engineered Seals and Systems, LLC	Williston	VT	1	Mechanical Engineers		TX
 Flight Level Engineering, LLC	Ponce Inlet	FL	1	Aerospace Engineers		UT
 Florence City Board of Education	Florence	AL	2	Secondary School Teachers; Special Education Teachers, Secondary School		AL
-Florida Emergency Physicians Kang & Associates, M.d., LLC	Knoxville	TN	17	Emergency Medicine Physicians; Emergency Medicine Physician		FL
+Florida Emergency Physicians Kang & Associates, M.d., LLC	Knoxville	TN	8	Emergency Medicine Physicians; Emergency Medicine Physician		FL
 Florida Engineering, LLC	Port Charlotte	FL	6	Civil Engineers	100000	FL
 Florida Transportation Engineering, Inc.	Temple Terrace	FL	1	Transportation Engineers		FL
 Flow & Ease Behavioral Services LLC	Brooklyn	NY	1	Clinical and Counseling Psychologists		NY
@@ -3194,7 +3194,7 @@ K&A Engineering Consulting, P.C.	White Plains	NY	2	Electrical Engineers; Operati
 K&C Electric, LLC	Rockville	MD	1	Accountants and Auditors		MD
 K&N Engineering Inc.	Corona	CA	1	Business Intelligence Analysts		CA
 K-Tech Engineering USA LLC	Houston	TX	2	Mechatronics Engineers; Cost Estimators		TX
-KAD Engineering PLLC	Downers Grove	IL	3	Civil Engineers; Electrical Engineers		IL
+KAD Engineering PLLC	Downers Grove	IL	2	Civil Engineers; Electrical Engineers		IL
 Kadiman Enterprises	Wheaton	IL	1	Market Research Analysts and Marketing Specialists		IL
 Kage Engineers PLLC	Scottsdale	AZ	3	Project Management Specialists	85800	AZ
 Kalsi Engineering, Inc.	Sugar Land	TX	1	Mechanical Engineers		TX
@@ -3230,7 +3230,7 @@ King Energy Services, Inc.	Durango	CO	3	Software Developers; Financial and Inves
 King of Prussia Endodontics PLLC	Bowie	MD	1	Dentists, All Other Specialists		PA
 Kings County Office of Education	Hanford	CA	1	Special Education Teachers, All Other		CA
 Kingsisle Entertainment, Inc.	Austin	TX	1	Software Quality Assurance Analysts and Testers		TX
-Kirkland & Ellis LLP	New York	NY	44	Lawyers	310000	NY,CA,TX
+Kirkland & Ellis LLP	New York	NY	29	Lawyers	310000	NY,CA,TX
 Kite Environmental Inc.	Kissimmee	FL	1	Logistics Engineers		FL
 KK IT Experts Inc	Farmington Hills	MI	1	Software Developers		IN
 KLA Elementary LLC	Miami	FL	1	Elementary School Teachers, Except Special Education		FL
@@ -3261,13 +3261,13 @@ L&T Restaurant Equipment INC	New York	NY	1	Market Research Analysts and Marketin
 Labcorp Early Development Laboratories Inc.	Madison	WI	8	Medical and Clinical Laboratory Technologists; Biological Technicians; Computer and Information Research Scientists	59700	WI,NC,MA
 Laborers’ and Retirement Board Employees’ Annuity and Benefit Fund of Chicago	Chicago	IL	1	Compensation, Benefits, and Job Analysis Specialists		IL
 Lake East Christian Church	Kirkland	WA	1	Clergy		WA
-Lake Erie College of Osteopathic Medicine, Inc.	Erie	PA	2	Health Specialties Teachers, Postsecondary		NY
+Lake Erie College of Osteopathic Medicine, Inc.	Erie	PA	1	Health Specialties Teachers, Postsecondary		NY
 Lake Erie Medical Services, P.C.	Dunkirk	NY	1	Physicians, All Other		NY
 Lakeshore Engineering, LLC	Chicago	IL	3	Civil Engineers		IL
 Lakeside Engineers, LLC	Wauwatosa	WI	1	Civil Engineers		WI
 LandOne Engineering LLC	Greeley	CO	1	Civil Engineers		CO
 Lands' End, Inc.	Dodgeville	WI	9	Software Developers; Business Intelligence Analysts	130900	WI,FL,NM
-Langan Engineering and Environmental Services, LLC	Parsippany	NJ	82	Civil Engineers; Environmental Engineers; Transportation Engineers	81000	NY,FL,TX
+Langan Engineering and Environmental Services, LLC	Parsippany	NJ	68	Civil Engineers; Environmental Engineers; Transportation Engineers	81000	NY,FL,NJ
 Lanier & Associates Consulting Engineers, Inc.	New Orleans	LA	1	Surveyors		LA
 Lantz Elite Carpentry & Construction, Inc.	Urbandale	IA	1	Interior Designers		NY
 Larson Engineering Inc	White Bear Lake	MN	3	Mechanical Engineers	71400	GA
@@ -3621,7 +3621,7 @@ Nitsch Engineering, Inc.	Boston	MA	2	Civil Engineering Technologists and Technic
 NNA Enterprise LLC	Succasunna	NJ	1	Software Developers		TX
 Nodal Exchange, LLC	Tysons Corner	VA	11	Software Developers; Computer and Information Systems Managers; Financial Quantitative Analysts	157000	VA
 Nor-Cal Controls ES, LLC	El Dorado Hills	CA	1	Mechatronics Engineers		CA
-North East Carolina Prep School	Tarboro	NC	3	Elementary School Teachers, Except Special Education		NC
+North East Carolina Prep School	Tarboro	NC	2	Elementary School Teachers, Except Special Education		NC
 North East Medical Services	Daly City	CA	5	General Internal Medicine Physicians; Marriage and Family Therapists; Family Medicine Physicians	320000	CA
 NorthStar Clean Energy	Ann Arbor	MI	1	Financial Quantitative Analysts		MI
 NORTHSTAR ENERGY MANAGEMENT, LLC d.b.a. NovaSource Power Services	Chandler	AZ	1	Management Analysts		AZ
@@ -3792,7 +3792,7 @@ PODS Enterprises, LLC	Clearwater	FL	4	Software Quality Assurance Analysts and Te
 PointGuard Energy Inc.	Gold River	CA	1	Statistical Assistants		CA
 Polyonics Rubber Enterprises, Inc.	West Mifflin	PA	1	Chemists		PA
 Ponce-Fuess Engineering, LLC	Dallas	TX	2	Civil Engineers; Architectural and Civil Drafters		TX
-Popli Architecture & Engineering & LS, DPC	Penfield	NY	4	Civil Engineers	75900	NY
+Popli Architecture & Engineering & LS, DPC	Penfield	NY	3	Civil Engineers	75900	NY
 Porsche Engineering Services North America, Inc.	Carson	CA	2	Financial and Investment Analysts; Automotive Engineers		CA
 Portland General Electric Company	Portland	OR	5	Software Developers; Computer Systems Analysts	131000	OR
 Porto Exim USA LLC	Cheswick	PA	1	Operations Research Analysts		FL
@@ -3816,7 +3816,7 @@ Pride Enterprises, Inc.	Norristown	PA	1	Civil Engineers		PA
 Prime Education LLC	New York	NY	2	Molecular and Cellular Biologists		NY
 Primetime Entertainment LLC	Los Angeles	CA	1	Project Management Specialists		CA
 Primoris Renewable Energy, Inc.	Aurora	CO	4	Construction Managers; Cost Estimators	129700	CO,TX,LA
-Prince Edward County Public Schools	Farmville	VA	2	Special Education Teachers, Middle School		VA
+Prince Edward County Public Schools	Farmville	VA	1	Special Education Teachers, Middle School		VA
 Prince of Peace Enterprises, Inc.	Livermore	CA	1	Lawyers		CA
 Princeton Engineering Services	Plainsboro	NJ	1	Mechanical Engineers		NJ
 Printec HT Electronics, LLC	Fullerton	CA	1	Sales Engineers		CA
@@ -3847,7 +3847,7 @@ Pure Power Engineering, Inc.	Hoboken	NJ	1	Electrical Engineers		NJ
 Putnam County Board of Education	Cookeville	TN	2	Secondary School Teachers, Except Special and Career/Technical Education		TN
 PWP Employer LP	New York	NY	10	Financial and Investment Analysts	185000	NY,CA,FL
 Pyramids Engineering Corp	Doral	FL	1	Civil Engineers		GA
-QPO Energy, Inc	Tualatin	OR	3	Accountants and Auditors; Cost Estimators		OR
+QPO Energy, Inc	Tualatin	OR	2	Accountants and Auditors; Cost Estimators		OR
 Quadrant Economics LLC	Washington	DC	1	Economists		NC
 Quality Education Academy	Winston-Salem	NC	6	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	53800	NC
 Quality Electrical Systems Inc.	West Jordan	UT	2	Electrical Engineers		UT
@@ -3901,7 +3901,7 @@ ReFocus Eye Health of Central Connecticut PC	Waterbury	CT	1	Optometrists		CT
 Rehab Employee Services, LLC	Birmingham	AL	2	Physical Therapists		GA,TX
 Rehab Experts, LLC	Dallas	TX	2	Medical and Health Services Managers; Exercise Physiologists		TX
 Relativistic Engine LLC	Miami Lakes	FL	1	Computer Systems Analysts		FL
-Relay Electric	Suffolk	VA	2	Helpers--Electricians		VA
+Relay Electric	Suffolk	VA	1	Helpers--Electricians		VA
 Reliance Electronics, Inc.	Totowa	NJ	1	Manufacturing Engineers		NJ
 Reliance Engineers LLC	Wellesley	MA	3	Mechanical Engineers; Project Management Specialists; Civil Engineers	103500	MA
 Reliance Environmental, LLC	West Haven	CT	2	Database Administrators; Management Analysts		CT
@@ -3966,7 +3966,7 @@ Safran Electronics & Defense, Avionics USA, LLC	Irvine	CA	2	Quality Control Syst
 SAGE Electrochromics, Inc.	Faribault	MN	1	Purchasing Agents, Except Wholesale, Retail, and Farm Products		MN
 Sagepoint Energy LLC	Carmel	IN	1	Business Operations Specialists, All Other		IN
 Saint Elizabeth Medical Center	Edgewood	KY	2	Cardiologists		KY
-Saint Francis Hospital - Evanston, LLC	Evanston	IL	15	Health Education Specialists; Medical and Clinical Laboratory Technologists; Clinical Data Managers		IL
+Saint Francis Hospital - Evanston, LLC	Evanston	IL	6	Medical and Clinical Laboratory Technologists; Clinical Data Managers; Health Education Specialists		IL
 Salinas City Elementary School District	Salinas	CA	3	Elementary School Teachers, Except Special Education; Kindergarten Teachers, Except Special Education	87300	CA
 Samaya Enterprises, LLC	Little Rock	AR	1	Operations Research Analysts		AR
 Samoo Engineering , LLC	Houston	TX	1	Civil Engineers		TX
@@ -4047,7 +4047,7 @@ Siemens Energy Service Company, Ltd	Orlando	FL	1	Electrical Engineers		FL
 Siemens Energy, Inc.	Orlando	FL	87	Electrical Engineers; Mechanical Engineers; Sales Engineers	125000	NC,FL,TX
 Siemens Gamesa Renewable Energy, LLC	Orlando	FL	5	Electrical Engineers; Accountants and Auditors	105500	FL
 Siemens Healthineers Endovascular Robotics, Inc.	Orlando	FL	4	Software Developers; Software Quality Assurance Analysts and Testers; Bioengineers and Biomedical Engineers	162900	MA
-Sieyuan Electric USA, LLC	Plano	TX	3	Electrical Engineers		TX
+Sieyuan Electric USA, LLC	Plano	TX	1	Electrical Engineers		TX
 Sightly Enterprises, Inc.	San Diego	CA	1	DATA SCIENTISTS		NJ
 Signal Energy, LLC	Chattanooga	TN	1	Solar Energy Systems Engineers		TX
 Sikand Engineering Associates	Van Nuys	CA	1	Civil Engineers		CA
@@ -4216,7 +4216,7 @@ Tap Electrical Contracting Services Inc	Islandia	NY	3	Electrical Engineers; Elec
 Target Enterprise, Inc.	Brooklyn Park	MN	102	Software Developers; Data Scientists; Operations Research Analysts	142200	MN,CA,DE
 TAS Energy Inc.	Houston	TX	3	Construction Managers; Project Management Specialists; Logistics Analysts	83500	TX
 Tata Consulting Engineers USA, LLC	Houston	TX	1	Chemical Engineers		TX
-Tata Elxsi Limited	Troy	MI	177	Software Quality Assurance Analysts and Testers; Computer Systems Engineers/Architects; Software Developers	92400	PA,CA,MN
+Tata Elxsi Limited	Troy	MI	37	Software Quality Assurance Analysts and Testers; Computer Systems Engineers/Architects; Software Developers	92400	PA,CA,MN
 TAV Employer, LP	San Francisco	CA	4	Robotics Engineers	170000	CA
 Taxes Consulting Etc., Inc.	Chicago	IL	1	Software Developers		TX
 Taylor County Board of Education	Butler	GA	1	Middle School Teachers, Except Special and Career/Technical Education		GA
@@ -4276,10 +4276,10 @@ The Engineering Collaborative, LLC	Indianapolis	IN	1	Architectural and Engineeri
 The Epiphany School of Global Studies	New Bern	NC	2	Secondary School Teachers, Except Special and Career/Technical Education; Kindergarten Teachers, Except Special Education		NC
 The Equity Group Inc.	New York	NY	1	Public Relations Specialists		NY
 The Euclid Chemical Company	Cleveland	OH	1	Materials Scientists		OH
-The Evolvers Group, L.P.	Flower Mound	TX	11	Software Developers; Computer Systems Engineers/Architects; Computer Systems Analysts		TX
+The Evolvers Group, L.P.	Flower Mound	TX	10	Computer Systems Engineers/Architects; Software Developers; Computer Systems Analysts		TX
 The Foundation for Economic Education, Inc.	Atlanta	GA	1	Film and Video Editors		GA
 The French Japanese Educational Institute Of New York Inc.	New York	NY	2	Elementary School Teachers, Except Special Education; Librarians and Media Collections Specialists		NY
-The Friends Of Crown Heights Educational Centers Inc.	Brooklyn	NY	4	Preschool Teachers, Except Special Education; Human Resources Specialists	60300	NY
+The Friends Of Crown Heights Educational Centers Inc.	Brooklyn	NY	3	Preschool Teachers, Except Special Education; Human Resources Specialists	60300	NY
 The Global Edge Consultants, LLC	The Woodlands	TX	2	Management Analysts		TX
 The Inland Real Estate Group, LLC	Oak Brook	IL	1	Financial and Investment Analysts		IL
 The ISD 622 Education Center	North Saint Paul	MN	2	Special Education Teachers, Elementary School		MN
@@ -4335,7 +4335,7 @@ Total E&P Research & Technology USA LLC	Houston	TX	1	Solar Energy Systems Engine
 Total Expert, Inc.	Minneapolis	MN	2	Software Developers		MN
 TotalEnergies E&P Americas, LLC	Houston	TX	1	Geoscientists, Except Hydrologists and Geographers		TX
 TotalEnergies E&P USA, Inc.	Houston	TX	1	Geoscientists, Except Hydrologists and Geographers		TX
-Tower Engineering Group LLC	Chicago	IL	3	Civil Engineers		IL
+Tower Engineering Group LLC	Chicago	IL	1	Civil Engineers		IL
 Tower Engineering, Inc.	Pittsburgh	PA	1	Mechanical Engineers		PA
 Toyota Motor Engineering & Manufacturing North America, Inc. (TEMA)	Plano	TX	67	Software Developers; Computer Occupations, All Other; Automotive Engineers	154000	TX,MI,CA
 TPC Engineering Holdings, Inc.	Boston	MA	1	Financial and Investment Analysts		MA
@@ -4418,7 +4418,7 @@ Urban Engineers, Inc.	Philadelphia	PA	2	Electrical Engineers; Civil Engineers		N
 Urbantech Consulting Engineering PC	New York	NY	1	Civil Engineers		NY
 US Door Equipment Corp	Oxford	CT	1	Supply Chain Managers		CT
 US Electric LLC	Seattle	WA	1	Electricians		WA
-US Elogistics Service Corp	Monroe Township	NJ	15	Market Research Analysts and Marketing Specialists; Logistics Analysts; Management Analysts	59600	CA,NJ,PA
+US Elogistics Service Corp	Monroe Township	NJ	13	Market Research Analysts and Marketing Specialists; Management Analysts; Operations Research Analysts	59600	CA,NJ,PA
 USA EB5 Immigration, LLC	Bethesda	MD	1	Accountants and Auditors		MD
 USA Intellectual Property Research And Education Institute	Yorktown	VA	3	Social Science Research Assistants; Sociologists; Social Scientists and Related Workers, All Other		VA
 USA Rare Earth Magnets LLC	Stillwater	OK	1	Materials Engineers		OK
@@ -4552,7 +4552,7 @@ XES International Education Inc	San Jose	CA	4	Middle School Teachers, Except Spe
 XGS Energy, Inc.	Palo Alto	CA	1	Architectural and Engineering Managers		TX
 Xiaolu Music Education Inc	Philadelphia	PA	3	Music Directors and Composers		PA
 XL Mechanical & Energy Management Services, Inc.	Bangor	ME	1	Mechatronics Engineers		ME
-Xplore Ecommerce LLC	Fredericksburg	VA	3	Software Developers		VA
+Xplore Ecommerce LLC	Fredericksburg	VA	1	Software Developers		VA
 XPO Enterprise Services, LLC	Portland	OR	7	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	114100	NC,OR,MA
 XTO Energy Inc.	Spring	TX	4	Software Developers; Network and Computer Systems Administrators; Petroleum Engineers	192000	TX
 Xtreme Utility Equipment, Inc.	Port Huron	MI	1	Computer Systems Analysts		MI
@@ -4585,7 +4585,7 @@ Zenith Electronics, LLC	Lincolnshire	IL	1	Software Developers		CA
 Zeta Energy Corp.	Houston	TX	1	Materials Engineers		TX
 ZF Active Safety and Electronics US, LLC	Northville	MI	10	Electronics Engineers, Except Computer; Mechatronics Engineers; Electrical Engineers	99500	IN,MI
 ZI Engineering, P.C.	Lynbrook	NY	1	Mechanical Engineers		NY
-ZOFS Engineering and Land Surveying P.C.	Valley Stream	NY	9	Civil Engineers; Mechanical Engineers		NY,CT
+ZOFS Engineering and Land Surveying P.C.	Valley Stream	NY	4	Civil Engineers; Mechanical Engineers		NY,CT
 ZSC Enterprises LLC	Atlanta	GA	1	Accountants and Auditors		GA
 Zyltech Engineering LLC	Houston	TX	2	Software Developers; Training and Development Specialists		TX
 ¿Lester E. Cox Medical Centers	Springfield	MO	4	Physicians, All Other; General Internal Medicine Physicians; Cardiologists	351000	MO

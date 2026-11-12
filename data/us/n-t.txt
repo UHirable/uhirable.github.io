@@ -181,7 +181,7 @@ Aida Technology Corp.	Palo Alto	CA	2	Software Developers		CA
 Aig Technical Services, LLC	Houston	TX	4	Civil Engineers; Software Developers; Transportation Planners	122000	TX
 Aion Financial Technologies, Inc.	San Jose	CA	2	Software Developers		TX
 Air Sea Transport (chicago) Inc.	Bensenville	IL	1	Logisticians		IL
-Air Transport International	Wilmington	OH	20	Airline Pilots, Copilots, and Flight Engineers		OH
+Air Transport International	Wilmington	OH	3	Airline Pilots, Copilots, and Flight Engineers		OH
 Airline Tariff Publishing Company (ATPCO)	Herndon	VA	7	Software Developers; Information Technology Project Managers	154600	VA,TX
 Airspace Experience Technologies Inc	Detroit	MI	2	Mechanical Engineers; Software Developers		MI
 Airspace Technologies Inc.	Carlsbad	CA	1	Logistics Engineers		CA
@@ -271,7 +271,7 @@ American Express Travel Related Services Company, Inc.	New York	NY	363	Software 
 American Innovative Technologies Corp	Neptune	NJ	5	Software Developers; Information Technology Project Managers	115500	TX,FL
 American Portwell Technology, Inc.	Fremont	CA	3	Electrical Engineers; Computer Occupations, All Other	104400	CA
 American Society for Testing & Materials	West Conshohocken	PA	1	Software Developers		PA
-American Society of Radiologic Technologists	Albuquerque	NM	4	Software Developers		NM
+American Society of Radiologic Technologists	Albuquerque	NM	2	Software Developers		NM
 American Tables & Seating Manufacturing, Inc.	Stone Mountain	GA	1	Accountants and Auditors		GA
 American Tax Defense	Santa Ana	CA	1	Business Intelligence Analysts		CA
 American Tech Vision Solutions, LLC	Houston	TX	30	Information Technology Project Managers; Software Developers; Data Scientists	90400	TX,NC,MI
@@ -306,7 +306,7 @@ Ams Tech Solutions LLC	Austin	TX	1	Computer Programmers		IL
 Amur Technologies, Inc.	Bloomington	IL	5	Data Scientists; Software Developers; Information Technology Project Managers		IL,MA,MO
 AmZetta Technologies LLC	Norcross	GA	1	Software Developers		GA
 Amzur Technologies, Inc	Tampa	FL	22	Software Developers; Computer Occupations, All Other; Computer Systems Engineers/Architects	100800	FL,CA,NC
-Anagh Technologies Inc	Piscataway	NJ	32	Software Developers; Data Scientists; Computer Systems Analysts		CA,NJ,TX
+Anagh Technologies Inc	Piscataway	NJ	23	Software Developers; Data Scientists; Computer Systems Analysts		NJ,CA,TX
 Anagha Technosoft Inc	Irving	TX	6	Software Developers; Computer Systems Analysts	109500	TX,MS,CO
 Anagram Therapeutics, Inc.	Natick	MA	1	Medical Scientists, Except Epidemiologists		MA
 Analytiq Techno Soft LLC	Princeton	NJ	2	Computer Systems Engineers/Architects		NJ
@@ -354,7 +354,7 @@ Appfire Technologies, LLC	Burlington	MA	1	Software Developers		AZ
 Applabs Tech Solutions Inc	Houston	TX	2	Software Developers		NC
 Appleton Luff Trade Consulting LLC	Sacramento	CA	1	Compliance Officers		CA
 Applexus Technologies Inc	Federal Way	WA	13	Software Developers; Information Technology Project Managers; Computer Programmers	155000	WA,NH,NV
-Applications Software Technology LLC	Lisle	IL	15	Operations Research Analysts	124300	LA,MD,CA
+Applications Software Technology LLC	Lisle	IL	3	Operations Research Analysts	124300	LA,MD,CA
 Applications Technology (AppTek), LLC	McLean	VA	1	Software Developers		VA
 Applications Technology Group, Inc.	Norcross	GA	2	Software Developers		GA
 Applied Computer Techniques Inc.	Wixom	MI	2	Computer Systems Engineers/Architects		GA,VA
@@ -485,7 +485,7 @@ Auto TechLabs, Inc.	White Plains	NY	8	Software Developers; Computer Programmers	
 Automated Tire, Inc.	Woburn	MA	1	Data Scientists		MA
 Automation Technologies LLC	Duncanville	TX	6	Software Developers; Software Quality Assurance Analysts and Testers; Business Intelligence Analysts	81700	CA,IN,IL
 Autonomous Therapeutics, Inc.	Silver Spring	MD	1	Robotics Engineers		MD
-Avago Technologies US Inc.	Palo Alto	CA	61	Electronics Engineers, Except Computer; Software Developers; Materials Engineers	200800	CA,CO,PA
+Avago Technologies US Inc.	Palo Alto	CA	13	Electronics Engineers, Except Computer; Materials Engineers; Software Developers	200800	CA,PA,CO
 Avalanche Technologies LLC	Irving	TX	13	Software Developers; Network and Computer Systems Administrators; Software Quality Assurance Analysts and Testers		TX,FL,GA
 Avalon Technologies LLC	Long Island City	NY	1	Software Developers		CA
 Avani Technology Solutions, Inc.	Rochester	NY	18	Software Developers; Computer Occupations, All Other; Database Administrators	107500	NY,TX,AZ
@@ -761,13 +761,13 @@ Cartevio Therapeutics Inc.	Woburn	MA	3	Writers and Authors		MA
 Casa Technologies, Inc.	San Francisco	CA	1	Software Developers		CA
 Casap Technologies, Inc.	San Francisco	CA	4	Software Developers; Computer and Information Systems Managers; Graphic Designers	160000	NY,CA
 Cash App Taxes, Inc.	Oakland	CA	1	Software Developers		TN
-Caspia Technologies, Inc.	Gainesville	FL	7	Software Developers; Software Quality Assurance Analysts and Testers	110000	FL
+Caspia Technologies, Inc.	Gainesville	FL	5	Software Developers; Software Quality Assurance Analysts and Testers	110000	FL
 Castle Dental Associates of Texas, P.C.	Costa Mesa	CA	1	Dentists, General		TX
 Castles Technology International Corp.	Kennesaw	GA	1	Computer Systems Analysts		GA
 Castor technology INC	San Francisco	CA	1	Financial and Investment Analysts		CA
 Cat Technology Inc.	Mahwah	NJ	3	Software Developers; Software Quality Assurance Analysts and Testers	88000	MN,NY
 Cat Technology Services LLC	Miami	FL	1	Project Management Specialists		FL
-Cathedral Plumbing of Texas, LLC	Carrollton	TX	6	Software Developers		TX
+Cathedral Plumbing of Texas, LLC	Carrollton	TX	1	Software Developers		TX
 CBIZ Accounting Tax Advisory LLC	West Conshohocken	PA	1	Accountants and Auditors		PA
 CBIZ Accounting, Tax & Advisory of Kansas City, LLC	Kansas City	MO	1	Accountants and Auditors		MO
 CBIZ Accounting, Tax & Advisory of New England, LLC	Boston	MA	4	Accountants and Auditors	120100	MA
@@ -798,7 +798,7 @@ Centrillion Technologies, Inc.	Palo Alto	CA	1	Chemists		CA
 Cerebral Technologies Inc	Irving	TX	23	Software Developers; Data Warehousing Specialists; Data Scientists	108200	MD,TX,OH
 Certified Kernel Tech LLC	New York	NY	12	Information Security Analysts; Information Security Engineers; Data Scientists	159400	NJ,MD,UT
 Certified Technical Experts LLC			1	Software Developers		GA
-CGI Technologies and Solutions Inc.	Fairfax	VA	11242	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	112900	TX,PA,LA
+CGI Technologies and Solutions Inc.	Fairfax	VA	413	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	112900	TX,PA,OH
 Chabez Tech LLC	Lemoyne	PA	2	Software Developers		PA,TX
 Chags Health Information Technology, LLC	Columbia	MD	11	Software Developers; Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators	106500	MD,FL,TX
 Chalk Mountain Services of Texas, LLC	Fort Worth	TX	1	Operations Research Analysts		TX
@@ -909,7 +909,7 @@ Cogitate Technology Solutions, Inc	Atlanta	GA	2	Data Scientists		GA
 Cognial Technologies, Inc.	Alpharetta	GA	2	Software Developers		IL,TX
 Cognifyar Technologies	Irvine	CA	36	Software Developers; Computer Systems Analysts; Database Administrators	112600	TX,CA,NJ
 Cognisoft Technologies, LLC	Troy	MI	8	Data Scientists; Web Developers; Computer Occupations, All Other	75600	OK,TX,GA
-Cognitech Technologies Inc.	Irving	TX	10	Software Developers; Information Security Engineers; Computer Systems Engineers/Architects	103200	NJ,TX,CA
+Cognitech Technologies Inc.	Irving	TX	7	Software Developers; Information Security Engineers; Computer Systems Engineers/Architects	103200	NJ,TX,CA
 Cognitive Technology Solutions, Inc.	Piscataway	NJ	4	Software Developers	132000	NJ,PA,CA
 Cognizance Technologies LLC	Leesburg	VA	5	Bioinformatics Scientists; Software Developers; Medical Scientists, Except Epidemiologists	150000	MD,SC
 Cognizant Technology Solutions US Corp	College Station	TX	4845	Computer Systems Engineers/Architects; Software Quality Assurance Analysts and Testers; Information Technology Project Managers	110200	TX,NJ,NC
@@ -941,7 +941,7 @@ Comniscient Technologies LLC	Boston	MA	2	Market Research Analysts and Marketing 
 Compass Tech International, Ltd.	Dublin	OH	2	Mechanical Engineers		OH
 Compleat Technical Solutions Inc	Charlotte	NC	9	Validation Engineers; Bioinformatics Scientists; Software Quality Assurance Analysts and Testers	92100	CA,NJ,MA
 Compliance Testing LLC	Mesa	AZ	1	Validation Engineers		AZ
-Comptivia Technologies LLC	Boonton	NJ	3	Software Developers		NJ
+Comptivia Technologies LLC	Boonton	NJ	2	Software Developers		NJ
 Compu Tech Computers, Inc.	Elmhurst	NY	1	Software Developers		CA
 CompuGroup Technologies, LLC	Warrendale	PA	1	Software Developers		PA
 Compulink Technologies Inc.	New York	NY	2	Budget Analysts		NY
@@ -1129,10 +1129,10 @@ DeepLux Technology Inc	Lafayette	IN	1	Computer Hardware Engineers		IN
 DeepSight Technology Inc.	Santa Clara	CA	1	Bioengineers and Biomedical Engineers		CA
 Delart Technology Services LLC	Santa Monica	CA	16	Electrical Engineers; Software Quality Assurance Analysts and Testers; Project Management Specialists	130400	CA,WA,TX
 Delight TB Indiana Management LLC	New York	NY	1	Business Intelligence Analysts		NY
-Deloitte & Touche LLP	Philadelphia	PA	1431	Accountants and Auditors; Information Security Analysts; Management Analysts	102900	CA,TX,NY
-Deloitte Tax LLP	Philadelphia	PA	1168	Accountants and Auditors; Software Developers; Operations Research Analysts	97400	CA,TX,NY
+Deloitte & Touche LLP	Philadelphia	PA	713	Accountants and Auditors; Information Security Analysts; Management Analysts	102900	CA,TX,NY
+Deloitte Tax LLP	Philadelphia	PA	578	Accountants and Auditors; Software Developers; Operations Research Analysts	97400	CA,TX,NY
 Deloitte Touche Tohmatsu Services, LLC	New York	NY	19	Information Technology Project Managers; Software Developers; Network and Computer Systems Administrators	149200	TX,IL,TN
-Deloitte Transactions and Business Analytics LLP	Philadelphia	PA	56	Information Security Analysts; Operations Research Analysts; Financial and Investment Analysts	139700	NY,TX,TN
+Deloitte Transactions and Business Analytics LLP	Philadelphia	PA	28	Information Security Analysts; Operations Research Analysts; Financial and Investment Analysts	139700	NY,TX,TN
 Delta Talent, LLC	Austin	TX	2	Financial and Investment Analysts		TX
 DELTACUBES Technology LLC	Austin	TX	1	Computer Systems Engineers/Architects		TX
 Delve Technologies Inc.	San Francisco	CA	1	General and Operations Managers		CA
@@ -1312,7 +1312,7 @@ Electronic Warning Technologies, LLC	Huntsville	AL	1	Sales Engineers		MI
 Element Materials Technology Santa Clara Inc.	Santa Rosa	CA	2	Chemists		CA
 Element Technologies Inc	Monmouth Junction	NJ	10	Computer Systems Analysts; Computer Programmers; Computer Systems Engineers/Architects	96500	NJ,FL,VA
 Element TV Company, LP	Edina	MN	1	Manufacturing Engineers		SC
-Elemental Technologies LLC	Seattle	WA	13	Information Technology Project Managers; Software Developers	186500	WA,OR,CO
+Elemental Technologies LLC	Seattle	WA	4	Information Technology Project Managers; Software Developers	186500	WA,OR,CO
 Elevate Textiles, Inc.	Charlotte	NC	1	Occupational Health and Safety Specialists		NC
 ElevateBio Technologies, Inc.	Waltham	MA	6	Molecular and Cellular Biologists; Validation Engineers; Bioinformatics Scientists	131700	MA,NC
 Elevax Technologies Inc	Plano	TX	1	Network and Computer Systems Administrators		TX
@@ -1599,7 +1599,7 @@ Gardiner & Theobald LLC	New York	NY	5	Cost Estimators; Construction Managers	155
 Garlock Sealing Technologies, LLC	Houston	TX	2	Manufacturing Engineers; Industrial Engineers		TX
 Garner Health Technology, Inc.	New York	NY	2	Data Scientists		CA,NY
 Garrett Transportation I Inc.	Torrance	CA	6	Electrical Engineers; Training and Development Managers; Information Technology Project Managers	139800	CA
-Gateway Health Technologies, Inc.	Orlando	FL	20	Registered Nurses		KS,NE
+Gateway Health Technologies, Inc.	Orlando	FL	6	Registered Nurses		KS,NE
 Gaztransport & Technigaz North America, Inc.	Houston	TX	1	Market Research Analysts and Marketing Specialists		TX
 GB Tech, Inc.	Middletown	DE	12	Software Developers; Computer Systems Analysts	88100	DE,TX,VA
 GC Therapeutics, Inc.	Cambridge	MA	2	Bioengineers and Biomedical Engineers		MA
@@ -1607,7 +1607,7 @@ Gcom Information Technology Inc	Columbia	MD	11	Software Developers; Network and 
 Gemland Texas, Inc.	Houston	TX	3	Database Administrators; Purchasing Managers; Business Intelligence Analysts		TX
 Gen Piper Technologies LLC	Round Rock	TX	3	Software Developers		TX,FL
 General Dynamics Information Technology, Inc.	Falls Church	VA	8	Software Developers; Data Scientists; Database Architects	157500	MD,OR,VA
-General Robotics Technology, Inc.	Redmond	WA	20	Robotics Engineers		WA
+General Robotics Technology, Inc.	Redmond	WA	2	Robotics Engineers		WA
 General Transervice, Inc.	Coatesville	PA	4	Electronics Engineers, Except Computer	108700	PA
 Generation IX Technologies	Culver City	CA	2	Computer Occupations, All Other		CA
 Geneses Tech Solutions LLC	Tempe	AZ	7	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	98200	AZ,OH,NY
@@ -1718,7 +1718,7 @@ Great Way Trading & Transportation, Inc.	Union City	CA	1	Logistics Analysts		CA
 Greater Twin Cities United Way	Minneapolis	MN	1	Social and Community Service Managers		MN
 Greedale Physical Therapy LLC	Shrewsbury	MA	1	Physical Therapists		MA
 Green Energy Origin Texas LLC	The Woodlands	TX	1	Compliance Officers		TX
-Green Tanner Industrial Construction LLC	Chandler	AZ	2	Civil Engineers		AZ
+Green Tanner Industrial Construction LLC	Chandler	AZ	1	Civil Engineers		AZ
 Green Tokai Co., Ltd.	Brookville	OH	2	Mechanical Engineers		OH
 Greenberg Traurig, LLP	New York	NY	13	Lawyers	260000	NY,CA,TX
 Greenbyte Technologies LLC	Farmington Hills	MI	5	Database Administrators; Software Developers	106000	GA,MN,NC
@@ -1745,7 +1745,7 @@ H & T Seafood	Bell	CA	2	Operations Research Analysts		CA
 H-town Technologies Inc	Houston	TX	21	Software Developers; Computer Systems Analysts; Computer Network Architects	103600	TX,CA,AZ
 H-town Tecnologies Inc	Houston	TX	1	Network and Computer Systems Administrators		CA
 Hacker Times Inc	Pleasanton	CA	1	Software Developers		CA
-Hailiang Copper Texas Inc.	Sealy	TX	5	Accountants and Auditors; General and Operations Managers; Market Research Analysts and Marketing Specialists	62400	TX
+Hailiang Copper Texas Inc.	Sealy	TX	4	Accountants and Auditors; General and Operations Managers; Market Research Analysts and Marketing Specialists	62400	TX
 Halcyon Tech, Inc.	Austin	TX	1	Software Developers		TX
 Halia Therapeutics, Inc.	Lehi	UT	1	Regulatory Affairs Specialists		UT
 Halliburton Technology Partners, LLC	Houston	TX	11	Electrical Engineers; Mechanical Engineers; Software Developers	143600	TX
@@ -1858,7 +1858,7 @@ Hospital Medicine Services of Tennessee, P.C.	Knoxville	TN	3	Physicians, All Oth
 Hospital Medicine Services of TN, LLC	Nashville	TN	2	Hospitalists		TN
 Hospital Medicine Services of TX, PLLC	Nashville	TN	1	Hospitalists		TX
 Hospitalist and Emergency Services of Texas, PA	Lafayette	LA	4	Emergency Medicine Physicians; General Internal Medicine Physicians		TX
-Hospitalist Medicine Physicians of Texas, PLLC	Nashville	TN	19	Hospitalists		TX,NM,KS
+Hospitalist Medicine Physicians of Texas, PLLC	Nashville	TN	18	Hospitalists		TX,NM,KS
 Hot Topic, Inc.	City Of Industry	CA	4	Information Security Analysts; Computer and Information Systems Managers; Software Developers		CA
 Hotel Trader LLC	Irving	TX	1	Treasurers and Controllers		TX
 Hourglass Education Technology Solutions, LLC	Phoenix	AZ	1	Software Developers		AZ
@@ -1901,7 +1901,7 @@ Iba Proton Therapy, Inc.	Herndon	VA	2	Bioengineers and Biomedical Engineers		IL,
 iBrain Technologies, Inc.	Chesterfield	MO	11	Software Developers; Management Analysts	116700	TX,CA,PA
 Ice Mortgage Technology, Inc.	Atlanta	GA	59	Software Developers; Software Quality Assurance Analysts and Testers; Computer Occupations, All Other	129200	GA,CA,FL
 ICloud Technologies Corp.	Sterling	VA	17	Software Quality Assurance Analysts and Testers; Software Developers; Computer Programmers	85000	GA,VA,MN
-iCode Technologies LLC	Farmington Hills	MI	20	Software Developers; Information Security Analysts; Information Technology Project Managers		MI,IL,ND
+iCode Technologies LLC	Farmington Hills	MI	11	Software Developers; Information Technology Project Managers; Electrical Engineers		MI,IL,ND
 Icon Technical Group, Inc.	Washington	NJ	1	Computer Systems Analysts		GA
 ICON Technology, Inc.	Austin	TX	3	Materials Engineers; Architectural and Engineering Managers	140000	TX
 Icrush Technologies LLC	Naperville	IL	10	Software Quality Assurance Analysts and Testers; Computer Systems Analysts; Network and Computer Systems Administrators	104100	TX,MD,WA
@@ -1993,7 +1993,7 @@ Innovatis Technologies Inc.	Fairfax	VA	1	Web Developers		IL
 Innovative Cellular Therapeutics, Inc.	Rockville	MD	1	Biochemists and Biophysicists		MD
 Innovative Information Technologies, Inc.	Princeton	NJ	4	Software Developers; Information Technology Project Managers; Penetration Testers		TX,GA,NJ
 Innovative JOGO Physical Therapy LLC	Old Bridge	NJ	1	Physical Therapists		NJ
-Innovative Physical Therapy and Fitness Center Inc.	Kendall Park	NJ	12	Physical Therapists		NJ
+Innovative Physical Therapy and Fitness Center Inc.	Kendall Park	NJ	1	Physical Therapists		NJ
 Innovative Physical Therapy and Fitness Centers, LLC	Abingdon	MD	1	Physical Therapists		MD
 Innovative Tech Talents LLC	Herndon	VA	2	Market Research Analysts and Marketing Specialists; Data Scientists		TX,PA
 Innovim Technology Solutions Inc	South Windsor	CT	4	Information Technology Project Managers; Financial Quantitative Analysts; Software Quality Assurance Analysts and Testers	78200	CT,CA
@@ -2455,7 +2455,7 @@ Marmon Foodservice Technologies, Inc.	Carol Stream	IL	1	Information Technology P
 Marquee technology Solutions Inc.	Troy	MI	11	Software Developers; Data Scientists	106000	MI,TN,DE
 Mars Tech Solutions LLC	Edison	NJ	5	Software Developers; Database Architects; Computer Systems Engineers/Architects	103200	TX,VA,AZ
 Mars Technominds Inc	Houston	TX	8	Software Developers; Data Scientists	109000	IL,AZ,TX
-Marshall Technologies Inc.	Memphis	TN	6	Computer Systems Analysts; Software Developers; Software Quality Assurance Analysts and Testers	75800	TX,DE,GA
+Marshall Technologies Inc.	Memphis	TN	4	Computer Systems Analysts; Software Developers; Software Quality Assurance Analysts and Testers	75800	TX,DE,GA
 Marsol Technologies, Inc.	Houston	TX	1	Industrial Production Managers		TX
 Martinrea Tulsa Inc	Catoosa	OK	1	Industrial Engineers		OK
 Martinrea Tuscaloosa, Inc.	Tuscaloosa	AL	1	Industrial Engineers		AL
@@ -2473,7 +2473,7 @@ Mass Technologies LLC	Columbus	OH	6	Computer Programmers; Data Scientists; Bioen
 Massachusetts Institute of Technology	Cambridge	MA	94	Biochemists and Biophysicists; Mechanical Engineers, R&D; Physicists	79300	MA,CA
 Massachusetts Teachers Association	Quincy	MA	1	Operations Research Analysts		MA
 MAST Technology Services, Inc.	Reynoldsburg	OH	18	Software Developers; Information Technology Project Managers; Database Administrators	140000	OH
-Mastech Digital Technologies, Inc.	Moon Township	PA	774	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	112900	TX,NC,NH
+Mastech Digital Technologies, Inc.	Moon Township	PA	129	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	112900	TX,NC,NH
 Master CVV Technologies LLC	Frisco	TX	3	Computer Programmers	77400	TX,MI
 Mastercard Mobile Transactions Solutions Inc	Purchase	NY	1	Business Intelligence Analysts		NY
 Mastercard Technologies, LLC	O'Fallon	MO	210	Software Developers; Information Technology Project Managers; Database Administrators	138000	MO,NY,TX
@@ -2481,7 +2481,7 @@ Material Technology & Logistics, Inc.	Jessup	PA	1	Commercial and Industrial Desi
 Materials Testing Consultants, Inc.	Grand Rapids	MI	1	Civil Engineers		MI
 Matheson Tri-Gas, Inc.	Warren	NJ	2	Business Operations Specialists, All Other; Robotics Engineers		NJ,TX
 Matrix Tech Solutions Inc	Houston	TX	1	Software Developers		NC
-Mattson Technology, Inc.	Fremont	CA	105	Software Quality Assurance Analysts and Testers; Mechanical Engineers; Manufacturing Engineers	163600	CA,AZ
+Mattson Technology, Inc.	Fremont	CA	9	Software Quality Assurance Analysts and Testers; Mechanical Engineers; Electronics Engineers, Except Computer	163600	CA,AZ
 Mavensoft Technologies, LLC	Beaverton	OR	9	Software Developers; Computer Systems Analysts	115200	TX,OR,WA
 Maverick Insurance Technologies Co.	Denver	CO	1	Software Developers		WI
 Maverick Tube Corporation	Houston	TX	4	Logistics Analysts; Industrial Engineers; Training and Development Managers	102600	AR,TX
@@ -2511,7 +2511,7 @@ Medicare Trans, LLC	Phoenix	AZ	1	Software Developers		AZ
 Medicine & Long Term Care Associates LLC	Cranston	RI	1	General Internal Medicine Physicians		RI
 Medin Technologies, Inc.	Totowa	NJ	1	Manufacturing Engineers		NJ
 Meeno Technologies Inc.	Palo Alto	CA	1	Software Developers		CA
-Mellanox Technologies, Inc.	Sunnyvale	CA	35	Software Developers; Information Technology Project Managers; Electronics Engineers, Except Computer	186100	MA,CA,WA
+Mellanox Technologies, Inc.	Sunnyvale	CA	8	Software Developers; Sales Engineers; Information Technology Project Managers	186100	MA,CA,WA
 Membrane Technology & Research, Inc.	Newark	CA	1	Mechanical Engineers		CA
 Menbo Tech LLC	Plano	TX	1	Software Developers		TX
 Mentium Technologies Inc	Goleta	CA	1	Computer Hardware Engineers		CA
@@ -2617,7 +2617,7 @@ Moomoo Technologies Inc.	Jersey City	NJ	2	Market Research Analysts and Marketing
 More Than Grapes, LLC	Northbrook	IL	3	Business Operations Specialists, All Other; Accountants and Auditors; Meeting, Convention, and Event Planners	87500	IL
 More Truck Insurance Solutions LLC	The Woodlands	TX	3	Treasurers and Controllers; Financial Managers	106900	TX
 Morey, Nee, Tobias & Oswald, LLC	Bethlehem	PA	1	Accountants and Auditors		PA
-Morgan Truck Body LLC	Morgantown	PA	2	Industrial Engineers		TX
+Morgan Truck Body LLC	Morgantown	PA	1	Industrial Engineers		TX
 Morgner Technology Management	Los Angeles	CA	1	Cost Estimators		WA
 Moriroku Technology North America Inc.	Marysville	OH	2	Automotive Engineers; Mechanical Engineers		OH
 Morris, Nichols, Arsht & Tunnell LLP	Wilmington	DE	1	Judicial Law Clerks		DE
@@ -2632,7 +2632,7 @@ Motive Technologies, Inc.	San Francisco	CA	13	Software Developers; Computer and 
 Mount Thor, Inc.	San Francisco	CA	1	Software Developers		CA
 Mountain Temp Services Holdings LLC	Aspen	CO	1	Human Resources Specialists		CO
 Mountain Tunnel Constructors, Inc.	Brownsville	WI	1	Construction Managers		CA
-Mountain View Tennis Academy LLC	Mountain View	CA	2	Coaches and Scouts		CA
+Mountain View Tennis Academy LLC	Mountain View	CA	1	Coaches and Scouts		CA
 MOURI Tech, LLC	Irving	TX	50	Software Developers; Computer Systems Engineers/Architects; Data Scientists	113000	TX,NC,CA
 MP Technologies, LLC	Annandale	MN	2	Security Management Specialists		MN
 MR Technosoft, Inc.	Englewood	CO	3	Software Developers; Information Technology Project Managers	125000	NJ,CO
@@ -2664,7 +2664,7 @@ N2 Cloud Tech LLC	O Fallon	MO	1	Project Management Specialists		MO
 N28 Technologies Inc.	San Francisco	CA	1	Computer Systems Engineers/Architects		WA
 N2force Technologies Inc	Naperville	IL	4	Software Developers; Data Scientists; Computer Programmers	109500	TX,NY
 NAAS Technologies LLC	Phoenix	AZ	3	Software Developers	112900	TX,AZ
-Naav Tech LLC	Duluth	GA	7	Biological Technicians; Software Developers; Data Scientists		NJ,IL,GA
+Naav Tech LLC	Duluth	GA	6	Software Developers; Data Scientists; Computer Network Architects		IL,GA,OH
 Nabors Drilling Technologies USA, Inc.	Houston	TX	7	Software Developers; Mechatronics Engineers; Robotics Engineers	140000	TX
 Nam Technologies Inc.	Alpharetta	GA	9	Software Developers; Software Quality Assurance Analysts and Testers	109300	GA,TX,KS
 Namitus Technologies Inc	Frisco	TX	21	Software Developers; Computer Programmers	106000	TX,AZ,VA
@@ -3040,7 +3040,7 @@ Pga Tour, Inc.	Ponte Vedra Beach	FL	1	Software Quality Assurance Analysts and Te
 Pgh Tech Ladder LLC	Newark	DE	21	Software Developers; Computer Occupations, All Other; Database Administrators	119500	PA,CA,NJ
 PGTX Tech LLC	Tomball	TX	1	Project Management Specialists		TX
 Pharma Tek Solutions, Inc	San Ramon	CA	1	Validation Engineers		NJ
-Phase Technologies LLC	Rapid City	SD	2	Electronics Engineers, Except Computer		SD
+Phase Technologies LLC	Rapid City	SD	1	Electronics Engineers, Except Computer		SD
 Pheast Therapeutics, Inc	Redwood City	CA	2	Bioengineers and Biomedical Engineers		CA
 Phenix Therapies LLC	Colorado Springs	CO	1	Athletic Trainers		CO
 Phenom Technology Solutions LLC	Gaithersburg	MD	7	Software Developers; Computer Systems Engineers/Architects; Software Quality Assurance Analysts and Testers	77300	MO,VT,NC
@@ -3053,7 +3053,7 @@ Phoenix Education Technology LLC	Irvine	CA	2	Software Developers; Project Manage
 Phoenix Satellite Television US, Inc	Irwindale	CA	2	Graphic Designers; News Analysts, Reporters, and Journalists		CA,DC
 Phoenix Tailings, Inc.	Burlington	MA	1	Materials Engineers		MA
 Phoenix Tech Solutions INC.	Sacramento	CA	9	Software Developers; Web Developers; Financial Specialists, All Other	103000	CA,FL,ID
-Phoenix Technical Solutions, Inc.	Meadville	PA	11	Industrial Engineers; Mechanical Engineers		OH,TX
+Phoenix Technical Solutions, Inc.	Meadville	PA	2	Mechanical Engineers; Industrial Engineers		TX,OH
 Phoenix Technologies LLC	Somerset	NJ	11	Network and Computer Systems Administrators; Software Developers; Database Architects	96900	TX,AR,NJ
 Phoenix Technologies,llc	Somerset	NJ	3	Network and Computer Systems Administrators; Software Developers; Computer Programmers	79800	FL,NC
 Phoenix Tree Publishing Inc.	Chicago	IL	1	Public Relations Specialists		IL
@@ -3191,7 +3191,7 @@ Qorvo Texas, LLC	Dallas	TX	1	Electrical Engineers		TX
 Qscription Technologies, LLC	Jackson	WI	2	Computer and Information Systems Managers; Information Technology Project Managers		WI
 Quadrant Technologies LLC	Redmond	WA	210	Computer Systems Analysts; Software Developers; Database Administrators	111600	WA,TX,GA
 Quaestor Technologies Inc.	San Francisco	CA	1	Data Scientists		CA
-Qualcomm Technologies, Inc.	San Diego	CA	12072	Electronics Engineers, Except Computer; Software Developers; Industrial Production Managers	156900	CA,TX,CO
+Qualcomm Technologies, Inc.	San Diego	CA	390	Electronics Engineers, Except Computer; Software Developers; Industrial Production Managers	156900	CA,TX,CO
 Quality Theorem Llc.	Plainsboro	NJ	1	Electrical Engineers		TX
 Quander Technologies, Inc.	San Francisco	CA	1	Software Developers		CA
 Quanta Cloud Technology USA, LLC	San Jose	CA	1	Sales Engineers		CA
@@ -3208,7 +3208,7 @@ Qwest Corporation d/b/a Lumen Technologies, Inc.	Monroe	LA	1	Software Developers
 R & S Tavares Associates, Inc.	San Diego	CA	1	Civil Engineers		TX
 R Square Technology Inc	King of Prussia	PA	7	Statisticians; Biostatisticians	101000	NJ,OH,WA
 R Technologies LLC	Centerville,	OH	10	Data Scientists; Computer Programmers	91500	GA,OH,CT
-R2 Technologies Corporation	Alpharetta	GA	41	Computer Programmers; Computer Systems Engineers/Architects; Software Developers	86600	GA,MA,SC
+R2 Technologies Corporation	Alpharetta	GA	22	Computer Programmers; Computer Systems Engineers/Architects; Software Developers	86600	GA,MA,KY
 R3 Technology Inc	Hillsborough	NJ	14	Software Developers; Computer Programmers; Software Quality Assurance Analysts and Testers	114000	NC,VA,FL
 R4 Technologies Inc.	Ridgefield	CT	1	Data Scientists		CT
 R4Soft Technologies LLC	Farmers Branch	TX	4	Business Intelligence Analysts; Information Security Engineers; Data Scientists	91300	TX
@@ -3254,7 +3254,7 @@ RCCH Trios Health, LLC	Kennewick	WA	1	Medical and Clinical Laboratory Technologi
 RCI, LLC (Travel and Leisure Co.)	Orlando	FL	1	Business Intelligence Analysts		IN
 RCK Techiees Inc	Jacksonville	FL	1	Information Technology Project Managers		CO
 RCM Technologies (USA) Inc	Montvale	NJ	2	Electrical Engineers; Commercial and Industrial Designers		NJ
-RCM Technologies Inc.	New York	NY	248	Occupational Therapists; Physical Therapists; Speech-Language Pathologists		NY,CA
+RCM Technologies Inc.	New York	NY	9	Occupational Therapists; Speech-Language Pathologists; Physical Therapists		NY,CA
 RCR Technology Corporation	Indianapolis	IN	8	Software Developers; Computer Systems Engineers/Architects; Software Quality Assurance Analysts and Testers	95200	IN,CA
 RCube Technology Inc.	Minooka	IL	1	Software Developers		AZ
 RE Tech Advisors Inc.	McLean	VA	1	Data Scientists		VA
@@ -3441,7 +3441,7 @@ Samuel T. Freeman & Company, Inc.	Philadelphia	PA	1	Museum Technicians and Conse
 San Antonio Housing Trust Foundation, Inc.	San Antonio	TX	1	Urban and Regional Planners		TX
 San Diego Metropolitan Transit System	San Diego	CA	1	Operations Research Analysts		CA
 Sanav Technologies LLC	Urbandale	IA	19	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	99500	TX,IA,NY
-Sandisk Technologies, Inc.	Milpitas	CA	2046	Electronics Engineers, Except Computer; Industrial Engineers; Software Quality Assurance Analysts and Testers	137200	CA,CO,WA
+Sandisk Technologies, Inc.	Milpitas	CA	174	Electronics Engineers, Except Computer; Software Quality Assurance Analysts and Testers; Industrial Engineers	137200	CA,WA,CO
 Sanford AI Technologies LLC	Hoffman Estates	IL	3	Web and Digital Interface Designers; Information Technology Project Managers; Software Developers	107600	IL
 Sanpro Technologies Inc	Clearwater	FL	5	Computer Systems Engineers/Architects; Computer Programmers	75000	TX,TN
 SANS Technical Fibers, LLC	Stoneville	NC	1	Industrial Engineers		NC
@@ -3875,8 +3875,8 @@ Sysdyne Technologies, LLC	Stamford	CT	2	Accountants and Auditors		CT
 Sysplus Technology Solutions	Allen	TX	3	Software Developers; Data Scientists	112900	TX
 Syspro Technologies, Inc	Plano	TX	1	Computer Programmers		TX
 System Soft Technologies, LLC	Tampa	FL	83	Software Developers; Software Quality Assurance Analysts and Testers; Database Administrators	113000	TX,NC,FL
-Systems Technilogy Group, Inc.	Troy	MI	2	Software Developers		TX
-Systems Technology Group Inc	Troy	MI	54	Software Developers; Industrial Engineers; Mechanical Engineers		MI
+Systems Technilogy Group, Inc.	Troy	MI	1	Software Developers		TX
+Systems Technology Group Inc	Troy	MI	28	Software Developers; Mechanical Engineers; Industrial Engineers		MI
 Sysvine Technologies Inc.	Mountain View	CA	1	Software Developers		NJ
 T & Y Financial Solutions LLC	Suwanee	GA	1	Accountants and Auditors		GA
 T A G Treatment Action Group, Inc.	New York	NY	1	Health Education Specialists		NY
@@ -4048,7 +4048,7 @@ Tandem Diabetes Care, Inc.	San Diego	CA	7	Software Quality Assurance Analysts an
 Tandem Products, Inc.	Minneapolis	MN	1	Manufacturing Engineers		MN
 Tandem Technology Inc.	New York	NY	4	General and Operations Managers; Financial Managers	250000	NY
 TandemAI, US LLC	New York	NY	1	Data Scientists		NY
-Tandym Group LLC	New York	NY	23	Occupational Therapists; Software Developers		NY,NC
+Tandym Group LLC	New York	NY	4	Occupational Therapists; Software Developers		NY,NC
 Taney Engineering LLC	Las Vegas	NV	1	Civil Engineers		NV
 Tang Advisors, LLC	San Diego	CA	2	Medical Scientists, Except Epidemiologists		NY
 Tang Buy LLC	Weston	FL	1	Public Relations Specialists		FL
@@ -4105,7 +4105,7 @@ Target Logistics Management LLC	The Woodlands	TX	1	Computer Systems Engineers/Ar
 Targetbase Inc.	Irving	TX	1	Business Intelligence Analysts		TX
 TargetCast LLC	New York	NY	1	Market Research Analysts and Marketing Specialists		FL
 Targeted Victory, LLC	Arlington	VA	2	Marketing Managers; Market Research Analysts and Marketing Specialists		VA
-Targetmol Chemicals Inc	Wellesley Hills	MA	2	Business Operations Specialists, All Other		MA
+Targetmol Chemicals Inc	Wellesley Hills	MA	1	Business Operations Specialists, All Other		MA
 Targray Industries, Inc.	Massena	NY	1	Securities, Commodities, and Financial Services Sales Agents		NY
 Tarleton State University	Stephenville	TX	9	Business Teachers, Postsecondary; Environmental Science Teachers, Postsecondary; Psychology Teachers, Postsecondary	70000	TX
 Taromed 90021 LLC	Los Angeles	CA	1	Management Analysts		CA
@@ -4127,13 +4127,13 @@ Tastings Inc	New York	NY	1	Meeting, Convention, and Event Planners		NY
 tastylive, Inc.	Chicago	IL	4	Software Developers; Financial and Investment Analysts; Computer Systems Engineers/Architects	183900	IL,TX
 Tata Consultancy Services Limited	Rockville	MD	2357	Computer Systems Engineers/Architects; Computer Programmers; Computer Systems Analysts	90600	TX,NJ,CA
 Tata Consulting Engineers USA, LLC	Houston	TX	1	Chemical Engineers		TX
-Tata Elxsi Limited	Troy	MI	177	Software Quality Assurance Analysts and Testers; Computer Systems Engineers/Architects; Software Developers	92400	PA,CA,MN
-Tata Technologies, Inc.	Detroit	MI	72	Mechanical Engineers; Software Developers; Computer Programmers	105000	MI,IL,MD
+Tata Elxsi Limited	Troy	MI	37	Software Quality Assurance Analysts and Testers; Computer Systems Engineers/Architects; Software Developers	92400	PA,CA,MN
+Tata Technologies, Inc.	Detroit	MI	62	Mechanical Engineers; Software Developers; Commercial and Industrial Designers	105000	MI,IL,MD
 Tatari, Inc.	San Francisco	CA	1	Operations Research Analysts		CA
 Tatch Corporation	Alpharetta	GA	1	Software Developers		CA
 Tate & Lyle Solutions USA, LLC	Hoffman Estates	IL	8	Food Scientists and Technologists; Compliance Managers; Chemists	106100	IL,FL
 Tate Access Floors, Inc.	Columbia	MD	1	Mechanical Engineers		MD
-Tate Topa Tribal School	Fort Totten	ND	5	Special Education Teachers, Elementary School; Elementary School Teachers, Except Special Education		ND
+Tate Topa Tribal School	Fort Totten	ND	2	Elementary School Teachers, Except Special Education; Special Education Teachers, Elementary School		ND
 Tater, Inc.	Burley	ID	1	Data Scientists		UT
 Tatone Law APC	Marina Del Rey	CA	1	Lawyers		CA
 Tatua USA Ltd	Center Valley	PA	1	Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products		PA
@@ -4146,7 +4146,7 @@ Taurus Financial LLC	Jersey City	NJ	2	Budget Analysts; Financial and Investment 
 Taurus Industrial Group, LLC.	Port Lavaca	TX	24	Mechanical Engineers; Materials Engineers; Data Scientists		TX
 TAV Employer, LP	San Francisco	CA	4	Robotics Engineers	170000	CA
 Tavant Technologies, Inc.	Santa Clara	CA	48	Software Developers; Computer Programmers; Software Quality Assurance Analysts and Testers	140000	TX,NJ,CA
-Tavaro	Fort Pierce	FL	143	Office Clerks, General		FL
+Tavaro	Fort Pierce	FL	1	Office Clerks, General		FL
 Tavas Systems LLC	Exton	PA	2	Software Developers; Computer Systems Analysts		TX,IN
 Tavern Research Inc	Chicago	IL	3	Survey Researchers; Software Developers	120500	IL
 Tavern, Inc	San Francisco	CA	2	Software Developers		CA
@@ -4195,7 +4195,7 @@ tCognition Inc.	Boston	MA	1	Computer Systems Engineers/Architects		MA
 Tcrcure Biopharma Corp.	Durham	NC	3	Accountants and Auditors; Biological Technicians	66500	CA,NC
 TCS E Serve International Limited	Rockville	MD	1	Management Analysts		TX
 TCT Mobile, Inc.	Irvine	CA	5	Logistics Analysts; Supply Chain Managers; Software Quality Assurance Analysts and Testers	83700	CA,WA
-Tcw LLC	Los Angeles	CA	130	Financial and Investment Analysts; Information Technology Project Managers; Software Developers	118600	CA,NY,PA
+Tcw LLC	Los Angeles	CA	10	Financial and Investment Analysts; Information Technology Project Managers; Software Developers	118600	CA,NY,PA
 TD Bank, National Association	Mount Laurel	NJ	43	Software Developers; Financial Quantitative Analysts; Data Scientists	133600	NJ,NC,NY
 TD Group	Fresno	CA	2	Personal Financial Advisors		CA
 Td Logistics Inc	City Of Industry	CA	1	Market Research Analysts and Marketing Specialists		CA
@@ -4311,7 +4311,7 @@ Techbee, LLC	Pleasanton	CA	1	Software Developers		CA
 Techbits, Inc.	Irving	TX	2	Computer Programmers; Software Developers		TX
 Techcess Solutions LLC	Plano	TX	1	Business Operations Specialists, All Other		TX
 Techchoir Inc	Plano	TX	1	Software Developers		TX
-Techcloudusa LLC	Cumming	GA	5	Software Developers; Software Quality Assurance Analysts and Testers; Computer Systems Analysts	99900	GA,VA,AZ
+Techcloudusa LLC	Cumming	GA	4	Software Developers; Computer Systems Analysts; Software Quality Assurance Analysts and Testers	99900	GA,AZ,VA
 TechClub Inc.	Lincolnshire	IL	16	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	120000	TX,CA,NC
 TechCognize Inc.	Plano	TX	14	Data Scientists; Software Developers	82000	TX,VA
 TechCoreGlobal, LLC	Plainview	NY	2	Information Security Analysts		TX
@@ -4725,7 +4725,7 @@ Telluride School District R-1	Telluride	CO	2	Secondary School Teachers, Except S
 Tellus Power Green	Laguna Hills	CA	1	Software Quality Assurance Analysts and Testers		CA
 Telnet, Inc.	Rockville	MD	3	Electrical Engineers	105000	TX
 Telnyx LLC	Austin	TX	6	Computer Network Support Specialists; Computer Systems Engineers/Architects; Marketing Managers	82100	CA,TX,CT
-Telra Institute, Inc	Charlotte	NC	5	Elementary School Teachers, Except Special Education		NC
+Telra Institute, Inc	Charlotte	NC	1	Elementary School Teachers, Except Special Education		NC
 Telstar Instruments	Sacramento	CA	1	Network and Computer Systems Administrators		CA
 TELUS Communications (U.S.) Inc.	Las Vegas	NV	1	Project Management Specialists		FL
 TELUS International (U.S.) Corp	Las Vegas	NV	2	Software Quality Assurance Analysts and Testers		PA,CO
@@ -4733,7 +4733,7 @@ TELUS International Digital Solutions LLC	Las Vegas	NV	2	Software Developers		MO
 TEM Software, LLC	McMurray	PA	1	Database Administrators		TX
 Temecula Animal Care LLC	Temecula	CA	1	Medical and Health Services Managers		CA
 Temelio, Inc	New York	NY	1	Management Analysts		NY
-Temenos USA, Inc.	Malvern	PA	35	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	77300	FL,AL,PA
+Temenos USA, Inc.	Malvern	PA	27	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	77300	FL,AL,PA
 Temo Arjani LLP	Pasadena	CA	2	Accountants and Auditors		CA
 Tempel Steel Company	Chicago	IL	2	Electrical Engineers; Cost Estimators		IL
 Tempest Capital Management, LLC	Santa Monica	CA	1	Financial Quantitative Analysts		CA
@@ -4938,7 +4938,7 @@ Texas Health and Human Services Commission	Austin	TX	2	Information Security Engi
 Texas Health Physicians Group	Arlington	TX	3	Hospitalists; Surgeons, All Other	310000	TX
 Texas Health Resources	Arlington	TX	3	Operations Research Analysts; Data Warehousing Specialists; Software Quality Assurance Analysts and Testers	115000	TX
 Texas Heart Hospital of The Southwest Provider Group	Dallas	TX	1	Exercise Physiologists		TX
-Texas Instruments Incorporated	Dallas	TX	1018	Electrical Engineers; Software Developers; Electronics Engineers, Except Computer	124500	TX,CA,AZ
+Texas Instruments Incorporated	Dallas	TX	87	Electrical Engineers; Electronics Engineers, Except Computer; Architectural and Engineering Managers	124500	TX,CA,AZ
 Texas IPS, PLLC	San Antonio	TX	1	Physicians, All Other		TX
 Texas Licensed Engineers, Inc.	Edinburg	TX	1	Architectural and Civil Drafters		TX
 Texas Liver Institute, Inc.	San Antonio	TX	3	Bioinformatics Technicians; General Internal Medicine Physicians	66900	TX
@@ -5015,7 +5015,7 @@ The Davey Tree Expert Company	Kent	OH	1	Software Developers		OH
 The Depository Trust & Clearing Corporation	Jersey City	NJ	46	Software Developers; Software Quality Assurance Analysts and Testers; Computer Network Architects	149400	FL,TX,NJ
 The Electrical Testing Company LLC	Hayward	CA	1	Electrical Engineers		CA
 The French American School of Tampa Bay, LLC	St. Petersburg	FL	1	Elementary School Teachers, Except Special Education		FL
-The Goodyear Tire & Rubber Company	Akron	OH	205	Software Developers; Mechanical Engineers; Electrical and Electronic Engineering Technologists and Technicians	92200	OH
+The Goodyear Tire & Rubber Company	Akron	OH	25	Software Developers; Mechanical Engineers; Electrical and Electronic Engineering Technologists and Technicians	92200	OH
 The Harrisburg University of Science and Technology	Harrisburg	PA	1	Computer Science Teachers, Postsecondary		PA
 The Inter-Global Trade Law Group PLLC	Washington	DC	1	Lawyers		DC
 The Internet Truckstop LLC	Boise	ID	8	Software Developers; Business Intelligence Analysts; Data Scientists	133300	ID,IL,NY
@@ -5024,7 +5024,7 @@ The J. Paul Getty Trust	Los Angeles	CA	3	Curators; Museum Technicians and Conser
 The Maritime Academy of Toledo, Inc.	Toledo	OH	1	Secondary School Teachers, Except Special and Career/Technical Education		OH
 The Midnight Trading Inc	Irvine	CA	1	Web Developers		CA
 The New York Times Company	New York	NY	19	Software Developers; Web and Digital Interface Designers; Information Technology Project Managers	151000	NY,TX,CO
-The Northern Trust Company	Chicago	IL	99	Software Developers; Financial Quantitative Analysts; Data Scientists	144400	IL,NJ,AZ
+The Northern Trust Company	Chicago	IL	51	Software Developers; Financial Quantitative Analysts; Financial Managers	144400	IL,NJ,AZ
 The Omnitrust Technologies LLC	Alpharetta	GA	8	Computer Programmers; Computer Systems Engineers/Architects; Software Developers	85800	GA,AZ
 The Productivity Team LLC	Lake Orion	MI	11	Industrial Engineers; Mechanical Engineers		MI,TN,MO
 The Renaissance Therapy Group, LLC	Franklin	TN	3	Epidemiologists; Business Intelligence Analysts; Health Education Specialists		TN,IN
@@ -5072,7 +5072,7 @@ The University of Texas at El Paso	El Paso	TX	17	Computer Science Teachers, Post
 The University of Texas at San Antonio	San Antonio	TX	12	Engineering Teachers, Postsecondary; Criminal Justice and Law Enforcement Teachers, Postsecondary; Management Analysts	77500	TX,PA
 The University of Texas at Tyler	Tyler	TX	12	Engineering Teachers, Postsecondary; Computer Science Teachers, Postsecondary; Psychology Teachers, Postsecondary	88000	TX
 The University of Texas El Paso	El Paso	TX	9	Engineering Teachers, Postsecondary; Health Specialties Teachers, Postsecondary; Psychology Teachers, Postsecondary	82000	TX
-The University of Texas Health Science Center at Houston	Houston	TX	50	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Physicians, All Other	74100	TX
+The University of Texas Health Science Center at Houston	Houston	TX	49	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Physicians, All Other	74100	TX
 The University of Texas Health Science Center at Tyler	Tyler	TX	4	Psychiatrists; Pediatricians, General; Molecular and Cellular Biologists	200200	TX
 The University of Texas M.D. Anderson Cancer Center	Houston	TX	108	Medical Scientists, Except Epidemiologists; Biochemists and Biophysicists; Biological Scientists, All Other	79200	TX
 The University of Texas Permian Basin	Odessa	TX	2	Engineering Teachers, Postsecondary		TX
@@ -5192,7 +5192,7 @@ Thompson Oncology Group	Knoxville	TN	2	Physicians, All Other		TN
 Thompson Tractor Co., Inc.	Birmingham	AL	1	Business Intelligence Analysts		AL
 Thomson Reuters (Tax & Accounting), Inc.	Frisco	TX	2	Management Analysts; Software Developers		NY,GA
 Thomson Reuters Holdings Inc.	Eagan	MN	28	Software Developers; Data Scientists; Information Technology Project Managers	145800	MN,NY,TX
-Thomson Reuters Services, Inc.	Eagan	MN	32	Accountants and Auditors; Information Technology Project Managers	93900	MN,CA,TX
+Thomson Reuters Services, Inc.	Eagan	MN	12	Accountants and Auditors; Information Technology Project Managers	93900	MN,TX,CA
 Thorek Memorial Hospital	Chicago	IL	1	Medical and Clinical Laboratory Technologists		IL
 Thorin AI, Inc.	San Francisco	CA	1	Software Developers		CA
 Thorin Resources, LLC	Ouray	CO	2	Chief Executives		CO
@@ -5284,7 +5284,7 @@ Tidal Investments LLC d.b.a. Tidal Financial Group	Milwaukee	WI	1	Market Researc
 Tidal Point & Associates Inc.	New York	NY	1	Financial Quantitative Analysts		NY
 Tidal Vision Products, Inc.	Bellingham	WA	1	Manufacturing Engineers		WA
 TidalHealth Primary Care, LLC	Salisbury	MD	1	General Internal Medicine Physicians		DE
-TidalHealth Specialty Care, LLC	Salisbury	MD	22	Hospitalists; Radiologists; Physicians, All Other	293000	MD,DE
+TidalHealth Specialty Care, LLC	Salisbury	MD	18	Hospitalists; Radiologists; Physicians, All Other	293000	MD,DE
 TidalWave Tech Inc.	New York	NY	3	Software Developers	161000	NY,VA
 Tidas, LLC	Louisville	KY	1	Industrial Engineers		TX
 Tides Center	San Francisco	CA	1	Data Scientists		VA
@@ -5320,9 +5320,9 @@ Tigon Golf Carts, LLC	Hatfield	PA	1	Software Developers		PA
 Tigre USA, Inc.	Janesville	WI	1	Industrial Engineers		CA
 Tika Security, Inc.	Sunnyvale	CA	1	Software Developers		CA
 TikaMobile, Inc.	New York	NY	1	Software Quality Assurance Analysts and Testers		NY
-TikTok Inc.	Culver City	CA	975	Software Developers; Data Scientists; Computer and Information Systems Managers	230200	CA,WA,NY
-TikTok U.S. Data Security Inc.	San Jose	CA	271	Software Developers; Data Scientists; Information Technology Project Managers	190400	CA,WA,NY
-TikTok USDS Joint Venture LLC	Culver City	CA	141	Software Developers; Data Scientists; Information Security Engineers	187700	CA,WA,NY
+TikTok Inc.	Culver City	CA	434	Software Developers; Data Scientists; Computer and Information Systems Managers	230200	CA,WA,NY
+TikTok U.S. Data Security Inc.	San Jose	CA	122	Software Developers; Data Scientists; Database Architects	190400	CA,WA,NY
+TikTok USDS Joint Venture LLC	Culver City	CA	113	Data Scientists; Software Developers; Information Security Engineers	187700	CA,WA,NY
 Tilden-Coil Constructors Inc.	Riverside	CA	1	Construction Managers		CA
 Tiles in Style	South Holland	IL	1	Cost Estimators		IL
 Tilia Fiduciary Partners, Inc.	Wilmington	NC	1	Financial and Investment Analysts		NC
@@ -5387,7 +5387,7 @@ Titan Advisory Services	Cranford	NJ	1	Accountants and Auditors		NJ
 Titan Controls, LLC	Angleton	TX	1	Electronics Engineers, Except Computer		TX
 Titan Data Group, Inc.	Woodbury	MN	1	Software Developers		TX
 Titan Engineers PC	Union	NJ	1	Civil Engineers		NJ
-Titan Florida LLC	Norfolk	VA	4	Mechanical Engineers; Industrial Engineers; Architectural and Engineering Managers	94300	FL
+Titan Florida LLC	Norfolk	VA	3	Industrial Engineers; Architectural and Engineering Managers; Mechanical Engineers	94300	FL
 Titan Franchising, LLC	Brentwood	TN	1	Market Research Analysts and Marketing Specialists		TN
 Titan Industrial Services, Inc.	Baltimore	MD	1	Industrial Engineers		MD
 Titan Technologies Inc	Newtown	PA	5	Computer Systems Analysts	107000	VA,SC,TX
@@ -5619,8 +5619,8 @@ Touro University	New York	NY	4	Health Specialties Teachers, Postsecondary; Data 
 Touro University Medical Group	Stockton	CA	2	Physicians, All Other; General Internal Medicine Physicians		CA
 Tovah Trucking LLC	The Woodlands	TX	1	Logistics Engineers		TX
 Towards Justice of Colorado	Glenwood Springs	CO	1	Social Workers, All Other		CO
-Tower 4 Liberty Market LLC	New York	NY	2	Web Developers		NY
-Tower Engineering Group LLC	Chicago	IL	3	Civil Engineers		IL
+Tower 4 Liberty Market LLC	New York	NY	1	Web Developers		NY
+Tower Engineering Group LLC	Chicago	IL	1	Civil Engineers		IL
 Tower Engineering, Inc.	Pittsburgh	PA	1	Mechanical Engineers		PA
 Tower Health Medical Group	West Reading	PA	7	General Internal Medicine Physicians; Physicians, All Other	300000	PA
 Tower Hill Insurance Group LLC	Gainesville	FL	3	Software Developers	135000	TX,FL
@@ -5889,7 +5889,7 @@ Trex Company, Inc.	Winchester	VA	2	Project Management Specialists		VA
 Trexquant Investment LP	Stamford	CT	19	Statisticians; Data Scientists; Financial and Investment Analysts	130000	CT
 TRG Management LP	New York	NY	1	Financial and Investment Analysts		NY
 TRG The Response Group LLC	Cypress	TX	2	Environmental Scientists and Specialists, Including Health; Software Developers		TX
-Tri City Dental LLC	Southborough	MA	2	Dentists, General		MA
+Tri City Dental LLC	Southborough	MA	1	Dentists, General		MA
 Tri Global Services LLC	Mount Laurel Township	NJ	1	Data Scientists		NJ
 Tri IT Services LLC	Irving	TX	1	Market Research Analysts and Marketing Specialists		TX
 Tri Pointe Homes, Inc.	Irvine	CA	1	Data Warehousing Specialists		CA
@@ -5908,9 +5908,9 @@ Tri-State Electric, Ltd.	Vinton	TX	2	Civil Engineers		TX
 Tri-state Light & Energy, Inc.	New Brunswick	NJ	1	Energy Engineers, Except Wind and Solar		NJ
 Tri-tech Laboratories, LLC	New Albany	OH	1	Validation Engineers		OH
 Tri-Valley Communities Against A Radioactive Environment	Livermore	CA	1	Environmental Scientists and Specialists, Including Health		CA
-Triad Math and Science Academy Co.	Apex	NC	38	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	60000	NC
+Triad Math and Science Academy Co.	Apex	NC	30	Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education	60000	NC
 Triad National Security, LLC	Los Alamos	NM	35	Physicists; Mathematicians; Materials Scientists	147000	NM,MI,NH
-Triad of Alabama, LLC	Dothan	AL	3	Medical and Clinical Laboratory Technologists		AL
+Triad of Alabama, LLC	Dothan	AL	1	Medical and Clinical Laboratory Technologists		AL
 Triad RF Systems, Inc.	East Brunswick	NJ	1	Mechanical Engineers		NJ
 Triad Solution Partners	Sugarland	TX	1	Business Intelligence Analysts		TX
 Trial Horizon	Somerset	NJ	2	Regulatory Affairs Specialists		NJ
@@ -5966,7 +5966,7 @@ Trigonal Partners, Inc.	Sunnyvale	CA	2	Software Developers		CA
 Trigyan LLC	Iselin	NJ	1	Data Scientists		NC
 Trigyn Technologies, Inc.	Edison	NJ	3	Software Developers; Data Scientists; Zoologists and Wildlife Biologists		NY
 TriHealth H, LLC	Cincinnati	OH	5	Obstetricians and Gynecologists; Neurologists; Hospitalists	575000	OH
-TriHealth, Inc.	Cincinnati	OH	13	Hospitalists	71000	OH
+TriHealth, Inc.	Cincinnati	OH	3	Hospitalists	71000	OH
 TRIJEM33 Consultng LLC	Staten Island	CA	1	Software Developers		NY
 Trikaiser LLC	North Charleston	SC	1	Database Administrators		SC
 Trilio Data, Inc.	Framingham	MA	1	Software Developers		FL
@@ -6148,8 +6148,8 @@ Truliant Federal Credit Union	Winston-Salem	NC	1	Software Developers		FL
 Trulioo, Inc.	San Diego	CA	2	Software Developers		TX,CA
 Trulogik Inc	Catonsville	MD	2	Data Scientists; Software Developers		MD
 Truly Free, Inc.	Williamsburg	MI	2	Data Scientists; Marketing Managers		MI
-Truman Medical Center, Inc.	Kansas City	MO	19	Medical and Clinical Laboratory Technologists; Clinical Data Managers; Medical and Health Services Managers	65000	MO
-Truman Medical Centers, Inc.	Kansas City	MO	15	Critical Care Nurses		MO
+Truman Medical Center, Inc.	Kansas City	MO	5	Clinical Data Managers; Medical and Clinical Laboratory Technologists; Medical and Health Services Managers	65000	MO
+Truman Medical Centers, Inc.	Kansas City	MO	2	Critical Care Nurses		MO
 Truman State University	Kirksville	MO	1	Computer Science Teachers, Postsecondary		MO
 Trumble Construction	Texarkana	TX	2	Cost Estimators		TX
 Trumbull Industries	Warren	OH	1	Database Administrators		OH
@@ -6224,7 +6224,7 @@ Tsukuru U.s.a. Corporation	Gardena	CA	1	Interior Designers		CA
 TSW Core LLC	Union City	CA	2	Software Quality Assurance Analysts and Testers; Data Scientists		CA
 TSYS Acquiring Solutions LLC	Atlanta	GA	1	Software Developers		FL
 TSYS Merchant Solutions, LLC	Atlanta	GA	1	Network and Computer Systems Administrators		VA
-TT Commerce & Global Services LLC	Culver City	CA	669	Software Developers; Data Scientists; Market Research Analysts and Marketing Specialists	176000	CA,WA,NY
+TT Commerce & Global Services LLC	Culver City	CA	450	Software Developers; Market Research Analysts and Marketing Specialists; Data Scientists	176000	CA,WA,NY
 Tt Technologies Inc	Hicksville	NY	11	Software Developers	113000	TX,AZ
 TTAM Employee Company	Wilmington	DE	6	Software Developers; Network and Computer Systems Administrators; Validation Engineers	168700	CA,TX
 TTE Technology, Inc.	Irvine	CA	5	Logisticians; Financial and Investment Analysts; Market Research Analysts and Marketing Specialists	74500	CA,WA
@@ -6351,7 +6351,7 @@ Twintron Data Systems Inc.	Voorhees	NJ	2	Software Developers		NJ
 Twinwing Labs, Inc.	San Francisco	CA	1	Business Intelligence Analysts		CA
 Twist Bioscience Corporation	South San Francisco	CA	8	Molecular and Cellular Biologists; Biochemists and Biophysicists; Sales Engineers	129300	CA,MA,NJ
 Twisted X, Inc.	Decatur	TX	1	Computer Programmers		TX
-Twitch Interactive, Inc.	San Francisco	CA	99	Business Intelligence Analysts; Software Developers; Data Scientists	194400	NY,CA,WA
+Twitch Interactive, Inc.	San Francisco	CA	36	Software Developers; Data Scientists; Business Intelligence Analysts	194400	CA,NY,WA
 Two Bros Food, Inc.	Alhambra	CA	1	Management Analysts		MD
 TWO Capital Partners, LLC	Atlanta	GA	1	Data Scientists		GA
 Two Cent Software Inc.	Sacramento	CA	1	Market Research Analysts and Marketing Specialists		TX
@@ -6402,7 +6402,7 @@ U.S. Tent Rental, LLC	Sarasota	FL	1	Chief Executives		FL
 UAH Technologies LLC	Farmers Branch	TX	5	Software Developers; Computer Programmers	135000	TX
 UB Technology Innovations, Inc	Anaheim	CA	2	Software Developers		CA
 UBC Technology Services, Inc.	Fort Mill	SC	1	Civil Engineers		SC
-Uber Technologies, Inc.	San Francisco	CA	681	Software Developers; Data Scientists; Operations Research Analysts	191800	CA,NY,WA
+Uber Technologies, Inc.	San Francisco	CA	469	Software Developers; Data Scientists; Operations Research Analysts	191800	CA,NY,WA
 Ubiety Technologies, Inc.	Chicago	IL	1	Software Developers		IL
 Ubiquant US Tech, LLC	New York	NY	5	Information Security Engineers; Financial Quantitative Analysts; Statisticians	160000	NY
 Ucode Technologies LLC	Ashburn	VA	3	Software Developers; Computer Programmers	111100	VA,AZ,NC
@@ -6670,7 +6670,7 @@ West Advanced Technologies, Inc.	Folsom	CA	13	Software Developers; Data Scientis
 West Tampa Glass Company	Tampa	FL	1	Construction Managers		FL
 West Technology Group, LLC	Omaha	NE	4	Software Developers; Operations Research Analysts	108500	NE,TX
 West Texas A&M University	Canyon	TX	7	Education Teachers, Postsecondary; Engineering Teachers, Postsecondary; Biological Science Teachers, Postsecondary	71500	TX
-Western Digital Technologies, Inc.	San Jose	CA	1840	Electronics Engineers, Except Computer; Industrial Engineers; Software Developers	148300	CA,CO,MN
+Western Digital Technologies, Inc.	San Jose	CA	160	Electronics Engineers, Except Computer; Industrial Engineers; Software Developers	148300	CA,CO,MN
 Wetour Travel Tech LLC	Austin	TX	1	Budget Analysts		TX
 White Collar Technologies, Inc	Nazareth	PA	18	Compliance Officers; Validation Engineers; Software Developers	84500	NJ,MA,NC
 White Peak Trading Company Inc.	New York	NY	1	Business Intelligence Analysts		NY
@@ -6684,7 +6684,7 @@ Wildcat TMS LLC	Columbus	OH	2	Software Developers		OH
 Willis Towers Watson Southeast Inc.	New York	NY	1	Statistical Assistants		WV
 Willis Towers Watson US LLC	New York	NY	33	Statistical Assistants; Actuaries; Compensation, Benefits, and Job Analysis Specialists	113000	NY,VA,CA
 Willow Creek Perfect Teeth PC	Orange	CA	1	Dentists, General		CO
-Willsfly Technologies Inc	Spokane	WA	21	Software Developers; Information Security Analysts; General and Operations Managers	122700	WA
+Willsfly Technologies Inc	Spokane	WA	20	Software Developers; Information Security Analysts; Data Scientists	122700	WA
 Willsmarg Technologies LLC	Richmond	VA	13	Software Developers; Information Security Analysts; Computer Network Architects	108600	VA
 Wimberly Allison Tong & Goo NA, Inc.	Tustin	CA	4	Architects, Except Landscape and Naval; Sustainability Specialists; Urban and Regional Planners		CA
 Window Therapeutics, Inc.	Boston	MA	2	Biochemists and Biophysicists		MA
@@ -6778,7 +6778,7 @@ Zebra Technologies Corporation	Lincolnshire	IL	31	Software Quality Assurance Ana
 Zeeto Technologies, Inc.	Princeton	NJ	13	Software Developers; Network and Computer Systems Administrators; Information Security Analysts		TX,WA,CA
 Zemoso Technologies Inc	Plano	TX	1	Information Technology Project Managers		TX
 Zen Trading LLC	Pelham	AL	1	Logisticians		AL
-Zensar Technologies, Inc.	Chicago	IL	218	Computer Systems Analysts; Software Developers; Computer Programmers	115000	CA,NC,GA
+Zensar Technologies, Inc.	Chicago	IL	102	Computer Systems Analysts; Information Technology Project Managers; Software Developers	115000	CA,NC,GA
 Zepsor Technologies, Inc.	Burlington	MA	1	Nanosystems Engineers		MA
 Zepto Life Technology, Inc.	Saint Paul	MN	1	Industrial Engineers		MN
 Zero to One Media Inc.	Dover	DE	1	Producers and Directors		PA

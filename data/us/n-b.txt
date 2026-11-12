@@ -170,7 +170,7 @@ Asia Star Broadcasting, Inc	North Brunswick	NJ	1	Market Research Analysts and Ma
 Asian American Business Development Center, Inc.	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
 Asian Business Care Insurance Services, Inc.	San Mateo	CA	2	Management Analysts		CA
 Asphalt Buyer II, LLC	Huntersville	NC	1	Software Developers		NC
-Asset Builders LLC	Miramar	FL	6	Civil Engineers; Construction Managers	60000	FL
+Asset Builders LLC	Miramar	FL	3	Civil Engineers; Construction Managers	60000	FL
 Associated Banc-Corp	Green Bay	WI	3	Software Quality Assurance Analysts and Testers; Statisticians; Data Scientists	117000	WI,NJ
 Associated Boiler Line Equipment Company, Inc.	Milford	CT	1	Electronics Engineers, Except Computer		CT
 Association To Benefit Children	New York	NY	5	Child, Family, and School Social Workers; Special Education Teachers, Preschool	66600	NY
@@ -192,7 +192,7 @@ Austin J. Birch, P.C.	Quincy	MA	1	Judicial Law Clerks		MA
 Australia And New Zealand Banking Group Limited	New York	NY	1	Accountants and Auditors		NY
 Authentic Brands Group LLC	New York	NY	1	Chief Executives		NY
 Automated Benefit Services, Inc.	St. Louis	MO	1	Software Developers		NJ
-Automated Building Management Systems, Inc.	Floral Park	NY	3	Cost Estimators; Computer Occupations, All Other		NY
+Automated Building Management Systems, Inc.	Floral Park	NY	2	Computer Occupations, All Other; Cost Estimators		NY
 Avance Biosciences Inc.	Houston	TX	2	Biochemists and Biophysicists; Biological Scientists, All Other		TX
 Avery Bio Corporation	La Jolla	CA	3	Electronics Engineers, Except Computer; Biochemists and Biophysicists; Chemists	137000	CA
 Avid Bioservices, Inc.	Tustin	CA	2	Electronics Engineers, Except Computer; Molecular and Cellular Biologists		CA
@@ -292,7 +292,7 @@ Baidu USA LLC	Mountain View	CA	1	Accountants and Auditors		CA
 Baik Brands, Inc	Dallas	TX	2	Business Intelligence Analysts; Logistics Analysts		TX
 Baillie Lumber Co., L.P.	Hamburg	NY	1	Computer Systems Analysts		NY
 Baim Institute for Clinical Research	Boston	MA	2	Medical Scientists, Except Epidemiologists; Regulatory Affairs Specialists		MA
-Bain & Company, Inc.	Boston	MA	424	Management Analysts; Data Scientists; Web and Digital Interface Designers	192000	CA,IL,TX
+Bain & Company, Inc.	Boston	MA	69	Management Analysts; Data Scientists; Web and Digital Interface Designers	192000	CA,IL,NY
 Bain Capital, LP	Boston	MA	10	Financial and Investment Analysts; Software Developers; Computer Systems Analysts	179100	MA,CA,NY
 Baird Medical LLC	Martinsburg	WV	1	Epidemiologists		PA
 Baiya International Group Inc.	New York	NY	2	Financial Specialists, All Other; Compliance Officers		NY
@@ -339,13 +339,13 @@ Ball Bounce and Sport, Inc.	Ashland	OH	1	Business Intelligence Analysts		OH
 Ball Horticultural Company	West Chicago	IL	1	Soil and Plant Scientists		IL
 Ball Sb, L.c.	Miami	FL	1	Business Intelligence Analysts		FL
 Ball State University	Muncie	IN	11	Coaches and Scouts; Computer Science Teachers, Postsecondary; Secondary School Teachers, Except Special and Career/Technical Education	60000	IN
-Ballad Health	Johnson City	TN	101	Registered Nurses; Financial and Investment Analysts		TN
+Ballad Health	Johnson City	TN	3	Registered Nurses; Financial and Investment Analysts		TN
 Ballard Marine Construction, LLC	Washougal	WA	1	Civil Engineers		MD
 Ballard Spahr LP	Philadelphia	PA	1	Data Scientists		NJ
 Ballentine Partners, LLC	Waltham	MA	1	Financial and Investment Analysts		MA
 Ballinger Company	Philadelphia	PA	2	Electrical Engineers		PA
 Ballinger Memorial Hospital District	Ballinger	TX	1	Medical and Clinical Laboratory Technologists		TX
-Ballon Stoll P.C.	New York	NY	3	Paralegals and Legal Assistants; Graphic Designers		NY
+Ballon Stoll P.C.	New York	NY	2	Graphic Designers; Paralegals and Legal Assistants		NY
 Balluff, Inc.	Florence	KY	1	Sales Engineers		KY
 Bally's Interactive, LLC	Providence	RI	1	Computer and Information Systems Managers		NV
 Balridge & Associates Structural Engineering, Inc.	Honolulu	HI	2	Civil Engineers		IL
@@ -387,7 +387,7 @@ Bank Hapoalim B.M.	New York	NY	1	Compliance Officers		NY
 Bank Irvine	Irvine	CA	4	Financial Examiners; Accountants and Auditors; Information Security Analysts	91100	CA
 Bank Of America Corporation	Charlotte	NC	1	Software Developers		TX
 Bank Of America N.A.	Charlotte	NC	389	Software Developers; Financial Quantitative Analysts; Financial and Investment Analysts	153800	NC,NJ,TX
-Bank of China	New York	NY	58	Financial Quantitative Analysts; Accountants and Auditors; Financial Examiners	81100	NY,CA
+Bank of China	New York	NY	40	Financial Quantitative Analysts; Data Scientists; Accountants and Auditors	81100	NY,CA
 Bank of Hope	Los Angeles	CA	6	Software Developers; Financial Quantitative Analysts; Financial Risk Specialists	93500	CA,TX,KY
 Bank of Montreal	Chicago	IL	9	Financial and Investment Analysts; Financial Quantitative Analysts; Financial Risk Specialists	165000	NY,IL
 Bank of the Orient	Millbrae	CA	3	Accountants and Auditors	137900	CA
@@ -431,7 +431,7 @@ Bara Consulting, Inc.	Edison	NJ	2	Data Scientists; Software Developers		TX
 Barakat Bossa, PLLC	Coral Gables	FL	2	Lawyers		FL
 Barakat Pt PC	Staten Island	NY	1	Therapists, All Other		NY
 Barbacane, Thornton, and Company LLP	Wilmington	DE	1	Accountants and Auditors		DE
-Barbara Ann Karmanos Cancer Institute	Detroit	MI	12	Physicians, All Other; Medical and Health Services Managers; Healthcare Diagnosing or Treating Practitioners, All Other		MI,OH
+Barbara Ann Karmanos Cancer Institute	Detroit	MI	4	Physicians, All Other; Medical and Health Services Managers; Healthcare Diagnosing or Treating Practitioners, All Other		MI,OH
 BARBRI, Inc	Dallas	TX	1	Data Scientists		IL
 Barclays Bank Delaware	New York	NY	27	Credit Analysts; Financial and Investment Analysts; Financial Quantitative Analysts	140000	DE,NY,TX
 Barclays Bank PLC	New York	NY	5	Financial and Investment Analysts; Credit Analysts; Financial Quantitative Analysts	215000	NY,NJ
@@ -450,7 +450,7 @@ BarkBox, Inc.	New York	NY	2	Operations Research Analysts		NY,MA
 Barking Labs Corp.	New York	NY	1	Financial and Investment Analysts		NY
 Barklays Logistics Inc.	College Point	NY	1	Market Research Analysts and Marketing Specialists		NY
 Barksdale, Inc.	Los Angeles	CA	3	Sales Engineers; Industrial Engineers; Computer Systems Engineers/Architects	102500	CA
-Barlow Respiratory Hospital	Los Angeles	CA	5	Critical Care Nurses		CA
+Barlow Respiratory Hospital	Los Angeles	CA	1	Critical Care Nurses		CA
 Barn Owl Precision Agriculture Inc.	La Junta	CO	1	Mechanical Engineers		CO
 Barnabas Health Medical Group, P.C.	West Orange	NJ	8	Family Medicine Physicians; Psychiatrists; General Internal Medicine Physicians	169400	NJ
 Barnabas LLC	Loveland	CO	1	Financial and Investment Analysts		CO
@@ -491,7 +491,7 @@ Base Consultants	Orlando	FL	2	Civil Engineers		FL
 Base Design Corp	New York	NY	1	Graphic Designers		NY
 BASE Micronesia, Inc.			1	Civil Engineers		
 Base Note LLC	New Haven	CT	1	Management Analysts		CT
-Base Power, Inc.	Austin	TX	9	Supply Chain Managers; Project Management Specialists; Electrical Engineers	142200	TX,CA
+Base Power, Inc.	Austin	TX	8	Supply Chain Managers; Project Management Specialists; Data Scientists	142200	TX,CA
 Baseball Club of Seattle	Seattle	WA	1	Software Developers		WA
 BasePoint Capital LLC	New York	NY	1	Software Developers		NY
 Baseten Labs, Inc.	San Francisco	CA	20	Software Developers; Computer and Information Systems Managers; Computer and Information Research Scientists	200500	CA,WA,NY
@@ -516,7 +516,7 @@ Bastian Solutions LLC	Carmel	IN	4	Electrical Engineers; Logistics Engineers; Mec
 Bastion Platforms, Inc.	New York	NY	1	Software Developers		CA
 Bastrop Modern Dentistry	Irvine	CA	1	Dentists, General		TX
 Batchship Inc	City of Industry	CA	1	Logistics Engineers		CA
-Bates White, LLC	Washington	DC	3	Economists		DC
+Bates White, LLC	Washington	DC	1	Economists		DC
 Bath & Body Works Brand Management, Inc.	Columbus	OH	2	Market Research Analysts and Marketing Specialists; Commercial and Industrial Designers		IL,OH
 Bath & Body Works Direct, Inc.	Columbus	OH	2	Web Developers; Operations Research Analysts		TX,OH
 Bath & Body Works Logistics Services, LLC	Columbus	OH	2	Logisticians; Database Architects		OH
@@ -668,7 +668,7 @@ BDT Capital Partners, LLC	Chicago	IL	12	Financial and Investment Analysts; Econo
 Be Lingual Preschool LLC	Hoboken	NJ	2	Instructional Coordinators; Elementary School Teachers, Except Special Education		NJ
 Be Luxury Consulting LLC	New York	NY	1	Graphic Designers		NY
 Be the Change Foundation	Cupertino	CA	1	Data Scientists		NY
-BEA Architects Inc.	Miami	FL	3	Architectural and Civil Drafters; Market Research Analysts and Marketing Specialists		FL
+BEA Architects Inc.	Miami	FL	2	Market Research Analysts and Marketing Specialists; Architectural and Civil Drafters		FL
 Beacon Biosignals, Inc.	Boston	MA	1	Software Quality Assurance Analysts and Testers		MA
 Beacon Capital Partners LLC	Boston	MA	1	Financial and Investment Analysts		CA
 Beacon Climate Innovations LLC	Wellesley	MA	1	Market Research Analysts and Marketing Specialists		MA
@@ -698,7 +698,7 @@ Bear Construction LLC	Murfreesboro	TN	1	Cost Estimators		TN
 Bear Mountain Partners LLC	Jersey City	NJ	1	Management Analysts		NJ
 Bear Robotics, Inc.	Redwood City	CA	5	Robotics Engineers; Software Developers; Market Research Analysts and Marketing Specialists	166600	CA
 Bear Tech Inc	Berkeley	CA	1	Management Analysts		CA
-Bear Valley Community Healthcare District	Big Bear Lake	CA	2	Medical and Clinical Laboratory Technologists		CA
+Bear Valley Community Healthcare District	Big Bear Lake	CA	1	Medical and Clinical Laboratory Technologists		CA
 Bear Valley Dental Care Gps LLC	Boyertown	PA	1	Dentists, General		PA
 Bearing Distributors Inc	Cleveland	OH	2	Software Developers		OH
 BeatBread Limited	St. George	UT	1	Software Quality Assurance Analysts and Testers		UT
@@ -784,7 +784,7 @@ Belcan Services Group LTD Partnership	Cincinnati	OH	4	Software Developers; Mecha
 Belcher Pharmaceuticals, LLC	Largo	FL	9	Chemists; Compliance Officers; Regulatory Affairs Managers	83600	FL
 Belcher, Smolen & Van Loo LLP	San Francisco	CA	3	Judicial Law Clerks	125000	NJ
 Belden Inc.	St. Louis	MO	4	Industrial Engineers; Management Analysts; Market Research Analysts and Marketing Specialists	105400	IN,MN,NJ
-Belen Consolidated Schools	Belen	NM	6	Special Education Teachers, Elementary School; Special Education Teachers, All Other; Elementary School Teachers, Except Special Education	63700	NM
+Belen Consolidated Schools	Belen	NM	5	Special Education Teachers, Elementary School; Special Education Teachers, All Other; Elementary School Teachers, Except Special Education	63700	NM
 BelenITS LLC	San Antonio	TX	2	Software Developers		TX
 Belfry Software, Inc.	New York	NY	3	Software Developers	189600	NY,NJ
 Belhaven University	Jackson	MS	1	Education Administrators, Postsecondary		MS
@@ -1052,7 +1052,7 @@ BharCap Partners, LLC	Greenwich	CT	4	Data Scientists		CT
 Bharti Desai CPA, PC	Marietta	GA	1	Accountants and Auditors		GA
 Bhate Environmental Associates, Inc.	Birmingham	AL	1	Project Management Specialists		AL
 Bhatia & Co, Inc, Cpas	Santa Clara	CA	3	Financial and Investment Analysts		CA
-Bhatia Dental Corporation	Fresno	CA	2	Dentists, General		CA
+Bhatia Dental Corporation	Fresno	CA	1	Dentists, General		CA
 Bhavisoft LLC	Skillman	NJ	4	Computer Programmers; Computer Systems Engineers/Architects; Information Security Engineers	95000	NJ,SC
 Bhavya Chaudhary And Associates LLC	Norcross	GA	1	Judicial Law Clerks		GA
 BHC Consultants, LLC	Seattle	WA	1	Civil Engineers		WA
@@ -1118,7 +1118,7 @@ Bildmore Management Services LLC	Houston	TX	1	Financial and Investment Analysts	
 Bilfinger Industrial Services Inc.	The Woodlands	TX	1	Database Architects		KS
 Bilin Academy Inc	Chicago	IL	1	Education Administrators, All Other		WA
 Bilingual Buds NYC Inc.	New York	NY	3	Kindergarten Teachers, Except Special Education; Elementary School Teachers, Except Special Education	63000	NY
-Bilinguals Inc.	Forest Hills	NY	145	Speech-Language Pathologists; Special Education Teachers, Preschool; Healthcare Social Workers	66700	NY
+Bilinguals Inc.	Forest Hills	NY	12	Speech-Language Pathologists; Healthcare Social Workers; Special Education Teachers, Preschool	66700	NY
 Bill Austin & Associates, Inc.	Columbus	IN	2	Software Developers		IN
 Bill Good Marketing, Inc	South Jordan	UT	1	Market Research Analysts and Marketing Specialists		UT
 Bill Me Later, Inc.	San Jose	CA	8	Software Developers; Data Scientists; Computer and Information Systems Managers	187000	NY,TX,DC
@@ -1241,7 +1241,7 @@ Birlasoft Computer Corporation	Edison	NJ	10	Software Developers; Network and Com
 Birlasoft Consulting, Inc.	Edison	NJ	5	Software Quality Assurance Analysts and Testers; Information Technology Project Managers; Software Developers	135000	TX,NJ
 Birlasoft Inc	Edison	NJ	67	Software Developers; Computer Systems Engineers/Architects; Software Quality Assurance Analysts and Testers	98900	OH,TX,NJ
 Birlasoft Solutions, Inc.	Edison	NJ	49	Software Developers; Computer Systems Analysts; Information Technology Project Managers	118100	TX,IN,NJ
-BirthBase, LLC	Boise	ID	2	Computer Occupations, All Other		ID
+BirthBase, LLC	Boise	ID	1	Computer Occupations, All Other		ID
 Bishop Luers High School	Fort Wayne	IN	1	Secondary School Teachers, Except Special and Career/Technical Education		IN
 Bison Production Company	Alpharetta	GA	1	Market Research Analysts and Marketing Specialists		GA
 Biswas Information Technology Solutions Inc.	Herndon	VA	5	Computer Programmers; Software Developers	92000	VA
@@ -1304,8 +1304,8 @@ Black & Veatch Management Consulting, LLC	Overland Park	KS	4	Management Analysts
 Black & Veatch Puerto Rico PSC	Overland Park	KS	2	Electrical Engineers		
 Black Bear Asset Management, LLC	New York	NY	1	Financial and Investment Analysts		NY
 Black Canyon Consulting LLC	Fairfax	VA	6	Software Developers; Computer and Information Systems Managers; Bioinformatics Scientists	92700	MD,VA,TN
-Black Construction Corporation			12	Civil Engineers; Geodetic Surveyors; Electrical Engineers	54200	
-Black Duck Software, Inc.	Burlington	MA	46	Network and Computer Systems Administrators; Computer and Information Systems Managers; Software Developers	144000	MA,TX,WA
+Black Construction Corporation			11	Civil Engineers; Electrical Engineers; Geodetic Surveyors	54200	
+Black Duck Software, Inc.	Burlington	MA	8	Software Developers; Network and Computer Systems Administrators; Computer and Information Systems Managers	144000	MA,TX,WA
 Black Edge Capital LLC	Chicago	IL	1	Financial Quantitative Analysts		IL
 Black Fin Homes, Inc.	West Palm Beach	FL	1	Civil Engineers		FL
 Black Forest Labs Inc.	San Francisco	CA	1	Software Developers		PA
@@ -1357,7 +1357,7 @@ BleachTech LLC	Seville	OH	2	Industrial Production Managers; Chemical Engineers		
 Bleichert, Inc.	Shelby Township	MI	1	Mechanical Engineers		MI
 Bleichmar Fonti & Auld LLP	New York	NY	1	Data Scientists		NY
 Blend Labs, Inc.	Novato	CA	5	Software Developers; Information Security Engineers; Data Scientists	145000	CA,TX,NC
-BLEND360, LLC	Columbia	MD	25	Data Scientists; Business Intelligence Analysts; Database Architects	127500	MD,CO,CA
+BLEND360, LLC	Columbia	MD	24	Data Scientists; Business Intelligence Analysts; Database Architects	127500	MD,CO,NJ
 Blendco Incorporated	Hattiesburg	MS	2	Food Scientists and Technologists; Food Science Technicians		MS
 BlendTec, Inc.	Orem	UT	1	Accountants and Auditors		UT
 Blessing Hospital	Quincy	IL	3	Medical and Clinical Laboratory Technologists; Pediatricians, General		IL
@@ -1405,7 +1405,7 @@ Bloom Insurance Agency, LLC	Bloomington	IN	7	Software Developers; Database Archi
 Bloom Studios Inc.	New York	NY	1	Software Developers		NY
 Bloomberg Index Services Limited	New York	NY	1	Statisticians		NY
 Bloomberg Industry Group, Inc.	Arlington	VA	8	Software Developers; Information Technology Project Managers; Editors	180000	VA
-Bloomberg L.P.	New York	NY	867	Software Developers; Computer and Information Systems Managers; News Analysts, Reporters, and Journalists	160800	NY,NJ,CA
+Bloomberg L.P.	New York	NY	261	Software Developers; Computer and Information Systems Managers; Data Scientists	160800	NY,NJ,CA
 Bloomfield Dental Care	Bloomfield	CT	2	Dentists, General		CT
 Bloomfield Robotics, Inc.	Pittsburgh	PA	2	Robotics Engineers; Software Developers		PA
 Blooming Clouds LLC	Horseshoe Bay	TX	3	Software Quality Assurance Analysts and Testers; Software Developers	88100	IL,PA
@@ -1494,7 +1494,7 @@ Blue Sky HVAC Corp.	Bellerose	NY	1	Mechanical Engineers		NY
 Blue Sky Metals LLC	Palmetto	FL	2	Project Management Specialists; Accountants and Auditors		FL
 Blue Sky School Of Bellevue LLC	Bellevue	WA	1	Project Management Specialists		CA
 Blue Space Technologies Inc	Houston	TX	13	Software Developers; Information Security Engineers; Computer Occupations, All Other	85000	TX,NC,GA
-Blue Spire, Inc.	Phoenix	AZ	11	Software Developers; Computer and Information Systems Managers; Computer Programmers	113000	AZ,FL
+Blue Spire, Inc.	Phoenix	AZ	6	Software Developers; Computer and Information Systems Managers; Computer Programmers	113000	AZ,FL
 Blue Sprig Pediatrics, Inc.	Houston	TX	1	Data Scientists		TX
 Blue Star Strategies, LLC	Washington	DC	1	Social Scientists and Related Workers, All Other		DC
 Blue Steel Marine LLC			2	Mechanical Engineers		
@@ -1513,7 +1513,7 @@ Bluebeam, Inc.	Pasadena	CA	1	Software Developers		CA
 Bluebird Bio, Inc.	Somerville	MA	2	Accountants and Auditors; Bioengineers and Biomedical Engineers		MA
 BlueBird CPAs	Reno	NV	3	Accountants and Auditors	78000	NV
 Bluebix Solutions Inc	Plano	TX	4	Software Developers	95500	IL,IN
-Bluebono LLC	Pasadena	CA	2	Market Research Analysts and Marketing Specialists		CA
+Bluebono LLC	Pasadena	CA	1	Market Research Analysts and Marketing Specialists		CA
 Bluebris Systems Inc	Niles	IL	4	Data Scientists; Software Quality Assurance Analysts and Testers; Database Administrators	87200	IL,IN,PA
 BlueCloud Services, Inc.	Tampa	FL	3	Information Technology Project Managers; Computer Systems Engineers/Architects; Data Scientists	147000	FL,NC,IL
 Bluecore, Inc.	New York	NY	2	Data Scientists		NY,VA
@@ -1562,7 +1562,7 @@ Blumetra Solutions, LLC	Houston	TX	2	Information Technology Project Managers; So
 Bluo Software LLC	Houston	TX	2	Software Developers		TX,OK
 BlupaceUS LLC	Manassas	VA	8	Software Developers; Management Analysts; Data Scientists		OH,TX,DC
 Blush Dental & Orthodontics P.C.	Houston	TX	1	Dentists, General		TX
-Blusvn LLC	Scottsdale	AZ	4	Software Developers		AZ
+Blusvn LLC	Scottsdale	AZ	2	Software Developers		AZ
 Bluvium Inc.	The Woodlands	TX	3	Software Developers	90000	TX
 Blymyer Engineers, Inc.	Alameda	CA	1	Accountants and Auditors		CA
 BMA Enterprises Inc.	Wood Dale	IL	1	Construction Managers		IL
@@ -1581,7 +1581,7 @@ BMK Americas LLC	Lexington	NC	1	Architectural and Engineering Managers		NC
 BMLL Technologies, Inc.	Dover	DE	1	Data Scientists		NY
 BMO Bank N.A.	Chicago	IL	15	Business Intelligence Analysts; Software Developers; Data Scientists	135600	CA,IL,TX
 BMO Capital Markets Corp.	Chicago	IL	7	Financial and Investment Analysts; Financial Quantitative Analysts; Software Developers	200000	NY
-BMR Health Services, Inc.	Pleasanton	CA	17	Speech-Language Pathologists		CA,TX
+BMR Health Services, Inc.	Pleasanton	CA	12	Speech-Language Pathologists		CA,TX
 Bmr Infotek, Inc	Dublin	CA	12	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	111100	AZ,MA,CA
 Bmrobot Llc.	New York	NY	1	Logisticians		NY
 BMT Commercial USA, Inc.	Houston	TX	1	Electrical Engineers		TX
@@ -1591,7 +1591,7 @@ BMW Financial Services NA, LLC	Columbus	OH	6	Software Developers; Computer and I
 BMW of North America, LLC	Woodcliff Lake	NJ	2	Data Scientists; Marketing Managers		NJ
 BMWC Constructors, Inc	Indianapolis	IN	1	Civil Engineers		IN
 BNA Homebase LLC	Mount Juliet	TN	1	Occupational Health and Safety Technicians		TN
-BNB Design, LLC	Bonner Springs	KS	2	Architects, Except Landscape and Naval		KS
+BNB Design, LLC	Bonner Springs	KS	1	Architects, Except Landscape and Naval		KS
 BNB Tech Source Inc	Chandler	AZ	2	Software Quality Assurance Analysts and Testers; Software Developers		FL,AZ
 BNBuilders, Inc.	Seattle	WA	2	Civil Engineers; Web Developers		CA,WA
 BNH Technologies, Inc.	Freehold	NJ	1	Software Developers		TX
@@ -1728,7 +1728,7 @@ Boost Robotics, Inc.	Somerville	MA	1	Robotics Engineers		MA
 Boost.ai, Inc.	Boston	MA	1	Project Management Specialists		MA
 Boots Retail USA, Inc.	Chicago	IL	1	Market Research Analysts and Marketing Specialists		IL
 Booz Allen Hamilton Inc.	McLean	VA	5	Software Developers	157800	DC,MD,GA
-Bop LLC	Seattle	WA	32	Business Intelligence Analysts; Software Developers; Data Scientists	120500	NY
+Bop LLC	Seattle	WA	5	Business Intelligence Analysts; Data Scientists; Software Developers	120500	NY
 Boppana Primary Care Clinic, PLLC	Richardson	TX	1	Nurse Practitioners		TX
 BOR USGA obo Augusta University	Augusta	GA	36	Medical Scientists, Except Epidemiologists; Anesthesiologists; Biological Technicians	81500	GA
 Borah Goldstein Nahins & Goidel, P.C.	New York	NY	2	Lawyers		NY
@@ -1793,7 +1793,7 @@ Boston Institute of Biotechnology LLC	Southborough	MA	1	Biological Technicians		
 Boston International Media Consulting, Inc.	Quincy	MA	2	Film and Video Editors; Public Relations Specialists		MA
 Boston Masonry, Inc.	Boston	MA	1	Cost Estimators		MA
 Boston Materials, Inc.	Billerica	MA	1	Materials Engineers		MA
-Boston Medical Center Corporation	Boston	MA	35	Physicians, All Other; Data Scientists; Operations Research Analysts	87000	MA,IL,TX
+Boston Medical Center Corporation	Boston	MA	32	Physicians, All Other; Data Scientists; Operations Research Analysts	87000	MA,IL,TX
 Boston Medical Center Health Plan, Inc.	Charlestown	MA	1	Statistical Assistants		MA
 Boston Moves Real Estate LLC	Boston	MA	1	Business Intelligence Analysts		MA
 Boston Neuro Behavioral Associates	New Bedford	MA	1	Health Information Technologists and Medical Registrars		MA
@@ -1919,7 +1919,7 @@ BrainPortfolio Inc.	Austin	TX	1	Business Intelligence Analysts		TX
 BrainRidge Consulting USA, Inc.	New York	NY	2	Business Intelligence Analysts; Software Developers		IL
 Brains Technology Solutions, Inc	Farmington Hills	MI	31	Software Developers; Computer Systems Engineers/Architects; Computer Programmers	112000	TX,MI,NE
 BrainScope Company Inc.	Rockville	MD	1	Software Developer		MD
-Brainsharp, Inc.	Orange	CA	3	Computer Programmers		CA
+Brainsharp, Inc.	Orange	CA	2	Computer Programmers		CA
 Braintree Joyful Adult Day Health Care Center LLC	Braintree	MA	2	Graphic Designers		MA
 Braintree Technology Solutions LLC	Plainfield	IL	1	Software Developers		TX
 Braintrust Data, Inc.	San Francisco	CA	2	Software Developers; Computer and Information Systems Managers		CA
@@ -2033,7 +2033,7 @@ Bridgenexus Technologies Inc	Fremont	CA	2	Computer Systems Engineers/Architects	
 Bridgent USA, Inc.	Covina	CA	1	Computer Systems Engineers/Architects		CA
 BridgePoint Recruiters LLC	Princeton	NJ	2	Computer Hardware Engineers; Industrial Engineers		OH,NC
 Bridgeport Chemists, Inc.	Bridgeport	CT	1	Medical and Health Services Managers		CT
-Bridgeport Hospital	Bridgeport	CT	10	Physicians, All Other	98300	CT
+Bridgeport Hospital	Bridgeport	CT	6	Physicians, All Other	98300	CT
 Bridger Companies, Inc.	Brooklyn	NY	1	Software Developers		NY
 Bridger Insurance Services	Pleasanton	CA	1	Computer Programmers		CA
 Bridger Veterinary Specialists LLC	Bozeman	MT	1	Veterinarians		MT
@@ -2176,7 +2176,7 @@ Broadata Communications Inc.	Torrance	CA	2	Software Developers		IL,CA
 Broadaxis Inc	Plano	TX	9	Computer Systems Engineers/Architects; Software Developers; Software Quality Assurance Analysts and Testers	92700	TX,GA
 Broadband Telcom Power Inc	Irvine	CA	1	Electrical Engineers		CA
 BroadcastMed, LLC	Tampa	FL	1	Software Developers		FL
-Broadcom Corporation	Palo Alto	CA	207	Electronics Engineers, Except Computer; Software Developers; Software Quality Assurance Analysts and Testers	173900	CA,MA,TX
+Broadcom Corporation	Palo Alto	CA	40	Electronics Engineers, Except Computer; Software Developers; Software Quality Assurance Analysts and Testers	173900	CA,MA,TX
 Broadfield US LLP	New York	NY	1	Lawyers		NY
 Broadgate, Inc.	Troy	MI	1	Computer Systems Analysts		CA
 Broadhead, LLC	Minneapolis	MN	2	Market Research Analysts and Marketing Specialists		MN
@@ -2185,7 +2185,7 @@ Broadminds Inc	Round Rock	TX	1	Software Developers		TX
 BroadPeak Partners, LLC	Rochester	NY	2	Network and Computer Systems Administrators		NY
 Broadrange Technologies Inc	Lewisville	TX	16	Computer Programmers	79400	TX,CO,OH
 Broadridge Financial Solutions, Inc.	Newark	NJ	45	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	147800	NJ,TX,NY
-BroadSpan Capital LLC	Miami	FL	2	Financial and Investment Analysts		FL
+BroadSpan Capital LLC	Miami	FL	1	Financial and Investment Analysts		FL
 Broadtrade Group Inc.	New York	NY	1	Sustainability Specialists		NY
 Broadtrade Technical Inc.	New York	NY	2	Operations Research Analysts		NY
 Broadview School District	Broadview	MT	1	Special Education Teachers, All Other		MT
@@ -2193,7 +2193,7 @@ Broadway Asia International, LLC	New York	NY	1	Market Research Analysts and Mark
 Broadway Builders LLC	New York	NY	1	Civil Engineers		NY
 Broadway Software LLC	Aurora	IL	1	Software Developers		VA
 BROASTER Company	Beloit	WI	1	Mechanical Engineers		WI
-Brocade Communications Systems LLC	Palo Alto	CA	10	Software Developers; Electronics Engineers, Except Computer		CA
+Brocade Communications Systems LLC	Palo Alto	CA	2	Software Developers; Electronics Engineers, Except Computer		CA
 Brockport Dental PLLC	Brockport	NY	1	Prosthodontists		NY
 Brockton Neighborhood Health Center	Brockton	MA	6	Dentists, General; Physicians, All Other; Pediatricians, General	225000	MA
 Broeren Russo Builders, Inc.	Champaign	IL	2	Construction Managers		IL
@@ -2207,7 +2207,7 @@ Bronson Point Management LLC	Fairfield	CT	1	Financial and Investment Analysts		C
 Bronson South Haven Hospital	South Haven	MI	1	Family Medicine Physicians		MI
 Brontide LLC	Bethesda	MD	2	Accountants and Auditors		MD
 BronxCare Dr. Martin Luther King Jr. Health Center, Inc.	Bronx	NY	3	General Internal Medicine Physicians	245000	NY
-BronxCare Health System	Bronx	NY	19	Physicians, All Other; Family Medicine Physicians; Orthopedic Surgeons, Except Pediatric	125300	NY
+BronxCare Health System	Bronx	NY	17	Physicians, All Other; Family Medicine Physicians; Orthopedic Surgeons, Except Pediatric	125300	NY
 Broodx Technology Inc	San Mateo	CA	4	Statisticians; Market Research Analysts and Marketing Specialists		CA
 Brookdale Employee Services - Corporate, LLC	Brentwood	TN	1	Operations Research Analysts		TN
 Brookfield Asset Management LLC	New York	NY	21	Financial and Investment Analysts; Accountants and Auditors; Lawyers	200000	NY,IL,TX
@@ -2261,7 +2261,7 @@ Brownstone International, Inc.	Portland	OR	1	Accountants and Auditors		OR
 Brownsville Piano Studio LLC	Brownsville	TX	1	Self-Enrichment Teachers		TX
 Browse Info Solutions Inc	Canton	MI	4	Software Developers	101400	NE,MI
 Browserbase Inc.	San Francisco	CA	2	Sales Engineers; Software Developers		CA
-BRP US, Inc.	Sturtevant	WI	3	Business Intelligence Analysts; Logistics Engineers		TX,WI
+BRP US, Inc.	Sturtevant	WI	2	Logistics Engineers; Business Intelligence Analysts		WI,TX
 BRP Veterinary Lone Star, PC	Chicago	IL	1	Veterinarians		TX
 BRTU Construction, Inc.	Atlanta	GA	2	Construction Managers		GA
 Bruce E Bernstien & Associates, PLLC	Dallas	TX	1	Accountants and Auditors		TX
@@ -2389,12 +2389,12 @@ Bulfinch Group Insurance Agency LLC	Needham	MA	2	Personal Financial Advisors		MA
 Bulk Lift International, LLC	Rolling Meadows	IL	1	Materials Scientists		NC
 Bulk Natural, LLC	Hillsboro	OR	1	Food Scientists and Technologists		OR
 Bulk Transport Corp	Michigan City	IN	1	Accountants and Auditors		IN
-BulkBuddy LLC	Los Angeles	CA	3	Graphic Designers; Operations Research Analysts		CA
+BulkBuddy LLC	Los Angeles	CA	2	Operations Research Analysts; Graphic Designers		CA
 Bull Attorneys, P.A.	Wichita	KS	1	Web Administrators		KS
 Bull Cubed LLC	Dover	DE	1	Accountants and Auditors		DE
 Bull Moose Heavy Haul, Inc.	Manchester	IA	2	Mechanical Engineers		IA
 Bulldog Medical, Inc.	Albany	NY	1	Business Intelligence Analysts		IL
-Bullhead City Clinic Corporation	Bullhead City	AZ	3	General Internal Medicine Physicians; Family Medicine Physicians		AZ
+Bullhead City Clinic Corporation	Bullhead City	AZ	2	Family Medicine Physicians; General Internal Medicine Physicians		AZ
 Bullhorn, Inc.	Boston	MA	2	Software Developers; Database Architects		GA,WI
 Bullion International Inc.	Indian Harbour Beach	FL	1	Computer Systems Analysts		FL
 Bullish US LLC	Blacksburg	VA	2	Lawyers; Web and Digital Interface Designers		NY
@@ -2420,7 +2420,7 @@ Bureau Veritas Holdings, Inc.	Houston	TX	1	Industrial Engineers		TX
 Bureau Veritas Marine, Inc.	Houston	TX	1	Marine Engineers and Naval Architects		FL
 Bureau Veritas National Elevator Inspection Services, Inc	Houston	TX	1	Electrical Engineers		TX
 Bureau Veritas North America, Inc.	Houston	TX	3	Construction Managers; Quality Control Systems Managers	120000	CA,IN,TX
-Burger & Comer, P.C.			3	Accountants and Auditors		
+Burger & Comer, P.C.			1	Accountants and Auditors		
 Burger King Company LLC	Miami	FL	2	Computer and Information Systems Managers; Property, Real Estate, and Community Association Managers		FL
 Burgess Health Center	Onawa	IA	2	Medical and Clinical Laboratory Technologists		IA
 Burgess-Norton Manufacturing Co., Inc.	Geneva	IL	1	Industrial Engineers		MI
@@ -2504,7 +2504,7 @@ Byte Wave Technologies Inc	Knoxville	TN	10	Software Developers; Human Resources 
 Byteable AI	Phoenix	AZ	1	Software Developers		AZ
 ByTeams, Inc.	Mountain View	CA	1	Software Developers		CA
 Bytebridge Technologies Inc.	Charlotte	NC	10	Software Developers; Electrical Engineers; Computer Programmers	132000	TX,NC,NJ
-ByteDance Inc.	San Jose	CA	1044	Software Developers; Data Scientists; Computer and Information Research Scientists	229900	CA,WA,NY
+ByteDance Inc.	San Jose	CA	585	Software Developers; Computer and Information Research Scientists; Data Scientists	229900	CA,WA,NY
 Byteforza, Inc.	Sterling	VA	1	Computer Programmers		VA
 ByteInfoTek Inc	Katy	TX	1	Data Scientists		NJ
 Bytelogics Inc	New York	NY	3	Commercial Pilots; Software Developers		FL
@@ -2581,7 +2581,7 @@ China Merchants Bank Co. Ltd.	New York	NY	5	Accountants and Auditors; Lawyers; M
 Church Brothers LLC	Salinas	CA	1	Industrial Production Managers		CA
 CIBC Bank USA	New York	NY	28	Business Intelligence Analysts; Financial Quantitative Analysts; Financial Risk Specialists	119200	IL,IN,AZ
 Cibecue Community Education Board Inc.	Cibecue	AZ	1	Elementary School Teachers, Except Special Education		AZ
-City National Bank	Los Angeles	CA	327	Software Developers; Financial Quantitative Analysts; Software Quality Assurance Analysts and Testers	137700	CA,NY,NC
+City National Bank	Los Angeles	CA	39	Software Developers; Software Quality Assurance Analysts and Testers; Financial Quantitative Analysts	137700	CA,NC,NY
 City of Benton Harbor	Benton Harbor	MI	1	Accountants and Auditors		MI
 City of Birmingham	Birmingham	AL	1	Transportation Engineers		AL
 City of Boston Treasury Division	Boston	MA	9	Operations Research Analysts; Urban and Regional Planners; Management Analysts		MA
@@ -2613,7 +2613,7 @@ College Board	New York	NY	2	Software Developers		VA,GA
 Colonial Beach School District	Colonial Beach	VA	2	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education		VA
 Color Brands LLC	Chicago	IL	1	Logisticians		IL
 Colossal Biosciences, Inc.	Austin	TX	2	Biologists; Molecular and Cellular Biologists		TX
-Community Based Services	North Salem	NY	7	Rehabilitation Counselors		NY
+Community Based Services	North Salem	NY	3	Rehabilitation Counselors		NY
 Community Behavioral Health, LLC	Cambridge	MD	1	Psychiatrists		MD
 Community Health Center of Buffalo Inc.	Buffalo	NY	1	Network and Computer Systems Administrators		NY
 Community Health Centers of Burlington	Burlington	VT	2	Nurse Practitioners		VT
@@ -2646,7 +2646,7 @@ County Council of Beaufort County	Beaufort	SC	1	Information Security Analysts		S
 Covariance Biosciences, LLC	Cleveland	OH	1	Bioinformatics Scientists		OH
 Covington & Burling LLP	Washington	DC	22	Lawyers; Marketing Managers	225000	NY,DC,CA
 CRB Builders, LLC	Kansas City	MO	1	Electrical Engineers		MI
-Creative Behavioral Consultants, Inc.	Calabasas	CA	2	Mental Health Counselors		CA
+Creative Behavioral Consultants, Inc.	Calabasas	CA	1	Mental Health Counselors		CA
 Creative Biogene Inc.	Shirley	NY	1	Biochemists and Biophysicists		NY
 Creature Comforts Brewing Company, LLC	Athens	GA	1	Architectural and Engineering Managers		GA
 Credit One Bank, N.A.	Las Vegas	NV	51	Data Scientists; Credit Analysts; Software Developers	84300	NV,TX
@@ -2690,13 +2690,13 @@ Deer Management Company LLC d/b/a Bessemer Venture Partners LP	Larchmont	NY	1	Ma
 Del Valle Brands, Inc.	Hialeah	FL	1	Business Intelligence Analysts		FL
 Delfers Business Solutions Inc.	New York	NY	1	Data Scientists		NY
 Dellner Bubenzer USA Inc	Spring	TX	1	Financial and Investment Analysts		TX
-Deloitte Transactions and Business Analytics LLP	Philadelphia	PA	56	Information Security Analysts; Operations Research Analysts; Financial and Investment Analysts	139700	NY,TX,TN
+Deloitte Transactions and Business Analytics LLP	Philadelphia	PA	28	Information Security Analysts; Operations Research Analysts; Financial and Investment Analysts	139700	NY,TX,TN
 Delve Bio Inc	Boston	MA	1	Bioinformatics Scientists		KS
 Denali Borough School District	Healy	AK	1	Special Education Teachers, All Other		AK
 Dentistry by Dr. Kaplansky, PLLC	Gasport	NY	1	Dentists, General		NY
 Dentistry of Brownsville, PC	Atlanta	GA	1	Dentists, General		TX
 Design B&B, LLC	Chicago	IL	1	Graphic Designers		IL
-Designer Brands, Inc.	Columbus	OH	24	Software Quality Assurance Analysts and Testers; Data Warehousing Specialists; Database Architects	122300	OH,PA
+Designer Brands, Inc.	Columbus	OH	6	Database Architects; Software Developers; Software Quality Assurance Analysts and Testers	122300	OH,PA
 DeSimone Builders	New York	NY	1	Civil Engineers		NY
 Deutsche Bank National Trust Company	New York	NY	1	Financial and Investment Analysts		CA
 Deutsche Bank New York Branch	New York	NY	11	Financial and Investment Analysts; Software Quality Assurance Analysts and Testers; Compliance Officers	150000	NY,PA
@@ -2744,7 +2744,7 @@ E.n Bathroom Renovations LLC	Lawrenceville	GA	1	Market Research Analysts and Mar
 E3 Kitchen & Bath, Inc.	Burlingame	CA	1	Interior Designers		CA
 Eagle Bancorp, Inc.	Bethesda	MD	3	Software Developers; Information Security Engineers	135700	MD
 Eagle Bend Manufacturing Inc.	Clinton	TN	1	Industrial Engineers		TN
-Eagle Butte Public School District 20-1	Eagle Butte	SD	11	Elementary School Teachers, Except Special Education		SD
+Eagle Butte Public School District 20-1	Eagle Butte	SD	2	Elementary School Teachers, Except Special Education		SD
 Eagle Butte School District 20-1	Eagle Butte	SD	2	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		SD
 Early Steps Bilingual Pre-School II INC	Vienna	VA	1	Preschool Teachers, Except Special Education		VA
 East Baton Rouge Parish School System	Baton Rouge	LA	5	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School; Special Education Teachers, Middle School	54500	LA
@@ -2959,7 +2959,7 @@ Golden Bowl, Inc	Lynchburg	VA	1	Market Research Analysts and Marketing Specialis
 Golden Bridge Education, Inc	Irvine	CA	1	Educational, Guidance, and Career Counselors and Advisors		CA
 Golden Bridge international Investment Inc.	West Covina	CA	1	Food Scientists and Technologists		CA
 Golden Lion Building Supply LLC	Honolulu	HI	1	Cost Estimators		HI
-Goldman Sachs Bank USA	New York	NY	629	Software Developers; Financial and Investment Analysts; Business Intelligence Analysts	146500	TX,NY,DE
+Goldman Sachs Bank USA	New York	NY	134	Software Developers; Business Intelligence Analysts; Financial Risk Specialists	146500	TX,NY,DE
 Gossamer Bio Services, Inc.	San Diego	CA	1	Medical and Health Services Managers		NJ
 Gotham Children Licensed Behavior Analysts PC	New York	NY	1	Mental Health Counselors		NY
 Gowan Milling Blytheville LLC	Yuma	AZ	1	Occupational Health and Safety Specialists		AR
@@ -3089,7 +3089,7 @@ Industrial and Commercial Bank of China Limited	New York	NY	1	Compensation, Bene
 Industrial and Commercial Bank of China Ltd New York Branch	New York	NY	6	Accountants and Auditors; Computer Systems Analysts; Information Security Engineers	110000	NY
 Industrial and Commercial Bank of China Ltd., NY Branch	New York	NY	3	Financial Quantitative Analysts; Securities, Commodities, and Financial Services Sales Agents	85000	NY
 Infinite Biomedical Technologies, LLC	Baltimore	MD	1	Regulatory Affairs Specialists		MA
-Infosys Bpm Limited	Richardson	TX	28	Computer Systems Engineers/Architects; Information Technology Project Managers; Management Analysts	98300	GA,TX,IA
+Infosys Bpm Limited	Richardson	TX	12	Computer Systems Engineers/Architects; Management Analysts; Information Technology Project Managers	98300	GA,TX,PA
 Ingram Book Group LLC	La Vergne	TN	2	Software Developers; Network and Computer Systems Administrators		TN
 Inmar Brand Solutions, Inc.	Winston Salem	NC	3	Business Intelligence Analysts; Statisticians	91300	NC
 Inner Balance LLC	Boise	ID	1	Art Directors		CA
@@ -3171,7 +3171,7 @@ Key Business Solutions, Inc.	Sacramento	CA	3	Database Administrators; Database A
 KG Mining (Bald Mountain) Inc.	Spring Creek	NV	1	Mining and Geological Engineers, Including Mining Safety Engineers		NV
 KGS Buildings, Inc.	Boxborough	MA	2	Project Management Specialists; Mechanical Engineers		CA,OH
 Kindle Biosciences, LLC	Greenwich	CT	1	Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products		CT
-Kings Hawaiian Bakery Southeast Inc.	Gardena	CA	51	Software Developers; Industrial Engineers	152100	GA
+Kings Hawaiian Bakery Southeast Inc.	Gardena	CA	3	Software Developers; Industrial Engineers	152100	GA
 Kiswire Pine Bluff, Inc.	Pine Bluff	AR	1	Accountants and Auditors		AR
 Kitchen & Bath Direct USA	Chino	CA	1	Marketing Managers		CA
 Kivu Bioscience Inc	San Francisco	CA	1	Medical Scientists, Except Epidemiologists		CA
@@ -3181,7 +3181,7 @@ Knack BPO LLC	Woodbridge	NJ	1	General and Operations Managers		NJ
 Knobbe, Martens, Olson & Bear, LLP	Irvine	CA	2	Lawyers		NY,CA
 Knowledge Builders, Inc.	Albany	NY	7	Software Developers	125000	NY,NC
 Kodiak Island Borough School District	Kodiak	AK	7	Special Education Teachers, Elementary School; Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education	55000	AK
-Kookmin Bank New York Branch	New York	NY	7	Financial Specialists, All Other; Financial Quantitative Analysts	73200	NY
+Kookmin Bank New York Branch	New York	NY	6	Financial Specialists, All Other; Financial Quantitative Analysts	73200	NY
 Korro Bio, Inc.	Cambridge	MA	1	Chemists		MA
 Kraft Foods Group Brands LLC	Pittsburgh	PA	17	Food Scientists and Technologists; Marketing Managers; Market Research Analysts and Marketing Specialists	100900	IL,PA,FL
 Kreditor Bolduc Risbrough LLP	Costa Mesa	CA	2	Lawyers		CA
@@ -3287,7 +3287,7 @@ Mary Bird Perkins Cancer Center	Baton Rouge	LA	1	Healthcare Practitioners and Te
 MAS Building & Bridge, Inc.	Norfolk	MA	1	Civil Engineers		MA
 Mason Brothers	Wadena	MN	1	Software Developers		MN
 Mass General Brigham Health Plan	Somerville	MA	1	Network and Computer Systems Administrators		TX
-Mass General Brigham Incorporated	Somerville	MA	32	Physicians, All Other; Natural Sciences Managers; Oral and Maxillofacial Surgeons	82500	MA
+Mass General Brigham Incorporated	Somerville	MA	28	Physicians, All Other; Natural Sciences Managers; Oral and Maxillofacial Surgeons	82500	MA
 Mass General Brigham Medical Group	Dover	NH	1	Cardiologists		NH
 Mass General Brigham Medical Group Northern Massachusetts	Peabody	MA	5	General Internal Medicine Physicians; Hospitalists; Cardiologists	265000	MA
 Mass General Brigham Medical Group, NH & Maine, Inc	Dover	NH	2	General Internal Medicine Physicians; Hospitalists		NH
@@ -3296,7 +3296,7 @@ Matica Biotechnology, Inc.	College Station	TX	4	Biological Scientists, All Other
 Matos Builders LLC	Baltimore	MD	3	Construction Managers	95000	MD
 Matthew Bender & Company Inc.	Alpharetta	GA	1	Information Technology Project Managers		CA
 Maxwell Biosciences, Inc.	Austin	TX	1	Software Developers		TX
-Mayer Brown LLP	Washington	DC	110	Lawyers; Paralegals and Legal Assistants; Software Developers	179400	NY,IL,CA
+Mayer Brown LLP	Washington	DC	24	Lawyers; Paralegals and Legal Assistants; Software Developers	179400	NY,IL,CA
 Mayor and City Council of Baltimore	Baltimore	MD	1	Budget Analysts		MD
 Mazanec, Bauer & Associates, P.L.C.	Eagan	MN	1	Accountants and Auditors		MN
 MB Brand Insights	Austin	TX	1	Market Research Analysts and Marketing Specialists		NY
@@ -3320,7 +3320,7 @@ Mercy BioAnalytics, Inc.	Waltham	MA	3	Bioengineers and Biomedical Engineers; Reg
 Merrick Bank	South Jordan	UT	6	Data Scientists; Marketing Managers; Business Intelligence Analysts	159400	DE,NJ,CT
 Metaldyne M & A Bluffton, LLC	Bluffton	IN	1	Electronics Engineers, Except Computer		IN
 Metanovas Biotech, Inc.	San Jose	CA	2	Financial and Investment Analysts		NY,CA
-Methodist Le Bonheur Healthcare	Memphis	TN	25	Medical and Clinical Laboratory Technologists; Registered Nurses; Histotechnologists		TN
+Methodist Le Bonheur Healthcare	Memphis	TN	7	Medical and Clinical Laboratory Technologists; Computer and Information Research Scientists; Optometrists		TN
 Metropolitan Commercial Bank	New York	NY	2	Lawyers; Data Scientists		NY
 Metware Biotechnology Inc.	Woburn	MA	1	Chemical Engineers		NJ
 Michael Baker International, Inc.	Pittsburgh	PA	24	Civil Engineers; Urban and Regional Planners; Environmental Scientists and Specialists, Including Health	85300	TX,NJ,CA
@@ -3354,7 +3354,7 @@ Moonwalk Biosciences, Inc.	South San Francisco	CA	1	Molecular and Cellular Biolo
 Morgan Stanley Bank N.A.	New York	NY	10	Financial Risk Specialists; Credit Analysts; Compliance Managers	121900	NY,GA
 Morgan Stanley Private Bank NA	New York	NY	9	Information Technology Project Managers; Financial Quantitative Analysts; Financial Risk Specialists	168000	NY,NJ
 Morgan Stanley Smith Barney LLC	New York	NY	26	Data Scientists; Information Technology Project Managers; Financial and Investment Analysts	138000	NY,NJ,MD
-Morgan Truck Body LLC	Morgantown	PA	2	Industrial Engineers		TX
+Morgan Truck Body LLC	Morgantown	PA	1	Industrial Engineers		TX
 Morgan, Lewis & Bockius LLP	Washington	DC	1	Lawyers		MA
 Morman, Kaplan, Brilliant & Fransko LLC	Ann Arbor	MI	1	Accountants and Auditors		MI
 Morris Brown College	Atlanta	GA	1	Recreation and Fitness Studies Teachers, Postsecondary		GA
@@ -3439,10 +3439,10 @@ Nona Biosciences US, Inc	Natick	MA	1	Molecular and Cellular Biologists		MA
 North Brevard County Hospital District	Titusville	FL	3	Family Medicine Physicians	250000	FL
 North Bronx Pharmacy Rx LLC	Bronx	NY	1	Regulatory Affairs Specialists		NY
 North Side Bank and Trust Company	Cincinnati	OH	1	Treasurers and Controllers		OH
-North Slope Borough School District	Utqiagvik	AK	60	Elementary School Teachers, Except Special Education; Special Education Teachers, All Other; Middle School Teachers, Except Special and Career/Technical Education	64700	AK
+North Slope Borough School District	Utqiagvik	AK	7	Elementary School Teachers, Except Special Education; Special Education Teachers, All Other; Middle School Teachers, Except Special and Career/Technical Education	64700	AK
 North Star BlueScope Steel LLC	Delta	OH	1	Business Intelligence Analysts		OH
 Northeast Behavioral Health Corporation d/b/a Beth Israel Lahey Health Behavioral Services	Charlestown	MA	1	Mental Health Counselors		MA
-Northeast Bioanalytical Laboratories LLC	Hamden	CT	5	Biochemists and Biophysicists; Biological Scientists, All Other	80000	CT
+Northeast Bioanalytical Laboratories LLC	Hamden	CT	3	Biochemists and Biophysicists; Biological Scientists, All Other	80000	CT
 Northeast Hospital Corporation d/b/a Beverly Hospital	Beverly	MA	1	Speech-Language Pathologists		MA
 Northern California Bodhi Dharma Society	Milpitas	CA	1	Curators		CA
 Northway Biotech Inc	Waltham	MA	1	Human Resources Managers		MA
@@ -3479,7 +3479,7 @@ Old National Bank	Evansville	IN	2	Software Developers		IL
 Oldcastle BuildingEnvelope, Inc.	Dallas	TX	2	Information Technology Project Managers; Compensation, Benefits, and Job Analysis Specialists		TX
 Omaha-Council Bluffs Metropolitan Area Planning Agency	Omaha	NE	1	Geographic Information Systems Technologists and Technicians		NE
 Omega Bio-tek, Inc.	Norcross	GA	2	Industrial Engineers; Industrial Production Managers		GA
-Onal Gallant Bayram and Amin PC	Elmwood Park	NJ	3	Judicial Law Clerks		NJ
+Onal Gallant Bayram and Amin PC	Elmwood Park	NJ	2	Judicial Law Clerks		NJ
 One Tree Brands LLC	Corona	CA	1	Business Intelligence Analysts		CA
 Onware Business Solutions Inc.	Houston	TX	1	Business Intelligence Analysts		TX
 Orange Box Inc.	Palo Alto	CA	2	Software Developers		CA
@@ -3569,7 +3569,7 @@ Prellis Biologics Inc.	Berkeley	CA	2	Biological Scientists, All Other; Bioengine
 Premera Blue Cross	Mountlake Terrace	WA	10	Software Developers; Data Scientists; Computer Network Architects	164500	WA,TX
 Premier Bankcard LLC	Sioux Falls	SD	5	Financial and Investment Analysts; Software Developers; Computer Systems Analysts	82000	SD
 Premier Business Holdings Inc	Houston	TX	1	Database Administrators		TX
-Premier Hospitalists of Bakersfield Inc.	Bakersfield	CA	5	Hospitalists	280000	CA
+Premier Hospitalists of Bakersfield Inc.	Bakersfield	CA	4	Hospitalists	280000	CA
 Premium Brands Services, LLC	Pataskala	OH	5	Computer Systems Analysts; Software Developers; Software Quality Assurance Analysts and Testers	127200	OH,TX,NY
 Preqin, Inc. (BlackRock)	Princeton	NJ	2	Data Scientists; Financial and Investment Analysts		NY
 President and Board of Trustees of Santa Clara College	Santa Clara	CA	2	Mathematical Science Teachers, Postsecondary; Computer Programmers		CA
@@ -3928,7 +3928,7 @@ The Bridge Group, Inc	Boca Raton	FL	2	Financial and Investment Analysts		FL
 The Brite Group, Inc.	Herndon	VA	1	Computer Systems Engineers/Architects		VA
 The Brixton Group LLC	Charlotte	NC	2	Data Scientists; Software Developers		MA,NC
 The Broad Institute, Inc.	Cambridge	MA	31	Bioinformatics Scientists; Molecular and Cellular Biologists; Biologists	90000	MA
-The Brookdale Hospital Medical Center	Brooklyn	NY	56	Physicians, All Other; General Internal Medicine Physicians; Emergency Medicine Physicians	89300	NY
+The Brookdale Hospital Medical Center	Brooklyn	NY	28	Physicians, All Other; General Internal Medicine Physicians; Emergency Medicine Physicians	89300	NY
 The Brookings Institution	Washington	DC	2	Social Science Research Assistants		DC
 The Brooklyn Hospital Center	Brooklyn	NY	1	Podiatrists		NY
 The Broussard Group, Inc.	Austin	TX	6	Landscape Architects; Urban and Regional Planners		TX
@@ -4122,7 +4122,7 @@ West Bend Mutual Insurance Company	West Bend	WI	1	Software Developers		TX
 West Bionics LLC	Brea	CA	1	Architectural and Engineering Managers		CA
 West Builders, Inc.	Richmond	CA	1	Civil Engineers		CA
 Western Alliance Bank	Phoenix	AZ	20	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	143100	AZ,TX,OH
-Westmoreland County School Board	Montross	VA	5	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School	47400	VA
+Westmoreland County School Board	Montross	VA	4	Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School; Secondary School Teachers, Except Special and Career/Technical Education	47400	VA
 Westpac Banking Corporation	New York	NY	2	Lawyers		NY
 Wheeler And Bi, LLP	Los Angeles	CA	2	Accountants and Auditors; Market Research Analysts and Marketing Specialists		CA
 Wheeler Bio, Inc.	Oklahoma City	OK	1	Biological Technicians		OK

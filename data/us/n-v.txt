@@ -63,7 +63,7 @@ Axiom Acquisition Ventures Management, LLC	Tampa	FL	2	Data Scientists		FL
 Axis Vet Inc	Vallejo	CA	5	Veterinarians; Medical and Health Services Managers	184500	CA
 Baltimore Veterinary Care LLC	Baltimore	MD	1	Veterinarians		MD
 Banco Bilbao Vizcaya Argentaria, S.A.	New York	NY	4	Financial Quantitative Analysts; Securities, Commodities, and Financial Services Sales Agents; Financial and Investment Analysts	183800	NY
-Bear Valley Community Healthcare District	Big Bear Lake	CA	2	Medical and Clinical Laboratory Technologists		CA
+Bear Valley Community Healthcare District	Big Bear Lake	CA	1	Medical and Clinical Laboratory Technologists		CA
 Bear Valley Dental Care Gps LLC	Boyertown	PA	1	Dentists, General		PA
 Belcher, Smolen & Van Loo LLP	San Francisco	CA	3	Judicial Law Clerks	125000	NJ
 Bendix Commercial Vehicle Systems LLC	Avon	OH	13	Mechanical Engineers; Industrial Engineers; Logistics Engineers	111500	OH,IN
@@ -216,7 +216,7 @@ GCOM Software LLC dba Voyatek	Columbia	MD	1	Computer Systems Engineers/Architect
 Ge Vernova Electrification Software Holdings LLC	Cambridge	MA	2	Software Quality Assurance Analysts and Testers; Information Technology Project Managers		CA,TX
 Ge Vernova International LLC	Cambridge	MA	11	Electrical Engineers; Mechanical Engineers; Lawyers	132000	NY,SC,MA
 Ge Vernova Operations LLC	Cambridge	MA	23	Electrical Engineers; Data Scientists; Mechanical Engineers	130000	NY,GA
-Geisinger Wyoming Valley Medical Center	Danville	PA	18	General Internal Medicine Physicians; Physicians, All Other; Neurologists	71700	PA
+Geisinger Wyoming Valley Medical Center	Danville	PA	10	General Internal Medicine Physicians; Physicians, All Other; Neurologists	71700	PA
 Genesis Vision, Inc.	Rochester	NY	1	Business Intelligence Analysts		NY
 Gestamp West Virginia, LLC	South Charleston	WV	2	Wholesale and Retail Buyers, Except Farm Products; Industrial Engineers		WV
 Get Vocal PBC dba Vocal Media	Brooklyn	NY	1	Public Relations Specialists		TX
@@ -238,7 +238,7 @@ Grand View University	Des Moines	IA	1	Chemistry Teachers, Postsecondary		IA
 Grand Visionary Inc.	South Pasadena	CA	1	Interior Designers		CA
 Graniti Vicentia LLC	Houston	TX	1	Cost Estimators		TX
 Grantham, Mayo, Van Otterloo & Co. LLC	Boston	MA	4	Data Scientists; Financial Quantitative Analysts	160000	MA
-Green Valley Manufacturing of Illinois, Inc.	Decatur	IL	2	Electrical Engineers, R&D		IL
+Green Valley Manufacturing of Illinois, Inc.	Decatur	IL	1	Electrical Engineers, R&D		IL
 Group Voyagers, Inc.	Denver	CO	1	Software Developers		CO
 Growing Voices LLC	Whittier	CA	2	Speech-Language Pathologists		CA
 GS2 Ventures LLC	Glen Allen	VA	1	Software Developers		NY
@@ -264,7 +264,7 @@ HMZ Ventures Corporation	North Bend	OR	1	Information Technology Project Managers
 Hollingsworth & Vose Company	East Walpole	MA	1	Manufacturing Engineers		VA
 Holthouse Carlin & Van Trigt LLP	Los Angeles	CA	1	Financial Managers		CA
 Hospice of the Valley	Phoenix	AZ	1	Software Developers		AZ
-Hospitalist Medicine Physicians of Virginia, LLC	Nashville	TN	9	Hospitalists		VA
+Hospitalist Medicine Physicians of Virginia, LLC	Nashville	TN	8	Hospitalists		VA
 Huaiji Engine Valve USA Inc.	Aurora	IL	1	Accountants and Auditors		NJ
 Hudson Valley Dental Associates PLLC	Rutland	VT	1	Dentists, All Other Specialists		VT
 Humanex Ventures	Lincoln	NE	1	Software Developers		NE
@@ -388,7 +388,7 @@ MKS Vision Group, Inc.	Jeffersonville	IN	2	Mechanical Engineers		IN,WA
 Mohawk Valley Nephrology Associates, LLP	Utica	NY	2	Physicians, All Other		NY
 Mora Valley Community Health Services, Inc.	Mora	NM	1	Dentists, General		NM
 Mountain View One Investment Group Corp	Santa Clara	CA	1	Kindergarten Teachers, Except Special Education		CA
-Mountain View Tennis Academy LLC	Mountain View	CA	2	Coaches and Scouts		CA
+Mountain View Tennis Academy LLC	Mountain View	CA	1	Coaches and Scouts		CA
 Muirlands VH, LP	San Francisco	CA	1	Veterinarians		CA
 Mushinsky Voelzke & Associates, CHTD	Washington	DC	1	Architects, Except Landscape and Naval		DC
 MX Ventures Inc.	Dayton	OH	1	Data Scientists		OH
@@ -586,7 +586,7 @@ The Vollrath Co., LLC	Sheboygan	WI	1	Purchasing Agents, Except Wholesale, Retail
 The West Virginia Health Care Cooperative Inc.	Summerville	WV	1	Exercise Physiologists		WV
 Thomas H. Corey VA Medical Center	West Palm Beach	FL	1	Physicians, All Other		FL
 Tidal Vision Products, Inc.	Bellingham	WA	1	Manufacturing Engineers		WA
-TikTok USDS Joint Venture LLC	Culver City	CA	141	Software Developers; Data Scientists; Information Security Engineers	187700	CA,WA,NY
+TikTok USDS Joint Venture LLC	Culver City	CA	113	Data Scientists; Software Developers; Information Security Engineers	187700	CA,WA,NY
 Titan Ventures, LLC	Frisco	TX	2	Software Developers		TX
 TitletownTech Ventures LLC	Green Bay	WI	2	Software Developers		WI
 Total Validation Services, Inc.	Moraga	CA	1	Validation Engineers		CA
@@ -789,7 +789,7 @@ Van Daalen Tennis LLC	Miami Beach	FL	2	Business Operations Specialists, All Othe
 Van De Poel & Levy LLP	Walnut Creek	CA	1	Lawyers		CA
 Van Dyk Baler Corp	Norwalk	CT	1	Market Research Analysts and Marketing Specialists		CT
 Van Learning Academy, LLC	Houston	TX	1	Secondary School Teachers, Except Special and Career/Technical Education		TX
-Van Pelt Construction Services	Fairfield	CA	2	Project Management Specialists		CA
+Van Pelt Construction Services	Fairfield	CA	1	Project Management Specialists		CA
 Van Zilver Inc	Austin	TX	1	Chief Executives		TX
 Vanasse Hangen Brustlin Inc	Watertown	MA	8	Civil Engineers; Computer Systems Engineers/Architects; Transportation Planners	102600	NY,FL,MA
 Vance Brown, Inc.	Palo Alto	CA	2	Cost Estimators; Civil Engineers		CA
@@ -916,7 +916,7 @@ VCA Inc.	Los Angeles	CA	38	Veterinarians; Veterinary Technologists and Technicia
 Vcare Rehab LLC	Shelby Township	MI	1	Exercise Physiologists		NY
 Vcarve Inc	Tallahassee	FL	5	Software Developers; Database Administrators	120000	CA,FL,PA
 VCIT Solutions, Inc.	Norcross	GA	4	Software Developers; Computer Programmers; Data Scientists	109300	GA
-VCL Law LLP	Vienna	VA	3	Lawyers		VA
+VCL Law LLP	Vienna	VA	2	Lawyers		VA
 Vcloud Global LLC	Frisco	TX	4	Software Developers	111400	TX,PA
 VCloud Info Solutions Inc	Fort Myers	FL	2	Computer Programmers; Software Quality Assurance Analysts and Testers		CA
 Vco LLC	Roswell	GA	2	Software Quality Assurance Analysts and Testers		GA
@@ -998,7 +998,7 @@ Velox Technologies LLC	Miami	FL	1	Network and Computer Systems Administrators		F
 Veloxis Pharmaceuticals, Inc	Cary	NC	1	Regulatory Affairs Managers		CO
 Velsson Technology Inc	Georgetown	MA	1	Bioengineers and Biomedical Engineers		MA
 Veltria Advisors Corp.	Miami	FL	1	Personal Financial Advisors		FL
-Velvety LLC	Seattle	WA	2	Web and Digital Interface Designers		NH
+Velvety LLC	Seattle	WA	1	Web and Digital Interface Designers		NH
 Ven Soft, Llc.	Piscataway	NJ	8	Software Developers; Software Quality Assurance Analysts and Testers	101800	NC,TX,IL
 Ven Solutions LLC	Irving	TX	21	Computer Programmers; Software Developers; Software Quality Assurance Analysts and Testers	91600	TX,IL,CA
 Vena Portae Inc	Ashburn	VA	4	Computer Systems Analysts; Software Developers	87100	CO,PA
@@ -1047,7 +1047,7 @@ Ventura Hersey & Muller, LLP	San Jose	CA	1	Lawyers		CA
 Ventura Trust Company	Minneapolis	MN	2	Financial and Investment Analysts		CA
 Venturant Group LLC	New York	NY	1	Accountants and Auditors		NY
 Venture Global LNG Inc.	Arlington	VA	14	Architectural and Engineering Managers; Mechanical Engineers; Financial and Investment Analysts	205000	TX,VA,LA
-Venturesoft Global Inc	Pleasanton	CA	23	Computer Systems Analysts; Computer Programmers; Software Developers	101900	CA,NY,PA
+Venturesoft Global Inc	Pleasanton	CA	15	Computer Systems Analysts; Computer Programmers; Software Developers	101900	CA,NY,PA
 Ventus AI, Inc.	San Mateo	CA	2	Data Scientists; Software Developers		CA
 Ventus Therapy LLC	Flushing	NY	1	Medical and Health Services Managers		NY
 Venus Cabinetry Inc	Houston	TX	1	Graphic Designers		WA
@@ -1111,7 +1111,7 @@ Veridian Tech Solutions Inc	Houston	TX	2	Software Developers		CA
 Veridic Solutions LLC	Plano	TX	35	Computer Programmers; Software Developers; Information Security Analysts	98500	TX,GA,CA
 Veridion Insurance Partners, LLC	Miami	FL	1	Software Developers		NJ
 Verifacto, Inc	Atlanta	GA	2	Software Developers		GA
-Verifica Consulting LLC	Pearland	TX	2	Validation Engineers		TX
+Verifica Consulting LLC	Pearland	TX	1	Validation Engineers		TX
 Verified First, LLC	Meridian	ID	1	Information Technology Project Managers		AZ
 VeriFone, Inc.	New York	NY	8	Software Developers; Computer and Information Systems Managers; Financial and Investment Analysts	144600	GA,CA,FL
 Verilink Global Communications Inc	New York	NY	1	Public Relations Specialists		NY
@@ -1142,7 +1142,7 @@ Verizon Corporate Resources Group LLC	Basking Ridge	NJ	20	Computer and Informati
 Verizon Data Services LLC	Basking Ridge	NJ	103	Software Developers; Computer and Information Systems Managers; Data Scientists	161200	TX,NJ,GA
 Verizon Services Corp.	Basking Ridge	NJ	3	General and Operations Managers; Data Scientists	169100	NY,GA
 Verizon Value, INC	Basking Ridge	NJ	1	Software Developers		FL
-Verkada, Inc	San Mateo	CA	54	Software Developers; Project Management Specialists; Computer Systems Analysts	170000	CA,NY,MA
+Verkada, Inc	San Mateo	CA	43	Software Developers; Computer Systems Analysts; Project Management Specialists	170000	CA,NY,MA
 Vermes Microdispensing America, Inc.	Plain City	OH	1	Manufacturing Engineers		OH
 Vermont Academy	Saxtons River	VT	1	Secondary School Teachers, Except Special and Career/Technical Education		VT
 Vermont Agency of Transportation	Barre	VT	1	Civil Engineers		VT
@@ -1168,7 +1168,7 @@ Versa Integrated Solutions, Inc.	Calverton	MD	1	Computer Systems Engineers/Archi
 Versa Materials Technology, Inc.	Austin	TX	1	Materials Engineers		TX
 Versa Networks, Inc.	Santa Clara	CA	21	Computer Network Architects; Software Quality Assurance Analysts and Testers; Software Developers	185000	CA,TX,OK
 Versa Shore Inc	Frisco	TX	12	Computer Programmers; Software Developers; Network and Computer Systems Administrators	88500	TX,NJ,LA
-Versaflair LLC	Plano	TX	6	Software Developers	113000	TX
+Versaflair LLC	Plano	TX	4	Software Developers	113000	TX
 Versailles Global Inc.	Tampa	FL	1	Financial and Investment Analysts		FL
 Versailles Group, Ltd.	Tampa	FL	1	Financial and Investment Analysts		FL
 Versant Media, LLC	Englewood Cliffs	NJ	5	Business Intelligence Analysts; Film and Video Editors; Software Developers	132900	CA,NY
@@ -1405,7 +1405,7 @@ Villagemd Of Southeast Texas, Pa	Houston	TX	1	Family Medicine Physicians		TX
 Villages RX Pharmacy LLC	Lady Lake	FL	1	Pharmacists		FL
 Villanova University	Villanova	PA	8	Philosophy and Religion Teachers, Postsecondary; Engineering Teachers, Postsecondary; Astronomers	82800	PA
 Vilwaa LLC	Princeton	NJ	1	Information Technology Project Managers		GA
-Vimalraj, Inc.	Cary	NC	6	Computer Programmers; Software Developers; Information Technology Project Managers	86600	NC,WA
+Vimalraj, Inc.	Cary	NC	5	Computer Programmers; Software Developers; Information Technology Project Managers	86600	NC,WA
 Vimee Technologies	Irving	TX	4	Software Developers; Data Scientists	78200	TX,AR
 Vimeo.com, Inc.	New York	NY	1	Database Architects		NY
 Vimerse InfoTech Inc	Dallas	TX	3	Computer Hardware Engineers	115300	CA
@@ -1617,10 +1617,10 @@ VITS Consulting Corp	Plymouth	MN	13	Software Developers; Software Quality Assura
 Vitti Labs, LLC	Kansas City	MO	1	Biologists		TX
 Vitu, Inc.	Agoura Hills	CA	3	Software Quality Assurance Analysts and Testers; Business Intelligence Analysts	109000	CA,NJ,MO
 Vituity - Michigan, PLLC	Emeryville	CA	1	General Internal Medicine Physicians		MI
-Vituity-Connecticut PLLC	Emeryville	CA	9	General Internal Medicine Physicians		CT
+Vituity-Connecticut PLLC	Emeryville	CA	2	General Internal Medicine Physicians		CT
 Vituity-Florida PLLC	Emeryville	CA	2	General Internal Medicine Physicians		FL
-Vituity-Indiana, LLC	Emeryville	CA	3	General Internal Medicine Physicians		IN
-Vituity-New York Medical Group PLLC	Emeryville	CA	10	General Internal Medicine Physicians; Emergency Medicine Physicians		NY
+Vituity-Indiana, LLC	Emeryville	CA	2	General Internal Medicine Physicians		IN
+Vituity-New York Medical Group PLLC	Emeryville	CA	3	General Internal Medicine Physicians; Emergency Medicine Physicians		NY
 Vituity-Virginia, PLLC	Emeryville	CA	4	General Internal Medicine Physicians		VA
 VIUM Capital LLC	Grandview Heights	OH	1	Financial and Investment Analysts		OH
 VIVA Manufacturing, LLC	Tampa	FL	1	Business Intelligence Analysts		FL
@@ -1629,7 +1629,7 @@ Viva Praesentia LLC	Wheaton	IL	1	Online Merchants		IL
 Viva Railings LLC	Lewisville	TX	1	Project Management Specialists		TX
 Viva Smiles Giddings PLLC	Giddings	TX	2	Health Informatics Specialists		TX
 Viva USA Inc.	Rolling Meadows	IL	1	Software Developers		IL
-Vivace Academy LLC	Katy	TX	8	Art, Drama, and Music Teachers, Postsecondary		TX
+Vivace Academy LLC	Katy	TX	5	Art, Drama, and Music Teachers, Postsecondary		TX
 Vivace Pact Technologies Inc	Wilmington	DE	4	Software Quality Assurance Analysts and Testers; Management Analysts; Computer Programmers	85100	DE,AZ,WY
 Vivaldi Partners, Inc.	New York	NY	1	Industrial-Organizational Psychologists		NY
 Vivanti USA LLC	New York	NY	5	Database Administrators; Database Architects	115000	NY
@@ -1683,7 +1683,7 @@ Vm Oncology LLC	Fremont	CA	1	Biostatisticians		CA
 Vmc Soft Technologies, Inc.	Scottsdale	AZ	17	Software Developers; Project Management Specialists; Information Technology Project Managers	111700	TX,PA,CA
 Vml LLC	Kansas City	MO	6	Market Research Analysts and Marketing Specialists; Business Intelligence Analysts; Web and Digital Interface Designers	114900	IL,NY,TX
 VML MAP US Inc.	New York	NY	2	Software Developers		TX
-VMware LLC	Palo Alto	CA	207	Software Developers; Computer and Information Systems Managers; Computer Network Architects	187900	CA,TX,MA
+VMware LLC	Palo Alto	CA	46	Software Developers; Computer and Information Systems Managers; Computer Network Architects	187900	CA,TX,MA
 VNA Health Care	Aurora	IL	2	Obstetricians and Gynecologists		IL
 Vnc LLC	Boston	MA	2	Software Developers		MA
 VNC Veterinary Care Inc.	Oakland	CA	1	Veterinarians		CA
@@ -1901,7 +1901,7 @@ West Virginia State University	Institute	WV	3	Computer Science Teachers, Postsec
 West Virginia State University Research And Development Corporation	Institute	WV	4	Education Administrators, Postsecondary; Biologists	75600	WV,IL
 West Virginia University	Morgantown	WV	99	Health Specialties Teachers, Postsecondary; Biochemists and Biophysicists; Economists	84400	WV,PA,CA
 West Virginia University Dental Corporation	Morgantown	WV	1	Dentists, All Other Specialists		WV
-West Virginia University Hospitals, Inc.	Morgantown	WV	35	Acute Care Nurses; Critical Care Nurses; General Internal Medicine Physicians	267100	WV,CA
+West Virginia University Hospitals, Inc.	Morgantown	WV	8	General Internal Medicine Physicians; Acute Care Nurses; Project Management Specialists	267100	WV,CA
 West Virginia University Medical Corporation	Morgantown	WV	75	General Internal Medicine Physicians; Pediatricians, General; Neurologists	275400	WV,PA
 Wireless Vision, LLC	Birmingham	MI	3	Software Developers; Database Architects	118900	MI
 Wisconsin Vision Associates, Inc.	Burlington	WI	1	Software Quality Assurance Analysts and Testers		IL

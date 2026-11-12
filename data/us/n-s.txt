@@ -54,7 +54,7 @@ A & B Environmental Services, Inc.	Houston	TX	1	Microbiologists		TX
 A Life Saver Home Care LLC	Katy	TX	4	Market Research Analysts and Marketing Specialists		TX
 A S Family LLC	Bates city	MO	1	General and Operations Managers		MO
 A S Gill Dental Corp	Modesto	CA	2	General and Operations Managers		CA
-A Square Group LLC	Frederick	MD	3	Computer Systems Analysts; Information Security Engineers		TX,MD
+A Square Group LLC	Frederick	MD	2	Information Security Engineers; Computer Systems Analysts		MD,TX
 A Square Ideas LLC	Newton Center	MA	2	Information Security Engineers		MA
 A Squared Businesses and Consulting LLC	Springboro	OH	4	Software Quality Assurance Analysts and Testers; Software Developers; Data Scientists	96800	OH,NC,TX
 A Tech System LLC	Coral Springs	FL	1	Software Developers		TX
@@ -246,7 +246,7 @@ Advantage Technical Services, Inc.	Cincinnati	OH	2	Software Developers; Automoti
 Advent Global Solutions Inc.,	Houston	TX	16	Software Developers; Business Intelligence Analysts; Information Security Engineers	90900	NJ,TX,PA
 Adventist Health System Georgia, Inc.	Calhoun	GA	2	Surgeons, All Other; Family Medicine Physicians		GA
 Adventist Health System Sunbelt Healthcare Corp	Altamonte Springs	FL	25	Computer Systems Analysts; Management Analysts; Software Developers	137700	FL
-Adventist Health System/Sunbelt, Inc.	Orlando	FL	69	Medical and Clinical Laboratory Technologists; Healthcare Diagnosing or Treating Practitioners, All Other; Dietitians and Nutritionists	75000	FL
+Adventist Health System/Sunbelt, Inc.	Orlando	FL	64	Medical and Clinical Laboratory Technologists; Healthcare Diagnosing or Treating Practitioners, All Other; Dietitians and Nutritionists	75000	FL
 Adventist Health System/West	Roseville	CA	2	Financial Managers; Financial and Investment Analysts		CA
 Adway Services Inc	East Brunswick	NJ	6	Software Developers; Business Intelligence Analysts	102500	MA,NJ,TX
 AECOM Technical Services, Inc.	Dallas	TX	154	Civil Engineers; Construction Managers; Transportation Planners	98000	NY,CA,TX
@@ -460,7 +460,7 @@ Altius Institute for Biomedical Sciences	Seattle	WA	3	Bioinformatics Scientists	
 Altius Strategic Consulting, LLC	Sheridan	WY	1	Project Management Specialists		CA
 Altman Solon US, LP	Boston	MA	10	Management Analysts; Data Scientists; Operations Research Analysts	168200	MA,NY,CA
 Altria Client Services LLC	Richmond	VA	4	Data Scientists; Database Architects; Software Developers	129800	VA
-Altru Health System	Grand Forks	ND	13	Medical and Clinical Laboratory Technologists; Psychiatrists; Physicians, All Other	500000	ND,MN
+Altru Health System	Grand Forks	ND	9	Medical and Clinical Laboratory Technologists; Psychiatrists; Physicians, All Other	500000	ND,MN
 Altura Source, LLC	Atlanta	GA	1	Chief Executives		GA
 Altura Stone and Tile, Inc	Fairfield	NJ	1	Human Resources Specialists		NJ
 Alumni Ventures Services Company, LLC	Manchester	NH	1	Software Developers		MA
@@ -475,11 +475,11 @@ Amarthy IT Solutions LLC	Austin	TX	51	Software Developers; Data Scientists; Comp
 Amazech Solutions LLC	Plano	TX	17	Software Developers; Computer Systems Analysts; Software Quality Assurance Analysts and Testers	98900	TX,NY,IL
 Amazing Energy Solutions LLC	Norcross	GA	1	Management Analysts		GA
 Amazon Capital Services, Inc.	Seattle	WA	2	Marketing Managers; Computer and Information Systems Managers		WA
-Amazon Data Services, Inc	Seattle	WA	1886	Software Developers; Industrial Engineers; Civil Engineers	148800	WA,VA,CA
-Amazon Studios, LLC	Seattle	WA	13	Software Developers; Computer and Information Systems Managers; Information Technology Project Managers	171500	CA
+Amazon Data Services, Inc	Seattle	WA	959	Software Developers; Industrial Engineers; Civil Engineers	148800	WA,VA,CA
+Amazon Studios, LLC	Seattle	WA	4	Software Developers; Computer and Information Systems Managers; Information Technology Project Managers	171500	CA
 Amazon Web Services Puerto Rico LLC	Seattle	WA	3	Software Developers; Sales Managers	180900	
-Amazon Web Services, Inc.	Seattle	WA	4884	Software Developers; Computer and Information Systems Managers; Business Intelligence Analysts	162600	WA,TX,CA
-Amazon.com Services LLC	Seattle	WA	22060	Software Developers; Business Intelligence Analysts; Computer and Information Systems Managers	163400	WA,CA,TX
+Amazon Web Services, Inc.	Seattle	WA	1766	Software Developers; Computer and Information Systems Managers; Computer Network Support Specialists	162600	WA,TX,CA
+Amazon.com Services LLC	Seattle	WA	11337	Software Developers; Computer and Information Research Scientists; Business Intelligence Analysts	163400	WA,CA,TX
 Amba Systems	Green Bay	WI	5	Software Developers; Software Quality Assurance Analysts and Testers	100000	WI
 Ambe Shree LLC	Huntsville	AL	1	Database Administrators		AL
 Ambit Spray Foam LLC	Arlington	TX	1	Chemists		TX
@@ -520,7 +520,7 @@ American Securities LLC	New York	NY	1	Operations Research Analysts		NY
 American Society for Clinical Pathology	Chicago	IL	1	Statisticians		IL
 American Society for Dermatologic Surgery	Schaumburg	IL	1	Information Technology Project Managers		IL
 American Society for Testing & Materials	West Conshohocken	PA	1	Software Developers		PA
-American Society of Radiologic Technologists	Albuquerque	NM	4	Software Developers		NM
+American Society of Radiologic Technologists	Albuquerque	NM	2	Software Developers		NM
 American Software Group LLC	St.Louis	MO	2	Software Developers		OH
 American Software Resources, Inc.	Woodmere	NY	9	Business Intelligence Analysts; Computer Systems Analysts		FL,WA
 American Specialty Health Incorporated	Carmel	IN	14	Software Developers; Software Quality Assurance Analysts and Testers; Information Technology Project Managers	110800	TX,CA,VA
@@ -642,7 +642,7 @@ Apple Sentity Independent Productions LLC	Santa Monica	CA	2	Public Relations Spe
 Apple Studio Services LLC	Culver City	CA	1	Electronics Engineers, Except Computer		CA
 Applet Systems LLC	Chantilly	VA	6	Software Developers; Network and Computer Systems Administrators; Computer Occupations, All Other	115000	VA,NC,TX
 Appleton Area School District	Appleton	WI	2	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education		WI
-Applications Software Technology LLC	Lisle	IL	15	Operations Research Analysts	124300	LA,MD,CA
+Applications Software Technology LLC	Lisle	IL	3	Operations Research Analysts	124300	LA,MD,CA
 Applied Business Software	Huntington Beach	CA	2	Software Developers; Web and Digital Interface Designers		CA
 Applied Maintenance Supplies & Solutions, LLC	Cleveland	OH	1	Industrial Engineers		OH
 Applied Material Solutions Inc	Elkhorn	WI	1	Materials Scientists		WI
@@ -749,7 +749,7 @@ Armature Systems, Inc.	San Jose	CA	1	Computer Network Architects		MN
 Arnex Solutions, LLC	Princeton	NJ	6	Software Developers; Data Scientists	99200	FL,PA,OK
 Arnold & Porter Kaye Scholer LLP	Washington	DC	5	Lawyers	225000	NY,CA
 ARRIS Global Services, Inc.	Richardson	TX	3	Software Developers	107500	MA,TX
-Arriver Software LLC	San Diego	CA	402	Software Developers; Electronics Engineers, Except Computer	121400	MI
+Arriver Software LLC	San Diego	CA	6	Electronics Engineers, Except Computer; Software Developers	121400	MI
 Arrow Enterprise Computing Solutions, Inc.	Centennial	CO	3	Information Technology Project Managers; Computer and Information Systems Managers; Software Developers	160300	TX,CO
 Arrow Global Supply Chain Services, Inc.	Centennial	CO	1	Computer Systems Engineers/Architects		CA
 Arrow Senior Living Management LLC	St. Charles	MO	1	Business Intelligence Analysts		MO
@@ -800,7 +800,7 @@ ASK IT Solutions LLC	Irving	TX	1	Software Developers		TX
 ASM Solutions LLC	Crystal Lake	IL	2	Validation Engineers; Data Scientists		IL
 ASM Tech Solutions LLC	Pem Broke Pines	FL	15	Software Developers	106000	AR,NY,CA
 Asmpt Semi USA Inc	Tempe	AZ	2	Electronics Engineers, Except Computer		AZ
-ASP Personnel Services Inc.	Pennsauken	NJ	2	Computer Systems Analysts		NJ
+ASP Personnel Services Inc.	Pennsauken	NJ	1	Computer Systems Analysts		NJ
 Aspen Hill Smiles, PC Inc.	Rockville	MD	1	Dentists, General		MD
 Aspen Tek Systems LLC	Irving	TX	1	Software Developers		TX
 Asphalt Equipment & Service Company	Auburn	WA	1	Electrical Engineers		WA
@@ -905,7 +905,7 @@ AuthX Security LLC	Gaithersburg	MD	2	Computer Systems Analysts		MD
 Autism Early Enrichment Services LLC	Forest Hills	NY	2	Social Workers, All Other		NY
 Auto Club Services, Inc.	Tampa	FL	11	Software Developers; Actuaries; Data Scientists	121000	MI,FL
 Automated Benefit Services, Inc.	St. Louis	MO	1	Software Developers		NJ
-Automated Building Management Systems, Inc.	Floral Park	NY	3	Cost Estimators; Computer Occupations, All Other		NY
+Automated Building Management Systems, Inc.	Floral Park	NY	2	Computer Occupations, All Other; Cost Estimators		NY
 Automated Engineering Services, Inc.	Oceanside	CA	2	Biological Scientists, All Other; Chemists		CA
 Automated Production Systems, Inc.	Sterling Heights	MI	2	Mechatronics Engineers; Architectural and Engineering Managers		MI
 Automated Solutions Group, Inc.	San Jose	CA	1	Mechatronics Engineers		CA
@@ -1001,7 +1001,7 @@ Ball Bounce and Sport, Inc.	Ashland	OH	1	Business Intelligence Analysts		OH
 Ball Sb, L.c.	Miami	FL	1	Business Intelligence Analysts		FL
 Ball State University	Muncie	IN	11	Coaches and Scouts; Computer Science Teachers, Postsecondary; Secondary School Teachers, Except Special and Career/Technical Education	60000	IN
 Ballard Spahr LP	Philadelphia	PA	1	Data Scientists		NJ
-Ballon Stoll P.C.	New York	NY	3	Paralegals and Legal Assistants; Graphic Designers		NY
+Ballon Stoll P.C.	New York	NY	2	Graphic Designers; Paralegals and Legal Assistants		NY
 Balridge & Associates Structural Engineering, Inc.	Honolulu	HI	2	Civil Engineers		IL
 Baltimore City Public Schools	Baltimore	MD	11	Special Education Teachers, Elementary School; Data Scientists; Special Education Teachers, Secondary School	91800	MD
 Bamberg County School District	Denmark	SC	2	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School		SC
@@ -1078,7 +1078,7 @@ Beijing Herbal Foot SPA INC	Salem	MA	1	Management Analysts		MA
 Bel Power Solutions, Inc	Lombard	IL	2	Software Developers		IL
 Belcan Services Group LTD Partnership	Cincinnati	OH	4	Software Developers; Mechanical Engineers; Database Administrators		IL,NC
 Belcher, Smolen & Van Loo LLP	San Francisco	CA	3	Judicial Law Clerks	125000	NJ
-Belen Consolidated Schools	Belen	NM	6	Special Education Teachers, Elementary School; Special Education Teachers, All Other; Elementary School Teachers, Except Special Education	63700	NM
+Belen Consolidated Schools	Belen	NM	5	Special Education Teachers, Elementary School; Special Education Teachers, All Other; Elementary School Teachers, Except Special Education	63700	NM
 Belfry Software, Inc.	New York	NY	3	Software Developers	189600	NY,NJ
 Bell Info Solutions, Llc.	Wilmington	DE	9	Software Developers; Computer Programmers; Database Administrators	113500	FL,PA,TX
 Bellatrix Systems LLC	Houston	TX	5	General and Operations Managers; Network and Computer Systems Administrators; Computer Systems Engineers/Architects	171500	WA
@@ -1170,7 +1170,7 @@ Bittner Compliance Solutions	Golden	CO	1	Validation Engineers		CO
 BJC Health System	St. Louis	MO	1	Medical and Clinical Laboratory Technologists		MO
 BKO Services Inc.	Houston	TX	1	Information Technology Project Managers		TX
 Black & McDonald Engineering Services, LLC	Kansas City	MO	1	Electrical Engineers		MO
-Black Duck Software, Inc.	Burlington	MA	46	Network and Computer Systems Administrators; Computer and Information Systems Managers; Software Developers	144000	MA,TX,WA
+Black Duck Software, Inc.	Burlington	MA	8	Software Developers; Network and Computer Systems Administrators; Computer and Information Systems Managers	144000	MA,TX,WA
 Black Ink Business Services LLC	Brooklyn	NY	2	Accountants and Auditors		NY
 Black Saber Group, LLC	Tampa	FL	1	Computer Occupations, All Other		FL
 Black Sesame Technologies Inc	San Jose	CA	9	Electrical Engineers; Software Developers; Computer and Information Research Scientists	203100	CA
@@ -1222,7 +1222,7 @@ Blue Sky HVAC Corp.	Bellerose	NY	1	Mechanical Engineers		NY
 Blue Sky Metals LLC	Palmetto	FL	2	Project Management Specialists; Accountants and Auditors		FL
 Blue Sky School Of Bellevue LLC	Bellevue	WA	1	Project Management Specialists		CA
 Blue Space Technologies Inc	Houston	TX	13	Software Developers; Information Security Engineers; Computer Occupations, All Other	85000	TX,NC,GA
-Blue Spire, Inc.	Phoenix	AZ	11	Software Developers; Computer and Information Systems Managers; Computer Programmers	113000	AZ,FL
+Blue Spire, Inc.	Phoenix	AZ	6	Software Developers; Computer and Information Systems Managers; Computer Programmers	113000	AZ,FL
 Blue Sprig Pediatrics, Inc.	Houston	TX	1	Data Scientists		TX
 Blue Star Strategies, LLC	Washington	DC	1	Social Scientists and Related Workers, All Other		DC
 Blue Steel Marine LLC			2	Mechanical Engineers		
@@ -1245,7 +1245,7 @@ Bluo Software LLC	Houston	TX	2	Software Developers		TX,OK
 BMC Health System, Inc.	Boston	MA	2	Computer Network Architects; Anesthesiologists		MA
 BMC Software, Inc.	Houston	TX	6	Software Developers; Operations Research Analysts; Budget Analysts	130600	TX,NC,CA
 BMG Services LLC	Madison	SD	1	Data Scientist		SD
-BMR Health Services, Inc.	Pleasanton	CA	17	Speech-Language Pathologists		CA,TX
+BMR Health Services, Inc.	Pleasanton	CA	12	Speech-Language Pathologists		CA,TX
 BMW Financial Services NA, LLC	Columbus	OH	6	Software Developers; Computer and Information Research Scientists; Data Scientists	131500	OH,NJ
 BNB Tech Source Inc	Chandler	AZ	2	Software Quality Assurance Analysts and Testers; Software Developers		FL,AZ
 BNP Paribas Financial Services, LLC	Jersey City	NJ	3	Business Intelligence Analysts; Financial Risk Specialists; Financial and Investment Analysts	124000	PA,CO
@@ -1348,9 +1348,9 @@ Broad Peak Systems Inc	King of Prussia	PA	15	Software Developers; Software Quali
 Broadridge Financial Solutions, Inc.	Newark	NJ	45	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	147800	NJ,TX,NY
 Broadview School District	Broadview	MT	1	Special Education Teachers, All Other		MT
 Broadway Software LLC	Aurora	IL	1	Software Developers		VA
-Brocade Communications Systems LLC	Palo Alto	CA	10	Software Developers; Electronics Engineers, Except Computer		CA
+Brocade Communications Systems LLC	Palo Alto	CA	2	Software Developers; Electronics Engineers, Except Computer		CA
 Bronson South Haven Hospital	South Haven	MI	1	Family Medicine Physicians		MI
-BronxCare Health System	Bronx	NY	19	Physicians, All Other; Family Medicine Physicians; Orthopedic Surgeons, Except Pediatric	125300	NY
+BronxCare Health System	Bronx	NY	17	Physicians, All Other; Family Medicine Physicians; Orthopedic Surgeons, Except Pediatric	125300	NY
 Brookdale Employee Services - Corporate, LLC	Brentwood	TN	1	Operations Research Analysts		TN
 Brooklyn Legal Services Corporation A	Brooklyn	NY	1	Lawyers		NY
 Brooklyn Legal Services, Inc.	Brooklyn	NY	1	Lawyers		NY
@@ -1517,7 +1517,7 @@ Carcoustics USA South, Inc.	Buford	GA	1	Industrial Engineers		GA
 Cardiovascular Institute of the South APMC	Houma	LA	2	Cardiologists		LA
 Cardiovascular Systems, Inc.	Chicago	IL	1	Validation Engineers		MN
 CardWorks Servicing	Woodbury	NY	2	Information Security Engineers; Business Intelligence Analysts		UT,MN
-Care And Dignity Health Services LLC	Berlin	NJ	6	Business Operations Specialists, All Other; Social and Community Service Managers; Training and Development Managers	137500	NJ
+Care And Dignity Health Services LLC	Berlin	NJ	4	Business Operations Specialists, All Other; Social and Community Service Managers; Training and Development Managers	137500	NJ
 Care IT Services Inc.	Plainsboro	NJ	1	Software Developers		NC
 Care Unlimited Health Services Inc.	Glendora	CA	1	Market Research Analysts and Marketing Specialists		CA
 Career Prime Solutions Limited Liability Company	Weatherford	TX	1	Industrial Engineers		DE
@@ -1637,7 +1637,7 @@ CFG Merchant Solutions, LLC	New York	NY	1	Compliance Officers		NY
 Cg Infinity Services Inc.	Plano	TX	1	Software Quality Assurance Analysts and Testers		TX
 CG-VAK Software USA Inc	Walnut Creek	CA	1	Software Developers		NH
 CGG Services (U.S.) Inc.	Houston	TX	35	Operations Research Analysts; Software Developers; Network and Computer Systems Administrators	108200	TX
-CGI Technologies and Solutions Inc.	Fairfax	VA	11242	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	112900	TX,PA,LA
+CGI Technologies and Solutions Inc.	Fairfax	VA	413	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	112900	TX,PA,OH
 CGT Solutions LLC	Roseville	CA	1	Business Intelligence Analysts		TX
 Chainbridge Software, LLC	Fairfax	VA	2	Software Developers		WV
 Chaince Securities, LLC	New York	NY	2	Management Analysts		NY
@@ -1738,7 +1738,7 @@ CipherQore Solutions, Inc.	Prairieville	LA	3	Data Warehousing Specialists; Softw
 Circle Internet Management Services LLC	New York	NY	18	Blockchain Engineers; Computer and Information Systems Managers; Data Scientists	142100	CA,MA,WA
 Circle K Stores Inc.	Tempe	AZ	23	Data Scientists; Market Research Analysts and Marketing Specialists; Management Analysts	120000	AZ,NC,TX
 Cirrus Logic International Semiconductor Ltd.	Austin	TX	62	Electronics Engineers, Except Computer; Software Quality Assurance Analysts and Testers; Validation Engineers	150300	TX,AZ,NC
-Cisco Systems, Inc.	San Jose	CA	5901	Software Developers; Electronics Engineers, Except Computer; Information Technology Project Managers	161000	CA,NC,TX
+Cisco Systems, Inc.	San Jose	CA	722	Software Developers; Information Technology Project Managers; Network and Computer Systems Administrators	161000	CA,NC,TX
 Citadel Americas Services LLC	Miami	FL	130	Operations Research Analysts; Financial and Investment Analysts; Software Developers	125000	NY,CT,FL
 Citadel Enterprise Americas Services LLC	Miami	FL	48	Software Developers; Operations Research Analysts; Financial and Investment Analysts	177000	NY,IL,FL
 Citadel Entp Services Group LLC	Miami	FL	1	Operations Research Analysts		NY
@@ -1931,10 +1931,10 @@ Committee for Catholic Secondary Education in Colorado Springs	Colorado Springs	
 Common Sense Machines, Inc.	Cambridge	MA	1	Computer and Information Research Scientists		MA
 Common Spark Consulting Inc.	Berkeley	CA	1	Urban and Regional Planners		CA
 Commonwealth Equity Services, LLC	Waltham	MA	1	Database Architects		TX
-Commqual Solutions LLC	Dover	DE	3	Validation Engineers		IN
+Commqual Solutions LLC	Dover	DE	1	Validation Engineers		IN
 Communication Technology Services, LLC	Marlborough	MA	2	Network and Computer Systems Administrators; Sales Engineers		CA
 Communications Management Services, LLC	Middlebury	CT	1	Web Developers		CT
-Community Based Services	North Salem	NY	7	Rehabilitation Counselors		NY
+Community Based Services	North Salem	NY	3	Rehabilitation Counselors		NY
 Community Church of Seattle	Bothell	WA	1	Clergy		WA
 Community Consolidated School District 15	Palatine	IL	3	Preschool Teachers, Except Special Education; Kindergarten Teachers, Except Special Education; Speech-Language Pathologists	63400	IL
 Community Consolidated School District 54	Schaumburg	IL	1	Middle School Teachers, Except Special and Career/Technical Education		IL
@@ -1976,7 +1976,7 @@ Computer Technology Services, Inc.	Saratoga Springs	NY	1	Software Developers		NY
 Computerized Structural Design, SC	Milwaukee	WI	1	Civil Engineers		WI
 Computomic Software And Consulting LLC	Princeton	NJ	3	Software Developers; Information Technology Project Managers; Data Scientists	200000	PA,NJ,VA
 COMTOP Connectivity Solutions Inc	Chino Hills	CA	1	Accountants and Auditors		CA
-Comtrix Solutions, Inc.	Aldie	VA	78	Medical and Clinical Laboratory Technologists; Registered Nurses		MD,NY,CA
+Comtrix Solutions, Inc.	Aldie	VA	59	Medical and Clinical Laboratory Technologists; Registered Nurses		MD,NY,AZ
 Cona Services, LLC	Atlanta	GA	4	Information Technology Project Managers; Software Developers; Information Security Analysts	129500	GA
 Concent Software Solutions LLC	Alpharetta	GA	1	Software Developers		SC
 Concentra Health Services, Inc.	Mechanicsburg	PA	5	Software Developers; Network and Computer Systems Administrators; Financial Quantitative Analysts	120300	TX,AZ
@@ -2083,7 +2083,7 @@ Corporate Computer Solutions LLC	Wesley Chapel	FL	8	Software Developers; Informa
 Corporate Diligence Specialists, LLC	San Francisco	CA	1	Accountants and Auditors		CA
 Corporate Image Dining Services, Inc	Stamford	CT	1	Operations Research Analysts		CT
 Corporate Network Solutions LLC	Phoenix	AZ	1	Network and Computer Systems Administrators		IL
-Corporate Securities Legal LLP	Costa Mesa	CA	2	Paralegals and Legal Assistants		CA
+Corporate Securities Legal LLP	Costa Mesa	CA	1	Paralegals and Legal Assistants		CA
 Corporate Solutions General Inc	Houston	TX	18	Computer Programmers; Database Administrators; Software Developers	108200	TX,NJ,WI
 Corporation Service Company	Wilmington	DE	8	Software Developers; Project Management Specialists; Compliance Officers	130000	DE,NY,MD
 Corpteq Solutions Inc	Cumming	GA	3	Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators	82300	GA,MD
@@ -2105,7 +2105,7 @@ Counties of Adams & Weld School District 27J	Brighton	CO	3	Middle School Teacher
 County of Fergus School Dis. No.44.	Moore	MT	2	Secondary School Teachers, Except Special and Career/Technical Education		MT
 County of McHenry School District 50	Harvard	IL	1	Secondary School Teachers, Except Special and Career/Technical Education		IL
 County of Rosebud Colstrip School District 19	Colstrip	MT	1	Middle School Teachers, Except Special and Career/Technical Education		MT
-County of Rosebud School District 32J	Ashland	MT	5	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	41600	MT
+County of Rosebud School District 32J	Ashland	MT	3	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	41600	MT
 County of Santa Cruz Patagonia Elementary No. 6	Patagonia	AZ	1	Middle School Teachers, Except Special and Career/Technical Education		AZ
 County of Santa Cruz, Nogales Unified School District 1	Nogales	AZ	3	Education Administrators, Kindergarten through Secondary; Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Secondary School	54000	AZ
 County of Texas Hooker School District 23 Veterans TR PR	Hooker	OK	1	Special Education Teachers, Secondary School		OK
@@ -2226,7 +2226,7 @@ Cyber Sober Inc.	Long Island City	NY	1	Market Research Analysts and Marketing Sp
 Cyber Space Technologies LLC	Edison	NJ	12	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	112900	TX,NC,MO
 Cyber Sphere LLC	Suwanee	GA	10	Data Scientists; Software Developers; Computer Systems Analysts	103900	TX,VA,GA
 Cyber System Technologies LLC	Columbus	OH	1	Computer Systems Engineers/Architects		IN
-CyberArk Software USA, LP	Newton	MA	62	Software Developers; Software Quality Assurance Analysts and Testers; Information Security Engineers	157800	CA,TX,UT
+CyberArk Software USA, LP	Newton	MA	14	Software Developers; Software Quality Assurance Analysts and Testers; Information Security Engineers	157800	CA,TX,UT
 CyberArk Software, Inc.	Newton	MA	2	Data Scientists; Operations Research Analysts		MA
 Cyberfillzen Software LLC	Brandon	FL	2	Software Developers; Computer Programmers		MO,TX
 CyberGuard Solutions LLC	Indianapolis	IN	1	Information Security Analysts		TX
@@ -2358,7 +2358,7 @@ Deeta IT Solutions, Inc	Middlesex	NJ	1	Software Quality Assurance Analysts and T
 Defense In Depth Solutions Inc	Houston	TX	1	Computer Programmers		TX
 Definity Workforce Solutions, Inc.	Covington	KY	1	Software Developers		KY
 Deinrim Solutionss LLC	Cumming	GA	1	Software Developers		IL
-Dekalb Community Unit School District 428	Dekalb	IL	4	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education		IL
+Dekalb Community Unit School District 428	Dekalb	IL	3	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education		IL
 DEKRA Services, Inc.	Atlanta	GA	1	Management Analysts		NC
 Delart Technology Services LLC	Santa Monica	CA	16	Electrical Engineers; Software Quality Assurance Analysts and Testers; Project Management Specialists	130400	CA,WA,TX
 Delaware State University	Dover	DE	3	Art, Drama, and Music Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary; Biological Technicians	55000	DE
@@ -2367,7 +2367,7 @@ Delfers Business Solutions Inc.	New York	NY	1	Data Scientists		NY
 Delicatessen Services Company LLC	Sarasota	FL	4	Software Developers; Computer Systems Engineers/Architects	134000	FL
 Delight Consulting Services LLC	Rochester	MI	2	Software Developers		MI,TX
 Delmarva Kidney and Hypertension Specialists, LLC	Salisbury	MD	1	Physicians, All Other		MD
-Deloitte Services LP	Philadelphia	PA	96	Software Developers; Computer and Information Systems Managers; Market Research Analysts and Marketing Specialists	150000	TX,TN,IL
+Deloitte Services LP	Philadelphia	PA	48	Software Developers; Computer and Information Systems Managers; Market Research Analysts and Marketing Specialists	150000	TX,TN,IL
 Deloitte Touche Tohmatsu Services, LLC	New York	NY	19	Information Technology Project Managers; Software Developers; Network and Computer Systems Administrators	149200	TX,IL,TN
 Delphic Software Solutions Inc	Alpharetta	GA	11	Software Developers; Computer Programmers	115000	VA,TX,NC
 Delta Global Services LLC	Frisco	TX	9	Software Developers; Database Administrators	112900	TX,NC,CO
@@ -2537,7 +2537,7 @@ Dot Security, LLC	Mettawa	IL	1	Information Security Engineers		IL
 dotSolved Systems, Inc.	Pleasanton	CA	4	Computer and Information Systems Managers; Information Technology Project Managers; Operations Research Analysts	195000	IA,NJ,VA
 Doubletree Systems, Inc	San Jose	CA	2	Market Research Analysts and Marketing Specialists		CA
 Doug Uhlig Psychological Services PLLC	Rego Park	NY	1	Mental Health Counselors		NY
-Dougherty County School District	Albany	GA	13	Special Education Teachers, Elementary School; Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	54200	GA
+Dougherty County School District	Albany	GA	6	Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School	54200	GA
 Dougherty County School System	Albany	GA	10	Special Education Teachers, Secondary School; Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School	48700	GA
 Douglas Unified School District No. 27	Douglas	AZ	6	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Career/Technical Education Teachers, Secondary School	46700	AZ
 Dove Schools, Inc.	Warr Acres	OK	4	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	43200	OK
@@ -2615,7 +2615,7 @@ e&e IT Consulting Services, Inc.	Mechanicsburg	PA	1	Speech-Language Pathologists
 E&K Sunrise Inc	San Bernardino	CA	2	Market Research Analysts and Marketing Specialists		CA
 E-Ring Software Solutions, Inc.	Alpharetta	GA	4	Software Developers	155500	GA
 Eagle Analytical Services, Inc.	Houston	TX	3	Microbiologists; Medical and Clinical Laboratory Technologists	64300	TX
-Eagle Butte Public School District 20-1	Eagle Butte	SD	11	Elementary School Teachers, Except Special Education		SD
+Eagle Butte Public School District 20-1	Eagle Butte	SD	2	Elementary School Teachers, Except Special Education		SD
 Eagle Butte School District 20-1	Eagle Butte	SD	2	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		SD
 Eagle County School District	Eagle	CO	1	Secondary School Teachers, Except Special and Career/Technical Education		CO
 Eagle Seven, LLC	Chicago	IL	1	Financial Quantitative Analysts		IL
@@ -2676,7 +2676,7 @@ EDF power solutions, Inc (formerly EDF Renewables, Inc.)	San Diego	CA	5	Operatio
 EDF power solutions, Inc.	San Diego	CA	1	Energy Engineers, Except Wind and Solar		CA
 Edge Engineering and Science, LLC	Houston	TX	1	Environmental Scientists and Specialists, Including Health		TX
 Edgecombe County Public Schools	Tarboro	NC	2	Special Education Teachers, Elementary School		NC
-Edgemont Healthcare Staffing, LLC	Miami	FL	10	Registered Nurses		FL
+Edgemont Healthcare Staffing, LLC	Miami	FL	2	Registered Nurses		FL
 Edison Scientific, Inc.	San Francisco	CA	3	Software Developers; Information Security Analysts	213500	CA
 Eduardo R Soto PA	Coral Gables	FL	1	Lawyers		FL
 Education Service Center Region 20	San Antonio	TX	1	Database Administrators		TX
@@ -2685,7 +2685,7 @@ Educational Solutions Company	Columbus	OH	3	Secondary School Teachers, Except Sp
 Educational Testing Service	Princeton	NJ	46	Software Developers; Computer Systems Engineers/Architects; Software Quality Assurance Analysts and Testers	134300	NJ,TX,DE
 EdvenSoft Solutions LLC	Southlake	TX	4	Software Developers; Database Architects	116800	TX,GA
 Edward Brooke Charter School	Boston	MA	2	Secondary School Teachers, Except Special and Career/Technical Education		MA
-Edward W. Sparrow Hospital Association	Lansing	MI	12	Hospitalists; Surgeons, All Other; Physicians, Pathologists	275900	MI
+Edward W. Sparrow Hospital Association	Lansing	MI	10	Surgeons, All Other; Physicians, Pathologists; Medical Scientists, Except Epidemiologists	275900	MI
 Edwards Capital Special Assets LLC	New York	NY	1	Financial and Investment Analysts		NY
 Effective Basic Services Inc.	Lawrenceville	GA	1	Biologists		GA
 Effective School Solutions LLC	New Providence	NJ	2	General and Operations Managers; Chief Executives		NJ
@@ -2724,7 +2724,7 @@ Electrical Power Systems, Inc.	Clovis	CA	2	Electrical Engineers		CA
 Electrical Source, LLC	Katy	TX	2	Engineers, All Other; Electrical Engineers		OH
 Electrical Testing Solutions Inc	Oshkosh	WI	2	Mechatronics Engineers; Electrical Engineers		WI
 Electro Scan Inc.	Sacramento	CA	1	Software Developers		CA
-Electro Scientific Industries, Inc.	Beaverton	OR	26	Computer and Information Systems Managers		OR
+Electro Scientific Industries, Inc.	Beaverton	OR	2	Computer and Information Systems Managers		OR
 Electro-tech Services Inc	Louisville	KY	1	Solar Energy Systems Engineers		KY
 Electronic Appraisal Solutions, Inc.	Santa Ana	CA	1	Software Quality Assurance Analysts and Testers		CA
 Electronic Cooling Solutions Inc.	Santa Clara	CA	1	Mechanical Engineers		CA
@@ -2761,11 +2761,11 @@ Ellenoff Grossman & Schole LLP	New York	NY	6	Lawyers	244000	NY,NJ
 Ellison Systems Inc d/b/a Shoplet.com	St Petersburg	FL	1	Software Developers		NJ
 Ellsworth Public School	Ellsworth	MN	1	Elementary School Teachers, Except Special Education		MN
 Elo Touch Solutions, Inc.	Richardson	TX	6	Data Scientists; Software Quality Assurance Analysts and Testers; Software Developers	109500	TX,CA
-Elogistics (GA) Service Corp.	Austell	GA	7	Graphic Designers; Market Research Analysts and Marketing Specialists; Public Relations Specialists	46100	GA
+Elogistics (GA) Service Corp.	Austell	GA	6	Market Research Analysts and Marketing Specialists; Graphic Designers; Public Relations Specialists	46100	GA
 ElringKlinger South Carolina LLC.	Easley	SC	2	Industrial Engineers		SC
 Elster Solutions, LLC	Raleigh	NC	2	Software Developers; Information Security Analysts		GA,NC
 Elutions Services, Inc.	Tampa	FL	1	Web and Digital Interface Designers		WI
-Elvinger SARL PLLC	New York	NY	4	Judicial Law Clerks; Public Relations Specialists	153600	NY
+Elvinger SARL PLLC	New York	NY	3	Judicial Law Clerks; Public Relations Specialists	153600	NY
 EM Structural, LLC	Atlanta	GA	2	Civil Engineers		VA
 Emage Software Services, LLC	Monmouth Junction	NJ	2	Computer Systems Engineers/Architects		NH,GA
 Emanuel County Schools	Swainsboro	GA	1	Secondary School Teachers, Except Special and Career/Technical Education		GA
@@ -2817,7 +2817,7 @@ Endurance Warranty Services LLC	Northbrook	IL	2	Marketing Managers; Actuaries		I
 Enercon Services, Inc.	Kennesaw	GA	1	Architectural and Engineering Managers		TX
 Enerflex Energy Systems Inc.	Houston	TX	3	Project Management Specialists; Mechatronics Engineers	127500	TX
 Energativ Solutions LLC	Elmhurst	IL	1	Energy Engineers, Except Wind and Solar		IL
-Energized for STEM Academy, Inc.	Houston	TX	15	Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	60000	TX
+Energized for STEM Academy, Inc.	Houston	TX	5	Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	60000	TX
 Energon Solar LLC	Houston	TX	1	Logisticians		TX
 Energy Environmental Solutions, Inc	Anaheim	CA	2	Computer Occupations, All Other		CA
 Energy Project Solutions, LLC	Las Vegas	NV	2	Civil Engineers		TX,FL
@@ -2885,7 +2885,7 @@ Eparchy of Saint Maron of Brooklyn	Brooklyn	NY	2	Clergy; Directors, Religious Ac
 Eparts Services	West Homestead	PA	3	Software Developers		PA
 Epic Debt Solutions LLC	West Palm Beach	FL	1	Financial and Investment Analysts		FL
 Epic IT Solutions LLC	Rock Hill	SC	21	Software Developers; Data Scientists; Database Architects	101500	TX,FL,NC
-Epic Systems Corporation	Verona	WI	29	Software Developers; Computer and Information Systems Managers	135000	WI,TN,MO
+Epic Systems Corporation	Verona	WI	14	Software Developers; Computer and Information Systems Managers	135000	WI,TN,MO
 Epicor Software Corporation	Austin	TX	4	Data Scientists; Industrial Engineers; Software Developers	126200	TX,WA
 Epik Solutions	Pleasant Hill	CA	9	Business Intelligence Analysts; Software Developers; Management Analysts	118200	CA,TX
 Epiq eDiscovery Solutions, Inc.	New York	NY	2	Software Developers; Market Research Analysts and Marketing Specialists		NY,CA
@@ -3217,7 +3217,7 @@ French Immersion School of Washington	Bellevue	WA	1	Elementary School Teachers, 
 Fresh Success Marketing Group, Inc.	San Antonio	TX	1	Market Research Analysts and Marketing Specialists		CA
 Frictionless Solutions Inc.	Arlington Heights	IL	1	Computer and Information Systems Managers		IL
 Frida Escobedo Studio Inc	New York	NY	1	Architectural and Civil Drafters		NY
-Fridley Public Schools Independent School District 14	Fridley	MN	107	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	49100	MN
+Fridley Public Schools Independent School District 14	Fridley	MN	21	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	49100	MN
 Fried, Frank, Harris, Shriver & Jacobson LLP	New York	NY	18	Lawyers; Web Developers	350000	NY
 Friends Meeting School, Inc.	Ijamsville	MD	1	Elementary School Teachers, Except Special Education		MD
 Frontier IT Solutions Inc	Sterling	VA	10	Software Developers	110900	MD,TX,FL
@@ -3302,7 +3302,7 @@ Gallup McKinley County Schools	Gallup	NM	1	Special Education Teachers, Secondary
 Galveston Shrimp Company	Galveston	TX	1	Electrical Engineers		TX
 Game Star LLC	Stone Mountain	GA	1	Accountants and Auditors		GA
 GameChange Solar Corp.	Norwalk	CT	12	Electrical Engineers; Logistics Engineers; Mechatronics Engineers	120000	CT,TX,NY
-Gamelan Sekar Jaya	Berkeley	CA	3	Art, Drama, and Music Teachers, Postsecondary		CA
+Gamelan Sekar Jaya	Berkeley	CA	1	Art, Drama, and Music Teachers, Postsecondary		CA
 Gamma Green Services Corp	Brea	CA	1	Mechatronics Engineers		CA
 Ganado Unified School District No. 20	Ganado	AZ	1	Secondary School Teachers, Except Special and Career/Technical Education		AZ
 Gannett Satellite Information Network, LLC	New York	NY	2	Software Quality Assurance Analysts and Testers; Marketing Managers		DC,FL
@@ -3351,7 +3351,7 @@ GENERAL HVAC Solutions America, Inc	Pine Brook	NJ	2	Mechanical Engineers		TX
 General Logistics Systems US Inc.	Mesa	AZ	1	Business Intelligence Analysts		CA
 Genesee & Wyoming Railroad Services, Inc.	Rochester	NY	2	Data Warehousing Specialists; Economists		NY,IL
 Geneses Tech Solutions LLC	Tempe	AZ	7	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	98200	AZ,OH,NY
-Genesis Health System	Davenport	IA	36	Registered Nurses; Medical and Clinical Laboratory Technologists; General Internal Medicine Physicians		IA,IL
+Genesis Health System	Davenport	IA	31	Registered Nurses; General Internal Medicine Physicians; Physicians, All Other		IA,IL
 Genesis Software Solutions Inc	Farmington Hills	MI	2	Computer Systems Analysts; Software Developers		MI,AZ
 Genesis Systems LLC	Tampa	FL	1	Mechanical Engineers		FL
 Genesys Cloud Services, Inc.	Menlo Park	CA	15	Software Developers; Sales Engineers; Computer Systems Analysts	123300	IN,TX,NC
@@ -3467,7 +3467,7 @@ Gogreen Solutions Inc	Herdon	VA	1	Business Intelligence Analysts		VA
 Gold Creek Services, LLC	Gainesville	GA	1	Regulatory Affairs Specialists		GA
 Gold Standard Auctions	Dallas	TX	1	Statistical Assistants		TX
 Golden Bear Therapy and Sports LLC	Modesto	CA	1	Physical Therapists		CA
-Golden Harvest International School & Daycare			3	Elementary School Teachers, Except Special Education		
+Golden Harvest International School & Daycare			1	Elementary School Teachers, Except Special Education		
 Golden Hills Orthopedic & Sports Physical Therapy, Inc.	San Jose	CA	2	Physical Therapists; Exercise Physiologists		CA
 Golden IT Services LLC	Boiling Springs	PA	1	Software Quality Assurance Analysts and Testers		PA
 Golden Lion Building Supply LLC	Honolulu	HI	1	Cost Estimators		HI
@@ -3476,8 +3476,8 @@ Golden State Tech Inc.	Rowland Heights	CA	1	Accountants and Auditors		CA
 Golden Stone USA Impex Inc	Los Angeles	CA	1	Software Developers		CA
 Golden Sun TSA Services, LLC	Brentwood	TN	6	Computer and Information Systems Managers; Software Developers; Business Intelligence Analysts	140200	TX,MA,OH
 Golden Valley Engineering & Surveying, Inc.	Merced	CA	1	Civil Engineers		CA
-Goldman Sachs & Co. LLC	New York	NY	917	Financial Quantitative Analysts; Software Developers; Financial and Investment Analysts	140000	UT,NY,TX
-Goldman Sachs Bank USA	New York	NY	629	Software Developers; Financial and Investment Analysts; Business Intelligence Analysts	146500	TX,NY,DE
+Goldman Sachs & Co. LLC	New York	NY	719	Software Developers; Financial and Investment Analysts; Financial Quantitative Analysts	140000	NY,TX,UT
+Goldman Sachs Bank USA	New York	NY	134	Software Developers; Business Intelligence Analysts; Financial Risk Specialists	146500	TX,NY,DE
 Goldman Sachs Services LLC	New York	NY	338	Software Developers; Computer and Information Systems Managers; Information Security Analysts	153500	TX,NY,UT
 Goldman Sachs Wealth Services, L.P.	New York	NY	50	Software Developers; Financial and Investment Analysts; Operations Research Analysts	112500	NY,TX,IL
 Golf & Tennis Pro Shop, Inc.	Roswell	GA	1	Information Technology Project Managers		GA
@@ -3513,7 +3513,7 @@ GP Building Products Services, LLC	Atlanta	GA	3	Industrial Engineers; Data Scien
 GP Enterprise Solutions, Inc.	Latham	NY	1	Computer Occupations, All Other		WA
 GPS IT Solutions LLC	Dacula	GA	6	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	108000	TX,GA,NV
 Grace Care Navigation Services, Inc	San Jose	CA	1	Software Developers		IL
-Grace William Health Systems Inc	Klamath Falls	OR	7	Substance Abuse and Behavioral Disorder Counselors	48400	OR,MD
+Grace William Health Systems Inc	Klamath Falls	OR	4	Substance Abuse and Behavioral Disorder Counselors	48400	MD,OR
 Gracie Servicing Inc.	Pomona	CA	1	Market Research Analysts and Marketing Specialists		CA
 Gradient Systematics LLC	Dallas	TX	3	Transportation Planners; Data Scientists	89000	TX
 Gradientbase Solutions Inc.	Lewisville	TX	1	Software Developers		TX
@@ -3522,7 +3522,7 @@ Graettinger-Terril Community School District	Graettinger	IA	1	Secondary School T
 Grafton Public Schools 18	Grafton	ND	1	Elementary School Teachers, Except Special Education		ND
 Grainger Corporate Services LLC	Lake Forest	IL	22	Software Developers; Information Technology Project Managers; Data Scientists	143900	IL,WA,MA
 Grambling State University	Grambling	LA	1	Network and Computer Systems Administrators		LA
-Grand Forks Public Schools	Grand Forks	ND	11	Special Education Teachers, Secondary School; Special Education Teachers, Middle School; Special Education Teachers, Elementary School	66600	ND
+Grand Forks Public Schools	Grand Forks	ND	8	Special Education Teachers, Secondary School; Special Education Teachers, Middle School; Secondary School Teachers, Except Special and Career/Technical Education	66600	ND
 Grand Island Public Schools	Grand Island	NE	1	Secondary School Teachers, Except Special and Career/Technical Education		NE
 Grand Isle Shipyard LLC	Galliano	LA	1	Information Security Engineers		TX
 Grand Rapids Christian School Association	Grand Rapids	MI	1	Middle School Teachers, Except Special and Career/Technical Education		MI
@@ -3549,7 +3549,7 @@ Greatland Home Health Services Inc	Naperville	IL	1	Software Developers		IL
 Green Brains IT Solutions Inc	Frisco	TX	4	Human Resources Specialists; Computer Occupations, All Other; Web Developers	81600	TX,OK
 Green Electronics Solutions Inc.	South Holland	IL	1	Accountants and Auditors		IL
 Green Hills Software LLC	Santa Barbara	CA	2	Software Developers; Software Quality Assurance Analysts and Testers		CA
-Green Meadow School			5	Elementary School Teachers, Except Special Education		
+Green Meadow School			2	Elementary School Teachers, Except Special Education		
 Green Street Advisors, LLC	Newport Beach	CA	1	Financial and Investment Analysts		CA
 Green Street Power Partners, LLC	Stamford	CT	3	Solar Energy Systems Engineers; Data Scientists	143100	NC,CT,IL
 Greenbox Systems	Menlo Park	CA	1	Software Developers		TX
@@ -3603,7 +3603,7 @@ GSSG Solar, LLC	Denver	CO	1	Financial and Investment Analysts		CO
 Gtek IT Solutions LLC	Folsom	CA	2	Software Developers		CA
 GTR Solutions, Inc.	Corona	CA	1	Materials Engineers		CA
 GTS Securities, LLC	New York	NY	1	Computer Systems Analysts		NY
-Guam Industrial Services, Inc.			2	Accountants and Auditors		
+Guam Industrial Services, Inc.			1	Accountants and Auditors		
 Guggenheim Securities, LLC	Chicago	IL	3	Information Security Analysts; Financial and Investment Analysts; Financial Managers	250000	NY,IL
 Guidehouse Managed Services LLC	Chicago	IL	1	Business Intelligence Analysts		AL
 Guideline Data Solutions, Inc.	New York	NY	3	Operations Research Analysts; Market Research Analysts and Marketing Specialists; Database Administrators	67000	WA,FL
@@ -3642,7 +3642,7 @@ Haidilao Hot Pot San Diego, Inc.	San Diego	CA	1	Market Research Analysts and Mar
 Haier US Appliance Solutions Inc.	Louisville	KY	3	Industrial Production Managers; Electrical Engineers; Information Technology Project Managers	126200	KY
 Hail Surgeon, LLC	St. Augustine	FL	1	Management Analysts		TX
 Halcyon Still Water LLC	Red Bank	NJ	1	Software Developers		NJ
-Hale Makua Health Services	Kahului	HI	10	Registered Nurses		HI
+Hale Makua Health Services	Kahului	HI	1	Registered Nurses		HI
 Halifax County Public Schools	Halifax	NC	1	Secondary School Teachers, Except Special and Career/Technical Education		NC
 Halifax County Schools	Halifax	NC	14	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Special Education Teachers, Elementary School	45300	NC
 Halliburton Energy Services, Inc.	Houston	TX	26	Mechanical Engineers; Petroleum Engineers; Electrical Engineers	126200	TX,LA,OK
@@ -3756,7 +3756,7 @@ Hennepin Elementary School	Minneapolis	MN	2	Elementary School Teachers, Except S
 Hennepin Healthcare System, Inc.	Minneapolis	MN	5	Family Medicine Physicians; Radiologists; Neurologists	256900	MN
 Hennessy Construction Services Corp	St. Petersburg	FL	1	Construction Managers		FL
 Henry County School Board	Collinsville	VA	2	Secondary School Teachers, Except Special and Career/Technical Education		VA
-Henry County Soldiers & Sailors Memorial Hospital	Mt Pleasant	IA	2	Medical and Clinical Laboratory Technologists		IA
+Henry County Soldiers & Sailors Memorial Hospital	Mt Pleasant	IA	1	Medical and Clinical Laboratory Technologists		IA
 Henry Ford Health System	Detroit	MI	91	Software Developers, Non R&D; Physicians, All Other; Medical Scientists, Except Epidemiologists	114200	MI,TX,KS
 Henry Schein, Inc.	Melville	NY	6	Software Developers; Business Intelligence Analysts	150600	NY,TX
 Henry Street Settlement	New York	NY	1	Mental Health and Substance Abuse Social Workers		NY
@@ -3852,7 +3852,7 @@ Hoonah City School District	Hoonah	AK	4	Special Education Teachers, All Other; S
 Hop Global Service Inc.	Austin	TX	1	Mechanical Engineers		TX
 Hope Chinese Charter School	Beaverton	OR	3	Middle School Teachers, Except Special and Career/Technical Education; Education Administrators, Kindergarten through Secondary	95900	OR
 Hope Health Systems	Woodlawn	MD	1	Statisticians		MD
-Hope Public School District	Hope	AR	4	Middle School Teachers, Except Special and Career/Technical Education		AR
+Hope Public School District	Hope	AR	1	Middle School Teachers, Except Special and Career/Technical Education		AR
 Hopi Junior/Senior High School	Keams Canyon	AZ	3	Secondary School Teachers, Except Special and Career/Technical Education	51200	AZ
 Horace Mann Service Corporation	Springfield	IL	1	Software Developers		NC
 Horizon Advanced Systems Inc	Irving	TX	1	Software Developers		NY
@@ -4002,7 +4002,7 @@ Ideal Source Inc	Lewisville	TX	13	Software Developers; Computer Systems Analysts
 Ideas to Solutions LLC	Atlanta	GA	1	Software Developers		GA
 Identity and Access Solutions LLC	Sterling	VA	1	Information Security Engineers		TX
 IDEX Service Corporation	Northbrook	IL	4	Accountants and Auditors	88400	IL
-Iditarod Area School Disctrict	Mcgrath	AK	6	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		AK
+Iditarod Area School Disctrict	Mcgrath	AK	2	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		AK
 Iditarod Area School District	McGrath	AK	4	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		AK
 Idol Soft, Inc.	Irving	TX	8	Software Developers; Computer Systems Analysts; Data Scientists	102200	TX,KS,NY
 Idril Services Corporation	Alpharetta	GA	4	Software Developers; Software Quality Assurance Analysts and Testers	94400	PA,AL,NY
@@ -4034,13 +4034,13 @@ Illini Smiles Dental Care PC	Champaign	IL	1	Medical and Clinical Laboratory Tech
 Illinois Conference of Seventh-day Adventists	Willowbrook	IL	1	Clergy		IL
 Illinois State University	Normal	IL	9	Engineering Teachers, Postsecondary; Chemistry Teachers, Postsecondary; Physics Teachers, Postsecondary	81000	IL
 Illumina Software, Inc.	San Diego	CA	10	Bioinformatics Scientists; Computer and Information Systems Managers; Software Developers	155600	CA,TX,NY
-Illuminative Strategies Inc.	Springfield	IL	6	Operations Research Analysts; Instructional Coordinators		IL
+Illuminative Strategies Inc.	Springfield	IL	2	Operations Research Analysts; Instructional Coordinators		IL
 Ilona Creative Studio, LLC	Miami	FL	1	Graphic Designers		NJ
 ILS Advisory Services, LLC	Nashville	TN	1	Software Developers		TN
 Im Solutions Inc	Monmouth Junction	NJ	9	Computer Programmers; Data Scientists; Software Quality Assurance Analysts and Testers	79300	TX,NE,SC
 Imagination Stage, Inc.	Bethesda	MD	2	Film and Video Editors; Set and Exhibit Designers		MD
 Imagine Staffing Technology, Inc.	Buffalo	NY	1	Software Developers		DE
-Imanis Life Sciences, LLC	Rochester	MN	7	Biological Technicians; Molecular and Cellular Biologists	69000	MN
+Imanis Life Sciences, LLC	Rochester	MN	5	Biological Technicians; Molecular and Cellular Biologists	69000	MN
 IMEX Global Solutions, LLC	Elk Grove Village	IL	1	Software Developers		MO
 Img Systems Inc	The Colony	TX	13	Software Developers; Software Quality Assurance Analysts and Testers; Computer Systems Analysts	103900	TX,PA,NJ
 Iminds Technology Systems Inc.	Pittsburgh	PA	5	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	99000	TX,NJ,NY
@@ -4072,7 +4072,7 @@ Independent Rapid Innovative Solutions LLC	Murfreesboro	TN	1	Mechanical Engineer
 Independent School District 206	Alexandria	MN	2	Special Education Teachers, Elementary School		MN
 Independent School District 256	Red Wing	MN	2	Special Education Teachers, Elementary School; Secondary School Teachers, Except Special and Career/Technical Education		MN
 Independent School District 270, Hopkins	Hopkins	MN	5	Middle School Teachers, Except Special and Career/Technical Education; Kindergarten Teachers, Except Special Education; Elementary School Teachers, Except Special Education	61000	MN
-Independent School District 423	Hutchinson	MN	7	Special Education Teachers, Elementary School; Special Education Teachers, Secondary School; Special Education Teachers, All Other	49000	MN
+Independent School District 423	Hutchinson	MN	5	Special Education Teachers, Elementary School; Special Education Teachers, Secondary School; Special Education Teachers, All Other	49000	MN
 Independent School District 424	Lester Prairie	MN	1	Special Education Teachers, Middle School		MN
 Independent School District 656	Faribault	MN	7	Elementary School Teachers, Except Special Education; Kindergarten Teachers, Except Special Education; School Psychologists	51800	MN
 Independent School District 719	Prior Lake	MN	2	Elementary School Teachers, Except Special Education		MN
@@ -4105,7 +4105,7 @@ Indus Software Solutions, Inc.	Irving	TX	1	Software Developers		AZ
 Indus Synergies Inc.	Albuquerque	NM	3	Market Research Analysts and Marketing Specialists	75000	NM
 Industrial Connections & Solutions LLC (an Abb Company)	Cary	NC	13	Mechanical Engineers; Project Management Specialists; Purchasing Agents, Except Wholesale, Retail, and Farm Products	105200	NC,CT,TN
 Industrial Fabrication Services, Inc.	Lake Crystal	MN	1	Mechanical Engineers		MN
-Industrial Science LLC	Worcester	MA	4	Chief Executives; Training and Development Specialists		MA
+Industrial Science LLC	Worcester	MA	2	Chief Executives; Training and Development Specialists		MA
 Industrial Service Solutions, LLC	Houston	TX	2	Mechanical Engineers; Database Architects		TX
 Industrial Technologies And Services LLC	Davidson	NC	5	Mechanical Engineers; Industrial Engineers	100800	IL,NC,MO
 Indyme Solutions LLC	San Diego	CA	4	Information Security Engineers; Market Research Analysts and Marketing Specialists; Electrical Engineers	100000	CA,FL
@@ -4130,7 +4130,7 @@ InfoDrive Systems, Inc.	Chandler	AZ	6	Software Developers; Data Scientists; Info
 Infodyne Solutions LLC	Waxhaw	NC	9	Computer Systems Engineers/Architects; Software Developers; Business Intelligence Analysts	100000	NC,FL
 Infogen Software Solutions Inc	Herndon	VA	2	Computer Programmers; Information Technology Project Managers		MA,CT
 Infor Public Sector, Inc.	Alpharetta	GA	3	Software Developers; Information Technology Project Managers	127800	CA,IL,TX
-InfoRight Solutions LLC	Mckinney	TX	8	Software Developers	113000	TX,NY,MN
+InfoRight Solutions LLC	Mckinney	TX	6	Software Developers	113000	NY,TX,MN
 Informatik Data Solutions Inc.	Cumming	GA	3	Information Technology Project Managers; Software Developers	109000	GA,TX
 Information Data Systems Inc.	Troy	MI	10	Software Developers; Information Security Analysts; Data Scientists	102700	TX,NJ,FL
 Infoshare Systems, Inc.	Mission Viejo	CA	61	Software Developers; Data Scientists; Information Security Analysts	106000	TX,IN,WA
@@ -4138,7 +4138,7 @@ Infosmart Systems, Inc.	Frisco	TX	5	Software Developers; Computer Network Archit
 Infosoft Solutions LLC	Cranbury	NJ	13	Network and Computer Systems Administrators; Computer Network Support Specialists; Computer Occupations, All Other	86600	TX,CA,NC
 Infosol Solutions LLC	Princeton	NJ	6	Computer Network Support Specialists; Computer Occupations, All Other; Network and Computer Systems Administrators	82400	TX,PA,NV
 Infoswift Software LLC	Cornelius	NC	4	Software Developers	104100	MI,TX
-Infosys Mccamish Systems, LLC	Atlanta	GA	11	Computer Systems Engineers/Architects; Management Analysts	86400	GA
+Infosys Mccamish Systems, LLC	Atlanta	GA	3	Computer Systems Engineers/Architects; Management Analysts	86400	GA
 Infosys Public Services, Inc.	Richardson	TX	6	Computer Systems Engineers/Architects; Information Technology Project Managers; Project Management Specialists	100600	CT,IL,AZ
 Infosytech Solutions Inc.	Ruston	LA	2	Data Scientists; Computer Systems Engineers/Architects		RI,NC
 Infotech Sourcing	San Francisco	CA	1	Logistics Analysts		CA
@@ -4185,7 +4185,7 @@ Innovative Systems, Inc.	Pittsburgh	PA	3	Marketing Managers; Software Developers
 Innovim Technology Solutions Inc	South Windsor	CT	4	Information Technology Project Managers; Financial Quantitative Analysts; Software Quality Assurance Analysts and Testers	78200	CT,CA
 Innovize Staff Inc.	Farmers Branch	TX	2	Software Developers; Data Scientists		TX,DE
 INNOX Solutions, LLC	Sterling	VA	2	Software Developers		OH
-Inova Health Care Services	Fairfax	VA	28	Medical and Clinical Laboratory Technologists; Software Developers, Non R&D; General Internal Medicine Physicians	218000	VA
+Inova Health Care Services	Fairfax	VA	9	Software Developers, Non R&D; General Internal Medicine Physicians; Medical and Clinical Laboratory Technologists	218000	VA
 Inox Solar Americas LLC	Greenville	NC	1	Logistics Engineers		NC
 Inpatient Specialists of California, P.C.	Nashville	TN	8	Hospitalists		CA
 Insight Cloud Solutions, LLC	Riverton	UT	1	Software Developers		UT
@@ -4261,7 +4261,7 @@ InterDent Service Corporation	El Segundo	CA	2	Data Scientists; Financial and Inv
 Interiano Insurance and Financial Services Inc.	Miami	FL	1	General and Operations Managers		FL
 Interior Office Solutions, Inc.	Irvine	CA	1	Interior Designers		WA
 Interior Specialists, Inc	San Diego	CA	1	Information Security Engineers		TX
-Intermediate School District 917	Rosemount	MN	5	Special Education Teachers, All Other		MN
+Intermediate School District 917	Rosemount	MN	1	Special Education Teachers, All Other		MN
 Internash Global Services, LLC	Houston	TX	3	Electronics Engineers, Except Computer; Chemists		TX
 International Association of Bridge, Structural, Ornamental & Reinforcing Iron Workers	Washington	DC	1	Software Developers		VA
 International Bridge Street, LLC	Vail	CO	1	Market Research Analysts and Marketing Specialists		CO
@@ -4377,7 +4377,7 @@ J.F. Shea Construction, Inc.	Walnut	CA	1	Electrical Engineers		MD
 J.H. Findorff & Son Inc.	Madison	WI	2	Civil Engineers		WI
 J.P. Strom, Jr. P.A.	Columbia	SC	1	Business Intelligence Analysts		SC
 J.R. Simplot Company	Boise	ID	6	Computer Systems Analysts; Business Intelligence Analysts; Data Scientists	113500	ID
-J.W. Pepper & Son, Inc.	Exton	PA	4	Software Developers		PA
+J.W. Pepper & Son, Inc.	Exton	PA	1	Software Developers		PA
 J.W. Speaker Corporation	Germantown	WI	1	Mechanical Engineers		WI
 Jabil Procurement Services, Inc	St. Petersburg	FL	1	Logisticians		CA
 Jack N Jill Solutions LLC	Albuquerque	NM	1	Software Developers		DE
@@ -4397,7 +4397,7 @@ Jama Food Services, Inc.	Fort Myers	FL	2	Training and Development Managers		FL
 James A. Rhodes State College	Lima	OH	2	Physics Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary		OH
 Jamf Software, LLC	Minneapolis	MN	1	Information Security Analysts		CA
 Jamison Services, Inc.	Los Angeles	CA	1	Accountants and Auditors		CA
-Jane Street Group, LLC	New York	NY	115	Software Developers; Financial Quantitative Analysts; Operations Research Analysts	300000	NY
+Jane Street Group, LLC	New York	NY	49	Software Developers; Financial Quantitative Analysts; Operations Research Analysts	300000	NY
 Janim Systems Inc.	Pleasanton	CA	4	Software Quality Assurance Analysts and Testers	110000	TX,CA
 Janova Solutions Inc.	Vienna	VA	3	Software Quality Assurance Analysts and Testers; Computer Programmers; Software Developers		NC,PA
 Janssen Global Services, LLC	New Brunswick	NJ	4	Medical Scientists, Except Epidemiologists; Medical and Health Services Managers; Data Scientists	242800	NJ
@@ -4588,7 +4588,7 @@ Kes Yona Solar LLC			2	Chief Executives
 Keshav Consulting Solutions LLC	Suwanee	GA	5	Software Developers; Network and Computer Systems Administrators	97400	TX,IA,GA
 Ket Software Services, LLC	Worthington	OH	5	Computer Systems Analysts; Software Developers; Information Security Analysts	94900	FL,NH,TX
 KET Systems LLC	Cumming	GA	10	Software Developers; Software Quality Assurance Analysts and Testers	119100	FL,CO,TX
-Kettering Network Services	Miamisburg	OH	26	Registered Nurses		OH
+Kettering Network Services	Miamisburg	OH	21	Registered Nurses		OH
 Kettle Solutions LLC	New York	NY	2	Graphic Designers		IL,CA
 Key Business Solutions, Inc.	Sacramento	CA	3	Database Administrators; Database Architects; Software Developers		CA,TX
 Key Global Synergies Inc	Washington	DC	1	Project Management Specialists		DC
@@ -4624,7 +4624,7 @@ Kinetica Systems LLC	Sunrise	FL	2	Web Developers		FL
 Kinetik Healthcare Solutions Inc.	Long Island City	NY	1	Computer Systems Analysts		NY
 King & Prince Seafood Corporation	Brunswick	GA	1	Architectural and Engineering Managers		GA
 King & Spalding LLP	Atlanta	GA	7	Lawyers	260000	NY,GA
-King City Union School District	King City	CA	10	Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School; Special Education Teachers, Middle School	61500	CA
+King City Union School District	King City	CA	9	Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School; Special Education Teachers, Elementary School	61500	CA
 King Energy Services, Inc.	Durango	CO	3	Software Developers; Financial and Investment Analysts	122000	IN,CA
 King Meat Service Inc	Vernon	CA	1	Accountants and Auditors		CA
 King Southwest And Consulting Of Cypress, Inc	Houston	TX	1	Mechanical Engineers		TX
@@ -4634,7 +4634,7 @@ King's Daughters Medical Specialties, Inc.	Ashland	KY	5	Physicians, All Other; C
 Kingland Systems, LLC	Clear Lake	IA	3	Software Developers	84000	IA,TX
 Kingmall Supply Chain LLC	Arcadia	CA	1	Logistics Analysts		CA
 Kings Drug & Surgical Corp	Brooklyn	NY	1	Medical and Health Services Managers		NY
-Kings Hawaiian Bakery Southeast Inc.	Gardena	CA	51	Software Developers; Industrial Engineers	152100	GA
+Kings Hawaiian Bakery Southeast Inc.	Gardena	CA	3	Software Developers; Industrial Engineers	152100	GA
 Kings Physician Services P.C.	Brooklyn	NY	1	Surgeons, All Other		NY
 Kinovate Life Sciences, Inc.	Oceanside	CA	1	Chemical Engineers		CA
 KIPP Chicago Public Schools	Chicago	IL	1	Elementary School Teachers, Except Special Education		IL
@@ -4747,7 +4747,7 @@ LandAirSea Systems, Inc.	Woodstock	IL	1	Software Developers		IL
 Landing Point Search Group, LLC	New York	NY	1	Software Developers		NY
 Landscape Management Systems Inc.			1	Civil Engineers		
 Lane County School District 4J	Eugene	OR	3	Elementary School Teachers, Except Special Education; Special Education Teachers, Middle School	83700	OR
-Langan Engineering and Environmental Services, LLC	Parsippany	NJ	82	Civil Engineers; Environmental Engineers; Transportation Engineers	81000	NY,FL,TX
+Langan Engineering and Environmental Services, LLC	Parsippany	NJ	68	Civil Engineers; Environmental Engineers; Transportation Engineers	81000	NY,FL,NJ
 Langmuir Systems, LLC	Conroe	TX	1	Accountants and Auditors		TX
 Language Scientific, Inc.	Needham	MA	1	Computer Systems Engineers/Architects		NJ
 Lanningsmith Studio LLC	Baltimore	MD	1	Public Relations Specialists		NY
@@ -4797,7 +4797,7 @@ Legend Solutions LLC	Tampa	FL	4	Software Developers	114000	TX,FL
 Legion AI Systems, Inc	Irving	TX	1	Business Intelligence Analysts		PA
 Lehman Smith McLeish, PLLC	Washington	DC	5	Architects, Except Landscape and Naval	120000	DC
 Leland Saylor Associates	Walnut Creek	CA	1	Cost Estimators		CA
-Leland School District	Leland	MS	5	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School	42800	MS
+Leland School District	Leland	MS	4	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School	42800	MS
 Leland Stanford Jr. Univ/SLAC National Accelerator Lab	Menlo Park	CA	25	Physicists; Chemists; Electronics Engineers, Except Computer, R&D	130000	CA
 Leman Manhattan Preparatory School LLC	New York	NY	1	Education and Childcare Administrators, Preschool and Daycare		NY
 Lendem Solutions, LLC	Plano	TX	1	Business Intelligence Analysts		TX
@@ -4842,7 +4842,7 @@ Life Science Dynamics USA LLC	Boca Raton	FL	1	Business Intelligence Analysts		CA
 Life Science Nation, LLC	Cambridge	MA	2	Market Research Analysts and Marketing Specialists		NJ
 Life Space Digital Inc	New York	NY	8	Software Developers; Management Analysts; General and Operations Managers	165000	NY
 Life Steps Foundation, Inc.	Los Angeles	CA	1	Health Education Specialists		CA
-Lifeline Nursing Solutions, LLC	Cumming	GA	160	Critical Care Nurses	84500	GA,KS
+Lifeline Nursing Solutions, LLC	Cumming	GA	16	Critical Care Nurses	84500	GA,KS
 Lifeline Systems Company	Marlborough	MA	2	Software Developers; Mechanical Engineers		MA
 Lifelink Systems, Inc.	San Francisco	CA	2	Project Management Specialists		VA
 Lifepoint Rehabilitation Services, LLC	Brentwood	TN	1	Physical Therapists		CA
@@ -5034,7 +5034,7 @@ Malla Systems, Inc.	Glendale	AZ	10	Software Developers	118000	AZ,VA,IL
 Mamsys Consulting Services, Ltd.	Solon	OH	1	Software Developers		FL
 Man Accounting Service Inc	Norcross	GA	1	Accountants and Auditors		GA
 Manag-e IT Services LLC	Parker	CO	1	Computer Programmers		TX
-Management Health Systems, LLC	Sunrise	FL	181	Registered Nurses; Medical and Clinical Laboratory Technologists; Physical Therapists		TN,IL,MS
+Management Health Systems, LLC	Sunrise	FL	53	Medical and Clinical Laboratory Technologists; Registered Nurses; Physical Therapists		FL,TN,CA
 Management Science Associates, Inc.	Tarentum	PA	2	Software Developers; Data Scientists		VA,MO
 Management Support LLC	Alpine	UT	2	Logisticians		UT
 Mango Social Marketing	Saint Louis	MO	1	Software Quality Assurance Analysts and Testers		MO
@@ -5050,7 +5050,7 @@ Marble Falls Independent School District	Marble Falls	TX	2	Middle School Teacher
 Marchetto Higgins Stieve, PC	Hoboken	NJ	2	Architects, Except Landscape and Naval		NJ
 Marex Services, Inc.	New York	NY	3	Financial Specialists, All Other; Software Developers; Computer Network Architects	140000	NY,IL
 MARGIN5 Solutions Inc.	Metuchen	NJ	8	Information Technology Project Managers; Computer Programmers; Database Administrators		NJ,PA,TX
-Marianas Health Services, Inc.			36	Registered Nurses; Physical Therapists; Medical Assistants		
+Marianas Health Services, Inc.			6	Medical Assistants; Licensed Practical and Licensed Vocational Nurses; Registered Nurses		
 Maricopa Unified School District	Maricopa	AZ	4	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education	66900	AZ
 Marietta Northside Hospital Services Corp.	Marietta	GA	1	Pharmacists		GA
 Marin Montessori School	Corte Madera	CA	1	Elementary School Teachers, Except Special Education		CA
@@ -5086,7 +5086,7 @@ Marucco, Stoddard, Ferenbach & Walsh, Inc.	Springfield	IL	3	Software Developers;
 Marvel Technology Solutions Inc	Livonia	MI	12	Network and Computer Systems Administrators; Computer Systems Analysts; Computer Programmers	92100	WA,TX,MA
 Marvell Semiconductor, Inc.	Santa Clara	CA	228	Electronics Engineers, Except Computer; Software Developers; Validation Engineers	156900	CA,MA,TX
 Marwan Al Sayed Mies Anderson Inc	Los Angeles	CA	1	Designers, All Other		CA
-Mary Mcdowell Friends School	Brooklyn	NY	2	Teachers and Instructors, All Other		NY
+Mary Mcdowell Friends School	Brooklyn	NY	1	Teachers and Instructors, All Other		NY
 Maryland International School	Elkridge	MD	3	Operations Research Analysts; Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	62400	MD
 Masonic Trade School of California Inc	Santa Ana	CA	1	Market Research Analysts and Marketing Specialists		CA
 Massachusetts Financial Services Company	Boston	MA	1	Information Technology Project Managers		MA
@@ -5144,7 +5144,7 @@ McGuire Sponsel, LLC	Indianapolis	IN	1	Operations Research Analysts		IN
 Mcintosh Senior Living	Mcintosh	MN	1	Registered Nurses		MN
 McKenzie County Healthcare Systems, Inc	Watford City	ND	1	Registered Nurses		ND
 McKenzie County Public School District One	Watford City	ND	1	Elementary School Teachers, Except Special Education		ND
-McKinsey & Company, Inc. United States	New York	NY	279	Management Analysts; Data Scientists; Software Developers	187700	GA,NY,MA
+McKinsey & Company, Inc. United States	New York	NY	210	Management Analysts; Data Scientists; Software Developers	187700	NY,MA,TX
 McKnight Smith Ward Griffin Engineers, Inc.	Charlotte	NC	1	Mechanical Engineers		NC
 Mclaren Strategic Solutions Us, Inc.	Irvine	CA	2	Computer and Information Systems Managers; Database Architects		WA,TX
 Mclaryn Systems LLC	Scottsdale	AZ	11	Computer and Information Research Scientists; Data Scientists; Transportation Engineers	101600	AZ
@@ -5255,7 +5255,7 @@ Metro Care Staffing, Inc	Brooklyn	NY	1	Exercise Physiologists		NY
 Metro Engineering Solutions, LLC	Northville	MI	2	Electrical Engineers; Mechanical Engineers		MI
 Metro Supply Chain (USA) Inc.	Green Bay	WI	1	Mechanical Engineers		CA
 Metro Swim Online LLC	Stirling	NJ	2	Online Merchants; Database Administrators		NJ
-Metro-Goldwyn-Mayer Studios, Inc.	Seattle	WA	11	Financial and Investment Analysts; Software Developers		CA
+Metro-Goldwyn-Mayer Studios, Inc.	Seattle	WA	2	Software Developers; Financial and Investment Analysts		CA
 Metro1 Solutions LLC	New York	NY	2	Graphic Designers		NY
 Metrohm Spectro, Inc.	Plainsboro	NJ	2	Mechanical Engineers; Computer Systems Engineers/Architects		NJ
 Metropolis Employee Services, LLC	Nashville	TN	9	Software Developers; Data Warehousing Specialists; Computer and Information Systems Managers	200000	NY,CA,WA
@@ -5275,7 +5275,7 @@ MFX Solutions, Inc.	Washington	DC	1	Compliance Officers		DC
 MG Stover LLC	Denver	CO	1	Management Analysts		CA
 MGM Resorts Satellite, LLC	Las Vegas	NV	12	Software Developers; Business Intelligence Analysts; Software Quality Assurance Analysts and Testers	141800	TX,CA,NV
 MGT Impact Solutions LLC	Norcross	GA	8	Information Security Engineers; Computer and Information Systems Managers; Information Security Analysts	129100	GA,TN,UT
-MH Sub I LLC	El Segundo	CA	235	Information Technology Project Managers; Web and Digital Interface Designers; Market Research Analysts and Marketing Specialists	95100	CA,NJ
+MH Sub I LLC	El Segundo	CA	19	Information Technology Project Managers; Web and Digital Interface Designers; Market Research Analysts and Marketing Specialists	95100	CA,NJ
 MHC Services Group LLC	Clearwater	FL	2	Software Developers		FL
 Mhh Psychology And Speech Language Pathology Therapy Services PLLC	New Hyde Park	NY	2	Speech-Language Pathologists; Exercise Physiologists		NY
 MHM Support Services	Chesterfield	MO	5	Medical and Clinical Laboratory Technologists; Medical and Clinical Laboratory Technicians; Software Developers	70200	MO,OK
@@ -5353,7 +5353,7 @@ Mirata Software LLC	Chicago	IL	1	Network and Computer Systems Administrators		IL
 MIS Solutions LLC	Cincinnati	OH	1	Database Administrators		OH
 Miscellaneous Architectural and Structural Metals INC	Union City	CA	1	Cost Estimators		CA
 Miso Shark LLC	Auburn	AL	1	Database Administrators		AZ
-Mission Achievement and Success Charter School	Albuquerque	NM	23	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	69300	NM
+Mission Achievement and Success Charter School	Albuquerque	NM	13	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	69300	NM
 Mission Rehabilitation and Sports Medicine, Limited Partnership	Houston	TX	2	Physical Therapists		TX
 Mississippi County Hospital System	Blytheville	AR	3	Medical and Clinical Laboratory Technologists		AR
 Mississippi State University	Mississippi State	MS	32	Engineering Teachers, Postsecondary; Communications Teachers, Postsecondary; Agricultural Sciences Teachers, Postsecondary	77100	MS
@@ -5498,7 +5498,7 @@ Mubea North America Shared Services, Inc.	Florence	KY	2	Mechanical Engineers		MI
 Mudra Tech Systems LLC	Rancho Cordova	CA	2	Software Developers		TN,MO
 MUFG Securities Americas, Inc.	New York	NY	1	Software Developers		NY
 Multi Service Technology Solutions Inc.	Overland Park	KS	2	Software Developers; Data Scientists		NC,MA
-MultiCare Health System	Tacoma	WA	33	Registered Nurses; Medical and Clinical Laboratory Technologists; General Internal Medicine Physicians	144200	WA,KS
+MultiCare Health System	Tacoma	WA	21	Medical and Clinical Laboratory Technologists; Registered Nurses; General Internal Medicine Physicians	144200	WA,KS
 Multicultural Clinical Services LLC	Amherst	MA	3	Mental Health Counselors		MA
 Multiplayer Studio LLC	Brooklyn	NY	1	Graphic Designers		NY
 Multiplied Solutions LLC	Lewisville	TX	3	Software Developers	112900	TX,OR
@@ -5556,7 +5556,7 @@ National Financial Services LLC d/b/a Fidelity Investments	Boston	MA	17	Informat
 National Government Services, Inc.	Indianapolis	IN	5	Network and Computer Systems Administrators; Operations Research Analysts; Software Quality Assurance Analysts and Testers	107200	IN,WA,TX
 National Grid USA Service Company, Inc.	Waltham	MA	12	Data Scientists; Information Security Analysts; Software Quality Assurance Analysts and Testers	134700	MA,NY
 National Healthcare Solutions, Inc.	Dallas	TX	1	Operations Research Analysts		TX
-National Hospitalist Services, PC	Lafayette	LA	26	Hospitalists; Emergency Medicine Physicians; Physicians, All Other		LA,MS,FL
+National Hospitalist Services, PC	Lafayette	LA	24	Hospitalists; Emergency Medicine Physicians; Physicians, All Other		LA,MS,FL
 National Information Solutions Cooperative	Mandan	ND	2	Computer Programmers; Computer and Information Systems Managers		MO
 National Quality Systems, Inc.	Winter Park	FL	1	Software Developers		TX
 National Soft Systems Inc.	Bentonville	AR	8	Software Developers; Network and Computer Systems Administrators	83300	AR,NY,TX
@@ -5762,7 +5762,7 @@ North Shore Central School District	Sea Cliff	NY	1	Secondary School Teachers, Ex
 North Shore Community Health, Inc	Salem	MA	1	Family Medicine Physicians		MA
 North Shore Hotel Management LLC	Glen Cove	NY	1	Food Scientists and Technologists		NY
 North Side Bank and Trust Company	Cincinnati	OH	1	Treasurers and Controllers		OH
-North Slope Borough School District	Utqiagvik	AK	60	Elementary School Teachers, Except Special Education; Special Education Teachers, All Other; Middle School Teachers, Except Special and Career/Technical Education	64700	AK
+North Slope Borough School District	Utqiagvik	AK	7	Elementary School Teachers, Except Special Education; Special Education Teachers, All Other; Middle School Teachers, Except Special and Career/Technical Education	64700	AK
 North Star Aviation Inc.	Mankato	MN	4	Career/Technical Education Teachers, Postsecondary	100000	MN
 North Star BlueScope Steel LLC	Delta	OH	1	Business Intelligence Analysts		OH
 North State Grocery, Inc.	Cottonwood	CA	1	Budget Analysts		CA
@@ -5993,7 +5993,7 @@ Optimum Care Services, LLC.	Sicklerville	NJ	1	Accountants and Auditors		NJ
 Optimum Seismic, Inc.	Vernon	CA	1	Civil Engineers		CA
 Optimum Software Solutions, Inc.	Tallahassee	FL	1	Software Quality Assurance Analysts and Testers		NJ
 Optimum Systems Inc.	Ashburn	VA	1	Computer Programmers		NJ
-Optimus Services Corporation	New York	NY	12	Registered Nurses		NY
+Optimus Services Corporation	New York	NY	4	Registered Nurses		NY
 Optimus SteeL LLC	The Woodlands	TX	2	Transportation, Storage, and Distribution Managers; Mechanical Engineers		TX
 Options Schools, Inc.	Noblesville	IN	1	Secondary School Teachers, Except Special and Career/Technical Education		IN
 Optiv Security Inc.	Leawood	KS	3	Information Security Analysts	138600	AR,CA,OK
@@ -6003,7 +6003,7 @@ Optum Services, Inc.	Eden Prairie	MN	287	Software Developers; Data Scientists; B
 OPTX Solutions, LLC	Las Vegas	NV	1	Software Developers		NV
 Opus 1 Music Studio	Mountain View	CA	3	Teachers and Instructors, All Other		CA
 Orabase Solutions LLC	McKinney	TX	12	Software Developers; Database Administrators	93000	TX,MD,GA
-Oracle Financial Services Software, Inc.	Bridgewater	NJ	153	Software Developers; Computer Systems Analysts; Computer and Information Systems Managers	150400	VA,NJ,FL
+Oracle Financial Services Software, Inc.	Bridgewater	NJ	32	Software Developers; Computer and Information Systems Managers; Computer Systems Analysts	150400	NJ,VA,OH
 Oral and Maxillofacial Surgery of Chicago, PC	Orland Park	IL	2	Dentists, General; Oral and Maxillofacial Surgeons		IL
 Orange Business Services U.s. Inc.	Reston	VA	1	Sales Engineers		GA
 Orange County Public Schools	Orlando	FL	1	Operations Research Analysts		FL
@@ -6070,7 +6070,7 @@ P&R Dental Strategies, LLC	Nashua	NH	1	Data Scientists		FL
 P.J. Wallbank Springs, Inc.	Port Huron	MI	1	Mechanical Engineers		MI
 P.S. Data Services	Middletown	OH	1	Software Developers		OH
 P2P SoftTek LLC	Pleasanton	CA	39	Software Developers; Software Quality Assurance Analysts and Testers; Project Management Specialists	112400	CA,NC,TX
-PA Consulting and Financial Services INC	Richardson	TX	3	Accountants and Auditors; Financial and Investment Analysts		TX
+PA Consulting and Financial Services INC	Richardson	TX	2	Accountants and Auditors; Financial and Investment Analysts		TX
 Pace Analytical Life Sciences, LLC	Oakdale	MN	4	Chemists	111300	NC,NJ,MA
 Pace Analytical Services LLC	Roseville	MN	2	Industrial Engineers; Environmental Compliance Inspectors		NJ,MN
 Pace Computer Solutions Inc	Columbia	MD	7	Computer Systems Engineers/Architects; Computer Systems Analysts	94100	TX,SC,PA
@@ -6146,7 +6146,7 @@ Paramount Software Solutions Inc	Alpharetta	GA	21	Software Developers; Informati
 Parchem Fine and Specialty Chemicals	New Rochelle	NY	1	Information Technology Project Managers		NY
 Park Systems, Inc	Santa Clara	CA	2	Mechatronics Engineers; Bioengineers and Biomedical Engineers		OR,CA
 Parker Palm Springs LLC	Palm Springs	CA	2	Lodging Managers; Food Service Managers		CA
-Parkview Health System, Inc.	Fort Wayne	IN	27	Physicians, All Other; Mental Health and Substance Abuse Social Workers; Clinical and Counseling Psychologists	110000	IN
+Parkview Health System, Inc.	Fort Wayne	IN	16	Physicians, All Other; Mental Health and Substance Abuse Social Workers; Pediatricians, General	110000	IN
 Parsons Services Company	Pasadena	CA	1	Computer Systems Engineers/Architects		CA
 Particle Sciences, Inc.	Bethlehem	PA	3	Chemists	81800	PA
 Partners & Simons, Inc.	Chicago	IL	1	Art Directors		MA
@@ -6270,7 +6270,7 @@ Phoenix Business Solutions, LLC.	Eugene	OR	1	Business Intelligence Analysts		OR
 Phoenix Satellite Television US, Inc	Irwindale	CA	2	Graphic Designers; News Analysts, Reporters, and Journalists		CA,DC
 Phoenix Staff, Inc.	Phoenix	AZ	4	Data Scientists	121700	AZ
 Phoenix Tech Solutions INC.	Sacramento	CA	9	Software Developers; Web Developers; Financial Specialists, All Other	103000	CA,FL,ID
-Phoenix Technical Solutions, Inc.	Meadville	PA	11	Industrial Engineers; Mechanical Engineers		OH,TX
+Phoenix Technical Solutions, Inc.	Meadville	PA	2	Mechanical Engineers; Industrial Engineers		TX,OH
 Phoenix Union High School District	Phoenix	AZ	5	Special Education Teachers, Secondary School; Secondary School Teachers, Except Special and Career/Technical Education	64300	AZ
 Phonetic Consulting Services Inc.	Austin	TX	1	Software Developers		TX
 Photo Scan of Los Angeles Inc.	Simi Valley	CA	1	Electrical Engineers		CA
@@ -6591,7 +6591,7 @@ Q2 Software, Inc.	Austin	TX	15	Software Developers; Database Architects; Busines
 Q9 Software LLC	Germantown	MD	7	Software Developers; Information Security Analysts	108000	NY,FL,GA
 Qaurs Techno Systems LLC	Cumming	GA	2	Software Developers; Software Quality Assurance Analysts and Testers		GA
 QBIX Systems LLC	Alpharetta	GA	2	Software Developers		NE,GA
-QE Securities LLP	New York	NY	3	Software Developers; Financial Quantitative Analysts		NY
+QE Securities LLP	New York	NY	2	Software Developers; Financial Quantitative Analysts		NY
 QIAGEN Sciences, LLC	Germantown	MD	1	Software Developers		MD
 Qian Feng Shou Investment, LLC	Bellevue	WA	1	Self-Enrichment Teachers		WA
 QIC US Investment Services Inc.	New York	NY	1	Financial and Investment Analysts		NY
@@ -6617,7 +6617,7 @@ Quantum Fuel Systems LLC	Lake Forest	CA	1	Materials Scientists		CA
 Quantum Fulfillment and Support, LLC	Cedar Creek	TX	1	Document Management Specialists		TX
 Quantum Systems Group, Inc.	Somerset	NJ	4	Database Architects; Information Technology Project Managers; Software Developers	143000	IL,KS,FL
 Quantumai Solutions	Princeton	NJ	6	Software Developers; Data Scientists	91500	TX,MI,OH
-Quantumsoft Solutions Inc	Fremont	CA	9	Software Developers; Software Quality Assurance Analysts and Testers		TX,CA,NC
+Quantumsoft Solutions Inc	Fremont	CA	6	Software Developers; Software Quality Assurance Analysts and Testers		TX,CA,NC
 Quarra Stone Company LLC	Sun Prairie	WI	1	Architects, Except Landscape and Naval		WI
 Quartet Financial Systems, Inc.	New York	NY	1	Software Developers		NY
 Qubit Solutions, Inc.	Addison	TX	3	Software Developers	140000	OH
@@ -6686,7 +6686,7 @@ Randolph County School System	Cuthbert	GA	1	Secondary School Teachers, Except Sp
 Range Production Company, LLC -Sub of Range Resources Corp.	Fort Worth	TX	1	Data Scientists		TX
 Ranial Systems, Inc.	Long Island City	NY	3	Statisticians; Computer Programmers; Information Technology Project Managers	81000	NY
 Rantoul City School District 137	Rantoul	IL	3	Elementary School Teachers, Except Special Education; Career/Technical Education Teachers, Middle School	59100	IL
-Rantoul City Schools 137	Rantoul	IL	5	Middle School Teachers, Except Special and Career/Technical Education		IL
+Rantoul City Schools 137	Rantoul	IL	1	Middle School Teachers, Except Special and Career/Technical Education		IL
 Rao’s Consulting Engineers, Llc.	Cedar Park	TX	1	Computer Systems Analysts		TX
 Rape Trauma Services, a Center for Healing and Violence Prevention	Burlingame	CA	1	Counselors, All Other		CA
 Rapid Consulting Services Inc.	Canfield	OH	2	Software Developers		OH,NC
@@ -6727,7 +6727,7 @@ Recursive Superintelligence Inc.	San Francisco	CA	1	Computer and Information Res
 Red Clay Consolidated School District	Wilmington	DE	2	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		DE
 Red Curve Solutions, LLC	Beverly	MA	1	Business Intelligence Analysts		MD
 Red Lake School District 38	Red Lake	MN	5	Special Education Teachers, Secondary School; Special Education Teachers, Middle School; Elementary School Teachers, Except Special Education	68700	MN
-Red Mesa Unified School Disctrict 27	Teec Nos Pos	AZ	8	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School		AZ
+Red Mesa Unified School Disctrict 27	Teec Nos Pos	AZ	2	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School		AZ
 Red Oak Sourcing, LLC	Foxboro	MA	1	Data Scientists		MA
 Red Oak Strategic, LLC	Alexandria	VA	1	Software Developers		VA
 Red Salsa Technologies, Inc	Princeton	NJ	1	Database Administrators		SC
@@ -6776,7 +6776,7 @@ Relias Employment Services, LLC	Tupelo	MS	2	General Internal Medicine Physicians
 Relic Solutions LLC	Elmont	NY	28	Computer Systems Analysts; Computer Network Support Specialists; Software Developers		TX,IL,CA
 Relig Staffing, Inc.	Mckinney	TX	3	Financial and Investment Analysts; Information Security Analysts; Computer Occupations, All Other		CT,DC,VA
 Rena Sports Inc.	New York	NY	2	Market Research Analysts and Marketing Specialists		NY
-RenalCare Associates, SC	Peoria	IL	6	Physicians, All Other	280000	IL
+RenalCare Associates, SC	Peoria	IL	3	Physicians, All Other	280000	IL
 Render Services, Inc.	San Francisco	CA	1	Data Scientists		CA
 Renee Systems Inc	Brecksville	OH	5	Business Intelligence Analysts; Information Technology Project Managers	102600	KY,NY,MO
 Replicant Solutions, Inc	San Francisco	CA	1	Software Developers		GA
@@ -6785,7 +6785,7 @@ Repsol Renewables Services North America LLC	Houston	TX	1	Purchasing Agents, Exc
 Republic Services, Inc.	Phoenix	AZ	12	Software Developers; Business Intelligence Analysts; Network and Computer Systems Administrators	147300	AZ,IN
 RES Servicing Corporation	Kew Gardens	NY	1	Software Developers		FL
 Research and Diagnostic Systems, Inc.	Minneapolis	MN	4	Molecular and Cellular Biologists; Software Quality Assurance Analysts and Testers; Biostatisticians	96800	MN,MA
-Research Center for Clinical Studies, Inc.	Norwalk	CT	5	Biostatisticians		CT
+Research Center for Clinical Studies, Inc.	Norwalk	CT	1	Biostatisticians		CT
 Research Foundation for the State University of New York	Stony Brook	NY	20	Medical Scientists, Except Epidemiologists; Biochemists and Biophysicists; Zoologists and Wildlife Biologists	70700	NY,VA
 Research Foundation Of Suny At Buffalo	Buffalo	NY	10	Medical Scientists, Except Epidemiologists; Chemists; Biochemists and Biophysicists	68000	NY
 ResMed SaaS Holdings, Inc.	San Diego	CA	3	Software Developers	128000	GA,NC
@@ -6935,7 +6935,7 @@ RS Consulting Services LLC	Reno	NV	2	Database Administrators		NV
 RS Integrated Supply US Inc.	Radnor	PA	1	Information Technology Project Managers		PA
 RS Shippers LLC	North Oaks	MN	1	Business Operations Specialists, All Other		MN
 Rs Solutions, LLC	Chesterfield	MO	4	Software Developers; Information Security Analysts; Computer Systems Analysts	123000	NC,TX,GA
-RS&A, Inc. dba Solutech	Plano	TX	4	Electrical Engineers; Bioengineers and Biomedical Engineers		TX
+RS&A, Inc. dba Solutech	Plano	TX	2	Bioengineers and Biomedical Engineers; Electrical Engineers		TX
 RSA Security USA LLC	Burlington	MA	2	Software Quality Assurance Analysts and Testers; Software Developers		MA,NC
 RSI Systems Inc	Northlake	TX	1	Project Management Specialists		TX
 RSM Technology Solutions, Inc.	Irving	TX	1	Computer Programmers		NJ
@@ -7200,7 +7200,7 @@ Sai Priya, LLC	Houston	TX	1	Computer Systems Analysts		TX
 Sai Systems Inc	Novi	MI	1	Electrical Engineers		MI
 SAI Systems International, Inc.	Shelton	CT	1	Computer and Information Systems Managers		CT
 Sai Technologies, Llc.	Memphis	TN	20	Software Developers; Software Quality Assurance Analysts and Testers; Information Technology Project Managers	96800	TN,TX,MD
-SAI-Med Partners LLC	Reading	PA	16	Market Research Analysts and Marketing Specialists; Natural Sciences Managers	132500	PA
+SAI-Med Partners LLC	Reading	PA	4	Market Research Analysts and Marketing Specialists; Natural Sciences Managers	132500	PA
 Saiana Technologies Inc.	Piscataway	NJ	14	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	110900	FL,TX,NJ
 Saiber Info Tech LLC	Plano	TX	4	Computer Programmers; Software Developers	77400	TX
 Saibersys Inc	Carrollton	TX	5	Software Quality Assurance Analysts and Testers; Software Developers; Validation Engineers	103000	NY,PA,NC
@@ -7230,8 +7230,8 @@ Saint Clare's Tahoe: A Mountain Montessori School	Incline Village	NV	1	Elementar
 Saint Elizabeth Medical Center	Edgewood	KY	2	Cardiologists		KY
 Saint Francis Care Medical Group, P.C.	Hartford	CT	1	Physicians, Pathologists		CT
 Saint Francis Health System	Tulsa	OK	20	General Internal Medicine Physicians; Pediatricians, General; Medical and Clinical Laboratory Technologists	325000	OK
-Saint Francis Healthcare System	Cape Girardeau	MO	30	Registered Nurses		MO
-Saint Francis Hospital - Evanston, LLC	Evanston	IL	15	Health Education Specialists; Medical and Clinical Laboratory Technologists; Clinical Data Managers		IL
+Saint Francis Healthcare System	Cape Girardeau	MO	3	Registered Nurses		MO
+Saint Francis Hospital - Evanston, LLC	Evanston	IL	6	Medical and Clinical Laboratory Technologists; Clinical Data Managers; Health Education Specialists		IL
 Saint Francis Medical Center	Cape Girardeau	MO	1	Religious Workers, All Other		MO
 Saint Francis Medical Partners, LLC	Cape Girardeau	MO	2	Clinical and Counseling Psychologists; Physician Assistants		MO
 Saint John's University	Collegeville	MN	1	Economics Teachers, Postsecondary		MN
@@ -7312,7 +7312,7 @@ Sallie Mae Bank	Newark	DE	9	Data Scientists; Management Analysts; Software Devel
 Sally Beauty Supply LLC	Plano	TX	6	Software Developers; Information Technology Project Managers; Data Scientists	119900	TX
 Salmons Technologies Inc.	Albuquerque	NM	2	Computer Programmers		NM
 Salt Lake Neighborhood Housing Services, Inc.	Salt Lake City	UT	1	Social and Community Service Managers		UT
-Saltech Systems LLC	Ames	IA	2	Web Developers		IA
+Saltech Systems LLC	Ames	IA	1	Web Developers		IA
 Saltzman Tanis, Pittell, Levine & Jacobson PA	West Palm Beach	FL	1	Pediatricians, General		FL
 Saltzman, Tanis, Pittell, Levin and Jacobson LLC	Plantation	FL	9	Pediatricians, General; Data Scientists	142500	FL,CA,OK
 Salud Dental Group Albuquerque	Albuquerque	NM	2	Data Scientists; Dentists, General		NM
@@ -7364,7 +7364,7 @@ Samsung HME America, Inc.	Danvers	MA	4	Business Intelligence Analysts; Regulator
 Samsung Research America, Inc.	Mountain View	CA	45	Computer and Information Research Scientists; Software Developers; Robotics Engineers	157100	CA,TX
 Samsung SDI America Inc.	Auburn Hills	MI	7	Chemical Engineers; Logisticians; Budget Analysts	130000	MI,MA,IN
 Samsung SDS America, Inc.	Ridgefield Park	NJ	1	Information Security Engineers		TX
-Samsung Semiconductor, Inc.	San Jose	CA	735	Software Developers; Electronics Engineers, Except Computer; Software Quality Assurance Analysts and Testers	168800	CA,TX,MD
+Samsung Semiconductor, Inc.	San Jose	CA	58	Software Developers; Electronics Engineers, Except Computer; Software Quality Assurance Analysts and Testers	168800	CA,TX,MD
 Samtek Inc	Herndon	VA	3	Software Developers; Computer Programmers	126500	VA,TX,NC
 Samtin, L.L.C.			1	Electrical Engineers		
 Samuel A. Ramirez & Company, Inc.	New York	NY	2	Financial Managers		NY
@@ -7403,9 +7403,9 @@ San Jose Healthcare & Wellness Center, LLC	San Jose	CA	1	Physical Therapists		CA
 San Jose State University	San Jose	CA	6	Engineering Teachers, Postsecondary; Education Teachers, Postsecondary; Postsecondary Teachers, All Other	102700	CA
 San Jose State University Research Foundation	San Jose	CA	2	Mathematicians; Aerospace Engineers		CA
 San Jose Unified School District	San Jose	CA	20	Special Education Teachers, Elementary School; Elementary School Teachers, Except Special Education; Special Education Teachers, Secondary School	72100	CA
-San Juan Regional Medical Center, Inc.	Farmington	NM	4	Hospitalists		NM
+San Juan Regional Medical Center, Inc.	Farmington	NM	1	Hospitalists		NM
 San Marino Music Center LLC	San Marino	CA	1	Art, Drama, and Music Teachers, Postsecondary		CA
-San Mateo - Foster City School District	Foster City	CA	6	Special Education Teachers, Elementary School; Elementary School Teachers, Except Special Education		CA
+San Mateo - Foster City School District	Foster City	CA	2	Special Education Teachers, Elementary School; Elementary School Teachers, Except Special Education		CA
 San Solutions Inc	Ashburn	VA	1	Software Developers		NC
 San-J International, Inc.	Henrico	VA	1	Food Scientists and Technologists		VA
 Sana Biotechnology, Inc.	Seattle	WA	5	Molecular and Cellular Biologists; Bioengineers and Biomedical Engineers; Biochemists and Biophysicists	177600	CA,MA
@@ -7426,7 +7426,7 @@ Sanders Grossman Aronova, PLLC	Garden City	NY	1	Lawyers		NY
 Sanderson Pipe Corporation	Clarksville	TN	1	Database Administrators		FL
 Sandestin Investments, LLC	Miramar Beach	FL	1	Accountants and Auditors		FL
 Sandhill Holdings, LLC	Tempe	AZ	1	Project Management Specialists		AZ
-Sandisk Technologies, Inc.	Milpitas	CA	2046	Electronics Engineers, Except Computer; Industrial Engineers; Software Quality Assurance Analysts and Testers	137200	CA,CO,WA
+Sandisk Technologies, Inc.	Milpitas	CA	174	Electronics Engineers, Except Computer; Software Quality Assurance Analysts and Testers; Industrial Engineers	137200	CA,WA,CO
 Sandoz Inc.	Princeton	NJ	6	Regulatory Affairs Specialists; Business Intelligence Analysts; Biostatisticians	149300	NJ,WA
 Sands Capital Management, LLC	Arlington	VA	1	Financial and Investment Analysts		VA
 Sandsrx Frisco LLC	Frisco	TX	1	Pharmacists		TX
@@ -7580,7 +7580,7 @@ Satcon Inc.	Irving	TX	9	Software Developers; Data Scientists; Computer Programme
 Satek Solutions LLC	Farmers Branch	TX	1	Software Developers		TX
 Satellite Biosciences Inc	Newton	MA	1	Molecular and Cellular Biologists		MA
 Satellite Chemical USA Corp.	Houston	TX	4	Market Research Analysts and Marketing Specialists; Accountants and Auditors	63500	TX
-Satelytics Inc.	Perrysburg	OH	6	Geographic Information Systems Technologists and Technicians; Software Developers; Computer Programmers	82000	OH
+Satelytics Inc.	Perrysburg	OH	4	Geographic Information Systems Technologists and Technicians; Software Developers; Computer Programmers	82000	OH
 Sathiam Enterprises	Edison	NJ	1	Food Service Managers		NJ
 Sathram Corporation	Plainsboro	NJ	32	Validation Engineers; Regulatory Affairs Specialists; Data Scientists	100000	NJ,MA,NH
 Satin Solutions LLC	North Brunswick	NJ	170	Computer Programmers; Software Developers; Software Quality Assurance Analysts and Testers	98500	TX,NJ,GA
@@ -7769,7 +7769,7 @@ Schold Manufacturing LLC	Chicago	IL	1	Mechanical Engineers		IL
 Scholist App Inc.	Dallas	TX	1	Data Scientists		TX
 Schonfeld Strategic Advisors LLC	New York	NY	22	Financial Quantitative Analysts; Financial and Investment Analysts; Software Developers	214200	NY,CA
 Schonwetter Enterprises Inc.	Cohoes	NY	2	Compliance Managers; Food Scientists and Technologists		NY
-School District No. 15 Of Mohave County	Bullhead City	AZ	7	Special Education Teachers, Middle School; Special Education Teachers, Secondary School; Secondary School Teachers, Except Special and Career/Technical Education	47200	AZ
+School District No. 15 Of Mohave County	Bullhead City	AZ	6	Special Education Teachers, Secondary School; Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School	47200	AZ
 School District of Arcadia Board of Education	Arcadia	WI	2	Elementary School Teachers, Except Special Education; Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors		WI
 School District of Greenfield	Greenfield	WI	1	Middle School Teachers, Except Special and Career/Technical Education		WI
 School District of Kansas City 33	Kansas City	MO	10	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Secondary School	65400	MO
@@ -7894,7 +7894,7 @@ Scripps Shared Services Company	Cincinnati	OH	1	Business Intelligence Analysts		
 Script Care, Ltd.	Beaumont	TX	3	Software Developers; Database Administrators	95000	TX
 Scriptology, Inc.	Atlanta	GA	1	Computer and Information Research Scientists		IL
 ScrubAir Systems Inc.	Lake Zurich	IL	2	Electrical Engineers		MI,IL
-Scry Analytics, Inc.	Saratoga	CA	4	Software Quality Assurance Analysts and Testers		CA
+Scry Analytics, Inc.	Saratoga	CA	2	Software Quality Assurance Analysts and Testers		CA
 SCS Consulting Services Inc.	Emeryville	CA	2	Environmental Scientists and Specialists, Including Health; Industrial Ecologists		AZ,NJ
 Scs Tech Services LLC	Exton	PA	2	Software Developers; Data Scientists		PA,TX
 Scsi, LLC	Peoria	IL	1	Software Quality Assurance Analysts and Testers		IL
@@ -7981,7 +7981,7 @@ Sebasticook Valley Health	Pittsfield	ME	1	Speech-Language Pathologists		ME
 Secant Group, LLC	Telford	PA	3	Materials Engineers; Project Management Specialists	75600	PA
 Secco Squared, LLC	New York	NY	1	Data Scientists		NY
 Seceon, Inc.	Westford	MA	1	Software Developers		MA
-Second Axis, Inc.	Vallejo	CA	4	Software Developers		CA
+Second Axis, Inc.	Vallejo	CA	2	Software Developers		CA
 Second Baptist Church	Houston	TX	1	Education Administrators, Kindergarten through Secondary		TX
 Second Chance Ventures LLC	Lakewood	NJ	1	Computer Systems Analysts		NJ
 Second Foundation US Trading, LLC	Charlotte	NC	2	Data Scientists; Financial Quantitative Analysts		NC
@@ -8170,7 +8170,7 @@ Sensory Rehabilitation, LLC	Clawson	MI	9	Exercise Physiologists; Physical Therap
 Sensus U.S.A., Inc.	Morrisville	NC	1	Sales Engineers		NC
 Sensydia Corporation	Los Angeles	CA	1	Bioengineers and Biomedical Engineers		CA
 Sentara Health	Virginia Beach	VA	13	Clinical Data Managers; Medical and Clinical Laboratory Technologists; Software Quality Assurance Analysts and Testers	130000	VA,TX,IN
-Sentara Medical Group	Virginia Beach	VA	13	Hospitalists; General Internal Medicine Physicians; Family Medicine Physicians	270000	VA
+Sentara Medical Group	Virginia Beach	VA	11	Hospitalists; General Internal Medicine Physicians; Family Medicine Physicians	270000	VA
 Sentek Dynamics Inc.	Santa Clara	CA	1	Mechanical Engineers		NC
 SentiEdge Investment LLC	Malden	MA	1	Data Scientists		MA
 SENTIEDGE, Inc.	Malden	MA	1	Financial Quantitative Analysts		MA
@@ -8269,7 +8269,7 @@ Servicelink Services, LLC	Moon Township	PA	22	Software Developers; Data Scientis
 Servicemac, LLC	Santa Ana	CA	1	Managers, All Other		MI
 Servicengine Corporation	Danbury	CT	1	Software Quality Assurance Analysts and Testers		CT
 ServiceNow Consultancy Services LLC	Powell	OH	1	Computer Systems Analysts		OH
-ServiceNow, Inc.	Santa Clara	CA	860	Software Developers; Computer and Information Systems Managers; Operations Research Analysts	151200	CA,WA,FL
+ServiceNow, Inc.	Santa Clara	CA	352	Software Developers; Software Quality Assurance Analysts and Testers; Sales Engineers	151200	CA,FL,WA
 ServiceTitan, Inc.	Glendale	CA	20	Software Developers; Computer and Information Systems Managers; Data Scientists	178900	CA,TX,WA
 Servier Bio-Innovation LLC	Boston	MA	1	Biochemists and Biophysicists		MA
 Servier Pharmaceuticals LLC	Boston	MA	3	Data Scientists; Human Resources Specialists; Technical Writers	162000	MA
@@ -8330,7 +8330,7 @@ SF Global Constructions Co	Irving	TX	1	Electrical Engineers		TX
 Sf Global LLC	Dallas	TX	2	Data Scientists; Network and Computer Systems Administrators		TX
 SF Manager LLC	El Segundo	CA	2	Logisticians; Software Developers		CA,TX
 SFA Design Group, LLC.	Tigard	OR	1	Civil Engineers		OR
-SFC Global Supply Chain, Inc.	Marshall	MN	8	Industrial Engineers; Industrial Production Managers; Quality Control Systems Managers	105400	KS,CA,SD
+SFC Global Supply Chain, Inc.	Marshall	MN	7	Industrial Engineers; Quality Control Systems Managers; Manufacturing Engineers	105400	KS,CA,SD
 Sfm, LLC	Phoenix	AZ	4	Computer and Information Systems Managers; Software Developers	179000	AZ
 SForce Corp	Irving	TX	3	Software Developers	113000	IL,NC,MD
 SForce Infotech Inc.	Frisco	TX	1	Software Developers		TX
@@ -8419,7 +8419,7 @@ Sharpedge Solutions Inc	Naperville	IL	4	Software Developers	108000	IL,CA,TX
 Sharplink Software Llc.	Leander	TX	2	Software Developers		CA,TX
 Shashvat Diamonds Inc.	New York	NY	1	Data Scientists		NY
 Shasta Community Health Center	Redding	CA	1	Dentists, General		CA
-Shasta Regional Medical Group, Inc.	Redding	CA	2	Hospitalists		CA
+Shasta Regional Medical Group, Inc.	Redding	CA	1	Hospitalists		CA
 Shastra Software Solutions LLC	Richardson	TX	2	Business Intelligence Analysts; Data Scientists		TX
 Shattuck Family Physicians PLLC	Saginaw	MI	1	Software Developers		MI
 Shaul & Associates, PLC	West Des Moines	IA	1	Accountants and Auditors		IA
@@ -8589,7 +8589,7 @@ Shri Ganesh Dental PC	Cedar Park	TX	1	Medical and Health Services Managers		TX
 Shri Krishna Drugs Inc.	Fort Worth	TX	2	Pharmacists		TX
 Shri Kubereshwar LLC	Atlanta	GA	1	General and Operations Managers		GA
 Shri Saroj Subways, Inc.	Houston	TX	2	Network and Computer Systems Administrators		TX
-Shri Siddhi Inc	Westminster	CO	5	Information Security Analysts; Business Intelligence Analysts	114000	CO
+Shri Siddhi Inc	Westminster	CO	3	Information Security Analysts; Business Intelligence Analysts	114000	CO
 Shri Swami Narayan LLC	Newark	DE	1	Accountants and Auditors		DE
 Shria Management LLC	El Paso	TX	4	Network and Computer Systems Administrators; Human Resources Specialists		TX
 Shrinathji Hospitality LLC	Bath	NY	1	Business Intelligence Analysts		NY
@@ -8683,7 +8683,7 @@ Sierra-Cedar, LLC	Alpharetta	GA	4	Software Developers; Network and Computer Syst
 Sieva Networks	San Ramon	CA	1	Manufacturing Engineers		CA
 Sieve Data Inc	New York	NY	1	Software Developers		NY
 Sieve, Inc.	San Francisco	CA	2	Software Developers; General and Operations Managers		CA
-Sieyuan Electric USA, LLC	Plano	TX	3	Electrical Engineers		TX
+Sieyuan Electric USA, LLC	Plano	TX	1	Electrical Engineers		TX
 SIFA Learning Academy Charter School			5	Middle School Teachers, Except Special and Career/Technical Education	40800	
 SiFive, Inc.	Santa Clara	CA	3	Software Developers; Computer Hardware Engineers; Human Resources Specialists	161600	CA,TX
 Sift Development, Inc.	San Francisco	CA	1	Software Developers		CA
@@ -9045,7 +9045,7 @@ SkillBuilder.IO, Inc.	Pittsburgh	PA	1	Market Research Analysts and Marketing Spe
 Skillcentrix LLC	North Reading	MA	1	Database Administrators		MA
 Skillcraft Inc.	Cambridge	MA	1	Software Developers		MA
 Skillcycle Inc.	New York	NY	2	Treasurers and Controllers; Financial Managers		PA
-Skilled In Management Co LLC	Blue Ash	OH	23	Registered Nurses		OH
+Skilled In Management Co LLC	Blue Ash	OH	2	Registered Nurses		OH
 Skilled Project Solutions, Inc.	Houston	TX	1	Software Developers		MA
 Skillet Group, Inc.	New York	NY	1	Computer Systems Engineers/Architects		NY
 Skillful Technologies Inc	Monmouth Junction	NJ	1	Software Developers		TX
@@ -9272,7 +9272,7 @@ SMBC Nikko Securities America, Inc.	New York	NY	14	Software Developers; Financia
 SMD Steel LLC	Foxworth	MS	1	Industrial Engineers		AL
 SMG Global Circuits, Inc.	Washington	PA	4	Software Quality Assurance Analysts and Testers; Computer Systems Engineers/Architects; Electronics Engineers, Except Computer	70500	PA
 Smg Hunter LLC	Schaumburg	IL	2	Industrial Engineers; Computer Systems Analysts		IL
-SMH Health Care, Inc.	Sarasota	FL	2	Medical and Clinical Laboratory Technologists		FL
+SMH Health Care, Inc.	Sarasota	FL	1	Medical and Clinical Laboratory Technologists		FL
 SMH Healthcare, Inc.	Sarasota	FL	1	Registered Nurses		FL
 SMH Physician Services, Inc.	Sarasota	FL	2	Physicians, All Other		FL
 SMI Composites LLC	Comer	GA	1	Manufacturing Engineers		GA
@@ -9346,12 +9346,12 @@ SNF Holding Company	Riceboro	GA	2	Chemists; Chemical Engineers		TX,GA
 SNG Engineering, Inc.	Gaithersburg	MD	1	Civil Engineers		MD
 SNG Infotech, Inc.	Haines City	FL	3	Software Quality Assurance Analysts and Testers; Database Administrators; Software Developers		CA,NJ,FL
 Snikfend Inc	Troy	MI	4	Data Scientists; Software Developers; Network and Computer Systems Administrators	97800	MI,VA,FL
-SNK Petroleum Wholesalers, Inc.	Danbury	CT	3	Accountants and Auditors; Information Security Engineers		CT
+SNK Petroleum Wholesalers, Inc.	Danbury	CT	2	Accountants and Auditors; Information Security Engineers		CT
 Snohetta Architecture Landscape Architecture, P.C.	Brooklyn	NY	1	Landscape Architects		NY
 Snoozy Freshners, LLC	Chatsworth	CA	1	Computer Programmers		CA
 Snorkel AI, Inc.	Redwood City	CA	13	Software Developers; Information Technology Project Managers; Data Scientists	186000	CA,NJ,NY
 Snowflake Guam Co.			1	Mechanical Engineers		
-Snowflake Inc.	Menlo Park	CA	1526	Software Developers; Database Administrators; Sales Engineers	160000	CA,WA,TX
+Snowflake Inc.	Menlo Park	CA	345	Software Developers; Sales Engineers; Computer Systems Engineers/Architects	160000	CA,WA,TX
 Snowpik Commerce LLC	Irvine	CA	2	Budget Analysts		CA
 Snowrelic Inc	Reston	VA	1	Software Developers		VA
 Snowsoft LLC	Irving	TX	4	Software Developers	98300	KY,TX,OH
@@ -9575,7 +9575,7 @@ Solitaire Labgrown Inc	New York	NY	1	Data Scientists		NY
 Solix Technologies Incorporated	Santa Clara	CA	10	Software Developers; Database Administrators; Computer Systems Analysts	118800	TX
 Solize USA Corporation	Livonia	MI	14	Mechanical Engineers; Business Intelligence Analysts; Automotive Engineers		OH,NC,MI
 Solleys Inc	Brookeland	TX	8	General and Operations Managers; Training and Development Specialists; Financial and Investment Analysts	65700	TX
-Solns AI Inc.	Honolulu	HI	3	Robotics Engineers		HI
+Solns AI Inc.	Honolulu	HI	2	Robotics Engineers		HI
 Solnsoft LLC	Irvine	CA	2	Computer and Information Systems Managers; Information Technology Project Managers		FL,CA
 Solo Cup Operating Corporation	Mason	MI	4	Industrial Engineers; Computer Systems Engineers/Architects; Network and Computer Systems Administrators	133800	TX,MD
 Solo Technologies, Inc.	Bend	OR	1	Search Marketing Strategists		WA
@@ -9727,9 +9727,9 @@ Soumava Sen Dds PC	Orange	CA	3	Dentists, General		TX
 Sound Inpatient Physicians - Michigan, PLLC	Nashville	TN	2	Hospitalists		MI
 Sound Of Hope Radio Network Inc	San Francisco	CA	1	Accountants and Auditors		NY
 Sound Patrol, Inc.	West Hollywood	CA	2	Financial Managers		FL
-Sound Physicians of Florida IV, LLC	Tacoma	WA	7	Hospitalists		FL
+Sound Physicians of Florida IV, LLC	Tacoma	WA	4	Hospitalists		FL
 Sound Physicians of Florida VI, LLC	Nashville	TN	5	Hospitalists		FL
-Sound Physicians of Illinois, LLC	Nashville	TN	8	Hospitalists		MO,IL
+Sound Physicians of Illinois, LLC	Nashville	TN	7	Hospitalists		MO,IL
 Sound Physicians of Massachusetts, Inc.	Nashville	TN	4	Hospitalists		MA
 Sound Point Capital Management LP	New York	NY	2	Financial and Investment Analysts; Credit Analysts		NY
 SoundCloud, Inc.	New York	NY	1	Operations Research Analysts		NY
@@ -9738,7 +9738,7 @@ Soundingboard Company	El Cerrito	CA	2	Information Technology Project Managers		C
 SoundTech, Inc.	Grand Rapids	MI	1	Accountants and Auditors		MI
 SoundThinking, Inc.	Fremont	CA	3	Software Developers	145000	TX,NJ
 Soundtrace Inc.	Loveland	OH	2	General and Operations Managers		OH
-Souneo Music LLC	Arcadia	CA	2	Music Directors and Composers		CA
+Souneo Music LLC	Arcadia	CA	1	Music Directors and Composers		CA
 Source Cloud Technologies, Inc.	Apex	NC	20	Software Developers; Computer Programmers; Statisticians	111200	CA,NC,FL
 Source Code Technologies, LLC	Lake Forest	CA	7	Software Developers; Computer Programmers; Information Technology Project Managers	98300	AZ,NJ,CA
 Source Consulting, LLC	Holliston	MA	15	Software Developers; Network and Computer Systems Administrators	95000	TX,FL,MA
@@ -9792,7 +9792,7 @@ South Pine LLC	Alhambra	CA	1	Business Operations Specialists, All Other		CA
 South San Antonio Independent School District	San Antonio	TX	1	Elementary School Teachers, Except Special Education		TX
 South Shore Medical Services, PLLC	West Islip	NY	1	Pediatric Surgeons		NY
 South Shore YMCA	Quincy	MA	1	Recreation Workers		MA
-South Sound Inpatient Physicians, PLLC	Nashville	TN	30	Hospitalists		WA,OR
+South Sound Inpatient Physicians, PLLC	Nashville	TN	22	Hospitalists		WA,OR
 South State Bank, N.A.	Winter Haven	FL	1	Computer Network Support Specialists		GA
 South Tama County Community School District	Tama	IA	3	Special Education Teachers, Secondary School; Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School	50000	IA
 South Texas College of Law Houston, Inc.	Houston	TX	2	Computer Systems Engineers/Architects		TX
@@ -10349,7 +10349,7 @@ ST Shared Services LLC	Hazelwood	MO	1	Computer Systems Analysts		NJ
 St Stones, Inc.	Pompano Beach	FL	1	Logisticians		FL
 St Systems Consulting, Inc	New York	NY	1	Computer Systems Engineers/Architects		NY
 ST Tech, Inc	Cary	NC	2	Management Analysts		NC
-St. Agnes Healthcare, Inc.	Baltimore	MD	3	Healthcare Practitioners and Technical Workers, All Other		MD
+St. Agnes Healthcare, Inc.	Baltimore	MD	2	Healthcare Practitioners and Technical Workers, All Other		MD
 St. Aloisius Hospital, Inc.	Harvey	ND	4	Registered Nurses		ND
 St. Andrew Kim Korean Catholic Church, Norcross, Inc.	Duluth	GA	1	Clergy		GA
 St. Anthony Hospital - Pendleton	Pendleton	OR	1	Medical and Clinical Laboratory Technologists		OR
@@ -10649,7 +10649,7 @@ State University of New York at Oswego	Oswego	NY	3	Computer Science Teachers, Po
 State University of New York at Potsdam	Potsdam	NY	1	Data Scientists		NY
 State University of New York at Stony Brook	Stony Brook	NY	27	Health Specialties Teachers, Postsecondary; Biological Science Teachers, Postsecondary; Engineering Teachers, Postsecondary	96500	NY
 State University of New York Downstate Health Sciences University	Brooklyn	NY	10	Physicians, All Other; Health Specialties Teachers, Postsecondary; Supply Chain Managers	129100	NY
-State University of New York, Upstate Medical University	Syracuse	NY	36	Physicians, All Other; Health Specialties Teachers, Postsecondary; Hospitalists	63300	NY
+State University of New York, Upstate Medical University	Syracuse	NY	35	Physicians, All Other; Health Specialties Teachers, Postsecondary; Hospitalists	63300	NY
 State Water Resources Control Board	Sacramento	CA	1	Water/Wastewater Engineers		CA
 Stateasy LLC	Bethesda	MD	1	Instructional Coordinators		MD
 Statement Accessories LLC	New York	NY	1	Fashion Designers		NY
@@ -10774,7 +10774,7 @@ Sterling Animal Care PLLC	Sterling	VA	2	Veterinarians		VA
 Sterling Distributors	Coral Springs	FL	3	Operations Research Analysts; Compliance Officers	70000	FL
 Sterling Engineering, Inc.	Westchester	IL	3	Software Developers; Mechanical Engineers; Electrical Engineers		IL,TX
 Sterling Group PLLC	Washington	DC	1	Mental Health Counselors		DC
-Sterling Jewelers Inc.	Akron	OH	90	Software Developers; Computer Systems Analysts; Information Security Analysts	112200	TX,OH
+Sterling Jewelers Inc.	Akron	OH	18	Software Developers; Computer Systems Analysts; Information Security Analysts	112200	TX,OH
 Sterling Labs, Inc.	San Francisco	CA	1	Sales Engineers		CA
 Sterling Medical Devices, LLC	Lyndhurst	NJ	3	Software Quality Assurance Analysts and Testers; Computer Programmers	135500	NJ
 Sterling Mets, L.P.	Flushing	NY	1	Lawyers		NY
@@ -10982,7 +10982,7 @@ Streamline Innovations Inc	San Antonio	TX	2	Software Developers; Industrial Engi
 Streamline Integrated Technologies	Flower Mound	TX	1	Robotics Engineers		TX
 Streamliners Management Consulting, LLC	Chattanooga	TN	1	Industrial Engineers		NJ
 Streamsource Technologies Inc	New York	NY	1	Project Management Specialists		NY
-Streamvector Inc.	Jersey City	NJ	14	Software Developers; Data Scientists; Sales Engineers	142500	NJ,IL,TX
+Streamvector Inc.	Jersey City	NJ	10	Software Developers; Data Scientists; Sales Engineers	142500	NJ,IL,TX
 Streebo, Inc.	Houston	TX	1	Software Developers		TX
 Streetcar Healthcare, Inc.	Kansas City	KS	2	Medical and Health Services Managers		KS
 Streetlight Data, Inc.	Houston	TX	3	Data Scientists; Operations Research Analysts; Sales Engineers	167900	CA
@@ -11047,7 +11047,7 @@ Studebaker Brackett PLLC	Tysons	VA	1	Lawyers		VA
 Studebaker Electric Inc	Loomis	CA	1	Project Management Specialists		CA
 Student Medicover Co LLC	Burlingame	CA	2	Market Research Analysts and Marketing Specialists; Statisticians		CA
 Student Outlets Inc	Alhambra	CA	1	Data Scientists		CA
-Studentslanding Inc	Boston	MA	5	Financial and Investment Analysts; Web Developers; Data Scientists		NH,MA
+Studentslanding Inc	Boston	MA	4	Web Developers; Data Scientists; Financial and Investment Analysts		NH,MA
 Studio A & M Architects LLC	Randolph	NJ	1	Architectural and Civil Drafters		NJ
 Studio Displays Inc.	Indian Land	SC	2	Market Research Analysts and Marketing Specialists		SC
 Studio E Architects	San Diego	CA	1	Architects, Except Landscape and Naval		CA
@@ -11131,7 +11131,7 @@ Sukoon Hospitality LLC	Houston	TX	1	Management Analysts		TX
 Sukup Manufacturing Co.	Sheffield	IA	1	Industrial Engineers		IA
 Sul Ross State University	Alpine	TX	2	Operations Research Analysts; Computer Science Teachers, Postsecondary		OH,TX
 Suletech LLC	Irvine	CA	1	Electrical Engineers		CA
-Sullivan & Cromwell LLP	New York	NY	24	Lawyers	215000	NY,DC
+Sullivan & Cromwell LLP	New York	NY	5	Lawyers	215000	NY,DC
 Sullivan & Grantham PLLC	Decatur	TX	2	Accountants and Auditors		TX
 Sullivan & Worcester LLP	Boston	MA	2	Judicial Law Clerks; Lawyers		MA,NY
 Sullivan County Memorial Hospital	Milan	MO	2	Registered Nurses; Medical and Clinical Laboratory Technologists		MO
@@ -11287,7 +11287,7 @@ SunOpta Companies, Inc.	Eden Prairie	MN	1	Management Analysts		MN
 SunOpta Grains and Foods Inc.	Eden Prairie	MN	1	Software Quality Assurance Analysts and Testers		MN
 Sunovee Inc	Cary	NC	3	Data Scientists; Information Technology Project Managers	96000	TX,NC,AZ
 Sunpin Solar Development LLC	Irvine	CA	1	Solar Energy Systems Engineers		CA
-Sunplus Data Group, Inc.	Lawrenceville	GA	4	Software Developers		GA
+Sunplus Data Group, Inc.	Lawrenceville	GA	3	Software Developers		GA
 Sunraise Technologies INC	Fairfax	VA	15	Computer Programmers; Software Developers; Network and Computer Systems Administrators	96400	TX,VA,CA
 Sunray Enterprise, Inc	Atlanta	GA	4	Computer Programmers; Software Developers	97500	OH,GA,MN
 Sunray Informatics Inc.	East Brunswick	NJ	8	Computer Programmers; Software Developers	100800	GA,TN,CA
@@ -11309,7 +11309,7 @@ SunRise Realty and Financing	Piedmont	CA	1	Interior Designers		CA
 Sunrise Senior Living Management Inc.	McLean	VA	3	Accountants and Auditors; Financial and Investment Analysts; Computer and Information Systems Managers	100100	VA
 Sunrise Technologies LLC	Duncanville	TX	12	Software Developers; Business Intelligence Analysts; Supply Chain Managers	86600	TX,AZ,VA
 Sunrise Wholesale LLC	Macon	GA	3	Accountants and Auditors; Data Scientists		GA
-Sunrise Wholesalers Inc	Jersey City	NJ	4	Data Scientists; Operations Research Analysts	79500	NJ
+Sunrise Wholesalers Inc	Jersey City	NJ	3	Data Scientists; Operations Research Analysts	79500	NJ
 Sunrun Installation Services Inc.	San Francisco	CA	2	Operations Research Analysts		UT
 Sunrun, Inc.	San Francisco	CA	12	Software Developers; Lawyers; Computer and Information Systems Managers	188200	CA,UT,TX
 Sunsea Law Group P.C.	Irvine	CA	1	Lawyers		NJ
@@ -11331,7 +11331,7 @@ SunShine Technologies Inc	Westerville	OH	3	Software Developers		PA,TX
 Sunshine Technology Solutions Corp.	Palmetto Bay	FL	1	Business Intelligence Analysts		TX
 Sunshine Vision Development Center LLC	Natick	MA	1	Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists		MA
 Sunshine Windows Manufacturing Inc	Hialeah	FL	1	Mechanical Engineers		FL
-Sunsoft Services Inc	Jersey City	NJ	20	Software Developers; Software Quality Assurance Analysts and Testers; Electronics Engineers, Except Computer	92500	NJ,CA,NY
+Sunsoft Services Inc	Jersey City	NJ	18	Software Developers; Software Quality Assurance Analysts and Testers; Electronics Engineers, Except Computer	92500	NJ,CA,NY
 Sunsoft Solutions Inc.	Alpharetta	GA	1	Software Developers		GA
 SunSpec Alliance	San Jose	CA	1	Software Developers		OR
 Sunstate Equipment Co., LLC	Phoenix	AZ	3	Chief Executives	338200	AZ
@@ -11362,7 +11362,7 @@ Super Apparel Inc	New York	NY	1	Business Intelligence Analysts		NY
 Super Boats & Yachts LLC	West Palm Beach	FL	1	Management Analysts		FL
 Super Deal Auto Group, LLC	Columbus	OH	1	Software Developers		OH
 Super Evil Mega Corp	San Francisco	CA	1	Software Developers		CA
-Super Micro Computer, Inc.	San Jose	CA	4913	Software Developers; Information Technology Project Managers; Electrical Engineers	141000	CA
+Super Micro Computer, Inc.	San Jose	CA	55	Electrical Engineers; Software Developers; Mechanical Engineers	141000	CA
 Super Tech Consulting LLC	Tampa	FL	7	Software Developers; Database Administrators; Computer Programmers	83800	FL,IL,PA
 Super Technology Solutions Inc.	Warren	NJ	1	Software Quality Assurance Analysts and Testers		NY
 Super Technology Soutions Inc.	Warren	NJ	1	Information Technology Project Managers		NJ
@@ -11476,7 +11476,7 @@ Sutro Architects, Inc.	San Francisco	CA	1	Architects, Except Landscape and Naval
 Sutro Biopharma, Inc.	South San Francisco	CA	2	Molecular and Cellular Biologists; Medical Scientists, Except Epidemiologists		CA
 Sutter Coast Hospital	Sacramento	CA	2	Occupational Therapists; Family Medicine Physicians		CA
 Sutter Health	Sacramento	CA	11	Software Developers; Computer and Information Systems Managers; Database Architects		CA
-Sutter Hill Management Company, L.L.C	Palo Alto	CA	9	Software Developers	165000	CA
+Sutter Hill Management Company, L.L.C	Palo Alto	CA	3	Software Developers	165000	CA
 Sutter Medical Group of the Redwoods, Inc.	Santa Rosa	CA	1	Surgeons, All Other		CA
 Sutter Valley Hospitals	Sacramento	CA	1	Pharmacists		CA
 Sutter Visiting Nurse Association and Hospice	Sacramento	CA	1	Physical Therapists		CA
@@ -11724,7 +11724,7 @@ Synlico, Inc.	South San Francisco	CA	1	Financial and Investment Analysts		CA
 Synmeta LLC	Chicago	IL	4	Health Informatics Specialists; Software Developers		CO,NJ,CT
 Synoelec Technology USA Inc	Bloomfield Hills	MI	1	Market Research Analysts and Marketing Specialists		TX
 Synopic Inc.	Houston	TX	2	Electrical Engineers		TX
-Synopsys, Inc.	Sunnyvale	CA	2147	Electronics Engineers, Except Computer; Software Developers; Architectural and Engineering Managers	147000	CA,TX,MA
+Synopsys, Inc.	Sunnyvale	CA	67	Electronics Engineers, Except Computer; Software Developers; Architectural and Engineering Managers	147000	CA,TX,MA
 Synoptek, LLC	Costa Mesa	CA	1	Information Technology Project Managers		IL
 Synos Corp	Newark	DE	2	Industrial Engineers		PA
 Synova Solutions Inc	Dallas	TX	18	Computer Programmers; Computer Systems Engineers/Architects	85000	TX
@@ -11813,8 +11813,8 @@ Systems Integration Solutions, Inc.	Walnut Creek	CA	1	Computer Systems Analysts	
 Systems Management Consulting LLC	East Hartford	CT	1	Information Security Analysts		CT
 Systems Protection Group US LLC	Northville	MI	1	Industrial Production Managers		TX
 Systems Services, Inc.	Baton Rouge	LA	1	Software Developers		LA
-Systems Technilogy Group, Inc.	Troy	MI	2	Software Developers		TX
-Systems Technology Group Inc	Troy	MI	54	Software Developers; Industrial Engineers; Mechanical Engineers		MI
+Systems Technilogy Group, Inc.	Troy	MI	1	Software Developers		TX
+Systems Technology Group Inc	Troy	MI	28	Software Developers; Mechanical Engineers; Industrial Engineers		MI
 Systems with Reliability, LP	Ebensburg	PA	1	Electrical Engineers		PA
 Systemsoft Inc	Herndon	VA	9	Software Developers; Network and Computer Systems Administrators; Accountants and Auditors	92400	VA,CA,FL
 Systena America, Inc.	San Mateo	CA	1	Software Quality Assurance Analysts and Testers		TX
@@ -11825,7 +11825,7 @@ Sysvine Technologies Inc.	Mountain View	CA	1	Software Developers		NJ
 Syswise LLC	Round Rock	TX	1	Computer Programmers		NJ
 Syzygy Plasmonics Inc	Houston	TX	1	Project Management Specialists		TX
 SZ & Asssociates CPA, Inc.	Chno	CA	1	Accountants and Auditors		CA
-Szabo Aerospace LLC			2	Mechanical Engineers		
+Szabo Aerospace LLC			1	Mechanical Engineers		
 Szooom LLC	Ashburn	VA	1	Human Resources Specialists		VA
 T & Y Financial Solutions LLC	Suwanee	GA	1	Accountants and Auditors		GA
 T Prods Solutions INC	Durham	NC	4	Software Developers	82800	OH
@@ -11868,7 +11868,7 @@ Tarleton State University	Stephenville	TX	9	Business Teachers, Postsecondary; En
 Task Software Solutions LLC	Alpharetta	GA	4	Software Developers; Computer Systems Analysts		MI,WI,TX
 Tata Consultancy Services Limited	Rockville	MD	2357	Computer Systems Engineers/Architects; Computer Programmers; Computer Systems Analysts	90600	TX,NJ,CA
 Tate & Lyle Solutions USA, LLC	Hoffman Estates	IL	8	Food Scientists and Technologists; Compliance Managers; Chemists	106100	IL,FL
-Tate Topa Tribal School	Fort Totten	ND	5	Special Education Teachers, Elementary School; Elementary School Teachers, Except Special Education		ND
+Tate Topa Tribal School	Fort Totten	ND	2	Elementary School Teachers, Except Special Education; Special Education Teachers, Elementary School		ND
 Tavas Systems LLC	Exton	PA	2	Software Developers; Computer Systems Analysts		TX,IN
 TAVO Sleep, LLC	Brookfield	IL	1	Commercial and Industrial Designers		IL
 Tawa Services, Inc.	Buena Park	CA	3	Accountants and Auditors; Financial Managers; Human Resources Specialists	120000	CA
@@ -12180,7 +12180,7 @@ The Skaggs Community Hospital Association d/b/a Cox Medical Center Branson	Brans
 The Skyscraper Museum	New York	NY	2	Graphic Designers		NY
 The Smart Cube, Inc.	Chicago	IL	1	Management Analysts		IL
 The Smile Institute PC	Brookline	MA	1	Market Research Analysts and Marketing Specialists		MA
-The Smile Mission South Miami, PLLC	Miami	FL	9	Medical and Health Services Managers	112000	GA,VA,LA
+The Smile Mission South Miami, PLLC	Miami	FL	7	Medical and Health Services Managers	112000	GA,LA,SC
 The Smilist Dental of New Jersey, LLC	Great Neck	NY	1	Dentists, General		NJ
 The Smilist Dental, PLLC	Great Neck	NY	1	Dentists, General		NY
 The Snack Joint LLC	Ridgewood	NY	1	Public Relations Specialists		NY
@@ -12192,7 +12192,7 @@ The South Florida Section Professional Golfers Association of America, Inc.	West
 The Southeast Permanente Medical Group, Inc.	Atlanta	GA	4	Business Intelligence Analysts; Podiatrists	99600	GA
 The Spear Group, LLC	Peachtree Corners	GA	2	Civil Engineers; Purchasing Agents, Except Wholesale, Retail, and Farm Products		NC,GA
 The Specialty Center for Periodontics & Dental Implants, Inc.	Douglasville	GA	1	Dentists, All Other Specialists		GA
-The Sphere Institute	Burlingame	CA	76	Social Science Research Assistants; Statisticians; Technical Writers	85000	CA,DC,NJ
+The Sphere Institute	Burlingame	CA	33	Social Science Research Assistants; Statisticians; Technical Writers	85000	CA,DC,NJ
 The Spirit of Marco Polo	Irvine	CA	1	Kindergarten Teachers, Except Special Education		CA
 The Staffed 360 Llc.	Boca Raton	FL	2	Computer Systems Analysts; Software Developers		NY,TX
 The Stamford Hospital	Stamford	CT	6	Registered Nurses; Business Intelligence Analysts; Clinical Nurse Specialists	109700	CT
@@ -12220,7 +12220,7 @@ The University of San Francisco	San Francisco	CA	6	Software Developers; Operatio
 The University of Southern California	Los Angeles	CA	124	Health Specialties Teachers, Postsecondary; Biochemists and Biophysicists; Molecular and Cellular Biologists	75700	CA
 The University of Tennessee Health Science Center	Memphis	TN	43	Health Specialties Teachers, Postsecondary; Biochemists and Biophysicists; Physicians, All Other	70600	TN
 The University of Texas at San Antonio	San Antonio	TX	12	Engineering Teachers, Postsecondary; Criminal Justice and Law Enforcement Teachers, Postsecondary; Management Analysts	77500	TX,PA
-The University of Texas Health Science Center at Houston	Houston	TX	50	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Physicians, All Other	74100	TX
+The University of Texas Health Science Center at Houston	Houston	TX	49	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Physicians, All Other	74100	TX
 The University of Texas Health Science Center at Tyler	Tyler	TX	4	Psychiatrists; Pediatricians, General; Molecular and Cellular Biologists	200200	TX
 The University of Texas System	Austin	TX	1	Human Resources Specialists		TX
 The University of the South	Sewanee	TN	1	Foreign Language and Literature Teachers, Postsecondary		TN
@@ -12245,7 +12245,7 @@ Thinkhat Software Inc.	Wilmington	DE	1	Software Developers		NY
 ThinkNext Software Solutions LLC	Rolling Meadows	IL	1	Computer Programmers		NY
 Third Wave Systems, Inc.	Eden Prairie	MN	4	Software Developers; Operations Research Analysts; Mechanical Engineers	107100	MN,MD
 Thomasville City Schools	Thomasville	NC	1	Elementary School Teachers, Except Special Education		NC
-Thomson Reuters Services, Inc.	Eagan	MN	32	Accountants and Auditors; Information Technology Project Managers	93900	MN,CA,TX
+Thomson Reuters Services, Inc.	Eagan	MN	12	Accountants and Auditors; Information Technology Project Managers	93900	MN,TX,CA
 Thought Circuits Services LLC	Irving	TX	27	Software Developers; Software Quality Assurance Analysts and Testers	90900	TX,FL,OH
 Thoughtwave Software and Solutions Inc	Aurora	IL	13	Software Developers; Computer Systems Engineers/Architects; Network and Computer Systems Administrators	108100	IL,TX,GA
 Threatmodeler Software Inc.	Jersey City	NJ	1	Information Security Engineers		NJ
@@ -12258,14 +12258,14 @@ thyssenkrupp Supply Chain Services NA, Inc.	Southfield	MI	2	Industrial Engineers
 TI Clinical Trial Services LLC	New York	NY	2	Information Technology Project Managers; Clinical Data Managers		PA,TX
 TI Group Automotive Systems, LLC	Auburn Hills	MI	3	Software Developers; Computer and Information Systems Managers; Mechanical Engineers	120300	MI
 TI Sparkle Americas, Inc	Miami	FL	1	Sales Engineers		CA
-TidalHealth Specialty Care, LLC	Salisbury	MD	22	Hospitalists; Radiologists; Physicians, All Other	293000	MD,DE
+TidalHealth Specialty Care, LLC	Salisbury	MD	18	Hospitalists; Radiologists; Physicians, All Other	293000	MD,DE
 Tiedot Solutions, LLC	Rolling Meadows	IL	1	Software Developers		TX
 Tierra South Florida, Inc.	West Palm Beach	FL	1	Civil Engineers		FL
 Tift Regional Health System, Inc.	Tifton	GA	2	Physicians, All Other; Hospitalists		GA
 Tiger Cub Immersion School L.L.C.	Union	NJ	4	Preschool Teachers, Except Special Education	46000	NJ
 Tigerflow Systems LLC	Dallas	TX	1	Logistics Analysts		TX
 Tika Security, Inc.	Sunnyvale	CA	1	Software Developers		CA
-TikTok U.S. Data Security Inc.	San Jose	CA	271	Software Developers; Data Scientists; Information Technology Project Managers	190400	CA,WA,NY
+TikTok U.S. Data Security Inc.	San Jose	CA	122	Software Developers; Data Scientists; Database Architects	190400	CA,WA,NY
 Tiles in Style	South Holland	IL	1	Cost Estimators		IL
 Timeless Seeds, Inc.	Ulm	MT	1	Soil and Plant Scientists		MT
 Timeless Staffing Services, LLC	Richardson	TX	1	Accountants and Auditors		TX
@@ -12371,7 +12371,7 @@ Tri IT Services LLC	Irving	TX	1	Market Research Analysts and Marketing Specialis
 Tri Star Wholesale LLC	Lake Charles	LA	1	Financial and Investment Analysts		LA
 Tri State Legal-Boaz PC	New York	NY	1	Lawyers		NY
 Tri State Materials Testing Lab, LLC	Berlin	CT	1	Human Resources Specialists		CT
-Triad Math and Science Academy Co.	Apex	NC	38	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	60000	NC
+Triad Math and Science Academy Co.	Apex	NC	30	Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education	60000	NC
 Triad National Security, LLC	Los Alamos	NM	35	Physicists; Mathematicians; Materials Scientists	147000	NM,MI,NH
 Triad RF Systems, Inc.	East Brunswick	NJ	1	Mechanical Engineers		NJ
 Triad Solution Partners	Sugarland	TX	1	Business Intelligence Analysts		TX
@@ -12425,7 +12425,7 @@ Tsq Systems Inc	Irving	TX	31	Software Developers; Software Quality Assurance Ana
 TSR Consulting Services, Inc.	Hauppauge	NY	6	Computer Systems Engineers/Architects; Software Developers; Information Technology Project Managers		NJ
 TSYS Acquiring Solutions LLC	Atlanta	GA	1	Software Developers		FL
 TSYS Merchant Solutions, LLC	Atlanta	GA	1	Network and Computer Systems Administrators		VA
-TT Commerce & Global Services LLC	Culver City	CA	669	Software Developers; Data Scientists; Market Research Analysts and Marketing Specialists	176000	CA,WA,NY
+TT Commerce & Global Services LLC	Culver City	CA	450	Software Developers; Market Research Analysts and Marketing Specialists; Data Scientists	176000	CA,WA,NY
 TTEC Services Corporation	Austin	TX	1	Software Developers		CO
 TTS Solutions Inc.	Austin	TX	1	Software Developers		TX
 Tuba City Unified School District No. 15	Tuba City	AZ	10	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education; Network and Computer Systems Administrators	56900	AZ
@@ -12611,7 +12611,7 @@ University of Maryland Eastern Shore	Princess Anne	MD	7	Health Specialties Teach
 University of Maryland Medical System Corporation	Linthicum	MD	10	Software Developers, Non R&D; Data Scientists; Operations Research Analysts	135000	MD,SC
 University of Maryland St. Joseph Medical Center, LLC	Towson	MD	1	Exercise Physiologists		MD
 University of Maryland St. Joseph Medical Group, LLC	Towson	MD	1	Surgeons, All Other		MD
-University of Oklahoma Health Sciences Center	Oklahoma City	OK	46	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Physicians, All Other	66000	OK
+University of Oklahoma Health Sciences Center	Oklahoma City	OK	43	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Physicians, All Other	66000	OK
 University of Puerto Rico-Medical Science Campus			1	Bioinformatics Scientists		
 University of Puget Sound	Tacoma	WA	2	History Teachers, Postsecondary; Web and Digital Interface Designers		WA
 University of Saint Joseph	West Hartford	CT	2	Education Administrators, Postsecondary; Education Teachers, Postsecondary		CT
@@ -12659,7 +12659,7 @@ Urban Science Applications, Inc.	Detroit	MI	1	Software Developers		MI
 Urban Spatial Lab LLC	Philadelphia	PA	1	Urban and Regional Planners		PA
 Urbane Systems LLC	Herndon	VA	3	Network and Computer Systems Administrators	104100	VA
 URL Systems Inc.	Bridgewater	NJ	2	Software Developers; Computer Systems Analysts		PA,MA
-US Elogistics Service Corp	Monroe Township	NJ	15	Market Research Analysts and Marketing Specialists; Logistics Analysts; Management Analysts	59600	CA,NJ,PA
+US Elogistics Service Corp	Monroe Township	NJ	13	Market Research Analysts and Marketing Specialists; Management Analysts; Operations Research Analysts	59600	CA,NJ,PA
 US Locum Services Inc	Sugar Land	TX	1	Medical and Health Services Managers		TX
 US Software Professionals Inc	Chicago	IL	3	Software Developers; Data Scientists	107600	RI,IL,MA
 US Tech Solutions Inc	Jersey City	NJ	4	Data Scientists; Computer Occupations, All Other	103000	MO,NC
@@ -12736,7 +12736,7 @@ Value Plus Engineering Solutions LLC	Indianapolis	IN	1	Construction Managers		IN
 Value Spectrum Technologies LLC	Chandler	AZ	1	Database Administrators		AZ
 Valuedo Life Sciences Advisory LLC	Albany	NY	1	Management Analysts		FL
 Valzo Soft Solutions Llc.	Alpharetta	GA	7	Software Developers; Data Scientists; Computer Programmers	112900	CA,GA,TX
-Van Pelt Construction Services	Fairfield	CA	2	Project Management Specialists		CA
+Van Pelt Construction Services	Fairfield	CA	1	Project Management Specialists		CA
 Vance County Public Schools	Henderson	NC	1	Elementary School Teachers, Except Special Education		NC
 Vance County Schools	Henderson	NC	2	Special Education Teachers, Secondary School		NC
 Vanguard University of Southern California	Costa Mesa	CA	1	Political Science Teachers, Postsecondary		CA
@@ -13018,14 +13018,14 @@ Webb School	Bell Buckle	TN	1	Secondary School Teachers, Except Special and Caree
 Weber State University	Ogden	UT	3	Computer Systems Engineers/Architects; Environmental Science Teachers, Postsecondary; Communications Teachers, Postsecondary	81800	UT
 Webject Systems Inc	Bridgewater	MA	10	Software Developers; Information Technology Project Managers; Data Scientists	131100	MA,NC,DC
 Weblinx Solutions LLC	Fairlawn	OH	3	Computer Programmers; Data Scientists		TX,FL
-WebMD Professional Services LLC	Newark	NJ	29	Software Developers; Business Intelligence Analysts; Web and Digital Interface Designers	103200	NJ
+WebMD Professional Services LLC	Newark	NJ	5	Business Intelligence Analysts; Software Developers; Web and Digital Interface Designers	103200	NJ
 Weibee Steel	Washington	OK	1	Construction Managers		OK
 Weida Freight System, Inc.	Compton	CA	1	Logistics Analysts		GA
 Weissman's Theatrical Supplies, Inc.	St. Louis	MO	1	Network and Computer Systems Administrators		MO
 WeJob HR Solutions, LLC.	Ithaca	NY	3	Business Intelligence Analysts; Human Resources Specialists		NY
 Welch Design Studio Interiors, Inc.	El Segundo	CA	1	Architectural and Civil Drafters		CA
 Welcome Real Estate Services, LLC	Houston	TX	1	Data Scientists		TX
-Weldon City Schools	Weldon	NC	16	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Special Education Teachers, Elementary School	41800	NC
+Weldon City Schools	Weldon	NC	13	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Librarians and Media Collections Specialists	41800	NC
 Wellabe Services Company	Des Moines	IA	3	Business Intelligence Analysts; Software Quality Assurance Analysts and Testers	75000	IA
 WellMed Florida Services, PLLC	Palm Harbor	FL	1	Nurse Practitioners		FL
 Wellmont Cardiology Services	Johnson City	TN	2	Cardiologists		TN
@@ -13036,7 +13036,7 @@ Wellspan Good Samaritan Hospital	Lebanon	PA	5	Physicians, All Other; Medical and
 Wesley Physician Services, Llc/merit Health Wesley	Hattiesburg	MS	1	Cardiologists		MS
 West Advanced Solutions, LLC	Houston	TX	2	Chemical Engineers; Electrical Engineers		TX
 West Coast Sea Product LLC	Tukwila	WA	1	Web Developers		WA
-West Harvey-Dixmoor School District 147	Harvey	IL	4	Preschool Teachers, Except Special Education		IL
+West Harvey-Dixmoor School District 147	Harvey	IL	1	Preschool Teachers, Except Special Education		IL
 West Las Vegas Schools	Las Vegas	NM	1	Middle School Teachers, Except Special and Career/Technical Education		NM
 West Pharmaceutical Services, Inc.	Exton	PA	10	Bioengineers and Biomedical Engineers; Mechanical Engineers; Information Technology Project Managers	105200	PA,AZ
 West River Health Services	Hettinger	ND	4	Registered Nurses; Medical and Clinical Laboratory Technologists		ND
@@ -13054,7 +13054,7 @@ Western Packaging Solutions USA Corp	Miami	FL	1	Chief Executives		FL
 Western University of Health Sciences	Pomona	CA	3	Health Specialties Teachers, Postsecondary; Biologists	131300	CA
 Westlake Management Services Inc.	Houston	TX	5	Computer and Information Systems Managers; Computer Programmers; Mechanical Engineers	155400	TX,GA,FL
 Westlake Services, LLC	Los Angeles	CA	1	Computer Systems Analysts		CA
-Westmoreland County School Board	Montross	VA	5	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School	47400	VA
+Westmoreland County School Board	Montross	VA	4	Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School; Secondary School Teachers, Except Special and Career/Technical Education	47400	VA
 Weston & Sampson Engineers, Inc.	Reading	MA	9	Landscape Architects; Civil Engineers; Environmental Engineers	80500	MA,CT,NC
 Weston Solutions, Inc.	West Chester	PA	1	Civil Engineers		TX
 WestRock Services, LLC	Atlanta	GA	14	Industrial Engineers; Software Developers; Logistics Engineers	136300	GA,NC,WA
@@ -13070,7 +13070,7 @@ White Drive Motors and Steering LLC	Hopkinsville	KY	2	Industrial Engineers; Logi
 White Mountains Regional School District	Whitesfield	NH	1	Secondary School Teachers, Except Special and Career/Technical Education		NH
 White Oak IT Solutions LLC	Aurora	IL	3	Software Developers; Information Technology Project Managers	107600	IL,TX
 White River Health System Inc	Batesville	AR	5	Registered Nurses		AR
-White Shield School District	Roseglen	ND	12	Kindergarten Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	46900	ND
+White Shield School District	Roseglen	ND	3	Kindergarten Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	46900	ND
 White Star Capital USA, Inc.	New York	NY	1	Financial and Investment Analysts		NY
 Whiteriver Unified School District 20	Whiteriver	AZ	1	Middle School Teachers, Except Special and Career/Technical Education		AZ
 Whittier Street Health Center Committee, Inc.	Boston	MA	1	Operations Research Analysts		MA
@@ -13144,7 +13144,7 @@ Woodhaven-Brownstown School District	Woodhaven	MI	1	Athletic Trainers		MI
 Woodside Energy USA Services, Inc.	Houston	TX	9	Petroleum Engineers; Sustainability Specialists; Chemical Engineers	189400	TX
 Wooshin Safety Systems North America,LLC	Wayne	MI	2	Mechanical Engineers		MI
 Wooster School Corporation	Danbury	CT	1	Instructional Coordinators		CT
-Woot Services LLC	Seattle	WA	13	Graphic Designers; Software Developers	133400	WA,TX
+Woot Services LLC	Seattle	WA	4	Software Developers; Graphic Designers	133400	WA,TX
 Worcester Refugee and Immigrant Support and Empowerment (RISE) for Health Inc.	Worcester	MA	1	Social and Community Service Managers		MA
 Worcester State University	Worcester	MA	1	Area, Ethnic, and Cultural Studies Teachers, Postsecondary		MA
 Work Shield, Inc.	Dallas	TX	2	Web and Digital Interface Designers		TX
@@ -13188,7 +13188,7 @@ XIT Solutions, Inc.	Oakbrook Terrace	IL	2	Computer Systems Analysts		NY,NC
 Xl Global Services, Inc.	Stamford	CT	16	Actuaries; Software Developers; Data Scientists	134400	CT,NY,NJ
 Xl Softek Inc.	Suwanee	GA	12	Computer Systems Analysts; Software Developers; Database Architects	100500	CA,MO,FL
 XLC Services, LLC	Cincinnati	OH	1	Industrial Engineers		OH
-XNRGY Climate Systems (US) LLC	Mesa	AZ	19	Industrial Engineers; Mechanical Engineers; Software Developers	125000	AZ
+XNRGY Climate Systems (US) LLC	Mesa	AZ	18	Industrial Engineers; Mechanical Engineers; Software Developers	125000	AZ
 Xome Realty Services, LLC	Coppell	TX	1	Data Scientists		MI
 Xove Consulting Services Corporation	Raleigh	NC	1	Data Scientists		NC
 Xpand IT Solutions Inc	Charlotte	NC	10	Software Developers; Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators	107000	GA,TX,NC
@@ -13235,7 +13235,7 @@ Youth Eastside Services	Bellevue	WA	1	Mental Health Counselors		WA
 Youth Vision Solutions	Detroit	MI	1	Secondary School Teachers, Except Special and Career/Technical Education		MI
 Yqn Transport Service LLC	Fontana	CA	8	Training and Development Specialists; Logistics Engineers; Logistics Analysts	78000	GA,NJ,IL
 Yu Ming Charter School	Oakland	CA	18	Elementary School Teachers, Except Special Education; Kindergarten Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	61600	CA
-Yukon Flats School District	Fort Yukon	AK	5	Elementary School Teachers, Except Special Education		AK
+Yukon Flats School District	Fort Yukon	AK	1	Elementary School Teachers, Except Special Education		AK
 Yuma Catholic High School	Yuma	AZ	1	Secondary School Teachers, Except Special and Career/Technical Education		AZ
 Yumi Select LLC	Fort Lee	NJ	2	Market Research Analysts and Marketing Specialists		NJ
 Yuong Sang Presbyterian Church	Horsham	PA	2	Clergy		PA
@@ -13289,7 +13289,7 @@ Zm Art Studio, LLC	Harvard	MA	2	Coaches and Scouts		MA
 ZM Cyber Sale LLC	Philadelphia	PA	1	Logisticians		PA
 ZNA Services, LLC	Schaumburg	IL	3	Data Scientists; Financial and Investment Analysts; Statisticians	140800	NJ,NY
 Zodha Solutions LLC	Jersey City	NJ	4	Software Developers; Computer Programmers	100000	FL,NJ,PA
-ZOFS Engineering and Land Surveying P.C.	Valley Stream	NY	9	Civil Engineers; Mechanical Engineers		NY,CT
+ZOFS Engineering and Land Surveying P.C.	Valley Stream	NY	4	Civil Engineers; Mechanical Engineers		NY,CT
 Zoll Data Systems, Inc	Broomfield	CO	2	Software Developers		CO,CA
 Zolon Tech Solutions, Inc.	Herndon	VA	1	Software Developers		VA
 Zoological Society of San Diego	San Diego	CA	1	Zoologists and Wildlife Biologists		CA

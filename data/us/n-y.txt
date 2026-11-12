@@ -85,7 +85,7 @@ John Kristiansen New York, Inc.	New York	NY	1	Tailors, Dressmakers, and Custom S
 Kes Yona Solar LLC			2	Chief Executives		
 Kim Yeung Ling P.C.	Philadelphia	PA	1	Accountants and Auditors		PA
 Koh Young America, Inc.	Duluth	GA	1	Software Developers		CA
-Kookmin Bank New York Branch	New York	NY	7	Financial Specialists, All Other; Financial Quantitative Analysts	73200	NY
+Kookmin Bank New York Branch	New York	NY	6	Financial Specialists, All Other; Financial Quantitative Analysts	73200	NY
 L&c Fish With You Jc Inc	Jersey City	NJ	2	Management Analysts		NJ
 Law Office of Yeung and Wang PLLC	Flushing	NY	2	Lawyers; Market Research Analysts and Marketing Specialists		NY
 Law Office of Yinghui He, P.C.	New York	NY	1	Judicial Law Clerks		NY
@@ -103,7 +103,7 @@ McCann Yan Holdings, Inc.	Mclean	VA	1	Financial Quantitative Analysts		VA
 Mei Yuan LLC	Champaign	IL	2	Financial Managers		IL
 Meiji Yasuda America Incorporated	New York	NY	1	Financial and Investment Analysts		NY
 Mercy Health Physicians Youngstown Specialty Care LLC	North Lima	OH	4	Hospitalists	299200	OH
-Mercy Health Youngstown LLC	Youngstown	OH	18	General Internal Medicine Physicians; Physicians, All Other	70500	OH
+Mercy Health Youngstown LLC	Youngstown	OH	6	General Internal Medicine Physicians; Physicians, All Other	70500	OH
 MGM Yonkers, Inc. (dba Empire City Casino)	Yonkers	NY	1	Market Research Analysts and Marketing Specialists		NY
 Midwest Yogurt, Inc.	New York	NY	2	Food Scientists and Technologists		MN
 Momentum Youth Holdings, Inc	Austin	TX	2	Business Operations Specialists, All Other; Financial and Investment Analysts		CT
@@ -125,9 +125,9 @@ New York Blood Center	New York	NY	7	Medical Scientists, Except Epidemiologists; 
 New York Bone and Joint Specialists PLLC	New York	NY	1	Data Scientists		NY
 New York Certified Interior Corp.	Brooklyn	NY	5	Construction Managers; Cost Estimators; Civil Engineers	120000	NY
 New York City Criminal Justice Agency, Inc.	New York	NY	1	Social Workers, All Other		NY
-New York City Department of Education	Brooklyn	NY	110	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	66700	NY
+New York City Department of Education	Brooklyn	NY	16	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	66700	NY
 New York City Department of Investigation	New York	NY	2	Government Property Inspectors and Investigators; Fraud Examiners, Investigators and Analysts		NY
-New York City Health and Hospitals Corporation	New York	NY	43	Hospitalists; Physicians, All Other; Mental Health and Substance Abuse Social Workers	85000	NY
+New York City Health and Hospitals Corporation	New York	NY	31	Physicians, All Other; Hospitalists; Mental Health and Substance Abuse Social Workers	85000	NY
 New York City Office of Technology and Innovation	Brooklyn	NY	1	Information Security Analysts		NY
 New York Civil Liberties Union	New York	NY	1	Producers and Directors		NY
 New York Conference of Seventh-day Adventists	Syracuse	NY	2	Secondary School Teachers, Except Special and Career/Technical Education		NY
@@ -203,7 +203,7 @@ State University of New York at Oswego	Oswego	NY	3	Computer Science Teachers, Po
 State University of New York at Potsdam	Potsdam	NY	1	Data Scientists		NY
 State University of New York at Stony Brook	Stony Brook	NY	27	Health Specialties Teachers, Postsecondary; Biological Science Teachers, Postsecondary; Engineering Teachers, Postsecondary	96500	NY
 State University of New York Downstate Health Sciences University	Brooklyn	NY	10	Physicians, All Other; Health Specialties Teachers, Postsecondary; Supply Chain Managers	129100	NY
-State University of New York, Upstate Medical University	Syracuse	NY	36	Physicians, All Other; Health Specialties Teachers, Postsecondary; Hospitalists	63300	NY
+State University of New York, Upstate Medical University	Syracuse	NY	35	Physicians, All Other; Health Specialties Teachers, Postsecondary; Hospitalists	63300	NY
 Stradling Yocca Carlson & Rauth LLP	Newport Beach	CA	3	Lawyers	220000	CA
 Subtle Insight New York LLC	New York	NY	1	Cost Estimators		NY
 Super Boats & Yachts LLC	West Palm Beach	FL	1	Management Analysts		FL
@@ -229,7 +229,7 @@ Thirteen York INC	Novi	MI	1	Market Research Analysts and Marketing Specialists		
 TOP – New York, Inc.	Dallas	TX	3	Financial Quantitative Analysts; Financial and Investment Analysts	195000	NY
 Uhomes.com New York, Inc.	New York	NY	7	Market Research Analysts and Marketing Specialists; Management Analysts; Property, Real Estate, and Community Association Managers	102900	NY,MA
 Unihome New York Inc	New York	NY	1	Computer Systems Analysts		CA
-Vituity-New York Medical Group PLLC	Emeryville	CA	10	General Internal Medicine Physicians; Emergency Medicine Physicians		NY
+Vituity-New York Medical Group PLLC	Emeryville	CA	3	General Internal Medicine Physicians; Emergency Medicine Physicians		NY
 Vulcraft of New York, Inc.	Chemung	NY	1	Civil Engineers		NY
 W. G. Yates and Sons Construction Co.	Biloxi	MS	22	Civil Engineers; Project Management Specialists; Architects, Except Landscape and Naval	99700	TX,MS,VA
 W.G. Yates and Sons Construction Co.	Biloxi	MS	5	Civil Engineers; Project Management Specialists	83100	TX,GA,MS
@@ -267,7 +267,7 @@ Yakima Valley Farm Workers Clinic	Toppenish	WA	1	Dentists, General		WA
 Yakima Valley Memorial Hospital Association	Yakima	WA	4	Hospitalists; Physicians, All Other; Physical Medicine and Rehabilitation Physicians	334000	WA
 Yakshna Solutions, Inc.	Herndon	VA	4	Software Developers; Network and Computer Systems Administrators; Computer Systems Engineers/Architects	83100	VA,CA
 Yalai Inc	Burlington	MA	1	Business Intelligence Analysts		MA
-Yale New Haven Hospital	New Haven	CT	45	Physicians, All Other; Genetic Counselors	100600	CT
+Yale New Haven Hospital	New Haven	CT	31	Physicians, All Other; Genetic Counselors	100600	CT
 Yale University	New Haven	CT	147	Medical Scientists, Except Epidemiologists; Molecular and Cellular Biologists; Health Specialties Teachers, Postsecondary	88000	CT
 Yam Hospitality LLC	Plano	TX	1	Information Security Analysts		TX
 Yamada Consulting Group USA Inc.	El Segundo	CA	2	Management Analysts		CA
@@ -321,7 +321,7 @@ Yeh and Associates, Inc.	Denver	CO	1	Civil Engineers		CA
 Yeig International US Inc.	New York	NY	1	Accountants and Auditors		NY
 Yeled V’Yalda Early Childhood Center Inc.	Brooklyn	NY	1	Occupational Therapists		NY
 Yellow Dog Networks, Inc.	Kansas City	MO	1	Computer Network Architects		MO
-Yellow Law Group	Plano	TX	5	Judicial Law Clerks; Paralegals and Legal Assistants		IL,CA
+Yellow Law Group	Plano	TX	3	Judicial Law Clerks; Paralegals and Legal Assistants		IL,CA
 Yellowstone Pathology Institute Inc	Billings	MT	1	Physicians, Pathologists		MT
 Yelp Inc.	San Francisco	CA	26	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	233500	CA,WA,NJ
 YelseSoft Technologies Inc.	Canton	MI	11	Software Developers; Software Quality Assurance Analysts and Testers	105000	MI,IL,NE
@@ -451,7 +451,7 @@ Youth Vision Solutions	Detroit	MI	1	Secondary School Teachers, Except Special an
 Youthful Horizons Physical Therapy, P.S.	Spokane Valley	WA	1	Speech-Language Pathologists		WA
 Youyork Management LLC	Long Island City	NY	2	Management Analysts		NY
 YP MANAGEMENT Inc.	Somerville	NJ	1	Market Research Analysts and Marketing Specialists		NJ
-YQN Link US Inc	Diamond Bar	CA	5	Logistics Analysts; Logisticians		CA
+YQN Link US Inc	Diamond Bar	CA	4	Logistics Analysts; Logisticians		CA
 Yqn Transport Service LLC	Fontana	CA	8	Training and Development Specialists; Logistics Engineers; Logistics Analysts	78000	GA,NJ,IL
 Yrefy, LLC	Phoenix	AZ	1	Software Developers		AZ
 Yrobot Inc.	Cambridge	MA	1	Data Scientists		MA
@@ -472,7 +472,7 @@ YugabyteDB, Inc.	Sunnyvale	CA	5	Software Developers; Computer and Information Sy
 Yuhan Heating and Air Conditioning Corp.	Bergenfield	NJ	1	Market Research Analysts and Marketing Specialists		NJ
 Yujia Yao DDS Inc	San Jose	CA	1	Management Analysts		CA
 Yujia Yao Dental Corporaon	San Jose	CA	1	Dentists, General		CA
-Yukon Flats School District	Fort Yukon	AK	5	Elementary School Teachers, Except Special Education		AK
+Yukon Flats School District	Fort Yukon	AK	1	Elementary School Teachers, Except Special Education		AK
 Yulf Decoration Group LLC	Houston	TX	1	Computer Occupations, All Other		TX
 Yum Connect, LLC	Louisville	KY	12	Software Developers; Software Quality Assurance Analysts and Testers; Computer and Information Systems Managers	132400	TX,CA,PA
 Yum! Restaurants International, Inc.	Plano	TX	3	Financial Managers; Operations Research Analysts; Project Management Specialists	135200	FL,TX

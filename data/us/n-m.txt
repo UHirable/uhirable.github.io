@@ -30,7 +30,7 @@ Aastha Millwork LLC	Garland	TX	1	Web Developers		TX
 AB Made II LLC	New York	NY	1	Cost Estimators		NY
 Abbott Molecular Inc.	Chicago	IL	1	Management Analysts		IL
 Abercrombie & Fitch Management Co.	New Albany	OH	24	Software Developers; Computer and Information Systems Managers; Marketing Managers	139300	OH,TX,NC
-Abington Memorial Hospital	Abington	PA	31	Healthcare Practitioners and Technical Workers, All Other; General Internal Medicine Physicians	72000	PA
+Abington Memorial Hospital	Abington	PA	9	Healthcare Practitioners and Technical Workers, All Other; General Internal Medicine Physicians	72000	PA
 AC Horn Manufacturing - A Division of Probat	Dallas	TX	2	Electrical Engineers		TX
 Academic Medicine Services, Inc.	Amherst	NY	3	Physicians, All Other	235000	NY
 Acadian Asset Management LLC	Boston	MA	4	Financial and Investment Analysts; Data Scientists; Computer Systems Engineers/Architects	149500	MA
@@ -141,7 +141,7 @@ Albany Med Health System	Albany	NY	1	Business Intelligence Analysts		NY
 Albany Medical Center Hospital	Albany	NY	1	Physicians, All Other		NY
 Albany Medical College	Albany	NY	6	Medical Scientists, Except Epidemiologists; Emergency Medicine Physicians; Physicians, Pathologists	194000	NY
 Albert Einstein College of Medicine	Bronx	NY	39	Biochemists and Biophysicists; Medical Scientists, Except Epidemiologists; Microbiologists	75000	NY
-Albert Einstein Medical Center	Philadelphia	PA	34	Healthcare Practitioners and Technical Workers, All Other; General Internal Medicine Physicians; Medical Scientists, Except Epidemiologists	78600	PA
+Albert Einstein Medical Center	Philadelphia	PA	17	Healthcare Practitioners and Technical Workers, All Other; Medical Scientists, Except Epidemiologists; General Internal Medicine Physicians	78600	PA
 Albert Max, Inc.	Chino	CA	1	Commercial and Industrial Designers		CA
 Alcamo Marketing, LLC	Glen Burnie	MD	1	Software Developers		MO
 Alcohol Monitoring Systems Inc	Littleton	CO	1	Network and Computer Systems Administrators		TX
@@ -250,7 +250,7 @@ Andrew M. Jordan, Inc.	Oakland	CA	1	Civil Engineers		CA
 Anesis Foundation for Mental Health, Inc.	Madison	WI	1	Mental Health and Substance Abuse Social Workers		WI
 Anesthesia Consulting & Management LP	Irving	TX	2	Software Quality Assurance Analysts and Testers; Operations Research Analysts		TX,UT
 Anibim Management LLC	Flint	MI	1	Data Scientists		MI
-Animal Hospital of Morris Park	Bronx	NY	3	Veterinarians		NY
+Animal Hospital of Morris Park	Bronx	NY	2	Veterinarians		NY
 Anomaly Capital Management, LP	New York	NY	1	Financial and Investment Analysts		NY
 Anord Mardix (USA), Inc.	Henrico	VA	1	Architectural and Engineering Managers		VA
 Antarctica Capital Management LLC	New York	NY	4	Financial and Investment Analysts	137500	NY
@@ -327,8 +327,8 @@ Arteriocyte Medical Systems, Inc.	Hopkinton	MA	2	Regulatory Affairs Specialists;
 ArtiFlex Manufacturing, Inc.	Wooster	OH	1	Software Developers		OH
 Artis Magi, LLC	St. Michaels	MD	3	Data Scientists; Computer and Information Systems Managers	111900	MD
 Artis Ventures Management, LP	San Francisco	CA	2	Financial Managers		CA
-Artistic Paver Manufacturing, LLC .	Miami	FL	2	Industrial Production Managers		FL
-Artistic Pavers Manufacurers	North Miami	FL	2	Manufacturing Engineers		FL
+Artistic Paver Manufacturing, LLC .	Miami	FL	1	Industrial Production Managers		FL
+Artistic Pavers Manufacurers	North Miami	FL	1	Manufacturing Engineers		FL
 ASAP Computer Maintenance, Inc.	New York	NY	1	Computer Systems Analysts		TN
 Asbury Management Services LLC	Atlanta	GA	1	Software Developers		GA
 Ascend Performance Materials Holdings, Inc.	Houston	TX	1	Data Scientists		TX
@@ -388,7 +388,7 @@ Aurora Maison INC	Arvada	CO	1	Market Research Analysts and Marketing Specialists
 Aurora Medical Group, Inc.	Milwaukee	WI	16	Physicians, All Other; Psychiatrists; Pediatricians, General	361000	WI,IL
 Aurora UW Academic Medical Group, Inc.	Milwaukee	WI	2	General Internal Medicine Physicians		WI
 AUS Merchant Services, Inc.	Sunnyvale	CA	14	Database Administrators; Software Developers; Management Analysts	109400	CA
-Automated Building Management Systems, Inc.	Floral Park	NY	3	Cost Estimators; Computer Occupations, All Other		NY
+Automated Building Management Systems, Inc.	Floral Park	NY	2	Computer Occupations, All Other; Cost Estimators		NY
 Automated Industrial Machinery, Inc.	Tampa	FL	1	Electro-Mechanical and Mechatronics Technologists and Technicians		FL
 AV Fund Management, LLC	Chicago	IL	1	Financial and Investment Analysts		IL
 Avails Medical, Inc.	Menlo Park	CA	1	Logistics Engineers		CA
@@ -569,7 +569,7 @@ Boston Globe Media Partners, LLC	Boston	MA	1	News Analysts, Reporters, and Journ
 Boston International Media Consulting, Inc.	Quincy	MA	2	Film and Video Editors; Public Relations Specialists		MA
 Boston Masonry, Inc.	Boston	MA	1	Cost Estimators		MA
 Boston Materials, Inc.	Billerica	MA	1	Materials Engineers		MA
-Boston Medical Center Corporation	Boston	MA	35	Physicians, All Other; Data Scientists; Operations Research Analysts	87000	MA,IL,TX
+Boston Medical Center Corporation	Boston	MA	32	Physicians, All Other; Data Scientists; Operations Research Analysts	87000	MA,IL,TX
 Boston Medical Center Health Plan, Inc.	Charlestown	MA	1	Statistical Assistants		MA
 Boston Moves Real Estate LLC	Boston	MA	1	Business Intelligence Analysts		MA
 BowTie Medical, LLC	Broadview Heights	OH	2	Data Scientists; Business Intelligence Analysts		OH
@@ -666,7 +666,7 @@ Canadian Solar U.S. Module Manufacturing Corporation	Mesquite	TX	3	Industrial En
 Canon Medical Informatics, Inc.	Minnetonka	MN	1	Software Quality Assurance Analysts and Testers		MN
 Canon Medical Research USA, Inc.	Vernon Hills	IL	1	Bioengineers and Biomedical Engineers		IL
 Canterbury Village MI OPCO LLC	Waterford	MI	1	Medical and Health Services Managers		MI
-Canton Medical Education Foundation, Inc.	Canton	OH	2	General Internal Medicine Physicians		OH
+Canton Medical Education Foundation, Inc.	Canton	OH	1	General Internal Medicine Physicians		OH
 Cantor Fitzgerald Technology Markets, LLC	New York	NY	3	Software Developers	173000	NY,FL,NJ
 Canyon Magnet Energy Inc.	Newark	NJ	1	Computer Programmers		NJ
 Capable Mastery, LLC	Sacramento	CA	2	Security Management Specialists		CA
@@ -716,7 +716,7 @@ Catterton Latin America Management Co.	New York	NY	1	Financial and Investment An
 Catterton Management Company, LLC	Greenwich	CT	1	Database Architects		NY
 Cavalier County Memorial Hospital Association	Langdon	ND	1	Medical and Clinical Laboratory Technologists		ND
 Cayenne Medical, Inc.	Warsaw	IN	1	Validation Engineers		MI
-Cayuga Medical Associates, P.C.	Ithaca	NY	10	Physicians, All Other; Family Medicine Physicians; Neurologists	299700	NY
+Cayuga Medical Associates, P.C.	Ithaca	NY	9	Physicians, All Other; Neurologists; Family Medicine Physicians	299700	NY
 Cayuga Medical Center at Ithaca, Inc.	Ithaca	NY	2	Medical and Clinical Laboratory Technologists		NY
 Cayuga Medical Center at Ithaca, Inc. (Centralus Health)	Ithaca	NY	1	Registered Nurses		NY
 CBIZ M&S Consulting Services, LLC	Kansas City	MO	1	Data Warehousing Specialists		IN
@@ -794,7 +794,7 @@ CHRISTUS Trinity Mother Frances Health System	Tyler	TX	1	Pharmacists		TX
 CHTV Media & Entertainment LLC	Pasadena	CA	2	Graphic Designers		CA
 Chuangyi Metals Corp	Chicago	IL	2	Business Intelligence Analysts; Purchasing Managers		IL
 Church of the Most Holy Trinity	Augusta	GA	1	Music Directors and Composers		GA
-CIBC World Markets Corp.	New York	NY	41	Financial and Investment Analysts; Financial Quantitative Analysts; Credit Analysts	141800	NY,WI,TX
+CIBC World Markets Corp.	New York	NY	20	Financial and Investment Analysts; Financial Quantitative Analysts; Credit Analysts	141800	NY,WI,TX
 Cidra Minerals Processing Inc.	Wallingford	CT	2	Mechanical Engineers; Mining and Geological Engineers, Including Mining Safety Engineers		CT
 Ciena HealthCare Management Inc	Southfield	MI	1	Market Research Analysts and Marketing Specialists		MI
 CIFC Asset Management LLC	New York	NY	4	Financial and Investment Analysts; Software Developers	166500	NY
@@ -851,7 +851,7 @@ CoCo Island Mart, Inc	Brooklyn	NY	1	Market Research Analysts and Marketing Speci
 Coding Minds Inc	Irvine	CA	4	Market Research Analysts and Marketing Specialists; Software Developers; Education Administrators, All Other	56100	CA,WA
 Coffee Regional Medical Center, Inc.	Douglas	GA	1	Medical and Clinical Laboratory Technologists		GA
 Cogent Healthcare of Macon, LLC	Macon	GA	3	Hospitalists		GA
-Cogent Medical Care, P.C.	Nashville	TN	3	Hospitalists		NY
+Cogent Medical Care, P.C.	Nashville	TN	2	Hospitalists		NY
 Cognitive Minds Inc	Northville	MI	15	Computer Network Architects; Data Scientists; Network and Computer Systems Administrators	100700	TX,CA,FL
 Cognizant Mobility, Inc.	Troy	MI	2	Electrical Engineers		MI
 COL Media Corp	Glendale	CA	2	Public Relations Specialists; Writers and Authors		CA
@@ -893,7 +893,7 @@ Compass Management Holdings, LLC	New York	NY	15	Software Developers; Architectur
 Compass Management, LLC	Dallas	TX	2	Civil Engineers		TX
 Compasspoint Mentorship	Sunnyvale	CA	1	Film and Video Editors		CA
 Compsych Management Corporation	Chicago	IL	1	Software Developers		IL
-Compulink Management Center, Inc.	Long Beach	CA	26	Software Developers		CA
+Compulink Management Center, Inc.	Long Beach	CA	2	Software Developers		CA
 Computer Management And Information Solutions Inc.	Dayton	NJ	5	Computer Programmers; Computer Systems Analysts; Software Developers	81000	TX,MD,CA
 Concentrix CVG Customer Management Group Inc.	Cincinnati	OH	94	Software Developers; Computer and Information Systems Managers; Software Quality Assurance Analysts and Testers	118100	NE,TX,WA
 Concept Management Company LLC	Spartanburg	SC	1	Industrial Engineers		SC
@@ -903,7 +903,7 @@ Concord Medical Management LLC	Lubbock	TX	1	Accountants and Auditors		TX
 Condominium Management Company	Winter Park	CO	1	Management Analysts		CO
 Conduent Mortgage Services, Inc.	Plano	TX	1	Software Quality Assurance Analysts and Testers		GA
 Conduit Management Services LLC	New York	NY	1	Electrical Engineers		PA
-Conexus Medstaff LLC	Houston	TX	103	Medical and Clinical Laboratory Technologists; Registered Nurses		TN,NJ,VA
+Conexus Medstaff LLC	Houston	TX	99	Medical and Clinical Laboratory Technologists; Registered Nurses		TN,NJ,NY
 Confluent Medical Technologies, Inc.	Scottsdale	AZ	3	Industrial Engineers; Industrial Engineer; Project Management Specialists	125600	RI,CA
 Conformal Medical, Inc.	Nashua	NH	1	Clinical Research Coordinators		CA
 Congruence Management Services, LLC	New York	NY	1	Financial and Investment Analysts		NY
@@ -990,7 +990,7 @@ Crystal Rock Capital Management, LLC	Bannockburn	IL	1	Financial and Investment A
 Crystal Smile Medical Solutions Inc.	Leonia	NJ	2	Materials Scientists; Operations Research Analysts		NJ
 CSRE Management, Inc.	Boston	MA	1	Accountants and Auditors		MA
 CT Mechanical, LLC	Addison	IL	1	Business Intelligence Analysts		IL
-Cumming Management Group, Inc.	Murrieta	CA	61	Cost Estimators; Project Management Specialists; Construction Managers	120000	CA,NY,MA
+Cumming Management Group, Inc.	Murrieta	CA	57	Cost Estimators; Project Management Specialists; Construction Managers	120000	CA,NY,MA
 Curatio Management Group	Chantilly	VA	1	Market Research Analysts and Marketing Specialists		VA
 Curb Mobility LLC	Long Island City	NY	1	Software Developers		NY
 Curi Management Company LLC	Raleigh	NC	2	Data Scientists; Financial and Investment Analysts		TX
@@ -1005,7 +1005,7 @@ CW Manufacturing, LLC	Northville	MI	3	Industrial Engineers	92100	MI
 Cyber Medical Imaging, Inc	Los Angeles	CA	1	Software Developers		CA
 Cycad Management LLC	North Hollywood	CA	2	Accountants and Auditors		CA
 Cynergy Management Inc.	New York	NY	1	Physical Therapists		NY
-Cypress Junction Montessori, Inc.	Winter Haven	FL	2	Elementary School Teachers, Except Special Education		FL
+Cypress Junction Montessori, Inc.	Winter Haven	FL	1	Elementary School Teachers, Except Special Education		FL
 CyrusOne Management Services LLC	Dallas	TX	1	Data Scientists		TX
 Cytec Engineered Materials Inc.	Tempe	AZ	1	Materials Scientists		GA
 D & M Imports LLC	Carlstadt	NJ	1	Logistics Analysts		NJ
@@ -1127,7 +1127,7 @@ Dotdash Meredith Inc.	New York	NY	3	Software Developers	177200	NY,TX
 Double Good Management, Inc.	Burr Ridge	IL	2	Software Quality Assurance Analysts and Testers; Software Developers		IL
 Double Key Management LLC	Brooklyn	NY	1	Business Operations Specialists, All Other		NY
 Double Take Creative Marketing Inc.	New York City	NY	1	Market Research Analysts and Marketing Specialists		NY
-Downtown Physicians Medical PLLC	New York	NY	7	Physical Therapists; Exercise Physiologists	110000	NY
+Downtown Physicians Medical PLLC	New York	NY	5	Physical Therapists; Exercise Physiologists	110000	NY
 Dr Meenal Kulkarni PC	Fairfield	CT	1	Dentists, General		CT
 Dr Miller Psychological Services PLLC	New York	NY	1	Mental Health and Substance Abuse Social Workers		CA
 Dr Richard James M Hansen & Associates Fort Mill Pc.	Orange	CA	1	Dentists, General		SC
@@ -1285,7 +1285,7 @@ EPIC Microsystems Inc.	San Jose	CA	1	Electronics Engineers, Except Computer		CA
 Epsilon Data Management LLC	Irving	TX	59	Software Developers; Data Scientists; Information Technology Project Managers	139800	TX,CA,IL
 Equity International Management, LLC	Chicago	IL	2	Economists		IL
 Equity Management LLC	Colorado Springs	CO	1	Financial and Investment Analysts		CO
-Equity Methods, LLC	Scottsdale	AZ	21	Financial and Investment Analysts; Financial Managers	100000	AZ,GA
+Equity Methods, LLC	Scottsdale	AZ	8	Financial and Investment Analysts; Financial Managers	100000	AZ,GA
 Erbe Medical, LLC	Tempe	AZ	1	Mechanical Engineers		AZ
 Erie County Medical Center Corporation	Buffalo	NY	3	Anesthesiologists; Neurologists	580000	NY
 Eriez Manufacturing Co.	Erie	PA	1	Sales Engineers		PA
@@ -1348,7 +1348,7 @@ Fast Moss Inc.	Culver City	CA	4	Market Research Analysts and Marketing Specialis
 Fathom Digital Manufacturing Corporation	Hartland	WI	1	Marketing Managers		GA
 FCCC Medical Group Inc.	Philadelphia	PA	2	Physicians, All Other		PA
 Fdf Asset Management, LLC	Burlington	MA	1	Financial and Investment Analysts		MA
-Federal Home Loan Mortgage Corporation	McLean	VA	70	Software Developers; Statisticians; Computer and Information Systems Managers	130900	VA,TX,NY
+Federal Home Loan Mortgage Corporation	McLean	VA	52	Software Developers; Statisticians; Computer and Information Systems Managers	130900	VA,TX,NY
 Federal National Mortgage Association	Washington	DC	9	Software Developers; Financial Quantitative Analysts; Data Scientists	174000	VA,DC,TX
 Federal Reserve Bank Minneapolis	Minneapolis	MN	1	Information Technology Project Managers		MN
 Federal-Mogul Motorparts LLC	Northville	MI	7	Industrial Engineers; Manufacturing Engineers; Data Scientists	116300	IL,MI,MO
@@ -1431,10 +1431,10 @@ Free Wheelchair Mission	Irvine	CA	1	Financial Managers		CA
 Freedom Financial Asset Management LLC	San Mateo	CA	4	Computer and Information Systems Managers; Data Scientists; Software Quality Assurance Analysts and Testers	136600	NC,MN,AZ
 Freedom Mortgage Corporation	Boca Raton	FL	6	Software Developers; Financial and Investment Analysts; Business Intelligence Analysts	110800	TX,NJ,NY
 Freedom Motors USA, Inc.	Battle Creek	MI	1	Software Developers		MI
-Freeport Minerals Corporation	Phoenix	AZ	32	Mining and Geological Engineers, Including Mining Safety Engineers; Geoscientists, Except Hydrologists and Geographers; Civil Engineers	107000	AZ,CO,OH
+Freeport Minerals Corporation	Phoenix	AZ	24	Mining and Geological Engineers, Including Mining Safety Engineers; Civil Engineers; Environmental Scientists and Specialists, Including Health	107000	AZ,CO,OH
 Freeport-McMoRan Chino Mines Company	Phoenix	AZ	1	Mechanical Engineers		NM
 Freeport-McMoRan Miami Inc.	Phoenix	AZ	4	Mechanical Engineers; Materials Engineers; Architectural and Engineering Managers	118000	AZ
-Freeport-McMoRan Morenci Inc.	Phoenix	AZ	16	Mining and Geological Engineers, Including Mining Safety Engineers; Materials Engineers; Mechanical Engineers	105500	AZ
+Freeport-McMoRan Morenci Inc.	Phoenix	AZ	14	Mining and Geological Engineers, Including Mining Safety Engineers; Materials Engineers; Mechanical Engineers	105500	AZ
 Freeport-McMoRan Tyrone Mining LLC	Tyrone	NM	2	Civil Engineers; Mining and Geological Engineers, Including Mining Safety Engineers		NM
 Freixenet Mionetto USA, Inc.	White Plains	NY	1	Judicial Law Clerks		NY
 Fremont Group Management LLC	San Francisco	CA	1	Business Intelligence Analysts		CA
@@ -1493,7 +1493,7 @@ Ge Medical Systems, Ultrasound & Primary Care Diagnostics, LLC	Wauwatosa	WI	1	So
 GEA Mechanical Equipment US Inc	Northvale	NJ	1	Sales Engineers		IL
 Geisinger Community Medical Center	Scranton	PA	1	Medical and Clinical Laboratory Technologists		PA
 Geisinger Medical Center	Danville	PA	9	Medical and Clinical Laboratory Technologists; Anesthesiologists; Physicists	72800	PA
-Geisinger Wyoming Valley Medical Center	Danville	PA	18	General Internal Medicine Physicians; Physicians, All Other; Neurologists	71700	PA
+Geisinger Wyoming Valley Medical Center	Danville	PA	10	General Internal Medicine Physicians; Physicians, All Other; Neurologists	71700	PA
 GEKA Manufacturing Corporation	Elgin	IL	1	Accountants and Auditors		IL
 Gel Matter Co	New York	NY	1	Materials Scientists		NY
 General Equipment & Manufacturing Company, Inc.	Louisville	KY	1	Marketing Manager		KY
@@ -1586,7 +1586,7 @@ Graham Capital Management, L.P.	Rowayton	CT	10	Data Scientists; Financial Quanti
 Grain Management, LLC	Washington	DC	1	Financial and Investment Analysts		NY
 Grainger Management LLC	Lake Forest	IL	26	Software Developers; Data Scientists; Web and Digital Interface Designers	143000	IL
 Grand River Aseptic Manufacturing, Inc.	Grand Rapids	MI	2	Validation Engineers; Industrial Engineers		MI
-Grandison Management, Inc.	Howell	NJ	63360	Physical Therapists; Occupational Therapists		IL,NY,FL
+Grandison Management, Inc.	Howell	NJ	1584	Physical Therapists; Occupational Therapists		IL,NY,FL
 Grandizio, Wilkins, Little & Matthews, LLP	Hunt Valley	MD	1	Accountants and Auditors		MD
 Grandizio,Wilkins, Little & Matthews, LLP	Hunt Valley	MD	1	Accountants and Auditors		MD
 Granger Medical Clinic, PC	Taylorsville	UT	1	Business Intelligence Analysts		UT
@@ -1600,10 +1600,10 @@ Greater Miami Hebrew Academy, Inc.	Miami Beach	FL	1	Middle School Teachers, Exce
 Greater New York Mutual Insurance Company	New York	NY	3	Computer and Information Systems Managers; Mathematicians; Software Developers	99200	FL,NJ,IN
 Green Kaminer Min & Rockmore LLP	New York	NY	2	Lawyers		NY
 Green Leaf Partners Management	Pleasanton	CA	1	Financial and Investment Analysts		CA
-Green Meadow School			5	Elementary School Teachers, Except Special Education		
+Green Meadow School			2	Elementary School Teachers, Except Special Education		
 Green Mountain Healthcare LLC	San Antonio	TX	1	Physical Therapists		TX
 Green New Energy Materials, Inc.	Denver	NC	2	Electrical Engineers; Environmental Compliance Inspectors		NC
-Green Valley Manufacturing of Illinois, Inc.	Decatur	IL	2	Electrical Engineers, R&D		IL
+Green Valley Manufacturing of Illinois, Inc.	Decatur	IL	1	Electrical Engineers, R&D		IL
 Greene County Medical Center	Jefferson	IA	1	Family Medicine Physicians		IA
 Greener Pastures Management Corp.	New York	NY	1	Financial and Investment Analysts		PA
 GreenLake Asset Management, LLC	South Pasadena	CA	1	Loan Officers		CA
@@ -1636,7 +1636,7 @@ Gunty, McCarthy & Moore LLC	Chicago	IL	2	Lawyers		MO,IL
 Gupta Media Holdings LLC	Boston	MA	2	Market Research Analysts and Marketing Specialists		MA
 Gupta Media, LLC	Boston	MA	2	Software Developers		MA
 Guthrie Cortland Medical Center	Cortland	NY	6	Registered Nurses		NY
-Guthrie Medical Group, P.C.	Sayre	PA	35	Hospitalists; Physicians, All Other; General Internal Medicine Physicians	345800	NY,PA
+Guthrie Medical Group, P.C.	Sayre	PA	25	Hospitalists; Physicians, All Other; General Internal Medicine Physicians	345800	NY,PA
 H & M Tech Inc	New Rochelle	NY	1	Construction Managers		NY
 H & M USA, Inc.	Syosset	NY	1	Regulatory Affairs Specialists		CA
 H Mart Logistics, Inc.	Whittier	CA	3	Market Research Analysts and Marketing Specialists; Operations Research Analysts; Cost Estimators	64100	CA
@@ -1648,7 +1648,7 @@ Hackensack Meridian School of Medicine	Nutley	NJ	1	Education Administrators, Pos
 Hagie Manufacturing Company	Clarion	IA	2	Manufacturing Engineers; Industrial Engineers		IA
 Haile Gold Mine, Inc.	Kershaw	SC	5	Mining and Geological Engineers, Including Mining Safety Engineers; Industrial Production Managers; Industrial Engineers	108500	SC
 Hainan Hnat - Management (us) LLC	New York	NY	2	Management Analysts		NY
-Hale Makua Health Services	Kahului	HI	10	Registered Nurses		HI
+Hale Makua Health Services	Kahului	HI	1	Registered Nurses		HI
 Halleran Wealth Management, Inc.	Fairport	NY	1	Financial and Investment Analysts		NY
 Hallmark Marketing Company, LLC	Kansas City	MO	2	Information Technology Project Managers; Data Scientists		NJ,KS
 Halo Medical Group PLLC	Dearborn	MI	1	Cardiologists		MI
@@ -1663,7 +1663,7 @@ Harbinger Motors Inc.	Garden Grove	CA	26	Mechanical Engineers; Automotive Engine
 Harbor Health Medical Group	Austin	TX	1	General Internal Medicine Physicians		TX
 Harco Manufacturing Group, LLC	Moraine	OH	1	Network and Computer Systems Administrators		OH
 Hard Work Motor LLC	Columbus	OH	2	Market Research Analysts and Marketing Specialists		OH
-Hardeman County Memorial Hospital	Quanah	TX	2	Medical and Clinical Laboratory Technologists		TX
+Hardeman County Memorial Hospital	Quanah	TX	1	Medical and Clinical Laboratory Technologists		TX
 Harder Mechanical Contractors, Inc.	Portland	OR	3	Civil Engineers	115000	ID,AZ,CA
 Hark Maskarinec, PC	Malvern	PA	1	Accountants and Auditors		PA
 Harlem Medical Group PC	New York	NY	1	General Internal Medicine Physicians		NY
@@ -1720,7 +1720,7 @@ Hexin Machinery USA, Inc.	Wixom	MI	2	Operations Research Analysts; Computer Syst
 HF Management Services, LLC	New York	NY	12	Software Developers; Data Scientists; Business Intelligence Analysts	143800	TX,FL,NY
 HF SINCLAIR Refining & Marketing LLC	Dallas	TX	1	Regulatory Affairs Managers		TX
 Hh Health System - Morgan, LLC	Decatur	AL	2	Physicians, All Other; Neurologists		AL
-HH MedStar Health, Inc.	Columbia	MD	5	Registered Nurses; Critical Care Nurses; Physicians, All Other		MD
+HH MedStar Health, Inc.	Columbia	MD	3	Registered Nurses; Critical Care Nurses; Physicians, All Other		MD
 HHA Hospital Medicine of Texas, PLLC	Miami	FL	7	Data Scientists; Computer Systems Analysts; Management Analysts	70000	TX
 Hi-rel Plastics & Molding Corporation	Riverside	CA	1	Software Developers		CA
 Hickory Springs Manufacturing Company	Hickory	NC	1	Industrial Engineers		NC
@@ -1740,13 +1740,13 @@ HMB Pharmacy Management LLC	Bronx	NY	2	Regulatory Affairs Specialists; Pharmacis
 Hmb Pharmacy Mgt LLC	Bronx	NY	1	Regulatory Affairs Specialists		NY
 HMC Realty & Management Co.	Chicago	IL	1	Database Administrators		IL
 HNI Medical Services	Austin	TX	2	Physicians, All Other		TX
-Hoag Memorial Hospital Presbyterian	Newport Beach	CA	3	Biological Scientists, All Other		CA
+Hoag Memorial Hospital Presbyterian	Newport Beach	CA	2	Biological Scientists, All Other		CA
 Hobbs Municipal Schools	Hobbs	NM	18	Special Education Teachers, Elementary School; Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	63000	NM
 HOF Capital Management, LLC	New York City	NY	2	Financial and Investment Analysts		NY
 Hoist Material Handling, Inc.	East Chicago	IN	2	Purchasing Managers; Architectural and Engineering Managers		IN
 Holmes Investment Management, Inc.	Brockton	MA	2	Financial Quantitative Analysts		MA
 Holy Cross Ministries of Utah	Salt Lake	UT	1	Mental Health Counselors		UT
-Holy Family Medical Center - Des Plaines LLC	Des Plaines	IL	10	Health Education Specialists		IL
+Holy Family Medical Center - Des Plaines LLC	Des Plaines	IL	1	Health Education Specialists		IL
 Holyoke Medical Center, Inc	Holyoke	MA	11	General Internal Medicine Physicians; Hospitalists; Neurologists	320000	MA
 Home Depot Management Company LLC	Atlanta	GA	171	Operations Research Analysts; Software Developers; Data Scientists	130000	GA,TX,VA
 Honda Development & Manufacturing Of America, LLC	Marysville	OH	37	Mechanical Engineers; Electrical Engineers; Automotive Engineers	99000	OH,CA,AL
@@ -1774,9 +1774,9 @@ Hospitalist Medicine Physicians of California, Inc.	Tacoma	WA	3	Hospitalists		CA
 Hospitalist Medicine Physicians of Connecticut, LLC	Nashville	TN	1	Hospitalists		CT
 Hospitalist Medicine Physicians of Georgia “ TCS, P.C.	Tacoma	WA	2	Anesthesiologists		GA
 Hospitalist Medicine Physicians of Ohio, P.C.	Nashville	TN	3	Hospitalists		OH
-Hospitalist Medicine Physicians of Richland County, Ltd.	Nashville	TN	9	Hospitalists		OH
-Hospitalist Medicine Physicians of Texas, PLLC	Nashville	TN	19	Hospitalists		TX,NM,KS
-Hospitalist Medicine Physicians of Virginia, LLC	Nashville	TN	9	Hospitalists		VA
+Hospitalist Medicine Physicians of Richland County, Ltd.	Nashville	TN	8	Hospitalists		OH
+Hospitalist Medicine Physicians of Texas, PLLC	Nashville	TN	18	Hospitalists		TX,NM,KS
+Hospitalist Medicine Physicians of Virginia, LLC	Nashville	TN	8	Hospitalists		VA
 Hospitalist Physicians of Massachusetts, P.C.	Knoxville	TN	3	Hospitalists; Physicians, All Other		MA
 House Call Medical Services of New York, PLLC	Bronx	NY	1	Nurse Practitioners		NY
 Housing Authority of the County of Monterey	Salinas	CA	1	Financial Managers		CA
@@ -1864,7 +1864,7 @@ Infinity Medical Management LLC	Virginia	VA	1	Software Developers		VA
 Infinity MEP Holdco LLC	Houston	TX	1	Electrical Engineers		TX
 Inflection Medicine Inc	Boston	MA	1	Software Developers		MA
 Information Technology And Management Consulting, Inc.	Parsippany	NJ	20	Information Technology Project Managers; Software Developers; Software Quality Assurance Analysts and Testers	102000	NJ,TX,PA
-Infosys Mccamish Systems, LLC	Atlanta	GA	11	Computer Systems Engineers/Architects; Management Analysts	86400	GA
+Infosys Mccamish Systems, LLC	Atlanta	GA	3	Computer Systems Engineers/Architects; Management Analysts	86400	GA
 Ingram Micro Inc.	Irvine	CA	25	Software Developers; Information Technology Project Managers; Operations Research Analysts	145200	CA,NY,PA
 Ingram Micro Services LLC	Irvine	CA	1	Operations Research Analysts		AZ
 InMarket Media LLC	Austin	TX	4	Data Scientists; Database Administrators	105600	TX,MA,CA
@@ -2012,7 +2012,7 @@ Junson Assets Management LLC	New York	NY	1	Financial Managers		NY
 Junyfore Music	San Jose	CA	1	Self-Enrichment Teachers		CA
 Jusda Supply Chain Management Corporation	City of Industry	CA	1	Business Intelligence Analysts		CA
 K.P. Cultural Media LLC	Allen	TX	1	Market Research Analysts and Marketing Specialists		CA
-K2 Medical Research LLC	Maitland	FL	2	Clinical Research Coordinators		FL
+K2 Medical Research LLC	Maitland	FL	1	Clinical Research Coordinators		FL
 K3 Maritime Agency, Inc.	Toms River	NJ	1	Logisticians		NJ
 Kadlec Regional Medical Center	Renton	WA	6	General Internal Medicine Physicians; Surgeons, All Other; Cardiologists	183900	WA
 Kalamazoo County Community Mental Health Authority	Kalamazoo	MI	1	Clinical Data Managers		TX
@@ -2094,7 +2094,7 @@ La Magna Health, PLLC	Wichita Falls	TX	5	Hospitalists	300000	TX
 La Marche Manufacturing Company	Des Plaines	IL	1	Quality Control Analysts		IL
 La Marche Mfg. Co.	Des Plaines	IL	1	Mechanical Engineers		IL
 Labette Center for Mental Health Services, Inc.	Parsons	KS	1	Mental Health Counselors		KS
-Labette County Medical Center	Parsons	KS	2	Medical and Clinical Laboratory Technologists		KS
+Labette County Medical Center	Parsons	KS	1	Medical and Clinical Laboratory Technologists		KS
 Laborie Medical Technologies Corp.	Portsmouth	NH	1	Mechanical Engineers		UT
 Ladybird Montessori School LLC	Buda	TX	1	Education and Childcare Administrators, Preschool and Daycare		TX
 Laerdal Medical Corporation	Wappingers Falls	NY	1	Network and Computer Systems Administrators		VA
@@ -2194,7 +2194,7 @@ Lithium Capital Management Corp.	Miami	FL	1	Investment Fund Managers		FL
 Little Blossom Montessori Academy, Inc	Sacramento	CA	1	Preschool Teachers, Except Special Education		CA
 Littler Mendelson, P.C.	San Francisco	CA	2	Lawyers		WA,NY
 LIV Medical Technology Inc	Baltimore	MD	2	Electrical Engineers; Mechanical Engineers		MD
-LiveLab Media US Inc	Culver City	CA	5	Market Research Analysts and Marketing Specialists; Human Resources Specialists	52700	CA
+LiveLab Media US Inc	Culver City	CA	3	Market Research Analysts and Marketing Specialists; Human Resources Specialists	52700	CA
 Llama Ventures Management LLC	Sunnyvale	CA	1	Financial and Investment Analysts		CA
 Lloyds Bank Corporate Markets Plc	New York	NY	4	Financial and Investment Analysts; Financial Quantitative Analysts; Financial Risk Specialists	190000	NY
 LLR Management, L.P.	Philadelphia	PA	1	Computer and Information Systems Managers		PA
@@ -2222,7 +2222,7 @@ Lotte Aluminium Materials USA, LLC	Elizabethtown	KY	1	Electrical Engineers		KY
 Lotus Management Group, LLC	Salt Lake City	UT	1	Computer Systems Analysts		UT
 Loudoun Medical Group, P.C.	Leesburg	VA	1	Physicians, Pathologists		VA
 Loudoun Motor Cars LLC	Chantilly	VA	2	Human Resources Managers		VA
-Louisiana Children's Medical Center	New Orleans	LA	215	Registered Nurses; Critical Care Nurses		LA
+Louisiana Children's Medical Center	New Orleans	LA	55	Registered Nurses; Critical Care Nurses		LA
 Louisiana Children's Medical Center d/b/a LCMC Health	New Orleans	LA	1	Cardiologists		LA
 Louisiana School for Math, Science and the Arts	Natchitoches	LA	1	Secondary School Teachers, Except Special and Career/Technical Education		LA
 Louisiana State University and A & M College	Baton Rouge	LA	1	Anthropology and Archeology Teachers, Postsecondary		LA
@@ -2342,7 +2342,7 @@ Macleods Pharma USA Inc.	Princeton	NJ	1	Market Research Analysts and Marketing S
 Macom Technology Solutions,inc.	Lowell	MA	1	Electronics Engineers, Except Computer		CA
 Macon County Schools	Franklin	NC	1	Kindergarten Teachers, Except Special Education		NC
 MaconIT, Inc.	Chesterfield	VA	1	Data Scientists		VA
-Macquarie America Holdings Inc.	New York	NY	8	Financial and Investment Analysts; Financial Quantitative Analysts	180000	NY
+Macquarie America Holdings Inc.	New York	NY	6	Financial and Investment Analysts; Financial Quantitative Analysts	180000	NY
 Macquarie Asset Management US Inc.	New York	NY	9	Financial and Investment Analysts; Accountants and Auditors; Management Analysts	165000	NY,FL
 Macquarie CGM Trading Pty Limited	Houston	TX	1	Data Scientists		TX
 Macquarie Global Services (USA) LLC	New York	NY	27	Accountants and Auditors; Software Developers; Data Scientists	124000	FL,TX,NY
@@ -2496,7 +2496,7 @@ MAIA Pharmaceuticals, Inc.	Princeton	NJ	1	Regulatory Affairs Specialists		NJ
 Maid Fast Construction Inc	Escondido	CA	1	Cost Estimators		CA
 MAIGE Inc.	City of Industry	CA	2	Architects, Except Landscape and Naval		CA
 Mail Media, Inc.	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
-Maimonides Medical Center	Brooklyn	NY	48	Physicians, All Other; Healthcare Social Workers; Clinical and Counseling Psychologists	93700	NY
+Maimonides Medical Center	Brooklyn	NY	24	Physicians, All Other; Healthcare Social Workers; Clinical and Counseling Psychologists	93700	NY
 Main Door Corporation	Gardena	CA	1	Software Developers		CA
 Main Line Health, Inc.	Radnor	PA	1	Statisticians		PA
 Main Line HealthCare	Newtown Square	PA	2	Healthcare Diagnosing or Treating Practitioners, All Other; Physicians, All Other		PA
@@ -2559,7 +2559,7 @@ Malika & Sania Corporation	Benbrook	TX	1	Operations Research Analysts		TX
 Malla Systems, Inc.	Glendale	AZ	10	Software Developers	118000	AZ,VA,IL
 Mallinckrodt Enterprises LLC	Hazelwood	MO	1	Manufacturing Engineers		NY
 Malloy Law Offices, LLC	Bethesda	MD	1	Market Research Analysts and Marketing Specialists		MD
-MaloneBailey, LLP	Houston	TX	13	Accountants and Auditors	77100	TX,NJ
+MaloneBailey, LLP	Houston	TX	6	Accountants and Auditors	77100	TX,NJ
 Maloy Aircraft LLC	DeBary	FL	1	Aerospace Engineers		FL
 Malum, Inc.	Coralville	IA	1	Computer Occupations, All Other		IA
 Malve Capital LLC	Port Washington	NY	1	Software Developers		SC
@@ -2589,7 +2589,7 @@ ManageGo LLC	Brooklyn	NY	1	Software Developers		NY
 Management & Training Corporation	Centerville	UT	1	Computer and Information Systems Managers		UT
 Management Consulting Group	San Rafael	CA	1	Management Analysts		CA
 Management Controls, Inc.	Houston	TX	4	Software Developers; Database Architects; Database Administrators	113900	TX
-Management Health Systems, LLC	Sunrise	FL	181	Registered Nurses; Medical and Clinical Laboratory Technologists; Physical Therapists		TN,IL,MS
+Management Health Systems, LLC	Sunrise	FL	53	Medical and Clinical Laboratory Technologists; Registered Nurses; Physical Therapists		FL,TN,CA
 Management Science Associates, Inc.	Tarentum	PA	2	Software Developers; Data Scientists		VA,MO
 Management Support LLC	Alpine	UT	2	Logisticians		UT
 ManageMy Inc.	Charlotte	NC	1	Information Technology Project Managers		NC
@@ -2677,7 +2677,7 @@ Maple Multi-Family Operations, LLC	Dallas	TX	1	Construction Managers		FL
 Maple Valley-Anthon Oto Community School District	Mapleton	IA	2	Secondary School Teachers, Except Special and Career/Technical Education		IA
 Maplebear Inc.	San Francisco	CA	79	Software Developers; Market Research Analysts and Marketing Specialists; Computer and Information Systems Managers	200000	CA,NY,WA
 Maptician, Inc.	Lincoln	NE	1	Computer Programmers		VA
-Maq L.L.C.	Redmond	WA	38	Software Developers	117700	WA,TX
+Maq L.L.C.	Redmond	WA	9	Software Developers	117700	WA,TX
 Maquet Cardiovascular, LLC	Wayne	NJ	1	Industrial Engineers		NJ
 Marada Industries Inc.	New Hudson	MI	3	Industrial Engineers; Software Developers; Architectural and Engineering Managers	93600	MI
 Marana Health Center	Marana	AZ	1	General Internal Medicine Physicians		AZ
@@ -2720,7 +2720,7 @@ Maria E Marzo Dds PC	Painted Post	NY	1	Dentists, General		NY
 Maria Trina Burgos, P.A.	Doral	FL	1	Market Research Analysts and Marketing Specialists		FL
 Mariana Minerals Co.	San Francisco	CA	6	Mechanical Engineers; Civil Engineers; Chemical Engineers	160000	CA,TX,UT
 Marianas Energy Company LLC			2	Electrical Engineers; Mechanical Engineers		
-Marianas Health Services, Inc.			36	Registered Nurses; Physical Therapists; Medical Assistants		
+Marianas Health Services, Inc.			6	Medical Assistants; Licensed Practical and Licensed Vocational Nurses; Registered Nurses		
 Marianne Jones, LLC	Danville	CA	1	Interior Designers		CA
 Maricopa County Community College District	Tempe	AZ	1	Software Developers		AZ
 Maricopa Unified School District	Maricopa	AZ	4	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education	66900	AZ
@@ -2768,7 +2768,7 @@ Markable Inc	Bellevue	WA	3	Market Research Analysts and Marketing Specialists; G
 Markcity, Rothman, Cantwell & Breitner, PA	Plantation	FL	1	Training and Development Specialists		FL
 Markem-Imaje Corporation	Keene	NH	6	Mechanical Engineers; Supply Chain Managers; Software Quality Assurance Analysts and Testers	126000	NH,MA
 Market America, Inc.	Greensboro	NC	1	Data Scientists		CA
-Market Revolution Inc.	Miami	FL	3	Market Research Analysts and Marketing Specialists		FL
+Market Revolution Inc.	Miami	FL	2	Market Research Analysts and Marketing Specialists		FL
 Market Scan Information Systems, Inc.	New York	NY	1	Software Quality Assurance Analysts and Testers		TX
 Market Track, LLC	Chicago	IL	2	Business Intelligence Analysts		IL
 MarketAxess Corporation	New York	NY	13	Software Developers; Software Quality Assurance Analysts and Testers; Information Security Analysts	150000	NY,NJ
@@ -2834,8 +2834,8 @@ Marsh USA LLC	New York	NY	15	Insurance Underwriters; Financial and Investment An
 Marshall & Sterling, Enterprises Inc.	Poughkeepsie	NY	1	Business Intelligence Analysts		NY
 Marshall & Stevens, Inc.	Los Angeles	CA	1	Financial and Investment Analysts		NY
 Marshall Consulting Group LLC	Warrenton	VA	1	Accountants and Auditors		VA
-Marshall County Hospital	Benton	KY	8	Medical and Clinical Laboratory Technologists	61800	KY
-Marshall Technologies Inc.	Memphis	TN	6	Computer Systems Analysts; Software Developers; Software Quality Assurance Analysts and Testers	75800	TX,DE,GA
+Marshall County Hospital	Benton	KY	3	Medical and Clinical Laboratory Technologists	61800	KY
+Marshall Technologies Inc.	Memphis	TN	4	Computer Systems Analysts; Software Developers; Software Quality Assurance Analysts and Testers	75800	TX,DE,GA
 Marshall University	Huntington	WV	26	Health Specialties Teachers, Postsecondary; Biological Science Teachers, Postsecondary; Engineering Teachers, Postsecondary	71700	WV
 Marshall Wace North America LP	New York	NY	7	Financial and Investment Analysts; Data Scientists; Financial Quantitative Analysts	175000	NY
 Marshall, Gerstein & Borun LLP	Chicago	IL	1	Lawyers		CA
@@ -2875,7 +2875,7 @@ Marutai	San Francisco	CA	1	Software Developers		CA
 Maruthi Technologies Inc	Dallas	TX	12	Software Developers; Database Administrators	131400	TX,ME
 Marvel Architects, Landscape Architects LLP			1	Interior Designers		
 Marvel Architects. Landscape Architects, Urban Designer PLLC	New York	NY	3	Architects, Except Landscape and Naval; Interior Designers	89000	NY
-Marvel Dental DDS, PC	Fort Wayne	IN	4	Dentists, General	250000	IN
+Marvel Dental DDS, PC	Fort Wayne	IN	3	Dentists, General	250000	IN
 Marvel Tech Groups Inc	Durham	NC	4	Software Developers; Software Quality Assurance Analysts and Testers	113200	TX,NC,NJ
 Marvel Technologies, Inc.	Southfield	MI	12	Software Developers; Software Quality Assurance Analysts and Testers; Information Technology Project Managers	106300	MI,TX,SC
 Marvel Technology Solutions Inc	Livonia	MI	12	Network and Computer Systems Administrators; Computer Systems Analysts; Computer Programmers	92100	WA,TX,MA
@@ -2889,7 +2889,7 @@ Marwood Assets Management LLC	Mountain View	CA	1	Interior Designers		CA
 Mary Bird Perkins Cancer Center	Baton Rouge	LA	1	Healthcare Practitioners and Technical Workers, All Other		LA
 Mary Greeley Medical Center	Ames	IA	2	Medical and Clinical Laboratory Technologists		IA
 Mary Hitchcock Memorial Hospital	Lebanon	NH	14	Surgeons, All Other; Molecular and Cellular Biologists; Business Intelligence Analysts	67500	NH
-Mary Mcdowell Friends School	Brooklyn	NY	2	Teachers and Instructors, All Other		NY
+Mary Mcdowell Friends School	Brooklyn	NY	1	Teachers and Instructors, All Other		NY
 Mary Washington Healthcare	Fredericksburg	VA	1	Physicians, All Other		VA
 Mary Washington Healthcare Physicians	Fredericksburg	VA	8	Physicians, All Other	382500	VA
 Mary Washington Healthcare Providers, LLC	Fredericksburg	VA	1	Physicians, All Other		VA
@@ -2930,7 +2930,7 @@ Masoud Khorsand-Sahbaie, M.D., P.A.	Roswell	NM	1	Physicians, All Other		NM
 MASS Design Group, Ltd.	Boston	MA	6	Designers, All Other; Architects, Except Landscape and Naval; Training and Development Specialists	85000	MA,NY,NM
 Mass Electric Construction Co	Omaha	NE	1	Civil Engineers		TX
 Mass General Brigham Health Plan	Somerville	MA	1	Network and Computer Systems Administrators		TX
-Mass General Brigham Incorporated	Somerville	MA	32	Physicians, All Other; Natural Sciences Managers; Oral and Maxillofacial Surgeons	82500	MA
+Mass General Brigham Incorporated	Somerville	MA	28	Physicians, All Other; Natural Sciences Managers; Oral and Maxillofacial Surgeons	82500	MA
 Mass General Brigham Medical Group	Dover	NH	1	Cardiologists		NH
 Mass General Brigham Medical Group Northern Massachusetts	Peabody	MA	5	General Internal Medicine Physicians; Hospitalists; Cardiologists	265000	MA
 Mass General Brigham Medical Group, NH & Maine, Inc	Dover	NH	2	General Internal Medicine Physicians; Hospitalists		NH
@@ -2963,9 +2963,9 @@ MasTec Civil, LLC	Medley	FL	4	Civil Engineers; Construction Managers	103500	FL
 Mastec Services Company, Inc	Coral Gables	FL	17	Electrical Engineers; Network and Computer Systems Administrators; Engineers, All Other	97400	PA,AZ,TX
 Mastec Utility Services LLC	Coral Gables	FL	1	Project Management Specialists		NC
 MasTec, Inc.	Coral Gables	FL	2	Software Developers		FL
-Mastech Digital Alliances, Inc.	Moon Township	PA	6	Software Developers		TX
-Mastech Digital Resourcing, Inc.	Moon Township	PA	240	Software Developers; Software Quality Assurance Analysts and Testers; Database Architects	138300	TX,RI,NH
-Mastech Digital Technologies, Inc.	Moon Township	PA	774	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	112900	TX,NC,NH
+Mastech Digital Alliances, Inc.	Moon Township	PA	1	Software Developers		TX
+Mastech Digital Resourcing, Inc.	Moon Township	PA	40	Software Developers; Software Quality Assurance Analysts and Testers; Database Architects	138300	TX,RI,NH
+Mastech Digital Technologies, Inc.	Moon Township	PA	129	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	112900	TX,NC,NH
 Mastek Inc.	Addison	TX	19	Software Developers; Information Technology Project Managers; Computer Systems Engineers/Architects	148600	AZ,TX,CT
 Master Compliance, Inc.	Irving	TX	3	Validation Engineers; Software Developers		IL,NC,NJ
 Master CVV Technologies LLC	Frisco	TX	3	Computer Programmers	77400	TX,MI
@@ -2996,7 +2996,7 @@ Matchbook Services, Inc.	Santa Monica	CA	1	Software Quality Assurance Analysts a
 Matchpoint Solutions	Pleasanton	CA	4	Software Developers; Computer Systems Engineers/Architects	108800	PA,MI,NY
 Matcon Construction Services Inc	Tampa	FL	1	Cost Estimators		FL
 Matcor Metal Fabrication (Illinois) Inc.	Morton	IL	2	Industrial Production Managers		IL
-Mater Academy INC	Hialeah Gardens	FL	2	Elementary School Teachers, Except Special Education		FL
+Mater Academy INC	Hialeah Gardens	FL	1	Elementary School Teachers, Except Special Education		FL
 Matereal Inc.	Erie	CO	1	Chemists		CO
 Material in Motion, LLC	Fairburn	GA	3	Operations Research Analysts; Data Scientists	68000	GA
 Material Security, Inc.	San Francisco	CA	1	Software Developers		CA
@@ -3015,7 +3015,7 @@ Matheson Tri-Gas, Inc.	Warren	NJ	2	Business Operations Specialists, All Other; R
 Mathews Nielsen Landscape Architects P.C.	New York	NY	1	Landscape Architects		NY
 Mathpix, Inc.	Brooklyn	NY	1	Software Developers		NY
 Matia Inc.	Miami	FL	2	General and Operations Managers		FL
-Matic Robots, Inc.	Mountain View	CA	25	Robotics Engineers; Mechanical Engineers; Industrial Engineers	166600	CA
+Matic Robots, Inc.	Mountain View	CA	22	Robotics Engineers; Mechanical Engineers; Industrial Engineers	166600	CA
 Matica Biotechnology, Inc.	College Station	TX	4	Biological Scientists, All Other; Bioengineers and Biomedical Engineers	86800	TX
 Matik, Inc.	San Francisco	CA	1	Software Developers		TX
 Matikon America, Inc.	Auburn Hills	MI	1	Industrial Engineers		MI
@@ -3053,14 +3053,14 @@ Matthews International Corporation	Pittsburgh	PA	2	Computer Systems Analysts; So
 Matthews South, Inc.	San Mateo	CA	1	Financial and Investment Analysts		NY
 Mattoon Community Unit School District 2	Mattoon	IL	1	Secondary School Teachers, Except Special and Career/Technical Education		IL
 Mattress Firm, Inc.	Houston	TX	1	Computer and Information Systems Managers		TX
-Mattson Technology, Inc.	Fremont	CA	105	Software Quality Assurance Analysts and Testers; Mechanical Engineers; Manufacturing Engineers	163600	CA,AZ
+Mattson Technology, Inc.	Fremont	CA	9	Software Quality Assurance Analysts and Testers; Mechanical Engineers; Electronics Engineers, Except Computer	163600	CA,AZ
 MatX Inc.	Covina	CA	7	Electronics Engineers, Except Computer; Electrical Engineers; Computer Hardware Engineers	216100	CA,TX
 Matz America, LLC	Dublin	OH	2	Mechanical Engineers		OH
 Matz Collaborative Architects	Framingham	MA	1	Designers, All Other		MA
 Maui Lobster King LLC	Kihei	HI	2	Market Research Analysts and Marketing Specialists		HI
 Mauser Packaging Solutions Holding Company	Oak Brook	IL	2	Operations Research Analysts; Logistics Analysts		IL
 MAV Unlimited, Inc.	Portland	OR	1	Materials Scientists		MA
-Maven 365 LLC	Beaumont	TX	4	Market Research Analysts and Marketing Specialists		TX
+Maven 365 LLC	Beaumont	TX	2	Market Research Analysts and Marketing Specialists		TX
 Maven Clinic Co	New York	NY	2	Software Developers		NY
 Maven Companies, Inc.	Colorado Springs	CO	13	Software Developers; Software Quality Assurance Analysts and Testers; Management Analysts		WA,TX,CT
 Maven Enterprise Solutions and Consulting Services LLC	Alpharetta	GA	1	Software Developers		GA
@@ -3142,7 +3142,7 @@ Maybern Solutions, Inc.	New York	NY	2	Software Developers; Financial Quantitativ
 Mayco International LLC	Sterling Heights	MI	2	Mechanical Engineers; Industrial Engineers		MI
 Mayee Solutions LLC	Ceder Park	TX	2	Software Developers		TX
 Mayekawa USA., Inc.	Katy	TX	1	Sales Engineers		TX
-Mayer Brown LLP	Washington	DC	110	Lawyers; Paralegals and Legal Assistants; Software Developers	179400	NY,IL,CA
+Mayer Brown LLP	Washington	DC	24	Lawyers; Paralegals and Legal Assistants; Software Developers	179400	NY,IL,CA
 Mayer Solar LLC	Plano	TX	1	Electrical Engineers		TX
 Mayers Memorial Hospital District	Fall River Mills	CA	1	Medical and Clinical Laboratory Technologists		CA
 Mayflower Tax & Insurance Inc	Plano	TX	1	Market Research Analysts and Marketing Specialists		TX
@@ -3233,7 +3233,7 @@ McKenzie County Healthcare Systems, Inc	Watford City	ND	1	Registered Nurses		ND
 McKenzie County Public School District One	Watford City	ND	1	Elementary School Teachers, Except Special Education		ND
 McKesson Corporation	Irving	TX	67	Software Developers; Data Scientists; Information Technology Project Managers	155000	TX,NJ,KS
 McKim & Creed, Inc.	Wilmington	NC	5	Electrical Engineers; Environmental Engineers	78000	NC,FL,GA
-McKinsey & Company, Inc. United States	New York	NY	279	Management Analysts; Data Scientists; Software Developers	187700	GA,NY,MA
+McKinsey & Company, Inc. United States	New York	NY	210	Management Analysts; Data Scientists; Software Developers	187700	NY,MA,TX
 Mckinsol Consulting Inc.	Edison	NJ	7	Software Developers; Computer Systems Analysts; Computer Programmers	140000	NJ
 McKissack & McKissack, Inc.	Washington	DC	1	Water/Wastewater Engineers		DC
 McKnight International, LLC	Prospect Park	PA	5	Computer Systems Analysts	107000	PA,MD
@@ -3349,7 +3349,7 @@ Mediabrands Worldwide, Inc.	New York	NY	12	Data Scientists	101500	MA,CA,NY
 Mediakeys Inc.	New York	NY	1	Market Research Analysts and Marketing Specialists		CA
 Mediaocean LLC	New York	NY	7	Software Developers; Computer and Information Systems Managers; Computer Systems Engineers/Architects	135000	NJ,NY,VA
 MediaTek Technology USA, Inc.	West Lafayette	IN	1	Computer and Information Research Scientists		IN
-MediaTek USA Inc.	San Jose	CA	1551	Electronics Engineers, Except Computer; Software Developers; Electrical Engineers	159900	CA,TX,MA
+MediaTek USA Inc.	San Jose	CA	86	Electronics Engineers, Except Computer; Electrical Engineers; Software Developers	159900	CA,TX,MA
 Mediation Matters	Albany	NY	1	Business Operations Specialists, All Other		NY
 Mediavest Worldwide, Inc.	New York	NY	1	Marketing Managers		NY
 MEDIC Life Sciences, Inc	Palo Alto	CA	1	Biological Technicians		CA
@@ -3412,14 +3412,14 @@ MedPrizm, Inc.	Raleigh	NC	1	Marketing Managers		NJ
 Medra Inc.	San Francisco	CA	5	Mechanical Engineers; Sales Engineers; Computer and Information Research Scientists	172000	CA
 Medrio, Inc.	San Francisco	CA	1	Software Quality Assurance Analysts and Testers		CA
 Medspa Logistics LLC	Irving	TX	1	Data Scientists		TX
-MedStar Georgetown Medical Center, Inc.	Baltimore	MD	7	General Internal Medicine Physicians; Financial and Investment Analysts; Physicians, All Other	85000	DC,MD,VA
+MedStar Georgetown Medical Center, Inc.	Baltimore	MD	6	General Internal Medicine Physicians; Financial and Investment Analysts; Physicians, All Other	85000	DC,MD,VA
 MedStar Health Research Institute, Inc.	Columbia	MD	1	Medical Scientists, Except Epidemiologists		DC
 MedStar Health, Inc.	Columbia	MD	7	Software Developers; Software Quality Assurance Analysts and Testers; Physical Therapists	124700	MD,NJ,OH
-MedStar Medical Group II, LLC	Columbia	MD	42	Physicians, All Other; Hospitalists; General Internal Medicine Physicians	316800	MD,DC,VA
+MedStar Medical Group II, LLC	Columbia	MD	41	Physicians, All Other; Hospitalists; General Internal Medicine Physicians	316800	MD,DC,VA
 MedStar Medical Group Radiology, LLC	Columbia	MD	1	Radiologists		MD
 MedStar Medical Group-Southern Maryland, LLC	Hollywood	MD	9	Physicians, All Other; General Internal Medicine Physicians; Computer Systems Analysts	240000	MD
 MedStar Shah MSO, LLC	Columbia	MD	3	Critical Care Nurses; Accountants and Auditors; Medical and Health Services Managers	80000	MD
-MedStar-Georgetown Medical Center, Inc.	Baltimore	MD	6	General Internal Medicine Physicians		MD
+MedStar-Georgetown Medical Center, Inc.	Baltimore	MD	2	General Internal Medicine Physicians		MD
 Medstop LLC	Winter Park	FL	1	Computer Systems Analysts		FL
 Medtrics Lab, LLC.	Philadelphia	PA	1	Information Security Analysts		PA
 Medtrix Healthcare LLC	Bridgewater	NJ	1	Medical and Health Services Managers		NJ
@@ -3467,7 +3467,7 @@ MEI Architects	San Francisco	CA	1	Architects, Except Landscape and Naval		CA
 Mei Yuan LLC	Champaign	IL	2	Financial Managers		IL
 Mei& Mark LLP	Washington	DC	1	Judicial Law Clerks		DC
 Meidi Electronics,inc.	Chino	CA	1	Logisticians		GA
-Meier Architects D.P.C.	New York	NY	2	Architects, Except Landscape and Naval		NY
+Meier Architects D.P.C.	New York	NY	1	Architects, Except Landscape and Naval		NY
 Meijer Great Lakes Limited Partnership	Grand Rapids	MI	28	Software Developers; Computer and Information Systems Managers; Data Scientists	138700	MI
 Meijer Stores Limited Partnership	Grand Rapids	MI	4	Software Developers; Database Administrators	156100	IL,KY,MI
 Meiji Yasuda America Incorporated	New York	NY	1	Financial and Investment Analysts		NY
@@ -3485,7 +3485,7 @@ Melien Medical LA	Arcadia	CA	1	Market Research Analysts and Marketing Specialist
 Melissa & Doug LLC	Wilton	CT	1	Computer Systems Engineers/Architects		CT
 Melissa Data Corporation	Rancho Santa Margarita	CA	1	Software Developers		WA
 Melius Advisory, Inc	Rego Park	NY	1	Management Analysts		NY
-Mellanox Technologies, Inc.	Sunnyvale	CA	35	Software Developers; Information Technology Project Managers; Electronics Engineers, Except Computer	186100	MA,CA,WA
+Mellanox Technologies, Inc.	Sunnyvale	CA	8	Software Developers; Sales Engineers; Information Technology Project Managers	186100	MA,CA,WA
 Mellis, Inc.	Palo Alto	CA	1	Software Developers		CA
 Mellow Soft Inc.	Boerne	TX	11	Software Developers; Computer Programmers; Data Scientists	110000	TX,CA,KS
 Mellowsoft Inc	Las Vegas	NV	6	Computer and Information Research Scientists; Data Scientists; Civil Engineers	143700	NJ
@@ -3519,7 +3519,7 @@ Memphis Brooks Museum Of Art, Inc	Memphis	TN	1	Database Administrators		TN
 Memphis Light, Gas, and Water	Memphis	TN	5	Software Developers; Civil Engineers	92700	TN
 Memphis-Shelby County Airport Authority	Memphis	TN	1	Airfield Operations Specialists		TN
 Memphis-Shelby County Schools	Memphis	TN	4	Secondary School Teachers, Except Special and Career/Technical Education	57300	TN
-Memryx Inc.	Ann Arbor	MI	21	Software Developers; Computer Occupations, All Other	113300	MI
+Memryx Inc.	Ann Arbor	MI	14	Software Developers; Computer Occupations, All Other	113300	MI
 Memsel, Inc.	Fort Worth	TX	1	Biochemists and Biophysicists		TX
 MemVerge, Inc.	Milpitas	CA	1	Software Developers		CA
 Memx, LLC	Miami	FL	5	Computer Systems Engineers/Architects; Computer Network Support Specialists; Software Developers	120000	NJ,GA,IL
@@ -3585,7 +3585,7 @@ Mercurity Fintech Technology Holding Inc.	New York	NY	2	Management Analysts; Bus
 Mercurius Inc	Oklahoma City	OK	1	Software Developers		OK
 Mercury Analytics, LLC	Washington	DC	3	Market Research Analysts and Marketing Specialists; Statisticians	104000	DC,OH
 Mercury Financial LLC	Austin	TX	7	Software Developers; Credit Analysts; Business Intelligence Analysts	150000	DE,TX
-Mercury Healthcare Inc.	Newark	NJ	27	Information Security Engineers; Software Developers	93000	NJ,WI
+Mercury Healthcare Inc.	Newark	NJ	3	Information Security Engineers; Software Developers	93000	NJ,WI
 Mercury Insurance Services, LLC	Los Angeles	CA	10	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	124000	CA,TX,OK
 Mercury Intermedia, Inc.	Brentwood	TN	2	Software Developers		VA,NC
 Mercury Public Affairs LLC	Washington	DC	1	Public Relations Specialists		DC
@@ -3607,7 +3607,7 @@ Mercy Health Physicians Springfield Primary Care LLC	Springfield	OH	4	Family Med
 Mercy Health Physicians Youngstown Specialty Care LLC	North Lima	OH	4	Hospitalists	299200	OH
 Mercy Health Services - Iowa Corp.	Mason City	IA	2	Pharmacists; Surgeons, All Other		IA
 Mercy Health System Corporation	Janesville	WI	2	General Internal Medicine Physicians; Family Medicine Physicians		WI
-Mercy Health Youngstown LLC	Youngstown	OH	18	General Internal Medicine Physicians; Physicians, All Other	70500	OH
+Mercy Health Youngstown LLC	Youngstown	OH	6	General Internal Medicine Physicians; Physicians, All Other	70500	OH
 Mercy Hospital	Portland	ME	1	Physicians, All Other		ME
 Mercy Hospital of Devils Lake	Devils Lake	ND	2	Medical and Clinical Laboratory Technologists		ND
 Mercy Hospital of Valley City	Valley City	ND	4	Medical and Clinical Laboratory Technologists; Surgeons, All Other		ND
@@ -3716,7 +3716,7 @@ Meta Hub IT Solutions Inc.	Plano	TX	2	Software Developers		TX
 Meta IT Corp	Houston	TX	1	Computer Programmers		MI
 Meta IT Systems LLC	Charlotte	NC	12	Software Developers; Database Administrators; Software Quality Assurance Analysts and Testers	106900	NC,PA,AZ
 Meta Payments Inc. (formerly known as Facebook Payments, Inc)	Menlo Park	CA	1	Computer and Information Research Scientists		NY
-Meta Platforms, Inc	Menlo Park	CA	9476	Software Developers; Computer and Information Research Scientists; Data Scientists	211800	CA,WA,NY
+Meta Platforms, Inc	Menlo Park	CA	3476	Software Developers; Computer and Information Research Scientists; Data Scientists	211800	CA,WA,NY
 Meta Soft Inc	Roswell	GA	3	Computer Programmers; Software Developers; Database Architects	93800	GA,NY
 Meta Tools Technologies LLC	Spring Lake	MI	1	Mechanical Engineers		MI
 META9 Technologies Inc	RoundRock	TX	5	Database Administrators; Computer Systems Analysts; Web Developers	94700	NJ,TX
@@ -3758,7 +3758,7 @@ Methodica Technologies LLC	Troy	MI	5	Validation Engineers	88200	MI,IN
 Methodist Associates in Healthcare, Inc.	Philadelphia	PA	3	Healthcare Practitioners and Technical Workers, All Other; Radiologists	77800	PA
 Methodist Health System	Dallas	TX	5	Medical and Clinical Laboratory Technologists; Health Informatics Specialists; Clinical Data Managers	120000	TX
 Methodist Healthcare System of San Antonio, LTD, LLP – Methodist Stone Oak Hospital	San Antonio	TX	1	Dietitians and Nutritionists		TX
-Methodist Le Bonheur Healthcare	Memphis	TN	25	Medical and Clinical Laboratory Technologists; Registered Nurses; Histotechnologists		TN
+Methodist Le Bonheur Healthcare	Memphis	TN	7	Medical and Clinical Laboratory Technologists; Computer and Information Research Scientists; Optometrists		TN
 Methodist University, Inc.	Fayetteville	NC	3	Education Administrators, Postsecondary; Economics Teacher, Postsecondary	75500	NC
 Methods Technology Solutions, Inc.	Baton Rouge	LA	1	Software Developers		TX
 Metionic Technologies Inc.	El Segundo	CA	1	Financial and Investment Analysts		TX
@@ -3774,7 +3774,7 @@ MetricStream, Inc.	San Jose	CA	3	Computer and Information Systems Managers; Info
 Metriport Inc.	San Francisco	CA	1	Software Developers		CA
 Metrix IT Solutions INC	Charlotte	NC	33	Software Developers; Software Quality Assurance Analysts and Testers; Database Administrators	112400	TX,NC,NY
 Metro Architecture Partnership, Inc.	Orlando	FL	1	Architectural and Civil Drafters		FL
-Metro Athletic Medicine and Fitness, P.C.	Louisville	KY	16	Physical Therapists	80000	NY
+Metro Athletic Medicine and Fitness, P.C.	Louisville	KY	14	Physical Therapists	80000	NY
 Metro Care Staffing, Inc	Brooklyn	NY	1	Exercise Physiologists		NY
 Metro Engineering Solutions, LLC	Northville	MI	2	Electrical Engineers; Mechanical Engineers		MI
 Metro Exhibits, LLC	Pine Brook	NJ	1	Meeting, Convention, and Event Planners		NJ
@@ -3785,7 +3785,7 @@ Metro Pharmacy Inc	Newark	DE	2	Pharmacists		DE
 Metro Supply Chain (USA) Inc.	Green Bay	WI	1	Mechanical Engineers		CA
 Metro Swim Online LLC	Stirling	NJ	2	Online Merchants; Database Administrators		NJ
 Metro Waterproofing, Inc.	Scottdale	GA	1	Cost Estimators		GA
-Metro-Goldwyn-Mayer Studios, Inc.	Seattle	WA	11	Financial and Investment Analysts; Software Developers		CA
+Metro-Goldwyn-Mayer Studios, Inc.	Seattle	WA	2	Software Developers; Financial and Investment Analysts		CA
 Metro1 Solutions LLC	New York	NY	2	Graphic Designers		NY
 Metrohealth Medical Center	Cleveland	OH	11	Physicians, All Other; Anesthesiologists; Dentists, General	195000	OH
 Metrohm Spectro, Inc.	Plainsboro	NJ	2	Mechanical Engineers; Computer Systems Engineers/Architects		NJ
@@ -3852,7 +3852,7 @@ MGM Transformer Company	Commerce	CA	1	Network and Computer Systems Administrator
 MGM Yonkers, Inc. (dba Empire City Casino)	Yonkers	NY	1	Market Research Analysts and Marketing Specialists		NY
 MGT Impact Solutions LLC	Norcross	GA	8	Information Security Engineers; Computer and Information Systems Managers; Information Security Analysts	129100	GA,TN,UT
 Mh Detailing LLC	Miami	FL	1	Marketing Managers		FL
-MH Sub I LLC	El Segundo	CA	235	Information Technology Project Managers; Web and Digital Interface Designers; Market Research Analysts and Marketing Specialists	95100	CA,NJ
+MH Sub I LLC	El Segundo	CA	19	Information Technology Project Managers; Web and Digital Interface Designers; Market Research Analysts and Marketing Specialists	95100	CA,NJ
 MhakTech, Inc.	Southfield	MI	2	Software Developers		TX
 MHC Property Management, L.P.	Chicago	IL	1	Information Security Analysts		IL
 MHC Services Group LLC	Clearwater	FL	2	Software Developers		FL
@@ -3942,7 +3942,7 @@ Micron Semiconductor Products, Inc.	Boise	ID	12	Marketing Managers; Electronics 
 Micron Technology, Inc.	Boise	ID	434	Electrical Engineers; Electronics Engineers, Except Computer; Materials Engineers	131600	ID,TX,CA
 Micronics Engineered Filtration Group, Inc.	Chattanooga	TN	1	Mechanical Engineers		NY
 Micronix Usa, LLC	Fountain Valley	CA	1	Computer Programmers		CA
-Microsoft Corporation	Redmond	WA	4211	Software Developers; Data Scientists; Information Technology Project Managers	173800	WA,CA,TX
+Microsoft Corporation	Redmond	WA	4019	Software Developers; Data Scientists; Information Technology Project Managers	173800	WA,CA,TX
 MicroStrategy Services Corporation dba Strategy	Tysons Corner	VA	1	Computer Network Support Specialists		VA
 MicroStrategy, Inc.	Tysons Corner	VA	1	Computer Network Support Specialists		VA
 MiCROTEC, Inc.	Corvallis	OR	1	Robotics Engineers		OR
@@ -4032,7 +4032,7 @@ Milacron Marketing Company LLC	Batavia	OH	1	Software Developers		OH
 Milacron Plastics Technologies Group LLC	Batavia	OH	1	Industrial Production Managers		KS
 Milani Construction, LLC	Washington	DC	1	Accountants and Auditors		DC
 Milara , Inc.	Milford	MA	1	Software Developers		MA
-Milbank LLP	New York	NY	32	Lawyers; Judicial Law Clerks	260000	NY,CA,DC
+Milbank LLP	New York	NY	21	Lawyers; Judicial Law Clerks	260000	NY,CA,DC
 Milberg, LLC			1	Legal Support Workers, All Other		
 Milbrandt Architects, Inc. P.S.	Kirkland	WA	1	Architects, Except Landscape and Naval		WA
 Miles AI Tech, Inc.	San Francisco	CA	1	Database Architects		CA
@@ -4194,7 +4194,7 @@ Miracles Tek LLC	Greenfield	WI	8	Software Developers; Industrial Engineers; Soft
 Miraclon Corporation	Oakdale	MN	1	Mechanical Engineers		MN
 Mirae Asset Global Investments (USA) LLC	New York	NY	1	Financial and Investment Analysts		NY
 Mirae Asset Securities (USA) Inc.	New York	NY	1	Financial and Investment Analysts		NY
-Mirafra Inc	Houston	TX	880	Electrical Engineers; Software Quality Assurance Analysts and Testers	160000	CA,TX
+Mirafra Inc	Houston	TX	44	Electrical Engineers; Software Quality Assurance Analysts and Testers	160000	CA,TX
 Mirage Software, Inc.	Schaumburg	IL	3	Operations Research Analysts; Softwater Developers; Data Scientists	120000	IL
 Mirage Software, Inc. d.b.a. Bourntec Solutions	Schaumburg	IL	4	Software Developers; Operations Research Analysts; Data Scientists	127900	IL,FL,MO
 Mirai Solutions Inc	Frisco	TX	2	Software Quality Assurance Analysts and Testers		TX
@@ -4225,7 +4225,7 @@ Miso Shark LLC	Auburn	AL	1	Database Administrators		AZ
 Miss 8, Inc.	Los Angeles	CA	1	Fashion Designers		CA
 Miss Ma Luxury Inc	Irvine	CA	1	Computer Programmers		CA
 Mission 42 Ventures, Inc	Austin	TX	2	Software Quality Assurance Analysts and Testers; Software Developers		TX
-Mission Achievement and Success Charter School	Albuquerque	NM	23	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	69300	NM
+Mission Achievement and Success Charter School	Albuquerque	NM	13	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	69300	NM
 Mission Bio, Inc.	South San Francisco	CA	4	Bioinformatics Scientists; Biological Technicians; Natural Sciences Managers	130000	CA,OH
 Mission Health Community Multispecialty Providers, LLC	Asheville	NC	2	General Internal Medicine Physicians		NC
 Mission Hospital, Inc.	Mission	TX	1	Clinical Data Managers		TX
@@ -4380,13 +4380,13 @@ MOBIS Parts Miami, LLC	Miami	FL	1	Logistics Engineers		FL
 Mobius Labs Inc.	San Francisco	CA	1	Software Developers		CA
 Mobobox LLC	Glendale	CA	3	Market Research Analysts and Marketing Specialists; Business Intelligence Analysts		CA
 Mobolutions LLC	Plano	TX	2	Software Developers		TX
-Moby Robotics Inc.	Miami	FL	3	Robotics Engineers		FL
+Moby Robotics Inc.	Miami	FL	1	Robotics Engineers		FL
 MobyD Tech INC	Sunnyvale	CA	1	Computer Systems Analysts		CA
 Mochi Health Corp	San Francisco	CA	1	Operations Research Analysts		CA
 Mod Textiles & Perfume Inc	Orlando	FL	2	Logisticians; Operations Research Analysts		FL
 Moda LLC	Greenwich	CT	1	Network and Computer Systems Administrators		CT
 Modak Analytics Limited	Deer Park	IL	7	Software Developers; Information Technology Project Managers; Database Architects	130600	KY,IL
-Modal Labs, Inc.	New York	NY	9	Software Developers; Computer and Information Systems Managers; Graphic Designers	200000	NY,CA
+Modal Labs, Inc.	New York	NY	6	Software Developers; Computer and Information Systems Managers; Graphic Designers	200000	NY,CA
 Modal Motors, Inc.	Farmington Hills	MI	1	Mechanical Engineers		MI
 Modalis Therapeutics, Inc	Waltham	MA	1	Biological Technicians		MA
 Modaramo Media, Inc.	Port Washington	NY	1	Web Developers		NY
@@ -4511,7 +4511,7 @@ Monadnock Construction Inc.	Brooklyn	NY	2	Construction Managers		NY
 Monarch Air Group LLC	Fort Lauderdale	FL	2	Computer Systems Analysts; Data Scientists		FL
 Monarch Healthcare Management LLC	Mankato	MN	1	Medical and Health Services Managers		MN
 Monarch Investment and Management Group, LLC	Franktown	CO	2	Network and Computer Systems Administrators; Accountants and Auditors		MI,CO
-Monarch Montessori of Denver Charter School	Denver	CO	2	Elementary School Teachers, Except Special Education		CO
+Monarch Montessori of Denver Charter School	Denver	CO	1	Elementary School Teachers, Except Special Education		CO
 Monarch Resorts, LLC.	Corpus Christi	TX	1	Construction Managers		TX
 Monashees US Corp	San Francisco	CA	1	Financial and Investment Analysts		CA
 Moncon Inc.	Pearl River	NY	1	Cost Estimators		NY
@@ -4526,7 +4526,7 @@ Monex Securities Inc	Houston	TX	2	Personal Financial Advisors; Securities, Commo
 Money Dolly, LLC FKA SunRiver Gourmet, LLC	Missoula	MT	1	Data Scientists		CA
 Moneycorp NA, Inc.	Stamford	CT	1	General and Operations Managers		CT
 MoneyGram International, Inc.	Dallas	TX	5	Software Developers; Business Intelligence Analysts	150000	MN,TX,TN
-Mongodb, Inc.	New York	NY	166	Software Developers; Market Research Analysts and Marketing Specialists; Data Scientists	162600	CA,NY,WA
+Mongodb, Inc.	New York	NY	94	Software Developers; Market Research Analysts and Marketing Specialists; Data Scientists	162600	NY,CA,WA
 Mongrain, Quirt, Gibree Professional Services, PC	Effingham	IL	1	Dentists, General		WA
 Monimoi, Inc.	San Francisco	CA	1	Medical Scientists, Except Epidemiologists		MA
 Monir Mehran Law Firm PC	Doraville	GA	4	Judicial Law Clerks	49700	TX,GA
@@ -4565,8 +4565,8 @@ Monte Rosa Therapeutics Inc.	Boston	MA	2	Bioinformatics Scientists		MA
 Monte Stott and Associates Inc.	San Francisco	CA	1	Architectural and Engineering Managers		CA
 Montecito Heights Healthcare & Wellness Centre, LP	Los Angeles	CA	1	Speech-Language Pathologists		CA
 Montefiore Health System, Inc.	Yonkers	NY	8	Software Developers; Data Scientists; Information Security Engineers	166000	NY,AZ
-Montefiore Medical Center	Bronx	NY	219	Physicians, All Other; Management Analysts; Medical and Clinical Laboratory Technologists	103000	NY,NJ
-Montefiore New Rochelle Hospital	New Rochelle	NY	12	Physicians, All Other	79000	NY
+Montefiore Medical Center	Bronx	NY	107	Physicians, All Other; Medical and Clinical Laboratory Technologists; Anesthesiologists	103000	NY,NJ
+Montefiore New Rochelle Hospital	New Rochelle	NY	4	Physicians, All Other	79000	NY
 Montefiore Nyack Hospital	Nyack	NY	1	Medical and Clinical Laboratory Technologists		NY
 Montefiore St. Luke's Cornwall	Newburgh	NY	4	Hospitalists; Physicians, All Other	179000	NY
 Monterey Bay Academy	La Selva Beach	CA	2	Secondary School Teachers, Except Special and Career/Technical Education		CA
@@ -4587,7 +4587,7 @@ Montran Corporation	New York	NY	1	Software Developers		NJ
 Montrose Foundation Inc	Medfield	MA	1	Secondary School Teachers, Except Special and Career/Technical Education		MA
 Montrose Memorial Hospital, Inc.	Montrose	CO	1	Health Informatics Specialists		CO
 Monument Consulting, LLC	Richmond	VA	1	Project Management Specialists		VA
-Monument Health Rapid City Hospital, Inc.	Rapid City	SD	71	Registered Nurses; Cardiologists; Physicians, All Other	550000	SD
+Monument Health Rapid City Hospital, Inc.	Rapid City	SD	6	Registered Nurses; Cardiologists; Physicians, All Other	550000	SD
 Monumental, LLC	Austin	TX	2	Chief Executives; Data Scientists		CA,NJ
 Monvik Info Solutions LLC	Buffalo Grove	IL	1	Computer Occupations, All Other		WI
 Moo Construction	Los Angeles	CA	2	Designers, All Other; Human Resources Specialists		CA
@@ -4620,7 +4620,7 @@ Mora Valley Community Health Services, Inc.	Mora	NM	1	Dentists, General		NM
 Morabito Consultants, Inc.	Sparks	MD	1	Civil Engineers		MD
 Moravia IT LLC	Thousand Oaks	CA	1	Information Technology Project Managers		NJ
 Moravian Church Northern Province	Bethlehem	PA	1	Clergy		PA
-Moravian University	Bethlehem	PA	2	Sociology Teachers, Postsecondary		PA
+Moravian University	Bethlehem	PA	1	Sociology Teachers, Postsecondary		PA
 MORE Health Inc	San Mateo	CA	1	Technical Writers		CA
 More Than Grapes, LLC	Northbrook	IL	3	Business Operations Specialists, All Other; Accountants and Auditors; Meeting, Convention, and Event Planners	87500	IL
 More Truck Insurance Solutions LLC	The Woodlands	TX	3	Treasurers and Controllers; Financial Managers	106900	TX
@@ -4642,7 +4642,7 @@ Morgan Stanley Private Bank NA	New York	NY	9	Information Technology Project Mana
 Morgan Stanley Services Group Inc.	New York	NY	452	Software Developers; Financial Quantitative Analysts; Financial Risk Specialists	164500	NY,GA,MD
 Morgan Stanley Smith Barney LLC	New York	NY	26	Data Scientists; Information Technology Project Managers; Financial and Investment Analysts	138000	NY,NJ,MD
 Morgan State University	Baltimore	MD	10	Engineering Teachers, Postsecondary; Materials Engineers; Computer Science Teachers, Postsecondary	72300	MD
-Morgan Truck Body LLC	Morgantown	PA	2	Industrial Engineers		TX
+Morgan Truck Body LLC	Morgantown	PA	1	Industrial Engineers		TX
 Morgan, Lewis & Bockius LLP	Washington	DC	1	Lawyers		MA
 Morgner Technology Management	Los Angeles	CA	1	Cost Estimators		WA
 Moriroku Technology North America Inc.	Marysville	OH	2	Automotive Engineers; Mechanical Engineers		OH
@@ -4666,7 +4666,7 @@ Morris & Dickson Co., LLC	Shreveport	LA	1	Software Developers		TX
 Morris & Ritchie Associates, Inc	Abingdon	MD	3	Civil Engineers	96400	MD,CA
 Morris Adjmi Architects D.P.C.	New York	NY	1	Architects, Except Landscape and Naval		NY
 Morris Brown College	Atlanta	GA	1	Recreation and Fitness Studies Teachers, Postsecondary		GA
-Morris Heights Health Center	Bronx	NY	7	Healthcare Social Workers; Clinical Data Managers; Psychiatrists		NY
+Morris Heights Health Center	Bronx	NY	3	Clinical Data Managers; Healthcare Social Workers; Psychiatrists		NY
 Morris, Nichols, Arsht & Tunnell LLP	Wilmington	DE	1	Judicial Law Clerks		DE
 Morrison & Foerster LLP	San Francisco	CA	4	Legal Support Workers, All Other; Lawyers	120000	NY,CA
 Morrison Education Group, Inc.	Phoenix	AZ	1	Elementary School Teachers, Except Special Education		AZ
@@ -4769,7 +4769,7 @@ Mountain States Physician Group, Inc.	Johnson City	TN	1	Physicians, All Other		T
 Mountain Temp Services Holdings LLC	Aspen	CO	1	Human Resources Specialists		CO
 Mountain Tunnel Constructors, Inc.	Brownsville	WI	1	Construction Managers		CA
 Mountain View One Investment Group Corp	Santa Clara	CA	1	Kindergarten Teachers, Except Special Education		CA
-Mountain View Tennis Academy LLC	Mountain View	CA	2	Coaches and Scouts		CA
+Mountain View Tennis Academy LLC	Mountain View	CA	1	Coaches and Scouts		CA
 MountainStar Cardiology St. Marks, LLC	Salt Lake City	UT	1	Cardiologists		UT
 Mountmass LLC	Framingham	MA	1	Computer Systems Analysts		MA
 Mountrail Bethel Home	Stanley	ND	1	Medical and Clinical Laboratory Technologists		ND
@@ -4823,7 +4823,7 @@ MPC AZ Contact Center LLC	Phoenix	AZ	3	Computer and Information Systems Managers
 MPC Corporate Support LLC	Irving	TX	1	Database Administrators		TX
 MPE Solutions LLC	Louisville	KY	2	Construction Managers		NJ,KY
 MPFP Landscape Architect PLLC	New York	NY	4	Landscape Architects; Designers, All Other	87500	NY
-MPG Operations LLC	New York	NY	218	Software Developers; Financial and Investment Analysts; Data Scientists	120300	NY,FL,CA
+MPG Operations LLC	New York	NY	169	Software Developers; Data Scientists; Financial and Investment Analysts	120300	NY,FL,CA
 Mphasis Corporation	New York	NY	696	Computer Programmers; Software Developers; Information Technology Project Managers	120000	TX,NJ,DE
 MPI America Inc.	San Jose	CA	1	Market Research Analysts and Marketing Specialists		CA
 Mpire Management LLC	Austin	TX	2	Business Operations Specialists, All Other; Market Research Analysts and Marketing Specialists		TX
@@ -4950,7 +4950,7 @@ Multi Service Technology Solutions Inc.	Overland Park	KS	2	Software Developers; 
 Multi-Color Corporation	Rosemont	IL	1	Financial Managers		IL
 Multi-Fineline Electronix, Inc	Irvine	CA	1	Data Scientists		CA
 Multibeam Corporation	Santa Clara	CA	1	Software Quality Assurance Analysts and Testers		CA
-MultiCare Health System	Tacoma	WA	33	Registered Nurses; Medical and Clinical Laboratory Technologists; General Internal Medicine Physicians	144200	WA,KS
+MultiCare Health System	Tacoma	WA	21	Medical and Clinical Laboratory Technologists; Registered Nurses; General Internal Medicine Physicians	144200	WA,KS
 MultiCASE, Inc.	Mayfield Heights	OH	1	Software Developers		OH
 MulticoreWare, Inc.	San Jose	CA	1	Software Developers		IL
 Multicultural Clinical Services LLC	Amherst	MA	3	Mental Health Counselors		MA
@@ -4972,7 +4972,7 @@ Multiscale Technologies, Inc.	Atlanta	GA	3	Information Technology Project Manage
 Multisource International LLC	Getzville	NY	2	Software Developers		NY
 MultiStudio, Inc.	Kansas City	MO	1	Landscape Architects		MO
 Multivision LLC	Reston	VA	3	Software Developers	153500	TX,OR,MO
-Multiway Robotics America Inc.	Duluth	GA	2	Computer Systems Engineers/Architects		GA
+Multiway Robotics America Inc.	Duluth	GA	1	Computer Systems Engineers/Architects		GA
 Multnomah County	Portland	OR	1	Software Developers		OR
 Mun & Mind Therapy PLLC	Chicago	IL	1	Clinical and Counseling Psychologists		IL
 Muncaster Consulting, LLC	Solvang	CA	1	Software Developers		CA
@@ -5146,7 +5146,7 @@ National Medical Care, Inc.	Waltham	MA	2	Software Developers; Computer Systems A
 National Medical Care, Inc. a Fresenius Medical Care N.A. Company	Lexington	MA	8	Computer Systems Analysts; Software Developers; Computer Systems Engineers/Architects	134900	GA,MA,IN
 National Mentor LLC	Edina	MN	7	Software Developers; Database Architects; Computer and Information Systems Managers	140200	TX,NC,MO
 National Minority Quality Forum Inc.	Washington	DC	1	Software Developers		DC
-National Pediatric M.D., P.C.	Corona	NY	5	Pediatricians, General		NY
+National Pediatric M.D., P.C.	Corona	NY	1	Pediatricians, General		NY
 Nationstar Mortgage, LLC	Coppell	TX	4	Software Developers; Information Technology Project Managers; Network and Computer Systems Administrators	168200	TX,FL
 Nationwide Mutual Insurance Company	Columbus	OH	12	Data Scientists; Software Developers; Statisticians	140000	OH,NY,IA
 Natixis Investment Managers, LLC	Boston	MA	1	Accountants and Auditors		MA
@@ -5168,7 +5168,7 @@ Nelson Mullins Riley & Scarborough LLP	Columbia	SC	4	Lawyers	215200	NY,TX,GA
 Neo Ivy Capital Management, LLC	New York	NY	2	Data Scientists		NY
 Neon Mobile, Inc	New York	NY	1	Software Developers		MA
 Neorui Investment Management Company	La Habra	CA	1	Software Developers		CA
-Neosho Memorial Regional Medical Center	Chanute	KS	6	Medical and Clinical Laboratory Technologists; Surgeons, All Other		KS
+Neosho Memorial Regional Medical Center	Chanute	KS	2	Medical and Clinical Laboratory Technologists; Surgeons, All Other		KS
 Neptune Medical, Inc.	Burlingame	CA	7	Bioengineers and Biomedical Engineers; Software Developers; Robotics Engineers	140000	CA
 Netsync Managed Inc.	Bellaire	TX	4	Network and Computer Systems Administrators; Computer Network Architects	127500	TX
 Neumann Monson Architects, Inc.	Iowa City	IA	2	Designers, All Other		IA
@@ -5253,7 +5253,7 @@ NorthBay Solano Medical Group, Inc.	Fairfield	CA	1	Hospitalists		CA
 Northeast Georgia Medical Center, Inc.	Gainesville	GA	1	Software Developers		GA
 Northeast Internal Medicine Associates, P.C.	LaGrange	IN	6	Hospitalists	300000	OH,IN
 Northeast Maritime Institute, Inc.	Fairhaven	MA	1	Software Developers		MA
-Northeast Medical Group, Inc.	Stratford	CT	17	Hospitalists; Physicians, All Other; Healthcare Diagnosing or Treating Practitioners, All Other	288300	CT
+Northeast Medical Group, Inc.	Stratford	CT	16	Hospitalists; Physicians, All Other; Healthcare Diagnosing or Treating Practitioners, All Other	288300	CT
 Northeast Montana Health Services, Inc.	Wolf Point	MT	2	Medical and Clinical Laboratory Technologists		MT
 Northern Management Group LLC	Dedham	MA	2	Business Intelligence Analysts		MA
 Northern Marianas College			1	Food Scientists and Technologists		
@@ -5269,7 +5269,7 @@ Northwest Missouri State University	Maryville	MO	5	Computer Science Teachers, Po
 Northwest Suburban Medical Group	Schaumburg	IL	1	Medical and Health Services Managers		IL
 Northwestern Medical Center	Saint Albans	VT	1	Registered Nurses		VT
 Northwestern Medical Faculty Foundation	Chicago	IL	9	Physicians, All Other; General Internal Medicine Physicians; Physicians, Pathologists	225000	IL
-Northwestern Memorial HealthCare	Chicago	IL	38	Medical and Clinical Laboratory Technologists; Software Developers; Data Warehousing Specialists	84900	IL
+Northwestern Memorial HealthCare	Chicago	IL	35	Medical and Clinical Laboratory Technologists; Software Developers; Data Warehousing Specialists	84900	IL
 Northwestern Mutual Investment Management Company	Milwaukee	WI	1	Financial Quantitative Analysts		WI
 Northwestern Mutual Life Insurance Company	Milwaukee	WI	64	Software Developers; Data Scientists; Information Technology Project Managers	135000	WI,TX,NY
 Norwood Medical LLC	Dayton	OH	1	Industrial Engineers		OH
@@ -5356,7 +5356,7 @@ ORG Medical PLLC	Brooklyn	NY	1	Physical Therapists		NY
 Orion Group Management Inc.	New York	NY	1	Financial and Investment Analysts		NY
 Orlando Health Medical Group Inc.	Orlando	FL	7	Physicians, All Other; Neurologists; Pediatricians, General	450000	FL
 Orlando Natural Medicine and Acupuncture PLLC	Orlando	FL	2	Acupuncturists		FL
-Orpheus Academy of Music LLC	Austin	TX	10	Self-Enrichment Teachers		TX
+Orpheus Academy of Music LLC	Austin	TX	6	Self-Enrichment Teachers		TX
 Orravan Mechanical, Inc.	Long Beach	CA	1	Data Scientists		CA
 OS Management, Inc.	Tampa	FL	5	Financial and Investment Analysts; Computer Systems Engineers/Architects; Market Research Analysts and Marketing Specialists	92000	FL
 Oscar Management Corporation	New York	NY	11	Software Developers; Data Scientists; Actuaries	170000	NY,CA,PA
@@ -5480,7 +5480,7 @@ Physicians Mutual Insurance Company	Omaha	NE	13	Software Quality Assurance Analy
 Physicians Network Medical Group, Inc.	Roseville	CA	6	Orthopedic Surgeons, Except Pediatric; Medical and Health Services Managers; General Internal Medicine Physicians	317500	CA
 PICA Manufacturing Solutions, Inc.	Derry	NH	2	Industrial Engineers		NH
 Piece Of Cake Moving and Storage LLC	Maspeth	NY	2	Logisticians; Market Research Analysts and Marketing Specialists		NY
-Piedmont Athens Regional Medical Center, Inc.	Athens	GA	23	Physicians, All Other; Medical and Clinical Laboratory Technologists; Healthcare Practitioners and Technical Workers, All Other	65200	GA
+Piedmont Athens Regional Medical Center, Inc.	Athens	GA	8	Physicians, All Other; Medical and Clinical Laboratory Technologists; Healthcare Practitioners and Technical Workers, All Other	65200	GA
 Piedmont Medical Care Corporation	Atlanta	GA	28	Physicians, All Other; Hospitalists; Family Medicine Physicians	282500	GA
 Piedmont Mountainside Hospital, Inc.	Atlanta	GA	2	Physicists		GA
 Pikeville Medical Center, Inc.	Pikeville	KY	3	Hospitalists; Cardiologists	335000	KY
@@ -5491,7 +5491,7 @@ Pinnacle Mobility, LLC	Hicksville	NY	1	Management Analysts		NY
 PinnBrook Capital Management LP	New York	NY	1	Financial Quantitative Analysts		NY
 Pinto Valley Mining Corp.	Miami	AZ	2	Surveyors; Mining and Geological Engineers, Including Mining Safety Engineers		AZ
 Pioneer Medical Group, LLC	Tampa	FL	10	Hospitalists	255000	FL
-Pioneer Medical Group, PL	Tampa	FL	4	Hospitalists; Family Medicine Physicians	255000	FL
+Pioneer Medical Group, PL	Tampa	FL	3	Hospitalists; Family Medicine Physicians	255000	FL
 Pioneer Mutual Federal Credit Union	Sugar Land	TX	3	Market Research Analysts and Marketing Specialists; Compliance Officers		TX
 Pipestone County Medical Center	Pipestone	MN	2	Medical and Clinical Laboratory Technologists		MN
 Pixel Money LLC	Dover	DE	1	Data Scientists		CA
@@ -5502,7 +5502,7 @@ Plymouth Rock Management Company of New Jersey	Woodbridge	NJ	5	Business Intellig
 PMG Project Management Group LLC	Houston	TX	1	Construction Managers		TX
 Pnp Management And Consulting Inc.	East Elmhurst	NY	1	Interior Designers		NY
 Point72 Asset Management, L.P.	Stamford	CT	49	Financial Quantitative Analysts; Financial and Investment Analysts; Financial Risk Specialists	225000	NY,FL,CA
-Pokroy Medical Group of Nevada, LTD	Sunrise	FL	5	Physicians, All Other	250000	NV
+Pokroy Medical Group of Nevada, LTD	Sunrise	FL	3	Physicians, All Other	250000	NV
 Polar Asset Management Partners (US) Inc.	New York	NY	2	Software Developers		NY
 Polymer Capital Management US, LLC	New York	NY	1	Financial Quantitative Analysts		NY
 Pompanoosuc Mills Corp	East Thetford	VT	1	Accountants and Auditors		VT
@@ -5641,7 +5641,7 @@ Reconserve of MN, Inc.	Rosemount	MN	1	Electrical Engineers		MN
 ReCor Medical Inc.	Palo Alto	CA	1	Bioengineers and Biomedical Engineers		CA
 Red Bull Media House North America, Inc.	Santa Monica	CA	3	Web and Digital Interface Designers; Project Management Specialists; Media Technical Directors/Managers	147000	CA
 Red Dog Media LLC.	Henderson	NV	1	Software Quality Assurance Analysts and Testers		NV
-Red Mesa Unified School Disctrict 27	Teec Nos Pos	AZ	8	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School		AZ
+Red Mesa Unified School Disctrict 27	Teec Nos Pos	AZ	2	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School		AZ
 Red Meters LLC	Orlando	FL	1	Software Developers		FL
 RedBird Capital Partners Management LLC	New York	NY	2	Financial and Investment Analysts		NY
 Redwood Capital Management LLC	New York	NY	1	Financial and Investment Analysts		FL
@@ -5716,7 +5716,7 @@ RNC Capital Management, LLC	Los Angeles	CA	3	Accountants and Auditors	110800	CA
 Roben Manufacturing Co., Inc.	Lakewood	NJ	1	Mechanical Engineers		NJ
 Robert Mazza, Inc.	North East	PA	1	Food Scientists and Technologists		PA
 Robert Morris University	Moon Township	PA	2	Data Scientists; Counselors, All Other		PA
-Robinhood Markets, Inc.	Menlo Park	CA	522	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	178100	CA,NY,WA
+Robinhood Markets, Inc.	Menlo Park	CA	138	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	178100	CA,NY,WA
 Robinson Mills Williams	San Francisco	CA	1	Architects, Except Landscape and Naval		CA
 Roche Molecular Systems, Inc.	South San Francisco	CA	9	Bioinformatics Scientists; Marketing Managers; Software Developers	146400	CA,NJ,AZ
 Rochester Math and Science Academy	Rochester	MN	1	Secondary School Teachers, Except Special and Career/Technical Education		MN
@@ -5766,7 +5766,7 @@ Ruidoso Municipal Schools	Ruidoso	NM	4	Special Education Teachers, Middle School
 Ruike Mechanical Ltd. Co.	Colleyville	TX	2	Construction Managers; Project Management Specialists		TX
 Rush Medical Group	Chicago	IL	6	Physicians, All Other; Radiologists; Neurologists	301100	IL
 Rush Memorial Hospital	Rushville	IN	1	Physical Therapists		IN
-Rush University Medical Center	Chicago	IL	25	Healthcare Practitioners and Technical Workers, All Other; Medical Scientists, Except Epidemiologists; Software Developers, Non R&D	90400	IL,NJ,GA
+Rush University Medical Center	Chicago	IL	24	Healthcare Practitioners and Technical Workers, All Other; Medical Scientists, Except Epidemiologists; Software Developers, Non R&D	90400	IL,NJ,GA
 Rvo Manufacturing LLC	Houston	TX	5	Commercial and Industrial Designers; Computer Occupations, All Other	68500	TX
 RXO Managed Transport, LLC	Naperville	IL	2	Business Intelligence Analysts; Logisticians		TX,NC
 S & S Machine, Inc.	Madison Heights	VA	1	Public Relations Specialists		VA
@@ -5806,9 +5806,9 @@ Salus MSO, LLC	Bronx	NY	1	Health Education Specialists		NY
 Salute Mission Critical Holdings Topco, LLC	Franklin	WI	1	Data Scientists		NY
 Samaritan Medical Center	Watertown	NY	4	Physicians, All Other; Orthopedic Surgeons, Except Pediatric; Optometrists	425000	NY
 San Diego Metropolitan Transit System	San Diego	CA	1	Operations Research Analysts		CA
-San Juan Regional Medical Center, Inc.	Farmington	NM	4	Hospitalists		NM
+San Juan Regional Medical Center, Inc.	Farmington	NM	1	Hospitalists		NM
 San Marino Music Center LLC	San Marino	CA	1	Art, Drama, and Music Teachers, Postsecondary		CA
-San Mateo - Foster City School District	Foster City	CA	6	Special Education Teachers, Elementary School; Elementary School Teachers, Except Special Education		CA
+San Mateo - Foster City School District	Foster City	CA	2	Special Education Teachers, Elementary School; Elementary School Teachers, Except Special Education		CA
 Sands Capital Management, LLC	Arlington	VA	1	Financial and Investment Analysts		VA
 Sandvik Mining and Construction USA, LLC	Smyrna	GA	9	Accountants and Auditors; Mechanical Engineers; Architectural and Engineering Managers	96000	FL,GA,NV
 Sanford Burnham Prebys Medical Discovery Institute	La Jolla	CA	12	Medical Scientists, Except Epidemiologists; Biochemists and Biophysicists; Natural Sciences Managers	80000	CA
@@ -5874,7 +5874,7 @@ Select Minds LLC	Livonia	MI	15	Software Developers; Network and Computer Systems
 Semple, Marchal & Cooper, LLP	Phoenix	AZ	1	Accountants and Auditors		AZ
 Sendx Medical, Inc.	Carlsbad	CA	2	Regulatory Affairs Specialists; Industrial Engineers		CA
 Senesco Marine, LLC	North Kingstown	RI	1	Marine Engineers and Naval Architects		RI
-Sentara Medical Group	Virginia Beach	VA	13	Hospitalists; General Internal Medicine Physicians; Family Medicine Physicians	270000	VA
+Sentara Medical Group	Virginia Beach	VA	11	Hospitalists; General Internal Medicine Physicians; Family Medicine Physicians	270000	VA
 Seoyon E-hwa Manufacturing Savannah, Inc.	Savannah	GA	1	Purchasing Agents, Except Wholesale, Retail, and Farm Products		GA
 Sequenom Center for Molecular Medicine	San Diego	CA	1	Computer and Information Research Scientists		CA
 Serent Capital Management Company, LLC	San Francisco	CA	1	Financial and Investment Analysts		CA
@@ -5894,7 +5894,7 @@ Shannon Medical Center	San Angelo	TX	1	Medical and Clinical Laboratory Technolog
 Sharada Capital Management, LLC	Sarasota	FL	2	Software Developers		FL
 Sharp Chula Vista Medical Center	Chula Vista	CA	1	Medical and Health Services Managers		CA
 Sharp Sterile Manufacturing LLC	Lee	MA	8	Validation Engineers; Industrial Engineers; Quality Control Systems Managers	100600	MA
-Shasta Regional Medical Group, Inc.	Redding	CA	2	Hospitalists		CA
+Shasta Regional Medical Group, Inc.	Redding	CA	1	Hospitalists		CA
 Shawnee Mission Health Care, Inc.	Shawnee Mission	KS	5	Medical and Clinical Laboratory Technologists	68800	KS
 Shawnee Mission Medical Center, Inc.	Overland Park	KS	2	Medical and Clinical Laboratory Technologists		KS
 Sheldon Medical Care PC	Bronx	NY	1	Accountants and Auditors		NY
@@ -5938,7 +5938,7 @@ SK Resource Management II LLC	New York	NY	1	Financial and Investment Analysts		N
 SK Signet Manufacturing Texas, LLC	Plano	TX	1	Software Developers		TX
 Skadden, Arps, Slate, Meagher & Flom LLP	New York	NY	17	Lawyers	225000	NY,TX,DC
 Skidmore, Owings & Merrill LLP	New York	NY	18	Architects, Except Landscape and Naval; Civil Engineers; Sustainability Specialists	91700	NY,CA,DC
-Skilled In Management Co LLC	Blue Ash	OH	23	Registered Nurses		OH
+Skilled In Management Co LLC	Blue Ash	OH	2	Registered Nurses		OH
 Sky Construction Management, LLC	New York	NY	1	Interior Designers		NY
 Sky Lakes Medical Center	Klamath Falls	OR	1	Hospitalists		OR
 Sloan's Lake Montessori, LLC	Wheat Ridge	CO	1	Elementary School Teachers, Except Special Education		CO
@@ -5988,7 +5988,7 @@ Soulbrain MI, Inc.	Kokomo	IN	1	Business Operations Specialists, All Other		IN
 Sound Inpatient Physicians - Michigan, PLLC	Nashville	TN	2	Hospitalists		MI
 Sound Physicians of Massachusetts, Inc.	Nashville	TN	4	Hospitalists		MA
 Sound Point Capital Management LP	New York	NY	2	Financial and Investment Analysts; Credit Analysts		NY
-Souneo Music LLC	Arcadia	CA	2	Music Directors and Composers		CA
+Souneo Music LLC	Arcadia	CA	1	Music Directors and Composers		CA
 Source Mantra, Inc.	South Plainfield	NJ	7	Computer Systems Engineers/Architects; Software Quality Assurance Analysts and Testers; Electrical Engineers	83500	MO,GA,TX
 SourceOne Management Services, Inc.	Tulsa	OK	1	Market Research Analysts and Marketing Specialists		OK
 South Central Regional Medical Ceneter	Laurel	MS	1	Psychiatrists		MS
@@ -6144,7 +6144,7 @@ Sunstone Management, Inc.	Irvine	CA	3	Market Research Analysts and Marketing Spe
 SunStrong Management, LLC	Houston	TX	5	Software Developers; Operations Research Analysts; Financial Managers	84100	TX,NY,NC
 SUNY Upstate Medical University	Syracuse	NY	1	Bioinformatics Scientists		NY
 Super Evil Mega Corp	San Francisco	CA	1	Software Developers		CA
-Super Micro Computer, Inc.	San Jose	CA	4913	Software Developers; Information Technology Project Managers; Electrical Engineers	141000	CA
+Super Micro Computer, Inc.	San Jose	CA	55	Electrical Engineers; Software Developers; Mechanical Engineers	141000	CA
 Superintendent of Marion School District	Marion	AR	1	Secondary School Teachers, Except Special and Career/Technical Education		AR
 Superior Machine Products Inc.	Racine	WI	1	Manufacturing Engineers		WI
 Superior Vision Benefit Management, Inc.	Troy	NY	1	Computer Systems Analysts		PA
@@ -6158,7 +6158,7 @@ Sustainable Business Network of MA, Inc.	Cambridge	MA	1	Farm and Home Management
 Sustainable Business Network of Massachusetts Inc.	Cambridge	MA	1	Farm and Home Management Educators		MA
 Sustainable Minds, LLC	Brookline	MA	1	Environmental Engineers		NY
 Sutinderpal Judge MD, PC	St. Joseph	MI	1	Allergists and Immunologists		MI
-Sutter Hill Management Company, L.L.C	Palo Alto	CA	9	Software Developers	165000	CA
+Sutter Hill Management Company, L.L.C	Palo Alto	CA	3	Software Developers	165000	CA
 Sutter Medical Group of the Redwoods, Inc.	Santa Rosa	CA	1	Surgeons, All Other		CA
 Svc Manufacturing, Inc.	Purchase	NY	1	Industrial Engineers		CA
 SWITCH Maritime LLC	Jackson	WY	1	General and Operations Managers		NY
@@ -6228,7 +6228,7 @@ The Abbey of Saint Mary and Saint Louis	Saint Louis	MO	1	Secondary School Teache
 The Allen Morris Company	Coral Gables	FL	1	Financial and Investment Analysts		FL
 The Aroostook Medical Center	Presque Isle	ME	1	Physicians, All Other		ME
 The Bank of New York Mellon	Pittsburgh	PA	117	Data Scientists; Software Developers; Information Technology Project Managers	145000	PA,NY,FL
-The Brookdale Hospital Medical Center	Brooklyn	NY	56	Physicians, All Other; General Internal Medicine Physicians; Emergency Medicine Physicians	89300	NY
+The Brookdale Hospital Medical Center	Brooklyn	NY	28	Physicians, All Other; General Internal Medicine Physicians; Emergency Medicine Physicians	89300	NY
 The Capital Markets Company	New York	NY	12	Management Analysts; Human Resources Managers; Software Developers	130500	NY,NJ,DC
 The Charlotte Mecklenburg Hospital Authority	Charlotte	NC	2	Biostatisticians; Medical and Clinical Laboratory Technologists		NC
 The Charlotte Mecklenburg Hospital Authority d/b/a Atrium Health	Charlotte	NC	10	Medical and Clinical Laboratory Technologists; Statisticians; Pediatricians, General	91800	NC,MI
@@ -6261,7 +6261,7 @@ The Language and Music School Inc.	Oak Park	IL	1	Secondary School Teachers, Exce
 The Law Firm Of Marcelle B. Poirier Corp.	Miami Beach	FL	1	Public Relations Specialists		FL
 The Law Office of Marjan Kasra	Stamford	CT	3	Paralegals and Legal Assistants	57000	NC,CT
 The Law Offices of Marcos and Associates, P.C.	Houston	TX	1	Management Analysts		TX
-The Lawrence Memorial Hospital	Lawrence	KS	26	Critical Care Nurses; Registered Nurses; Pharmacists	73400	KS
+The Lawrence Memorial Hospital	Lawrence	KS	8	Critical Care Nurses; Registered Nurses; Pharmacists	73400	KS
 The M.K. Morse Company	Canton	OH	1	Architectural and Engineering Managers		OH
 The Mada App, LLC	Cleveland	OH	1	Data Scientists		NV
 The Mail Depot Inc	La Puente	CA	1	Logistics Analysts		CA
@@ -6276,7 +6276,7 @@ The Mary Imogene Bassett Hospital	Cooperstown	NY	25	Physicians, All Other; Hospi
 The Mary Lanning Memorial Hospital Association	Hastings	NE	2	Medical and Clinical Laboratory Technologists		NE
 The Maryland Legal Services Corporation	Baltimore	MD	1	Social and Community Service Managers		MD
 The Masters School	Dobbs Ferry	NY	1	Secondary School Teachers, Except Special and Career/Technical Education		NY
-The MathWorks, Inc.	Natick	MA	163	Software Developers; Software Quality Assurance Analysts and Testers; Sales Engineers	131100	MA,CA,MI
+The MathWorks, Inc.	Natick	MA	149	Software Developers; Software Quality Assurance Analysts and Testers; Sales Engineers	131100	MA,CA,MI
 The Matlen Silver Group, Inc.	Somerville	NJ	34	Software Developers; Information Security Analysts; Computer Systems Engineers/Architects	135300	TX,NC,AZ
 The Matthews Group, Inc.	Purcellville	VA	2	Construction Managers		VA
 The Maxis Group	Scottsdale	AZ	4	Software Quality Assurance Analysts and Testers; Computer Systems Analysts; Software Developers		KY,VA,AZ
@@ -6331,7 +6331,7 @@ The Sanborn Map Company Inc.	Colorado Springs	CO	1	Business Operations Specialis
 The Seventh Day Adventist Mission Of The Nmi			1	Elementary School Teachers, Except Special Education		
 The Shield Co. Management, LLC	Atlanta	GA	1	Sales Managers		GA
 The Skyscraper Museum	New York	NY	2	Graphic Designers		NY
-The Smile Mission South Miami, PLLC	Miami	FL	9	Medical and Health Services Managers	112000	GA,VA,LA
+The Smile Mission South Miami, PLLC	Miami	FL	7	Medical and Health Services Managers	112000	GA,LA,SC
 The Southeast Permanente Medical Group, Inc.	Atlanta	GA	4	Business Intelligence Analysts; Podiatrists	99600	GA
 The Spirit of Marco Polo	Irvine	CA	1	Kindergarten Teachers, Except Special Education		CA
 The Trade Group Management, LLC	Grapevine	TX	1	Financial and Investment Analysts		TX
@@ -6384,7 +6384,7 @@ Total Mortgage Services, LLC	Milford	CT	2	Software Developers; Web Developers		V
 Total Network Manufacturing, LLC	Auburn Hills	MI	1	Treasurers and Controllers		TN
 Totex Manufacturing Inc.	Torrance	CA	1	Electronics Engineers, Except Computer		CA
 Touro University Medical Group	Stockton	CA	2	Physicians, All Other; General Internal Medicine Physicians		CA
-Tower 4 Liberty Market LLC	New York	NY	2	Web Developers		NY
+Tower 4 Liberty Market LLC	New York	NY	1	Web Developers		NY
 Tower Health Medical Group	West Reading	PA	7	General Internal Medicine Physicians; Physicians, All Other	300000	PA
 Town of Weston, MA	Weston	MA	1	Network and Computer Systems Administrators		MA
 Towner County Medical Center	Cando	ND	1	Medical and Clinical Laboratory Technologists		ND
@@ -6406,7 +6406,7 @@ Trend Micro, Inc.	Irving	TX	10	Software Developers; Software Quality Assurance A
 Trevorbo Marketing Inc.	Clearwater	FL	1	Market Research Analysts and Marketing Specialists		FL
 TRG Management LP	New York	NY	1	Financial and Investment Analysts		NY
 Tri State Materials Testing Lab, LLC	Berlin	CT	1	Human Resources Specialists		CT
-Triad Math and Science Academy Co.	Apex	NC	38	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	60000	NC
+Triad Math and Science Academy Co.	Apex	NC	30	Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education	60000	NC
 Tribeca Healthcare Management	New York	NY	1	Human Resources Specialists		NY
 Trident Tropical Milford LLC	Stratford	CT	1	Business Intelligence Analysts		CT
 Trillion Capital Markets, Inc	Miami	FL	1	Financial and Investment Analysts		FL
@@ -6419,8 +6419,8 @@ Trive Capital Management LLC	Dallas	TX	1	Financial Managers		TX
 Tropicana Manufacturing Company, Inc.	Chicago	IL	1	Supply Chain Managers		IL
 Tru Med Pharmacy Inc	Queens	NY	1	Regulatory Affairs Specialists		NY
 TruAmerica Multifamily, LLC	Los Angeles	CA	1	Financial and Investment Analysts		FL
-Truman Medical Center, Inc.	Kansas City	MO	19	Medical and Clinical Laboratory Technologists; Clinical Data Managers; Medical and Health Services Managers	65000	MO
-Truman Medical Centers, Inc.	Kansas City	MO	15	Critical Care Nurses		MO
+Truman Medical Center, Inc.	Kansas City	MO	5	Clinical Data Managers; Medical and Clinical Laboratory Technologists; Medical and Health Services Managers	65000	MO
+Truman Medical Centers, Inc.	Kansas City	MO	2	Critical Care Nurses		MO
 Trupanion Managers USA, Inc.	Seattle	WA	2	Actuaries; Software Developers		MA,WA
 Trusted Media Brands, Inc.	New York	NY	6	Software Developers; Computer Systems Engineers/Architects	121900	NY,WI
 Trustworthy Mortgage Corp.	Vienna	VA	2	Financial and Investment Analysts; Credit Analysts		VA
@@ -6475,7 +6475,7 @@ Universal Insurance Managers, Inc.	Sarasota	FL	2	Software Developers		TX,FL
 Universal Management Services, Inc.	Warren	MI	1	Treasurers and Controllers		MI
 Universal Marketing & Management Inc	Braintree	MA	1	Budget Analysts		MA
 Universal McCann Worldwide, LLC	New York	NY	2	Data Scientists; Marketing Managers		NY,CA
-University Hospitals Cleveland Medical Center	Cleveland	OH	10	General Internal Medicine Physicians; Physicians, All Other; Data Scientists	75700	OH
+University Hospitals Cleveland Medical Center	Cleveland	OH	9	Physicians, All Other; General Internal Medicine Physicians; Data Scientists	75700	OH
 University Hospitals Medical Group, Inc.	Cleveland	OH	23	Physicians, All Other; Cardiologists; Radiologists	287400	OH
 University Medical Center, Inc.	Louisville	KY	11	Medical and Clinical Laboratory Technologists; Respiratory Therapists; Biological Scientists, All Other	70700	KY
 University of Arkansas for Medical Sciences	Little Rock	AR	80	Physicians, All Other; Healthcare Diagnosing or Treating Practitioners, All Other; Medical Scientists, Except Epidemiologists	217000	AR,NY
@@ -6483,7 +6483,7 @@ University of California, Merced	Merced	CA	7	Physicists; Zoologists and Wildlife
 University of Central Missouri	Warrensburg	MO	4	Computer Science Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary	93900	MO
 University of Chicago Medical Center	Chicago	IL	13	Physicians, All Other; Medical and Clinical Laboratory Technologists; Physicists	79000	IL
 University Of Cincinnati Medical Center, LLC	Cincinnati	OH	5	Physicians, All Other	76900	OH
-University of Detroit Mercy	Detroit	MI	14	Health Specialties Teachers, Postsecondary; Software Developers; Business Teachers, Postsecondary	101000	MI
+University of Detroit Mercy	Detroit	MI	10	Health Specialties Teachers, Postsecondary; Software Developers; Business Teachers, Postsecondary	101000	MI
 University Of Kansas Medical Center	Kansas City	KS	24	Health Specialties Teachers, Postsecondary; General Internal Medicine Physicians; Physicians, All Other	304900	KS
 University of Kansas School of Medicine-Wichita Medical Practice Association	Wichita	KS	2	Psychiatrists; Pediatricians, General		KS
 University of Louisiana at Monroe	Monroe	LA	3	Economics Teachers, Postsecondary; Foreign Language and Literature Teachers, Postsecondary; Coaches and Scouts	56900	LA
@@ -6544,7 +6544,7 @@ USA Rare Earth Magnets LLC	Stillwater	OK	1	Materials Engineers		OK
 USA Tianren Hotel Management Inc.	Fullerton	CA	1	Interior Designers		CA
 Usable Machines, Inc.	Venice	CA	1	Software Developers		CA
 USAble Mutual Insurance Company	Little Rock	AR	2	Business Intelligence Analysts; Software Quality Assurance Analysts and Testers		AR
-USACS Medical Group Ltd.	Canton	OH	78	Hospitalists; Emergency Medicine Physicians; Physicians, All Other		OH,MD,OK
+USACS Medical Group Ltd.	Canton	OH	55	Hospitalists; Emergency Medicine Physicians; Physicians, All Other		MD,OK,NC
 USACS Medical Group of California, Inc.	Canton	OH	1	Emergency Medicine Physicians		CA
 USACS Medical Group of Texas, PLLC	Canton	OH	1	Hospitalists		TX
 USP Management Inc.	Fort Lee	NJ	3	Cost Estimators; Human Resources Specialists; Survey Researchers	58200	NJ
@@ -6613,7 +6613,7 @@ Vista Equity Partners Management, LLC	New York	NY	1	Financial Managers		TX
 Visual Micron LLC	Casselberry	FL	4	Database Administrators; Software Developers; Computer Programmers	98700	TX,IL,NJ
 Viswanathan MD, PLLC	Las Vegas	NV	1	Physicians, All Other		NV
 Vituity - Michigan, PLLC	Emeryville	CA	1	General Internal Medicine Physicians		MI
-Vituity-New York Medical Group PLLC	Emeryville	CA	10	General Internal Medicine Physicians; Emergency Medicine Physicians		NY
+Vituity-New York Medical Group PLLC	Emeryville	CA	3	General Internal Medicine Physicians; Emergency Medicine Physicians		NY
 VIVA Manufacturing, LLC	Tampa	FL	1	Business Intelligence Analysts		FL
 Vivo Professional Music School LLC	Houston	TX	1	Secondary School Teachers, Except Special and Career/Technical Education		TX
 VKS Investment Management LLC	Jersey City	NJ	1	Financial and Investment Analysts		NJ
@@ -6681,7 +6681,7 @@ Weill Cornell Medical College	New York	NY	86	Medical Scientists, Except Epidemio
 Weinberg Zareh Malkin Price LLP	New York	NY	1	Judicial Law Clerks		NY
 Weis Markets, Inc.	Sunbury	PA	2	Software Developers; Operations Research Analysts		TX,PA
 Weisbrod Matteis & Copley PLLC	Seattle	WA	1	Lawyers		WA
-Weiss Asset Management LP	Boston	MA	8	Financial Quantitative Analysts; Financial Managers; Software Developers	195000	MA
+Weiss Asset Management LP	Boston	MA	6	Financial Managers; Software Developers; Financial Quantitative Analysts	195000	MA
 Weiss Manfredi Architects LLP	New York	NY	1	Interior Designers		NY
 Wellington Management Company LLP	Boston	MA	32	Software Developers; Financial and Investment Analysts; Data Scientists	164000	MA,NY,TX
 WellMed Medical Group, P.A.	Eden Prairie	MS	1	Physicians, All Other		TX
@@ -6749,7 +6749,7 @@ Worldwide Oilfield Machine Inc	Houston	TX	3	Industrial Engineers; Mechanical Eng
 Wren House Infrastructure Management US LLC	New York	NY	1	Financial and Investment Analysts		NY
 Wright Center for Graduate Medical Education	Scranton	PA	5	Pediatricians, General; Physicians, All Other; Hospitalists	255000	PA
 WSA-NY Manager LLC	New York	NY	1	Data Scientists		NY
-Wyckoff Heights Medical Center	Brooklyn	NY	18	Physicians, All Other; Dietitians and Nutritionists; Pediatricians, General	85400	NY
+Wyckoff Heights Medical Center	Brooklyn	NY	8	Physicians, All Other; Dietitians and Nutritionists; Pediatricians, General	85400	NY
 XenoPsi Media LLC	New York	NY	1	Sales Managers		IL
 Xeridiem Medical Devices, Inc.	Wilmington	DE	4	Regulatory Affairs Specialists; Industrial Engineers; Accountants and Auditors	107200	AZ
 Xiaolan Ma CPA LLC	Leander	TX	1	Accountants and Auditors		TX

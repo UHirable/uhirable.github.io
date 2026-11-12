@@ -17,7 +17,7 @@ A S Family LLC	Bates city	MO	1	General and Operations Managers		MO
 A&B Foundry LLC	Franklin	OH	1	Manufacturing Engineers		OH
 A&C Future, Inc.	Irvine	CA	1	Mechanical Engineers		CA
 A&K Finishing LLC	Grand Rapids	MI	1	Industrial Engineers		MI
-A-American Custom Flooring, Inc.	Honolulu	HI	2	Cost Estimators		HI
+A-American Custom Flooring, Inc.	Honolulu	HI	1	Cost Estimators		HI
 A.B. Findings Inc	Pleasanton	CA	1	Data Scientists		CA
 Aayka Fashion Inc.	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
 ABC Family Dental Basswood PLLC	Haltom City	TX	1	Dentists, General		TX
@@ -268,7 +268,7 @@ Camden Fairview School District No. 16	Camden	AR	1	Secondary School Teachers, Ex
 Camino Real Foods Inc.	Vernon	CA	1	Supply Chain Managers		CA
 Campbell Wagner & Frazier, LLC	Greenwood Village	CO	1	Judicial Law Clerks		CO
 Canton Food Enterprises, Inc.	Medley	FL	2	Instructional Coordinators		FL
-Canton Medical Education Foundation, Inc.	Canton	OH	2	General Internal Medicine Physicians		OH
+Canton Medical Education Foundation, Inc.	Canton	OH	1	General Internal Medicine Physicians		OH
 Cantor Fitzgerald & Co.	New York	NY	6	Financial and Investment Analysts; Business Intelligence Analysts; Financial Quantitative Analysts	135000	NY
 Cantor Fitzgerald Securities	New York	NY	8	Financial and Investment Analysts; Lawyers; Graphic Designers	113100	NY,FL
 Cantor Fitzgerald Technology Markets, LLC	New York	NY	3	Software Developers	173000	NY,FL,NJ
@@ -308,7 +308,7 @@ Century Fence Construction, LLC	Upper Marlboro	MD	1	Accountants and Auditors		MD
 Ceres USA Holdings, LLC F/K/A Salem Group Holdings, LLC	Shelton	CT	1	Business Intelligence Analysts		NJ
 Cetera Financial Group, Inc.	El Segundo	CA	5	Software Developers; Computer Network Architects; Information Technology Project Managers	157100	TX,CA
 CEVA Freight LLC	Houston	TX	3	Information Technology Project Managers; Compliance Officers; Software Developers	117900	TX
-CGI Federal Inc.	Fairfax	VA	61	Software Quality Assurance Analysts and Testers; Software Developers; Database Architects	137500	LA,VA,NC
+CGI Federal Inc.	Fairfax	VA	12	Software Developers; Database Architects; Software Quality Assurance Analysts and Testers	137500	VA,NC,NJ
 CHA Consulting Fire Protection Services, LLC	Albany	NY	1	Project Management Specialists		AL
 Challenger School Foundation	Sandy	UT	2	Data Scientists; Computer Systems Analysts		TX,UT
 Channel Fusion, Inc.	Hiawatha	IA	2	Software Developers		IA
@@ -347,8 +347,8 @@ City of Fort Smith, Arkansas	Fort Smith	AR	1	Urban and Regional Planners		AR
 City Pattern And Foundry Inc	Granger	IN	1	Project Management Specialists		IN
 Claw & Fun LLC	Ballaire	TX	1	Electronics Engineers, Except Computer		TX
 Clean Label Gourmet Foods Inc	Halethorpe	MD	1	Management Analysts		MD
-Cleveland Clinic Florida	Weston	FL	5	Physicians, All Other; Medical Scientists, Except Epidemiologists	71600	FL
-Cleveland Clinic Foundation	Cleveland	OH	212	Physicians, All Other; Medical Scientists, Except Epidemiologists; Hospitalists	76900	OH,FL,WA
+Cleveland Clinic Florida	Weston	FL	4	Physicians, All Other; Medical Scientists, Except Epidemiologists	71600	FL
+Cleveland Clinic Foundation	Cleveland	OH	103	Physicians, All Other; Medical Scientists, Except Epidemiologists; Hospitalists	76900	OH,FL,WA
 ClimateWorks Foundation, Inc.	San Francisco	CA	2	Climate Change Policy Analysts		VA
 Clinton Young Foundation	Longview	TX	1	Legal Support Workers, All Other		TX
 Club Leaders Forum, Inc.	Westlake Village	CA	1	Search Marketing Strategists		CA
@@ -427,7 +427,7 @@ Deb El Food Products, LLC	Newark	NJ	1	Quality Control Systems Managers		NJ
 Deep Foods Inc	Union	NJ	2	Logisticians; Quality Control Systems Managers		NJ
 Deinde Financial, LLC	Chicago	IL	3	Software Developers; Data Scientists	108100	IL
 Delaware Community Foundation	Wilmington	DE	1	Public Relations Specialists		DE
-Deloitte Corporate Finance LLC	Philadelphia	PA	4	Financial and Investment Analysts		CA
+Deloitte Corporate Finance LLC	Philadelphia	PA	2	Financial and Investment Analysts		CA
 Delta Faucet Company	Indianapolis	IN	1	Mechanical Engineers		IN
 Delta Flight Products, LLC	Atlanta	GA	1	Mechanical Engineers		GA
 Deluxe Financial Services, LLC	Minneapolis	MN	4	Data Scientists; Market Research Analysts and Marketing Specialists	128200	NY,FL,GA
@@ -637,7 +637,7 @@ Fall Creek Farm and Nursery, Inc.	Lowell	OR	1	Financial and Investment Analysts	
 Fall River SUBDSO LLC	Fall River	MA	1	Dentists, General		MA
 Falls Rx LLC	Baltimore	MD	1	Web and Digital Interface Designers		MD
 Fambot, Inc.	San Francisco	CA	2	Software Developers		CA
-Fame Pbx LLC	Plano	TX	2	Software Developers		TX
+Fame Pbx LLC	Plano	TX	1	Software Developers		TX
 Famicom Studios LLC	Los Angeles	CA	1	Video Game Designers		CA
 Familia Care, Inc.	Dallas	TX	7	Budget Analysts; Medical and Health Services Managers; Training and Development Specialists	78000	TX,FL
 Familia Dental Abilene PLLC	Abilene	TX	3	Dentists, General	97100	TX
@@ -815,7 +815,7 @@ Federal Home Loan Bank of Indianapolis	Indianapolis	IN	6	Software Developers; Fi
 Federal Home Loan Bank Of Pittsburgh	Pittsburgh	PA	2	Software Developers		PA
 Federal Home Loan Bank Of Topeka	Topeka	KS	5	Financial Quantitative Analysts; Financial Risk Specialists; Operations Research Analysts	88000	KS,VA
 Federal Home Loan Bank San Francisco	San Francisco	CA	3	Software Developers; Information Technology Project Managers	196000	CA
-Federal Home Loan Mortgage Corporation	McLean	VA	70	Software Developers; Statisticians; Computer and Information Systems Managers	130900	VA,TX,NY
+Federal Home Loan Mortgage Corporation	McLean	VA	52	Software Developers; Statisticians; Computer and Information Systems Managers	130900	VA,TX,NY
 Federal National Mortgage Association	Washington	DC	9	Software Developers; Financial Quantitative Analysts; Data Scientists	174000	VA,DC,TX
 Federal Reserve Bank Minneapolis	Minneapolis	MN	1	Information Technology Project Managers		MN
 Federal Reserve Bank of Boston	Boston	MA	1	Economists		MA
@@ -1335,7 +1335,7 @@ Florida Agricultural and Mechanical University	Tallahassee	FL	1	Mechanical Engin
 Florida Arthritis Center, PL	Debary	FL	1	Physicians, All Other		FL
 Florida Atlantic University	Boca Raton	FL	6	Administrative Services Managers; Criminal Justice and Law Enforcement Teachers, Postsecondary; Biologists	90600	FL
 Florida Conference of Seventh-day Adventists	Altamonte Springs	FL	3	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education	55200	FL
-Florida Emergency Physicians Kang & Associates, M.d., LLC	Knoxville	TN	17	Emergency Medicine Physicians; Emergency Medicine Physician		FL
+Florida Emergency Physicians Kang & Associates, M.d., LLC	Knoxville	TN	8	Emergency Medicine Physicians; Emergency Medicine Physician		FL
 Florida Engineering, LLC	Port Charlotte	FL	6	Civil Engineers	100000	FL
 Florida Food Products LLC	Lake Mary	FL	2	Network and Computer Systems Administrators; Industrial Engineers		OR,FL
 Florida Gulf Coast University	Fort Myers	FL	15	Physics Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary; Education Administrators, Postsecondary	70200	FL
@@ -1379,7 +1379,7 @@ FLOWASTE Inc.	South Bend	IN	1	Data Scientists		NY
 Flowdata Studio LLC	San Mateo	CA	2	Management Analysts		CA
 Flowers Bakeries, LLC	Thomasville	GA	5	Food Scientists and Technologists; Software Developers; Market Research Analysts and Marketing Specialists	116000	GA,FL,CO
 FlowGen Labs, Inc.	San Francisco	CA	1	Computer and Information Systems Managers		CA
-FlowGPT, Co.	San Mateo	CA	2	Computer and Information Research Scientists		CA
+FlowGPT, Co.	San Mateo	CA	1	Computer and Information Research Scientists		CA
 FlowMD Wellness Center PC	Sunnyvale	CA	2	Search Marketing Strategists; Logistics Analysts		CA
 Flowserve US Company	Irving	TX	15	Mechanical Engineers; Business Intelligence Analysts; Architectural and Engineering Managers	99800	TX,TN,NE
 FlowState AI, Inc.	San Francisco	CA	2	Market Research Analysts and Marketing Specialists; Software Developers		CA
@@ -1750,7 +1750,7 @@ Frazier Management LLC	Seattle	WA	2	Economists; Financial and Investment Analyst
 Frec Markets, Inc.	San Francisco	CA	3	Financial Quantitative Analysts; Data Scientists; Business Intelligence Analysts	250000	NJ,NY,CA
 Fred Alger & Company, LLC	New York	NY	2	Mathematicians; Computer and Information Research Scientists		NY
 Fred Hutchinson Cancer Center	Seattle	WA	38	Biological Technicians; Bioinformatics Scientists; Biostatisticians	95200	WA,TX,MA
-Frederick Health Hospital, Inc.	Frederick	MD	22	Registered Nurses; Medical and Clinical Laboratory Technologists		MD
+Frederick Health Hospital, Inc.	Frederick	MD	4	Registered Nurses; Medical and Clinical Laboratory Technologists		MD
 Frederick Primary Care Associates, P.A.	Frederick	MD	1	Family Medicine Physicians		MD
 Free Wheelchair Mission	Irvine	CA	1	Financial Managers		CA
 Freed, Inc.	San Francisco	CA	2	Computer and Information Systems Managers; Financial Managers		CA,CO
@@ -1763,7 +1763,7 @@ Freedom Financial Asset Management LLC	San Mateo	CA	4	Computer and Information S
 Freedom Financial Network Funding LLC	San Mateo	CA	4	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	144000	AZ,CA,NC
 Freedom GS Inc.	Woodside	NY	1	Accountants and Auditors		NY
 Freedom Health Club, Inc.	Jeffersonville	IN	1	Marketing Managers		IN
-Freedom Logistics LLC	Auburn	NH	2	Market Research Analysts and Marketing Specialists		MA
+Freedom Logistics LLC	Auburn	NH	1	Market Research Analysts and Marketing Specialists		MA
 Freedom Mortgage Corporation	Boca Raton	FL	6	Software Developers; Financial and Investment Analysts; Business Intelligence Analysts	110800	TX,NJ,NY
 Freedom Motors USA, Inc.	Battle Creek	MI	1	Software Developers		MI
 FreedomRoads, LLC	Lincolnshire	IL	1	Information Technology Project Managers		NC
@@ -1782,12 +1782,12 @@ Freemon, Shapard & Story	Wichita Falls	TX	3	Accountants and Auditors	56800	TX
 Freenet Health Corp	Boerne	TX	1	Computer and Information Systems Managers		TX
 Freenome Holdings, Inc.	Brisbane	CA	7	Clinical Data Managers; Biochemists and Biophysicists; Data Scientists	130000	CA,MA,GA
 Freeport LNG Development, LP	Houston	TX	1	Electrical Engineers		TX
-Freeport Minerals Corporation	Phoenix	AZ	32	Mining and Geological Engineers, Including Mining Safety Engineers; Geoscientists, Except Hydrologists and Geographers; Civil Engineers	107000	AZ,CO,OH
+Freeport Minerals Corporation	Phoenix	AZ	24	Mining and Geological Engineers, Including Mining Safety Engineers; Civil Engineers; Environmental Scientists and Specialists, Including Health	107000	AZ,CO,OH
 Freeport School District 145	Freeport	IL	1	Special Education Teachers, Elementary School		IL
 Freeport-McMoRan Bagdad Inc.	Phoenix	AZ	8	Materials Engineers; Mining and Geological Engineers, Including Mining Safety Engineers; Mechanical Engineers	106300	AZ
 Freeport-McMoRan Chino Mines Company	Phoenix	AZ	1	Mechanical Engineers		NM
 Freeport-McMoRan Miami Inc.	Phoenix	AZ	4	Mechanical Engineers; Materials Engineers; Architectural and Engineering Managers	118000	AZ
-Freeport-McMoRan Morenci Inc.	Phoenix	AZ	16	Mining and Geological Engineers, Including Mining Safety Engineers; Materials Engineers; Mechanical Engineers	105500	AZ
+Freeport-McMoRan Morenci Inc.	Phoenix	AZ	14	Mining and Geological Engineers, Including Mining Safety Engineers; Materials Engineers; Mechanical Engineers	105500	AZ
 Freeport-McMoRan Safford Inc.	Phoenix	AZ	5	Mechanical Engineers; Industrial Engineers; Materials Engineers	106000	AZ
 Freeport-McMoRan Sierrita Inc.	Phoenix	AZ	3	Industrial Engineers; Mining and Geological Engineers, Including Mining Safety Engineers; Electrical Engineers	121000	AZ
 Freeport-McMoRan Tyrone Mining LLC	Tyrone	NM	2	Civil Engineers; Mining and Geological Engineers, Including Mining Safety Engineers		NM
@@ -1824,7 +1824,7 @@ Fresh Green, LLC	San Francisco	CA	1	Financial Specialists, All Other		CA
 Fresh Success Marketing Group, Inc.	San Antonio	TX	1	Market Research Analysts and Marketing Specialists		CA
 Fresh-Pak LLC	Houston	TX	1	Industrial Engineers		TX
 FRESH2 Ecommerce Inc	Long Island City	NY	1	Computer Programmers		NY
-Freshfields US LLP	New York	NY	22	Lawyers	260000	NY
+Freshfields US LLP	New York	NY	9	Lawyers	260000	NY
 Freshine Products, Inc	New York	NY	1	Survey Researchers		NY
 Freshmore Inc	Ridgewood	NY	1	Public Relations Managers		NY
 Freshworks Inc.	San Mateo	CA	10	Software Developers; Sales Engineers; Computer and Information Systems Managers	170300	CA,WA,NJ
@@ -1839,7 +1839,7 @@ Friar Tuck LLC	Houston	TX	1	Preschool Teachers, Except Special Education		TX
 Frick Paper Company LLC	Orange	CA	1	Market Research Analysts and Marketing Specialists		CA
 Frictionless Solutions Inc.	Arlington Heights	IL	1	Computer and Information Systems Managers		IL
 Frida Escobedo Studio Inc	New York	NY	1	Architectural and Civil Drafters		NY
-Fridley Public Schools Independent School District 14	Fridley	MN	107	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	49100	MN
+Fridley Public Schools Independent School District 14	Fridley	MN	21	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	49100	MN
 Fried, Frank, Harris, Shriver & Jacobson LLP	New York	NY	18	Lawyers; Web Developers	350000	NY
 Friedman Benda LLC	New York	NY	1	Curators		NY
 Friedman Corporation	Chicago	IL	4	Software Developers; Computer and Information Systems Managers	199900	TX,SC,NJ
@@ -1945,7 +1945,7 @@ FUJIFILM North America Corporation	Valhalla	NY	1	Information Technology Project 
 FUJIFILM SonoSite Manufacturing LLC	Bothell	WA	2	Industrial Engineers; Software Developers		WA
 FUJIFILM Sonosite, Inc.	Bothell	WA	1	Public Relations Specialists		WA
 Fujitec Pacific, Inc.			1	Electrical Engineers		
-Fujitsu North America, Inc.	Dallas	TX	462	Software Developers; Management Analysts; Database Administrators	118700	TX,NY,MA
+Fujitsu North America, Inc.	Dallas	TX	83	Software Developers; Management Analysts; Database Administrators	118700	TX,IN,MA
 Fujitsu Research of America, Inc.	Santa Clara	CA	3	Computer and Information Research Scientists	118800	PA
 Fulcrum Analytics, Inc.	New York	NY	1	Data Scientists		NY
 Fulcrum Collaborations, LLC	Glen Allen	VA	2	Software Quality Assurance Analysts and Testers; Software Developers		VA
@@ -2013,7 +2013,7 @@ Fusion Plus Solutions Inc.	Edison	NJ	10	Software Developers; Computer Systems An
 Fusion Solutions LLC	Plano	TX	1	Electronics Engineers, Except Computer		ID
 Fusion Trade, Inc.	Portsmouth	NH	1	Computer Systems Analysts		MA
 Fusion Transport, LLC	Rutherford	NJ	5	Operations Research Analysts; Business Intelligence Analysts; Management Analysts	79000	MO,NJ
-Fusion United Group, LLC	Hurst	TX	2	Search Marketing Strategists		TX
+Fusion United Group, LLC	Hurst	TX	1	Search Marketing Strategists		TX
 Fusionedus, Inc.	Brooklyn	NY	2	Instructional Coordinators; Secondary School Teachers, Except Special and Career/Technical Education		NY
 FusionHPX LLC	Chandler	AZ	1	Mechanical Engineers		AZ
 fusionSpan LLC	Rockville	MD	6	Information Technology Project Managers; Computer Systems Analysts; Database Administrators	116700	MD,WA
@@ -2088,7 +2088,7 @@ Gilford Hills Tennis and Fitness, LLC	Gilford	NH	2	Coaches and Scouts		NH
 Giordano, Glaws, Fenstermacher & Nash, LLP	New York	NY	1	Lawyers		NY
 Givaudan Flavors Corporation	Cincinnati	OH	6	Food Scientists and Technologists; Network and Computer Systems Administrators; Industrial Engineers	117200	OH,IL,NJ
 Givaudan Fragrances Corporation	New York	NY	3	Logisticians; Marketing Managers	115000	NJ,NY
-Glens Falls Hospital	Glens Falls	NY	8	Medical and Clinical Laboratory Technologists; Physicians, All Other		NY
+Glens Falls Hospital	Glens Falls	NY	6	Medical and Clinical Laboratory Technologists; Physicians, All Other		NY
 Global Atlantic Financial Company	New York	NY	30	Actuaries; Software Developers; Statistical Assistants	160300	MA,NY,IA
 Global Financial Group LLC	Elkhart	IN	2	Business Intelligence Analysts; Financial and Investment Analysts		IN,TX
 Global Focus Law Group PLLC	New York	NY	1	Human Resources Specialists		NY
@@ -2108,7 +2108,7 @@ Gordon Food Service, Inc.	Wyoming	MI	9	Software Developers; Computer Systems Ana
 GoTo Foods LLC	Atlanta	GA	6	Information Technology Project Managers; Data Scientists; Software Quality Assurance Analysts and Testers	161900	GA,CA,OH
 Goya Foods, Inc.	Jersey City	NJ	1	Computer Systems Analysts		NJ
 Gozel Law Firm PC	Clifton	NJ	2	Lawyers		CA
-Grand Forks Public Schools	Grand Forks	ND	11	Special Education Teachers, Secondary School; Special Education Teachers, Middle School; Special Education Teachers, Elementary School	66600	ND
+Grand Forks Public Schools	Grand Forks	ND	8	Special Education Teachers, Secondary School; Special Education Teachers, Middle School; Secondary School Teachers, Except Special and Career/Technical Education	66600	ND
 Grape Law Firm PLLC	New York	NY	11	Judicial Law Clerks; Paralegals and Legal Assistants; Information Technology Project Managers	84800	NY,CA
 Greater Chicago Food Depository	Chicago	IL	1	Data Scientists		IL
 Greater Family Health	Elgin	IL	1	Pediatricians, General		IL
@@ -2170,7 +2170,7 @@ Highland Forwarding, Inc.	Londonderry	NH	1	Logistics Analysts		NH
 Hilti Fieldwire, Inc.	San Francisco	CA	3	Financial and Investment Analysts; General and Operations Managers; Computer and Information Systems Managers	193600	CA
 Hitek Force LLC	Beaverton	OR	3	Supply Chain Managers; Software Developers; Business Intelligence Analysts		NY,OR,GA
 Hive Financial Systems, LLC.	Atlanta	GA	4	Data Scientists; Network and Computer Systems Administrators; Software Developers	147000	GA
-Holy Family Medical Center - Des Plaines LLC	Des Plaines	IL	10	Health Education Specialists		IL
+Holy Family Medical Center - Des Plaines LLC	Des Plaines	IL	1	Health Education Specialists		IL
 Holyoke Family Dental Inc	Holyoke	MA	3	Dentists, General		MA
 Hope Found Inc.	Kensington	MD	2	Software Developers		IA,MD
 Hopedale Medical Foundation	Hopedale	IL	1	Medical and Clinical Laboratory Technologists		IL
@@ -2218,9 +2218,9 @@ Infinite Commerce, Inc. (fka Juvo Plus, Inc.)	Seattle	WA	1	Business Intelligence
 Infinite Future Tennis LLC	Edgewater	NJ	2	Operations Research Analysts; Coaches and Scouts		NJ
 ING Financial Services, LLC	New York	NY	23	Financial and Investment Analysts; Financial Quantitative Analysts; Accountants and Auditors	182500	NY
 Innovation Finance USA, LLC	Fairport	NY	1	Business Operations Specialists, All Other		NY
-Innovative Physical Therapy and Fitness Center Inc.	Kendall Park	NJ	12	Physical Therapists		NJ
+Innovative Physical Therapy and Fitness Center Inc.	Kendall Park	NJ	1	Physical Therapists		NJ
 Innovative Physical Therapy and Fitness Centers, LLC	Abingdon	MD	1	Physical Therapists		MD
-Inpatient Consultants Of Florida, Inc	Knoxville	TN	4	Hospitalists		FL
+Inpatient Consultants Of Florida, Inc	Knoxville	TN	3	Hospitalists		FL
 Inspira Financial Trust, LLC	Oak Brook	IL	3	Software Developers; Information Technology Project Managers	153300	IL,CT
 Integral Financial LLC	Cupertino	CA	1	Financial Specialists, All Other		CA
 Integrated Financial Engineering Inc.	Rockville	MD	1	Financial Quantitative Analysts		MD
@@ -2366,7 +2366,7 @@ LL Funds LLC	Philadelphia	PA	1	Financial and Investment Analysts		PA
 LNW Gaming, Inc., fka SG Gaming, Inc.	Las Vegas	NV	1	Computer and Information Systems Managers		GA
 Lobel Financial Corporation	Anaheim	CA	1	Computer Programmers		CA
 Loia Food Import & Export LLC	Newark	NJ	1	Accountants and Auditors		NJ
-London Fischer LLP	New York	NY	2	Paralegals and Legal Assistants		NY
+London Fischer LLP	New York	NY	1	Paralegals and Legal Assistants		NY
 Lone Star Fasteners, LLC	Spring	TX	1	Market Research Analysts and Marketing Specialists		TX
 Long Finch Technologies LLC	Edison	NJ	6	Computer Systems Analysts; Information Technology Project Managers; Mechanical Engineering Technologists and Technicians	80000	MA,CA,MI
 Lotspeich Co. of Florida, Inc.	Fort Lauderdale	FL	1	Cost Estimators		FL
@@ -2375,8 +2375,8 @@ LT Foods Americas	Cypress	CA	2	Industrial Engineers; Quality Control Systems Man
 LTM Limited Ltd (formerly LTIMindtree Limited)	Edison	NJ	2	Computer Systems Engineers/Architects; Software Developers		CA,PA
 Luma Financial Technologies, LLC	Cincinnati	OH	4	Software Developers; Software Quality Assurance Analysts and Testers	120000	OH,NY
 Lycee Francais de Chicago, Inc.	Chicago	IL	1	Secondary School Teachers, Except Special and Career/Technical Education		IL
-Lycee Francais de New York	New York	NY	20	School Psychologists; Instructional Coordinators		NY
-Lycee Francais Nouvelle Orleans	New Orleans	LA	11	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Education Administrators, Kindergarten through Secondary	45600	LA
+Lycee Francais de New York	New York	NY	2	School Psychologists; Instructional Coordinators		NY
+Lycee Francais Nouvelle Orleans	New Orleans	LA	8	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Education Administrators, Kindergarten through Secondary	45600	LA
 M Abraham Floor Covering LLC	Pittston	PA	1	General and Operations Managers		PA
 M C Fuhrman And Associates LLC	Haddonfield	NJ	1	Mechanical Engineers		NJ
 M Financial Holdings, Inc.	Portland	OR	1	Management Analysts		TX
@@ -2406,7 +2406,7 @@ Marriage and Family Counselling Service	Rock Island	IL	1	Marriage and Family The
 Mars Food US, LLC	Greenville	MS	2	Industrial Engineers; Food Scientists and Technologists		MS
 Martins Famous Pastry Shoppe, Inc.	Chambersburg	PA	1	Software Developers		IL
 Marucco, Stoddard, Ferenbach & Walsh, Inc.	Springfield	IL	3	Software Developers; Business Intelligence Analysts	104000	IL
-Mary Mcdowell Friends School	Brooklyn	NY	2	Teachers and Instructors, All Other		NY
+Mary Mcdowell Friends School	Brooklyn	NY	1	Teachers and Instructors, All Other		NY
 Maryland Medical First, P.A.	Parkville	MD	9	General Internal Medicine Physicians; Family Medicine Physicians; General Internal Medicine Physician	275000	MD
 Massachusetts Financial Services Company	Boston	MA	1	Information Technology Project Managers		MA
 Masuda, Funai, Eifert & Mitchell, Ltd.	Chicago	IL	1	Lawyers		IL
@@ -2438,7 +2438,7 @@ Mercurity Fintech Technology Holding Inc.	New York	NY	2	Management Analysts; Bus
 Mercury Financial LLC	Austin	TX	7	Software Developers; Credit Analysts; Business Intelligence Analysts	150000	DE,TX
 Mercy Clinic Fort Smith Communities	Fort Smith	AR	5	Hospitalists; General Internal Medicine Physicians; Pediatricians, General	178400	AR
 Meta Payments Inc. (formerly known as Facebook Payments, Inc)	Menlo Park	CA	1	Computer and Information Research Scientists		NY
-Metro Athletic Medicine and Fitness, P.C.	Louisville	KY	16	Physical Therapists	80000	NY
+Metro Athletic Medicine and Fitness, P.C.	Louisville	KY	14	Physical Therapists	80000	NY
 Metron Farnier LLC	Louisville	CO	1	Statisticians		SC
 Metropolitan Family Services	Chicago	IL	1	Database Architects		IL
 MG Engineering – Fl Corp.	Hollywood	FL	1	Mechanical Engineers		FL
@@ -2580,7 +2580,7 @@ OpenAGI Research Foundation, Inc.	San Mateo	CA	3	Data Scientists; Software Devel
 OpenAirInterface Foundation	Dover	DE	1	Software Developers		MA
 OPmobility f/k/a Plastic Omnium Auto Exterior LLC	Chattanooga	TN	2	Database Administrators; Logistics Engineers		SC
 Opportunity Financial, LLC	Chicago	IL	6	Technical Writers; Business Intelligence Analysts; Software Developers	102800	IL,CA,MA
-Oracle Financial Services Software, Inc.	Bridgewater	NJ	153	Software Developers; Computer Systems Analysts; Computer and Information Systems Managers	150400	VA,NJ,FL
+Oracle Financial Services Software, Inc.	Bridgewater	NJ	32	Software Developers; Computer and Information Systems Managers; Computer Systems Analysts	150400	NJ,VA,OH
 Orentreich Foundation for the Advancement of Science, Inc.	New York	NY	1	General and Operations Managers		NY
 Origin Family Chiropractic LLC	Kingston Springs	TN	1	Chiropractors		TN
 Origin Physical Therapy (FL), PLLC	Los Angeles	CA	1	Physical Therapists		TX
@@ -2588,7 +2588,7 @@ Orlando Food Sales Inc.	Glen Rock	NJ	1	Business Intelligence Analysts		NJ
 Ott Law Firm, LLC	Maplewood	MO	1	Lawyers		MO
 Ovearseas Food Trading Ltd	Fort Lee	NJ	4	Business Operations Specialists, All Other; Project Management Specialists; Business Intelligence Analysts	90900	NJ
 P&M Law Firm, LLC	Chicago	IL	6	Software Developers; Lawyers	140800	IL,PA
-PA Consulting and Financial Services INC	Richardson	TX	3	Accountants and Auditors; Financial and Investment Analysts		TX
+PA Consulting and Financial Services INC	Richardson	TX	2	Accountants and Auditors; Financial and Investment Analysts		TX
 Pacific Federal Management, Inc.			2	Civil Engineers		
 Pacific Whale Foundation	Wailuku	HI	1	Natural Sciences Managers		HI
 Panda Fest LLC	New York	NY	9	Graphic Designers; Meeting, Convention, and Event Planners; Producers and Directors		NY
@@ -2687,7 +2687,7 @@ Qian Feng Shou Investment, LLC	Bellevue	WA	1	Self-Enrichment Teachers		WA
 Quality Family Health Care Clinics PLLC	Mckinney	TX	2	Health Information Technologists and Medical Registrars		TX
 Quality Food Group LLC	Richmond	VA	1	General and Operations Managers		VA
 Quantlab Financial, LLC	Houston	TX	2	Financial Quantitative Analysts; Financial Risk Specialists		TX
-Quantum Financial Advisors, Inc.	Rockville	MD	4	Financial and Investment Analysts		MD
+Quantum Financial Advisors, Inc.	Rockville	MD	2	Financial and Investment Analysts		MD
 Quantum Fuel Systems LLC	Lake Forest	CA	1	Materials Scientists		CA
 Quantum Fulfillment and Support, LLC	Cedar Creek	TX	1	Document Management Specialists		TX
 Quartet Financial Systems, Inc.	New York	NY	1	Software Developers		NY
@@ -2773,8 +2773,8 @@ S & F Convenience, Inc.	Covington	GA	1	Accountants and Auditors		TX
 Sage Techsolutions LLC Fka Sage Solutions LLC	Richmond	VA	9	Software Developers; Network and Computer Systems Administrators; Software Quality Assurance Analysts and Testers		MI,CA,VA
 Saint Francis Care Medical Group, P.C.	Hartford	CT	1	Physicians, Pathologists		CT
 Saint Francis Health System	Tulsa	OK	20	General Internal Medicine Physicians; Pediatricians, General; Medical and Clinical Laboratory Technologists	325000	OK
-Saint Francis Healthcare System	Cape Girardeau	MO	30	Registered Nurses		MO
-Saint Francis Hospital - Evanston, LLC	Evanston	IL	15	Health Education Specialists; Medical and Clinical Laboratory Technologists; Clinical Data Managers		IL
+Saint Francis Healthcare System	Cape Girardeau	MO	3	Registered Nurses		MO
+Saint Francis Hospital - Evanston, LLC	Evanston	IL	6	Medical and Clinical Laboratory Technologists; Clinical Data Managers; Health Education Specialists		IL
 Saint Francis Medical Center	Cape Girardeau	MO	1	Religious Workers, All Other		MO
 Saint Francis Medical Partners, LLC	Cape Girardeau	MO	2	Clinical and Counseling Psychologists; Physician Assistants		MO
 Samuel T. Freeman & Company, Inc.	Philadelphia	PA	1	Museum Technicians and Conservators		PA
@@ -2783,7 +2783,7 @@ San Francisco Ear Nose Throat, A Bay Area Surgical Specialist Office	San Francis
 San Francisco Health Authority	San Francisco	CA	1	Data Warehousing Specialists		CA
 San Francisco State University	San Francisco	CA	2	Area, Ethnic, and Cultural Studies Teachers, Postsecondary; Engineering Teachers, Postsecondary		CA
 San Francisco Unified School District	San Francisco	CA	3	Special Education Teachers, Secondary School; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	88000	CA
-San Mateo - Foster City School District	Foster City	CA	6	Special Education Teachers, Elementary School; Elementary School Teachers, Except Special Education		CA
+San Mateo - Foster City School District	Foster City	CA	2	Special Education Teachers, Elementary School; Elementary School Teachers, Except Special Education		CA
 Sandsrx Frisco LLC	Frisco	TX	1	Pharmacists		TX
 Sanford Medical Center Fargo	Fargo	ND	2	Family Medicine Physicians; Allergists and Immunologists		ND,MN
 Sankara Eye Foundation USA	Milpitas	CA	1	Fundraisers		TX
@@ -2863,7 +2863,7 @@ Sola Fe Ranch, LLC	Lockhart	TX	2	Farmers, Ranchers, and Other Agricultural Manag
 Soney FM LLC	Tampa	FL	1	Architectural and Civil Drafters		FL
 Song Law Firm LLC	Fort Lee	NJ	1	Judicial Law Clerks		NJ
 Soros Fund Management, LLC	New York	NY	2	Financial Quantitative Analysts; Software Developers		NY
-Sound Physicians of Florida IV, LLC	Tacoma	WA	7	Hospitalists		FL
+Sound Physicians of Florida IV, LLC	Tacoma	WA	4	Hospitalists		FL
 Sound Physicians of Florida VI, LLC	Nashville	TN	5	Hospitalists		FL
 South Carolina Dialogue Foundation	Clinton	IA	1	Philosophy and Religion Teachers, Postsecondary		IA
 South Florida Church of Christ, Inc.	Davie	FL	1	Clergy		FL
@@ -2980,13 +2980,13 @@ The Cleveland Clinic Foundation	Cleveland	OH	2	Obstetricians and Gynecologists; 
 The College of Governor French	Belleville	IL	1	Middle School Teachers		IL
 The Community Partnership for Families of San Joaquin	Lodi	CA	1	Data Scientists		CA
 The Corella & Bertram F. Bonner Foundation, Inc.	Princeton	NJ	1	Social and Community Service Managers		NJ
-The Devereux Foundation	Rutland	MA	90	Rehabilitation Counselors; Social and Community Service Managers; Mental Health Counselors	39200	MA,NY,PA
+The Devereux Foundation	Rutland	MA	74	Rehabilitation Counselors; Social and Community Service Managers; Mental Health Counselors	39200	MA,NY,PA
 The Dworsky Law Firm	Northbrook	IL	1	Judicial Law Clerks		IL
 The Elie Wiesel Foundation For Humanity, Inc.	New York	NY	1	Graphic Designers		VA
 The Family Rosary Inc	North Easton	MA	1	Financial Managers		MA
 The Farmer's Dog, Inc.	New York	NY	2	Business Intelligence Analysts; Lawyers		CA,NY
 The Federal Reserve Bank of St. Louis	St. Louis	MO	1	Software Developers		MO
-The Feet Washers Inc	Fort Pierce	FL	25	Social and Human Service Assistants		FL
+The Feet Washers Inc	Fort Pierce	FL	1	Social and Human Service Assistants		FL
 The Feinstein Institutes For Medical Research	Manhasset	NY	12	Medical Scientists, Except Epidemiologists; Biological Technicians; Life Scientists, All Other	73100	NY
 The Ferrante Group, LLC	Naples	FL	2	Investment Fund Managers		FL
 The Field Museum of Natural History	Chicago	IL	2	Biological Technicians; Public Relations Specialists		IL
@@ -3009,7 +3009,7 @@ The French American School of Tampa Bay, LLC	St. Petersburg	FL	1	Elementary Scho
 The French Japanese Educational Institute Of New York Inc.	New York	NY	2	Elementary School Teachers, Except Special Education; Librarians and Media Collections Specialists		NY
 The Fresh Market, Inc.	Greensboro	NC	1	Market Research Analysts and Marketing Specialists		NC
 The Frick Collection	New York	NY	1	Curators		NY
-The Friends Of Crown Heights Educational Centers Inc.	Brooklyn	NY	4	Preschool Teachers, Except Special Education; Human Resources Specialists	60300	NY
+The Friends Of Crown Heights Educational Centers Inc.	Brooklyn	NY	3	Preschool Teachers, Except Special Education; Human Resources Specialists	60300	NY
 The Frozen Bean, Inc.	Rancho Cucamonga	CA	1	Market Research Analysts and Marketing Specialists		CA
 The Fruitist Company	Century City	CA	3	General and Operations Managers; Quality Control Analyst; Quality Control Analysts	72500	NJ,CA
 The Future Begins Here, LLC	Doral	FL	3	Education and Childcare Administrators, Preschool and Daycare	45000	FL
@@ -3033,7 +3033,7 @@ The Law Firm Of Marcelle B. Poirier Corp.	Miami Beach	FL	1	Public Relations Spec
 The Law Offices of Fuqiang Zhang, P.C.	Flushing	NY	5	Judicial Law Clerks	73700	NY
 The Memorial Hospital of William F and Gertrude F Jones Inc.	Wellsville	NY	1	Physician Assistants		NY
 The Mount Sinai Community Foundation	Chicago	IL	5	Hospitalists; Physicians, All Other	285000	IL
-The Nemours Foundation - Nemours Children's Health	Jacksonville	FL	21	Physicians, All Other; Neurologists; Medical Scientists, Except Epidemiologists	212500	FL,DE,NJ
+The Nemours Foundation - Nemours Children's Health	Jacksonville	FL	20	Physicians, All Other; Neurologists; Medical Scientists, Except Epidemiologists	212500	FL,DE,NJ
 The Nourmand Law Firm, Apc	Beverly Hills	CA	1	Judicial Law Clerks		CA
 The PNC Financial Services Group, Inc.	Pittsburgh	PA	59	Software Developers; Financial Quantitative Analysts; Business Intelligence Analysts	132800	PA,OH,TX
 The President & Fellows of Middlebury College	Middlebury	VT	16	Foreign Language and Literature Teachers, Postsecondary; Education Administrators, Postsecondary; History Teachers, Postsecondary	120000	VT,DC
@@ -3079,7 +3079,7 @@ Tilia Fiduciary Partners, Inc.	Wilmington	NC	1	Financial and Investment Analysts
 Tilt Finance, Inc.	San Francisco	CA	1	Data Scientists		TX
 Tilt Finance, Inc. f/k/a Empower Finance, Inc.	San Francisco	CA	2	Business Intelligence Analysts; Data Scientists		TX
 Tiny Fish Inc	Los Altos	CA	3	Software Developers; Information Technology Project Managers	178000	CA,TX
-Titan Florida LLC	Norfolk	VA	4	Mechanical Engineers; Industrial Engineers; Architectural and Engineering Managers	94300	FL
+Titan Florida LLC	Norfolk	VA	3	Industrial Engineers; Architectural and Engineering Managers; Mechanical Engineers	94300	FL
 Titan Franchising, LLC	Brentwood	TN	1	Market Research Analysts and Marketing Specialists		TN
 Titanium Fuel Inc	Manchester	NH	1	First-Line Supervisors of Office and Administrative Support Workers		NH
 TMF Fund Services North America LLC	Cary	NC	1	Accountants and Auditors		NC
@@ -3120,7 +3120,7 @@ Tyco Fire Products, LP	Milwaukee	WI	1	Logistics Analysts		TX
 Tyler Family Circle of Care	Tyler	TX	3	Family Medicine Physicians	230000	TX
 Typeface Inc., fka Cortex6, Inc.	Palo Alto	CA	2	Information Technology Project Managers; Software Developers		CA,WA
 Tyson Foods, Inc.	Springdale	AR	30	Information Technology Project Managers; Accountants and Auditors; Computer Systems Analysts	106500	AR
-U R First LLC	Las Vegas	NV	2	Registered Nurses		NV
+U R First LLC	Las Vegas	NV	1	Registered Nurses		NV
 U.S. Bancorp Fund Services, LLC	Minneapolis	MN	3	Business Intelligence Analysts; Financial Managers; Financial and Investment Analysts	113600	NJ,GA
 U.S. Financial Technology, LLC	Bethesda	MD	2	Software Quality Assurance Analysts and Testers; Software Developers		MD
 U.S. Forensic, LLC	Metairie	LA	2	Civil Engineers		TX
@@ -3283,7 +3283,7 @@ YLIN Financial Coaching LLC	Irvine	CA	2	Survey Researchers		CA
 Yogurtland Franchising, Inc.	Farmers Branch	TX	2	Computer Systems Analysts; Web and Digital Interface Designers		TX
 Yokogawa Fluence Analytics, Inc.	Stafford	TX	1	Engineers, All Other		TX
 Youth Finance For Good Inc.	Topeka	KS	1	Meeting, Convention, and Event Planners		NJ
-Yukon Flats School District	Fort Yukon	AK	5	Elementary School Teachers, Except Special Education		AK
+Yukon Flats School District	Fort Yukon	AK	1	Elementary School Teachers, Except Special Education		AK
 Yummy Future, Inc.	Champaign	IL	2	Mechanical Engineers		IL
 Z Golf Food & Beverage Services, LLC	Temecula	CA	1	Software Developers		CA
 Z&W Food Inc.	Long Island City	NY	1	Market Research Analysts and Marketing Specialists		NY

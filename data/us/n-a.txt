@@ -45,7 +45,7 @@ A&S Madison Ave Inc	New York	NY	1	General and Operations Managers		NY
 A&W Tool, Inc.	Ringwood	IL	2	Financial Risk Specialists; Architects, Except Landscape and Naval		IL
 A-1 Consulting, Inc.	Alpharetta	GA	5	Software Developers; Data Scientists; Management Analysts	94000	GA
 A-1 Rehab & Recruitment Services, Inc.	Fairfield	CA	1	Social and Community Service Managers		CA
-A-American Custom Flooring, Inc.	Honolulu	HI	2	Cost Estimators		HI
+A-American Custom Flooring, Inc.	Honolulu	HI	1	Cost Estimators		HI
 A-Express Limo Inc.	Valley Stream	NY	1	Operations Research Analysts		NY
 A-G Associates, Inc.	Columbia	MD	2	Software Developers		MD,CA
 A-G Specialty Insurance, LLC	Berwyn	PA	1	Database Administrators		PA
@@ -73,7 +73,7 @@ A.i. Artist Studio Inc	Charlotte	NC	1	Accountants and Auditors		NC
 A.R. Savage and Son, LLC	Tampa	FL	1	Supply Chain Managers		FL
 A.r.t. Advisors, LLC	New York	NY	2	Financial Specialists, All Other		NY
 A.S.K. Business Solutions LLC	Johns Creek	GA	1	Computer Programmers		PA
-A.T. Kearney, Inc.	Chicago	IL	60	Management Analysts; Industrial Engineers; Supply Chain Managers	188000	MA,IL,TX
+A.T. Kearney, Inc.	Chicago	IL	47	Management Analysts; Industrial Engineers; Supply Chain Managers	188000	MA,IL,TX
 A1 Associates LLC	Iselin	NJ	1	Software Quality Assurance Analysts and Testers		TX
 A1 Consulting Group, Inc.	Morrisville	NC	1	Civil Engineering Technologists and Technicians		NC
 A1 Kaiser Inc	Elgin	IL	1	Computer Programmers		CO
@@ -104,7 +104,7 @@ A4 Staffing LLC	Carrollton	TX	4	Software Developers; Business Intelligence Analy
 A4Softech LLC	Parsippany	NJ	1	Computer Programmers		GA
 A7 IT Solutions Llc.	Glendale	AZ	5	Computer Network Architects; Software Developers; Network and Computer Systems Administrators		AZ
 A79 Inc.	Palo Alto	CA	1	Software Developers		CA
-A9.com LLC	Seattle	WA	31	Computer and Information Research Scientists; Software Quality Assurance Analysts and Testers; Software Developers	157200	CA
+A9.com LLC	Seattle	WA	13	Software Developers; Computer and Information Research Scientists; Software Quality Assurance Analysts and Testers	157200	CA
 Aa & Sa Enterprises Inc	Houston	TX	1	Accountants and Auditors		TX
 AA Advisors, LLC	Corte Madera	CA	1	Financial and Investment Analysts		NY
 Aa Educational Solutions LLC	Decatur	GA	19	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School	47100	GA,AK,VA
@@ -181,7 +181,7 @@ AB Consultants, Inc.	Lanham	MD	1	Civil Engineers		MD
 AB Consulting Engineers, Inc.	Orlando	FL	2	Civil Engineers		FL
 AB Design Studio, Inc.	Santa Barbara	CA	2	Architects, Except Landscape and Naval		CA
 AB Electronics LLC	Danbury	CT	1	Industrial Engineering Technologists and Technicians		CT
-AB Health Corp LLC	Dallas	TX	21	Medical and Health Services Managers	70100	AL,IA,IL
+AB Health Corp LLC	Dallas	TX	15	Medical and Health Services Managers	70100	IA,AL,IL
 AB Infotek LLC	Iselin	NJ	2	Validation Engineers; Software Developers		PA,OH
 AB Made II LLC	New York	NY	1	Cost Estimators		NY
 Ab Ovo, Inc.	Santa Clara	CA	2	Software Quality Assurance Analysts and Testers		CA
@@ -267,7 +267,7 @@ ABI Engineering Consultants, Inc.	Santa Ana	CA	1	Civil Engineers		CA
 AbilEco Analytics LLC	Abilene	TX	2	Operations Research Analysts		TX
 Abilene Christian University	Abilene	TX	1	Epidemiologists		CT
 Abilene Dental Care South PLLC	Abilene	TX	1	Dentists, General		TX
-Abington Memorial Hospital	Abington	PA	31	Healthcare Practitioners and Technical Workers, All Other; General Internal Medicine Physicians	72000	PA
+Abington Memorial Hospital	Abington	PA	9	Healthcare Practitioners and Technical Workers, All Other; General Internal Medicine Physicians	72000	PA
 Abinitia Labs, Inc.	San Francisco	CA	1	Computer and Information Research Scientists		CA
 Abio Technologies Inc	Redwood City	CA	1	Biological Technicians		CA
 ABIOMED, Inc.	New Brunswick	NJ	15	Mechanical Engineers; Software Developers; Project Management Specialists	132000	MA
@@ -299,7 +299,7 @@ Abrams Bison Investment, LLC	Bethesda	MD	1	Financial and Investment Analysts		MD
 Abridge AI, Inc.	San Francisco	CA	16	Software Developers; Computer Network Architects; Software Quality Assurance Analysts and Testers	256000	CA,NY,WA
 Abridge Info Systems Inc.	Chelmsford	MA	3	Software Developers; Computer Systems Engineers/Architects	103200	IL,TX,KS
 ABS Digital Solutions LLC	Spring	TX	3	Software Developers; Information Technology Project Managers	141100	TX
-ABS Global, Inc.	DeForest	WI	6	Animal Scientists; Software Developers; Industrial Engineers	88500	WI,WA
+ABS Global, Inc.	DeForest	WI	5	Software Developers; Industrial Engineers; Animal Scientists	88500	WI,WA
 ABS Tech LLC	Herndon	VA	5	Data Scientists; Software Developers; Data Warehousing Specialists	102200	OH,TX,IN
 Absci Corporation	Vancouver	WA	2	Marketing Managers; Molecular and Cellular Biologists		MA,WA
 Absen Inc.	Orlando	FL	1	Mechanical Engineers		FL
@@ -382,7 +382,7 @@ Accent Projects, LLC	New York	NY	1	Public Relations Specialists		NY
 AccentCare, Inc.	Dallas	TX	1	Physical Therapists		TX
 Accentuate IT Solutions	Reston	VA	2	Human Resources Specialists; Software Developers		VA,PA
 Accenture Infrastructure and Capital Projects LLC	Ocoee	FL	30	Construction Managers; Cost Estimators; Management Analysts	135000	CA,VA,IL
-Accenture LLP	Chicago	IL	1216	Computer Systems Analysts; Information Technology Project Managers; Computer Programmers	144200	TX,CA,PA
+Accenture LLP	Chicago	IL	1201	Computer Systems Analysts; Information Technology Project Managers; Computer Programmers	144200	TX,CA,PA
 Access Care Health, LLC	Memphis	TN	1	Data Scientists		TN
 Access Clinical Partners, LLC	Atlanta	GA	2	Database Administrators; Financial and Investment Analysts		CA,GA
 ACCESS Community Health Network	Chicago	IL	6	Family Medicine Physicians; Pediatricians, General; Psychiatrists	200000	IL
@@ -522,7 +522,7 @@ Aclan Behavioral Services, Inc.	Encino	CA	2	Mental Health Counselors		CA
 Aclara Technologies, LLC	St. Louis	MO	2	Validation Engineers; Architectural and Engineering Managers		MO,GA
 Aclat, Inc.	Arlington Heights	IL	4	Electronics Engineers, Except Computer; Business Intelligence Analysts; Software Quality Assurance Analysts and Testers		TX,MN,PA
 ACME Control System Corporation	Phoenix	AZ	2	General and Operations Managers; Market Research Analysts and Marketing Specialists		AZ
-Acme Corporation	New York	NY	28	Software Developers	80000	NY
+Acme Corporation	New York	NY	14	Software Developers	80000	NY
 ACME International LLC	Sunrise	FL	1	Market Research Analysts and Marketing Specialists		FL
 ACME Markets, Inc.	Malvern	PA	2	Industrial Engineers		PA
 ACME Trading Corporation	City Of Industry	CA	1	Logistics Analysts		CA
@@ -704,7 +704,7 @@ Adecco USA, Inc.	Jacksonville	FL	3	Business Intelligence Analysts; Project Manag
 Adeia Guides Inc.	San Jose	CA	2	Computer and Information Systems Managers; Manufacturing Engineers		FL,NC
 Adelaide Metrics, Inc.	New York	NY	2	Operations Research Analysts		NJ,MA
 Adelante US Operations Inc	Austin	TX	3	Financial Managers	225000	MD
-Adelfia LLC	Chicago	IL	3	Accountants and Auditors		IL
+Adelfia LLC	Chicago	IL	1	Accountants and Auditors		IL
 Adelis Health PLLC	Medford	MA	2	Substance Abuse and Behavioral Disorder Counselors		MA
 Adelphi University	Garden City	NY	4	Instructional Coordinators; Recreation and Fitness Studies Teachers, Postsecondary; Environmental Science Teachers, Postsecondary	75500	NY
 Aden Staff, Inc.	Fremont	CA	4	Software Developers; Computer Systems Analysts; Database Architects	136000	CA,OR
@@ -761,7 +761,7 @@ Admarketplace Inc.	New York	NY	8	Statisticians; Business Intelligence Analysts; 
 Admaru Network LLC	Fort Lee	NJ	3	Survey Researchers; Computer Programmers		NJ
 Admedes, Inc.	Livermore	CA	1	Quality Control Systems Managers		CA
 Admera Health LLC	South Plainfield	NJ	4	Statistical Assistants; Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products; Biological Technicians	67100	NJ,NC
-Admerasia Inc.	New York	NY	15	Market Research Analysts and Marketing Specialists; Graphic Designers	70000	NY
+Admerasia Inc.	New York	NY	13	Market Research Analysts and Marketing Specialists; Graphic Designers	70000	NY
 Admin Awards LLC	Dallas	TX	1	Market Research Analysts and Marketing Specialists		TX
 Administrative Office of the Courts; TN Supreme Court	Nashville	TN	1	Computer Programmers		TN
 Administrators of the Tulane Educational Fund	New Orleans	LA	72	Health Specialties Teachers, Postsecondary; Medical Scientists, Except Epidemiologists; Environmental Science Teachers, Postsecondary	87900	LA,MN,GA
@@ -949,7 +949,7 @@ Adventist Health Medical Center Tehachapi	Tehachapi	FL	3	Medical and Clinical La
 Adventist Health Mendocino Coast	Fort Bragg	CA	1	Medical and Clinical Laboratory Technologists		CA
 Adventist Health System Georgia, Inc.	Calhoun	GA	2	Surgeons, All Other; Family Medicine Physicians		GA
 Adventist Health System Sunbelt Healthcare Corp	Altamonte Springs	FL	25	Computer Systems Analysts; Management Analysts; Software Developers	137700	FL
-Adventist Health System/Sunbelt, Inc.	Orlando	FL	69	Medical and Clinical Laboratory Technologists; Healthcare Diagnosing or Treating Practitioners, All Other; Dietitians and Nutritionists	75000	FL
+Adventist Health System/Sunbelt, Inc.	Orlando	FL	64	Medical and Clinical Laboratory Technologists; Healthcare Diagnosing or Treating Practitioners, All Other; Dietitians and Nutritionists	75000	FL
 Adventist Health System/West	Roseville	CA	2	Financial Managers; Financial and Investment Analysts		CA
 Adventist HealthCare, Inc.	Gaithersburg	MD	13	Data Scientists; Physical Therapists; Occupational Therapists	101600	MD,TX
 Adventist Midwest Health	La Grange	IL	4	Medical and Clinical Laboratory Technologists	77800	IL
@@ -1022,7 +1022,7 @@ Aero Technologies, Inc.	Van Nuys	CA	1	Chief Executives		FL
 AeroCEA Systems, Inc.	Kernville	CA	1	Agricultural Engineers		CA
 Aerodyne Research, Inc	Billerica	MA	1	Photonics Engineers		MA
 Aerolens LLC	Northborough	MA	1	Software Developers		CA
-Aeromech Incorporated	Mukilteo	WA	7	Validation Engineers; Aerospace Engineers	130000	WA
+Aeromech Incorporated	Mukilteo	WA	6	Validation Engineers; Aerospace Engineers	130000	WA
 Aeropact Manufacturing, LLC	Bowling Green	OH	1	Industrial Engineers		OH
 Aerosapien Technologies LLC	Ormond Beach	FL	7	Mechanical Engineers; Industrial Engineers; Aerospace Engineers	79100	FL,TX,KS
 Aeroseal, Llc.	Miamisburg	OH	6	Software Developers; Industrial Production Managers; Mechanical Engineers	94800	OH
@@ -1408,7 +1408,7 @@ Air Products and Chemicals, Inc.	Allentown	PA	8	Chemical Engineers; Industrial E
 Air Sea Transport (chicago) Inc.	Bensenville	IL	1	Logisticians		IL
 Air Squared Manufacturing Inc.	Thornton	CO	1	Mechanical Engineers		CO
 Air System Components, Inc.	Plano	TX	3	Mechanical Engineers; Manufacturing Engineers; Accountants and Auditors	94200	NC,IN
-Air Transport International	Wilmington	OH	20	Airline Pilots, Copilots, and Flight Engineers		OH
+Air Transport International	Wilmington	OH	3	Airline Pilots, Copilots, and Flight Engineers		OH
 Air Water Gas Solutions Inc.	Bedminster	NJ	1	Chemical Engineers		NJ
 AIR Worldwide Corporation	Boston	MA	20	Software Developers; Civil Engineers; Software Quality Assurance Analysts and Testers	135200	MA,TX,IL
 Air-Conditioning, Heating, and Refrigeration Institute	Arlington	VA	1	Data Warehousing Specialists		TX
@@ -1627,7 +1627,7 @@ Albemarle County Public Schools	Charlottesville	VA	8	Elementary School Teachers,
 Albemarle Physician Services - Sentara, Inc.	Virginia Beach	VA	2	Pediatricians, General		NC
 Albert A. Webb Associates	Riverside	CA	4	Civil Engineers; Architectural and Civil Drafters	101600	CA
 Albert Einstein College of Medicine	Bronx	NY	39	Biochemists and Biophysicists; Medical Scientists, Except Epidemiologists; Microbiologists	75000	NY
-Albert Einstein Medical Center	Philadelphia	PA	34	Healthcare Practitioners and Technical Workers, All Other; General Internal Medicine Physicians; Medical Scientists, Except Epidemiologists	78600	PA
+Albert Einstein Medical Center	Philadelphia	PA	17	Healthcare Practitioners and Technical Workers, All Other; Medical Scientists, Except Epidemiologists; General Internal Medicine Physicians	78600	PA
 Albert Invent Corp	Oakland	CA	2	Software Developers; Data Scientists		NJ
 Albert Max, Inc.	Chino	CA	1	Commercial and Industrial Designers		CA
 Albert Pearlman, Inc.	New York	NY	1	Cost Estimators		NY
@@ -1682,7 +1682,7 @@ Alere San Diego, Inc.	Chicago	IL	1	Validation Engineers		CA
 Alertenterprise Inc.	Livermore	CA	2	Project Management Specialists; Software Developers		CA
 Alesig Consulting LLC	Fairfax	VA	1	Computer Programmers		VA
 Aletheia Labs Inc.	Issaquah	WA	1	Software Developers		WA
-Alethian	Bellevue	WA	2	Software Developers		WA
+Alethian	Bellevue	WA	1	Software Developers		WA
 Alex Antipov Dental Corp.	Roseville	CA	1	Dentists, General		CA
 Alex D. Moglia & Co., Inc.	Schaumburg	IL	1	Business Intelligence Analysts		CA
 Alex Gladkov A Professional Dental Corporation	Santa Ana	CA	1	Medical and Health Services Managers		CA
@@ -1998,7 +1998,7 @@ Alphamed Bottles Inc.	Central Islip	NY	1	Industrial Production Managers		NY
 AlphaPet, Inc.	Decatur	AL	1	Accountants and Auditors		AL
 AlphaPoint Corporation	New York	NY	1	Accountants and Auditors		FL
 AlphaQuest LLC	New York	NY	3	Marketing Managers; Software Developers; Database Architects	180000	NY
-AlphaROC Inc.	Newark	NJ	6	Operations Research Analysts; Information Technology Project Managers	97500	NJ
+AlphaROC Inc.	Newark	NJ	4	Operations Research Analysts; Information Technology Project Managers	97500	NJ
 AlphaSense Inc.	New York	NY	8	Market Research Analysts and Marketing Specialists; Software Developers; Computer and Information Research Scientists	163500	NY,IL,TX
 AlphaSights Inc.	New York	NY	9	Market Research Analysts and Marketing Specialists; Survey Researchers	110000	NY
 AlphaSimplex Group LLC	Boston	MA	1	Financial Risk Specialists		MA
@@ -2102,7 +2102,7 @@ ALTRES Inc.	Honolulu	HI	1	Software Developers		HI
 Altria Client Services LLC	Richmond	VA	4	Data Scientists; Database Architects; Software Developers	129800	VA
 Altrinsic Global Advisors, LLC	Stamford	CT	1	Financial and Investment Analysts		CT
 Altronic, LLC	Girard	OH	5	Computer Systems Engineers/Architects; Computer Occupations, All Other; Electronics Engineers, Except Computer	84100	OH
-Altru Health System	Grand Forks	ND	13	Medical and Clinical Laboratory Technologists; Psychiatrists; Physicians, All Other	500000	ND,MN
+Altru Health System	Grand Forks	ND	9	Medical and Clinical Laboratory Technologists; Psychiatrists; Physicians, All Other	500000	ND,MN
 Altruist Corp.	Culver City	CA	15	Software Developers; Computer Network Architects; Financial and Investment Analysts	220000	CA,TX
 AltrusAI, Inc.	Plano	TX	1	Software Developers		TX
 Altudo LLC	Newark	NJ	4	Software Developers; Sales Managers; Computer Systems Engineers/Architects	140300	NJ,TX
@@ -2183,20 +2183,20 @@ Amazeingrocery LLC	Novi	MI	1	Software Developers		MI
 Amazing Energy Solutions LLC	Norcross	GA	1	Management Analysts		GA
 Amazing Grace Institute	San Diego	CA	3	Management Analysts		CA
 Amazing Life Foundation	Plano	TX	1	Directors, Religious Activities and Education		TX
-Amazon Advertising LLC	Seattle	WA	195	Software Developers; Market Research Analysts and Marketing Specialists; Computer and Information Systems Managers	177000	NY,WA,VA
+Amazon Advertising LLC	Seattle	WA	105	Software Developers; Market Research Analysts and Marketing Specialists; Business Intelligence Analysts	177000	NY,WA,VA
 Amazon Capital Services, Inc.	Seattle	WA	2	Marketing Managers; Computer and Information Systems Managers		WA
-Amazon Data Services, Inc	Seattle	WA	1886	Software Developers; Industrial Engineers; Civil Engineers	148800	WA,VA,CA
-Amazon Development Center U.S., Inc.	Seattle	WA	4147	Software Developers; Computer and Information Systems Managers; Information Technology Project Managers	165000	WA,CA,VA
+Amazon Data Services, Inc	Seattle	WA	959	Software Developers; Industrial Engineers; Civil Engineers	148800	WA,VA,CA
+Amazon Development Center U.S., Inc.	Seattle	WA	2001	Software Developers; Computer and Information Research Scientists; Information Technology Project Managers	165000	WA,CA,NY
 Amazon Kuiper Manufacturing Enterprises LLC	Seattle	WA	1	Software Developers		WA
 Amazon LLC	Testing City	WA	2	Software Developers		WA
 Amazon Media Venture LLC	Seattle	WA	3	Business Intelligence Analysts	158300	CA
 Amazon Payments, Inc.	Seattle	WA	3	Software Developers	129000	WA
-Amazon Retail LLC	Seattle	WA	25	Logisticians; Financial and Investment Analysts; Supply Chain Managers	115000	WA,TX,NY
-Amazon Studios, LLC	Seattle	WA	13	Software Developers; Computer and Information Systems Managers; Information Technology Project Managers	171500	CA
+Amazon Retail LLC	Seattle	WA	7	Logisticians; Financial and Investment Analysts; Supply Chain Managers	115000	WA,NY,TX
+Amazon Studios, LLC	Seattle	WA	4	Software Developers; Computer and Information Systems Managers; Information Technology Project Managers	171500	CA
 Amazon USA Enterprise Corp.	Delray Beach	FL	1	Network and Computer Systems Administrators		FL
 Amazon Web Services Puerto Rico LLC	Seattle	WA	3	Software Developers; Sales Managers	180900	
-Amazon Web Services, Inc.	Seattle	WA	4884	Software Developers; Computer and Information Systems Managers; Business Intelligence Analysts	162600	WA,TX,CA
-Amazon.com Services LLC	Seattle	WA	22060	Software Developers; Business Intelligence Analysts; Computer and Information Systems Managers	163400	WA,CA,TX
+Amazon Web Services, Inc.	Seattle	WA	1766	Software Developers; Computer and Information Systems Managers; Computer Network Support Specialists	162600	WA,TX,CA
+Amazon.com Services LLC	Seattle	WA	11337	Software Developers; Computer and Information Research Scientists; Business Intelligence Analysts	163400	WA,CA,TX
 Amazon.com.ca, Inc.	Seattle	WA	1	General and Operations Managers		WA
 Amba Systems	Green Bay	WI	5	Software Developers; Software Quality Assurance Analysts and Testers	100000	WI
 AmbaFlex Manufacturing Inc.	Canton	OH	1	Industrial Engineers		OH
@@ -2311,7 +2311,7 @@ American Completion Tools, Inc.	Burleson	TX	1	Computer Systems Analysts		TX
 American Construction Corporation	Peabody	MA	1	Civil Engineers		MA
 American Consulting Solutions, Inc.	Boynton Beach	FL	6	Information Security Engineers; Software Developers	110000	FL,MA,CT
 American Contracting & Environmental Services, Inc.	Marriottsville	MD	1	Civil Engineers		VA
-American Credit Acceptance, LLC	Spartanburg	SC	41	Data Scientists; Business Intelligence Analysts; Software Developers	94700	SC,ID
+American Credit Acceptance, LLC	Spartanburg	SC	17	Data Scientists; Business Intelligence Analysts; Software Developers	94700	SC,ID
 American Dental Education Association	Washington	DC	1	Operations Research Analysts		TX
 American Drug Center, Inc.	Virginia Beach	VA	1	Software Developers		VA
 American Eagle Financial Credit Union, Inc.	East Hartford	CT	1	Business Intelligence Analysts		CT
@@ -2407,7 +2407,7 @@ American Securities LLC	New York	NY	1	Operations Research Analysts		NY
 American Society for Clinical Pathology	Chicago	IL	1	Statisticians		IL
 American Society for Dermatologic Surgery	Schaumburg	IL	1	Information Technology Project Managers		IL
 American Society for Testing & Materials	West Conshohocken	PA	1	Software Developers		PA
-American Society of Radiologic Technologists	Albuquerque	NM	4	Software Developers		NM
+American Society of Radiologic Technologists	Albuquerque	NM	2	Software Developers		NM
 American Software Group LLC	St.Louis	MO	2	Software Developers		OH
 American Software Resources, Inc.	Woodmere	NY	9	Business Intelligence Analysts; Computer Systems Analysts		FL,WA
 American Specialty Health Incorporated	Carmel	IN	14	Software Developers; Software Quality Assurance Analysts and Testers; Information Technology Project Managers	110800	TX,CA,VA
@@ -2619,7 +2619,7 @@ Ana-Data Consulting, Inc.	Hoboken	NJ	33	Software Developers; Information Technol
 AnaBios Corporation	San Diego	CA	2	Sales Managers; Molecular and Cellular Biologists		CA
 Anaconda, Inc.	Austin	TX	4	Computer and Information Systems Managers; General and Operations Managers; Software Developers	210900	FL,TX,NJ
 Anaergia Services LLC	Carlsbad	CA	1	Civil Engineers		CA
-Anagh Technologies Inc	Piscataway	NJ	32	Software Developers; Data Scientists; Computer Systems Analysts		CA,NJ,TX
+Anagh Technologies Inc	Piscataway	NJ	23	Software Developers; Data Scientists; Computer Systems Analysts		NJ,CA,TX
 Anagha Solutions, Inc.	Leander	TX	7	Software Developers; Network and Computer Systems Administrators; Data Scientists	112400	TX,NC,VA
 Anagha Technosoft Inc	Irving	TX	6	Software Developers; Computer Systems Analysts	109500	TX,MS,CO
 Anagram Therapeutics, Inc.	Natick	MA	1	Medical Scientists, Except Epidemiologists		MA
@@ -2651,7 +2651,7 @@ Anatolia Tile & Stone (USA), Inc.	Mooresville	NC	1	Industrial Engineers		NC
 Anatolian Art LLC	Washington	DC	1	Market Research Analysts and Marketing Specialists		DC
 Anatomic Incorporated	Minneapolis	MN	1	Biological Technicians		MN
 Anaya Technologies, Inc.	Newark	CA	1	Software Developers		CA
-Anayas Way Inc	Jonesboro	AR	14	Instructional Coordinators		AR
+Anayas Way Inc	Jonesboro	AR	2	Instructional Coordinators		AR
 ANB Systems LLC	Houston	TX	4	Business Intelligence Analysts; Database Administrators	78700	TX
 ANB-PTSMA Holdings, Inc.	West Hartford	CT	1	Physical Therapists		CT
 Anbang Insurance Center	San Marino	CA	1	Financial and Investment Analysts		CA
@@ -2754,7 +2754,7 @@ Anima Vet Group Inc.	El Sobrante	CA	6	Veterinarians	225000	CA
 Animal Care Innovations Ltd	Cambridge	MA	1	Art Directors		MA
 Animal Dermatology Group, Inc.	Newport Beach	CA	1	Biological Technicians		CA
 Animal Health Veterinary East, PC	New York	NY	1	Veterinarians		NY
-Animal Hospital of Morris Park	Bronx	NY	3	Veterinarians		NY
+Animal Hospital of Morris Park	Bronx	NY	2	Veterinarians		NY
 Animal Vet Group Inc.	El Sobrante	CA	2	Veterinarians		CA
 ANIP Acquisition Company	Baudette	MN	1	Chemists		MN
 Anira Solutions Inc	Ashburn	VA	3	Software Developers	112900	TX,IL
@@ -2775,7 +2775,7 @@ Anna Global Technologies LLC	Plano	TX	5	Software Developers; Web Developers; Inf
 Anna Jaques Hospital	Newburyport	MA	2	Medical and Clinical Laboratory Technologists		MA
 Anna Sui Downtown Inc.	New York	NY	2	Graphic Designers		NY
 Anna Young Associates	Freeport	NY	1	Mechanical Engineers		NY
-Annapurna Labs (U.S.) Inc.	Seattle	WA	197	Software Developers; Computer Hardware Engineers; Computer and Information Research Scientists	180600	CA,TX,WA
+Annapurna Labs (U.S.) Inc.	Seattle	WA	107	Software Developers; Computer Hardware Engineers; Computer and Information Research Scientists	180600	CA,TX,WA
 AnnaSudha Community Kitchens Corp	Sterling	VA	1	Social and Community Service Managers		VA
 Anne Arundel County Public Schools	Annapolis	MD	12	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Special Education Teachers, Secondary School	83600	MD
 Annexon Biosciences, Inc.	Brisbane	CA	1	Regulatory Affairs Managers		CA
@@ -2804,7 +2804,7 @@ Ansi Logic LLC	Prosper	TX	1	Information Security Analysts		TX
 Ansira Partners II, LLC	St. Louis	MO	1	Software Quality Assurance Analysts and Testers		IL
 Anson County Schools	Wadesboro	NC	3	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education	44900	NC
 Ansu Construction Inc.	Mineola	NY	6	Civil Engineers	89500	NY
-ANSYS, Inc.	Canonsburg	PA	83	Software Developers; Mechanical Engineers; Electrical Engineers	118300	PA,TX,CA
+ANSYS, Inc.	Canonsburg	PA	64	Software Developers; Mechanical Engineers; Electrical Engineers	118300	PA,TX,CA
 ANSYS, lnc.	Canonsburg	PA	36	Software Developers; Mechanical Engineers; Electrical Engineers	126200	PA,TX,CA
 Ant Technologies U.S., Inc.	Sunnyvale	CA	3	Data Scientists; Computer and Information Research Scientists; Public Relations Specialists	127700	CA,WA
 Antalpha Technologies Inc.	Irvine	CA	1	Information Technology Project Managers		ND
@@ -2823,14 +2823,14 @@ Anthony Brown Pharmacy Inc	Orchard Park	NY	5	Data Scientists; Computer Systems A
 Anthony Salem DDS Inc.	Fairlawn	OH	1	Dentists, General		OH
 Anthony Tucci PHD PLLC	Oak Brook	IL	1	Clinical and Counseling Psychologists		IL
 Anthro Energy	Alameda	CA	5	Chemical Engineers; Mechanical Engineers	121000	CA
-Anthropic, PBC	San Francisco	CA	284	Software Developers; Data Scientists; Financial and Investment Analysts	194800	CA,NY,WA
+Anthropic, PBC	San Francisco	CA	149	Software Developers; Computer and Information Research Scientists; Data Scientists	194800	CA,NY,WA
 Antifragil, Inc.	San Francisco	CA	1	Business Intelligence Analysts		CA
 Antin Infrastructure Partners US Services LLC	New York	NY	2	Investment Fund Managers; Financial and Investment Analysts		NY
 Antin, Ehrlich & Epstein, LLP	New York	NY	1	Paralegals and Legal Assistants		NY
 Antithesis Operations, Llc.	Vienna	VA	2	Software Developers; Computer Programmers		VA
 Anton Paar QuantaTec, Inc.	Boynton Beach	FL	2	Computer and Information Systems Managers; Sales Engineers		FL
 Anton Paar USA, Inc.	Ashland	VA	4	Engineering Technologists and Technicians, Except Drafters, All Other; Mechanical Engineers; Industrial Production Managers	82900	IL,CA
-Antora Energy Inc.	Sunnyvale	CA	8	Energy Engineers, Except Wind and Solar; Mechanical Engineers; Project Management Specialists	130000	SD,CA
+Antora Energy Inc.	Sunnyvale	CA	5	Mechanical Engineers; Project Management Specialists; Energy Engineers, Except Wind and Solar	130000	CA,SD
 Antra, Inc.	Sterling	VA	88	Software Developers; Computer Programmers; Data Scientists	93000	VA,CA,TX
 Anu Software Consultants, Inc.	Ann Arbor	MI	9	Software Developers; Computer Systems Engineers/Architects; Software Quality Assurance Analysts and Testers	104100	MI,FL,PA
 Anuja Ohri-Parikh DMD PC	Lorton	VA	3	Health Informatics Specialists; Management Analysts; Dentists, General		VA
@@ -2899,7 +2899,7 @@ Aperture Companies, LLC	Fort Worth	TX	1	Civil Engineers		TX
 Aperture Group LLC	San Francisco	CA	1	Financial and Investment Analysts		CA
 Aperture Labs Inc.	Waukesha	WI	1	Software Developers		WI
 Aperture Optical Sciences, Inc.	Meriden	CT	1	Photonics Engineers		CT
-Apex Advisory LLC	Rogers	AR	4	Operations Research Analysts		AR
+Apex Advisory LLC	Rogers	AR	2	Operations Research Analysts		AR
 Apex Agent Labs, Inc.	San Mateo	CA	1	Statisticians		CA
 APEX Analytix, LLC	Greensboro	NC	6	Software Developers; Information Technology Project Managers	112000	NC,NJ,FL
 Apex Animal Care PLLC	Matthews	NC	1	Veterinarians		NC
@@ -2907,7 +2907,7 @@ Apex Bait Technologies, Inc.	Santa Clara	CA	1	Zoologists and Wildlife Biologists
 Apex Building Company, LLC	Nashville	TN	2	Cost Estimators		TN
 Apex Clean Energy, Inc.	Charlottesville	VA	1	Electrical Engineers		VA
 Apex Companies, LLC	Rockville	MD	4	Water/Wastewater Engineers; Occupational Health and Safety Specialists	98700	MA,FL,OR
-Apex Compute, Inc.	Los Altos	CA	4	Electronics Engineers, Except Computer	128000	CA
+Apex Compute, Inc.	Los Altos	CA	3	Electronics Engineers, Except Computer	128000	CA
 Apex Dental Fort Wayne LLC	Fort Wayne	IN	1	Dentists, General		IN
 Apex Fintech Services LLC	Dallas	TX	12	Software Developers; Database Architects; Computer and Information Systems Managers	156600	TX,NY,IL
 Apex Healthcare Partners II LLC	Montebello	NY	1	Accountants and Auditors		NY
@@ -2996,11 +2996,11 @@ Apollo Real Estate Capital LLC	Austin	TX	1	Financial and Investment Analysts		TX
 Apollo Technology Solutions Llc.	Falls Church	VA	3	Business Intelligence Analysts; Network and Computer Systems Administrators; Computer Systems Analysts		IN,FL,PA
 Apollomics, Inc.	Foster City	CA	1	Bioinformatics Scientists		CA
 Apollonia Dental LLC	Onalaska	WI	1	Dentists, General		WI
-Apozeal Pharmaceuticals Inc	Levittown	PA	5	Quality Control Analysts; Logistics Engineers	83000	PA
+Apozeal Pharmaceuticals Inc	Levittown	PA	4	Quality Control Analysts; Logistics Engineers	83000	PA
 App Architecture, Inc.	Englewood	OH	1	Architects, Except Landscape and Naval		OH
 App Dynamic Systems LLC	Cranbury	NJ	1	Computer Systems Engineers/Architects		WA
 App Soft Solutions Inc	Wesley Chapel	FL	1	Business Intelligence Analysts		FL
-Appalachian Regional Healthcare, Inc.	Hazard	KY	12	Medical and Clinical Laboratory Technologists; Surgeons, All Other; Physical Therapists	530000	KY,WV
+Appalachian Regional Healthcare, Inc.	Hazard	KY	10	Medical and Clinical Laboratory Technologists; Surgeons, All Other; Physical Therapists	530000	KY,WV
 Appalachian State University	Boone	NC	16	Art, Drama, and Music Teachers, Postsecondary; Criminal Justice and Law Enforcement Teachers, Postsecondary; Communications Teachers, Postsecondary	67700	NC
 Apparatus Consulting Group LLC	Suwanee	GA	1	Computer Systems Analysts		GA
 Apparatus LLC	New York	NY	1	Commercial and Industrial Designers		NY
@@ -3023,7 +3023,7 @@ Applabs Tech Solutions Inc	Houston	TX	2	Software Developers		NC
 Applaura LLC	Sheridan	WY	1	Designers, All Other		WA
 Applause App Quality, Inc.	Framingham	MA	1	Information Technology Project Managers		CA
 Apple American Group LLC	Independence	OH	2	Computer Systems Analysts; Data Scientists		OH
-Apple Inc.	Cupertino	CA	9399	Software Developers; Electronics Engineers, Except Computer; Electrical Engineers	181100	CA,TX,WA
+Apple Inc.	Cupertino	CA	3055	Software Developers; Electronics Engineers, Except Computer; Electrical Engineers	181100	CA,TX,WA
 Apple Payments Services LLC	Austin	TX	11	Software Developers; Architectural and Engineering Managers; Data Scientists	174100	CA,TX,WA
 Apple Processing LLC	Austin	TX	7	Software Developers	160800	NY,NC,TX
 Apple Sentity Independent Productions LLC	Santa Monica	CA	2	Public Relations Specialists; Marketing Managers		CA
@@ -3034,7 +3034,7 @@ Appleton Luff Trade Consulting LLC	Sacramento	CA	1	Compliance Officers		CA
 Applexus Technologies Inc	Federal Way	WA	13	Software Developers; Information Technology Project Managers; Computer Programmers	155000	WA,NH,NV
 Application Consulting Group Inc	Parsippany	NJ	1	Computer Systems Analysts		FL
 Application Engineering Group, Inc.	St. Louis	MO	2	Data Scientists; Database Administrators		MA,MO
-Applications Software Technology LLC	Lisle	IL	15	Operations Research Analysts	124300	LA,MD,CA
+Applications Software Technology LLC	Lisle	IL	3	Operations Research Analysts	124300	LA,MD,CA
 Applications Technology (AppTek), LLC	McLean	VA	1	Software Developers		VA
 Applications Technology Group, Inc.	Norcross	GA	2	Software Developers		GA
 Applied Academics, LLC	New York	NY	2	Statisticians		NY
@@ -3368,7 +3368,7 @@ Ardra Tech Solutions LLC	Columbia	MD	4	Software Developers; Software Quality Ass
 Ardurra Group, Inc.	Miami	FL	24	Civil Engineers; Transportation Engineers; Water/Wastewater Engineers	85000	FL,TX,CA
 Area Engineering, Inc.	North Brunswick	NJ	2	Civil Engineers		NJ
 Arena Care and Wellness, LLC	Boston	MA	1	Medical Assistants		MA
-Arena Intelligence Inc.	San Francisco	CA	15	Computer and Information Research Scientists; Architectural and Engineering Managers; Software Developers	275000	CA
+Arena Intelligence Inc.	San Francisco	CA	7	Computer and Information Research Scientists; Architectural and Engineering Managers; Software Developers	275000	CA
 Arena Investment Management Group, LLC	New York	NY	4	Financial and Investment Analysts	110000	NY
 Arena Service Co, LLC	New York	NY	1	Financial and Investment Analysts		FL
 Arena Technologies, Inc.	New York	NY	3	Computer and Information Research Scientists; Software Developers	185700	NY
@@ -3376,7 +3376,7 @@ ArenaClub.com, Inc.	Los Angeles	CA	4	Software Developers; Financial Managers	175
 ArentFox Schiff LLP	Washington	DC	2	Lawyers		NY,MA
 Ares Capital Management LLC	Los Angeles	CA	3	Financial and Investment Analysts	125000	NY
 Ares Insurance Solutions LLC	Los Angeles	CA	3	Financial Quantitative Analysts; Financial and Investment Analysts; Financial Managers	239000	NY
-Ares Operations, LLC	Los Angeles	CA	29	Financial and Investment Analysts; Accountants and Auditors; Software Developers	155000	NY,CA,CO
+Ares Operations, LLC	Los Angeles	CA	27	Financial and Investment Analysts; Accountants and Auditors; Software Developers	155000	NY,CA,CO
 Arete Biosciences, Inc.	Carlsbad	CA	1	Chemists		CA
 Aretove Inc	New York	NY	1	Computer Programmers		NY
 Arevon Energy, Inc.	Scottsdale	AZ	14	Financial and Investment Analysts; Market Research Analysts and Marketing Specialists; Purchasing Managers	120000	AZ,NY,CA
@@ -3555,7 +3555,7 @@ Arrellio, Inc.	Austin	TX	1	Software Developers		TX
 Arrington Watkins Architects	Phoenix	AZ	1	Architectural and Civil Drafters		AZ
 ARRIS Global Services, Inc.	Richardson	TX	3	Software Developers	107500	MA,TX
 Arrive AI Inc.	Fishers	IN	5	Robotics Engineers; Web and Digital Interface Designers	120000	IN
-Arriver Software LLC	San Diego	CA	402	Software Developers; Electronics Engineers, Except Computer	121400	MI
+Arriver Software LLC	San Diego	CA	6	Electronics Engineers, Except Computer; Software Developers	121400	MI
 Arrivia, Inc.	Scottsdale	AZ	2	Computer and Information Systems Managers; Marketing Managers		WA
 Arrow Electronics, Inc.	Centennial	CO	32	Software Developers; Computer and Information Systems Managers; Computer Network Architects	149000	CO,CA,GA
 Arrow Enterprise Computing Solutions, Inc.	Centennial	CO	3	Information Technology Project Managers; Computer and Information Systems Managers; Software Developers	160300	TX,CO
@@ -3621,8 +3621,8 @@ Artisan AI, Inc.	San Francisco	CA	3	Management Analysts; General and Operations 
 Artisan Consulting, Inc.	Bloomfield Hills	MI	2	Solar Energy Systems Engineers		MI
 Artisan Partners Limited Partnership	Milwaukee	WI	1	Financial and Investment Analysts		NY
 Artisan Screen Printing, Inc.	Azusa	CA	1	Data Scientists		CA
-Artistic Paver Manufacturing, LLC .	Miami	FL	2	Industrial Production Managers		FL
-Artistic Pavers Manufacurers	North Miami	FL	2	Manufacturing Engineers		FL
+Artistic Paver Manufacturing, LLC .	Miami	FL	1	Industrial Production Managers		FL
+Artistic Pavers Manufacurers	North Miami	FL	1	Manufacturing Engineers		FL
 Artius Solutions, LLC	Minnetonka	MN	1	Software Quality Assurance Analysts and Testers		NE
 Artizen, Inc.	Rohnert Park	CA	3	Computer and Information Research Scientists; Mechatronics Engineers		CA
 Artlife Developments NYC, LLC	Brooklyn	NY	1	Financial and Investment Analysts		NY
@@ -3819,7 +3819,7 @@ Asmpt Semi USA Inc	Tempe	AZ	2	Electronics Engineers, Except Computer		AZ
 Asoft Consulting LLC	Aurora	IL	17	Software Quality Assurance Analysts and Testers; Information Technology Project Managers; Software Developers	92000	IL,TX,NY
 Asolar Technologies, Inc.	Del Rey Oaks	CA	1	Mechanical Engineers		CA
 Asp Diverse Inc	Middleton	WI	4	Software Developers; Computer Programmers	92200	WI
-ASP Personnel Services Inc.	Pennsauken	NJ	2	Computer Systems Analysts		NJ
+ASP Personnel Services Inc.	Pennsauken	NJ	1	Computer Systems Analysts		NJ
 Aspect Management Corporation	Denver	CO	1	Geoscientists, Except Hydrologists and Geographers		CO
 Aspen Aerogels Rhode Island LLC	Northborough	MA	3	Quality Control Systems Managers; Financial Managers; Management Analysts	204300	RI
 Aspen Aerogels, Inc.	Northborough	MA	2	Industrial Engineers; Supply Chain Managers		MA,RI
@@ -3875,7 +3875,7 @@ ASSE International, Inc.	Laguna Beach	CA	2	Social and Community Service Managers
 Assemble Platforms Inc.	San Mateo	CA	4	Software Developers; Graphic Designers	202500	CA
 Assent Solutions LLC	Katy	TX	1	Software Developers		SC
 Asset Allocation and Management Company, LLC	Chicago	IL	1	Financial and Investment Analysts		IL
-Asset Builders LLC	Miramar	FL	6	Civil Engineers; Construction Managers	60000	FL
+Asset Builders LLC	Miramar	FL	3	Civil Engineers; Construction Managers	60000	FL
 Asset Health, Inc	Troy	MI	3	Software Developers	84100	MI
 Asset Inventories, Inc.	New York	NY	2	Network and Computer Systems Administrators; Human Resources Specialists		NY,NJ
 Asset Management & Analyst Corp.	Somerset	NJ	2	Accountants and Auditors; Information Technology Project Managers		NJ
@@ -4095,7 +4095,7 @@ Atlas Design Group Inc.	Seattle	WA	1	Civil Engineers		WA
 Atlas Engineering Group, Ltd	Deerfield	IL	2	Civil Engineers		IL
 Atlas Facilities Maintenance Inc	Portland	OR	1	Information Security Engineers		OR
 Atlas Fibre LLC	Northbrook	IL	1	Manufacturing Engineers		IL
-Atlas Healthcare, LLC	Irondale	AL	50	Registered Nurses; Critical Care Nurses		NE
+Atlas Healthcare, LLC	Irondale	AL	5	Registered Nurses; Critical Care Nurses		NE
 Atlas Info Way, Inc.	Clarksburg	MD	5	Computer Systems Analysts; Software Quality Assurance Analysts and Testers; Data Scientists		NJ,MN,TX
 Atlas Labs Inc.	Las Vegas	NV	1	Software Developers		VA
 Atlas Lantz Architects, Inc.	Pasadena	CA	1	Architects, Except Landscape and Naval		CA
@@ -4182,7 +4182,7 @@ Atypon Systems, LLC	Hoboken	NJ	1	Information Technology Project Managers		NJ
 AU Medical Center, Inc.	Augusta	GA	1	Medical and Clinical Laboratory Technologists		GA
 Aubergine and Company Corp	Orem	UT	1	General and Operations Managers		UT
 Auburn Apothecary LLC	Auburn	MA	2	Regulatory Affairs Specialists		MA
-Auburn Community Hospital	Auburn	NY	2	Registered Nurses		NY
+Auburn Community Hospital	Auburn	NY	1	Registered Nurses		NY
 Auburn University	Auburn	AL	35	Engineering Teachers, Postsecondary; Business Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary	80000	AL,CA
 Auburn University at Montgomery	Montgomery	AL	4	Computer Science Teachers, Postsecondary; Art, Drama, and Music Teachers, Postsecondary; Chemistry Teachers, Postsecondary	80700	AL
 Auburn-Washburn USD 437	Topeka	KS	1	Secondary School Teachers, Except Special and Career/Technical Education		KS
@@ -4202,7 +4202,7 @@ AudioCodes, Inc.	Piscataway	NJ	2	Sales Engineers; Computer Occupations, All Othe
 Auditoria.AI, Inc.	Santa Clara	CA	3	Data Scientists; Software Developers	123500	CA
 Audubon Companies LLC	Houston	TX	3	Electrical Engineers; Chemical Engineers; Data Scientists	140000	LA,TX,PA
 Augean Robotics, Inc.	Philadelphia	PA	2	Architectural and Engineering Managers; Robotics Engineers		PA
-Auger, Inc.	Bellevue	WA	79	Software Developers; Information Security Analysts; Operations Research Analysts	200000	WA
+Auger, Inc.	Bellevue	WA	22	Software Developers; Operations Research Analysts; Management Analysts	200000	WA
 Augment Computing, Inc.	Palo Alto	CA	3	Software Developers	255000	CA,MA
 Augmentare Inc	Chantilly	VA	3	Data Scientists; Software Developers	101400	VA,AZ
 Augmented Reality Concepts, Inc.	Syracuse	NY	2	Software Developers		NY
@@ -4211,7 +4211,7 @@ August Bioservices, LLC	Nashville	TN	11	Chemists; Natural Sciences Managers; Qua
 August Consulting Inc	Reston	VA	1	Business Intelligence Analysts		VA
 August Innovations Corporation	New York	NY	1	Management Analysts		NY
 August IT LLC	Ashburn	VA	2	Software Developers; Computer Programmers		VA
-Augusta Health Care, Inc.	Fishersville	VA	4	Physicians, All Other		VA
+Augusta Health Care, Inc.	Fishersville	VA	2	Physicians, All Other		VA
 Augusta Hitech Soft Solutions, LLC	Plano	TX	6	Software Developers	92900	TX,OH,NC
 Augusta Life Sciences US OpCo I LLC	Milford	MA	17	Industrial Engineers; Software Developers; Bioengineers and Biomedical Engineers	141000	CA,MD,NC
 Augusta Medical Group	Fishersville	VA	2	Physicians, All Other		VA
@@ -4335,7 +4335,7 @@ Autoliv ASP Inc.	Auburn Hills	MI	12	Automotive Engineers; Mechanical Engineers; 
 Automann, Inc.	Monroe Township	NJ	9	Mechanical Engineers; Industrial Engineers; Purchasing Agents, Except Wholesale, Retail, and Farm Products	90100	NJ,TX,GA
 Automate IT Inc	Nashville	TN	1	Software Developers		TX
 Automated Benefit Services, Inc.	St. Louis	MO	1	Software Developers		NJ
-Automated Building Management Systems, Inc.	Floral Park	NY	3	Cost Estimators; Computer Occupations, All Other		NY
+Automated Building Management Systems, Inc.	Floral Park	NY	2	Computer Occupations, All Other; Cost Estimators		NY
 Automated Engineering Services, Inc.	Oceanside	CA	2	Biological Scientists, All Other; Chemists		CA
 Automated Industrial Machinery, Inc.	Tampa	FL	1	Electro-Mechanical and Mechatronics Technologists and Technicians		FL
 Automated Industrial Robotics Rochester Hills, Inc.	Rochester Hills	MI	1	Robotics Engineers		MI
@@ -4384,7 +4384,7 @@ Ava Enterprises, Inc.	Oxnard	CA	3	Data Scientists; Business Intelligence Analyst
 Ava Labs, Inc.	New York	NY	2	Software Developers; Computer and Information Systems Managers		NY,NJ
 Ava Software, Inc.	Blue Bell	PA	6	Database Architects; Software Developers; Information Security Analysts	105000	PA
 Avaap USA LLC	Columbus	OH	1	Data Scientists		OH
-Avago Technologies US Inc.	Palo Alto	CA	61	Electronics Engineers, Except Computer; Software Developers; Materials Engineers	200800	CA,CO,PA
+Avago Technologies US Inc.	Palo Alto	CA	13	Electronics Engineers, Except Computer; Materials Engineers; Software Developers	200800	CA,PA,CO
 Avails Medical, Inc.	Menlo Park	CA	1	Logistics Engineers		CA
 Avalanche Technologies LLC	Irving	TX	13	Software Developers; Network and Computer Systems Administrators; Software Quality Assurance Analysts and Testers		TX,FL,GA
 Avalara, Inc.	Durham	NC	8	Software Developers; Data Scientists; Information Technology Project Managers	207800	WA,NY,CA
@@ -4410,7 +4410,7 @@ AvanSight, Inc.	Tustin	CA	1	Graphic Designers		NJ
 Avant Communications, LLC	Chicago	IL	1	Software Developers		NC
 Avant Garde Academy Inc.	Kissimmee	FL	4	Secondary School Teachers, Except Special and Career/Technical Education	53300	FL
 Avant Garde Contractors LLC	Cedar City	UT	1	Property, Real Estate, and Community Association Managers		UT
-Avant Healthcare Professionals, LLC.	Maitland	FL	124	Registered Nurses		MT,TN,VA
+Avant Healthcare Professionals, LLC.	Maitland	FL	26	Registered Nurses		TN,MT,VA
 Avant Management, LLC	Charlotte	NC	1	Computer Occupations, All Other		NC
 Avant Sys Inc	Irving	TX	9	Computer Programmers	99000	TX
 Avant Systems, Inc.	Irving	TX	9	Software Developers; Computer Programmers; Management Analysts	112900	TX,NC,GA
@@ -4436,7 +4436,7 @@ Aven Hospitality	Frisco	TX	4	Software Developers; Market Research Analysts and M
 Aven Hospitality Solutions PTE. LTD.	Frisco	TX	1	Software Developers		NC
 Avenir Associates, Inc.	Piscataway	NJ	1	Software Quality Assurance Analysts and Testers		TX
 Aventail Capital Group, LP	New York	NY	2	Operations Research Analysts		NY
-AVEnterprise, Inc	Cumming	GA	17	Software Developers; Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators	103400	DC,GA,VA
+AVEnterprise, Inc	Cumming	GA	16	Software Developers; Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators	103400	DC,VA,IL
 Aventiqo Llc.	Austin	TX	1	Information Technology Project Managers		IL
 Aventix Medical, Inc.	Laguna Hills	CA	2	Mechanical Engineers		CA
 Aventure Systems LLC	Grand Rapids	MI	11	Software Developers; Software Quality Assurance Analysts and Testers; Computer Programmers	112900	TX,NC,VA
@@ -4705,7 +4705,7 @@ Bandai Namco Entertainment America, Inc.	Irvine	CA	1	Network and Computer System
 Bandi & Associates PLLC	Astoria	NY	2	Judicial Law Clerks		NY
 Bank Of America Corporation	Charlotte	NC	1	Software Developers		TX
 Bank Of America N.A.	Charlotte	NC	389	Software Developers; Financial Quantitative Analysts; Financial and Investment Analysts	153800	NC,NJ,TX
-Barbara Ann Karmanos Cancer Institute	Detroit	MI	12	Physicians, All Other; Medical and Health Services Managers; Healthcare Diagnosing or Treating Practitioners, All Other		MI,OH
+Barbara Ann Karmanos Cancer Institute	Detroit	MI	4	Physicians, All Other; Medical and Health Services Managers; Healthcare Diagnosing or Treating Practitioners, All Other		MI,OH
 Bard, Rao & Athanas Consulting Engineers, LLC	Boston	MA	2	Mechanical Engineers; Electrical Engineers		FL,MA
 Bargmann Hendrie Archetype, Inc.	Boston	MA	1	Interior Designers		MA
 Barn Owl Precision Agriculture Inc.	La Junta	CO	1	Mechanical Engineers		CO
@@ -4738,7 +4738,7 @@ BC Partners Advisors L.P.	New York	NY	5	Financial and Investment Analysts; Accou
 BCS Automotive Interface Solutions US, LLC	Farmington Hills	MI	5	Software Developers; Architectural and Engineering Managers; Project Management Specialists	120300	MI
 BDE Architecture, Inc.	San Francisco	CA	2	Architects, Except Landscape and Naval		IL
 BDO Capital Advisors, LLC	Chicago	IL	1	Financial and Investment Analysts		CA
-BEA Architects Inc.	Miami	FL	3	Architectural and Civil Drafters; Market Research Analysts and Marketing Specialists		FL
+BEA Architects Inc.	Miami	FL	2	Market Research Analysts and Marketing Specialists; Architectural and Civil Drafters		FL
 Beals Cunningham Advertising Agency, Inc.	Oklahoma City	OK	1	Software Developers		OK
 Beckeman, Misra, Kakuda & Associates, LLC	Romulus	MI	3	Software Developers; Data Scientists	103100	IN,ID
 Beckhoff Automation LLC	Savage	MN	1	Mechanical Engineers		MN
@@ -5002,7 +5002,7 @@ Catalyst Acoustics Holdings, Inc.	Agawam	MA	1	Market Research Analysts and Marke
 Cathay Pacific Airways Limited	New York	NY	5	Mechanical Engineers	120000	NY,AK,CA
 Catholic Diocese of Arlington	Arlington	VA	1	Clergy		VA
 Catterton Latin America Management Co.	New York	NY	1	Financial and Investment Analysts		NY
-Cayuga Medical Associates, P.C.	Ithaca	NY	10	Physicians, All Other; Family Medicine Physicians; Neurologists	299700	NY
+Cayuga Medical Associates, P.C.	Ithaca	NY	9	Physicians, All Other; Neurologists; Family Medicine Physicians	299700	NY
 CBIZ Accounting Tax Advisory LLC	West Conshohocken	PA	1	Accountants and Auditors		PA
 CBIZ Accounting, Tax & Advisory of Kansas City, LLC	Kansas City	MO	1	Accountants and Auditors		MO
 CBIZ Accounting, Tax & Advisory of New England, LLC	Boston	MA	4	Accountants and Auditors	120100	MA
@@ -5022,10 +5022,10 @@ Central Massachusetts Area Health Education Center, Inc.,	Worcester	MA	1	Interpr
 Central Service Association	Tupelo	MS	1	Software Developers		MS
 Centre for the Governance of AI, Inc.	New York	NY	1	Training and Development Managers		DC
 Century Aluminum Company	Chicago	IL	3	Software Developers; Information Security Engineers	103300	TN
-CEP America – Washington, PLLC	Emeryville	CA	2	General Internal Medicine Physicians		WA
+CEP America – Washington, PLLC	Emeryville	CA	1	General Internal Medicine Physicians		WA
 CEP America-California	Emeryville	CA	2	General Internal Medicine Physicians		CA
 CEP America-Illinois Intensivists, LLP	Emeryville	CA	2	Physicians, All Other		IL
-CEP America-Pennsylvania, LLC	Emeryville	CA	4	General Internal Medicine Physicians		PA
+CEP America-Pennsylvania, LLC	Emeryville	CA	2	General Internal Medicine Physicians		PA
 Cerberus Operations & Advisory Company, LLC	New York	NY	1	Financial Quantitative Analysts		NY
 Certain Affinity, Inc.	Austin	TX	3	Special Effects Artists and Animators	100000	TX
 CetraRuddy Architecture DPC	New York	NY	7	Architectural and Civil Drafters; Interior Designers	80000	NY
@@ -5235,7 +5235,7 @@ Consolidated Analytics Inc	Santa Ana	CA	2	Computer and Information Systems Manag
 CONSOR North America, Inc.	Miami	FL	15	Civil Engineers; Water/Wastewater Engineers; Transportation Engineers	84700	TX,CO,AZ
 Constella App, Inc	San Mateo	CA	1	Web and Digital Interface Designers		CA
 Constellium Automotive USA LLC	Van Buren Township	MI	1	Industrial Engineers		MI
-Consult America Inc	Hagerstown	MD	12	Computer Systems Analysts; Software Developers; Computer Programmers	78000	MD
+Consult America Inc	Hagerstown	MD	7	Computer Systems Analysts; Software Developers; Computer Programmers	78000	MD
 CONTEC Americas Inc.	Melbourne	FL	1	Software Quality Assurance Analysts and Testers		FL
 Contemporary Amperex Technology Kentucky LLC	Glasgow	KY	2	Mechanical Engineers; Bookkeeping, Accounting, and Auditing Clerks		MI,TN
 Contemporary Amperex Technology USA Inc.	Auburn Hills	MI	4	Sales Engineers; Mechanical Engineers; Information Technology Project Managers	116400	MI
@@ -5284,7 +5284,7 @@ CPM Acquisition Corporation	Blaine	MN	1	Logistics Analysts		CA
 CPPIB America, Inc.	New York	NY	1	Financial and Investment Analysts		NY
 Cranium AI, Inc.	Short Hills	NJ	3	Data Scientists; Computer and Information Research Scientists	142000	TX,FL
 Crater District Area Agency on Aging	Petersburg	VA	1	Executive Secretaries and Executive Administrative Assistants		VA
-Crawford Architects, LLC	Kansas City	MO	2	Architects, Except Landscape and Naval		MO
+Crawford Architects, LLC	Kansas City	MO	1	Architects, Except Landscape and Naval		MO
 CRC Associates Inc	South Plainfield	NJ	1	Validation Engineers		NJ
 Create Advertising Group, LLC	Los Angeles	CA	1	Graphic Designers		CA
 Create World North America Real Estate Inc.	Bellevue	WA	2	Financial and Investment Analysts		WA
@@ -5407,7 +5407,7 @@ Degesch America Inc	Weyers Cave	VA	2	Occupational Health and Safety Specialists	
 Del Amo Construction, Inc.	Torrance	CA	1	Civil Engineers		CA
 Delaware North America LLC	Dallas	TX	4	Computer Systems Engineers/Architects; Software Developers; Software Quality Assurance Analysts and Testers	190000	TX,NC,CA
 Delivery Associates Ltd	Washington	DC	2	Management Analysts		MA,FL
-Deloitte Transactions and Business Analytics LLP	Philadelphia	PA	56	Information Security Analysts; Operations Research Analysts; Financial and Investment Analysts	139700	NY,TX,TN
+Deloitte Transactions and Business Analytics LLP	Philadelphia	PA	28	Information Security Analysts; Operations Research Analysts; Financial and Investment Analysts	139700	NY,TX,TN
 Delta Air Lines, Inc.	Atlanta	GA	32	Software Developers; Information Technology Project Managers; Business Intelligence Analysts	141600	GA,MN
 Delta Electronics (Americas) Ltd.	Fremont	CA	28	Electronics Engineers, Except Computer; Mechanical Engineers; Market Research Analysts and Marketing Specialists	115500	CA,NC,WA
 DeMarche Associates, Inc.	Overland Park	KS	1	Financial Quantitative Analysts		KS
@@ -5623,8 +5623,8 @@ Encore Automation, LLC	Auburn Hills	MI	2	Electrical Engineers; Information Techn
 Endometriosis Foundation Of America Inc	New York	NY	2	Medical Scientists, Except Epidemiologists		NY
 Endress Hauser Optical Analysis Inc	Rancho Cucamonga	CA	1	Software Developers		CA
 Enel North America Inc.	Andover	MA	1	Data Scientists		CA
-Energized for Excellence Academy, Inc.	Houston	TX	10	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	60000	TX
-Energized for STEM Academy, Inc.	Houston	TX	15	Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	60000	TX
+Energized for Excellence Academy, Inc.	Houston	TX	8	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	60000	TX
+Energized for STEM Academy, Inc.	Houston	TX	5	Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	60000	TX
 Energy Ventures Analysis, Inc.	Vienna	VA	3	Economists; Financial and Investment Analysts	121000	VA
 Enfinity Global Administration LLC	Miami	FL	1	Financial and Investment Analysts		FL
 ENGIE North America, Inc.	Houston	TX	6	Operations Research Analysts; Electrical Engineers; Financial and Investment Analysts	100700	TX,CA
@@ -5840,7 +5840,7 @@ FTAI Aviation LLC	New York	NY	1	Financial and Investment Analysts		NY
 Fuji Electric Corp. of America	Edison	NJ	1	Construction Managers		CA
 FUJIFILM Healthcare Americas Corporation	Lexington	MA	5	Software Developers; Computer and Information Systems Managers; Training and Development Specialists	113900	NC,FL,WI
 FUJIFILM North America Corporation	Valhalla	NY	1	Information Technology Project Managers		NY
-Fujitsu North America, Inc.	Dallas	TX	462	Software Developers; Management Analysts; Database Administrators	118700	TX,NY,MA
+Fujitsu North America, Inc.	Dallas	TX	83	Software Developers; Management Analysts; Database Administrators	118700	TX,IN,MA
 Fujitsu Research of America, Inc.	Santa Clara	CA	3	Computer and Information Research Scientists	118800	PA
 Fulcrum Analytics, Inc.	New York	NY	1	Data Scientists		NY
 Fullerton Animal Care LLC	Fullerton	CA	1	Veterinarians		CA
@@ -6092,13 +6092,13 @@ Hana Factory Automation Corporation	LaGrange	GA	1	Electrical Engineers		GA
 Hanabi AI Inc.	San Francisco	CA	2	Data Scientists		CA
 Handel Architects LLP	New York	NY	10	Architects, Except Landscape and Naval; Interior Designers	83800	CA,NY
 Hands-On America Services, Inc.	Billerica	MA	1	Market Research Analysts and Marketing Specialists		MA
-Hang & Associates, PLLC	Flushing	NY	8	Judicial Law Clerks	85500	NY
+Hang & Associates, PLLC	Flushing	NY	6	Judicial Law Clerks	85500	NY
 Hanker Analytics Inc	Pleasanton	CA	1	Computer Systems Analysts		CA
 Hanlon Architects, D.P.C	Rochester	NY	1	Architects, Except Landscape and Naval		NY
 Hannon Armstrong Capital, LLC	Annapolis	MD	4	Financial Quantitative Analysts; Financial and Investment Analysts	132500	NY,MD
 Hanon Systems Alabama Corporation	Shorter	AL	6	Accountants and Auditors; Budget Analysts; Software Developers	66600	GA,AL
 Hansen Technologies North America Inc.	Carlsbad	CA	1	Software Developers		CA
-Hanshow America Inc	Plano	TX	5	Sales Engineers; Computer Programmers; Financial Specialists, All Other	93000	TX
+Hanshow America Inc	Plano	TX	4	Sales Engineers; Computer Programmers; Financial Specialists, All Other	93000	TX
 Hanul Family Alliance	Chicago	IL	1	Community and Social Service Specialists, All Other		IL
 Hanwha Advanced Materials America LLC	Opelika	AL	1	Financial and Investment Analysts		AL
 Hanwha Aerospace USA	Cheshire	CT	2	Aerospace Engineering and Operations Technologists and Technicians		CT
@@ -6286,14 +6286,14 @@ HUSCO Automotive Holdings, LLC	Whitewater	WI	4	Mechanical Engineers; Industrial 
 HVJ Associates, Inc	Houston	TX	1	Civil Engineers		TX
 Hwashin America Corporation	Greenville	AL	1	Industrial Engineers		AL
 HWKN Architecture DPC	New York	NY	1	Interior Designers		NY
-Hy Line Dental Associates PC	Naperville	IL	2	Dentists, General		IL
+Hy Line Dental Associates PC	Naperville	IL	1	Dentists, General		IL
 Hyannis Air Service, Inc	Hyannis	MA	1	Airline Pilots, Copilots, and Flight Engineers		MT
 Hypha AI Inc.	New York	NY	1	Web and Digital Interface Designers		NY
 Hyro AI Inc	New York	NY	2	Software Developers; Information Technology Project Managers		NY
 Hyundai America Technical Center Inc.	Superior Township	MI	5	Automotive Engineers; Commercial and Industrial Designers	113400	MI,CA
 Hyundai America, Inc.	Fort Lee	NJ	1	Civil Engineers		LA
 Hyundai AutoEver America, LLC	Fountain Valley	CA	14	Software Developers; Business Intelligence Analysts; Network and Computer Systems Administrators	130000	CA,GA,AL
-Hyundai Capital America	Newport Beach	CA	53	Information Technology Project Managers; Database Architects	170000	CA,TX,MI
+Hyundai Capital America	Newport Beach	CA	5	Information Technology Project Managers; Database Architects	170000	CA,TX,MI
 Hyundai Wia Machine America	Carlstadt	NJ	1	Accountants and Auditors		NJ
 I Attract, LLC	Miami Lakes	FL	1	Marketing Managers		FL
 I Squared Capital Advisors (US) LLC	Miami	FL	8	Financial and Investment Analysts; Financial Managers	175000	FL
@@ -6316,7 +6316,7 @@ Idemia America Corp.	Chantilly	VA	2	Electronics Engineers, Except Computer; Netw
 Identity and Access Solutions LLC	Sterling	VA	1	Information Security Engineers		TX
 IDG Architects Partners, Inc	Houston	TX	1	Architects, Except Landscape and Naval		TX
 IDIS Americas Inc.	Coppell	TX	1	Market Research Analysts and Marketing Specialists		TX
-Iditarod Area School Disctrict	Mcgrath	AK	6	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		AK
+Iditarod Area School Disctrict	Mcgrath	AK	2	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		AK
 Iditarod Area School District	McGrath	AK	4	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education		AK
 IES Alabama PLLC	Dallas	TX	1	Emergency Medicine Physicians		AL
 IFA ROTORION- North America LLC	Summerville	SC	2	Industrial Engineers		SC
@@ -6452,7 +6452,7 @@ Jackson Square Aviation, LLC	San Francisco	CA	1	Financial and Investment Analyst
 Jacobs Associates	Seattle	WA	3	Civil Engineers	93600	NY,MD
 JAD & Associates LLC	Anaheim	CA	4	Electronics Engineers, Except Computer; Mechanical Engineers; Electrical Engineers		CA
 Jahani and Associates Inc	New York	NY	1	Financial and Investment Analysts		NY
-Jahn Architecture Inc.	Chicago	IL	4	Architects, Except Landscape and Naval		IL
+Jahn Architecture Inc.	Chicago	IL	2	Architects, Except Landscape and Naval		IL
 JAKA Americas LLC	New York	NY	1	Sales Engineers		IL
 Jamco America, Inc.	Everett	WA	1	Architectural and Engineering Managers		WA
 James A. Rhodes State College	Lima	OH	2	Physics Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary		OH
@@ -6616,7 +6616,7 @@ Kim, Song & Associates, PLLC	New York	NY	2	Judicial Law Clerks		MA
 Kimberley Ag Consulting LLC	Maxwell	IA	2	Mechanical Engineers		IA
 Kimley-Horn and Associates, Inc.	Raleigh	NC	11	Civil Engineers; Urban and Regional Planners; Electrical Engineers	90000	FL,VA,WA
 Kinetic Automation, Inc.	Costa Mesa	CA	2	Software Developers		CA
-King Automation Inc.	Roebuck	SC	3	Mechatronics Engineers; Electrical Engineers		SC
+King Automation Inc.	Roebuck	SC	2	Mechatronics Engineers; Electrical Engineers		SC
 Kingdom Ag Concepts, Inc.	Bremen	IN	1	Electrical Engineers		IN
 Kingsley Place Adult Health Day Care	Los Angeles	CA	1	Healthcare Social Workers		CA
 KingsRock Advisors, LLC	New York	NY	1	Financial and Investment Analysts		NY
@@ -6862,7 +6862,7 @@ Luca Ai, LLC	Gibsonia	PA	1	Software Developers		PA
 Lucas County Auditor	Toledo	OH	1	Computer Network Support Specialists		OH
 Lucidic AI, Inc	San Francisco	CA	1	Software Developers		CA
 Lucky Stars Adult Day Health Care Center Inc	Rowland Heights	CA	1	Healthcare Social Workers		CA
-Luma AI, Inc.	Redwood City	CA	34	Computer and Information Research Scientists; Software Developers; Computer Systems Engineers/Architects	187500	CA,WA,NY
+Luma AI, Inc.	Redwood City	CA	27	Computer and Information Research Scientists; Software Developers; Computer Systems Engineers/Architects	187500	CA,WA,NY
 Lumen Architecture, PLLC	New York	NY	1	Commercial and Industrial Designers		NY
 Lumina AI Labs Inc.	Danville	CA	1	Software Developers		CA
 Lumix Advertising, Inc.	Davie	FL	1	Market Research Analysts and Marketing Specialists		FL
@@ -6890,7 +6890,7 @@ Maba Aero LLC	Pompano Beach	FL	2	Graphic Designers		FL
 MAC Automation, Inc.	The Woodlands	TX	1	Electrical Engineers		TX
 Mace North America Ltd	New York	NY	23	Cost Estimators; Project Management Specialists; Financial Risk Specialists	157000	NY,OH,CA
 Machado and Silvetti Associates, Inc.	Boston	MA	1	Architectural and Civil Drafters		MA
-Macquarie America Holdings Inc.	New York	NY	8	Financial and Investment Analysts; Financial Quantitative Analysts	180000	NY
+Macquarie America Holdings Inc.	New York	NY	6	Financial and Investment Analysts; Financial Quantitative Analysts	180000	NY
 Macquarie Asset Management US Inc.	New York	NY	9	Financial and Investment Analysts; Accountants and Auditors; Management Analysts	165000	NY,FL
 Macquarie Investment Management Advisers	Philadelphia	PA	4	Information Technology Project Managers; Accountants and Auditors; Software Developers	113500	PA,FL
 Madison Avenue Partners, LP	New York	NY	2	Financial and Investment Analysts		NY
@@ -6977,10 +6977,10 @@ Massachusetts Eye and Ear Associates	Somerville	MA	1	Medical Scientists, Except 
 Massachusetts Port Authority	East Boston	MA	1	Operations Research Analysts		MA
 Massachusetts School Building Authority	Boston	MA	1	Architects, Except Landscape and Naval		MA
 Massachusetts Teachers Association	Quincy	MA	1	Operations Research Analysts		MA
-Mastech Digital Alliances, Inc.	Moon Township	PA	6	Software Developers		TX
+Mastech Digital Alliances, Inc.	Moon Township	PA	1	Software Developers		TX
 Master Prep Academy LLC	Irvine	CA	2	Educational, Guidance, and Career Counselors and Advisors		CA
 Match Group Americas, LLC	Dallas	TX	10	Software Developers; Business Intelligence Analysts; Data Scientists	158800	TX,CA,NY
-Mater Academy INC	Hialeah Gardens	FL	2	Elementary School Teachers, Except Special Education		FL
+Mater Academy INC	Hialeah Gardens	FL	1	Elementary School Teachers, Except Special Education		FL
 Materne North America, Corp.	New York	NY	2	Industrial Engineers		MI
 Mateu Architecture Inc.	Miami	FL	1	Architects, Except Landscape and Naval		FL
 Math Engineering and Science Academy Charter High School Links Inc.	Brooklyn	NY	1	Human Resources Specialists		NY
@@ -7030,7 +7030,7 @@ Meggitt Aircraft Braking System Corporation	Akron	OH	1	Mechanical Engineers		OH
 Meggitt Aircraft Braking Systems Corporation	Akron	OH	1	Mechanical Engineers		OH
 Megha Agrawal DDS PLLC	Morresville	NC	1	Dentists, General		NC
 MEI Architects	San Francisco	CA	1	Architects, Except Landscape and Naval		CA
-Meier Architects D.P.C.	New York	NY	2	Architects, Except Landscape and Naval		NY
+Meier Architects D.P.C.	New York	NY	1	Architects, Except Landscape and Naval		NY
 Meiji Yasuda America Incorporated	New York	NY	1	Financial and Investment Analysts		NY
 MEKRA Lang North America, LLC	Ridgeway	SC	1	Industrial Engineers		SC
 Melius Advisory, Inc	Rego Park	NY	1	Management Analysts		NY
@@ -7061,7 +7061,7 @@ MeshOS AI Teammate, Inc.	Bellevue	WA	1	Mechanical Engineers		WA
 Messer North America, Inc.	Bridgewater	NJ	6	Software Developers; Data Scientists; Electrical Engineers	142500	TX,NJ
 Methodist Associates in Healthcare, Inc.	Philadelphia	PA	3	Healthcare Practitioners and Technical Workers, All Other; Radiologists	77800	PA
 Metro Architecture Partnership, Inc.	Orlando	FL	1	Architectural and Civil Drafters		FL
-Metro Athletic Medicine and Fitness, P.C.	Louisville	KY	16	Physical Therapists	80000	NY
+Metro Athletic Medicine and Fitness, P.C.	Louisville	KY	14	Physical Therapists	80000	NY
 Metro Medical Associates, LLC	Alpharetta	GA	1	Family Medicine Physicians		GA
 Metronet Associates, LLC	Overland Park	KS	5	Software Developers	97300	IN,IL
 Metropolitan Area Planning Council	Boston	MA	1	Urban and Regional Planners		MA
@@ -7104,7 +7104,7 @@ Mirae Asset Global Investments (USA) LLC	New York	NY	1	Financial and Investment 
 Mirae Asset Securities (USA) Inc.	New York	NY	1	Financial and Investment Analysts		NY
 Mirani Bagdai Thakkar Associates LLC	Fairfield	NJ	4	Accountants and Auditors	73100	NJ
 Miscellaneous Architectural and Structural Metals INC	Union City	CA	1	Cost Estimators		CA
-Mission Achievement and Success Charter School	Albuquerque	NM	23	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	69300	NM
+Mission Achievement and Success Charter School	Albuquerque	NM	13	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	69300	NM
 Mississippi Symphony Orchestra Association	Jackson	MS	1	Elementary School Teachers, Except Special Education		MS
 Missouri Annual Conference of the United Methodist Church	Columbia	MO	1	Clergy		MO
 Missouri Military Academy	Mexico	MO	1	Educational, Guidance, and Career Counselors and Advisors		MO
@@ -7176,7 +7176,7 @@ Mount Airy City Schools	Mt. Airy	NC	1	Elementary School Teachers, Except Special
 Mount Auburn Hospital	Charlestown	MA	4	General Internal Medicine Physicians; Medical and Clinical Laboratory Technicians; Medical and Clinical Laboratory Technologists	87800	MA
 Mountain America Federal Credit Union	Sandy	UT	3	Computer Systems Analysts; Financial Managers	152000	UT
 Mountain Artisan Company Limited	Steamboat Springs	CO	1	Civil Engineers		CO
-Mountain View Tennis Academy LLC	Mountain View	CA	2	Coaches and Scouts		CA
+Mountain View Tennis Academy LLC	Mountain View	CA	1	Coaches and Scouts		CA
 Moxie Lighting Agency Inc.	Somers	NY	1	Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products		NY
 Moyee Art LLC	Boston	MA	3	Instructional Coordinators		MA
 Mp Engineers And Architects, P.C.	New York	NY	9	Landscape Architects; Civil Engineers; Architects, Except Landscape and Naval	78800	NY
@@ -7194,7 +7194,7 @@ Mueller Yurgae Associates	Grimes	IA	1	Business Intelligence Analysts		KS
 MUFG Securities Americas, Inc.	New York	NY	1	Software Developers		NY
 Muhammad A. Khan P.a	Catonsville	MD	2	Business Intelligence Analysts; Management Analysts		MD
 Multilingual Therapy Associates, Inc.	Whitehouse Station	NJ	1	Speech-Language Pathologists		NY
-Multiway Robotics America Inc.	Duluth	GA	2	Computer Systems Engineers/Architects		GA
+Multiway Robotics America Inc.	Duluth	GA	1	Computer Systems Engineers/Architects		GA
 Munich Airport NJ LLC	Newark	NJ	1	Data Scientists		NJ
 Munich American Reassurance Company	Atlanta	GA	3	Actuaries; Information Security Analysts	159000	NY
 Munich Re America Services, Inc.	Princeton	NJ	12	Software Developers; Information Technology Project Managers; Database Architects	156200	OH,NY,CT
@@ -7255,7 +7255,7 @@ NDH Advisors LLC	Chicago	IL	1	Accountants and Auditors		MD
 Near Earth Autonomy	Pittsburgh	PA	8	Robotics Engineers; Software Developers	112800	PA
 Nebo Agency LLC	Atlanta	GA	3	Web Developers; Market Research Analysts and Marketing Specialists	77000	GA
 Nec Corporation Of America	Irving	TX	3	Software Quality Assurance Analysts and Testers; Software Developers; Network and Computer Systems Administrators	140000	CA,TX
-NEC Laboratories America, Inc.	Princeton	NJ	13	Computer and Information Research Scientists	164400	CA,NJ
+NEC Laboratories America, Inc.	Princeton	NJ	7	Computer and Information Research Scientists	164400	NJ,CA
 Necedah Area School District	Necedah	WI	1	Middle School Teachers, Except Special and Career/Technical Education		WI
 Neelkanth Abajee Management Inc	Sycamore	IL	1	General and Operations Managers		IL
 Nelson\Nygaard Consulting Associates	Chicago	IL	1	Data Scientists		NY
@@ -7467,10 +7467,10 @@ Omaha-Council Bluffs Metropolitan Area Planning Agency	Omaha	NE	1	Geographic Inf
 Omega Alpha Academy	Douglas	AZ	2	Middle School Teachers, Except Special and Career/Technical Education		AZ
 OMER North America Corporation	Sterling Heights	MI	1	Logistics Engineers		MI
 Omni Apparatech, Inc.	Grandview	MO	1	Operations Research Analysts		MO
-OMR North America, Inc.	Speedway	IN	2	Industrial Engineers		IN
+OMR North America, Inc.	Speedway	IN	1	Industrial Engineers		IN
 Omron Management Center of America, Inc.	Hoffman Estates	IL	1	Robotics Engineers		CA
 OMV America, LLC.	Houston	TX	1	Management Analysts		FL
-Onal Gallant Bayram and Amin PC	Elmwood Park	NJ	3	Judicial Law Clerks		NJ
+Onal Gallant Bayram and Amin PC	Elmwood Park	NJ	2	Judicial Law Clerks		NJ
 Onc AI, Inc.	San Carlos	CA	1	Data Scientists		CA
 Oncare Digital Assets, Inc.	Richardson	TX	1	Industrial Engineers		WI
 One Algorithm Llc.	Malvern	PA	6	Software Developers; Software Quality Assurance Analysts and Testers	99000	TX,WI,NY
@@ -7499,7 +7499,7 @@ Optimizely North America Inc.	Nashua	NH	1	Software Developers		TX
 Optimus Health Analytics, LLC	Jackson Heights	NY	2	Network and Computer Systems Administrators; Business Intelligence Analysts		NY
 Options for All, Inc.	San Diego	CA	1	Financial and Investment Analysts		CA
 Ora Apps Inc	Iselin	NJ	5	Computer Systems Analysts; Database Administrators; Network and Computer Systems Administrators	105000	NJ,TX,VA
-Oracle America, Inc.	Austin	TX	5876	Software Developers; Computer and Information Systems Managers; Computer Systems Analysts	149000	CA,TX,WA
+Oracle America, Inc.	Austin	TX	580	Software Developers; Computer Systems Analysts; Computer and Information Systems Managers	149000	CA,TX,WA
 Orbifold AI, Inc.	Los Altos	CA	1	Management Analysts		CA
 Orbimed Advisors LLC	New York	NY	1	Financial and Investment Analysts		NY
 Orbis America, Inc.	McLean	VA	2	Computer Programmers; Computer Systems Analysts		VA
@@ -7511,7 +7511,7 @@ Oregon Sunstone Aviation LLC	Opa-Locka	FL	1	Training and Development Specialists
 Orentreich Foundation for the Advancement of Science, Inc.	New York	NY	1	General and Operations Managers		NY
 Organics Corporation of America	Totowa	NJ	1	Chemists		NJ
 Orlando Natural Medicine and Acupuncture PLLC	Orlando	FL	2	Acupuncturists		FL
-Orpheus Academy of Music LLC	Austin	TX	10	Self-Enrichment Teachers		TX
+Orpheus Academy of Music LLC	Austin	TX	6	Self-Enrichment Teachers		TX
 Orsted North America Inc.	Boston	MA	7	Construction Managers; Computer and Information Systems Managers; Lawyers	137400	RI,TX,DC
 OShaughnessy Asset Management LLC	Stamford	CT	2	Financial Quantitative Analysts		CT,GA
 Ota America Inc	Cerritos	CA	2	Information Technology Project Managers; Logistics Analysts		CA
@@ -7543,7 +7543,7 @@ PaleBlueDot AI INC.	Palo Alto	CA	2	Public Relations Specialists		CA
 Palette Architecture LLC	New York	NY	1	Architectural and Civil Drafters		NY
 Palm Beach Atlantic University	West Palm Beach	FL	2	Communications Teachers, Postsecondary; Computer Science Teachers, Postsecondary		FL
 Palmco Administration, LLC	Brooklyn	NY	1	Database Administrators		NY
-Palo Alto Networks, Inc.	Santa Clara	CA	3425	Software Developers; Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators	184000	CA,TX,WA
+Palo Alto Networks, Inc.	Santa Clara	CA	278	Software Developers; Network and Computer Systems Administrators; Sales Engineers	184000	CA,TX,WA
 Palo Alto Veterans Institute for Research	Palo Alto	CA	3	Biological Scientists, All Other; Clinical Data Managers		CA
 Paluo Solar Energy (America) Inc.	Mesa	AZ	6	Manufacturing Engineers; Logisticians; Database Administrators	78200	AZ
 Palziv North America, Inc	Louisburg	NC	1	Data Scientists		NC
@@ -7649,10 +7649,10 @@ Phoenix Analytic Services	Denver	CO	1	Financial Quantitative Analysts		CO
 Phoenix East Aviation, LLC	Daytona Beach	FL	2	Compliance Officers; Training and Development Specialists		FL
 Phoenix International Academy	Phoenix	AZ	1	Middle School Teachers, Except Special and Career/Technical Education		AZ
 Photo Scan of Los Angeles Inc.	Simi Valley	CA	1	Electrical Engineers		CA
-Physician Affiliate Group Of Ny, PC	New York	NY	73	Physicians, All Other; Anesthesiologists; Psychiatrists	247200	NY
+Physician Affiliate Group Of Ny, PC	New York	NY	53	Physicians, All Other; Psychiatrists; Hospitalists	247200	NY
 Physiotherapy Associates, Inc.	Mechanicsburg	PA	4	Physical Therapists	91200	CO,WA,FL
 Pickard Chilton Architects, Inc.	New Haven	CT	1	Architects, Except Landscape and Naval		CT
-Piedmont Athens Regional Medical Center, Inc.	Athens	GA	23	Physicians, All Other; Medical and Clinical Laboratory Technologists; Healthcare Practitioners and Technical Workers, All Other	65200	GA
+Piedmont Athens Regional Medical Center, Inc.	Athens	GA	8	Physicians, All Other; Medical and Clinical Laboratory Technologists; Healthcare Practitioners and Technical Workers, All Other	65200	GA
 Pierre De Angelis Architects Inc.	Los Angeles	CA	1	Architects, Except Landscape and Naval		CA
 Pillar America, Inc.	Houston	TX	1	Mechanical Engineers		CA
 Pima Association of Governments	Tucson	AZ	2	Data Scientists		AZ
@@ -7666,7 +7666,7 @@ Piston Automotive, LLC	Southfield	MI	2	Software Developers; Industrial Engineers
 Pivotal Aero, LLC	Palo Alto	CA	5	Software Developers; Mechanical Engineers; Electrical Engineers	190000	CA
 Pizza Hut of America, LLC	Plano	TX	1	Management Analysts		TX
 PK Associates LLC	Scottsdale	AZ	1	Civil Engineers		AZ
-PKF O'Connor Davies Advisory LLC	Harrison	NY	11	Accountants and Auditors		NY
+PKF O'Connor Davies Advisory LLC	Harrison	NY	2	Accountants and Auditors		NY
 Plains All American GP LLC	Houston	TX	3	Mechanical Engineers; Project Management Specialists	114600	TX
 Plainspace Architecture and Design DPC	New York	NY	1	Architectural and Civil Drafters		NY
 Planet AI Inventions LLC	Overland Park	KS	21	Software Developers; Data Scientists; Business Intelligence Analysts	96000	NC,TX,LA
@@ -7681,7 +7681,7 @@ Plymouth Rock Assurance Corporation	Boston	MA	5	Actuaries; Search Marketing Stra
 Plymouth Rock Home Assurance Corporation	Boston	MA	3	Data Scientists; Market Research Analysts and Marketing Specialists	115000	MA
 PMBA Architects, LLC	Perrysburg	OH	1	Architects, Except Landscape and Naval		OH
 PN Automation, Inc.	Baltimore	MD	2	Computer Programmers; Information Technology Project Managers		MD
-Pocket AI LLC	Bellevue	WA	8	Computer and Information Research Scientists	220000	WA
+Pocket AI LLC	Bellevue	WA	5	Computer and Information Research Scientists	220000	WA
 Point Apogee, Inc	Bothell	WA	1	Electrical Engineers		WA
 Point Construction Advisory Group, LLC	Asheville	NC	2	Management Analysts		TX,FL
 Point72 Asset Management, L.P.	Stamford	CT	49	Financial Quantitative Analysts; Financial and Investment Analysts; Financial Risk Specialists	225000	NY,FL,CA
@@ -7695,7 +7695,7 @@ Pomona Del Sol ADHC LLC	Pomona	CA	4	Healthcare Social Workers; Social and Commun
 Pop Mart Americas Inc.	Glendale	CA	7	Accountants and Auditors; Public Relations Specialists; Payroll and Timekeeping Clerks	73000	CA
 Popcorn AI Tech, Inc.	San Francisco	CA	5	Data Scientists; Market Research Analysts and Marketing Specialists; Web and Digital Interface Designers	145000	CA
 Poplar Ave LLC	Memphis	TN	2	Cost Estimators		VA
-Popli Architecture & Engineering & LS, DPC	Penfield	NY	4	Civil Engineers	75900	NY
+Popli Architecture & Engineering & LS, DPC	Penfield	NY	3	Civil Engineers	75900	NY
 Porsche Cars North America, Inc.	Atlanta	GA	1	Financial Managers		GA
 Port Architecture and Urbanism, LLC	Chicago	IL	1	Landscape Architects		PA
 Port Arthur Independent School District	Port Arthur	TX	7	Secondary School Teachers, Except Special and Career/Technical Education; Career/Technical Education Teachers, Secondary School	55500	TX
@@ -7713,7 +7713,7 @@ Powell Dance Academy, LLC	Powell	OH	1	Dancers		OH
 Power Advocate, Inc.	Boston	MA	4	Accountants and Auditors; Operations Research Analysts; Management Analysts	110000	MA,NY
 Power Technique North America LLC	Rock Hill	SC	4	Manufacturing Engineers; Logistics Engineers; Mechanical Engineers	91000	SC
 Powers Brown Architecture N.A., LLC	Houston	TX	1	Architects, Except Landscape and Naval		TX
-Powersource Automation And Controls LLC	Hockley	TX	4	Mechatronics Engineers		TX
+Powersource Automation And Controls LLC	Hockley	TX	2	Mechatronics Engineers		TX
 PPM America, Inc.	Chicago	IL	1	Financial Quantitative Analysts		IL
 Practice for Architecture Urbanism, DPC	New York	NY	1	Architects, Except Landscape and Naval		NY
 Practus Advisors Inc.	Dunwoody	GA	2	Management Analysts		GA
@@ -7810,7 +7810,7 @@ Pyrsquare Analytics LLC	Mountain View	CA	1	Software Developers		NC
 Q-Free America Inc.	Chesapeake	VA	1	Sales Engineers		TX
 Qatar Investment Authority Advisory (USA) Inc.	New York	NY	1	Financial and Investment Analysts		NY
 Qin & Associates PLLC	Long Island City	NY	1	Judicial Law Clerks		NY
-Qualcomm Atheros, Inc.	San Diego	CA	1013	Software Developers; Electronics Engineers, Except Computer	152500	CA,NJ,TX
+Qualcomm Atheros, Inc.	San Diego	CA	23	Software Developers; Electronics Engineers, Except Computer	152500	CA,NJ,TX
 Quality 360 Healthcare Alliance	Carmel	IN	1	Mental Health and Substance Abuse Social Workers		IN
 Quality Education Academy	Winston-Salem	NC	6	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	53800	NC
 Quality Institute of America, Inc.	Houston	TX	1	Software Developers		TX
@@ -7818,7 +7818,7 @@ Qualtech America Inc.	Petaluma	CA	2	Project Management Specialists		CA
 Quant Global Capital Advisors LLC	New York	NY	2	Operations Research Analysts		NY
 Quanteam North America Inc	New York	NY	7	Software Developers; Data Scientists; Computer Systems Engineers/Architects	130000	TX,NY
 Quantel AI, Inc.	New York	NY	2	Financial Quantitative Analysts		NY
-Quantum Financial Advisors, Inc.	Rockville	MD	4	Financial and Investment Analysts		MD
+Quantum Financial Advisors, Inc.	Rockville	MD	2	Financial and Investment Analysts		MD
 Quartermaster AI, Inc	Alexandria	VA	2	Software Developers		VA
 Quest Global Alpha Numero Inc.,	Windsor	CT	2	Electronics Engineers, Except Computer		NY
 Questy Academy LLC	Seattle	WA	2	Instructional Coordinators		WA
@@ -7887,7 +7887,7 @@ Rede Partners Americas LLC	New York	NY	1	Management Analysts		NY
 redi-Group North America LLC	Greenville	SC	1	Industrial Engineers		SC
 ReferU AI, a Public Benefit Corporation	Sugar Land	TX	1	Information Technology Project Managers		TN
 Refik Anadol Studio, LLC	Los Angeles	CA	2	Data Scientists; Special Effects Artists and Animators		CA
-Reflection AI, Inc.	Brooklyn	NY	23	Software Developers; Computer and Information Research Scientists; Computer and Information Systems Managers	189600	CA,NY
+Reflection AI, Inc.	Brooklyn	NY	22	Software Developers; Computer and Information Research Scientists; Computer and Information Systems Managers	189600	CA,NY
 Regina Academy at St. John the Baptist	Ottsville	PA	2	Middle School Teachers, Except Special and Career/Technical Education		PA
 Reid Physician Associates, Inc.	Richmond	IN	3	Hospitalists	320000	IN
 Reiter Affiliated Companies, LLC	Oxnard	CA	1	Soil and Plant Scientists		CA
@@ -7900,7 +7900,7 @@ REMIS America LLC	Fort Worth	TX	2	Operations Research Analysts		TX
 Renaissance Academy	Lehi	UT	2	Elementary School Teachers, Except Special Education		UT
 Renal Associates of Alabama, LLC	Columbus	GA	2	Physicians, All Other		AL
 Renal Associates of Montgomery, PC	Montgomery	AL	4	Physicians, All Other	287500	AL
-RenalCare Associates, SC	Peoria	IL	6	Physicians, All Other	280000	IL
+RenalCare Associates, SC	Peoria	IL	3	Physicians, All Other	280000	IL
 Renesas Design North America Inc.	San Jose	CA	8	Electronics Engineers, Except Computer; Electrical Engineers	147700	CA,AZ
 Renesas Electronics America Inc.	San Jose	CA	40	Electronics Engineers, Except Computer; Sales Engineers; Operations Research Analysts	142500	TX,GA,CA
 Rentokil North America Inc.	Reading	PA	8	Software Developers; Data Scientists; Computer Systems Analysts	119500	TN,FL,MD
@@ -8132,13 +8132,13 @@ Scorecard AI	San Francisco	CA	1	Software Developers		CA
 Scott Edwards Architecture LLP	Portland	OR	1	Architects, Except Landscape and Naval		OR
 Scott Griffin Architects Ltd.	Waltham	MA	1	Architectural and Civil Drafters		MA
 Scotty AI, Inc.	Bothell	WA	1	Software Developers		CA
-Scry Analytics, Inc.	Saratoga	CA	4	Software Quality Assurance Analysts and Testers		CA
+Scry Analytics, Inc.	Saratoga	CA	2	Software Quality Assurance Analysts and Testers		CA
 Seacoast Orthopedic Associates, Inc.	Newburyport	MA	2	Orthopedic Surgeons, Except Pediatric		MA
 Sealed Air Corporation (US)	Charlotte	NC	8	Compensation, Benefits, and Job Analysis Specialists; Computer Systems Analysts; Accountants and Auditors	121100	NC,TX,OH
 Sean Lockyer Architects, Inc.	Los Angeles	CA	1	Architects, Except Landscape and Naval		CA
 Seattle Anxiety, PLLC	Seattle	WA	1	Clinical and Counseling Psychologists		WA
 Seaview Orthopaedics & Medical Associates, LLP	Ocean	NJ	3	Physical Therapists	111100	NJ
-Second Axis, Inc.	Vallejo	CA	4	Software Developers		CA
+Second Axis, Inc.	Vallejo	CA	2	Software Developers		CA
 Secretariat Advisors LLC	Atlanta	GA	7	Economists; Construction Managers; Civil Engineers	160000	CA,DC,NY
 Seedtag Advertising US LLC	New York City	NY	2	Software Developers; Computer Systems Engineers/Architects		NY
 Sega of America, Inc.	Irvine	CA	1	Lawyers		CA
@@ -8301,7 +8301,7 @@ Soka University of America	Aliso Viejo	CA	2	Political Scientists; Mathematical S
 Solar Advantage LLC	Tampa	FL	1	Financial Managers		FL
 Solar Digital Agro LLC	Chicago	IL	2	Financial Quantitative Analysts		IL
 Solis Agrosciences Inc	St. Louis	MO	3	Bioinformatics Scientists; Biological Technicians	77100	MO
-Solns AI Inc.	Honolulu	HI	3	Robotics Engineers		HI
+Solns AI Inc.	Honolulu	HI	2	Robotics Engineers		HI
 Solstice Advanced Materials US, Inc.	Morris Plains	NJ	17	Mechanical Engineers; Chemical Engineers; Data Scientists	152700	NY,NJ,TX
 Solve Advisors Inc.	Stamford	CT	2	Software Developers; Information Technology Project Managers		CT,NJ
 Somerset Academy Of Texas	San Antonio	TX	2	Secondary School Teachers, Except Special and Career/Technical Education		TX
@@ -8368,7 +8368,7 @@ ST Agri Global Inc.	Middletown	NJ	4	Financial and Investment Analysts; Supply Ch
 St Anthonys Nursing and Rehab Foundation Inc.	Rock Island	IL	1	Registered Nurses		IL
 St Anthonys Rehabilitation and Nursing Center LLC	Rock Island	IL	3	Business Intelligence Analysts; Software Developers; Registered Nurses	87000	IL
 St Benedict At Auburndale	Cordova	TN	1	Secondary School Teachers, Except Special and Career/Technical Education		TN
-St. Agnes Healthcare, Inc.	Baltimore	MD	3	Healthcare Practitioners and Technical Workers, All Other		MD
+St. Agnes Healthcare, Inc.	Baltimore	MD	2	Healthcare Practitioners and Technical Workers, All Other		MD
 St. Aloisius Hospital, Inc.	Harvey	ND	4	Registered Nurses		ND
 St. Andrew Kim Korean Catholic Church, Norcross, Inc.	Duluth	GA	1	Clergy		GA
 St. Anthony Hospital - Pendleton	Pendleton	OR	1	Medical and Clinical Laboratory Technologists		OR
@@ -8520,7 +8520,7 @@ Systems Ally LLC	Round Rock	TX	1	Regulatory Affairs Specialists		MA
 Systems Automotive Interiors LLC	Mantachie	MS	1	Industrial Engineers		MS
 Systena America, Inc.	San Mateo	CA	1	Software Quality Assurance Analysts and Testers		TX
 SZ & Asssociates CPA, Inc.	Chno	CA	1	Accountants and Auditors		CA
-Szabo Aerospace LLC			2	Mechanical Engineers		
+Szabo Aerospace LLC			1	Mechanical Engineers		
 T A G Treatment Action Group, Inc.	New York	NY	1	Health Education Specialists		NY
 T-Hive North America Inc.	Marietta	GA	2	Software Developers		GA
 T-Systems North America, Inc.	Chicago	IL	1	Project Management Specialists		TX
@@ -8826,8 +8826,8 @@ Treasure Advertising LLC	Kansas City	MO	1	Market Research Analysts and Marketing
 Treasury Wine Estates Americas Company	Napa	CA	1	Financial Managers		CA
 Tri-city Autowash, Inc.	Fremont	CA	1	Management Analysts		CA
 Tri-Valley Communities Against A Radioactive Environment	Livermore	CA	1	Environmental Scientists and Specialists, Including Health		CA
-Triad Math and Science Academy Co.	Apex	NC	38	Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education	60000	NC
-Triad of Alabama, LLC	Dothan	AL	3	Medical and Clinical Laboratory Technologists		AL
+Triad Math and Science Academy Co.	Apex	NC	30	Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education	60000	NC
+Triad of Alabama, LLC	Dothan	AL	1	Medical and Clinical Laboratory Technologists		AL
 Triangle Accounting Inc.	Cary	NC	3	Accountants and Auditors; Business Intelligence Analysts		NC,GA
 Triangle Aviation, Inc.	Stafford	TX	1	Mechanical Engineers		TX
 Triboro Administrative Services, LLC	New York	NY	5	Health Education Specialists; Data Scientists; Project Management Specialists	123600	NY,FL
@@ -9039,7 +9039,7 @@ Visionworks of America, Inc.	San Antonio	TX	10	Optometrists		NY,IL,MI
 Vista Applied Solutions Group Inc	Herndon	VA	88	Software Developers; Computer Programmers; Information Technology Project Managers	109800	TX,GA,VA
 Vital Smiles Alabama II	Orange	CA	1	Dentists, General		AL
 Vitapilot Ai, LLC	Daytona Beach	FL	1	Computer Systems Analysts		FL
-Vivace Academy LLC	Katy	TX	8	Art, Drama, and Music Teachers, Postsecondary		TX
+Vivace Academy LLC	Katy	TX	5	Art, Drama, and Music Teachers, Postsecondary		TX
 voestalpine Automotive Components Cartersville LLC	White	GA	3	Mechatronics Engineers; Financial Managers; Project Management Specialists	100300	GA
 Voices College-Bound Language Academies	San Jose	CA	1	Middle School Teachers, Except Special and Career/Technical Education		CA
 Volkswagen Group of America, Inc.	Reston	VA	16	Information Technology Project Managers; Software Quality Assurance Analysts and Testers; Industrial Production Managers	157200	TN,CA,MI
@@ -9062,7 +9062,7 @@ Wacker Neuson America Corporation	Menomonee Falls	WI	1	Commercial and Industrial
 Wacker Polysilicon North America, LLC	Charleston	TN	6	Electrical Engineers; Mechanical Engineers; Industrial Engineers	110800	TN
 Wal-mart Associates, Inc.	Bentonville	AR	2099	Software Developers; Business Intelligence Analysts; Data Scientists	145700	AR,CA,NJ
 Walbridge Aldinger, L.L.C.	Detroit	MI	1	Construction Managers		IN
-Walker Architects, Inc.	Gainesville	FL	2	Architectural and Civil Drafters		FL
+Walker Architects, Inc.	Gainesville	FL	1	Architectural and Civil Drafters		FL
 Walkner Condon Financial Advisors, LLC	Madison	WI	1	Financial and Investment Analysts		WI
 Wallace Montgomery and Associates, LLP	Hunt Valley	MD	2	Construction Managers; Transportation Engineers		VA
 Walor North America, Inc.	Columbus	OH	1	Industrial Engineers		OH
@@ -9101,7 +9101,7 @@ Web Synergies Americas Inc.	Sugar Land	TX	1	Computer and Information Systems Man
 Weichai America Corp.	Rolling Meadows	IL	2	Materials Engineers; Data Scientists		IL
 Weishaupt America Inc.	Elgin	IL	1	Mechanical Engineers		IL
 Weiss Architects LLC	Chicago	IL	1	Architectural and Civil Drafters		IL
-Weiss Asset Management LP	Boston	MA	8	Financial Quantitative Analysts; Financial Managers; Software Developers	195000	MA
+Weiss Asset Management LP	Boston	MA	6	Financial Managers; Software Developers; Financial Quantitative Analysts	195000	MA
 Weiss Manfredi Architects LLP	New York	NY	1	Interior Designers		NY
 Welch & Associates L.L.C.	Kansas City	MO	2	Accountants and Auditors		MO
 Welch Allyn, Inc.	Deerfield	IL	2	Bioengineers and Biomedical Engineers; Electrical Engineers		CT,NY

@@ -1,30 +1,30 @@
-Grandison Management, Inc.	Howell	NJ	63360	Physical Therapists; Occupational Therapists		IL,NY,FL
-Amazon.com Services LLC	Seattle	WA	22060	Software Developers; Business Intelligence Analysts; Computer and Information Systems Managers	163400	WA,CA,TX
-NVIDIA Corporation	Santa Clara	CA	12922	Software Developers; Electronics Engineers, Except Computer; Information Technology Project Managers	187000	CA,TX,WA
-Qualcomm Technologies, Inc.	San Diego	CA	12072	Electronics Engineers, Except Computer; Software Developers; Industrial Production Managers	156900	CA,TX,CO
-CGI Technologies and Solutions Inc.	Fairfax	VA	11242	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	112900	TX,PA,LA
-Meta Platforms, Inc	Menlo Park	CA	9476	Software Developers; Computer and Information Research Scientists; Data Scientists	211800	CA,WA,NY
-Apple Inc.	Cupertino	CA	9399	Software Developers; Electronics Engineers, Except Computer; Electrical Engineers	181100	CA,TX,WA
-Infosys Limited	Richardson	TX	7990	Computer Systems Engineers/Architects; Information Technology Project Managers; Management Analysts	92600	TX,NC,CA
-Cisco Systems, Inc.	San Jose	CA	5901	Software Developers; Electronics Engineers, Except Computer; Information Technology Project Managers	161000	CA,NC,TX
-Oracle America, Inc.	Austin	TX	5876	Software Developers; Computer and Information Systems Managers; Computer Systems Analysts	149000	CA,TX,WA
+Amazon.com Services LLC	Seattle	WA	11337	Software Developers; Computer and Information Research Scientists; Business Intelligence Analysts	163400	WA,CA,TX
 Google LLC	Mountain View	CA	5604	Software Developers; Information Technology Project Managers; Data Scientists	194000	CA,WA,NY
-Databricks, Inc.	San Francisco	CA	5079	Software Developers; Computer Systems Engineers/Architects; Sales Engineers	153400	CA,WA,TX
-Kforce Inc.	Tampa	FL	4990	Software Developers; Operations Research Analysts; Business Intelligence Analysts		TX,CA,GA
-Super Micro Computer, Inc.	San Jose	CA	4913	Software Developers; Information Technology Project Managers; Electrical Engineers	141000	CA
-Amazon Web Services, Inc.	Seattle	WA	4884	Software Developers; Computer and Information Systems Managers; Business Intelligence Analysts	162600	WA,TX,CA
 Cognizant Technology Solutions US Corp	College Station	TX	4845	Computer Systems Engineers/Architects; Software Quality Assurance Analysts and Testers; Information Technology Project Managers	110200	TX,NJ,NC
-Microsoft Corporation	Redmond	WA	4211	Software Developers; Data Scientists; Information Technology Project Managers	173800	WA,CA,TX
-Amazon Development Center U.S., Inc.	Seattle	WA	4147	Software Developers; Computer and Information Systems Managers; Information Technology Project Managers	165000	WA,CA,VA
-Deloitte Consulting LLP	Philadelphia	PA	3860	Software Developers; Computer and Information Systems Managers; Operations Research Analysts	141600	TX,FL,CA
-Palo Alto Networks, Inc.	Santa Clara	CA	3425	Software Developers; Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators	184000	CA,TX,WA
+Infosys Limited	Richardson	TX	4034	Computer Systems Engineers/Architects; Information Technology Project Managers; Management Analysts	92600	TX,NC,CA
+Microsoft Corporation	Redmond	WA	4019	Software Developers; Data Scientists; Information Technology Project Managers	173800	WA,CA,TX
+Meta Platforms, Inc	Menlo Park	CA	3476	Software Developers; Computer and Information Research Scientists; Data Scientists	211800	CA,WA,NY
+Apple Inc.	Cupertino	CA	3055	Software Developers; Electronics Engineers, Except Computer; Electrical Engineers	181100	CA,TX,WA
 Ernst & Young U.S. LLP	Secaucus	NJ	2522	Accountants and Auditors; Database Administrators; Software Developers	167700	NY,TX,CA
 Tata Consultancy Services Limited	Rockville	MD	2357	Computer Systems Engineers/Architects; Computer Programmers; Computer Systems Analysts	90600	TX,NJ,CA
-Synopsys, Inc.	Sunnyvale	CA	2147	Electronics Engineers, Except Computer; Software Developers; Architectural and Engineering Managers	147000	CA,TX,MA
 Wal-mart Associates, Inc.	Bentonville	AR	2099	Software Developers; Business Intelligence Analysts; Data Scientists	145700	AR,CA,NJ
-Sandisk Technologies, Inc.	Milpitas	CA	2046	Electronics Engineers, Except Computer; Industrial Engineers; Software Quality Assurance Analysts and Testers	137200	CA,CO,WA
-Wipro Limited	East Brunswick	NJ	2002	Computer Programmers; Computer Systems Engineers/Architects; Information Technology Project Managers	98900	TX,CA,NJ
+Amazon Development Center U.S., Inc.	Seattle	WA	2001	Software Developers; Computer and Information Research Scientists; Information Technology Project Managers	165000	WA,CA,NY
 Tesla, Inc.	Austin	TX	1927	Manufacturing Engineers; Software Developers; Industrial Engineers	150000	CA,TX,NV
-Amazon Data Services, Inc	Seattle	WA	1886	Software Developers; Industrial Engineers; Civil Engineers	148800	WA,VA,CA
-Western Digital Technologies, Inc.	San Jose	CA	1840	Electronics Engineers, Except Computer; Industrial Engineers; Software Developers	148300	CA,CO,MN
+Deloitte Consulting LLP	Philadelphia	PA	1878	Software Developers; Computer and Information Systems Managers; Database Architects	141600	TX,FL,CA
+Amazon Web Services, Inc.	Seattle	WA	1766	Software Developers; Computer and Information Systems Managers; Computer Network Support Specialists	162600	WA,TX,CA
+NVIDIA Corporation	Santa Clara	CA	1633	Software Developers; Electronics Engineers, Except Computer; Architectural and Engineering Managers	187000	CA,TX,WA
+Grandison Management, Inc.	Howell	NJ	1584	Physical Therapists; Occupational Therapists		IL,NY,FL
 JPMorgan Chase & Co.	Chicago	IL	1572	Software Developers; Financial and Investment Analysts; Data Scientists	162500	NY,TX,NJ
+Fidelity Technology Group, LLC d/b/a Fidelity Investments	Boston	MA	1567	Software Developers; Computer and Information Systems Managers; Data Scientists	129000	NC,TX,NH
+Compunnel Software Group, Inc	Princeton	NJ	1401	Software Developers; Computer Systems Analysts; Software Quality Assurance Analysts and Testers	110000	TX,NC,NJ
+Wipro Limited	East Brunswick	NJ	1300	Computer Programmers; Computer Systems Engineers/Architects; Information Technology Project Managers	98900	TX,NJ,CA
+HCL America Inc	Santa Clara	CA	1241	Computer Systems Engineers/Architects; Information Technology Project Managers; Computer Programmers	116000	TX,CA,NC
+Accenture LLP	Chicago	IL	1201	Computer Systems Analysts; Information Technology Project Managers; Computer Programmers	144200	TX,CA,PA
+Capgemini America Inc	Chicago	IL	1192	Software Developers; Software Quality Assurance Analysts and Testers; Computer Programmers	130600	TX,IL,NJ
+Salesforce, Inc.	San Francisco	CA	1037	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	205200	CA,WA,TX
+Amazon Data Services, Inc	Seattle	WA	959	Software Developers; Industrial Engineers; Civil Engineers	148800	WA,VA,CA
+Citibank, N.A.	New York	NY	952	Software Developers; Financial Quantitative Analysts; Business Intelligence Analysts	157000	TX,FL,NY
+LTIMindtree Limited	Edison	NJ	922	Software Developers; Computer Systems Engineers/Architects; Information Technology Project Managers	100800	TX,NJ,FL
+Intel Corporation	Santa Clara	CA	893	Electronics Engineers, Except Computer; Software Developers; Materials Engineers	143500	OR,CA,AZ
+IBM Corporation	Durham	NC	760	Software Developers; Computer Systems Analysts; Information Technology Project Managers	147600	TX,NY,CA
+Cisco Systems, Inc.	San Jose	CA	722	Software Developers; Information Technology Project Managers; Network and Computer Systems Administrators	161000	CA,NC,TX

@@ -25,7 +25,7 @@ Alibaba Group (U.S) Inc.	Sunnyvale	CA	2	Software Developers; Computer and Inform
 Alisal Union School District	Salinas	CA	4	Special Education Teachers, Elementary School	98300	CA
 Alliant Credit Union	Chicago	IL	8	Data Scientists; Credit Analysts; Software Developers	121500	IL
 Altus Group U.S., Inc.	New York	NY	1	Architectural and Engineering Managers		NJ
-Amazon Development Center U.S., Inc.	Seattle	WA	4147	Software Developers; Computer and Information Systems Managers; Information Technology Project Managers	165000	WA,CA,VA
+Amazon Development Center U.S., Inc.	Seattle	WA	2001	Software Developers; Computer and Information Research Scientists; Information Technology Project Managers	165000	WA,CA,NY
 America First Credit Union	Riverdale	UT	4	Software Quality Assurance Analysts and Testers; Computer Systems Engineers/Architects; Software Developers	109000	UT
 American Unit, Inc	Plano	TX	17	Software Developers; Computer Programmers; Information Security Engineers	107000	GA,TX,VA
 American University	Washington	DC	2	Social Sciences Teachers, Postsecondary, All Other; Sociologists		DC
@@ -35,7 +35,7 @@ American University Partners LLC	Palo Alto	CA	1	General and Operations Managers	
 Anaheim University, Inc.	Anaheim	CA	1	Education Administrators, Postsecondary		CA
 Andrews University	Berrien Springs	MI	2	Health Specialties Teachers, Postsecondary; Psychology Teachers, Postsecondary		MI
 Angelo State University	San Angelo	TX	7	Coaches and Scouts; Business Teachers, Postsecondary; Biological Science Teachers, Postsecondary	51000	TX
-Annapurna Labs (U.S.) Inc.	Seattle	WA	197	Software Developers; Computer Hardware Engineers; Computer and Information Research Scientists	180600	CA,TX,WA
+Annapurna Labs (U.S.) Inc.	Seattle	WA	107	Software Developers; Computer Hardware Engineers; Computer and Information Research Scientists	180600	CA,TX,WA
 Ant Technologies U.S., Inc.	Sunnyvale	CA	3	Data Scientists; Computer and Information Research Scientists; Public Relations Specialists	127700	CA,WA
 Apex Ultra Inc.	Redwood City	CA	1	Software Developers		CA
 Appalachian State University	Boone	NC	16	Art, Drama, and Music Teachers, Postsecondary; Criminal Justice and Law Enforcement Teachers, Postsecondary; Communications Teachers, Postsecondary	67700	NC
@@ -218,7 +218,7 @@ Dallas International University	Dallas	TX	2	Educational, Guidance, and Career Co
 Data Unveil, LLC.	King of Prussia	PA	1	Software Developers		PA
 Davis Joint Unified School District	Davis	CA	1	Self-Enrichment Teachers		CA
 Deer Valley Unified School District 97	Phoenix	AZ	1	Elementary School Teachers, Except Special Education		AZ
-Dekalb Community Unit School District 428	Dekalb	IL	4	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education		IL
+Dekalb Community Unit School District 428	Dekalb	IL	3	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education		IL
 Delaware State University	Dover	DE	3	Art, Drama, and Music Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary; Biological Technicians	55000	DE
 Denison University	Granville	OH	1	History Teachers, Postsecondary		OH
 Department of Public Utilities, City of Orangeburg	Orangeburg	SC	1	Geographic Information Systems Technologists and Technicians		SC
@@ -296,7 +296,7 @@ Frostburg State University	Frostburg	MD	1	Computer Science Teachers, Postseconda
 Fuego UX LLC	Boulder	CO	2	Web and Digital Interface Designers		NY
 FUJIFILM Electronic Materials U.S.A., Inc.	North Kingstown	RI	2	Chemical Engineers; Chemists		CA,AZ
 Furman University	Greenville	SC	3	Communications Teachers, Postsecondary; Physics Teachers, Postsecondary; English Language and Literature Teachers, Postsecondary	70000	SC
-Fusion United Group, LLC	Hurst	TX	2	Search Marketing Strategists		TX
+Fusion United Group, LLC	Hurst	TX	1	Search Marketing Strategists		TX
 Gallaudet University	Washington	DC	2	Mathematical Science Teachers, Postsecondary; Foreign Language and Literature Teachers, Postsecondary		DC
 Ganado Unified School District No. 20	Ganado	AZ	1	Secondary School Teachers, Except Special and Career/Technical Education		AZ
 Gannon University	Erie	PA	1	Business Teachers, Postsecondary		PA
@@ -329,7 +329,7 @@ Grand Canyon University	Phoenix	AZ	1	Mathematical Science Teachers, Postsecondar
 Grand Valley State University	Allendale	MI	9	Data Scientists; Social Work Teachers, Postsecondary; Business Teachers, Postsecondary	65900	MI
 Grand View University	Des Moines	IA	1	Chemistry Teachers, Postsecondary		IA
 Greater Twin Cities United Way	Minneapolis	MN	1	Social and Community Service Managers		MN
-Guam Ukudu Power, LLC			11	Electrical Engineers; Financial Managers; Mechanical Engineers	66100	
+Guam Ukudu Power, LLC			10	Electrical Engineers; Financial Managers; Mechanical Engineers	66100	
 Gyros Unlimited	Fairfield	CA	1	Computer and Information Systems Managers		CA
 Hai Robotics U.S.A. Inc	Norcross	GA	6	Robotics Engineers; Sales Engineers; Industrial Engineers	98200	NJ,TX,GA
 Hamilton U.S. Services LLC	Glen Allen	VA	4	Financial Risk Specialists; Credit Analysts; Insurance Underwriters	95000	FL,MO
@@ -362,7 +362,7 @@ Indian Oasis - Baboquivari Unified School District No. 40	Sells	AZ	3	Elementary 
 Indiana University	Bloomington	IN	57	Business Teachers, Postsecondary; Computer Science Teachers, Postsecondary; Foreign Language and Literature Teachers, Postsecondary	73600	IN,TN,CA
 Indiana University Foundation, Inc.	Bloomington	IN	1	Computer Programmers		IN
 Indiana University Health Care Associates, Inc.	Muncie	IN	19	Physicians, All Other; Family Medicine Physicians; Neurologists	341700	IN
-Indiana University Health, Inc.	Indianapolis	IN	123	Registered Nurses; Medical and Clinical Laboratory Technologists; Physical Therapists	92000	IN
+Indiana University Health, Inc.	Indianapolis	IN	25	Medical and Clinical Laboratory Technologists; Physical Therapists; Clergy	92000	IN
 Indiana University Indianapolis	Indianapolis	IN	76	Physicians, All Other; Medical Scientists, Except Epidemiologists; Biochemists and Biophysicists	74300	IN,MS,FL
 Indiana Wesleyan University	Marion	IN	2	Computer Science Teachers, Postsecondary; Engineering Teachers, Postsecondary		IN
 Information Unlimited Inc.	Washington	DC	4	Business Intelligence Analysts; Cost Estimators		DC,VA
@@ -396,7 +396,7 @@ Kennesaw State University	Kennesaw	GA	25	Computer Science Teachers, Postsecondar
 Kent State University	Kent	OH	11	Business Teachers, Postsecondary; Economics Teachers, Postsecondary; Foreign Language and Literature Teachers, Postsecondary	83100	OH,CA
 Kentucky State University	Frankfort	KY	1	Operations Research Analysts		KY
 KIMC U.S., Inc.	Arlington	VA	2	Financial and Investment Analysts		VA
-King City Union School District	King City	CA	10	Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School; Special Education Teachers, Middle School	61500	CA
+King City Union School District	King City	CA	9	Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School; Special Education Teachers, Elementary School	61500	CA
 Kitsap Credit Union	Bremerton	WA	3	Business Intelligence Analysts	105000	WA
 KUKA U.S. Holdings Company LLC	Sterling Heights	MI	1	Software Developers		TX
 Kutztown University of Pennsylvania	Kutztown	PA	1	Economics Teachers, Postsecondary		PA
@@ -468,7 +468,7 @@ Mastec Utility Services LLC	Coral Gables	FL	1	Project Management Specialists		NC
 Mattoon Community Unit School District 2	Mattoon	IL	1	Secondary School Teachers, Except Special and Career/Technical Education		IL
 MAV Unlimited, Inc.	Portland	OR	1	Materials Scientists		MA
 Mayekawa USA., Inc.	Katy	TX	1	Sales Engineers		TX
-McKinsey & Company, Inc. United States	New York	NY	279	Management Analysts; Data Scientists; Software Developers	187700	GA,NY,MA
+McKinsey & Company, Inc. United States	New York	NY	210	Management Analysts; Data Scientists; Software Developers	187700	NY,MA,TX
 McLean County Unit District No. 5	Normal	IL	1	Secondary School Teachers, Except Special and Career/Technical Education		IL
 McNeese State University	Lake Charles	LA	4	Chemistry Teachers, Postsecondary; Communications Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary		LA
 MCPHS University	Boston	MA	7	Healthcare Practitioners and Technical Workers, All Other; Mathematical Science Teachers, Postsecondary; Software Quality Assurance Analysts and Testers	54500	MA
@@ -508,7 +508,7 @@ Monroe University Ltd.	Bronx	NY	1	Fundraisers		NY
 Montana State University	Bozeman	MT	10	Agricultural Sciences Teachers, Postsecondary; Soil and Plant Scientists; Engineering Teachers, Postsecondary	76700	MT
 Montana Technological University, which is part of The University of Montana	Butte	MT	5	Network and Computer Systems Administrators; Social Sciences Teachers, Postsecondary, All Other; Engineering Teachers, Postsecondary		MT
 Montclair State University	Montclair	NJ	11	English Language and Literature Teachers, Postsecondary; Health Specialties Teachers, Postsecondary; Computer Systems Analysts, Non R&D	114700	NJ
-Moravian University	Bethlehem	PA	2	Sociology Teachers, Postsecondary		PA
+Moravian University	Bethlehem	PA	1	Sociology Teachers, Postsecondary		PA
 Morgan State University	Baltimore	MD	10	Engineering Teachers, Postsecondary; Materials Engineers; Computer Science Teachers, Postsecondary	72300	MD
 Mount St. Mary's University	Emmitsburg	MD	2	Psychology Teachers, Postsecondary; Computer Science Teachers, Postsecondary		MD
 Mt. Auburn UrgentCare LLC	Cincinnati	OH	1	Medical and Clinical Laboratory Technologists		OH
@@ -631,7 +631,7 @@ Quinnipiac University	Hamden	CT	1	Business Teachers, Postsecondary		CT
 R3 Uniq Inc.	Bettendorf	IA	16	Software Developers; Information Technology Project Managers	100000	IL,IA
 Raiz Federal Credit Union	El Paso	TX	2	Network and Computer Systems Administrators; Information Security Analysts		TX
 Ramped Up LLC	Atlanta	GA	1	Data Scientists		PA
-Red Mesa Unified School Disctrict 27	Teec Nos Pos	AZ	8	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School		AZ
+Red Mesa Unified School Disctrict 27	Teec Nos Pos	AZ	2	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School		AZ
 Redondo Beach Unified School District	Redondo Beach	CA	2	Elementary School Teachers, Except Special Education		CA
 Regent University	Virginia Beach	VA	1	Postsecondary Teachers, All Other		VA
 Regents of the University of California at Riverside	Riverside	CA	37	Molecular and Cellular Biologists; Physicists; Biological Science Teachers, Postsecondary	83600	CA
@@ -657,7 +657,7 @@ Rosalind Franklin University Health Clinics	North Chicago	IL	1	Obstetricians and
 Rosalind Franklin University of Medicine & Science	North Chicago	IL	1	Biological Scientists, All Other		IL
 Roseman University of Health Sciences	Henderson	NV	1	Data Scientists		NV
 Rowan University	Glassboro	NJ	16	Software Developers; Engineering Teachers, Postsecondary; Health Specialties Teachers, Postsecondary	104300	NJ
-Rush University Medical Center	Chicago	IL	25	Healthcare Practitioners and Technical Workers, All Other; Medical Scientists, Except Epidemiologists; Software Developers, Non R&D	90400	IL,NJ,GA
+Rush University Medical Center	Chicago	IL	24	Healthcare Practitioners and Technical Workers, All Other; Medical Scientists, Except Epidemiologists; Software Developers, Non R&D	90400	IL,NJ,GA
 Rutgers, The State University of New Jersey	Newark	NJ	121	Medical Scientists, Except Epidemiologists; Molecular and Cellular Biologists; Physicians, All Other	89300	NJ
 Rutgers, The State University of NJ	Newark	NJ	2	Molecular and Cellular Biologists; Art, Drama, and Music Teachers, Postsecondary		NJ
 Sacramento City Unified School District	Sacramento	CA	1	Special Education Teachers, Elementary School		CA
@@ -770,7 +770,7 @@ State University of New York at Oswego	Oswego	NY	3	Computer Science Teachers, Po
 State University of New York at Potsdam	Potsdam	NY	1	Data Scientists		NY
 State University of New York at Stony Brook	Stony Brook	NY	27	Health Specialties Teachers, Postsecondary; Biological Science Teachers, Postsecondary; Engineering Teachers, Postsecondary	96500	NY
 State University of New York Downstate Health Sciences University	Brooklyn	NY	10	Physicians, All Other; Health Specialties Teachers, Postsecondary; Supply Chain Managers	129100	NY
-State University of New York, Upstate Medical University	Syracuse	NY	36	Physicians, All Other; Health Specialties Teachers, Postsecondary; Hospitalists	63300	NY
+State University of New York, Upstate Medical University	Syracuse	NY	35	Physicians, All Other; Health Specialties Teachers, Postsecondary; Hospitalists	63300	NY
 Stetson University	DeLand	FL	3	English Language and Literature Teachers, Postsecondary; Data Scientists; Graphic Designers	51000	FL
 Stockton Unified School District	Stockton	CA	4	Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	61500	CA
 Stockton University	Galloway	NJ	2	Computer Science Teachers, Postsecondary; Business Teachers, Postsecondary		NJ
@@ -836,7 +836,7 @@ The George Washington University	Washington	DC	16	Software Developers; Physicist
 The Harrisburg University of Science and Technology	Harrisburg	PA	1	Computer Science Teachers, Postsecondary		PA
 The Leland Stanford, Jr University	Stanford	CA	244	Biochemists and Biophysicists; Molecular and Cellular Biologists; Medical Scientists, Except Epidemiologists	87300	CA,MA,GA
 The Ohio State University	Columbus	OH	116	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Molecular and Cellular Biologists	81200	OH,MA
-The Ohio University	Athens	OH	33	Educational, Guidance, and Career Counselors and Advisors; English Language and Literature Teachers, Postsecondary; Art, Drama, and Music Teachers, Postsecondary	65000	OH,TX,VA
+The Ohio University	Athens	OH	31	Educational, Guidance, and Career Counselors and Advisors; Art, Drama, and Music Teachers, Postsecondary; English Language and Literature Teachers, Postsecondary	65000	OH,TX,VA
 The Pennsylvania Hospital of the University of Pennsylvania Health System	Philadelphia	PA	2	Health Specialties Teachers, Postsecondary; Physicians, All Other		PA
 The Pennsylvania State University	University Park	PA	104	Engineering Teachers, Postsecondary; Business Teachers, Postsecondary; Medical Scientists, Except Epidemiologists	85500	PA,VA,GA
 The Procter & Gamble U.S. Business Services Company	Cincinnati	OH	2	Data Scientists; Human Resources Managers		OH
@@ -853,7 +853,7 @@ The Union of Orthodox Jewish Congregations of America	New York	NY	2	Market Resea
 The United Illuminating Company	Orange	CT	2	Information Technology Project Managers		CT
 The United States Pharmacopeial Convention	Rockville	MD	1	Software Developers		MD
 The United States-Azerbaijan Chamber Of Commerce, Inc.	Washington	DC	1	Management Analysts		FL
-The Unity Hospital of Rochester	Rochester	NY	58	Registered Nurses; Hospitalists; Physicians, All Other	171800	NY
+The Unity Hospital of Rochester	Rochester	NY	30	Registered Nurses; Hospitalists; Physicians, All Other	171800	NY
 The University of Akron	Akron	OH	8	Engineering Teachers, Postsecondary; Computer Science Teachers, Postsecondary; Economics Teachers, Postsecondary	86000	OH
 The University of Alabama	Tuscaloosa	AL	26	Mathematical Science Teachers, Postsecondary; Engineering Teachers, Postsecondary; Art, Drama, and Music Teachers, Postsecondary	75000	AL,OR
 The University of Alabama at Birmingham	Birmingham	AL	120	Health Specialties Teachers, Postsecondary; Medical Scientists, Except Epidemiologists; Physicians, All Other	72000	AL,TX
@@ -882,7 +882,7 @@ The University of Texas at El Paso	El Paso	TX	17	Computer Science Teachers, Post
 The University of Texas at San Antonio	San Antonio	TX	12	Engineering Teachers, Postsecondary; Criminal Justice and Law Enforcement Teachers, Postsecondary; Management Analysts	77500	TX,PA
 The University of Texas at Tyler	Tyler	TX	12	Engineering Teachers, Postsecondary; Computer Science Teachers, Postsecondary; Psychology Teachers, Postsecondary	88000	TX
 The University of Texas El Paso	El Paso	TX	9	Engineering Teachers, Postsecondary; Health Specialties Teachers, Postsecondary; Psychology Teachers, Postsecondary	82000	TX
-The University of Texas Health Science Center at Houston	Houston	TX	50	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Physicians, All Other	74100	TX
+The University of Texas Health Science Center at Houston	Houston	TX	49	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Physicians, All Other	74100	TX
 The University of Texas Health Science Center at Tyler	Tyler	TX	4	Psychiatrists; Pediatricians, General; Molecular and Cellular Biologists	200200	TX
 The University of Texas M.D. Anderson Cancer Center	Houston	TX	108	Medical Scientists, Except Epidemiologists; Biochemists and Biophysicists; Biological Scientists, All Other	79200	TX
 The University of Texas Permian Basin	Odessa	TX	2	Engineering Teachers, Postsecondary		TX
@@ -905,8 +905,8 @@ Theravance Biopharma U.S., LLC	South San Francisco	CA	1	Management Analysts		CA
 Thomas Jefferson University	Philadelphia	PA	29	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Biochemists and Biophysicists	71000	PA
 Thomas Jefferson University Hospital	Philadelphia	PA	11	Physicians, All Other; Healthcare Practitioners and Technical Workers, All Other; Physicians, Pathologists	87500	PA
 Tiffin University	Tiffin	OH	2	Instructional Coordinators; Educational, Guidance, and Career Counselors and Advisors		OH
-TikTok U.S. Data Security Inc.	San Jose	CA	271	Software Developers; Data Scientists; Information Technology Project Managers	190400	CA,WA,NY
-TikTok USDS Joint Venture LLC	Culver City	CA	141	Software Developers; Data Scientists; Information Security Engineers	187700	CA,WA,NY
+TikTok U.S. Data Security Inc.	San Jose	CA	122	Software Developers; Data Scientists; Database Architects	190400	CA,WA,NY
+TikTok USDS Joint Venture LLC	Culver City	CA	113	Data Scientists; Software Developers; Information Security Engineers	187700	CA,WA,NY
 Tokyo Electron U.S. Holdings, Inc.	Austin	TX	1	Computer and Information Systems Managers		TX
 Tomoegawa (U.S.A.) Inc.	Schaumburg	IL	1	Industrial Engineers		IL
 Toors United Limited	Elk Grove	CA	1	Veterinarians		CA
@@ -935,7 +935,7 @@ U And B Pharma LLC	North Bergen	NJ	1	Compliance Managers		NJ
 U And Me Communications Inc	McKinney	TX	3	Business Intelligence Analysts; Software Developers; Computer Systems Analysts	106000	TX
 U Garden Development LLC	Darien	CT	1	Financial and Investment Analysts		CT
 U K Builders LLC	Spring	TX	1	Project Management Specialists		TX
-U R First LLC	Las Vegas	NV	2	Registered Nurses		NV
+U R First LLC	Las Vegas	NV	1	Registered Nurses		NV
 U R L inc	Harrisburg	PA	1	Software Developers		PA
 U Save Insurance Services Inc	Houston	TX	1	Business Intelligence Analysts		TX
 U Startups Inc.	Bethesda	MD	1	Computer Programmers		MD
@@ -976,7 +976,7 @@ UB Technology Innovations, Inc	Anaheim	CA	2	Software Developers		CA
 UBC BIM Services, LLC	Fort Mill	SC	1	Civil Engineers		SC
 UBC Technology Services, Inc.	Fort Mill	SC	1	Civil Engineers		SC
 Uber Freight US LLC	Frisco	TX	54	Software Developers; Operations Research Analysts; Computer and Information Systems Managers	180500	AR,CA,TX
-Uber Technologies, Inc.	San Francisco	CA	681	Software Developers; Data Scientists; Operations Research Analysts	191800	CA,NY,WA
+Uber Technologies, Inc.	San Francisco	CA	469	Software Developers; Data Scientists; Operations Research Analysts	191800	CA,NY,WA
 UberTejas LLC	Lewisville	TX	4	Software Developers; Network and Computer Systems Administrators; Computer Network Architects	118500	TX
 Ubiety Technologies, Inc.	Chicago	IL	1	Software Developers		IL
 Ubiquant US Tech, LLC	New York	NY	5	Information Security Engineers; Financial Quantitative Analysts; Statisticians	160000	NY
@@ -1069,7 +1069,7 @@ Ultimate Therapy 2 LLC	Pomona	NY	2	Physical Therapists		MD
 Ultimate-a Tech, Inc.	Santa Ana	CA	1	Mechanical Drafters		CA
 Ultimo Software Solutions Inc	Union City	CA	1	Computer Programmers		GA
 Ultimus Solutions Inc	Sioux Falls	SD	6	Computer Programmers	87300	SD
-Ultium Cells LLC	Warren	OH	23	Automotive Engineers; Mechanical Engineers; Industrial Engineers	69400	TN,OH
+Ultium Cells LLC	Warren	OH	17	Automotive Engineers; Mechanical Engineers; Industrial Engineers	69400	TN,OH
 Ultivue, Inc.	Cambridge	MA	1	Biochemists and Biophysicists		MA
 Ultra Clean Technology Systems and Service, Inc.	Hayward	CA	14	Industrial Engineers; Manufacturing Engineers; Accountants and Auditors	140000	TX,CA,AZ
 Ultra Comprehensive Physical Therapy, LLC	Clifton	NJ	1	Physical Therapists		NJ
@@ -1102,7 +1102,7 @@ Uncommon Goods LLC	Brooklyn	NY	1	Data Scientists		NY
 Uncommon Schools, Inc.	New York	NY	2	General and Operations Managers; Financial Managers		NY
 Unconventional Hospitality LLC	Washington	DC	1	Food Service Managers		DC
 Uncork Capital Inc	San Francisco	CA	1	Data Scientists		CA
-Uncountable Inc.	San Francisco	CA	5	Sales Engineers; Software Developers	120000	NY,CA
+Uncountable Inc.	San Francisco	CA	4	Sales Engineers; Software Developers	120000	NY,CA
 Undead Labs LLC	Seattle	WA	2	Video Game Designers		WA
 Under Armour, Inc.	Baltimore	MD	5	Software Developers; Market Research Analysts and Marketing Specialists; Data Scientists	154000	CA,GA,NY
 Underdogs Agency LLC	Cleveland	OH	1	Film and Video Editors		OH
@@ -1245,7 +1245,7 @@ United Business Solutions Inc.	Monmouth Junction	NJ	10	Computer Programmers; Sof
 United Cerebral Palsy Associations Of Nys, Inc.	Fishkill	NY	8	Rehabilitation Counselors		NY
 United Construction and Management INC	Coral Springs	FL	1	Compliance Officers		FL
 United Construction Management Corp	Sacramento	CA	1	Network and Computer Systems Administrators		CA
-United Consulting Group Ltd.	Norcross	GA	12	Accountants and Auditors; Civil Engineers; Mining and Geological Engineers, Including Mining Safety Engineers	73200	GA
+United Consulting Group Ltd.	Norcross	GA	6	Accountants and Auditors; Civil Engineers; Mining and Geological Engineers, Including Mining Safety Engineers	73200	GA
 United Consulting Hub Inc	Metuchen	NJ	15	Microbiologists; Validation Engineers; Technical Writers	80400	PA,MD,FL
 United Contractor Services, LLC	Kennesaw	GA	1	Construction Managers		NC
 United Eco-Technology Corp.	Balch Springs	TX	3	Market Research Analysts and Marketing Specialists	72000	TX
@@ -1288,7 +1288,7 @@ United Nations Association of the USA Capital Area Division	Washington	DC	1	Trai
 United Nations Federal Credit Union	Long Island City	NY	6	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	133400	NY
 United Nations Foundation, Inc.	Washington	DC	1	Public Relations Specialists		NY
 United Natural Foods, Inc.	Providence	RI	5	Architectural and Engineering Managers; Software Developers; Computer Network Architects	158500	MA,CA,RI
-United Neuroscience, Inc.	Bakersfield	CA	4	Neurologists		CA
+United Neuroscience, Inc.	Bakersfield	CA	2	Neurologists		CA
 United Pacific Industries, Inc.	Long Beach	CA	1	Computer Programmers		TX
 United Parcel Service General Services Co.	Atlanta	GA	66	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	140800	NJ,GA,TX
 United Parcel Service, Inc.	Atlanta	GA	3	Industrial Engineers; Information Technology Project Managers; Business Intelligence Analysts	99700	CA,TX,GA
@@ -1412,7 +1412,7 @@ Universal Weather and Aviation, LLC	Houston	TX	2	Computer Network Architects		TX
 UniversalAGI, Inc.	San Francisco	CA	2	Computer and Information Research Scientists		CA
 Universe King Corp.	Flushing	NY	1	Market Research Analysts and Marketing Specialists		NY
 Universidad Central del Caribe, Inc.			1	Statistical Assistants		
-Universidad Politecnica de Puerto Rico, Inc.			6	Engineering Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary	47900	
+Universidad Politecnica de Puerto Rico, Inc.			3	Engineering Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary	47900	
 Universities Space Research Association	Washington	DC	8	Atmospheric and Space Scientists; Astronomers; Computer and Information Research Scientists	113600	CA,AL,NY
 University at Albany, State University of New York	Albany	NY	19	Biological Science Teachers, Postsecondary; Psychology Teachers, Postsecondary; Computer Science Teachers, Postsecondary	83000	NY
 University at Buffalo Neurosurgery, Inc.	Williamsville	NY	2	Healthcare Diagnosing or Treating Practitioners, All Other		NY
@@ -1424,7 +1424,7 @@ University Dental Health Services, Inc	Pittsburgh	PA	1	Dentists, All Other Speci
 University Federal Credit Union	Austin	TX	2	Software Quality Assurance Analysts and Testers; Database Architects		TX
 University Health Physicians	Kansas City	MO	3	Physicians, All Other	400000	MO
 University Health System, Inc.	Knoxville	TN	3	Physicians, All Other; Neurologists	425000	TN
-University Hospitals Cleveland Medical Center	Cleveland	OH	10	General Internal Medicine Physicians; Physicians, All Other; Data Scientists	75700	OH
+University Hospitals Cleveland Medical Center	Cleveland	OH	9	Physicians, All Other; General Internal Medicine Physicians; Data Scientists	75700	OH
 University Hospitals Health System, Inc.	Shaker Heights	OH	4	Data Scientists; Computer and Information Systems Managers; Software Developers	120200	OH
 University Hospitals Medical Group, Inc.	Cleveland	OH	23	Physicians, All Other; Cardiologists; Radiologists	287400	OH
 University Medical Center, Inc.	Louisville	KY	11	Medical and Clinical Laboratory Technologists; Respiratory Therapists; Biological Scientists, All Other	70700	KY
@@ -1468,7 +1468,7 @@ University of Connecticut	Storrs	CT	59	Materials Scientists; Medical Scientists,
 University of Connecticut Health Center	Farmington	CT	9	Biological Scientists, All Other; Health Specialties Teachers, Postsecondary; Dentists, General	103700	CT
 University Of Delaware	Newark	DE	25	Business Teachers, Postsecondary; Soil and Plant Scientists; Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary	95300	DE
 University of Denver	Denver	CO	6	Chemists; Psychology Teachers, Postsecondary; Economics Teachers, Postsecondary	56200	CO
-University of Detroit Mercy	Detroit	MI	14	Health Specialties Teachers, Postsecondary; Software Developers; Business Teachers, Postsecondary	101000	MI
+University of Detroit Mercy	Detroit	MI	10	Health Specialties Teachers, Postsecondary; Software Developers; Business Teachers, Postsecondary	101000	MI
 University of Evansville	Evansville	IN	1	Engineering Teachers, Postsecondary		IN
 University of Findlay	Findlay	OH	2	Training and Development Specialists; Coaches and Scouts		OH
 University Of Florida	Gainesville	FL	182	Physicians, All Other; Health Specialties Teachers, Postsecondary; Medical Scientists, Except Epidemiologists	93400	FL,WA,AZ
@@ -1551,7 +1551,7 @@ University of Northern Colorado	Greeley	CO	1	Health Specialties Teachers, Postse
 University of Northern Iowa	Cedar Falls	IA	7	Economics Teachers, Postsecondary; Operations Research Analysts; Engineering Teachers, Postsecondary	67000	IA
 University of Notre Dame du Lac	Notre Dame	IN	36	Chemists; Engineering Teachers, Postsecondary; Education Administrators, Postsecondary	84400	IN,DC
 University of Oklahoma	Norman	OK	51	Engineering Teachers, Postsecondary; Foreign Language and Literature Teachers, Postsecondary; Biological Science Teachers, Postsecondary	76500	OK
-University of Oklahoma Health Sciences Center	Oklahoma City	OK	46	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Physicians, All Other	66000	OK
+University of Oklahoma Health Sciences Center	Oklahoma City	OK	43	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Physicians, All Other	66000	OK
 University of Oregon	Eugene	OR	12	Bioengineers and Biomedical Engineers; Molecular and Cellular Biologists; Foreign Language and Literature Teachers, Postsecondary	85500	OR
 University of Pikeville	Pikeville	KY	1	Business Teachers, Postsecondary		KY
 University of Pittsburgh	Pittsburgh	PA	128	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Bioinformatics Scientists	70000	PA,KS
@@ -1564,7 +1564,7 @@ University of Puget Sound	Tacoma	WA	2	History Teachers, Postsecondary; Web and D
 University of Redlands	Redlands	CA	1	Market Research Analysts and Marketing Specialists		CA
 University of Rhode Island	Kingston	RI	15	Biochemists and Biophysicists; Mathematical Science Teachers, Postsecondary; Physicists	87000	RI,TX
 University of Richmond	Richmond	VA	2	Business Teachers, Postsecondary; Economics Teachers, Postsecondary		VA
-University of Rochester	Rochester	NY	121	Registered Nurses; Medical Scientists, Except Epidemiologists; Surgeons, All Other	70000	NY
+University of Rochester	Rochester	NY	120	Registered Nurses; Medical Scientists, Except Epidemiologists; Surgeons, All Other	70000	NY
 University of Saint Joseph	West Hartford	CT	2	Education Administrators, Postsecondary; Education Teachers, Postsecondary		CT
 University of San Diego	San Diego	CA	7	Law Teachers, Postsecondary; Philosophy and Religion Teachers, Postsecondary; Business Teachers, Postsecondary	145600	CA
 University of San Francisco	San Francisco	CA	1	Computer Science Teachers, Postsecondary		CA
@@ -1752,7 +1752,7 @@ Usaa Logistics Inc	Savannah	GA	1	Logisticians		GA
 Usable Machines, Inc.	Venice	CA	1	Software Developers		CA
 USAble Mutual Insurance Company	Little Rock	AR	2	Business Intelligence Analysts; Software Quality Assurance Analysts and Testers		AR
 USAC Airways 695 LLC	Van Nuys	CA	2	Commercial Pilots		CA
-USACS Medical Group Ltd.	Canton	OH	78	Hospitalists; Emergency Medicine Physicians; Physicians, All Other		OH,MD,OK
+USACS Medical Group Ltd.	Canton	OH	55	Hospitalists; Emergency Medicine Physicians; Physicians, All Other		MD,OK,NC
 USACS Medical Group of California, Inc.	Canton	OH	1	Emergency Medicine Physicians		CA
 USACS Medical Group of Texas, PLLC	Canton	OH	1	Hospitalists		TX
 Usai, LLC	New Windsor	NY	1	Interior Designers		NY
@@ -1881,7 +1881,7 @@ West Virginia State University	Institute	WV	3	Computer Science Teachers, Postsec
 West Virginia State University Research And Development Corporation	Institute	WV	4	Education Administrators, Postsecondary; Biologists	75600	WV,IL
 West Virginia University	Morgantown	WV	99	Health Specialties Teachers, Postsecondary; Biochemists and Biophysicists; Economists	84400	WV,PA,CA
 West Virginia University Dental Corporation	Morgantown	WV	1	Dentists, All Other Specialists		WV
-West Virginia University Hospitals, Inc.	Morgantown	WV	35	Acute Care Nurses; Critical Care Nurses; General Internal Medicine Physicians	267100	WV,CA
+West Virginia University Hospitals, Inc.	Morgantown	WV	8	General Internal Medicine Physicians; Acute Care Nurses; Project Management Specialists	267100	WV,CA
 West Virginia University Medical Corporation	Morgantown	WV	75	General Internal Medicine Physicians; Pediatricians, General; Neurologists	275400	WV,PA
 Western Carolina University	Cullowhee	NC	4	Engineering Teachers, Postsecondary	84800	NC
 Western Colorado University	Gunnison	CO	3	Network and Computer Systems Administrators	83000	NY

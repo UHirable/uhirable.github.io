@@ -66,7 +66,7 @@ APW OpCo LLC	Bala Cynwyd	PA	1	Financial and Investment Analysts		NJ
 Archer and Olive, LLC	Georgetown	TX	1	Public Relations Managers		TX
 Archer Oil Tools LLC	Houston	TX	2	Geoscientists, Except Hydrologists and Geographers		TX
 Architects Orange, LLP	Orange	CA	2	Architects, Except Landscape and Naval; Architectural and Civil Drafters		CA
-Ares Operations, LLC	Los Angeles	CA	29	Financial and Investment Analysts; Accountants and Auditors; Software Developers	155000	NY,CA,CO
+Ares Operations, LLC	Los Angeles	CA	27	Financial and Investment Analysts; Accountants and Auditors; Software Developers	155000	NY,CA,CO
 Ark Law Office	City of Industry	CA	1	Lawyers		CA
 Arnot Ogden Medical Center	Elmira	NY	2	Operations Research Analysts; Anesthesiologists		NY
 Asian Market Orem LLC	Orem	UT	1	Data Scientists		UT
@@ -316,7 +316,7 @@ Hilton Domestic Operating Company Inc.	McLean	VA	29	Software Developers; Softwar
 Holistic Hospital Optimization LLC	Waltham	MA	1	Data Scientists		MA
 Home Box Office, Inc.	New York	NY	2	Software Developers; Computer and Information Systems Managers		NY
 Homebot One, Inc.	Fremont	CA	4	Software Developers	83500	TX
-HomePro Operating, LLC	Carrollton	TX	4	Software Developers		TX
+HomePro Operating, LLC	Carrollton	TX	1	Software Developers		TX
 Hope Online Learning Academy Co-op	Englewood	CO	1	Teachers and Instructors, All Other		CO
 Horizon Family Office Corp.	New York	NY	1	Accountants and Auditors		CA
 Hospitalist Medicine Physicians of Ohio, P.C.	Nashville	TN	3	Hospitalists		OH
@@ -371,7 +371,7 @@ Keystone Oral Surgery Associates PC	Shamokin Dam	PA	1	Computer Systems Analysts	
 Khoren Ouzounian	Magnolia	TX	1	Education Administrators, All Other		TX
 Kiewit Offshore Services, Ltd.	Ingleside	TX	1	Civil Engineers		TX
 Kimmel Orchard Vineyard Educational Foundation, Inc.	Nebraska City	NE	1	Accountants and Auditors		NE
-Kin On Health Care Center	Seattle	WA	8	Registered Nurses; Clinical Nurse Specialists		WA
+Kin On Health Care Center	Seattle	WA	4	Registered Nurses; Clinical Nurse Specialists		WA
 King Law Offices	Greer	SC	2	Lawyers		SC
 Kings County Office of Education	Hanford	CA	1	Special Education Teachers, All Other		CA
 Kirsten Sage Chiropractic Offices, APC	Encinitas	CA	1	Chiropractors		CA
@@ -383,7 +383,7 @@ KRA Operations, LLC	Prosperity	SC	2	Human Resources Specialists; Human Resources
 Kristo Orthodontics	Eau Claire	WI	1	Orthodontists		WI
 Kuiper OpCo, LLC	Austin	TX	1	Software Developers		TX
 Lagoinha Orlando Church, Inc.	Orlando	FL	1	Lawyers		FL
-Lake Erie College of Osteopathic Medicine, Inc.	Erie	PA	2	Health Specialties Teachers, Postsecondary		NY
+Lake Erie College of Osteopathic Medicine, Inc.	Erie	PA	1	Health Specialties Teachers, Postsecondary		NY
 Lakeside Orthopedic Institute, LLC	Lake Havasu City	AZ	1	Physicians, All Other		AZ
 Land O'Lakes, Inc.	Arden Hills	MN	2	Business Intelligence Analysts; Software Developers		WA,TX
 Lani Cao Law Office	Bellevue	WA	2	Lawyers; Public Relations Specialists		TX,WA
@@ -487,7 +487,7 @@ Lot Ocean Transport, Inc.	Miami	FL	2	Operations Research Analysts; Financial and
 LSU New Orleans	New Orleans	LA	1	Biological Science Teachers, Postsecondary		LA
 Lumentum Operations LLC	San Jose	CA	2	Photonics Engineers		CA,NC
 Luxury Optical Holdings, Co.	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
-Lycee Francais Nouvelle Orleans	New Orleans	LA	11	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Education Administrators, Kindergarten through Secondary	45600	LA
+Lycee Francais Nouvelle Orleans	New Orleans	LA	8	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Education Administrators, Kindergarten through Secondary	45600	LA
 Macias Gini & O'Connell LLP	Sacramento	CA	10	Accountants and Auditors; Information Security Engineers	100300	CA,NJ
 Madison Ortho Inc.			1	Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products		
 Magnum Opus IT, Inc.	Atlanta	GA	7	Software Developers; Computer Systems Analysts	124300	GA,TX,MD
@@ -537,7 +537,7 @@ Morton St. Trading Opco LLC	New York	NY	1	Sustainability Specialists		NY
 Motive Partners Operating Company LP	New York	NY	1	Financial and Investment Analysts		NY
 Mountain View One Investment Group Corp	Santa Clara	CA	1	Kindergarten Teachers, Except Special Education		CA
 MP Mine Operations LLC	Las Vegas	NV	7	Chemical Engineers; Purchasing Managers; Computer Systems Analysts	125000	CA
-MPG Operations LLC	New York	NY	218	Software Developers; Financial and Investment Analysts; Data Scientists	120300	NY,FL,CA
+MPG Operations LLC	New York	NY	169	Software Developers; Data Scientists; Financial and Investment Analysts	120300	NY,FL,CA
 Mueller Oberkfell & Jones, LLC	Arnold	MO	1	Accountants and Auditors		MO
 Musa Obregon Law, PC	Maspeth	NY	1	Lawyers		NY
 Musco Olive Products	Tracy	CA	1	Web Developers		WA
@@ -588,7 +588,7 @@ Northwest Georgia Oncology Centers, P.C.	Griffin	GA	1	Physicians, All Other		GA
 Northwest Ohio Periodontics Brian M Roy Dds Ms LLC	Holland	OH	1	Dentists, General		OH
 NSB Omega Inc	Houston	TX	1	Business Intelligence Analysts		OH
 Nscale Operations US LLC	Wilmington	DE	4	Computer Network Architects; Financial Managers; Software Developers	195400	NC,WA,CA
-Nubes Opus, LLC	Kansas City	MO	5	Computer Programmers; Software Developers		MO
+Nubes Opus, LLC	Kansas City	MO	2	Computer Programmers; Software Developers		MO
 Nudge Workbench OpCo, LLC	San Francisco	CA	1	Medical Scientists, Except Epidemiologists		CA
 Numbers Only, Inc.	Hurst	TX	5	Software Developers; Computer Systems Analysts; Network and Computer Systems Administrators	90900	MI,GA,TX
 o Quad Industries Inc.	Warren	MI	1	Mechanical Engineers		MI
@@ -599,7 +599,7 @@ O'Connell Robertson & Associates, Inc.	Austin	TX	1	Architects, Except Landscape 
 O'Connor Hospital	Delhi	NY	1	Medical and Clinical Laboratory Technologists		NY
 O'Donnell, Dannwolf & Partners Architects, Inc.	Hollywood	FL	1	Architects, Except Landscape and Naval		FL
 O'Flaherty Law, P.C.	Naperville	IL	2	Lawyers		IL
-O'Grady Peyton International	Savannah	GA	17	Medical and Clinical Laboratory Technologists; Medical and Clinical Laboratory Technicians	75100	VA,MI,MA
+O'Grady Peyton International	Savannah	GA	11	Medical and Clinical Laboratory Technologists; Medical and Clinical Laboratory Technicians	75100	VA,MI,TX
 O'Kane Structural Steel, Inc.	San Francisco	CA	1	Civil Engineers		CA
 O'Melveny & Myers LLP	Los Angeles	CA	1	Lawyers		NY
 O'Neil Digital Solutions, LLC	Los Angeles	CA	2	Computer and Information Systems Managers; Software Developers		TX
@@ -822,7 +822,7 @@ Ohio River Laboratories, LLC	Houston	TX	2	Natural Sciences Managers		TX
 Ohio State Dental Faculty Practice, Inc.	Columbus	OH	3	Health Specialties Teachers, Postsecondary; Dentists, General; Orthodontists		OH
 Ohio Valley Goodwill Industries Rehabilitation Center, Inc.	Cincinnati	OH	1	Social and Community Service Managers		OH
 Ohio Wesleyan University	Delaware	OH	1	Communications Teachers, Postsecondary		OH
-OhioHealth Corp.	Columbus	OH	66	Registered Nurses; Medical and Clinical Laboratory Technologists; Network and Computer Systems Administrators	103500	OH
+OhioHealth Corp.	Columbus	OH	24	Registered Nurses; Medical and Clinical Laboratory Technologists; Network and Computer Systems Administrators	103500	OH
 OhioHealth Physician Group, Inc.	Columbus	OH	9	Physicians, All Other; Athletic Trainers; Surgeons, All Other	325000	OH
 Ohk Global Inc	Houston	TX	1	Accountants and Auditors		TX
 OHLA Building, Inc.	Miami	FL	1	Construction Managers		FL
@@ -999,7 +999,7 @@ OmniThink.AI Inc.	San Francisco	CA	1	Data Scientists		LA
 Omnitron Sensors Inc.	Los Angeles	CA	2	Electrical Engineers; Microsystems Engineers		CA,MI
 OmniVision Technologies, Inc.	Santa Clara	CA	34	Electronics Engineers, Except Computer; Validation Engineers; Accountants and Auditors	127200	CA,MI
 OMNY, Inc.	Atlanta	GA	4	Data Scientists; Marketing Managers; Operations Research Analysts	111000	CA,PA,IA
-OMR North America, Inc.	Speedway	IN	2	Industrial Engineers		IN
+OMR North America, Inc.	Speedway	IN	1	Industrial Engineers		IN
 Omron Electronics LLC	Hoffman Estates	IL	3	Sales Managers; Information Technology Project Managers; Sales Engineers	126000	TX,IL
 OMRON Healthcare, Inc.	Hoffman Estates	IL	1	Information Technology Project Managers		IL
 Omron Management Center of America, Inc.	Hoffman Estates	IL	1	Robotics Engineers		CA
@@ -1009,7 +1009,7 @@ Omsum Engineering LLC	Piscataway	NJ	1	Civil Engineers		NJ
 OMV America, LLC.	Houston	TX	1	Management Analysts		FL
 Omya Inc.	Mason	OH	1	Mechanical Engineers		AZ
 On Computer Services	Terrell	TX	1	Electrical Engineers		KS
-On Defend	Jacksonville	FL	3	Software Quality Assurance Analysts and Testers		FL
+On Defend	Jacksonville	FL	1	Software Quality Assurance Analysts and Testers		FL
 On Energy Mission Critical LLC	Miami	FL	1	Electrical Engineers		CA
 On Energy Storage Inc	Miami	FL	3	Electronics Engineers, Except Computer; Architectural and Engineering Managers	150000	IL,IN,TX
 On Robot US Inc.	Irving	TX	1	Engineers, All Other		TX
@@ -1020,7 +1020,7 @@ On-Off Shore Consultants Inc.	New York	NY	2	Instructional Coordinators		NY
 On-Target Supplies & Logistics, Ltd.	Dallas	TX	1	Project Management Specialists		TX
 ON24, Inc.	San Francisco	CA	2	Software Developers		NC,CA
 Ona Sports, Inc.	Orlando	FL	1	Entertainment and Recreation Managers, Except Gambling		FL
-Onal Gallant Bayram and Amin PC	Elmwood Park	NJ	3	Judicial Law Clerks		NJ
+Onal Gallant Bayram and Amin PC	Elmwood Park	NJ	2	Judicial Law Clerks		NJ
 ONB Engineering Research and Technical Services LLC	Henrico	VA	1	Chemical Engineers		NJ
 Onbe, Inc.	Conshohocken	PA	4	Computer Programmers	98200	PA,IL
 OnboardIQ Inc.	San Francisco	CA	2	Software Developers; Architectural and Engineering Managers		IL
@@ -1052,7 +1052,7 @@ One Media Ny LLC	Long Island City	NY	1	Project Management Specialists		NY
 One Mind	Rutherford	CA	1	Market Research Analysts and Marketing Specialists		CA
 One Oak Advisory Group LLC	Scottsdale	AZ	1	Accountants and Auditors		AZ
 One Oak Flow LLC	Scottsdale	AZ	1	Business Intelligence Analysts		AZ
-One on One Physical Therapy, LLC	Bridgewater	NJ	19	Physical Therapists	78800	NY
+One on One Physical Therapy, LLC	Bridgewater	NJ	15	Physical Therapists	78800	NY
 One River Asset Management, LLC	Stamford	CT	1	Financial and Investment Analysts		CT
 One Robot, Inc.	San Francisco	CA	1	Mechanical Engineers		CA
 One Rock Capital Partners, LLC	New York	NY	1	Financial and Investment Analysts		CA
@@ -1081,7 +1081,7 @@ OneBlood, Inc.	Orlando	FL	1	Medical and Clinical Laboratory Technologists		FL
 OneDigital Investment Advisors LLC	Atlanta	GA	2	Financial and Investment Analysts		NC
 OneFabric Technologies	San Ramon	CA	1	Computer Programmers		CA
 OneGlobe LLC	Cambridge	MA	3	Software Quality Assurance Analysts and Testers	72000	NC
-OneH2, Inc.	Longview	NC	8	Electrical Engineers; Mechanical Engineers; Industrial Engineers	70000	CA,NC
+OneH2, Inc.	Longview	NC	4	Mechanical Engineers; Industrial Engineers; Electrical Engineers	70000	NC,CA
 Onehouse Inc.	Sunnyvale	CA	1	Software Developers		CA
 ONeill Contractors Inc.	Chicago	IL	1	Cost Estimators		IL
 Oneiro Management Group LLC	Stockton	CA	2	Network and Computer Systems Administrators; Health Informatics Specialists		CA
@@ -1196,7 +1196,7 @@ Open Systems, Inc.	Southfield	MI	12	Software Quality Assurance Analysts and Test
 Open Technology Solutions, LLC	Englewood	CO	1	Software Developers		CO
 Open Text Inc.	Gaithersburg	MD	4	Software Developers; Software Quality Assurance Analysts and Testers	163000	MD,CO,CA
 OpenAGI Research Foundation, Inc.	San Mateo	CA	3	Data Scientists; Software Developers	550000	CA
-OpenAI OpCo, LLC	San Francisco	CA	792	Software Developers; Information Technology Project Managers; Data Scientists	255000	CA,WA,NY
+OpenAI OpCo, LLC	San Francisco	CA	112	Software Developers; Information Technology Project Managers; Data Scientists	255000	CA,WA,NY
 OpenAirInterface Foundation	Dover	DE	1	Software Developers		MA
 OpenArt AI, Inc.	San Francisco	CA	6	Marketing Managers; General and Operations Managers; Management Analysts	140000	CA
 OpenBox Solutions, Inc.	Ann Arbor	MI	4	Software Developers	100600	PA,MI,TX
@@ -1296,7 +1296,7 @@ Optimum Software Solutions, Inc.	Tallahassee	FL	1	Software Quality Assurance Ana
 Optimum Systems Inc.	Ashburn	VA	1	Computer Programmers		NJ
 Optimus Health Analytics, LLC	Jackson Heights	NY	2	Network and Computer Systems Administrators; Business Intelligence Analysts		NY
 Optimus Labs USA LLC	Irving	TX	1	Training and Development Specialists		TX
-Optimus Services Corporation	New York	NY	12	Registered Nurses		NY
+Optimus Services Corporation	New York	NY	4	Registered Nurses		NY
 Optimus SteeL LLC	The Woodlands	TX	2	Transportation, Storage, and Distribution Managers; Mechanical Engineers		TX
 Optimus Unit LLC	Frisco	TX	6	Software Developers; Computer Programmers; Software Quality Assurance Analysts and Testers	108800	TX,AZ,VA
 Optimuss Inc	Ashburn	VA	1	Software Developers		NJ
@@ -1338,8 +1338,8 @@ Opusclip Inc.	Mountain View	CA	8	Software Developers; Computer and Information R
 Ora Apps Inc	Iselin	NJ	5	Computer Systems Analysts; Database Administrators; Network and Computer Systems Administrators	105000	NJ,TX,VA
 Ora, Inc.	Andover	MA	3	Biostatisticians; Market Research Analysts and Marketing Specialists	97200	NC,NJ,VA
 Orabase Solutions LLC	McKinney	TX	12	Software Developers; Database Administrators	93000	TX,MD,GA
-Oracle America, Inc.	Austin	TX	5876	Software Developers; Computer and Information Systems Managers; Computer Systems Analysts	149000	CA,TX,WA
-Oracle Financial Services Software, Inc.	Bridgewater	NJ	153	Software Developers; Computer Systems Analysts; Computer and Information Systems Managers	150400	VA,NJ,FL
+Oracle America, Inc.	Austin	TX	580	Software Developers; Computer Systems Analysts; Computer and Information Systems Managers	149000	CA,TX,WA
+Oracle Financial Services Software, Inc.	Bridgewater	NJ	32	Software Developers; Computer and Information Systems Managers; Computer Systems Analysts	150400	NJ,VA,OH
 Oracle Robotics Corp	Chicago	IL	5	Industrial Engineers; Manufacturing Engineers; Software Developers	104000	IL,TX,IN
 Oraedge Inc	Phoenix	AZ	2	Architectural and Civil Drafters		NJ
 Orafi, Inc.	Sunny Isles Beach	FL	1	Market Research Analysts and Marketing Specialists		FL
@@ -1478,7 +1478,7 @@ ORO Labs Inc.	Mountain View	CA	3	Software Developers; Information Technology Pro
 Orochem Technologies, Inc	Naperville	IL	1	Mechanical Engineers		IL
 Orora Design Technologies, Inc.	Redmond	WA	1	Electronics Engineers, Except Computer		WA
 Oros Tech LLC	Tampa	FL	2	Information Technology Project Managers		GA
-Orpheus Academy of Music LLC	Austin	TX	10	Self-Enrichment Teachers		TX
+Orpheus Academy of Music LLC	Austin	TX	6	Self-Enrichment Teachers		TX
 Orpine Inc	Alpharetta	GA	35	Software Developers; Database Administrators; Software Quality Assurance Analysts and Testers	112900	TX,GA,CA
 Orprize LLC	Herndon	VA	3	Computer Systems Engineers/Architects; Software Quality Assurance Analysts and Testers	128500	IL,MD
 Orquidea Investments LLC	Kissimmee	FL	2	Management Analysts		FL
@@ -1650,7 +1650,7 @@ Owens Corning Science and Technology, LLC	Toledo	OH	7	Industrial Engineers; Mech
 Owens State Community College	Perrysburg	OH	1	Education Administrators, Postsecondary		OH
 Owens-Brockway Glass Container, Inc.	Perrysburg	OH	6	Materials Engineers; Industrial Engineers; Mechatronics Engineers	122200	CA,TX,IN
 Owens-Illinois General, Inc.	Perrysburg	OH	3	Computer and Information Systems Managers; Mechatronics Engineers; Industrial Engineers	112700	OH
-Owensboro Health, Inc.	Owensboro	KY	10	Medical and Clinical Laboratory Technologists; Compensation, Benefits, and Job Analysis Specialists		KY,ID
+Owensboro Health, Inc.	Owensboro	KY	5	Medical and Clinical Laboratory Technologists; Compensation, Benefits, and Job Analysis Specialists		KY,ID
 Owensboro Medical Practice, PLLC	Owensboro	KY	1	Network and Computer Systems Administrators		KY
 Owl Autonomous Imaging, Inc.	Fairport	NY	1	Software Developers		NY
 Owl Research Institute	Charlo	MT	1	Biological Technicians		MT
@@ -1718,7 +1718,7 @@ Pinegrove Opportunity Partners LLC	San Francisco	CA	2	Accountants and Auditors; 
 Pinnacle Health Observation Services, LLC	Pittsburgh	PA	1	Physicians, All Other		PA
 Pinnacle One Dental Group, Delisle, PC	Effingham	IL	1	Dentists, General		OH
 Pixels On Target LLC	Sunrise	FL	3	Robotics Engineers; Computer Hardware Engineers	115000	FL
-PKF O'Connor Davies Advisory LLC	Harrison	NY	11	Accountants and Auditors		NY
+PKF O'Connor Davies Advisory LLC	Harrison	NY	2	Accountants and Auditors		NY
 Plaquemines LNG Operations, LLC	Arlington	VA	1	Chemical Engineers		LA
 Plastic Omnium Auto Exteriors, LLC	Troy	MI	2	Architectural and Engineering Managers; Mechanical Engineers		SC
 Plastic Omnium Lighting Systems, Inc.	Hendersonville	TN	2	Mechatronics Engineers; Industrial Engineers		TN
@@ -1879,7 +1879,7 @@ The Odyssey Preparatory Academy, Inc.	Buckeye	AZ	2	Elementary School Teachers, E
 The Office of James Burnett, Inc.	Houston	TX	3	Landscape Architects	66500	TX,NJ
 The Ogilvy Group, LLC	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
 The Ohio State University	Columbus	OH	116	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Molecular and Cellular Biologists	81200	OH,MA
-The Ohio University	Athens	OH	33	Educational, Guidance, and Career Counselors and Advisors; English Language and Literature Teachers, Postsecondary; Art, Drama, and Music Teachers, Postsecondary	65000	OH,TX,VA
+The Ohio University	Athens	OH	31	Educational, Guidance, and Career Counselors and Advisors; Art, Drama, and Music Teachers, Postsecondary; English Language and Literature Teachers, Postsecondary	65000	OH,TX,VA
 The Omni Group, LLC	Centennial	CO	1	Data Scientists		NJ
 The Omnitrust Technologies LLC	Alpharetta	GA	8	Computer Programmers; Computer Systems Engineers/Architects; Software Developers	85800	GA,AZ
 The One Music Center Inc	Brooklyn	NY	2	Self-Enrichment Teachers		NY
@@ -1914,7 +1914,7 @@ University of Georgia; OGE	Athens	GA	36	Mathematical Science Teachers, Postsecon
 University of Massachusetts Office of the President	Westborough	MA	5	Software Developers; Accountants and Auditors; Data Scientists	122900	MA
 University of New Orleans	New Orleans	LA	6	Business Teachers, Postsecondary; Database Architects	110000	LA
 University of Oklahoma	Norman	OK	51	Engineering Teachers, Postsecondary; Foreign Language and Literature Teachers, Postsecondary; Biological Science Teachers, Postsecondary	76500	OK
-University of Oklahoma Health Sciences Center	Oklahoma City	OK	46	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Physicians, All Other	66000	OK
+University of Oklahoma Health Sciences Center	Oklahoma City	OK	43	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Physicians, All Other	66000	OK
 University of Oregon	Eugene	OR	12	Bioengineers and Biomedical Engineers; Molecular and Cellular Biologists; Foreign Language and Literature Teachers, Postsecondary	85500	OR
 University of Science and Arts of Oklahoma	Chickasha	OK	1	Recreation and Fitness Studies Teachers, Postsecondary		OK
 UPS, Inc. (OH)	Atlanta	GA	2	Software Developers		GA

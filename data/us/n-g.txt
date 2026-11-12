@@ -13,7 +13,7 @@
 A & E Group, Inc.	Wilkes-Barre	PA	1	Architectural and Civil Drafters		PA
 A R Global Inc.	Brooklyn	NY	1	Operations Research Analysts		NY
 A S Gill Dental Corp	Modesto	CA	2	General and Operations Managers		CA
-A Square Group LLC	Frederick	MD	3	Computer Systems Analysts; Information Security Engineers		TX,MD
+A Square Group LLC	Frederick	MD	2	Information Security Engineers; Computer Systems Analysts		MD,TX
 A-one Gold & Diamonds, LLC	Houston	TX	1	General and Operations Managers		TX
 A1 Consulting Group, Inc.	Morrisville	NC	1	Civil Engineering Technologists and Technicians		NC
 Aadi Gems Inc	New York	NY	1	Web Developers		NY
@@ -23,7 +23,7 @@ Abc Information Technology Group LLC	Orlando	FL	2	Business Intelligence Analysts
 ABM Industry Groups, LLC	Sugar Land	TX	1	Construction Managers		AZ
 About Glamour Inc.	Brooklyn	NY	1	Curators		NY
 Above Green, LLC	Middleburg	VA	1	Energy Engineers, Except Wind and Solar		TX
-ABS Global, Inc.	DeForest	WI	6	Animal Scientists; Software Developers; Industrial Engineers	88500	WI,WA
+ABS Global, Inc.	DeForest	WI	5	Software Developers; Industrial Engineers; Animal Scientists	88500	WI,WA
 Acadian Consulting Group, LLC	Baton Rouge	LA	2	Market Research Analysts and Marketing Specialists		LA
 Acadiana Pediatric Gastroenterology and Hepatology Associates LLC	Lafayette	LA	1	Office and Administrative Support Workers, All Other		LA
 Accelerated Global Solutions, Inc.	New Hyde Park	NY	2	Accountants and Auditors; Logistics Analysts		NY
@@ -492,7 +492,7 @@ Caitac Garment Processing, Inc.	Gardena	CA	1	Computer Programmers		CA
 Cajun and Grill of America, Inc	Coral Gables	FL	5	Project Management Specialists	84700	FL
 Calderon Dental Group LLC	Holland	OH	3	Dentists, General	234000	OH
 Calfee, Halter & Griswold LLP	Cleveland	OH	3	Technical Writers; Lawyers	85000	OH
-Calif Global Inc.	Los Altos Hills	CA	2	Information Security Engineers		CA
+Calif Global Inc.	Los Altos Hills	CA	1	Information Security Engineers		CA
 California Property Law Group, LLP	Los Angeles	CA	1	Judicial Law Clerks		CA
 Callaway Golf Company	Carlsbad	CA	2	Software Developers; Mechanical Engineers		CA
 Callaway Golf Sales Company	Carlsbad	CA	1	Computer and Information Systems Managers		NE
@@ -633,7 +633,7 @@ Cleveland Clinic Akron General	Akron	OH	3	Physicians, All Other	475000	OH
 Cleveland Clinic Akron General Medical Center	Akron	OH	3	Physicians, All Other	67300	OH
 Cleveland Guardians Baseball Company LLC	Cleveland	OH	1	Management Analysts		OH
 Clinpharma Consulting Global Group, Llc.	Newark	DE	4	Computer Programmers		NJ
-Clocktower Group, L.P.	Santa Monica	CA	77	Financial and Investment Analysts; Accountants and Auditors	100000	CA
+Clocktower Group, L.P.	Santa Monica	CA	5	Financial and Investment Analysts; Accountants and Auditors	100000	CA
 Cloud Global LLC	Irving	TX	1	Software Developers		TX
 Cloud Graphics LLC	San Francisco	CA	1	Graphic Designers		CA
 Cloud Service Group Inc.	Houston	TX	1	Market Research Analysts and Marketing Specialists		TX
@@ -718,7 +718,7 @@ Cosmos Granite South East, LLC	Peachtree	GA	1	Logisticians		GA
 Cosmos Granite West LLC	Kent	WA	1	Logistics Engineers		OR
 Couloir Technology Group, Inc	Newark	DE	3	Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products; Computer Systems Analysts		WA
 County of Macoupin General Account	Carlinville	IL	1	Administrative Services Managers		IL
-Coupang Global LLC	Mountain View	CA	145	Software Developers; Data Scientists; Information Technology Project Managers	212200	WA,CA
+Coupang Global LLC	Mountain View	CA	54	Software Developers; Data Scientists; Information Technology Project Managers	212200	WA,CA
 Covenant Medical Group	Renton	WA	6	Neurologists; Family Medicine Physicians; Cardiologists	320000	TX,TN,NM
 Cover Genius US Employee Services, LLC	New York	NY	5	Data Scientists; Financial and Investment Analysts; Statisticians	215000	CA,NY
 CPA Global North America, LLC	Ann Arbor	MI	5	Software Developers; Data Scientists	160000	VA,FL,MI
@@ -738,7 +738,7 @@ CS2 Design Group, LLC	Elk Grove Village	IL	1	Mechanical Engineers		IL
 CTC Trading Group, LLC	Chicago	IL	31	Software Developers; Financial Quantitative Analysts; Data Scientists	200000	IL,NY,TX
 Cube Group, Inc.	Chicago	IL	1	Graphic Designers		IL
 Cullerton Group, LLC	Evanston	IL	3	Software Developers; Data Scientists	168500	IL,NC
-Cumming Management Group, Inc.	Murrieta	CA	61	Cost Estimators; Project Management Specialists; Construction Managers	120000	CA,NY,MA
+Cumming Management Group, Inc.	Murrieta	CA	57	Cost Estimators; Project Management Specialists; Construction Managers	120000	CA,NY,MA
 Cuny & Guerber, Inc.	Edison	NJ	1	Energy Engineers, Except Wind and Solar		NJ
 CUNY Graduate School of Public Health & Health Policy	New York	NY	1	Health Specialties Teachers, Postsecondary		NY
 Curatio Management Group	Chantilly	VA	1	Market Research Analysts and Marketing Specialists		VA
@@ -792,7 +792,7 @@ Dental Glitters LLC	Oxon Hill	MD	1	Dentists, General		MD
 Dental Health Group, PA	Southfield	MI	3	Dental Hygienists		FL
 DEPT Growth Marketing, Inc.	Chicago	IL	2	Market Research Analysts and Marketing Specialists		CA
 Desert Valley Medical Group, Inc.	Victorville	CA	2	General Internal Medicine Physicians; Clinical Data Managers		CA
-Design Group JEDI Incorporated	Chicago	IL	2	Architects, Except Landscape and Naval		IL
+Design Group JEDI Incorporated	Chicago	IL	1	Architects, Except Landscape and Naval		IL
 Destination XL Group, Inc.	Canton	MA	1	Software Developers		MA
 Detroit Economic Growth Corporation	Detroit	MI	1	Geographic Information Systems Technologists and Technicians		MI
 Devon Business Group INC.	Chicago	IL	1	Financial and Investment Analysts		IL
@@ -911,7 +911,7 @@ Ellenoff Grossman & Schole LLP	New York	NY	6	Lawyers	244000	NY,NJ
 Ellington Management Group, LLC	Old Greenwich	CT	7	Accountants and Auditors; Financial Quantitative Analysts; Software Developers	150000	NY,CT
 Elman Joseph Law Group, LLC	Chicago	IL	1	Judicial Law Clerks		SC
 Elman Law Group, LLC	Chicago	IL	4	Paralegals and Legal Assistants; Legal Support Workers, All Other	77900	IL
-Elogistics (GA) Service Corp.	Austell	GA	7	Graphic Designers; Market Research Analysts and Marketing Specialists; Public Relations Specialists	46100	GA
+Elogistics (GA) Service Corp.	Austell	GA	6	Market Research Analysts and Marketing Specialists; Graphic Designers; Public Relations Specialists	46100	GA
 EMC Consulting Group, Inc	Frisco	TX	1	Computer Systems Engineers/Architects		CO
 Emec Consulting Group Inc	City of Industry	CA	4	Public Relations Specialists; Operations Research Analysts; Training and Development Specialists		CA
 Emec Group LLC	Houston	TX	1	Financial and Investment Analysts		TX
@@ -1090,7 +1090,7 @@ FUSE Group LLC	Fort Lauderdale	FL	1	Computer and Information Systems Managers		M
 Fusion Global Solutions LLC	Plano	TX	1	Software Developers		AZ
 Fusion Global Technologies and Solutions Inc	Plano	TX	1	Data Scientists		TX
 Fusion Global Technologies Solutions Inc	Plano	TX	1	Software Quality Assurance Analysts and Testers		IA
-Fusion United Group, LLC	Hurst	TX	2	Search Marketing Strategists		TX
+Fusion United Group, LLC	Hurst	TX	1	Search Marketing Strategists		TX
 Future Group USA LLC	Somerset	NJ	1	Mechanical Engineers		NJ
 Fuyao Glass America Inc.	Moraine	OH	56	Mechanical Engineers; Data Scientists; Industrial Engineers	71900	OH,MI
 Fuyao Glass Illinois, Inc.	Decatur	IL	5	Electrical Engineers; Operations Research Analysts; Purchasing Agents, Except Wholesale, Retail, and Farm Products	70000	IL
@@ -1212,7 +1212,7 @@ GameBrain Inc	Troy	MI	1	Software Developers		KY
 GameChange Solar Corp.	Norwalk	CT	12	Electrical Engineers; Logistics Engineers; Mechatronics Engineers	120000	CT,TX,NY
 GameChanger Media, Inc.	New York	NY	1	Web and Digital Interface Designers		NY
 Gamefam, Inc.	Los Angeles	CA	2	Computer Programmers		NC,CA
-Gamelan Sekar Jaya	Berkeley	CA	3	Art, Drama, and Music Teachers, Postsecondary		CA
+Gamelan Sekar Jaya	Berkeley	CA	1	Art, Drama, and Music Teachers, Postsecondary		CA
 Gamesight Inc.			1	Market Research Analysts and Marketing Specialists		CA
 GameStop Texas LTD	Grapevine	TX	1	Software Quality Assurance Analysts and Testers		TX
 GameStop, Inc.	Grapevine	TX	7	Software Developers; Database Administrators; Marketing Managers	135000	TX
@@ -1304,7 +1304,7 @@ Gateway AI Services Inc.	Palo Alto	CA	1	Computer Programmers		CA
 Gateway Commercial Bank	Mesa	AZ	1	Credit Analysts		AZ
 Gateway Electric, LLC	Cleveland	OH	2	Electrical Engineers		OH
 Gateway Group, Inc.	Newport Beach	CA	1	Financial and Investment Analysts		CA
-Gateway Health Technologies, Inc.	Orlando	FL	20	Registered Nurses		KS,NE
+Gateway Health Technologies, Inc.	Orlando	FL	6	Registered Nurses		KS,NE
 Gateway Healthcare, Inc.	Providence	RI	2	Healthcare Social Workers; Mental Health Counselors		RI
 Gateway Institute for Brain Research, LLC	Davie	FL	1	Molecular and Cellular Biologists		FL
 Gateway Management Company LLC	Birmingham	AL	1	Accountants and Auditors		AL
@@ -1397,7 +1397,7 @@ Geisinger Community Medical Center	Scranton	PA	1	Medical and Clinical Laboratory
 Geisinger Health Plan	Danville	PA	2	Business Intelligence Analysts; Software Developers, Non R&D		PA,FL
 Geisinger Medical Center	Danville	PA	9	Medical and Clinical Laboratory Technologists; Anesthesiologists; Physicists	72800	PA
 Geisinger System Services	Danville	PA	11	Data Scientists; Software Developers; Business Intelligence Analysts	110600	PA,MA,NC
-Geisinger Wyoming Valley Medical Center	Danville	PA	18	General Internal Medicine Physicians; Physicians, All Other; Neurologists	71700	PA
+Geisinger Wyoming Valley Medical Center	Danville	PA	10	General Internal Medicine Physicians; Physicians, All Other; Neurologists	71700	PA
 Geismar North America, Inc.	Beaufort	SC	1	Mechanical Engineers		SC
 GEKA Manufacturing Corporation	Elgin	IL	1	Accountants and Auditors		IL
 Gekit Inc.	Sunnyvale	CA	2	Software Developers		MA
@@ -1430,13 +1430,13 @@ Gen., LLC	Wynnewood	PA	2	Market Research Analysts and Marketing Specialists		PA
 Genalyte, Inc.	San Diego	CA	2	Software Developers		CA
 Genbio.AI, Inc.	Palo Alto	CA	2	Computer and Information Research Scientists		CA
 Genboo LLC	Menlo Park	CA	1	Human Factors Engineers and Ergonomists		CA
-Gendelberg Law, PLLC	Brooklyn	NY	15	Paralegals and Legal Assistants; Judicial Law Clerks	83200	NY
+Gendelberg Law, PLLC	Brooklyn	NY	13	Paralegals and Legal Assistants; Judicial Law Clerks	83200	NY
 Gene Friend Way Inc	San Francisco	CA	1	General and Operations Managers		CA
 Gene On Link LLC	Chino Hills	CA	1	Biological Technicians		CA
 Genedata (USA), Inc.	Lexington	MA	1	Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products		MA
 GeneDx, LLC	Stamford	CT	1	Computer and Information Systems Managers		IL
 Genentech USA, Inc.	South San Francisco	CA	17	Market Research Analysts and Marketing Specialists; Data Scientists; Business Intelligence Analysts	165600	CA
-Genentech, Inc.	South San Francisco	CA	115	Biochemists and Biophysicists; Medical Scientists, Except Epidemiologists; Molecular and Cellular Biologists	141500	CA,OR,NY
+Genentech, Inc.	South San Francisco	CA	97	Medical Scientists, Except Epidemiologists; Chemists; Data Scientists	141500	CA,OR,NY
 Gener8 LLC	San Jose	CA	1	Manufacturing Engineers		CA
 Genera Corporation	Brea	CA	1	Purchasing Agents, Except Wholesale, Retail, and Farm Products		CA
 Generac Power Systems	Waukesha	WI	21	Software Developers; Electrical Engineers; Industrial Engineers	132500	WI,NV,CA
@@ -1468,7 +1468,7 @@ General Motors	Warren	MI	455	Software Developers; Mechanical Engineers; Electric
 General Motors Financial Company, Inc.	Fort Worth	TX	65	Software Developers; Data Scientists; Operations Research Analysts	135000	TX,MI,IL
 General Physician, P.C.	Buffalo	NY	7	Hospitalists; Family Medicine Physicians; Physicians, All Other	265000	NY
 General Reinsurance Corporation	Stamford	CT	1	Data Scientists		CT
-General Robotics Technology, Inc.	Redmond	WA	20	Robotics Engineers		WA
+General Robotics Technology, Inc.	Redmond	WA	2	Robotics Engineers		WA
 General Transervice, Inc.	Coatesville	PA	4	Electronics Engineers, Except Computer	108700	PA
 Generali Employee Benefits Network SA Co.	Morristown	NJ	1	Insurance Underwriters		NJ
 Generate Biomedicines, Inc.	Somerville	MA	8	Molecular and Cellular Biologists; Biochemists and Biophysicists; Computer and Information Research Scientists	135000	MA,CA
@@ -1491,7 +1491,7 @@ Genesis Fund Company Management LLC	Boston	MA	1	Financial and Investment Analyst
 Genesis Global Recruiting, Inc.	Miramar	FL	1	Special Effects Artists and Animators		NY
 Genesis Health Clubs Management, Inc.	Wichita	KS	5	Management Analysts; Special Effects Artists and Animators; Coaches and Scouts	75000	KS,IA,KY
 Genesis Health Inc	Davenport	IA	1	Registered Nurses		IA
-Genesis Health System	Davenport	IA	36	Registered Nurses; Medical and Clinical Laboratory Technologists; General Internal Medicine Physicians		IA,IL
+Genesis Health System	Davenport	IA	31	Registered Nurses; General Internal Medicine Physicians; Physicians, All Other		IA,IL
 Genesis Intelligence Inc.	San Carlos	CA	7	Software Developers	187600	CA
 Genesis Management Holdings LLC	New York	NY	2	Financial and Investment Analysts		NY
 Genesis Medical Group, LLC	Zanesville	OH	7	Physicians, All Other; General Internal Medicine Physicians; Cardiologists	442600	OH
@@ -1569,7 +1569,7 @@ Geo Logics Systems Corps	South Plainfield	NJ	1	Computer Systems Engineers/Archit
 Geo Logistics Inc	Temple City	CA	1	Operations Research Analysts		CA
 Geo-Enviro Consulting & Remediation LLC	Piscataway	NJ	1	Environmental Scientists and Specialists, Including Health		NJ
 Geo-Hydro Engineers, Inc.	Kennesaw	GA	1	Civil Engineers		GA
-Geo-Solutions, Inc.	New Kensington	PA	6	Civil Engineers	108000	IL,PA
+Geo-Solutions, Inc.	New Kensington	PA	3	Civil Engineers	108000	IL,PA
 Geocal	Centennial	CO	1	Cost Estimators		CO
 Geocomp Inc.	Acton	MA	3	Civil Engineers	92900	MA,GA
 Geoconvergence, LLC	Bloomington	IN	2	Geographers		CA,IN
@@ -1832,7 +1832,7 @@ Glendive Public Schools	Glendive	MT	1	Special Education Teachers, Elementary Sch
 Glendon Services L.P.	Santa Monica	CA	1	Financial Managers		NY
 Glenmark Pharmaceuticals, Inc. USA	Elmwood Park	NJ	7	Quality Control Systems Managers; Validation Engineers; Chemists	111700	NC,NJ
 Glenmore Industries LLC	Edison	NJ	1	Data Scientists		FL
-Glens Falls Hospital	Glens Falls	NY	8	Medical and Clinical Laboratory Technologists; Physicians, All Other		NY
+Glens Falls Hospital	Glens Falls	NY	6	Medical and Clinical Laboratory Technologists; Physicians, All Other		NY
 Glenshaw Distributors, Inc	Allison Park	PA	1	Cost Estimators		PA
 Glenville State University	Glenville	WV	2	Mathematical Science Teachers, Postsecondary		WV
 Glenwood Village Care Center Inc.	Glenwood	MN	1	Registered Nurses		MN
@@ -1934,7 +1934,7 @@ Global Mail, Inc. d/b/a DHL eCommerce	Weston	FL	4	Software Developers; Logistics
 Global Marine Safety Services Inc.	Houston	TX	1	Electronics Engineers, Except Computer		TX
 Global Market, LLC	Madison	WI	2	Market Research Analysts and Marketing Specialists		WI
 Global Merchant Cash Inc	New York	NY	1	Credit Analysts		UT
-Global Nursing Recruiters	Tucker	GA	15	Critical Care Nurses; Medical and Health Services Managers	83800	AL,KS,GA
+Global Nursing Recruiters	Tucker	GA	14	Critical Care Nurses; Medical and Health Services Managers	83800	AL,KS,NJ
 Global Ocean Law Group PC	San Marino	CA	1	Editors		CA
 Global Organics LLC	Goodyear	AZ	1	Soil and Plant Scientists		AZ
 Global Pacific Ventures, Inc.	Tiburon	CA	1	Financial and Investment Analysts		CA
@@ -1942,7 +1942,7 @@ Global Packaging Supply, Inc.	Hayward	CA	1	Market Research Analysts and Marketin
 Global Payment Holding Company	Atlanta	GA	36	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	116900	GA,TX,FL
 Global Payments Holding Company	Atlanta	GA	1	Software Developers		LA
 Global Preparatory Academy, Inc.	Indianapolis	IN	2	Special Education Teachers, Elementary School; Middle School Teachers, Except Special and Career/Technical Education		IN
-Global Process Consultants LLC	Plantation	FL	7	Engineers, All Other; Mechatronics Engineers		FL
+Global Process Consultants LLC	Plantation	FL	3	Engineers, All Other; Mechatronics Engineers		FL
 Global Quantum Intelligence, LLC	Miami Beach	FL	1	Computer and Information Research Scientists		CA
 Global Research Synergies, Inc.	Orlando	FL	2	Marketing Managers		FL
 Global Resources International, Inc.	Flowery Branch	GA	1	Bioengineers and Biomedical Engineers		GA
@@ -2011,7 +2011,7 @@ Globus Medical North America, Inc.	Audubon	PA	1	Validation Engineers		PA
 Globus Medical, Inc.	Audubon	PA	25	Software Developers; Architectural and Engineering Managers; Software Quality Assurance Analysts and Testers	117000	PA,MA,CA
 Glocal Marketing LLC	Rego Park	NY	2	Data Scientists		NY
 Glohai, Inc.	San Francisco	CA	1	Interpreters and Translators		CA
-Glory International Inc	Randallstown	MD	8	Entertainers and Performers, Sports and Related Workers, All Other		MD
+Glory International Inc	Randallstown	MD	1	Entertainers and Performers, Sports and Related Workers, All Other		MD
 Glory Star Group LLC	Sheridan	WY	1	Market Research Analysts and Marketing Specialists		NV
 Glosoft Technologies LLC	Houston	TX	6	Computer Programmers; Software Quality Assurance Analysts and Testers	72000	TX
 Glossy Technologies	Naperville	IL	1	Software Developers		MN
@@ -2080,8 +2080,8 @@ Goettsch Partners, Inc.	Chicago	IL	2	Architects, Except Landscape and Naval		IL
 Goff D'Antonio Associates LTD	Charleston	SC	2	Architectural and Civil Drafters		SC
 Goffa International Corp.	Carlstadt	NJ	1	Management Analysts		NJ
 Gofo Express Inc			2	Logisticians		
-GOFO Inc.	Chino	CA	107	Business Operations Specialists, All Other; Logistics Analysts; Survey Researchers	70000	CA,NJ,FL
-GoFundMe, Inc.	San Diego	CA	13	Software Developers; Information Technology Project Managers; Business Intelligence Analysts	215000	CA
+GOFO Inc.	Chino	CA	102	Business Operations Specialists, All Other; Logistics Analysts; Operations Research Analysts	70000	CA,FL,NJ
+GoFundMe, Inc.	San Diego	CA	12	Software Developers; Information Technology Project Managers; Business Intelligence Analysts	215000	CA
 Goggans Associates of North Carolina PC	Dallas	TX	1	Dentists, General		NC
 Gogo Business Aviation LLC	Broomfield	CO	3	Software Quality Assurance Analysts and Testers; Computer Network Architects	147300	CO
 Gogo Realtors R.H. Corp	Diamond Bar	CA	1	Management Analysts		CA
@@ -2124,7 +2124,7 @@ Golden Gate University	San Francisco	CA	2	Education Administrators, All Other; E
 Golden Gate Wholesale, LLC	Louisville	KY	1	General and Operations Managers		KY
 Golden Grain Pizza LLC	Albany	NY	1	Data Scientists		NY
 Golden Harvest Foods Inc	Santa Rosa	CA	1	Management Analysts		CA
-Golden Harvest International School & Daycare			3	Elementary School Teachers, Except Special Education		
+Golden Harvest International School & Daycare			1	Elementary School Teachers, Except Special Education		
 Golden Hills Orthopedic & Sports Physical Therapy, Inc.	San Jose	CA	2	Physical Therapists; Exercise Physiologists		CA
 Golden IT Services LLC	Boiling Springs	PA	1	Software Quality Assurance Analysts and Testers		PA
 Golden Ivy Marketing Inc.	Irvine	CA	1	Statisticians		CA
@@ -2153,8 +2153,8 @@ Goldframe LLC	Menlo Park	CA	1	Operations Research Analysts		IL
 Goldiam USA Inc	New York	NY	1	Database Administrators		NY
 Goldin Group LLC	Bethesda	MD	1	Accountants and Auditors		MD
 Goldline Technologies Inc.	Bedford	TX	1	Database Administrators		GA
-Goldman Sachs & Co. LLC	New York	NY	917	Financial Quantitative Analysts; Software Developers; Financial and Investment Analysts	140000	UT,NY,TX
-Goldman Sachs Bank USA	New York	NY	629	Software Developers; Financial and Investment Analysts; Business Intelligence Analysts	146500	TX,NY,DE
+Goldman Sachs & Co. LLC	New York	NY	719	Software Developers; Financial and Investment Analysts; Financial Quantitative Analysts	140000	NY,TX,UT
+Goldman Sachs Bank USA	New York	NY	134	Software Developers; Business Intelligence Analysts; Financial Risk Specialists	146500	TX,NY,DE
 Goldman Sachs Services LLC	New York	NY	338	Software Developers; Computer and Information Systems Managers; Information Security Analysts	153500	TX,NY,UT
 Goldman Sachs Wealth Services, L.P.	New York	NY	50	Software Developers; Financial and Investment Analysts; Operations Research Analysts	112500	NY,TX,IL
 Goldstick Lighting Design, Ltd.	Valhalla	NY	1	Interior Designers		NY
@@ -2213,7 +2213,7 @@ Goodman Pharmacy & Surgical,inc	Passaic	NJ	1	General and Operations Managers		NJ
 Goodman Pictures, LLC	Louisville	KY	2	Accountants and Auditors		KY
 Goodone Enterprise, LLC	Pinehurst	TX	1	Accountants and Auditors		TX
 Goodr LLC	Inglewood	CA	1	Database Administrators		CA
-Goodreads LLC	Seattle	WA	22	Software Developers; Market Research Analysts and Marketing Specialists; Computer and Information Systems Managers	188700	WA,CA
+Goodreads LLC	Seattle	WA	4	Software Developers; Market Research Analysts and Marketing Specialists; Computer and Information Systems Managers	188700	WA,CA
 Goodrich Corporation	Charlotte	NC	1	Transportation, Storage, and Distribution Managers		OH
 GoodRx, Inc.	Santa Monica	CA	6	Data Scientists; Statisticians; Accountants and Auditors	150500	CA,OH,TX
 Goods4You LLC	Los Angeles	CA	1	Market Research Analysts and Marketing Specialists		CA
@@ -2322,7 +2322,7 @@ Grace Evangelical Lutheran Church of Winter Haven Florida Inc	Winter Haven	FL	1	
 Grace Health, Inc.	Battle Creek	MI	3	Mental Health Counselors; Dentists, General	66900	MI
 Grace Instrument Technologies Inc.	Houston	TX	1	Mechanical Engineers		TX
 Grace Technologies, Inc.	Davenport	IA	1	Computer Hardware Engineers		IA
-Grace William Health Systems Inc	Klamath Falls	OR	7	Substance Abuse and Behavioral Disorder Counselors	48400	OR,MD
+Grace William Health Systems Inc	Klamath Falls	OR	4	Substance Abuse and Behavioral Disorder Counselors	48400	MD,OR
 Gracie Servicing Inc.	Pomona	CA	1	Market Research Analysts and Marketing Specialists		CA
 Graco Minnesota Inc.	Minneapolis	MN	1	Materials Engineers		MN
 GradCo LLC	Boston	MA	1	Environmental Engineers		MA
@@ -2364,7 +2364,7 @@ Grand Bk Corp.	Carlstadt	NJ	2	Operations Research Analysts; Management Analysts	
 Grand Canyon Education, Inc.	Phoenix	AZ	1	Education Administrators, Postsecondary		AZ
 Grand Canyon University	Phoenix	AZ	1	Mathematical Science Teachers, Postsecondary		AZ
 Grand Circle LLC	Boston	MA	1	Database Administrators		MA
-Grand Forks Public Schools	Grand Forks	ND	11	Special Education Teachers, Secondary School; Special Education Teachers, Middle School; Special Education Teachers, Elementary School	66600	ND
+Grand Forks Public Schools	Grand Forks	ND	8	Special Education Teachers, Secondary School; Special Education Teachers, Middle School; Secondary School Teachers, Except Special and Career/Technical Education	66600	ND
 Grand Island Public Schools	Grand Island	NE	1	Secondary School Teachers, Except Special and Career/Technical Education		NE
 Grand Isle Shipyard LLC	Galliano	LA	1	Information Security Engineers		TX
 Grand IT LLC	Prosper	TX	8	Software Developers; Computer Programmers	89700	TX,OH
@@ -2377,7 +2377,7 @@ Grand View University	Des Moines	IA	1	Chemistry Teachers, Postsecondary		IA
 Grand Visionary Inc.	South Pasadena	CA	1	Interior Designers		CA
 Grandhi Consultants, LLC	Sheridan	WY	1	Civil Engineers		CA
 Grandinetti & Associates, P.S.	Spokane	WA	1	Accountants and Auditors		WA
-Grandison Management, Inc.	Howell	NJ	63360	Physical Therapists; Occupational Therapists		IL,NY,FL
+Grandison Management, Inc.	Howell	NJ	1584	Physical Therapists; Occupational Therapists		IL,NY,FL
 Grandizio, Wilkins, Little & Matthews, LLP	Hunt Valley	MD	1	Accountants and Auditors		MD
 Grandizio,Wilkins, Little & Matthews, LLP	Hunt Valley	MD	1	Accountants and Auditors		MD
 Grandstream Networks, Inc.	Boston	MA	1	Software Quality Assurance Analysts and Testers		TX
@@ -2532,7 +2532,7 @@ Green Kaminer Min & Rockmore LLP	New York	NY	2	Lawyers		NY
 Green Leaf Consulting Group, Inc.	Blue Bell	PA	1	Database Administrators		PA
 Green Leaf Partners Management	Pleasanton	CA	1	Financial and Investment Analysts		CA
 Green Light Pet Hospital The Woodlands LLC	The Woodlands	TX	1	Veterinarians		TX
-Green Meadow School			5	Elementary School Teachers, Except Special Education		
+Green Meadow School			2	Elementary School Teachers, Except Special Education		
 Green Mountain Healthcare LLC	San Antonio	TX	1	Physical Therapists		TX
 Green New Energy Materials, Inc.	Denver	NC	2	Electrical Engineers; Environmental Compliance Inspectors		NC
 Green Park Consulting, Inc.	Sheridan	WY	2	Software Developers; Network and Computer Systems Administrators		IL,VA
@@ -2543,9 +2543,9 @@ Green Planet Inc	Riverside	CA	1	Logisticians		CA
 Green Ridge Country Club	Ada	MI	1	Entertainment and Recreation Managers, Except Gambling		MI
 Green Street Advisors, LLC	Newport Beach	CA	1	Financial and Investment Analysts		CA
 Green Street Power Partners, LLC	Stamford	CT	3	Solar Energy Systems Engineers; Data Scientists	143100	NC,CT,IL
-Green Tanner Industrial Construction LLC	Chandler	AZ	2	Civil Engineers		AZ
+Green Tanner Industrial Construction LLC	Chandler	AZ	1	Civil Engineers		AZ
 Green Tokai Co., Ltd.	Brookville	OH	2	Mechanical Engineers		OH
-Green Valley Manufacturing of Illinois, Inc.	Decatur	IL	2	Electrical Engineers, R&D		IL
+Green Valley Manufacturing of Illinois, Inc.	Decatur	IL	1	Electrical Engineers, R&D		IL
 Green Water & Power, LLC	Van Nuys	CA	1	Electrical Engineers		CA
 Green Wave Ingredients Inc.	Orange	CA	2	Data Scientists; Operations Research Analysts		IL,CA
 Greenback Health, Inc.	Findlay	OH	1	Business Intelligence Analysts		TX
@@ -2781,8 +2781,8 @@ Gu Eagle America Inc	Ontario	CA	1	Operations Research Analysts		CA
 Guadalupe Valley Telephone Cooperative, Inc.	New Braunfels	TX	1	Software Developers		TX
 Guam Advance Enterprises Inc.			1	Electrical Engineers		
 Guam Healthcare Development Inc.			4	Pharmacists; Physicians, All Other; Medical and Clinical Laboratory Technologists		
-Guam Industrial Services, Inc.			2	Accountants and Auditors		
-Guam Ukudu Power, LLC			11	Electrical Engineers; Financial Managers; Mechanical Engineers	66100	
+Guam Industrial Services, Inc.			1	Accountants and Auditors		
+Guam Ukudu Power, LLC			10	Electrical Engineers; Financial Managers; Mechanical Engineers	66100	
 Guaranteed Rate, Inc.	Chicago	IL	2	Financial Specialists, All Other; Financial Managers		AZ,PA
 GuarantR, Inc. d/b/a TheGuarantors	New York	NY	5	Software Developers; Financial Risk Specialists; Software Quality Assurance Analysts and Testers	155000	NY
 GuardAllAFAR Global Justice LLC	Sheridan	WY	1	Judicial Law Clerks		WA
@@ -2864,7 +2864,7 @@ Guthrie AI Inc.	Philadelphia	PA	3	Architects, Except Landscape and Naval; Inform
 Guthrie Cortland Medical Center	Cortland	NY	6	Registered Nurses		NY
 Guthrie County Hospital	Guthrie Center	IA	1	Database Administrators		IA
 Guthrie Lourdes Hospital	Binghamton	NY	21	Registered Nurses		NY
-Guthrie Medical Group, P.C.	Sayre	PA	35	Hospitalists; Physicians, All Other; General Internal Medicine Physicians	345800	NY,PA
+Guthrie Medical Group, P.C.	Sayre	PA	25	Hospitalists; Physicians, All Other; General Internal Medicine Physicians	345800	NY,PA
 Gutierrez Law Firm Immigration Inc	San Antonio	TX	1	Public Relations Specialists		TX
 Guy Carpenter & Company, LLC	New York	NY	8	Insurance Underwriters; Actuaries; Data Scientists	121100	NY,TX,WA
 Guy F. Atkinson Construction, LLC	Bethesda	MD	1	Health and Safety Engineers, Except Mining Safety Engineers and Inspectors		VA
@@ -2905,7 +2905,7 @@ Halo Medical Group PLLC	Dearborn	MI	1	Cardiologists		MI
 Hammel, Green and Abrahamson, Inc.	Minneapolis	MN	7	Architects, Except Landscape and Naval; Interior Designers; Architectural and Engineering Managers	82500	MA,MN,WA
 Han & Park Law Group, Inc.	Buena Park	CA	2	Paralegals and Legal Assistants		CA
 Han Group LLC	Washington, Dc	DC	2	Accountants and Auditors		MD,AZ
-Hanwha Q Cells Georgia, Inc.	White	GA	15	Materials Engineers; Operations Research Analysts; Purchasing Agents, Except Wholesale, Retail, and Farm Products	65100	GA
+Hanwha Q Cells Georgia, Inc.	White	GA	14	Materials Engineers; Operations Research Analysts; Purchasing Agents, Except Wholesale, Retail, and Farm Products	65100	GA
 Happy Global Inc.	Richardson	TX	1	Market Research Analysts and Marketing Specialists		TX
 Happy Global Logistics Inc	Richardson	TX	2	Logistics Analysts; Accountants and Auditors		TX,IL
 Harbor Health Medical Group	Austin	TX	1	General Internal Medicine Physicians		TX
@@ -3008,7 +3008,7 @@ Idea Group Inc	Hershey	PA	1	Computer Programmers		NY
 Ideation Design Group LLC	Phoenix	AZ	1	Architectural and Civil Drafters		AZ
 Iden Group Holding Inc.	New York	NY	1	Graphic Designers		NY
 IDS Group, Inc.	Irvine	CA	1	Electrical Engineers		CA
-Ignyte Group Inc.	McLean	VA	11	Computer Systems Analysts	109000	VA
+Ignyte Group Inc.	McLean	VA	3	Computer Systems Analysts	109000	VA
 iHommy Education Group America	Yorba Linda	CA	1	Financial and Investment Analysts		CA
 IHS Global Inc.	New York	NY	13	Market Research Analysts and Marketing Specialists; Financial Quantitative Analysts; Sales Engineers	105100	NY,TX,DC
 iLead Law Group, P.C.	New York	NY	1	Accountants and Auditors		NY
@@ -3047,9 +3047,9 @@ InnoActive Group	San Francisco	CA	7	Business Intelligence Analysts; Project Mana
 Innovar Healthcare Systems Group, Inc.	Montgomery	AL	1	Software Developers		AL
 Innovative Computer Solutions Group, Inc.	Bowie	MD	3	Management Analysts; Project Management Specialists		MD
 Innovative Dynamic Solutions Global Inc	Herndon	VA	6	Information Technology Project Managers; Data Scientists; Software Quality Assurance Analysts and Testers	104000	TX,VA,GA
-Innover Global Inc	Aurora	IL	19	Network and Computer Systems Administrators; Data Scientists; Database Administrators	87500	IL,TX,MN
+Innover Global Inc	Aurora	IL	16	Network and Computer Systems Administrators; Database Administrators; Data Scientists	87500	IL,TX,MN
 Ins Capital Group, LLC	Indianapolis	IN	1	Financial and Investment Analysts		IN
-Insight Global, LLC	Atlanta	GA	804	Registered Nurses; Software Developers; Data Scientists	113300	WA,TX,NC
+Insight Global, LLC	Atlanta	GA	304	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	113300	TX,NC,GA
 Insmed Gene Therapy LLC	Bridgewater	NJ	2	Medical Scientists, Except Epidemiologists; Industrial Production Managers		CA
 Instinet Group, LLC	New York	NY	1	Business Intelligence Analysts		NY
 Institute of Gas Technology	Des Plaines	IL	8	Mechanical Engineers; Electrical Engineers; Management Analysts	129400	IL,WI,CA
@@ -3119,7 +3119,7 @@ Jade Global, Inc.	San Jose	CA	12	Software Developers; Information Technology Pro
 Jahangiri Law Group, A Professional Corporation	San Ramon	CA	1	Lawyers		CA
 Jain Global LLC	New York	NY	7	Financial Quantitative Analysts; Software Developers; Mathematicians	180000	NY
 James R. Glidewell Dental Ceramics, Inc.	Newport Beach	CA	8	Software Developers; Data Scientists; Manufacturing Engineers	136700	CA
-Jane Street Group, LLC	New York	NY	115	Software Developers; Financial Quantitative Analysts; Operations Research Analysts	300000	NY
+Jane Street Group, LLC	New York	NY	49	Software Developers; Financial Quantitative Analysts; Operations Research Analysts	300000	NY
 Jane's Group Americas LLC	Arlington	VA	1	Management Analysts		VA
 Janssen Global Services, LLC	New Brunswick	NJ	4	Medical Scientists, Except Epidemiologists; Medical and Health Services Managers; Data Scientists	242800	NJ
 Janssen Supply Group, LLC	New Brunswick	NJ	5	Data Scientists; Computer and Information Systems Managers; Database Architects	168500	NJ,MA
@@ -3241,7 +3241,7 @@ Liberty Mutual Group Asset Management, Inc.	Boston	MA	4	Financial and Investment
 Liberty Mutual Group Inc.	Boston	MA	23	Data Scientists; Statistical Assistants; Statisticians	135800	MA,TX,OH
 Liberty Mutual Technology Group Inc.	Boston	MA	43	Software Developers; Business Intelligence Analysts; Database Architects	157000	TX,OH,MA
 Libra Global Philanthropies Foundation Inc	New York	NY	1	Public Relations Specialists		NY
-Lifespan Physician Group Inc.	Providence	RI	39	Physicians, All Other; Hospitalists; Anesthesiologists	252400	RI,MA
+Lifespan Physician Group Inc.	Providence	RI	35	Physicians, All Other; Anesthesiologists; Hospitalists	252400	RI,MA
 Light Grocery LLC	Lake Forest Park	WA	1	Compliance Officers		WA
 Lighten Group Great Neck Inc.	Great Neck	NY	1	Educational, Guidance, and Career Counselors and Advisors		NY
 Lighten Group Long Island, Inc	Syosset	NY	1	Financial and Investment Analysts		NY
@@ -3268,7 +3268,7 @@ Lockstep Technology Group, LLC	Peachtree Corners	GA	1	Computer Systems Engineers
 Lockwood Group Inc	Chino	CA	1	Operations Research Analysts		CA
 Logan Ad Group	San Juan Capistrano	CA	1	Operations Research Analysts		CA
 Lombardia Consulting Group, LLC	San Francisco	CA	2	Construction Managers; Cost Estimators		TX
-Londen Insurance Group, Inc.	Phoenix	AZ	2	Software Developers		FL
+Londen Insurance Group, Inc.	Phoenix	AZ	1	Software Developers		FL
 London Stock Exchange Group Holdings, Inc.	New York	NY	34	Software Developers; Data Scientists; Financial Quantitative Analysts	122100	NY,SC,MO
 Lonza Greenwood, LLC	Greenwood	SC	1	Sales Engineers		NJ
 Looking Glass Services Inc.	Winston Salem	NC	1	Robotics Engineers		NC
@@ -3339,7 +3339,7 @@ Marymont Group	Greenvale	NY	1	Human Resources Specialists		NJ
 MAS Global Consulting, LLC	Tampa	FL	6	Software Developers; Computer Programmers; Data Scientists	115900	DE,NY,NJ
 MASS Design Group, Ltd.	Boston	MA	6	Designers, All Other; Architects, Except Landscape and Naval; Training and Development Specialists	85000	MA,NY,NM
 Mass General Brigham Health Plan	Somerville	MA	1	Network and Computer Systems Administrators		TX
-Mass General Brigham Incorporated	Somerville	MA	32	Physicians, All Other; Natural Sciences Managers; Oral and Maxillofacial Surgeons	82500	MA
+Mass General Brigham Incorporated	Somerville	MA	28	Physicians, All Other; Natural Sciences Managers; Oral and Maxillofacial Surgeons	82500	MA
 Mass General Brigham Medical Group	Dover	NH	1	Cardiologists		NH
 Mass General Brigham Medical Group Northern Massachusetts	Peabody	MA	5	General Internal Medicine Physicians; Hospitalists; Cardiologists	265000	MA
 Mass General Brigham Medical Group, NH & Maine, Inc	Dover	NH	2	General Internal Medicine Physicians; Hospitalists		NH
@@ -3372,8 +3372,8 @@ MD Squared Property Group, LLC	New York	NY	1	Real Estate Brokers		NY
 Medical Group of Beverly Hills, Inc. (dba Cedars Sinai Medical Group)	Los Angeles	CA	1	Physicians, All Other		CA
 Medicine Inpatient Group LLC	West Chester	OH	1	Hospitalists		OH
 MedLink Global, Inc.	San Ramon	CA	1	Operations Research Analysts		CA
-MedStar Georgetown Medical Center, Inc.	Baltimore	MD	7	General Internal Medicine Physicians; Financial and Investment Analysts; Physicians, All Other	85000	DC,MD,VA
-MedStar Medical Group II, LLC	Columbia	MD	42	Physicians, All Other; Hospitalists; General Internal Medicine Physicians	316800	MD,DC,VA
+MedStar Georgetown Medical Center, Inc.	Baltimore	MD	6	General Internal Medicine Physicians; Financial and Investment Analysts; Physicians, All Other	85000	DC,MD,VA
+MedStar Medical Group II, LLC	Columbia	MD	41	Physicians, All Other; Hospitalists; General Internal Medicine Physicians	316800	MD,DC,VA
 MedStar Medical Group Radiology, LLC	Columbia	MD	1	Radiologists		MD
 MedStar Medical Group-Southern Maryland, LLC	Hollywood	MD	9	Physicians, All Other; General Internal Medicine Physicians; Computer Systems Analysts	240000	MD
 Medtronic MiniMed Group Inc.	Northridge	CA	1	Regulatory Affairs Managers		IN
@@ -3559,7 +3559,7 @@ NorthBay Solano Medical Group, Inc.	Fairfield	CA	1	Hospitalists		CA
 Northeast Georgia Health Systems, Inc.	Gainesville	GA	1	Physicists		GA
 Northeast Georgia Medical Center, Inc.	Gainesville	GA	1	Software Developers		GA
 Northeast Georgia Physicians Group, Inc.	Gainesville	GA	3	Family Medicine Physicians; Surgeons, All Other; Neurologists	335000	GA
-Northeast Medical Group, Inc.	Stratford	CT	17	Hospitalists; Physicians, All Other; Healthcare Diagnosing or Treating Practitioners, All Other	288300	CT
+Northeast Medical Group, Inc.	Stratford	CT	16	Hospitalists; Physicians, All Other; Healthcare Diagnosing or Treating Practitioners, All Other	288300	CT
 Northern Management Group LLC	Dedham	MA	2	Business Intelligence Analysts		MA
 Northern Natural Gas Company	Omaha	NE	5	Software Developers; Computer Systems Analysts	118300	NE
 Northstar Group, Inc	Rockville	MD	38	Software Developers; Software Quality Assurance Analysts and Testers; Computer Systems Analysts	109300	GA,TX,MD
@@ -3615,7 +3615,7 @@ OM Consulting Engineers Group LLC	Jersey City	NJ	4	Civil Engineers	89900	NJ
 Om Ganapati Inc	San Jose	CA	1	General and Operations Managers		CA
 Omni Legal Group, PLC	Los Angeles	CA	1	Lawyers		CA
 On Site Personnel Group Inc.	Philadelphia	PA	3	Database Administrators	69000	PA
-Onal Gallant Bayram and Amin PC	Elmwood Park	NJ	3	Judicial Law Clerks		NJ
+Onal Gallant Bayram and Amin PC	Elmwood Park	NJ	2	Judicial Law Clerks		NJ
 Onda Housing Group LLC	Naples	FL	1	Project Management Specialists		FL
 ONE Gas, Inc.	Tulsa	OK	3	Data Scientists; Computer Systems Analysts; Software Developers	120100	TX
 One Global Info Systems LLC	Lisle	IL	3	Computer Systems Analysts; Computer Programmers	107000	PA,OH
@@ -3688,7 +3688,7 @@ Partners Group (USA) Inc.	Broomfield	CO	11	Financial and Investment Analysts; Ma
 Partners Physician Group	Akron	OH	1	Physicians, All Other		OH
 Patel, Greene And Associates, LLC	Temple Terrace	FL	3	Civil Engineers		FL
 Pattern Energy Group Services LP	San Francisco	CA	2	Computer Systems Engineers/Architects		TX
-Paul Rabinowitz Glass Company, Inc.	Philadelphia	PA	2	Cost Estimators		PA
+Paul Rabinowitz Glass Company, Inc.	Philadelphia	PA	1	Cost Estimators		PA
 Paxton Consulting Group S Corp. dba Advisor Associate	Santa Maria	CA	1	Personal Financial Advisors		CA
 Paymentus Group, Inc.	Charlotte	NC	2	Computer and Information Systems Managers		GA,NC
 PCI Gaming Authority d/b/a Wind Creek Hospitality	Atmore	AL	1	Software Developers		VA
@@ -3726,7 +3726,7 @@ Philips Image Guided Therapy Corporation	San Diego	CA	3	Industrial Engineers; Me
 Phillips Gradick Engineering, PC	Atlanta	GA	1	Mechanical Engineers		GA
 Phoebe Physician Group, Inc.	Albany	GA	4	Hospitalists; Surgeons, All Other; General Internal Medicine Physicians	313000	GA
 Phoenix Oversight Group, LLC	Arlington	VA	1	Computer Systems Analysts		VA
-Physician Affiliate Group Of Ny, PC	New York	NY	73	Physicians, All Other; Anesthesiologists; Psychiatrists	247200	NY
+Physician Affiliate Group Of Ny, PC	New York	NY	53	Physicians, All Other; Psychiatrists; Hospitalists	247200	NY
 Physician Groups, LC	St. Louis	MO	3	General Internal Medicine Physicians; Family Medicine Physicians; Hospitalists	250000	MO
 Physicians Network Medical Group, Inc.	Roseville	CA	6	Orthopedic Surgeons, Except Pediatric; Medical and Health Services Managers; General Internal Medicine Physicians	317500	CA
 Pi Gold Path LLC	New York	NY	2	Market Research Analysts and Marketing Specialists		NY
@@ -3742,7 +3742,7 @@ Pinpoint Consulting Group	Yorba Linda	CA	1	Judicial Law Clerks		CA
 Pioneer Global, Inc.	Richardson	TX	1	Computer Programmers		AZ
 Pioneer GMP Consulting LLC	Newton	MA	2	Validation Engineers		IL,WI
 Pioneer Medical Group, LLC	Tampa	FL	10	Hospitalists	255000	FL
-Pioneer Medical Group, PL	Tampa	FL	4	Hospitalists; Family Medicine Physicians	255000	FL
+Pioneer Medical Group, PL	Tampa	FL	3	Hospitalists; Family Medicine Physicians	255000	FL
 Pittsburgh Glass Works LLC	Cheswick	PA	4	Industrial Production Managers; Industrial Engineers	111800	OH,NC,PA
 Plains All American GP LLC	Houston	TX	3	Mechanical Engineers; Project Management Specialists	114600	TX
 Plainview Growers Inc.	Allamuchy Township	NJ	1	Farmers, Ranchers, and Other Agricultural Managers		NJ
@@ -3763,7 +3763,7 @@ PMG Project Management Group LLC	Houston	TX	1	Construction Managers		TX
 PMR Georgia Holding, LLC	Miami Gardens	FL	5	General Internal Medicine Physicians	239200	GA
 Point Construction Advisory Group, LLC	Asheville	NC	2	Management Analysts		TX,FL
 Point2Point Global LLC	Wilmington	MA	1	Business Intelligence Analysts		MA
-Pokroy Medical Group of Nevada, LTD	Sunrise	FL	5	Physicians, All Other	250000	NV
+Pokroy Medical Group of Nevada, LTD	Sunrise	FL	3	Physicians, All Other	250000	NV
 Populous Group, LLC	Kansas City	MO	15	Architects, Except Landscape and Naval; Landscape Architects; Interior Designers	71800	MO,NY,CO
 Populus Financial Group, Inc.	Irving	TX	6	Software Developers; Financial Risk Specialists; Statisticians	134000	TX,AZ
 Populus Group LLC	Troy	MI	243	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists		TX,MI,CA
@@ -3918,13 +3918,13 @@ Rio Global Inc.	Columbia	MD	1	Software Developers		DE
 Riot Games, Inc.	Los Angeles	CA	50	Software Developers; Database Administrators; Information Technology Project Managers	151800	CA,WA,MO
 Ripple Investment Group LLC	Salt Lake City	UT	1	Financial and Investment Analysts		UT
 RiverBend Medical Group, Inc.	Springfield	MA	1	General Internal Medicine Physicians		MA
-Rivers Construction Group Ltd	Jessup	MD	2	Civil Engineers		MD
+Rivers Construction Group Ltd	Jessup	MD	1	Civil Engineers		MD
 RiVi Consulting Group, LLC	Duluth	GA	10	Computer Systems Analysts; Software Developers; Computer Systems Engineers/Architects	91100	GA,NJ,WI
 Rivian and Volkswagen Group Technologies, LLC	Irvine	CA	69	Software Developers; Electrical Engineers; Mechanical Engineers	160000	CA,IL
 Rivian and VW Group Technology, LLC	Irvine	CA	16	Software Developers; Electrical Engineers; Data Scientists	192300	CA
 Roc Global, LLC	New York	NY	1	Financial and Investment Analysts		NY
 Rochester Gas and Electric Corporation	Orange	CT	1	Management Analysts		NY
-Rochester General Hospital	Rochester	NY	48	Registered Nurses; Hospitalists; General Internal Medicine Physicians	113700	NY,NJ
+Rochester General Hospital	Rochester	NY	33	Hospitalists; General Internal Medicine Physicians; Registered Nurses	113700	NY,NJ
 Rockland Consulting Group, LLC	Fairfield	CT	2	Accountants and Auditors		NY
 Rockstar Games, Inc.	New York	NY	7	Data Scientists; Special Effects Artists and Animators; Music Directors and Composers	150000	NY
 Rodriguez Construction Group, Inc.	Buffalo	NY	1	Market Research Analysts and Marketing Specialists		NY
@@ -4015,7 +4015,7 @@ Select Equity Group, L.P.	New York	NY	1	Financial and Investment Analysts		NY
 Selendy Gay PLLC	New York	NY	4	Lawyers; Judicial Law Clerks	272500	NY
 Sellas Life Sciences Group Inc.	New York	NY	1	Regulatory Affairs Managers		NY
 Sellside Group, LLC	Dallas	TX	1	Management Analysts		IL
-Sentara Medical Group	Virginia Beach	VA	13	Hospitalists; General Internal Medicine Physicians; Family Medicine Physicians	270000	VA
+Sentara Medical Group	Virginia Beach	VA	11	Hospitalists; General Internal Medicine Physicians; Family Medicine Physicians	270000	VA
 Seo Law Group, PLLC	Flushing	NY	1	Judicial Law Clerks		NY
 Seohan Auto Georgia Corporation	Midway	GA	4	Market Research Analysts and Marketing Specialists; Data Scientists	61800	GA
 Sequent Global Technologies Inc	Somerset	NJ	4	Management Analysts; Software Quality Assurance Analysts and Testers; Operations Research Analysts	91000	NJ,OH,TX
@@ -4028,12 +4028,12 @@ Seven Hills Group Technologies Inc	Princeton	NJ	1	Software Developers		TX
 SF Global Constructions Co	Irving	TX	1	Electrical Engineers		TX
 Sf Global LLC	Dallas	TX	2	Data Scientists; Network and Computer Systems Administrators		TX
 SFA Design Group, LLC.	Tigard	OR	1	Civil Engineers		OR
-SFC Global Supply Chain, Inc.	Marshall	MN	8	Industrial Engineers; Industrial Production Managers; Quality Control Systems Managers	105400	KS,CA,SD
+SFC Global Supply Chain, Inc.	Marshall	MN	7	Industrial Engineers; Quality Control Systems Managers; Manufacturing Engineers	105400	KS,CA,SD
 Shakti Group Inc.	Austin	TX	10	Data Scientists; Software Developers	94500	GA,TX,MI
 Shantesha Investment Group, Inc.	Los Angeles	CA	1	Financial Managers		CA
 Shared Technology Services Group LLC	Boston	MA	7	Software Developers; Data Scientists; Information Security Engineers	154600	MA
 Sharp Iron Group LLC	Wichita Falls	TX	3	General and Operations Managers; Commercial and Industrial Designers	72000	TX
-Shasta Regional Medical Group, Inc.	Redding	CA	2	Hospitalists		CA
+Shasta Regional Medical Group, Inc.	Redding	CA	1	Hospitalists		CA
 Shearwater GeoServices, Inc.	Houston	TX	1	Chief Executives		TX
 Shelby County Government	Memphis	TN	6	Management Analysts; Network and Computer Systems Administrators; Computer Systems Engineers/Architects	65900	TN
 Shell Global Solutions US Inc.	Houston	TX	1	Chemical Engineers		TX
@@ -4234,7 +4234,7 @@ Sunchaser Global LLC	Chapel Hill	NC	3	Project Management Specialists; Constructi
 Sunoco GP LLC	Dallas	TX	3	Chemical Engineers; Software Developers	150000	TX
 Sunoco Logistics Partners GP LLC	Dallas	TX	1	Chemical Engineers		TX
 SunOpta Grains and Foods Inc.	Eden Prairie	MN	1	Software Quality Assurance Analysts and Testers		MN
-Sunplus Data Group, Inc.	Lawrenceville	GA	4	Software Developers		GA
+Sunplus Data Group, Inc.	Lawrenceville	GA	3	Software Developers		GA
 Sunsea Law Group P.C.	Irvine	CA	1	Lawyers		NJ
 Sunshine Innovation Group LLC	Beaumont	TX	1	Accountants and Auditors		TX
 Sunwin Global Industry Inc.	New York	NY	1	Operations Research Analysts		NY
@@ -4261,8 +4261,8 @@ Synergy Groups Medical LLC	Houston	TX	1	Natural Sciences Managers		TX
 SynTech Graphene Technologies, LLC	Morris	IL	1	Materials Engineers		IA
 Syscom Global Solutions Inc.	New York	NY	2	Information Technology Project Managers		NY,MA
 Systems Protection Group US LLC	Northville	MI	1	Industrial Production Managers		TX
-Systems Technilogy Group, Inc.	Troy	MI	2	Software Developers		TX
-Systems Technology Group Inc	Troy	MI	54	Software Developers; Industrial Engineers; Mechanical Engineers		MI
+Systems Technilogy Group, Inc.	Troy	MI	1	Software Developers		TX
+Systems Technology Group Inc	Troy	MI	28	Software Developers; Mechanical Engineers; Industrial Engineers		MI
 T A G Treatment Action Group, Inc.	New York	NY	1	Health Education Specialists		NY
 T&J Brothers Group LLC	Brea	CA	1	Market Research Analysts and Marketing Specialists		CA
 T.D Wang Advertising Group, LLC	Seattle	WA	1	Market Research Analysts and Marketing Specialists		CA
@@ -4273,7 +4273,7 @@ Taco Group Holdings Inc.	Cranston	RI	1	Mechanical Engineers		RI
 TAG Financial Institutions Group, LLC	New York	NY	1	Financial and Investment Analysts		NY
 Tal Search Group	Tallahassee	FL	3	Computer User Support Specialists; Computer Occupations, All Other; Software Developers		FL
 Tamarack Grove Engineering, PLLC	Meridian	ID	1	Civil Engineers		ID
-Tandym Group LLC	New York	NY	23	Occupational Therapists; Software Developers		NY,NC
+Tandym Group LLC	New York	NY	4	Occupational Therapists; Software Developers		NY,NC
 Taos Global Group Inc.	Chicago	IL	1	Financial and Investment Analysts		IL
 Taurus Industrial Group, LLC.	Port Lavaca	TX	24	Mechanical Engineers; Materials Engineers; Data Scientists		TX
 Taylor Made Golf Company, Inc.	Carlsbad	CA	8	Computer Systems Engineers/Architects; Mechanical Engineers; Computer and Information Systems Managers	135500	CA
@@ -4342,7 +4342,7 @@ The Broussard Group, Inc.	Austin	TX	6	Landscape Architects; Urban and Regional P
 The Bsst Software Group	Northborough	MA	2	Data Warehousing Specialists; Information Technology Project Managers		NY,MA
 The Burson Group LLC	New York	NY	1	Data Scientists		GA
 The Caldwell Group, Inc.	Rockford	IL	2	Mechanical Engineers		NY
-The California Conservatory of Guitar	Sunnyvale	CA	7	Self-Enrichment Teachers		CA
+The California Conservatory of Guitar	Sunnyvale	CA	5	Self-Enrichment Teachers		CA
 The Canton Group, LLC	Baltimore	MD	3	Software Developers	127800	TX
 The CARIAN Group Corporation	Somerset	NJ	1	Electrical Engineers		NJ
 The Carlyle Group Employee Co. LLC	Washington	DC	8	Operations Research Analysts; Financial and Investment Analysts; Software Developers	245000	NY,DC
@@ -4364,7 +4364,7 @@ The Dionysus Group, LLC	Manchester	NH	2	Information Technology Project Managers	
 The EConsortium Group	Houston	TX	1	Computer Systems Engineers/Architects		TX
 The Epiphany School of Global Studies	New Bern	NC	2	Secondary School Teachers, Except Special and Career/Technical Education; Kindergarten Teachers, Except Special Education		NC
 The Equity Group Inc.	New York	NY	1	Public Relations Specialists		NY
-The Evolvers Group, L.P.	Flower Mound	TX	11	Software Developers; Computer Systems Engineers/Architects; Computer Systems Analysts		TX
+The Evolvers Group, L.P.	Flower Mound	TX	10	Computer Systems Engineers/Architects; Software Developers; Computer Systems Analysts		TX
 The Ferrante Group, LLC	Naples	FL	2	Investment Fund Managers		FL
 The Financial Risk Group LLC	Cary	NC	1	Network and Computer Systems Administrators		CA
 The First Baptist Church of Garland, Texas	Garland	TX	2	Clergy		TX
@@ -4382,7 +4382,7 @@ The Global Accounting Solutions Inc.	Worthington	OH	2	Accountants and Auditors		
 The Global Edge Consultants, LLC	The Woodlands	TX	2	Management Analysts		TX
 The Globe Academy, Inc.	Atlanta	GA	1	Elementary School Teachers, Except Special Education		GA
 The Gluck Architectural Collaborative, P.C.	New York	NY	1	Architectural and Civil Drafters		NY
-The Goodyear Tire & Rubber Company	Akron	OH	205	Software Developers; Mechanical Engineers; Electrical and Electronic Engineering Technologists and Technicians	92200	OH
+The Goodyear Tire & Rubber Company	Akron	OH	25	Software Developers; Mechanical Engineers; Electrical and Electronic Engineering Technologists and Technicians	92200	OH
 The Gordian Group, Inc	Greenville	SC	5	Software Developers; Software Quality Assurance Analysts and Testers; Project Management Specialists	132600	SC
 The Gould Medical Group, Inc.	Modesto	CA	3	Physicians, All Other; Surgeons, All Other	600000	CA
 The Grace and Mercy Foundation, Inc.	New York	NY	1	Investment Fund Managers		NY
@@ -4412,7 +4412,7 @@ The J. David Gladstone Institutes	San Francisco	CA	5	Molecular and Cellular Biol
 The J. Paul Getty Trust	Los Angeles	CA	3	Curators; Museum Technicians and Conservators	108000	CA
 The JBM Group, LLC	Hammond	LA	1	Software Developers		LA
 The JPI Group LLC	Philadelphia	PA	1	Computer Programmers		NY
-The Klein Group LLC	New York	NY	4	Financial and Investment Analysts	150000	NY
+The Klein Group LLC	New York	NY	3	Financial and Investment Analysts	150000	NY
 The Koza Group LLC	Bannockburn	IL	1	Accountants and Auditors		IL
 The LaSalle Group, Incorporated	Farmington Hills	MI	1	General and Operations Managers		MI
 The LCF Group	New Hyde Park	NY	4	Software Developers	120000	GA,NY
@@ -4532,7 +4532,7 @@ Torrico Medical Gorup, Inc.	Santa Rosa	CA	1	Psychiatrists		CA
 Toshiba Global Commerce Solutions, Inc.	Durham	NC	11	Software Developers; Information Technology Project Managers; Financial and Investment Analysts	131100	NC,TX
 TotalEnergies Gas & Power North America, Inc.	Houston	TX	4	Financial Quantitative Analysts; Information Technology Project Managers; Securities, Commodities, and Financial Services Sales Agents	133600	TX
 Touro University Medical Group	Stockton	CA	2	Physicians, All Other; General Internal Medicine Physicians		CA
-Tower Engineering Group LLC	Chicago	IL	3	Civil Engineers		IL
+Tower Engineering Group LLC	Chicago	IL	1	Civil Engineers		IL
 Tower Health Medical Group	West Reading	PA	7	General Internal Medicine Physicians; Physicians, All Other	300000	PA
 Tower Hill Insurance Group LLC	Gainesville	FL	3	Software Developers	135000	TX,FL
 Toyoda Gosei North America Corporation	Troy	MI	2	Mechanical Engineers; Data Scientists		MI
@@ -4572,7 +4572,7 @@ Ts Global Solutions LLC	Northville	MI	2	Exercise Physiologists		MI
 TSA Group, Inc.	Flower Mound	TX	2	Civil Engineers		TX
 TSM Group INC	Manteca	CA	1	Project Management Specialists		MO
 Tsong Law Group, A Professional Corporation	Cerritos	CA	2	Public Relations Specialists; Judicial Law Clerks		CA
-TT Commerce & Global Services LLC	Culver City	CA	669	Software Developers; Data Scientists; Market Research Analysts and Marketing Specialists	176000	CA,WA,NY
+TT Commerce & Global Services LLC	Culver City	CA	450	Software Developers; Market Research Analysts and Marketing Specialists; Data Scientists	176000	CA,WA,NY
 Tucson Full Gospel Church	Tucson	AZ	1	Music Directors and Composers		AZ
 Tucson Physician Group Holdings, LLC	Tucson	AZ	2	Family Medicine Physicians		AZ
 Tull Financial Group, Inc.	Chesapeake	VA	1	Personal Financial Advisors		VA
@@ -4603,7 +4603,7 @@ Unified Tech Group Inc	Bloomfield Hills	MI	11	Software Developers; Computer Syst
 Unimacts Global LLC	Houston	TX	2	Industrial Production Managers; Quality Control Systems Managers		NV,TX
 Union Investment Group LLC	Lanham	MD	1	Market Research Analysts and Marketing Specialists		MD
 Unique Technology Group Corp.	Springfield	VA	1	Software Developers		VA
-United Consulting Group Ltd.	Norcross	GA	12	Accountants and Auditors; Civil Engineers; Mining and Geological Engineers, Including Mining Safety Engineers	73200	GA
+United Consulting Group Ltd.	Norcross	GA	6	Accountants and Auditors; Civil Engineers; Mining and Geological Engineers, Including Mining Safety Engineers	73200	GA
 United Genetics Seeds Company	Hollister	CA	2	Database Administrators		CA
 United Georgia Loans LLC	Atlanta	GA	1	Project Management Specialists		GA
 United Glass & Panel Systems, Inc.	North Canton	OH	1	Architectural and Civil Drafters		OH
@@ -4635,7 +4635,7 @@ Urban Atelier Group, LLC	New York	NY	2	Cost Estimators		NY
 US GO GOAL Cabinet Inc.	Norcross	GA	1	Operations Research Analysts		GA
 US Pharma Lab LLC - Biofarma Group dba USPL Nutritionals LLC	North Brunswick	NJ	4	Chemists; Project Management Specialists	106600	NJ
 USA AAAAA Global Trading Corp	Flushing	NY	1	Financial Risk Specialists		NY
-USACS Medical Group Ltd.	Canton	OH	78	Hospitalists; Emergency Medicine Physicians; Physicians, All Other		OH,MD,OK
+USACS Medical Group Ltd.	Canton	OH	55	Hospitalists; Emergency Medicine Physicians; Physicians, All Other		MD,OK,NC
 USACS Medical Group of California, Inc.	Canton	OH	1	Emergency Medicine Physicians		CA
 USACS Medical Group of Texas, PLLC	Canton	OH	1	Hospitalists		TX
 USC Consulting Group, LLC	Tampa	FL	1	Management Analysts		OH
@@ -4672,7 +4672,7 @@ Venice Investments A Ca General Partnership	Los Angeles	CA	1	Budget Analysts		CA
 Ventrop Engineering Consulting Group PLLC	New York	NY	1	Energy Engineers, Except Wind and Solar		NY
 Venturant Group LLC	New York	NY	1	Accountants and Auditors		NY
 Venture Global LNG Inc.	Arlington	VA	14	Architectural and Engineering Managers; Mechanical Engineers; Financial and Investment Analysts	205000	TX,VA,LA
-Venturesoft Global Inc	Pleasanton	CA	23	Computer Systems Analysts; Computer Programmers; Software Developers	101900	CA,NY,PA
+Venturesoft Global Inc	Pleasanton	CA	15	Computer Systems Analysts; Computer Programmers; Software Developers	101900	CA,NY,PA
 Verdon Law Group, LLP	Newport Beach	CA	1	Lawyers		CA
 Veria Marble and Granite Inc	Rockville	MD	1	Project Management Specialists		MD
 Verilink Global Communications Inc	New York	NY	1	Public Relations Specialists		NY
@@ -4706,7 +4706,7 @@ Vista Consulting Group, LLC	Austin	TX	1	Data Scientists		TX
 Vitel Global Communications LLC	South Plainfield	NJ	2	Business Intelligence Analysts; Market Research Analysts and Marketing Specialists		NJ
 Vitesse Group Inc	Chesterfield	MO	15	Software Developers; Computer Occupations, All Other; Information Technology Project Managers	109500	TX,IL,NY
 Vitro Flat Glass LLC	Cheswick	PA	3	Mechanical Engineers; Quality Control Systems Managers; Materials Engineers	115000	TX
-Vituity-New York Medical Group PLLC	Emeryville	CA	10	General Internal Medicine Physicians; Emergency Medicine Physicians		NY
+Vituity-New York Medical Group PLLC	Emeryville	CA	3	General Internal Medicine Physicians; Emergency Medicine Physicians		NY
 Viva Smiles Giddings PLLC	Giddings	TX	2	Health Informatics Specialists		TX
 Vivid Soft Global, Inc.	Dublin	OH	6	Software Developers; Software Quality Assurance Analysts and Testers; Database Administrators	104000	TX,OH,AZ
 VK Group LLC	Springfield	OR	1	Market Research Analysts and Marketing Specialists		OR
@@ -4777,7 +4777,7 @@ Wimberly Allison Tong & Goo NA, Inc.	Tustin	CA	4	Architects, Except Landscape an
 Winn Group Pro Corporation	Westminster	CA	1	Market Research Analysts and Marketing Specialists		CA
 Winsor Consult Group Corp	New York	NY	1	Computer Occupations, All Other		NY
 Wippman Gozum Goldberg and Helfer Group LLC	Arlington Heights	IL	1	Accountants and Auditors		IL
-Wireless Game Group, LLC	Redford	MI	7	First-Line Supervisors of Retail Sales Workers; Occupational Health and Safety Specialists; Computer User Support Specialists		MI,WI
+Wireless Game Group, LLC	Redford	MI	5	First-Line Supervisors of Retail Sales Workers; Occupational Health and Safety Specialists; Computer User Support Specialists		MI,WI
 Wisdom Global Capital New York LLC	New York	NY	2	Business Intelligence Analysts; Financial Risk Specialists		NY
 Wise Gen Inc	Farmington Hills	MI	6	Software Developers	89400	TX,GA,OH
 Wiselink Global Inc	Frederick	MD	2	Software Developers; Computer Systems Analysts		MD,AZ
@@ -4793,7 +4793,7 @@ Wonder Group, Inc.	New York	NY	7	Software Developers; Computer and Information S
 Wonder Porcelain Group, LLC	Lebanon	TN	3	Operations Research Analysts; Electrical Engineers; Mechanical Engineers	69400	TN
 Wood Group USA, Inc.	Houston	TX	10	Mechanical Engineers; Electrical Engineers; Construction Managers	151500	TX,CA,GA
 Workhorse Group Inc.	Wixom	MI	1	Financial Managers		MI
-Worley Group, Inc.	Houston	TX	18	Architectural and Engineering Managers; Civil Engineers; Electrical Engineers	172300	TX,CA,WV
+Worley Group, Inc.	Houston	TX	17	Architectural and Engineering Managers; Civil Engineers; Electrical Engineers	172300	CA,TX,WV
 WP Ground Inc	Port Wentworth	GA	1	Operations Research Analysts		GA
 Wright Center for Graduate Medical Education	Scranton	PA	5	Pediatricians, General; Physicians, All Other; Hospitalists	255000	PA
 Wsst Group Inc	Chatsworth	CA	1	Market Research Analysts and Marketing Specialists		FL
@@ -4811,7 +4811,7 @@ Yamada Consulting Group USA Inc.	El Segundo	CA	2	Management Analysts		CA
 Yao Legal Group LLC	Flushing	NY	4	Paralegals and Legal Assistants; Judicial Law Clerks		NY
 YC Auto Group Inc.	Pittsburg	CA	1	Sales Engineers		CA
 Yeds Investments Group USA LLC	Miami	FL	2	Financial Managers		FL
-Yellow Law Group	Plano	TX	5	Judicial Law Clerks; Paralegals and Legal Assistants		IL,CA
+Yellow Law Group	Plano	TX	3	Judicial Law Clerks; Paralegals and Legal Assistants		IL,CA
 Yeti Games, LLC	Bellevue	WA	1	Software Developers		WA
 Yield Consultant Group LLC	Montvale	NJ	1	Civil Engineers		NJ
 Yingling Consulting Group	Brambleton	VA	1	Software Developers		AL
@@ -4825,7 +4825,7 @@ Yulf Decoration Group LLC	Houston	TX	1	Computer Occupations, All Other		TX
 Z Advertising Group, LLC	Coral Gables	FL	1	Graphic Designers		FL
 Z Golf Food & Beverage Services, LLC	Temecula	CA	1	Software Developers		CA
 Zachary Group LLC	Lake Forest	CA	1	Accountants and Auditors		CA
-Zaelestis Group, Inc.	New York	NY	4	Web Developers		NY,PA
+Zaelestis Group, Inc.	New York	NY	2	Web Developers		NY,PA
 ZAIS Group, LLC	Holmdel	NJ	1	Financial Specialists, All Other		NJ
 Zanskar Geothermal & Minerals, Inc.	Salt Lake City	UT	3	Geoscientists, Except Hydrologists and Geographers	138500	UT
 Zapcom Group, Inc.	Irving	TX	3	Software Developers; Computer Programmers		TX,NC

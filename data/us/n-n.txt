@@ -261,7 +261,7 @@ CIBC National Trust Company	New York	NY	1	Financial Quantitative Analysts		MA
 Citibank, N.A.	New York	NY	952	Software Developers; Financial Quantitative Analysts; Business Intelligence Analysts	157000	TX,FL,NY
 Citibank, N.A. Puerto Rico	New York	NY	1	Financial and Investment Analysts		
 Citrus Health Network, Inc.	Hialeah	FL	2	Physicians, All Other; Psychiatrists		FL
-City National Bank	Los Angeles	CA	327	Software Developers; Financial Quantitative Analysts; Software Quality Assurance Analysts and Testers	137700	CA,NY,NC
+City National Bank	Los Angeles	CA	39	Software Developers; Software Quality Assurance Analysts and Testers; Financial Quantitative Analysts	137700	CA,NC,NY
 City of Hope National Medical Center	Duarte	CA	19	Biochemists and Biophysicists; Medical Scientists, Except Epidemiologists; Business Intelligence Analysts	124400	CA,IL
 City of Norfolk	Norfolk	VA	1	Budget Analysts		VA
 City of North Bend	North Bend	OR	1	Urban and Regional Planners		OR
@@ -468,7 +468,7 @@ Frigelar North America, Inc.	Dallas	TX	1	Operations Research Analysts		TX
 Frontera Healthcare Network	Menard	TX	3	Computer Systems Analysts; Financial Quantitative Analysts	70100	TX
 FUJIFILM Diosynth Biotechnologies North Carolina Inc.	Holly Springs	NC	1	Mechatronics Engineers		NC
 FUJIFILM North America Corporation	Valhalla	NY	1	Information Technology Project Managers		NY
-Fujitsu North America, Inc.	Dallas	TX	462	Software Developers; Management Analysts; Database Administrators	118700	TX,NY,MA
+Fujitsu North America, Inc.	Dallas	TX	83	Software Developers; Management Analysts; Database Administrators	118700	TX,IN,MA
 Fulton Bank NA	Lancaster	PA	1	Software Developers		TX
 Fuyao Automotive North America, Inc.	Plymouth	MI	6	Mechanical Engineers; Logisticians; Industrial Engineers	77200	MI
 Gannett Satellite Information Network, LLC	New York	NY	2	Software Quality Assurance Analysts and Testers; Marketing Managers		DC,FL
@@ -500,7 +500,7 @@ Glanbia Nutritionals Services, LLC	Chicago	IL	1	Financial Specialists, All Other
 Glendale Diagnostic Imaging Network Medical Office, Inc	Sherman Oaks	CA	1	Medical Scientists, Except Epidemiologists		CA
 Global Impact Investing Network, Inc.	New York	NY	2	Market Research Analysts and Marketing Specialists		NY
 Global Live Network	Chicago	IL	1	Market Research Analysts and Marketing Specialists		IL
-Global Nursing Recruiters	Tucker	GA	15	Critical Care Nurses; Medical and Health Services Managers	83800	AL,KS,GA
+Global Nursing Recruiters	Tucker	GA	14	Critical Care Nurses; Medical and Health Services Managers	83800	AL,KS,NJ
 Globus Medical North America, Inc.	Audubon	PA	1	Validation Engineers		PA
 Glow Networks Inc	Dallas	TX	1	Computer Programmers		CA
 Goggans Associates of North Carolina PC	Dallas	TX	1	Dentists, General		NC
@@ -554,7 +554,7 @@ HERE North America, LLC	Chicago	IL	18	Software Developers; Data Scientists; Comp
 Heritage Provider Network Inc	West Hills	CA	2	Software Developers; Operations Research Analysts		CA
 Hermes Stewardship North America Inc.	Pittsburgh	PA	1	Sustainability Specialists		PA
 Hidden News Inc.	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
-Hillside Nursing Center Of Wake Forest, Inc	Wake Forest	NC	2	Medical and Health Services Managers		NC
+Hillside Nursing Center Of Wake Forest, Inc	Wake Forest	NC	1	Medical and Health Services Managers		NC
 Hillstone Networks Corp.	Santa Clara	CA	1	Operations Research Analysts		CA
 Hispanic Information and Telecommunications Network, Inc.	Brooklyn	NY	1	Producers and Directors		NY
 Honda Logistics North America, Inc.	East Liberty	OH	1	Software Developers		AL
@@ -655,7 +655,7 @@ Kar Nut Products Company, LLC	Madison Heights	MI	3	Network and Computer Systems 
 Kasai North America, Inc.	Murfreesboro	TN	3	Architectural and Engineering Managers; Mechanical Engineers	123100	MI,TN
 KEB Hana Bank New York Agency	New York	NY	5	Credit Analysts; Compliance Officers; Credit Counselors		NY
 Keller North America, Inc.	Hanover	MD	6	Civil Engineers; Cost Estimators	93500	FL,TX
-Kettering Network Services	Miamisburg	OH	26	Registered Nurses		OH
+Kettering Network Services	Miamisburg	OH	21	Registered Nurses		OH
 Key-In Nutrition	Ontario	CA	1	Logistics Analysts		CA
 KeyBank National Association	Brooklyn	OH	18	Financial Quantitative Analysts; Software Developers; Statisticians	106400	OH,CA,FL
 KION North America Corporation	Summerville	SC	2	Electronics Engineers, Except Computer; Database Administrators		SC
@@ -666,7 +666,7 @@ Kiss Nail Products, Inc.	Port Washington	NY	5	Software Developers; Cost Estimato
 Knack Ny Inc	La Jolla	CA	3	Information Security Engineers; Data Scientists; Software Developers		CA,VA,TX
 Knapp Medical Center, a Non-Profit Corporation	Weslaco	TX	1	Health Education Specialists		TX
 Konecranes Nuclear Equipment & Services, LLC	New Berlin	WI	1	Mechanical Engineers		WI
-Kookmin Bank New York Branch	New York	NY	7	Financial Specialists, All Other; Financial Quantitative Analysts	73200	NY
+Kookmin Bank New York Branch	New York	NY	6	Financial Specialists, All Other; Financial Quantitative Analysts	73200	NY
 KOS Nutritionals, LLC	Irvine	CA	1	Accountants and Auditors		CA
 Kotobukiya Treves North America Inc.	Novi	MI	1	Project Management Specialists		MI
 Kotobukiya Treves North America Inc. d/b/a KTNA	Novi	MI	1	Materials Engineers		MI
@@ -700,7 +700,7 @@ Life Insurance Company of North America	New York	NY	2	Software Developers; Infor
 Life Insurance Company of North America d/b/a NY Life Group Benet Solutions	New York	NY	1	Database Architects		PA
 Life Insurance Company of North America d/b/aNY Life Group Benet Solutions	Philadelphia	NY	1	Statisticians		PA
 Life Science Nation, LLC	Cambridge	MA	2	Market Research Analysts and Marketing Specialists		NJ
-Lifeline Nursing Solutions, LLC	Cumming	GA	160	Critical Care Nurses	84500	GA,KS
+Lifeline Nursing Solutions, LLC	Cumming	GA	16	Critical Care Nurses	84500	GA,KS
 Lifetime Dental Professionals of New Hampshire, PC	Effingham	IL	2	Dentists, General		NH
 Lighten Group Great Neck Inc.	Great Neck	NY	1	Educational, Guidance, and Career Counselors and Advisors		NY
 Lihe Neosyn Biomeridian Technology Inc	Long Island City	NY	4	Business Intelligence Analysts	115000	NY
@@ -721,8 +721,8 @@ Louis Vuitton North America, Inc.	New York	NY	2	Supply Chain Managers		NY
 LSU New Orleans	New Orleans	LA	1	Biological Science Teachers, Postsecondary		LA
 Lucky Generals NY LLC	New York	NY	1	Chief Executives		NY
 Lumileds Netherlands B.V.	San Jose	CA	1	Mechanical Engineers		MI
-Lycee Francais de New York	New York	NY	20	School Psychologists; Instructional Coordinators		NY
-Lycee Francais Nouvelle Orleans	New Orleans	LA	11	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Education Administrators, Kindergarten through Secondary	45600	LA
+Lycee Francais de New York	New York	NY	2	School Psychologists; Instructional Coordinators		NY
+Lycee Francais Nouvelle Orleans	New Orleans	LA	8	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Education Administrators, Kindergarten through Secondary	45600	LA
 Lynchburg Nephrology Physicians, P.L.L.C.	Lynchburg	VA	2	Physicians, All Other		VA
 M & N Dental Management, LLC.	San Angelo	TX	2	Dentists, General		TX
 M.Roy Nelson Inc.	Torrance	CA	1	Accountants and Auditors		CA
@@ -780,7 +780,7 @@ Model N, Inc	Redwood City	CA	15	Software Developers; Computer Systems Engineers/
 Moffatt & Nichol	Long Beach	CA	11	Civil Engineers; Mechanical Engineers	111100	CA,NC,VA
 Mohawk Valley Nephrology Associates, LLP	Utica	NY	2	Physicians, All Other		NY
 Moneycorp NA, Inc.	Stamford	CT	1	General and Operations Managers		CT
-Montefiore New Rochelle Hospital	New Rochelle	NY	12	Physicians, All Other	79000	NY
+Montefiore New Rochelle Hospital	New Rochelle	NY	4	Physicians, All Other	79000	NY
 Montefiore Nyack Hospital	Nyack	NY	1	Medical and Clinical Laboratory Technologists		NY
 Moravian Church Northern Province	Bethlehem	PA	1	Clergy		PA
 Morey, Nee, Tobias & Oswald, LLC	Bethlehem	PA	1	Accountants and Auditors		PA
@@ -818,7 +818,7 @@ N2N Services, Inc.	Duluth	GA	4	Software Developers; Data Scientists	129900	GA
 N9 IT Solutions, Inc.	Ellicott City	MD	8	Software Developers; Computer Systems Analysts; Business Intelligence Analysts	107900	GA,IL,TX
 Na' Neelzhiin Ji Olta, Inc.	Cuba	NM	2	Elementary School Teachers, Except Special Education		NM
 NAAS Technologies LLC	Phoenix	AZ	3	Software Developers	112900	TX,AZ
-Naav Tech LLC	Duluth	GA	7	Biological Technicians; Software Developers; Data Scientists		NJ,IL,GA
+Naav Tech LLC	Duluth	GA	6	Software Developers; Data Scientists; Computer Network Architects		IL,GA,OH
 Naba Dental PLLC	Houston	TX	1	Dentists, General		TX
 Nabih Youssef & Associates	Los Angeles	CA	3	Civil Engineers		CA
 Nabla InfoTech LLC	Baden	PA	1	Software Developers		AZ
@@ -857,7 +857,7 @@ Nan Hai USA Co Inc	Millbrae	CA	1	Instructional Coordinators		CA
 Nan Technologies, Inc.	Halethorpe	MD	1	Software Quality Assurance Analysts and Testers		MD
 Nan Ya Plastics Corporation USA	Livingston	NJ	2	Market Research Analysts and Marketing Specialists		TX
 Nan Ya Plastics Corporation, America	Livingston	NJ	2	Cost Estimators; Chemists		NJ,SC
-Nan, Inc.	Honolulu	HI	57	Civil Engineers; Construction Managers; Mechanical Engineers	90000	HI
+Nan, Inc.	Honolulu	HI	43	Civil Engineers; Construction Managers; Mechanical Engineers	90000	HI
 Nanda Group Inc.	Rockville	MD	1	Accountants and Auditors		MD
 Nanda Technologies LLC	Columbus	OH	2	Software Developers; Validation Engineers		TX
 Nanda Technologies LLC dba NeoDym Technologies	Columbus	OH	3	Software Quality Assurance Analysts and Testers; Software Developers	92300	TX,MD,NC
@@ -921,7 +921,7 @@ Nashua River Watershed Association, Inc.	Groton	MA	1	Conservation Scientists		MA
 Nashville Dentures & Implants, PLLC	Antioch	TN	2	Dentists, General		TN
 Nashville Metals LLC	Nashville	TN	2	Supply Chain Managers; Logisticians		TN
 Nasken Inc	Boston	MA	1	Software Developers		MA
-Nassau Health Care Corporation	East Meadow	NY	5	Physicians, All Other		NY
+Nassau Health Care Corporation	East Meadow	NY	1	Physicians, All Other		NY
 Nassau Racquet and Tennis Club	Skillman	NJ	1	Training and Development Specialists		NJ
 NasterQuest Inc	Irving	TX	1	Computer and Information Research Scientists		TX
 NASUFUN Corp.	Boston	MA	2	Operations Research Analysts; Public Relations Specialists		MA
@@ -975,7 +975,7 @@ National Health Investors, Inc.	Murfreesboro	TN	1	Business Operations Specialist
 National Healthcare Professionals LLC	Chicago	IL	1	Biochemists and Biophysicists		IL
 National Healthcare Solutions, Inc.	Dallas	TX	1	Operations Research Analysts		TX
 National Hispanic Medical Association	Washington	DC	1	Healthcare Social Workers		DC
-National Hospitalist Services, PC	Lafayette	LA	26	Hospitalists; Emergency Medicine Physicians; Physicians, All Other		LA,MS,FL
+National Hospitalist Services, PC	Lafayette	LA	24	Hospitalists; Emergency Medicine Physicians; Physicians, All Other		LA,MS,FL
 National Indemnity Company	Omaha	NE	2	Software Developers		NE
 National Information Solutions Cooperative	Mandan	ND	2	Computer Programmers; Computer and Information Systems Managers		MO
 National Institute of Aerospace Associates	Hampton	VA	3	Mechanical Engineers; Atmospheric and Space Scientists		VA,NY
@@ -993,7 +993,7 @@ National Mentor LLC	Edina	MN	7	Software Developers; Database Architects; Compute
 National Minority Quality Forum Inc.	Washington	DC	1	Software Developers		DC
 National Oilwell Varco, L.P.	Houston	TX	13	Software Developers; Business Intelligence Analysts; Mechanical Engineers	129000	TX
 National Pasteurized Eggs LLC	Lansing	IL	2	Food Scientists and Technologists		IL
-National Pediatric M.D., P.C.	Corona	NY	5	Pediatricians, General		NY
+National Pediatric M.D., P.C.	Corona	NY	1	Pediatricians, General		NY
 National Pharmaceutical Council, Inc	Washington	DC	1	Economists		CA
 National Plastics Color, Inc.	Valley Center	KS	1	Supply Chain Managers		KS
 National Public Radio, Inc.	Washington	DC	6	Software Developers; News Analysts, Reporters, and Journalists; Editors	124400	DC
@@ -1154,7 +1154,7 @@ Nebule Inc.	Round Rock	TX	1	Information Technology Project Managers		MI
 Nebulock Inc.	Brookline	MA	3	Software Developers	180000	TX
 NebuLogic Technologies (Holdings) Inc.	Frisco	TX	1	Information Technology Project Managers		TX
 Nec Corporation Of America	Irving	TX	3	Software Quality Assurance Analysts and Testers; Software Developers; Network and Computer Systems Administrators	140000	CA,TX
-NEC Laboratories America, Inc.	Princeton	NJ	13	Computer and Information Research Scientists	164400	CA,NJ
+NEC Laboratories America, Inc.	Princeton	NJ	7	Computer and Information Research Scientists	164400	NJ,CA
 Necdet Ozder Dental, P.C.	Fresno	CA	2	Management Analysts		CA
 Necedah Area School District	Necedah	WI	1	Middle School Teachers, Except Special and Career/Technical Education		WI
 Necsel Intellectual Property, Inc.	Milpitas	CA	1	Mechanical Engineers		NJ
@@ -1218,7 +1218,7 @@ Neo4j, Inc.	San Mateo	CA	3	Sales Engineers	133000	CA,CO
 Neoage Services, LLC	Houston	TX	5	Software Developers; Data Scientists; Business Intelligence Analysts	114800	TX,NJ,PA
 Neocis, Inc.	Miami	FL	1	Software Developers		FL
 NeoCognition Inc.	Palo Alto	CA	3	Computer and Information Research Scientists	164400	CA
-Neofortunity Inc	West Covina	CA	4	Financial and Investment Analysts		CA
+Neofortunity Inc	West Covina	CA	2	Financial and Investment Analysts		CA
 Neogen Corporation	Lansing	MI	2	Software Developers; Electrical Engineers		WA,MI
 NeoGenomics Laboratories, Inc.	Fort Myers	FL	2	Natural Sciences Managers; Computer and Information Systems Managers		NC,FL
 Neogenyx Fuels LLC	Framingham	MA	1	Mechanical Engineers		TN
@@ -1238,7 +1238,7 @@ Neora, LLC	Farmers Branch	TX	1	Marketing Managers		TX
 Neorui Investment Management Company	La Habra	CA	1	Software Developers		CA
 NEOS by Argon US, LLC	Atlanta	GA	1	Computer Systems Analysts		TX
 Neosho County Community College	Chanute	KS	2	Recreation and Fitness Studies Teachers, Postsecondary; Coaches and Scouts		KS
-Neosho Memorial Regional Medical Center	Chanute	KS	6	Medical and Clinical Laboratory Technologists; Surgeons, All Other		KS
+Neosho Memorial Regional Medical Center	Chanute	KS	2	Medical and Clinical Laboratory Technologists; Surgeons, All Other		KS
 Neosis IT Solutions LLC	Hanover Park	IL	12	Software Developers; Information Technology Project Managers; Computer Programmers	86000	IL,WI,NV
 NeoSoft LLC.	Pewaukee	WI	1	Software Developers		WI
 NeoSplice Therapeutics, Inc.	New York City	NY	1	Data Scientists		NY
@@ -1308,7 +1308,7 @@ Neteffects, Inc.	Chesterfield	MO	3	Database Architects; Information Technology P
 Netex Solutions LLC	Miami	FL	1	Database Architects		IN
 Netflix Animation, LLC	Los Angeles	CA	2	Special Effects Artists and Animators		CA
 Netflix Global, LLC	Los Gatos	CA	5	Information Technology Project Managers; Software Developers; Graphic Designers	181300	CA,NY
-Netflix, Inc.	Los Gatos	CA	327	Software Developers; Data Scientists; Computer and Information Research Scientists	226200	CA,WA,NY
+Netflix, Inc.	Los Gatos	CA	269	Software Developers; Data Scientists; Computer and Information Research Scientists	226200	CA,WA,NY
 Netfreedom Pioneers	Marina Del Rey	CA	1	Computer Systems Analysts		CA
 NetGain Technologies LLC	Lexington	KY	1	Computer Systems Engineers/Architects		OH
 NETGEAR, Inc.	San Jose	CA	3	Software Quality Assurance Analysts and Testers; Information Technology Project Managers	136000	CA
@@ -1552,9 +1552,9 @@ New York Blood Center	New York	NY	7	Medical Scientists, Except Epidemiologists; 
 New York Bone and Joint Specialists PLLC	New York	NY	1	Data Scientists		NY
 New York Certified Interior Corp.	Brooklyn	NY	5	Construction Managers; Cost Estimators; Civil Engineers	120000	NY
 New York City Criminal Justice Agency, Inc.	New York	NY	1	Social Workers, All Other		NY
-New York City Department of Education	Brooklyn	NY	110	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	66700	NY
+New York City Department of Education	Brooklyn	NY	16	Secondary School Teachers, Except Special and Career/Technical Education; Middle School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education	66700	NY
 New York City Department of Investigation	New York	NY	2	Government Property Inspectors and Investigators; Fraud Examiners, Investigators and Analysts		NY
-New York City Health and Hospitals Corporation	New York	NY	43	Hospitalists; Physicians, All Other; Mental Health and Substance Abuse Social Workers	85000	NY
+New York City Health and Hospitals Corporation	New York	NY	31	Physicians, All Other; Hospitalists; Mental Health and Substance Abuse Social Workers	85000	NY
 New York City Office of Technology and Innovation	Brooklyn	NY	1	Information Security Analysts		NY
 New York Civil Liberties Union	New York	NY	1	Producers and Directors		NY
 New York Conference of Seventh-day Adventists	Syracuse	NY	2	Secondary School Teachers, Except Special and Career/Technical Education		NY
@@ -1594,7 +1594,7 @@ New- Virgin Inc	Houston	TX	1	Information Security Engineers		TX
 NewAge Industries, Inc.	Southampton	PA	1	Industrial Engineers		PA
 Newagez Technologies LLC	Harrisonville	MO	2	Manufacturing Engineers; Logisticians		MN,NJ
 Newark Wayne Community Hospital	Rochester	NY	1	General Internal Medicine Physicians		NY
-Newark-Wayne Community Hospital	Rochester	NY	6	Registered Nurses; Physicians, All Other		NY
+Newark-Wayne Community Hospital	Rochester	NY	4	Registered Nurses; Physicians, All Other		NY
 Newbanks, Inc./Florida	Orlando	FL	1	Architects, Except Landscape and Naval		FL
 Newberry College	Newberry	SC	1	Biological Science Teachers, Postsecondary		SC
 Newborn Fuels LLC	Tallapoosa	GA	1	Business Intelligence Analysts		GA
@@ -1634,7 +1634,7 @@ News Corporate Services, Inc.	New York	NY	4	Information Technology Project Manag
 Newschool Of Architecture And Design, LLC	San Diego	CA	1	Career/Technical Education Teachers, Postsecondary		CA
 Newsela, Inc.	New York	NY	1	Software Developers		NJ
 Newshour Productions LLC	Arlington	VA	2	Producers and Directors		VA,DC
-NewStat PLLC	Knoxville	TN	8	Physicians, All Other; Hospitalists		TN
+NewStat PLLC	Knoxville	TN	6	Physicians, All Other; Hospitalists		TN
 Newston Automated Solution USA Corp.	Novi	MI	1	Mechatronics Engineers		MI
 NewStore, Inc.	Boston	MA	1	Computer Systems Engineers/Architects		MA
 Newt Global Consulting, LLC	Irving	TX	2	Software Developers		TX
@@ -1809,7 +1809,7 @@ NGI Inc.	Houston	TX	1	Civil Engineers		TX
 NGInstruments, LLC	Warsaw	IN	2	Industrial Engineers		IN
 NGTalentTech Group LLC	Prosper	TX	11	Software Developers; Web Developers; Computer Systems Engineers/Architects	98000	TX,CA,NE
 NGUSoft Inc	Santa Clara	CA	3	Software Developers; Project Management Specialists	160000	CA,TX
-NGX Consulting Inc.	Houston	TX	7	Electrical Engineers; Market Research Analysts and Marketing Specialists; Operations Research Analysts		TX
+NGX Consulting Inc.	Houston	TX	5	Electrical Engineers; Market Research Analysts and Marketing Specialists; Operations Research Analysts		TX
 Ngy Group Chino Inc	Chino	CA	1	Market Research Analysts and Marketing Specialists		CA
 NH Investment & Securities America, Inc.	New York	NY	2	Financial Quantitative Analysts		NY
 NHK International Corporation	Novi	MI	3	Software Developers; Computer Programmers; Mechanical Engineers	109500	MI
@@ -2123,7 +2123,7 @@ North County Public Defense, PLLC	Bellingham	WA	1	Lawyers		WA
 North Dakota State University	Fargo	ND	21	Economists; Engineering Teachers, Postsecondary; Business Teachers, Postsecondary	71000	ND
 North Dakota Trade Office, Inc.	Fargo	ND	1	Market Research Analysts and Marketing Specialists		ND
 North Development Group LLC	Miami	FL	1	Sales Managers		FL
-North East Carolina Prep School	Tarboro	NC	3	Elementary School Teachers, Except Special Education		NC
+North East Carolina Prep School	Tarboro	NC	2	Elementary School Teachers, Except Special Education		NC
 North East Medical Services	Daly City	CA	5	General Internal Medicine Physicians; Marriage and Family Therapists; Family Medicine Physicians	320000	CA
 North Florida Medical Services, LLC	Jacksonville	FL	2	Financial and Investment Analysts		FL
 North Florida Regional Medical Center Inc.	Gainesville	FL	1	Medical and Health Services Managers		FL
@@ -2146,7 +2146,7 @@ North Shore Central School District	Sea Cliff	NY	1	Secondary School Teachers, Ex
 North Shore Community Health, Inc	Salem	MA	1	Family Medicine Physicians		MA
 North Shore Hotel Management LLC	Glen Cove	NY	1	Food Scientists and Technologists		NY
 North Side Bank and Trust Company	Cincinnati	OH	1	Treasurers and Controllers		OH
-North Slope Borough School District	Utqiagvik	AK	60	Elementary School Teachers, Except Special Education; Special Education Teachers, All Other; Middle School Teachers, Except Special and Career/Technical Education	64700	AK
+North Slope Borough School District	Utqiagvik	AK	7	Elementary School Teachers, Except Special Education; Special Education Teachers, All Other; Middle School Teachers, Except Special and Career/Technical Education	64700	AK
 North Star Aviation Inc.	Mankato	MN	4	Career/Technical Education Teachers, Postsecondary	100000	MN
 North Star BlueScope Steel LLC	Delta	OH	1	Business Intelligence Analysts		OH
 North State Grocery, Inc.	Cottonwood	CA	1	Budget Analysts		CA
@@ -2162,7 +2162,7 @@ Northborne Partners LLC	Minneapolis	MN	2	Financial and Investment Analysts		MN
 Northbow Partners LLC	Atlanta	GA	1	Financial and Investment Analysts		GA
 Northeast Arkansas Clinic Charitable Foundation, Inc.	Jonesboro	AR	2	Physicians, All Other; Cardiologists		AR
 Northeast Behavioral Health Corporation d/b/a Beth Israel Lahey Health Behavioral Services	Charlestown	MA	1	Mental Health Counselors		MA
-Northeast Bioanalytical Laboratories LLC	Hamden	CT	5	Biochemists and Biophysicists; Biological Scientists, All Other	80000	CT
+Northeast Bioanalytical Laboratories LLC	Hamden	CT	3	Biochemists and Biophysicists; Biological Scientists, All Other	80000	CT
 Northeast Georgia Health Systems, Inc.	Gainesville	GA	1	Physicists		GA
 Northeast Georgia Medical Center, Inc.	Gainesville	GA	1	Software Developers		GA
 Northeast Georgia Physicians Group, Inc.	Gainesville	GA	3	Family Medicine Physicians; Surgeons, All Other; Neurologists	335000	GA
@@ -2170,7 +2170,7 @@ Northeast Hospital Corporation d/b/a Beverly Hospital	Beverly	MA	1	Speech-Langua
 Northeast Internal Medicine Associates, P.C.	LaGrange	IN	6	Hospitalists	300000	OH,IN
 Northeast Iowa Community College	Calmar	IA	1	Computer Science Teachers, Postsecondary		WI
 Northeast Maritime Institute, Inc.	Fairhaven	MA	1	Software Developers		MA
-Northeast Medical Group, Inc.	Stratford	CT	17	Hospitalists; Physicians, All Other; Healthcare Diagnosing or Treating Practitioners, All Other	288300	CT
+Northeast Medical Group, Inc.	Stratford	CT	16	Hospitalists; Physicians, All Other; Healthcare Diagnosing or Treating Practitioners, All Other	288300	CT
 Northeast Montana Health Services, Inc.	Wolf Point	MT	2	Medical and Clinical Laboratory Technologists		MT
 Northeast Ohio Regional Sewer District	Cleveland	OH	6	Software Developers; Environmental Engineers	76300	OH
 Northeast Precast LLC	Vineland	NJ	1	Information Technology Project Managers		NJ
@@ -2253,7 +2253,7 @@ NorthWestern Corporation	Sioux Falls	SD	1	Network and Computer Systems Administr
 Northwestern Health Sciences University	Bloomington	MN	1	Instructional Coordinators		MN
 Northwestern Medical Center	Saint Albans	VT	1	Registered Nurses		VT
 Northwestern Medical Faculty Foundation	Chicago	IL	9	Physicians, All Other; General Internal Medicine Physicians; Physicians, Pathologists	225000	IL
-Northwestern Memorial HealthCare	Chicago	IL	38	Medical and Clinical Laboratory Technologists; Software Developers; Data Warehousing Specialists	84900	IL
+Northwestern Memorial HealthCare	Chicago	IL	35	Medical and Clinical Laboratory Technologists; Software Developers; Data Warehousing Specialists	84900	IL
 Northwestern Mutual Investment Management Company	Milwaukee	WI	1	Financial Quantitative Analysts		WI
 Northwestern Mutual Life Insurance Company	Milwaukee	WI	64	Software Developers; Data Scientists; Information Technology Project Managers	135000	WI,TX,NY
 Northwestern State University of Louisiana	Natchitoches	LA	1	Art, Drama, and Music Teachers, Postsecondary		LA
@@ -2305,7 +2305,7 @@ Nova Green Recycling, LLC	Kansas City	KS	2	Accountants and Auditors; Market Rese
 Nova Law Group LLC	Newark	NJ	4	Paralegals and Legal Assistants	78500	NJ,FL
 Nova Measuring Instruments Inc.	Fremont	CA	3	Mechanical Engineers; Accountants and Auditors	95700	TX,CA,VA
 Nova Prospect, LLC	Miami	FL	2	Software Developers; Financial Quantitative Analysts		FL
-Nova R&D, Inc.	West Covina	CA	2	Electrical Engineers		CA
+Nova R&D, Inc.	West Covina	CA	1	Electrical Engineers		CA
 Nova Robotics LLC	Cupertino	CA	1	Software Developers		CA
 Nova Southeastern University	Fort Lauderdale	FL	9	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Psychology Teachers, Postsecondary	72000	FL
 Nova Trading Inc.	Sunnyvale	CA	1	Operations Research Analysts		CA
@@ -2450,7 +2450,7 @@ Nuance Labs, Inc.	Seattle	WA	3	Computer and Information Research Scientists; Web
 Nuanced Media LLC	Tucson	AZ	1	Market Research Analysts and Marketing Specialists		AZ
 Nuanza, Inc.	Mckinney	TX	12	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	109500	TX,NJ,IL
 Nube9 LLC	Mason	OH	11	Software Developers; Database Architects; Software Quality Assurance Analysts and Testers	103000	CA,MO,KS
-Nubes Opus, LLC	Kansas City	MO	5	Computer Programmers; Software Developers		MO
+Nubes Opus, LLC	Kansas City	MO	2	Computer Programmers; Software Developers		MO
 NuCicer, Inc.	Davis	CA	1	Bioinformatics Scientists		CA
 Nuclera Nucleics Corporation	Billerica	MA	1	Biochemists and Biophysicists		MA
 NucleusTeq, Inc.	Phoenix	AZ	3	Software Developers; Computer and Information Systems Managers; Computer Network Architects	120000	AZ,VA
@@ -2523,7 +2523,7 @@ Nusret Miami LLC	Miami	FL	1	Financial Managers		FL
 NuSummit Cybersecurity Limited	Plano	TX	1	Information Security Analysts		TX
 Nusun Power, LLC	Lehi	UT	2	Market Research Analysts and Marketing Specialists		UT
 Nut Tree Capital Management LP	New York	NY	2	Financial and Investment Analysts		NY
-Nutanix, Inc.	San Jose	CA	148	Software Developers; Software Quality Assurance Analysts and Testers; Architectural and Engineering Managers	186100	CA,NC,WA
+Nutanix, Inc.	San Jose	CA	80	Software Developers; Software Quality Assurance Analysts and Testers; Architectural and Engineering Managers	186100	CA,NC,WA
 Nutec USA Inc	Norcross	GA	2	Management Analysts		GA
 Nutech Information Systems, Inc.	Shelton	CT	3	Business Intelligence Analysts		NJ,NC
 Nutech Systems, Inc.	Atlanta	GA	5	Information Technology Project Managers; Software Developers; Database Administrators	95000	GA,CA,TX
@@ -2574,7 +2574,7 @@ nVenia LLC	Wood Dale	IL	1	Sales Managers		IL
 nVent Management Company	St. Louis Park	MN	1	Software Developers		MN
 Nventric, Inc.	Arcadia	CA	3	Mechanical Engineers; Logistics Analysts; Quality Control Systems Managers	77300	CA
 NVH Georgia, LLC	Columbus	GA	1	Accountants and Auditors		GA
-NVIDIA Corporation	Santa Clara	CA	12922	Software Developers; Electronics Engineers, Except Computer; Information Technology Project Managers	187000	CA,TX,WA
+NVIDIA Corporation	Santa Clara	CA	1633	Software Developers; Electronics Engineers, Except Computer; Architectural and Engineering Managers	187000	CA,TX,WA
 nVoq Incorporated	Boulder	CO	2	Computer Occupations, All Other		TX
 NW Hospitalist Services, PC	Knoxville	TN	1	Hospitalists		HI
 NWE Technology, Inc.	Santa Clara	CA	4	Mechanical Engineers; Materials Engineers	138000	CA
@@ -2606,7 +2606,7 @@ Nyc Drug Store Inc	Franklin Square	NY	1	Database Administrators		NY
 NYC Footy Corp	Brooklyn	NY	1	Entertainment and Recreation Managers, Except Gambling		NY
 Nyc Global Center, Inc.	New York	NY	1	Instructional Coordinators		NY
 NYC Gravitynet LLC	Melville	NY	11	Software Developers; Software Quality Assurance Analysts and Testers; Computer Network Support Specialists	92600	NY,WA,FL
-NYC Health and Hospitals Corp.	Bronx	NY	18	Physicians, All Other	90800	NY
+NYC Health and Hospitals Corp.	Bronx	NY	8	Physicians, All Other	90800	NY
 NYC Kids RISE Inc.	Long Island City	NY	1	Social and Community Service Managers		NY
 NYC Therapy Group, LCSW's Psychotherapy Professionals PLLC	New York	NY	1	Mental Health Counselors		NY
 Nycasoft, Inc	Mansfield	MA	2	Software Developers		AZ,NY
@@ -2645,7 +2645,7 @@ Old National Bank	Evansville	IN	2	Software Developers		IL
 Om Namah Shivaaya - Caters, LLC	Richardson	TX	1	Software Developers		TX
 Omec Medical NV Inc.	Reno	NV	2	Biological Scientists, All Other; Engineers, All Other		NV
 OMER North America Corporation	Sterling Heights	MI	1	Logistics Engineers		MI
-OMR North America, Inc.	Speedway	IN	2	Industrial Engineers		IN
+OMR North America, Inc.	Speedway	IN	1	Industrial Engineers		IN
 Ondas Networks Inc.	Sunnyvale	CA	1	Software Developers		CA
 One Media Ny LLC	Long Island City	NY	1	Project Management Specialists		NY
 One Sixty Over Ninety, LLC	New York	NY	1	Market Research Analysts and Marketing Specialists		FL
@@ -2665,7 +2665,7 @@ P.T. Bank Negara Indonesia (Persero) Tbk New York Agency	New York	NY	1	Complianc
 Pacific Gardens Nursing and Rehabilitation Center	Fresno	CA	1	Physical Therapists		CA
 Pacific Northern Environmental LLC	Longview	WA	1	Electrical Engineers		WA
 Pacific Northwest University of Health Sciences	Yakima	WA	1	Dentists, General		WA
-Palo Alto Networks, Inc.	Santa Clara	CA	3425	Software Developers; Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators	184000	CA,TX,WA
+Palo Alto Networks, Inc.	Santa Clara	CA	278	Software Developers; Network and Computer Systems Administrators; Sales Engineers	184000	CA,TX,WA
 Palziv North America, Inc	Louisburg	NC	1	Data Scientists		NC
 Panasonic Corporation of North America	Newark	NJ	1	Software Developers		NJ
 Panasonic Corporation of North America (PNA)	Newark	NJ	14	Software Developers; Computer Systems Analysts; Architectural and Engineering Managers	139100	IL,NJ,NV
@@ -2687,7 +2687,7 @@ Philips RS North America LLC	Murrysville	PA	6	Bioengineers and Biomedical Engine
 Phillips-Medisize Northeast, LLC	Clinton	MA	2	Mechanical Engineers; Manufacturing Engineers		MA
 Phoenix Noise & Vibration LLC	Frederick	MD	1	Mechanical Engineers		MD
 Physical Therapy of New York, PC	Brooklyn	NY	1	Exercise Physiologists		NY
-Physician Affiliate Group Of Ny, PC	New York	NY	73	Physicians, All Other; Anesthesiologists; Psychiatrists	247200	NY
+Physician Affiliate Group Of Ny, PC	New York	NY	53	Physicians, All Other; Psychiatrists; Hospitalists	247200	NY
 Physicians Network Medical Group, Inc.	Roseville	CA	6	Orthopedic Surgeons, Except Pediatric; Medical and Health Services Managers; General Internal Medicine Physicians	317500	CA
 Pioneer NeuroHealth, LLC	Temple Terrace	FL	1	Neurologists		FL
 Pixel Nebula Corp	Pittsburgh	PA	1	Art Directors		PA
@@ -2696,7 +2696,7 @@ Playground Network, Inc.	New York	NY	1	Software Developers		TX
 Playhouse NYC, Inc	Long Island City	NY	1	Preschool Teachers, Except Special Education		NY
 Plymouth Rock Management Company of New Jersey	Woodbridge	NJ	5	Business Intelligence Analysts; Actuaries; Data Scientists	128000	NJ
 Pocket Nurse Enterprises LLC	Monaca	PA	1	Logistics Analysts		PA
-Pokroy Medical Group of Nevada, LTD	Sunrise	FL	5	Physicians, All Other	250000	NV
+Pokroy Medical Group of Nevada, LTD	Sunrise	FL	3	Physicians, All Other	250000	NV
 Porsche Cars North America, Inc.	Atlanta	GA	1	Financial Managers		GA
 Porsche Engineering Services North America, Inc.	Carson	CA	2	Financial and Investment Analysts; Automotive Engineers		CA
 POS Network Plus LLC	Fort Washington	PA	1	Market Research Analysts and Marketing Specialists		NJ
@@ -2705,7 +2705,7 @@ Powers Brown Architecture N.A., LLC	Houston	TX	1	Architects, Except Landscape an
 Practice by Numbers, Inc.	Redmond	WA	2	Software Developers		TX,WA
 Precision Neuroscience Corporation	New York	NY	3	Mechanical Engineers; Bioengineers and Biomedical Engineers; Computer Systems Analysts	160000	CA,MA
 Premier Nutrition Company, LLC	Emeryville	CA	2	Food Scientists and Technologists		CA
-Presence Chicago Hospitals Network	Chicago	IL	8	Healthcare Practitioners and Technical Workers, All Other	78500	IL
+Presence Chicago Hospitals Network	Chicago	IL	3	Healthcare Practitioners and Technical Workers, All Other	78500	IL
 Preservation Chicago, NFP	Chicago	IL	1	Social Science Research Assistants		IL
 Presidio Networked Solutions, LLC	New York	NY	7	Software Developers; Information Technology Project Managers; Database Architects	149800	TX,MA,OH
 Primary Land Abstract NY Inc.	Great Neck	NY	1	Market Research Analysts and Marketing Specialists		NY
@@ -2796,7 +2796,7 @@ Sartorius Stedim North America	Bohemia	NY	11	Project Management Specialists; Sof
 SBA Network Services, LLC	Boca Raton	FL	1	Computer Network Architects		FL
 Scale Free Network LLC	Los Angeles	CA	1	Public Relations Specialists		CA
 Schaefer Plastics North America, LLC	Charlotte	NC	1	Budget Analysts		NC
-School District No. 15 Of Mohave County	Bullhead City	AZ	7	Special Education Teachers, Middle School; Special Education Teachers, Secondary School; Secondary School Teachers, Except Special and Career/Technical Education	47200	AZ
+School District No. 15 Of Mohave County	Bullhead City	AZ	6	Special Education Teachers, Secondary School; Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School	47200	AZ
 School District of Newberry County	Newberry	SC	2	Middle School Teachers, Except Special and Career/Technical Education; Secondary School Teachers, Except Special and Career/Technical Education		SC
 Schroder Investment Management North America Inc.	New York	NY	2	Financial and Investment Analysts		NY,NJ
 Science Academies of New York	Syracuse	NY	2	Secondary School Teachers, Except Special and Career/Technical Education		NY
@@ -2894,7 +2894,7 @@ State University of New York at Oswego	Oswego	NY	3	Computer Science Teachers, Po
 State University of New York at Potsdam	Potsdam	NY	1	Data Scientists		NY
 State University of New York at Stony Brook	Stony Brook	NY	27	Health Specialties Teachers, Postsecondary; Biological Science Teachers, Postsecondary; Engineering Teachers, Postsecondary	96500	NY
 State University of New York Downstate Health Sciences University	Brooklyn	NY	10	Physicians, All Other; Health Specialties Teachers, Postsecondary; Supply Chain Managers	129100	NY
-State University of New York, Upstate Medical University	Syracuse	NY	36	Physicians, All Other; Health Specialties Teachers, Postsecondary; Hospitalists	63300	NY
+State University of New York, Upstate Medical University	Syracuse	NY	35	Physicians, All Other; Health Specialties Teachers, Postsecondary; Hospitalists	63300	NY
 STE North America, Inc.	Arlington	VA	1	Software Developers		TX
 Stellar Wireless Of New England LLC	Lawrence	MA	1	Business Operations Specialists, All Other		MA
 Strength Of Nature LLC	Savannah	GA	6	Market Research Analysts and Marketing Specialists; Financial and Investment Analysts	151500	GA
@@ -2950,7 +2950,7 @@ The National Center for Genome Resources	Santa Fe	NM	1	Data Scientists		MD
 The Nature Conservancy	Arlington	VA	8	Climate Change Policy Analysts; Environmental Scientists and Specialists, Including Health; Sociologists	101900	VA,NC,AZ
 The Nebraska Medical Center	Omaha	NE	4	Medical and Clinical Laboratory Technologists; Management Analysts; Computer Programmers		NE,WA
 The Nee Agency	Arcadia	CA	2	Personal Financial Advisors; Market Research Analysts and Marketing Specialists		CA
-The Nemours Foundation - Nemours Children's Health	Jacksonville	FL	21	Physicians, All Other; Neurologists; Medical Scientists, Except Epidemiologists	212500	FL,DE,NJ
+The Nemours Foundation - Nemours Children's Health	Jacksonville	FL	20	Physicians, All Other; Neurologists; Medical Scientists, Except Epidemiologists	212500	FL,DE,NJ
 The Nephrology Group, Inc.,	Fresno	CA	1	Hospitalists		CA
 The New Health Chiropractic Center	Concord	CA	1	Chiropractors		CA
 The New School	New York	NY	4	Postsecondary Teachers, All Other; Art, Drama, and Music Teachers, Postsecondary	96300	NY
@@ -2965,7 +2965,7 @@ The Nielsen Norman Group Inc	Dover	DE	4	Management Analysts; Web and Digital Int
 The Nilson Law Group, PLLC	New York	NY	1	Lawyers		NY
 The North Highland Company LLC	Atlanta	GA	3	Data Scientists; Management Analysts	94000	GA
 The North West Company International, Inc.	Boca Raton	FL	1	Business Intelligence Analysts		FL
-The Northern Trust Company	Chicago	IL	99	Software Developers; Financial Quantitative Analysts; Data Scientists	144400	IL,NJ,AZ
+The Northern Trust Company	Chicago	IL	51	Software Developers; Financial Quantitative Analysts; Financial Managers	144400	IL,NJ,AZ
 The Nourmand Law Firm, Apc	Beverly Hills	CA	1	Judicial Law Clerks		CA
 The Nuclear Company	Lexington	KY	3	Architectural and Engineering Managers	159800	SC,MA
 The Nueva School	San Mateo	CA	1	Middle School Teachers, Except Special and Career/Technical Education		CA
@@ -3042,7 +3042,7 @@ United Nations Association of the USA Capital Area Division	Washington	DC	1	Trai
 United Nations Federal Credit Union	Long Island City	NY	6	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	133400	NY
 United Nations Foundation, Inc.	Washington	DC	1	Public Relations Specialists		NY
 United Natural Foods, Inc.	Providence	RI	5	Architectural and Engineering Managers; Software Developers; Computer Network Architects	158500	MA,CA,RI
-United Neuroscience, Inc.	Bakersfield	CA	4	Neurologists		CA
+United Neuroscience, Inc.	Bakersfield	CA	2	Neurologists		CA
 United Veterinary Care NJ LLC	Palm Beach Gardens	FL	2	Veterinarians; Veterinary Technologists and Technicians		NJ
 United We Dream Network Inc.	Washington	DC	1	Accountants and Auditors		FL
 Universal Radiology Partners of Nevada, LLC	West Palm Beach	FL	3	Radiologists	239200	NV
@@ -3167,7 +3167,7 @@ Xenon Health of New Jersey LLC	Jersey City	NJ	2	Business Intelligence Analysts; 
 XiltriX North America, LLC	San Diego	CA	2	Chief Executives		CA
 Xiu Ning Culture Foundation	Lafayette	CA	2	Art Directors		CA
 YAI - National Institute for People with Disabilities	New York	NY	1	Speech-Language Pathologists		NY
-Yale New Haven Hospital	New Haven	CT	45	Physicians, All Other; Genetic Counselors	100600	CT
+Yale New Haven Hospital	New Haven	CT	31	Physicians, All Other; Genetic Counselors	100600	CT
 Yazaki North America Inc.	Canton	MI	8	Computer Systems Engineers/Architects; Electrical Engineers; Manufacturing Engineers	108000	MI,TN,OH
 Yellow Dog Networks, Inc.	Kansas City	MO	1	Computer Network Architects		MO
 Yokohama Corporation of North America	Santa Ana	CA	1	Mechanical Engineers		NC

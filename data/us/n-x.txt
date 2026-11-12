@@ -31,7 +31,7 @@ Twenty X Steel, LLC	Payette	ID	1	Construction Managers		ID
 Twisted X, Inc.	Decatur	TX	1	Computer Programmers		TX
 Well Xplored LLC	Stuart	FL	2	Management Analysts		FL
 X & N Ventures Inc	Fort Worth	TX	2	Cost Estimators		TX
-X Corp.	Bastrop	TX	61	Software Developers; Information Security Analysts; Computer Network Architects	195000	NY,CA,GA
+X Corp.	Bastrop	TX	16	Software Developers; Information Security Analysts; Computer Network Architects	195000	CA,NY,GA
 X Energy, LLC	Rockville	MD	3	Civil Engineers	135000	NC,MD
 X Girls LLC	Los Angeles	CA	1	Market Research Analysts and Marketing Specialists		CA
 X-Camp Inc.	Saratoga	CA	1	Market Research Analysts and Marketing Specialists		CA
@@ -39,7 +39,7 @@ X-Chem, Inc.	Waltham	MA	1	Software Developers		MA
 X-Gene Inc.	Sparks Glencoe	MD	1	Bioinformatics Technicians		MD
 X-Therma, Inc.	Hercules	CA	1	Industrial Engineers		CA
 X. AI LLC	Palo Alto	CA	6	Computer and Information Systems Managers; Software Developers; Market Research Analysts and Marketing Specialists	300000	CA
-X.ai LLC	Palo Alto	CA	294	Software Developers; Computer and Information Systems Managers; Sales Engineers	240000	CA,NY,NC
+X.ai LLC	Palo Alto	CA	34	Software Developers; Computer and Information Systems Managers; Sales Engineers	240000	CA,NY,NC
 X1F America, Inc.	Boston	MA	1	Software Developers		NC
 X2nSat	Petaluma	CA	1	Computer Network Architects		CA
 X4 Alpha LLC	New York	NY	1	Financial Quantitative Analysts		NY
@@ -144,10 +144,10 @@ Xllow Inc	Norwalk	CT	1	Software Developers		FL
 Xlysi, LLC	Vernon Hills	IL	8	Network and Computer Systems Administrators; Software Developers; Computer Systems Engineers/Architects	105600	WA,TX,GA
 xMEMS Labs Inc	Santa Clara	CA	1	Fundraising Managers		CA
 xMentium, Inc.	Denver	CO	2	Data Scientists; Computer Systems Engineers/Architects		IL,MA
-XMG Inc	New York	NY	2	Software Developers, R&D		NY
+XMG Inc	New York	NY	1	Software Developers, R&D		NY
 Xmotors.Ai, Inc.	Santa Clara	CA	3	Software Developers	300000	CA
 XMotors.USA, Inc.	Santa Clara	CA	31	Software Developers; Accountants and Auditors	230000	CA
-XNRGY Climate Systems (US) LLC	Mesa	AZ	19	Industrial Engineers; Mechanical Engineers; Software Developers	125000	AZ
+XNRGY Climate Systems (US) LLC	Mesa	AZ	18	Industrial Engineers; Mechanical Engineers; Software Developers	125000	AZ
 XO Health Inc.	Alpharetta	GA	1	Data Scientists		NY
 XOEye Technologies, Inc.	Nashville	TN	1	Data Scientists		WA
 Xome Realty Services, LLC	Coppell	TX	1	Data Scientists		MI
@@ -175,7 +175,7 @@ Xpert Technologies Inc	Mechanicsburg	PA	4	Electrical Engineers; Computer Systems
 Xpertize Tech LLC	Lake Elmo	MN	1	Mechanical Engineers		MN
 XpertsInfoTech Inc.	Columbia	MD	1	Software Developers		MD
 XpertTech Inc	Boston	MA	2	Software Developers		PA
-Xplore Ecommerce LLC	Fredericksburg	VA	3	Software Developers		VA
+Xplore Ecommerce LLC	Fredericksburg	VA	1	Software Developers		VA
 XPO Enterprise Services, LLC	Portland	OR	7	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	114100	NC,OR,MA
 Xponance Holdings Inc.	Philadelphia	PA	2	Financial and Investment Analysts; Financial Quantitative Analysts		PA,NC
 Xponance LLC	Philadelphia	PA	2	Financial Quantitative Analysts; Financial and Investment Analyst		NC,PA

@@ -84,7 +84,7 @@ Zachry Engineering Corp	San Antonio	TX	1	Electrical Engineers		NC
 Zacks Investment Management, Inc.	Chicago	IL	4	Financial Specialists, All Other; Financial and Investment Analysts; Financial Quantitative Analysts	104600	IL
 Zacua Manco LLC	San Mateo	CA	1	Financial and Investment Analysts		CA
 Zaelab LLC	Westport	CT	2	Market Research Analysts and Marketing Specialists; Software Developers		NH,IL
-Zaelestis Group, Inc.	New York	NY	4	Web Developers		NY,PA
+Zaelestis Group, Inc.	New York	NY	2	Web Developers		NY,PA
 Zaffre Health Plan Solutions LLC	Boston	MA	2	Software Developers		TX,RI
 Zafran Security, Inc.	New York	NY	1	Management Analysts		NY
 Zagg Inc	Midvale	UT	1	Management Analysts		UT
@@ -94,7 +94,7 @@ Zain Business Inc	Houston	TX	1	Management Analysts		TX
 Zaiput Flow Technologies, LLC	Waltham	MA	2	Chemical Engineers		MA
 ZAIS Group, LLC	Holmdel	NJ	1	Financial Specialists, All Other		NJ
 Zakat Foundation of America	Bridgeview	IL	1	Community and Social Service Specialists, All Other		IL
-Zale Delaware, Inc.	Akron	OH	92	Software Developers; Computer Systems Analysts; Database Administrators	135000	TX,OH,NC
+Zale Delaware, Inc.	Akron	OH	11	Software Developers; Computer Systems Analysts; Database Administrators	135000	TX,OH,NC
 Zalles Electrical Power Services, LLC	Missouri City	TX	1	Electrical Engineers		TX
 Zalzali & Associates, Inc.	Lake Forest	CA	1	Operations Research Analysts		CA
 Zam Network LLC	Los Angeles	CA	1	Market Research Analysts and Marketing Specialists		CA
@@ -111,7 +111,7 @@ Zap Energy, Inc.	Everett	WA	2	Mechanical Engineers		WA
 ZAP Engineering & Construction Services, Inc.	Lakewood	CO	2	Mechanical Engineers; Civil Engineers		CO
 Zap Surgical Systems, Inc.	San Carlos	CA	3	Software Quality Assurance Analysts and Testers; Database Administrators; Regulatory Affairs Managers	187900	CA
 Zapcom Group, Inc.	Irving	TX	3	Software Developers; Computer Programmers		TX,NC
-Zappos.com LLC	Las Vegas	NV	67	Software Developers; Market Research Analysts and Marketing Specialists; Data Scientists	159600	NY,WI,WA
+Zappos.com LLC	Las Vegas	NV	22	Software Developers; Data Scientists; Business Intelligence Analysts	159600	NY,WI,NV
 Zaspar Technologies LLC	Lathrop	CA	2	Computer Systems Analysts; Computer Programmers		TX
 Zasti Inc.	Ashburn	VA	1	Compliance Officers		VA
 ZAV Transport, LLC	Gresham	OR	1	Computer Systems Analysts		OR
@@ -189,7 +189,7 @@ Zenobe Americas, Inc.	Chicago	IL	1	Financial Managers		IL
 Zenon LLC	New York	NY	4	Operations Research Analysts	96500	MA,NJ
 ZenOptics Inc.	San Jose	CA	1	Information Technology Project Managers		NJ
 Zensa LLC	Redmond	WA	1	Information Technology Project Managers		AZ
-Zensar Technologies, Inc.	Chicago	IL	218	Computer Systems Analysts; Software Developers; Computer Programmers	115000	CA,NC,GA
+Zensar Technologies, Inc.	Chicago	IL	102	Computer Systems Analysts; Information Technology Project Managers; Software Developers	115000	CA,NC,GA
 Zenseng American Ginseng Corp.	Wausau	WI	1	Data Scientists		WI
 Zensoft IT Solutions Inc	Westborough	MA	18	Software Developers; Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators	113600	TX,FL,VA
 Zenspace IT LLC	Charlotte	NC	7	Software Developers; Business Intelligence Analysts; Database Administrators		IL,VA,FL
@@ -342,7 +342,7 @@ Zodha Solutions LLC	Jersey City	NJ	4	Software Developers; Computer Programmers	1
 Zodiac, Inc.	St. Louis	MO	1	Energy Engineers, Except Wind and Solar		MO
 Zoeller Company	Louisville	KY	1	Materials Engineers		IN
 Zoetis, Inc.	Parsippany	NJ	41	Software Developers; Biochemists and Biophysicists; Market Research Analysts and Marketing Specialists	115000	NJ,MI,CA
-ZOFS Engineering and Land Surveying P.C.	Valley Stream	NY	9	Civil Engineers; Mechanical Engineers		NY,CT
+ZOFS Engineering and Land Surveying P.C.	Valley Stream	NY	4	Civil Engineers; Mechanical Engineers		NY,CT
 Zoftec, LLC	Phoenix	AZ	1	Software Developers		AZ
 Zoho Technologies	Pleasanton	CA	2	Sales Engineers; Robotics Engineers		TX
 Zoll Data Systems, Inc	Broomfield	CO	2	Software Developers		CO,CA
@@ -359,7 +359,7 @@ Zoom Communications, Inc.	San Jose	CA	61	Software Developers; Computer and Infor
 ZoomInfo Technologies, LLC	Vancouver	WA	27	Software Developers; Business Intelligence Analysts; Information Technology Project Managers	154800	MA,WA,NJ
 ZoomLogi, Inc.	San Francisco	CA	2	Computer and Information Systems Managers; Software Developers		CA
 ZoomRx, Inc.	Cambridge	MA	3	Business Intelligence Analysts	120000	CA,NJ,GA
-Zoox Inc.	Foster City	CA	643	Software Developers; Industrial Engineers; Software Quality Assurance Analysts and Testers	184200	CA,WA,NJ
+Zoox Inc.	Foster City	CA	244	Software Developers; Industrial Engineers; Mechanical Engineers	184200	CA,WA,NJ
 Zoria Housing LLC	Richmond Hill	NY	2	Cost Estimators; Civil Engineers		NY
 Zoro Tools, Inc.	Chicago	IL	7	Data Scientists; Statisticians; Software Developers	154500	IL
 Zotec Partners, LLC	Carmel	IN	4	Software Developers; Data Scientists; Health Informatics Specialists	107700	IN,IL,NY

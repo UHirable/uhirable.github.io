@@ -154,7 +154,7 @@ Angelo, Gordon & Co., L.P.	Fort Worth	TX	5	Financial and Investment Analysts; Da
 Angstrom Fiber Englewood, Llc.	Englewood	OH	1	Computer Systems Analysts		OH
 Anidjar & Levine, P.A.	Fort Lauderdale	FL	1	Paralegals and Legal Assistants		FL
 Ann & Robert H. Lurie Children's Hospital of Chicago	Chicago	IL	9	Molecular and Cellular Biologists; Business Intelligence Analysts; Physical Therapists	77500	IL,TX,VA
-Annapurna Labs (U.S.) Inc.	Seattle	WA	197	Software Developers; Computer Hardware Engineers; Computer and Information Research Scientists	180600	CA,TX,WA
+Annapurna Labs (U.S.) Inc.	Seattle	WA	107	Software Developers; Computer Hardware Engineers; Computer and Information Research Scientists	180600	CA,TX,WA
 Anonyome Labs, Inc.	Salt Lake City	UT	2	Software Developers; Software Quality Assurance Analysts and Testers		CA,UT
 Ansi Logic LLC	Prosper	TX	1	Information Security Analysts		TX
 ANSYS, lnc.	Canonsburg	PA	36	Software Developers; Mechanical Engineers; Electrical Engineers	126200	PA,TX,CA
@@ -243,7 +243,7 @@ Automotive Robotics Proving Labs Inc	East Peoria	IL	5	Software Developers; Elect
 Ava Labs, Inc.	New York	NY	2	Software Developers; Computer and Information Systems Managers		NY,NJ
 Avallon Labs, Inc.	Brooklyn	NY	1	Information Technology Project Managers		NY
 Avansa IT Solutions Llc.	Cranbury	NJ	11	Software Developers; Software Quality Assurance Analysts and Testers	112900	TX,MO,KS
-Avant Healthcare Professionals, LLC.	Maitland	FL	124	Registered Nurses		MT,TN,VA
+Avant Healthcare Professionals, LLC.	Maitland	FL	26	Registered Nurses		TN,MT,VA
 Avant-garde Solutions, Ltd.	Natick	MA	1	Software Developers		TX
 Avanzar Interior Technologies, Ltd.	San Antonio	TX	5	Industrial Engineers; Occupational Health and Safety Specialists; Logistics Engineers	89500	TX
 Aventiqo Llc.	Austin	TX	1	Information Technology Project Managers		IL
@@ -335,7 +335,7 @@ Blackstone Law, APC	Beverly Hills	CA	1	Judicial Law Clerks		CA
 Blade Energy Partners, Ltd.	Frisco	TX	1	Petroleum Engineers		TX
 Blend Labs, Inc.	Novato	CA	5	Software Developers; Information Security Engineers; Data Scientists	145000	CA,TX,NC
 Blockhouse Labs Inc.	New York	NY	2	Data Scientists; Financial Quantitative Analysts		NY
-Bloomberg L.P.	New York	NY	867	Software Developers; Computer and Information Systems Managers; News Analysts, Reporters, and Journalists	160800	NY,NJ,CA
+Bloomberg L.P.	New York	NY	261	Software Developers; Computer and Information Systems Managers; Data Scientists	160800	NY,NJ,CA
 Blue J Legal			1	Accountants and Auditors		CA
 Blue Label Solutions LLC	Redmond	WA	1	Information Technology Project Managers		CA
 Blue Line Foodservice Distribution, Inc.	Detroit	MI	1	Software Developers		MI
@@ -530,7 +530,7 @@ Clicksoft Solutions, Llc.	Huntersville	NC	36	Software Quality Assurance Analysts
 Clinical Reference Laboratory, Inc	Lenexa	KS	1	Software Quality Assurance Analysts and Testers		KS
 Clinical Resolution Laboratory, Inc	Brea	CA	2	Supply Chain Managers; Industrial Engineers		CA
 Clinpharma Clinical Research, Llc.	Wilmington	DE	4	Computer Programmers; Statisticians		DE,NJ
-Clocktower Group, L.P.	Santa Monica	CA	77	Financial and Investment Analysts; Accountants and Auditors	100000	CA
+Clocktower Group, L.P.	Santa Monica	CA	5	Financial and Investment Analysts; Accountants and Auditors	100000	CA
 Close the Loop Plastic Recycling, Inc.	Hebron	KY	2	Project Management Specialists; Engineers, All Other		KY
 Cloud BC Labs, Inc	Reston	VA	13	Software Developers; Computer Systems Analysts; Database Administrators	110000	VA,TX,FL
 Cloud Data Networks L.L.C	Alpharetta	GA	6	Software Developers; Computer Systems Analysts	113500	GA,WA,TX
@@ -593,7 +593,7 @@ Core Its Limited Liability Company	South Plainfield	NJ	9	Software Developers; Bu
 Core Laboratories LP	Houston	TX	1	Computer Programmers		TX
 Coretek Labs LLC	Bellevue	WA	3	Computer Programmers; Biostatisticians; Information Security Analysts	104800	NC,IN,CA
 Corevo IT LLC.	Alpharetta	GA	2	Software Developers		GA,AZ
-Corporate Securities Legal LLP	Costa Mesa	CA	2	Paralegals and Legal Assistants		CA
+Corporate Securities Legal LLP	Costa Mesa	CA	1	Paralegals and Legal Assistants		CA
 Cosmic Labs Technologies, Inc	San Francisco	CA	1	Computer Systems Engineers/Architects		CA
 Cotleur & Hearing Landscape Architecture, LLC.	Jupiter	FL	1	Civil Engineers		FL
 Coughlin Porter Lundeen, Inc.	Seattle	WA	2	Civil Engineers; Management Analysts		WA
@@ -762,7 +762,7 @@ Elementum Ltd.	Lehi	UT	2	Database Architects; Computer and Information Systems M
 Elevated Living Concepts, LLC	City of Industry	CA	1	Market Research Analysts and Marketing Specialists		CA
 Eleven Labs, Inc.	New York	NY	5	Software Developers	180000	NY,CA,FL
 Elgin-New Leipzig Pubic School District 49	Elgin	ND	1	Elementary School Teachers, Except Special Education		ND
-Eli Lilly and Company	Indianapolis	IN	585	Statisticians; Chemists; Medical Scientists, Except Epidemiologists	136200	IN,MA,CA
+Eli Lilly and Company	Indianapolis	IN	242	Statisticians; Chemists; Software Developers	136200	IN,MA,CA
 Eliquent Life Sciences	Washington	DC	16	Validation Engineers; Industrial Engineers; Regulatory Affairs Specialists	101300	DC,NC,MA
 Elite Digital Logistics Inc	Houston	TX	2	Industrial Engineers; Logistics Analysts		TX
 Elite Laboratories, Inc.	Northvale	NJ	1	Quality Control Systems Managers		NJ
@@ -861,7 +861,7 @@ Federal Home Loan Bank of Indianapolis	Indianapolis	IN	6	Software Developers; Fi
 Federal Home Loan Bank Of Pittsburgh	Pittsburgh	PA	2	Software Developers		PA
 Federal Home Loan Bank Of Topeka	Topeka	KS	5	Financial Quantitative Analysts; Financial Risk Specialists; Operations Research Analysts	88000	KS,VA
 Federal Home Loan Bank San Francisco	San Francisco	CA	3	Software Developers; Information Technology Project Managers	196000	CA
-Federal Home Loan Mortgage Corporation	McLean	VA	70	Software Developers; Statisticians; Computer and Information Systems Managers	130900	VA,TX,NY
+Federal Home Loan Mortgage Corporation	McLean	VA	52	Software Developers; Statisticians; Computer and Information Systems Managers	130900	VA,TX,NY
 FedEx Logistics, Inc.	Memphis	TN	3	Software Developers	116100	TN
 FedEx Supply Chain Logistics & Electronics, Inc.	Warrendale	PA	1	Software Developers		TX
 Fellow, Professional Legal Corporation	Oakland	CA	1	Lawyers		CA
@@ -944,7 +944,7 @@ Framework E LLC.	Detroit	MI	1	Architects, Except Landscape and Naval		MI
 Franciscan Missionaries of Our Lady Health System, Inc.	Baton Rouge	LA	24	Hospitalists; Physicians, All Other; Cardiologists	318400	LA
 Frank Lill & Son, Inc.	Victor	NY	3	Civil Engineers		NY
 Frankel Loughran Starr & Vallone LLP	Garden City	NY	1	Accountants and Auditors		NY
-Freedom Logistics LLC	Auburn	NH	2	Market Research Analysts and Marketing Specialists		MA
+Freedom Logistics LLC	Auburn	NH	1	Market Research Analysts and Marketing Specialists		MA
 Freeport LNG Development, LP	Houston	TX	1	Electrical Engineers		TX
 Frisson Labs, Co.	San Francisco	CA	1	Market Research Analysts and Marketing Specialists		CA
 Frito Lay, Inc.	Purchase	NY	2	Food Scientists and Technologists; Compensation, Benefits, and Job Analysis Specialists		TX,IL
@@ -985,7 +985,7 @@ GDS Link, LLC	Dallas	TX	1	Computer Systems Analysts		IL
 Geeks-v Solutions, Llc.	Lake Forest	CA	1	Software Developers		TX
 Geeth Limited Liability Co.	Waukesha	WI	8	Software Quality Assurance Analysts and Testers; Web Developers; Software Developers	87000	TX,FL,MI
 Gemini Law LLP	New York	NY	1	Lawyers		NY
-Gendelberg Law, PLLC	Brooklyn	NY	15	Paralegals and Legal Assistants; Judicial Law Clerks	83200	NY
+Gendelberg Law, PLLC	Brooklyn	NY	13	Paralegals and Legal Assistants; Judicial Law Clerks	83200	NY
 Gene On Link LLC	Chino Hills	CA	1	Biological Technicians		CA
 General Atlantic Service Company, L.P.	New York	NY	1	Financial and Investment Analysts		TX
 General Legal Inc.	Lancaster	PA	1	Software Developers		CA
@@ -1197,7 +1197,7 @@ Human AI Labs, Inc.	San Francisco	CA	3	Software Developers; Network and Computer
 Humanity Labs Inc.	Boulder	CO	1	Software Developers		NY
 Humantold Psychotherapy LCSW	New York	NY	5	Mental Health Counselors		NY,FL
 HV Law Group LLC	Philadelphia	PA	1	Market Research Analysts and Marketing Specialists		MA
-Hy Line Dental Associates PC	Naperville	IL	2	Dentists, General		IL
+Hy Line Dental Associates PC	Naperville	IL	1	Dentists, General		IL
 Hydration Labs, Inc.	Charlestown	MA	1	Business Intelligence Analysts		MA
 Hyosung Hico, Ltd.	Memphis	TN	2	Accountants and Auditors; Database Architects		TN
 Hyper Labs, Inc.	New York	NY	1	Software Developers		UT
@@ -1226,7 +1226,7 @@ IL Fantuan Ltd.	Chicago	IL	3	Market Research Analysts and Marketing Specialists	
 iLead Law Group, P.C.	New York	NY	1	Accountants and Auditors		NY
 Illinois Mutual Life Insurance Company	Peoria	IL	1	Data Scientists		IL
 Ilogic Tek , L.l.c	Westborough	MA	12	Database Administrators; Software Developers; Database Architects	93900	MA,IL,TX
-Imanis Life Sciences, LLC	Rochester	MN	7	Biological Technicians; Molecular and Cellular Biologists	69000	MN
+Imanis Life Sciences, LLC	Rochester	MN	5	Biological Technicians; Molecular and Cellular Biologists	69000	MN
 Immigrant Legal Advocacy Project	Portland	ME	1	Social and Human Service Assistants		ME
 Immigration Law Office of Hyon C Lee PC	Duluth	GA	1	Lawyers		GA
 Improving Lives Counseling Services, Inc.	Tulsa	OK	1	Mental Health Counselors		OK
@@ -1488,7 +1488,7 @@ Labcorp Early Development Laboratories Inc.	Madison	WI	8	Medical and Clinical La
 Labelbox, Inc.	San Francisco	CA	12	Software Developers; Computer and Information Research Scientists; Data Scientists	180500	CA
 LaBella Associates, D.P.C.	Rochester	NY	8	Civil Engineers; Architects, Except Landscape and Naval; Mechanical Engineers	95700	NY,ME,NC
 Labette Center for Mental Health Services, Inc.	Parsons	KS	1	Mental Health Counselors		KS
-Labette County Medical Center	Parsons	KS	2	Medical and Clinical Laboratory Technologists		KS
+Labette County Medical Center	Parsons	KS	1	Medical and Clinical Laboratory Technologists		KS
 LabFinder, LLC	New York	NY	1	Software Developers		GA
 Labgrown Box Inc	New York	NY	2	Data Scientists		NY
 Lablink, LLC	Southfield	MI	1	Data Scientists		MI
@@ -1541,7 +1541,7 @@ Lak Software Solutions, Inc.	Princeton	NJ	2	Software Developers		NJ,FL
 Lakarya LLC	Sterling	VA	7	Network and Computer Systems Administrators; Information Technology Project Managers	123600	NC,VA
 Lake 5 Media, Inc.	New York	NY	1	Business Operations Specialists, All Other		NY
 Lake East Christian Church	Kirkland	WA	1	Clergy		WA
-Lake Erie College of Osteopathic Medicine, Inc.	Erie	PA	2	Health Specialties Teachers, Postsecondary		NY
+Lake Erie College of Osteopathic Medicine, Inc.	Erie	PA	1	Health Specialties Teachers, Postsecondary		NY
 Lake Erie Medical Services, P.C.	Dunkirk	NY	1	Physicians, All Other		NY
 Lake Forest College	Lake Forest	IL	2	Education Administrators, Postsecondary		IL
 Lake Hills Montessori LLC	Tulsa	OK	1	Preschool Teachers, Except Special Education		OK
@@ -1580,7 +1580,7 @@ Lallemand Bio-Ingredients USA LLC	Hutchinson	MN	1	Mechanical Engineers		MN
 Lallemand Specialties Inc.	Milwaukee	WI	1	Animal Scientists		TX
 Lalor Dental, LLC	Johnson City	NY	4	Dentists, General	208000	NY
 Lam MD PC	Tustin	CA	1	Marketing Managers		CA
-Lam Research Corporation	Fremont	CA	193	Materials Engineers; Electronics Engineers, Except Computer; Software Developers	136400	CA,OR,AZ
+Lam Research Corporation	Fremont	CA	186	Materials Engineers; Electronics Engineers, Except Computer; Software Developers	136400	CA,OR,AZ
 Lama Wholesale Inc	Haltom City	TX	1	Business Operations Specialists, All Other		TX
 Lamar Technical Services LLC (a Think Power Solutions Co)	Plano	TX	1	Electrical Engineers		TX
 Lamar University	Beaumont	TX	4	Business Teachers, Postsecondary; Mathematical Science Teachers, Postsecondary; Engineering Teachers, Postsecondary	99200	TX
@@ -1609,7 +1609,7 @@ Lancaster Regional Hospital LP	Lancaster	TX	1	Computer Network Support Specialis
 Lancer Corp	San Antonio	TX	2	Software Developers; Management Analysts		TX
 LanceSoft Inc.	Herndon	VA	33	Software Developers; Validation Engineers; Manufacturing Engineers	94700	TX,IL,NY
 Lancium LLC	Shenandoah	TX	1	Information Security Analysts		CA
-Lanconic Inc.	Metuchen	NJ	23	Computer Programmers; Software Developers	98300	NJ
+Lanconic Inc.	Metuchen	NJ	11	Computer Programmers; Software Developers	98300	NJ
 Land Development Consultants, Inc.	Woodinville	WA	2	Civil Engineers		WA,VA
 Land IQ, LLC	Sacramento	CA	1	Web Developers		CA
 Land Morphology Inc	Seattle	WA	1	Landscape Architects		WA
@@ -1642,7 +1642,7 @@ Lane & Associates of NC, PLLC	Angier	NC	1	Dentists, General		NC
 Lane Architecture, PA	Jacksonville	FL	1	Architects, Except Landscape and Naval		FL
 Lane County School District 4J	Eugene	OR	3	Elementary School Teachers, Except Special Education; Special Education Teachers, Middle School	83700	OR
 Lang Architecture LLC	New York	NY	1	Architects, Except Landscape and Naval		NY
-Langan Engineering and Environmental Services, LLC	Parsippany	NJ	82	Civil Engineers; Environmental Engineers; Transportation Engineers	81000	NY,FL,TX
+Langan Engineering and Environmental Services, LLC	Parsippany	NJ	68	Civil Engineers; Environmental Engineers; Transportation Engineers	81000	NY,FL,NJ
 Langate Corp	New York	NY	1	Computer Programmers		MI
 LangChain Inc.	San Francisco	CA	10	Software Developers; Information Technology Project Managers; Web and Digital Interface Designers	166000	CA,NY,MA
 LangGenius, Inc.	Menlo Park	CA	3	Operations Research Analysts; Computer Programmers	133000	CA
@@ -1717,7 +1717,7 @@ Latent Dynamics Inc	Hoboken	NJ	1	Data Scientists		NJ
 Latent Labs Technologies, Inc.	San Francisco	CA	4	Data Scientists	250000	CA
 Latent, Inc.	San Francisco	CA	3	Software Developers; Human Factors Engineers and Ergonomists; Public Relations Specialists	161600	CA,NY
 LatentView Analytics Corporation	San Jose	CA	75	Operations Research Analysts; Data Scientists; Software Developers	142300	CA,WA,TX
-Latham & Watkins LLP	New York	NY	82	Lawyers; Operations Research Analysts	273000	NY,CA,TX
+Latham & Watkins LLP	New York	NY	53	Lawyers; Operations Research Analysts	273000	NY,CA,TX
 Latham Pool Products, Inc.	Latham	NY	3	Industrial Engineers; Industrial Production Managers; Project Management Specialists	94100	FL,OH
 Lathia Investments, LLC	Pittsburgh	PA	1	Business Intelligence Analysts		PA
 Lathrop GPM, LLP	Kansas City	MO	1	Lawyers		MN
@@ -1991,7 +1991,7 @@ Leigh & O’Kane, LLC	Lee's Summit	MO	1	Civil Engineers		MO
 Leisureruniverse Corporation	Jersey City	NJ	2	Budget Analysts		NJ
 Leland Inc.	Lehi	UT	2	Business Operations Specialists, All Other; Cost Estimators		UT,TN
 Leland Saylor Associates	Walnut Creek	CA	1	Cost Estimators		CA
-Leland School District	Leland	MS	5	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School	42800	MS
+Leland School District	Leland	MS	4	Secondary School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School	42800	MS
 Leland Stanford Jr. Univ/SLAC National Accelerator Lab	Menlo Park	CA	25	Physicists; Chemists; Electronics Engineers, Except Computer, R&D	130000	CA
 Lelantos Inc	New York	NY	1	Materials Scientists		NY
 Leleu & Gomez Alfaro LLC	Newark	NJ	1	Paralegals and Legal Assistants		NJ
@@ -2107,7 +2107,7 @@ Lewis Schoeplein Architects	Los Angeles	CA	1	Architects, Except Landscape and Na
 Lewis University	Romeoville	IL	5	Computer Science Teachers, Postsecondary; Philosophy and Religion Teachers, Postsecondary; Education Administrators, Postsecondary	74500	IL
 Lewisboro Pharmacy, Inc.	Cross River	NY	1	Pharmacists		NY
 LeWiz Communications, Inc.	San Jose	CA	1	Electronics Engineers, Except Computer		CA
-Lex Cell-tx, LLC	Plano	TX	5	Software Quality Assurance Analysts and Testers; Technical Writers		TX,NJ
+Lex Cell-tx, LLC	Plano	TX	3	Software Quality Assurance Analysts and Testers; Technical Writers		TX,NJ
 Lex Nimble Solutions Inc.	Schaumburg	IL	37	Software Developers; Computer Programmers; Data Scientists	108500	TX,VA,GA
 Lex Technology, Inc.	Eads	TN	1	Data Scientists		TN
 Lex Veritas LLC	Chicago	IL	2	Paralegals and Legal Assistants		IL
@@ -2237,7 +2237,7 @@ Lifefusion Pharma LLC	New Brunswick	NJ	2	Biological Technicians; Validation Engi
 LifeHealth, P.C.	Gadsden	AL	1	Physicians, All Other		AL
 LifeLens Technologies, Inc.	Ivyland	PA	1	Software Developers		PA
 Lifeline Medical Center LLC	Norcross	GA	2	Physician Assistants; Medical and Health Services Managers		GA
-Lifeline Nursing Solutions, LLC	Cumming	GA	160	Critical Care Nurses	84500	GA,KS
+Lifeline Nursing Solutions, LLC	Cumming	GA	16	Critical Care Nurses	84500	GA,KS
 Lifeline Systems Company	Marlborough	MA	2	Software Developers; Mechanical Engineers		MA
 Lifelink Systems, Inc.	San Francisco	CA	2	Project Management Specialists		VA
 LifeLong Medical Care	Berkeley	CA	1	Family Medicine Physicians		CA
@@ -2246,7 +2246,7 @@ Lifepoint Rehabilitation, LLC	Brentwood	TN	2	Physical Therapists		KS
 LifeSource Donation Services	Minneapolis	MN	1	Surgeons, All Other		MN
 Lifespan Corporation	Providence	RI	3	Healthcare Social Workers; Mental Health Counselors; Industrial Engineers	69800	RI
 Lifespan Corporation, DBA Brown University Health	Providence	RI	1	Healthcare Social Workers		RI
-Lifespan Physician Group Inc.	Providence	RI	39	Physicians, All Other; Hospitalists; Anesthesiologists	252400	RI,MA
+Lifespan Physician Group Inc.	Providence	RI	35	Physicians, All Other; Anesthesiologists; Hospitalists	252400	RI,MA
 Lifestyle Marketing, Inc.	Milwaukee	WI	1	Market Research Analysts and Marketing Specialists		WI
 LifeTechX Inc.	San Jose	CA	1	Statistical Assistants		CA
 Lifetime Dental Care of Illinois, PC	Effingham	IL	1	Dentists, General		IL
@@ -2313,7 +2313,7 @@ Lilax Technologies,Inc	Ann Arbor	MI	4	Software Developers; Data Scientists	83400
 Lilian Prep Early Education Academy	Allston	MA	1	Education and Childcare Administrators, Preschool and Daycare		MA
 Lilli Technology LLC	Plano	TX	7	Computer Systems Engineers/Architects; Software Developers; Computer Systems Analysts		TX,NC,WA
 Lillian Custom Homes LLC	Waxahachie	TX	3	Construction Managers; Architects, Except Landscape and Naval	85300	TX
-Lilly USA, LLC	Indianapolis	IN	8	Market Research Analysts and Marketing Specialists; Business Intelligence Analysts; Information Technology Project Managers	129900	IN,WA,NY
+Lilly USA, LLC	Indianapolis	IN	4	Market Research Analysts and Marketing Specialists; Business Intelligence Analysts; Information Technology Project Managers	129900	IN,WA,NY
 Lilt, Inc.	San Francisco	CA	2	Graphic Designers; Computer and Information Research Scientists		CA
 Lily Commerce LLC	Menlo Park	CA	1	Data Scientists		CA
 Lim and Lim Accountancy Corporation	Los Angeles	CA	1	Accountants and Auditors		CA
@@ -2489,7 +2489,7 @@ Live Nation Worldwide, Inc.	Beverly Hills	CA	20	Software Developers; Data Scient
 Live99 Inc	Culver City	CA	1	Market Research Analysts and Marketing Specialists		CA
 Livegage, Inc.	Massapequa	NY	2	Software Developers		TX
 LiveKit Incorporated	Saratoga	CA	1	Software Developers		OH
-LiveLab Media US Inc	Culver City	CA	5	Market Research Analysts and Marketing Specialists; Human Resources Specialists	52700	CA
+LiveLab Media US Inc	Culver City	CA	3	Market Research Analysts and Marketing Specialists; Human Resources Specialists	52700	CA
 Livelarge Home Inc	San Jose	CA	1	Project Management Specialists		CA
 LiveMindz Services Inc	Farmers Branch	TX	11	Software Developers; Data Scientists; Information Technology Project Managers	90900	TX,GA
 Livent USA Corp.	Philadelphia	PA	1	Materials Scientists		NC
@@ -2587,7 +2587,7 @@ Loeb & Loeb LLP	New York	NY	2	Lawyers; Judicial Law Clerks		NY,CA
 Loeffler Professional Services	Lakeville	MN	1	Cost Estimators		MN
 Loenbro, LLC	Westminster	CO	3	Civil Engineers; Cost Estimators	92500	AZ,TX
 Loesche America Inc.	Pembroke Pines	FL	1	Project Management Specialists		FL
-Lof LLC	Libertyville	IL	4	Software Developers	110000	IL,MO
+Lof LLC	Libertyville	IL	3	Software Developers	110000	IL,MO
 Loft Orbital Solutions, Inc.	Golden	CO	4	Aerospace Engineers; Computer Hardware Engineers; Software Developers	148400	CA
 Logan Ad Group	San Juan Capistrano	CA	1	Operations Research Analysts		CA
 Logan Data Inc	Westford	MA	2	Management Analysts; Computer Systems Engineers/Architects		NC,CO
@@ -2641,10 +2641,10 @@ Loma Linda University Medical Center (LLUMC)	San Bernardino	CA	1	Natural Science
 Loma Linda University Shared Services	San Bernardino	CA	3	Financial Managers; Software Developers; Business Intelligence Analysts	145500	CA
 Lombard Odier Asset Management USA CORP	New York	NY	2	Compliance Officers; Financial and Investment Analysts		NY
 Lombardia Consulting Group, LLC	San Francisco	CA	2	Construction Managers; Cost Estimators		TX
-Londen Insurance Group, Inc.	Phoenix	AZ	2	Software Developers		FL
+Londen Insurance Group, Inc.	Phoenix	AZ	1	Software Developers		FL
 London Computer Systems, Inc.	Cincinnati	OH	1	Software Developers		OH
 London Economics International LLC	Boston	MA	1	Economists		MA
-London Fischer LLP	New York	NY	2	Paralegals and Legal Assistants		NY
+London Fischer LLP	New York	NY	1	Paralegals and Legal Assistants		NY
 London Market Place, Inc.	Atlanta	GA	1	Computer Programmers		NC
 London Stock Exchange Group Holdings, Inc.	New York	NY	34	Software Developers; Data Scientists; Financial Quantitative Analysts	122100	NY,SC,MO
 Lone Star Circle Of Care	Georgetown	TX	1	Psychiatrists		TX
@@ -2752,7 +2752,7 @@ Louis Career Development Center Inc.	Great Neck	NY	1	Registered Nurses		NY
 Louis Dreyfus Company LLC	Wilton	CT	6	Financial Managers; Industrial Production Managers; Financial and Investment Analysts	203100	CT,IN
 Louis Stokes Cleveland Va Medical Center	Cleveland	OH	1	Cardiologists		OH
 Louis Vuitton North America, Inc.	New York	NY	2	Supply Chain Managers		NY
-Louisiana Children's Medical Center	New Orleans	LA	215	Registered Nurses; Critical Care Nurses		LA
+Louisiana Children's Medical Center	New Orleans	LA	55	Registered Nurses; Critical Care Nurses		LA
 Louisiana Children's Medical Center d/b/a LCMC Health	New Orleans	LA	1	Cardiologists		LA
 Louisiana Health Service & Indemnity Company	Baton Rouge	LA	1	Software Developers		LA
 Louisiana Heart And Vascular Institute	Covington	LA	1	Cardiologists		LA
@@ -2815,7 +2815,7 @@ LSCU Service Corporation, Inc.	Tallahassee	FL	1	Data Scientists		WA
 LSEGH, Inc.	New York	NY	2	Software Developers		SC
 Lsev USA Corp	Irvine	CA	3	Business Intelligence Analysts; Meeting, Convention, and Event Planners; Operations Research Analysts	132000	CA
 LSG Landscape Architecture, Inc.	Tysons	VA	2	Landscape Architects		VA,GA
-LSI Corporation	Palo Alto	CA	27	Electronics Engineers, Except Computer; Software Developers; Information Technology Project Managers	213800	CA,GA,CO
+LSI Corporation	Palo Alto	CA	7	Electronics Engineers, Except Computer; Software Developers; Information Technology Project Managers	213800	CA,GA,CO
 LSI Solutions, Inc.	Victor	NY	1	Business Intelligence Analysts		NY
 LSM1 LLC	Houston	TX	1	Human Resources Specialists		TX
 LSP Products Group, Inc.	Irving	TX	1	Logisticians		TX
@@ -2834,7 +2834,7 @@ LTA Research and Exploration LLC	Sunnyvale	CA	1	Aerospace Engineers		CA
 LTA US Advisors, Inc.	San Francisco	CA	1	Accountants and Auditors		PA
 LTC America LLC	Sacramento	CA	1	Business Intelligence Analysts		CA
 lthaka Harbors, Inc.	New York	NY	1	Software Developers		NJ
-LTIMindtree Limited	Edison	NJ	949	Software Developers; Computer Systems Engineers/Architects; Information Technology Project Managers	100800	TX,NJ,FL
+LTIMindtree Limited	Edison	NJ	922	Software Developers; Computer Systems Engineers/Architects; Information Technology Project Managers	100800	TX,NJ,FL
 LTM Limited	Edison	NJ	198	Computer Systems Engineers/Architects; Software Developers; Software Quality Assurance Analysts and Testers	95400	TX,NJ,FL
 LTM Limited Ltd (formerly LTIMindtree Limited)	Edison	NJ	2	Computer Systems Engineers/Architects; Software Developers		CA,PA
 LTS Associate, Inc.	City of Industry	CA	6	Database Administrators; Logisticians; Market Research Analysts and Marketing Specialists		CA,MD,GA
@@ -2881,7 +2881,7 @@ Lufthansa Technik Component Services LLC	Tulsa	OK	3	Business Intelligence Analys
 Lukka Inc	Naples	FL	1	Business Intelligence Analysts		MA
 Lulugo Tech Inc	Los Angeles	CA	1	Market Research Analysts and Marketing Specialists		CA
 lululemon usa inc.	Seattle	WA	18	Computer Systems Engineers/Architects; Software Developers; Information Technology Project Managers	193900	WA,OH
-Luma AI, Inc.	Redwood City	CA	34	Computer and Information Research Scientists; Software Developers; Computer Systems Engineers/Architects	187500	CA,WA,NY
+Luma AI, Inc.	Redwood City	CA	27	Computer and Information Research Scientists; Software Developers; Computer Systems Engineers/Architects	187500	CA,WA,NY
 Luma Financial Technologies, LLC	Cincinnati	OH	4	Software Developers; Software Quality Assurance Analysts and Testers	120000	OH,NY
 Luma Health, Inc.	San Mateo	CA	2	Health Informatics Specialists; Database Architects		CA
 Lumacreek LLC	Bellevue	WA	1	Financial and Investment Analysts		WA
@@ -2999,11 +2999,11 @@ Lwo LLC	Clayton	MO	1	Investment Fund Managers		MO
 LWS Research Inc.	West Hollywood	CA	1	Software Quality Assurance Analysts and Testers		PA
 LX Hausys America, Inc.	Alpharetta	GA	1	Accountants and Auditors		GA
 Lx Pantos America Inc	Teaneck	NJ	2	Logistics Analysts; Logisticians		NJ,TN
-LXD Research & Display, LLC	Raleigh	NC	2	Electrical Engineers		NC
+LXD Research & Display, LLC	Raleigh	NC	1	Electrical Engineers		NC
 Lxr Infotech Inc	Houston	TX	5	Software Developers	106000	TX,MD
 Lycee Francais de Chicago, Inc.	Chicago	IL	1	Secondary School Teachers, Except Special and Career/Technical Education		IL
-Lycee Francais de New York	New York	NY	20	School Psychologists; Instructional Coordinators		NY
-Lycee Francais Nouvelle Orleans	New Orleans	LA	11	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Education Administrators, Kindergarten through Secondary	45600	LA
+Lycee Francais de New York	New York	NY	2	School Psychologists; Instructional Coordinators		NY
+Lycee Francais Nouvelle Orleans	New Orleans	LA	8	Elementary School Teachers, Except Special Education; Secondary School Teachers, Except Special and Career/Technical Education; Education Administrators, Kindergarten through Secondary	45600	LA
 Lycee International de Boston/ International School of Boston Inc	Cambridge	MA	1	Secondary School Teachers, Except Special and Career/Technical Education		MA
 Lycia Therapeutics, Inc.	South San Francisco	CA	1	Molecular and Cellular Biologists		CA
 Lycoming College	Williamsport	PA	1	Librarians and Media Collections Specialists		PA
@@ -3073,7 +3073,7 @@ Manifold Labs, Inc.	Austin	TX	1	Software Developers		TX
 Mankato Clinic, LTD.	Mankato	MN	1	Medical and Health Services Managers		MN
 Mantra Law Office & Associates PLLC	Houston	TX	1	Judicial Law Clerks		TX
 Mapier Labs Inc.	Chicago	IL	2	Software Developers		IL
-Maq L.L.C.	Redmond	WA	38	Software Developers	117700	WA,TX
+Maq L.L.C.	Redmond	WA	9	Software Developers	117700	WA,TX
 Marc A. Lindsell Architect, Inc	San Francisco	CA	1	Architectural and Civil Drafters		CA
 Marc Consulting Llc.	Norwalk	CT	2	Software Developers		FL,MD
 Marin & Murphy Law Firm, Inc.	East Greenwich	RI	1	Market Research Analysts and Marketing Specialists		SC
@@ -3133,7 +3133,7 @@ Merit Law LLP	Houston	TX	1	Judicial Law Clerks		TX
 Merrill Lynch	Charlotte	NC	26	Software Developers; Software Quality Assurance Analysts and Testers; Statisticians	154700	NJ,NC,NY
 Merrill Lynch Commodities Inc.	Charlotte	NC	7	Financial and Investment Analysts; Software Developers	200000	NY,TX,IL
 Messina Madrid Law PA	Miami	FL	1	Judicial Law Clerks		CA
-Methodist Le Bonheur Healthcare	Memphis	TN	25	Medical and Clinical Laboratory Technologists; Registered Nurses; Histotechnologists		TN
+Methodist Le Bonheur Healthcare	Memphis	TN	7	Medical and Clinical Laboratory Technologists; Computer and Information Research Scientists; Optometrists		TN
 MetLife Legal Plans, Inc.	New York	NY	1	Software Quality Assurance Analysts and Testers		WA
 Metta Montessori School Llc.	Arlington	VA	1	Kindergarten Teachers, Except Special Education		VA
 MGE Lighting Design Collaborative Corp.	New York	NY	2	Graphic Designers		PA
@@ -3166,7 +3166,7 @@ Mizuho Bank, Ltd.	New York	NY	4	Securities, Commodities, and Financial Services 
 Ml Technologies Llc.	Chantilly	VA	8	Network and Computer Systems Administrators; Computer Network Architects; Database Architects	98600	NJ,MO,VA
 Mobicloud, Llc.	Cedar Park	TX	18	Software Developers; Data Scientists; Computer Systems Engineers/Architects		TX,IL,CA
 Mobius Labs Inc.	San Francisco	CA	1	Software Developers		CA
-Modal Labs, Inc.	New York	NY	9	Software Developers; Computer and Information Systems Managers; Graphic Designers	200000	NY,CA
+Modal Labs, Inc.	New York	NY	6	Software Developers; Computer and Information Systems Managers; Graphic Designers	200000	NY,CA
 Modern Land Seattle LLC	Bellevue	WA	3	Accountants and Auditors	96000	WA
 Modo Labs, Inc.	Boston	MA	1	Web and Digital Interface Designers		MA
 Modular Software Consulting, Llc.	Mount Laurel	NJ	1	Data Scientists		CA
@@ -3223,7 +3223,7 @@ Natural Language Labs Inc.	New York	NY	1	Software Developers		CA
 Naughty Dog a limited liability company	Santa Monica	CA	5	Special Effects Artists and Animators; Software Developers; Computer Programmers	129700	CA
 NCL (Bahamas) Ltd.	Miami	FL	10	Computer and Information Systems Managers; Data Scientists; Data Warehousing Specialists	146600	FL,TX
 Ndimensions Labs, Inc.	Boston	MA	2	Robotics Engineers		MA
-NEC Laboratories America, Inc.	Princeton	NJ	13	Computer and Information Research Scientists	164400	CA,NJ
+NEC Laboratories America, Inc.	Princeton	NJ	7	Computer and Information Research Scientists	164400	NJ,CA
 Nedl Labs Inc	McKinney	TX	4	Data Scientists; Software Developers	96000	TX,CA
 Nelson Byrd Woltz Landscape Architects, PLLC	Charlottesville	VA	1	Landscape Architects		NY
 Nelson Laboratories, Inc.	Salt Lake City	UT	1	Software Developers		UT
@@ -3278,7 +3278,7 @@ Noho Research Labs Inc. (f/k/a JJHK HOLDINGS CORP)	New York	NY	1	Computer and In
 Nor Lea Hospital District	Lovington	NM	1	Pediatricians, General		NM
 North American Lighting, Inc.	Paris	IL	11	Mechanical Engineers; Software Developers; Logisticians	125000	MI,IL,AL
 North Carolina Global Leader Consulting LLC	Raleigh	NC	1	Management Analysts		NC
-Northeast Bioanalytical Laboratories LLC	Hamden	CT	5	Biochemists and Biophysicists; Biological Scientists, All Other	80000	CT
+Northeast Bioanalytical Laboratories LLC	Hamden	CT	3	Biochemists and Biophysicists; Biological Scientists, All Other	80000	CT
 Northwestern Mutual Life Insurance Company	Milwaukee	WI	64	Software Developers; Data Scientists; Information Technology Project Managers	135000	WI,TX,NY
 Northwestern State University of Louisiana	Natchitoches	LA	1	Art, Drama, and Music Teachers, Postsecondary		LA
 Norton Lilly International, Inc.	Mobile	AL	1	Financial and Investment Analysts		TX
@@ -3424,12 +3424,12 @@ PhnyX Lab Inc	Los Altos	CA	1	Software Developers		CA
 Phoenix Business Solutions, LLC.	Eugene	OR	1	Business Intelligence Analysts		OR
 Phota Labs, Inc.	San Jose	CA	1	Computer and Information Research Scientists		CA
 Photo Scan of Los Angeles Inc.	Simi Valley	CA	1	Electrical Engineers		CA
-Phronetic Psychotherapy LCSW PC	New York	NY	13	Mental Health Counselors; Mental Health and Substance Abuse Social Workers		NY,NJ
+Phronetic Psychotherapy LCSW PC	New York	NY	10	Mental Health Counselors; Mental Health and Substance Abuse Social Workers		NY,NJ
 Physician Groups, LC	St. Louis	MO	3	General Internal Medicine Physicians; Family Medicine Physicians; Hospitalists	250000	MO
 Physion Labs Corporation	Bellevue	WA	3	Computer and Information Research Scientists; Data Scientists	200000	WA,MA
 Pi Labs Inc	Ellisville	MO	9	Software Developers; Computer Systems Analysts; Data Scientists	92300	TX,NC,IN
 Pierce Lighting Inc.	New York	NY	2	Interior Designers		NY
-Pierre Indian Learning Center	Pierre	SD	4	Elementary School Teachers, Except Special Education		SD
+Pierre Indian Learning Center	Pierre	SD	1	Elementary School Teachers, Except Special Education		SD
 PieSoft, LLC.	Bethlehem	PA	2	Project Management Specialists		PA,TX
 Pink Lava Studios LLC	Buford	GA	1	Market Research Analysts and Marketing Specialists		GA
 Pinnpack Capital Holdings, LLC.	Oxnard	CA	1	Mechanical Engineers		CA
@@ -3452,7 +3452,7 @@ Point72 Asset Management, L.P.	Stamford	CT	49	Financial Quantitative Analysts; F
 Point72, L.P.	Stamford	CT	46	Software Developers; Data Scientists; Database Architects	200000	NY,CT,WA
 Polygon Labs Services (Delaware) Inc.	West Hollywood	CA	3	Lawyers; Blockchain Engineers; Information Technology Project Managers	140700	NY,MA
 Polymics Ltd.	State College	PA	1	Market Research Analysts and Marketing Specialists		PA
-Popli Architecture & Engineering & LS, DPC	Penfield	NY	4	Civil Engineers	75900	NY
+Popli Architecture & Engineering & LS, DPC	Penfield	NY	3	Civil Engineers	75900	NY
 Port 51 Lending LLC	New York	NY	1	Credit Analysts		CA
 Porzio Life Sciences, LLC	Portsmouth	NH	2	Software Developers		NJ,PA
 Postol Law Firm PC	Mclean	VA	1	Lawyers		VA
@@ -3557,7 +3557,7 @@ RC Law LLP	Miami	FL	1	Lawyers		FL
 RCI, LLC (Travel and Leisure Co.)	Orlando	FL	1	Business Intelligence Analysts		IN
 RDD Freight International (LA) Inc.	City of Industry	CA	3	Operations Research Analysts; Logisticians		CA
 RDR Immigration Law LLC	Doral	FL	1	Judicial Law Clerks		FL
-re:Cycle Reverse Logistics LLC	Seattle	WA	18	Network and Computer Systems Administrators; Industrial Engineers; Information Technology Project Managers	143400	KY,PA,TN
+re:Cycle Reverse Logistics LLC	Seattle	WA	9	Industrial Engineers; Network and Computer Systems Administrators; Information Technology Project Managers	143400	PA,KY,TN
 Reach Financial LLC (fka Liberty Lending, LLC)	New York	NY	2	Credit Analysts; Financial and Investment Analysts		NY
 Ready Warehousing & Logistics LLC	Secaucus	NJ	1	Logistics Analysts		NJ
 Realm Labs Inc.	Sunnyvale	CA	1	Human Factors Engineers and Ergonomists		CA
@@ -3898,7 +3898,7 @@ Surf Local, Inc.	Boca Raton	FL	1	Computer and Information Systems Managers		IL
 Surge Labs, Inc.	San Francisco	CA	2	Data Scientists		CA,NY
 Susan Lin Design Inc	Lauderdale by the Sea	FL	1	Interior Designers		FL
 Sutherland Global Logistics LLC	State College	PA	2	Logisticians		PA
-Sutter Hill Management Company, L.L.C	Palo Alto	CA	9	Software Developers	165000	CA
+Sutter Hill Management Company, L.L.C	Palo Alto	CA	3	Software Developers	165000	CA
 Sv Technology Services, Llc.	Round Rock	TX	16	Software Developers; Computer Programmers; Health Informatics Specialists	112500	TX,FL,NY
 SVA Consulting, LLC.	Madison	WI	1	Market Research Analysts and Marketing Specialists		WI
 Sverdloff Law Group, P.C.	Chicago	IL	1	Paralegals and Legal Assistants		IL
@@ -3987,7 +3987,7 @@ The Creative Center of Los Altos	Los Altos	CA	1	Secondary School Teachers, Excep
 The Detroit Lions, Inc.	Allen Park	MI	1	Data Scientists		MI
 The Duluth Clinic, Ltd.	Duluth	MN	4	Physicians, All Other; Neurologists; Hospitalists	362100	MN
 The Dworsky Law Firm	Northbrook	IL	1	Judicial Law Clerks		IL
-The Evolvers Group, L.P.	Flower Mound	TX	11	Software Developers; Computer Systems Engineers/Architects; Computer Systems Analysts		TX
+The Evolvers Group, L.P.	Flower Mound	TX	10	Computer Systems Engineers/Architects; Software Developers; Computer Systems Analysts		TX
 The Finish Line USA, Inc.	Indianapolis	IN	2	Software Developers		IN
 The Fogle Law Firm, LLC	Atlanta	GA	1	Judicial Law Clerks		GA
 The Gate Lounge, Inc	Encino	CA	1	Musicians and Singers		CA
@@ -4024,7 +4024,7 @@ The Law Offices of James L. Arrasmith	Fair Oaks	CA	1	Lawyers		CA
 The Law Offices of Marcos and Associates, P.C.	Houston	TX	1	Management Analysts		TX
 The Law Offices of Neal Brickman, P.C	New York	NY	1	Lawyers		NY
 The Law Offices of Shan Potts	Glendale	CA	1	Market Research Analysts and Marketing Specialists		CA
-The Lawrence Memorial Hospital	Lawrence	KS	26	Critical Care Nurses; Registered Nurses; Pharmacists	73400	KS
+The Lawrence Memorial Hospital	Lawrence	KS	8	Critical Care Nurses; Registered Nurses; Pharmacists	73400	KS
 The Layton Companies	Sandy	UT	10	Project Management Specialists; Cost Estimators; Construction Managers	102200	AZ,CA,UT
 The LCF Group	New Hyde Park	NY	4	Software Developers	120000	GA,NY
 The Learning Center for the Deaf, Inc.	Framingham	MA	1	Special Education Teachers, Secondary School		MA
@@ -4109,7 +4109,7 @@ Torres Counseling LCSW	Bay Shore	NY	1	Mental Health Counselors		NY
 Torrez Law Group	Alexandria	VA	3	Lawyers	123200	VA
 Total Quality Logistics, LLC	Cincinnati	OH	5	Software Developers; Software Quality Assurance Analysts and Testers; Market Research Analysts and Marketing Specialists	112400	NC,OH,FL
 Tough Leaf Inc	New York	NY	1	Software Developers		IL
-Tower 4 Liberty Market LLC	New York	NY	2	Web Developers		NY
+Tower 4 Liberty Market LLC	New York	NY	1	Web Developers		NY
 Town of Los Altos Hills	Los Altos Hills	CA	2	Urban and Regional Planners		CA
 Toybox Labs, Inc.	Oakland	CA	1	Financial Managers		TX
 Toyota Automated Logistics Americas, LLC	Carmel	IN	8	Electrical Engineers; Software Developers; Mechatronics Engineers	107300	IN,TX,AZ
@@ -4171,7 +4171,7 @@ Union Federal Savings and Loan Association	Kewanee	IL	1	Credit Analysts		WI
 Union Square Psychotheraphy, LCSW, PLLC	New York	NY	1	Clinical and Counseling Psychologists		NY
 Unique Industrial Product Company, L.P.	Sugar Land	TX	1	Accountants and Auditors		TX
 Unisys Infotech Llc.	Cornelius	NC	4	Computer Programmers; Information Technology Project Managers; Software Developers	100600	CA,NC
-United Consulting Group Ltd.	Norcross	GA	12	Accountants and Auditors; Civil Engineers; Mining and Geological Engineers, Including Mining Safety Engineers	73200	GA
+United Consulting Group Ltd.	Norcross	GA	6	Accountants and Auditors; Civil Engineers; Mining and Geological Engineers, Including Mining Safety Engineers	73200	GA
 United Express Logistics, LLC	Tigard	OR	1	Public Relations Specialists		OR
 United Georgia Loans LLC	Atlanta	GA	1	Project Management Specialists		GA
 United Road Logistics, LLC	Plymouth	MI	1	Logistics Analysts		MI
@@ -4207,7 +4207,7 @@ US Ocean Logistics Inc	Houston	TX	1	Logisticians		TX
 US Pharma Lab LLC - Biofarma Group dba USPL Nutritionals LLC	North Brunswick	NJ	4	Chemists; Project Management Specialists	106600	NJ
 US Pisen Technology Ltd.	New York	NY	2	Interpreters and Translators; Logistics Analysts		CA
 Usaa Logistics Inc	Savannah	GA	1	Logisticians		GA
-USACS Medical Group Ltd.	Canton	OH	78	Hospitalists; Emergency Medicine Physicians; Physicians, All Other		OH,MD,OK
+USACS Medical Group Ltd.	Canton	OH	55	Hospitalists; Emergency Medicine Physicians; Physicians, All Other		MD,OK,NC
 Ushirepro Llc.	Hamilton	NJ	5	Information Technology Project Managers; Software Quality Assurance Analysts and Testers; Business Intelligence Analysts	94700	NJ,NY,IL
 Uson, L.P.	Houston	TX	1	Transportation, Storage, and Distribution Managers		TX
 UT Le Bonheur Pediatric Specialists, Inc	Memphis	TN	6	Pediatricians, General; Cardiologists; Radiologists		TN
@@ -4232,7 +4232,7 @@ Vasavi Infotech, LLC.	Irving	TX	2	Data Scientists		TX
 VASCOR, Ltd.	Georgetown	KY	1	Business Intelligence Analysts		KY
 Vasquez Law Firm PLLC	Orlando	FL	1	Legal Support Workers, All Other		FL
 Vatic Labs Operations, LLC	New York	NY	3	Statisticians; Financial Quantitative Analysts; Software Developers	225000	NY
-VCL Law LLP	Vienna	VA	3	Lawyers		VA
+VCL Law LLP	Vienna	VA	2	Lawyers		VA
 Vecto Solutions, LLC.	Alpena	MI	1	Industrial Engineers		MI
 Vedya Labs Inc.	Cupertino	CA	1	Mechanical Engineers		CA
 Velar Development Llc.	Cedar Park	TX	1	Construction Managers		TX
@@ -4350,7 +4350,7 @@ Wong & Associates, Lawyers, P.C.	Diamond Bar	CA	1	Judicial Law Clerks		CA
 Woodhaven Learning Center	Columbia	MO	1	Treasurers and Controllers		MO
 Woodmen of the World Life Insurance Society	Omaha	NE	1	Computer Systems Engineers/Architects		CO
 Work Visa Lawyers, P.A.	Plantation	FL	1	Financial and Investment Analysts		FL
-Workmate Labs Inc	New York	NY	2	Software Developers		NY
+Workmate Labs Inc	New York	NY	1	Software Developers		NY
 World Journal LA, LLC	Monterey Park	CA	1	Graphic Designers		CA
 World Labs Technologies, Inc.	San Francisco	CA	6	Computer and Information Research Scientists; Software Developers; Data Scientists	250000	CA
 World Wide Land Transfer. LLC	Feasterville-Trevose	PA	1	Data Scientists		PA
@@ -4373,7 +4373,7 @@ Yagoubzadeh Law Firm, LLP	Beverly Hills	CA	1	Lawyers		CA
 Yao Legal Group LLC	Flushing	NY	4	Paralegals and Legal Assistants; Judicial Law Clerks		NY
 Yaotu Technologies, L.L.C.	Sault Ste. Marie	MI	1	Software Developers		NJ
 Yash & Lujan Consulting, Inc.	San Antonio	TX	9	Software Developers; Information Technology Project Managers; Database Architects	135000	TX,PA,FL
-Yellow Law Group	Plano	TX	5	Judicial Law Clerks; Paralegals and Legal Assistants		IL,CA
+Yellow Law Group	Plano	TX	3	Judicial Law Clerks; Paralegals and Legal Assistants		IL,CA
 YFORE Technology US Co., Ltd.	Suwanee	GA	1	Manufacturing Engineers		GA
 Yildiz Law Firm, PLLC	Sugar Land	TX	3	Judicial Law Clerks		GA,CT
 Ying Cao Law LLC	Millburn	NJ	1	Judicial Law Clerks		NJ
@@ -4384,7 +4384,7 @@ Young LA Trading Co, LLC	Northridge	CA	2	Operations Research Analysts		CA
 Young Living Holdings, LLC	Lehi	UT	2	Software Developers; Computer and Information Systems Managers		UT
 Your Logistics Corp.	Lewisville	TX	2	Logistics Engineers; Logistics Analysts		NV,TX
 Your Logistics Nevada Corp.	North Las Vegas	TX	1	Logistics Engineers		NV
-YQN Link US Inc	Diamond Bar	CA	5	Logistics Analysts; Logisticians		CA
+YQN Link US Inc	Diamond Bar	CA	4	Logistics Analysts; Logisticians		CA
 YT Life Investment LLC	Ontario	CA	2	Budget Analysts		CA
 Yusen Logistics (Americas) Inc.	Secaucus	NJ	2	Operations Research Analysts; Logisticians		NJ,CA
 YZ Tech Consultants L.L.C	Diamond Bar	CA	2	Civil Engineers		CA
@@ -4407,7 +4407,7 @@ Zione Solutions, LLC.	Farmington	MI	1	Software Developers		VA
 Zippy Labs Inc	Glendale	AZ	1	Software Developers		AZ
 Zitao Liu, M.D., Professional Corporation	Fremont	CA	2	Biological Scientists, All Other		CA
 Zk Technology Llc.	Tampa	FL	1	Market Research Analysts and Marketing Specialists		FL
-ZOFS Engineering and Land Surveying P.C.	Valley Stream	NY	9	Civil Engineers; Mechanical Engineers		NY,CT
+ZOFS Engineering and Land Surveying P.C.	Valley Stream	NY	4	Civil Engineers; Mechanical Engineers		NY,CT
 Zoni Language Centers Inc	New York	NY	1	Human Resources Specialists		NY
 Zuber Lawler, LLP	Los Angeles	CA	1	Judicial Law Clerks		CA
 ¿Lester E. Cox Medical Centers	Springfield	MO	4	Physicians, All Other; General Internal Medicine Physicians; Cardiologists	351000	MO

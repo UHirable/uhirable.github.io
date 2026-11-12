@@ -40,13 +40,13 @@ Colegio San Jose Marianist Cort			1	Secondary School Teachers, Except Special an
 Colour Jewels Inc.	New York	NY	1	Data Scientists		NY
 Community Resources for Justice, Inc.	Boston	MA	2	Social Science Research Assistants		NY
 County of Jefferson	Madras	OR	1	Urban and Regional Planners		OR
-Cypress Junction Montessori, Inc.	Winter Haven	FL	2	Elementary School Teachers, Except Special Education		FL
+Cypress Junction Montessori, Inc.	Winter Haven	FL	1	Elementary School Teachers, Except Special Education		FL
 Daniel James McCarthy Memorial Fund Inc.	Acton	MA	1	Social and Community Service Managers		MA
 Dassault Falcon Jet Corp.	Little Ferry	NJ	3	Business Intelligence Analysts; Manufacturing Engineers; Industrial Engineers	85000	AR,NJ
 Davis Joint Unified School District	Davis	CA	1	Self-Enrichment Teachers		CA
 Dental Studio of Jersey City	Jersey City	NJ	1	Dentists, General		NJ
 Dentistry Just for Kids and Orthodontics, LLC	Terre Haute	IN	1	Orthodontists		IN
-Design Group JEDI Incorporated	Chicago	IL	2	Architects, Except Landscape and Naval		IL
+Design Group JEDI Incorporated	Chicago	IL	1	Architects, Except Landscape and Naval		IL
 Dharani Jasthi DMD P.C	Catonsville	MD	2	Computer Systems Analysts; Dentists, General		MD
 Diamond Jubilee of Atlanta LLC	Atlanta	GA	1	Human Resources Specialists		GA
 Disha Jewels Inc	New York	NY	1	Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel		NY
@@ -74,7 +74,7 @@ Florida State College at Jacksonville	Jacksonville	FL	3	Software Developers	6390
 Forrest T. Jones & Company	Kansas City	MO	1	Business Intelligence Analysts		MO
 Foumberg, Juneja, Rocher & Co., P.C.	Encino	CA	1	Accountants and Auditors		CA
 Gabriel Jewelry Refining Corp	New York	NY	1	Graphic Designers		NY
-Gamelan Sekar Jaya	Berkeley	CA	3	Art, Drama, and Music Teachers, Postsecondary		CA
+Gamelan Sekar Jaya	Berkeley	CA	1	Art, Drama, and Music Teachers, Postsecondary		CA
 George P. Johnson Company	Auburn Hills	MI	1	Set and Exhibit Designers		CA
 Georgia Elite Jewelers LLC	Atlanta	GA	1	Data Scientists		GA
 Gerald J Caliendo Architects PC	Briarwood	NY	1	Architects, Except Landscape and Naval		NY
@@ -127,7 +127,7 @@ J&W PharmLab	Levittown	PA	1	Chemists		PA
 J-cube LLC	Fairfax	VA	1	Software Developers		NJ
 J-Ram IT Consulting, Inc	Herndon	VA	3	Software Developers; Computer Programmers	133500	AZ,CA,NC
 J-Star Motion Corporation	Cedar Springs	MI	2	Manufacturing Engineers; Sales Managers		MI
-J-Star Research, Inc.	South Plainfield	NJ	23	Chemists; Mechanical Engineers	107400	NJ
+J-Star Research, Inc.	South Plainfield	NJ	16	Chemists; Mechanical Engineers	107400	NJ
 J-Track, LLC	Great Neck	NY	1	Construction Managers		NY
 J-U-B Engineers, Inc.	Meridian	ID	2	Civil Engineers		UT,ID
 J. Aron & Company LLC	New York	NY	2	Financial and Investment Analysts		TX
@@ -142,7 +142,7 @@ J. Knipper And Company, Inc.	Lakewood	NJ	5	Data Warehousing Specialists; Softwar
 J. W. Speaker Corporation	Germantown	WI	2	Mechanical Engineers		WI
 J.A. Rosa Construction, LLC	Wolcott	CT	1	Construction Managers		CT
 J.B. Hunt Transport, Inc.	Lowell	AR	28	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	127000	AR,TX,AZ
-J.B. Poindexter & Co., Inc.	Houston	TX	2	Industrial Engineers		TX
+J.B. Poindexter & Co., Inc.	Houston	TX	1	Industrial Engineers		TX
 J.F. Edwards Construction Company	Geneseo	IL	10	Computer Systems Analysts; Civil Engineers	79200	IL,MO,TX
 J.F. Shea Construction, Inc.	Walnut	CA	1	Electrical Engineers		MD
 J.H. Findorff & Son Inc.	Madison	WI	2	Civil Engineers		WI
@@ -161,7 +161,7 @@ J.S.T. Corporation	Waukegan	IL	1	Market Research Analysts and Marketing Speciali
 J.t. Magen & Company, Inc.	New York	NY	20	Construction Managers; Cost Estimators; Mechanical Engineers	118900	NY,IL
 J.T. Mckinney Co., Inc.	Brea	CA	1	Business Intelligence Analysts		CA
 J.W. Harris Co. Inc.	Gainesville	GA	2	Purchasing Managers		GA
-J.W. Pepper & Son, Inc.	Exton	PA	4	Software Developers		PA
+J.W. Pepper & Son, Inc.	Exton	PA	1	Software Developers		PA
 J.W. Speaker Corporation	Germantown	WI	1	Mechanical Engineers		WI
 J2 Engineering & Environmental Design, LLC	Phoenix	AZ	1	Landscape Architects		AZ
 J5 Infrastructure Partners LLC	Irvine	CA	1	Civil Engineers		MD
@@ -225,7 +225,7 @@ Jaguar Software Development, Inc.	Sullivan	IL	1	Data Scientists		IL
 Jaha Ops M, LLC	Boca Raton	FL	1	Market Research Analysts and Marketing Specialists		FL
 Jahangiri Law Group, A Professional Corporation	San Ramon	CA	1	Lawyers		CA
 Jahani and Associates Inc	New York	NY	1	Financial and Investment Analysts		NY
-Jahn Architecture Inc.	Chicago	IL	4	Architects, Except Landscape and Naval		IL
+Jahn Architecture Inc.	Chicago	IL	2	Architects, Except Landscape and Naval		IL
 Jai Marketing LLC	Sheboygan	WI	1	Financial and Investment Analysts		WI
 Jain Global LLC	New York	NY	7	Financial Quantitative Analysts; Software Developers; Mathematicians	180000	NY
 JAJ Roofing Inc dba Citadel Roofing & Solar	Vacaville	CA	1	Business Intelligence Analysts		CA
@@ -276,7 +276,7 @@ Janak V Inc	Carlsbad	NM	1	Lodging Managers		NM
 Jance M. Weberman, A Professional Law Corporation	Los Angeles	CA	1	Paralegals and Legal Assistants		CA
 Janco Engineered Products	Mishawaka	IN	1	Industrial Engineers		IN
 Jane Orgel PC	New York	NY	3	Lawyers		NY
-Jane Street Group, LLC	New York	NY	115	Software Developers; Financial Quantitative Analysts; Operations Research Analysts	300000	NY
+Jane Street Group, LLC	New York	NY	49	Software Developers; Financial Quantitative Analysts; Operations Research Analysts	300000	NY
 Jane's Group Americas LLC	Arlington	VA	1	Management Analysts		VA
 JaneO, LLC	Studio City	CA	1	Pharmacists		CA
 Jangmi Jewelry Corp.	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
@@ -326,7 +326,7 @@ Javier Eduardo Sosa Rodriguez, PC	The Woodlands	TX	2	Family Medicine Physicians	
 Javier R. Rios, MD, A Professional Corporation	Corona	CA	1	General Internal Medicine Physicians		CA
 Jawad A. Shah, M.D., P.C.	Flint	MI	1	Surgeons, All Other		MI
 Jawell Construction Consulting Inc.	Pasadena	CA	1	Architectural and Civil Drafters		CA
-Jawonio Inc.	New City	NY	4	Rehabilitation Counselors		NY
+Jawonio Inc.	New City	NY	1	Rehabilitation Counselors		NY
 Jax Vets Affordable Animal Hospital, LLC	Jacksonville	FL	1	Veterinarians		FL
 Jay & Aarav LLC	Daphne	AL	1	General and Operations Managers		AL
 Jay Cellular LLC	Richardson	TX	1	Software Developers		TX
@@ -547,7 +547,7 @@ JMJ General Contracting Group	Cortlandt Manor	NY	1	Architects, Except Landscape 
 JML Partners LLC	Atlanta	GA	1	Accountants and Auditors		GA
 JN Data Resolution LLC	Florham Park	NJ	5	Biostatisticians; Statisticians		NJ,TX,TN
 Jnana Therapeutics, Inc.	Boston	MA	1	Medical Scientists, Except Epidemiologists		MA
-Jnd Inc	Dallas	TX	2	Software Quality Assurance Analysts and Testers		NJ
+Jnd Inc	Dallas	TX	1	Software Quality Assurance Analysts and Testers		NJ
 JNE Consulting & Engineering Delaware, P.A.	Pittsburgh	PA	1	Electrical Engineers		PA
 JNET Technologies Inc	Alpharetta	GA	1	Computer Systems Engineers/Architects		CT
 Jnh Advisory Services Limited	Great Neck	NY	1	Market Research Analysts and Marketing Specialists		NJ
@@ -557,7 +557,7 @@ JNK Financial & Tax Service	Van Nuys	CA	1	Information Technology Project Manager
 Jns Consulting LLC	Irving	TX	1	Computer Programmers		VA
 Jns Rx, LLC	Riverview	FL	1	Management Analysts		FL
 Jo Palma and Partners Corporation	Chicago	IL	1	Architects, Except Landscape and Naval		IL
-JOADEM Corporation	West Hempstead	NY	3	Civil Engineers; Information Technology Project Managers		NY
+JOADEM Corporation	West Hempstead	NY	2	Information Technology Project Managers; Civil Engineers		NY
 Job Market Training.com LLC	Sterling	VA	1	Business Intelligence Analysts		VA
 Joblogic-X Corporation	Plano	TX	13	Financial and Investment Analysts; Statisticians; Business Intelligence Analysts	80500	TX,GA
 Jobly Solutions, Llc.	Cumming	GA	6	Software Quality Assurance Analysts and Testers; Software Developers; Management Analysts	115000	GA,TX,OR
@@ -826,7 +826,7 @@ Just-Evotec Biologics, Inc.	Seattle	WA	4	Industrial Production Managers; Biochem
 JustAnswer LLC	Covina	CA	3	Data Scientists; Project Management Specialists	124500	CA
 Justi Group Inc	Berwyn	PA	1	Market Research Analysts and Marketing Specialists		PA
 Justia Inc.	Mountain View	CA	1	Public Relations Specialists		CA
-Justice Resource Institute Inc.	Needham	MA	15	Rehabilitation Counselors; Mental Health Counselors; Social and Community Service Managers	49900	MA,RI
+Justice Resource Institute Inc.	Needham	MA	14	Rehabilitation Counselors; Mental Health Counselors; Social and Community Service Managers	49900	MA,RI
 Justice Ventures International	Silver Spring	MD	2	Community and Social Service Specialists, All Other; Fundraisers		MD,MI
 JustiGuide Inc	San Francisco	CA	1	Software Developers		CA
 Justin Camper Law, LLC	Hammond	IN	1	Paralegals and Legal Assistants		IN
@@ -963,7 +963,7 @@ San Jose Healthcare & Wellness Center, LLC	San Jose	CA	1	Physical Therapists		CA
 San Jose State University	San Jose	CA	6	Engineering Teachers, Postsecondary; Education Teachers, Postsecondary; Postsecondary Teachers, All Other	102700	CA
 San Jose State University Research Foundation	San Jose	CA	2	Mathematicians; Aerospace Engineers		CA
 San Jose Unified School District	San Jose	CA	20	Special Education Teachers, Elementary School; Elementary School Teachers, Except Special Education; Special Education Teachers, Secondary School	72100	CA
-San Juan Regional Medical Center, Inc.	Farmington	NM	4	Hospitalists		NM
+San Juan Regional Medical Center, Inc.	Farmington	NM	1	Hospitalists		NM
 Sarku Japan Management Inc.	New York	NY	2	Project Management Specialists		AZ
 Satyam Ji LLC	Blairsville	PA	1	Business Intelligence Analysts		PA
 Schiciano, Johnston & Bialek, LLC	Chagrin Falls	OH	1	Accountants and Auditors		OH
@@ -1004,7 +1004,7 @@ State of New Jersey Department of Children and Families	Trenton	NJ	1	Data Scient
 Status Jewels Inc.	Atlanta	GA	1	Accountants and Auditors		GA
 Stephen B. Jacobs Group, PC	New York	NY	1	Architects, Except Landscape and Naval		NY
 Steptoe & Johnson PLLC	Morgantown	WV	1	Lawyers		OK
-Sterling Jewelers Inc.	Akron	OH	90	Software Developers; Computer Systems Analysts; Information Security Analysts	112200	TX,OH
+Sterling Jewelers Inc.	Akron	OH	18	Software Developers; Computer Systems Analysts; Information Security Analysts	112200	TX,OH
 Sue J Wang CPA PC	Flushing	NY	1	Accountants and Auditors		NY
 Sutinderpal Judge MD, PC	St. Joseph	MI	1	Allergists and Immunologists		MI
 Swift Beef Company - JBS USA, LLC	Greeley	CO	4	Information Technology Project Managers; Software Developers; Network and Computer Systems Administrators	125000	CO
@@ -1030,7 +1030,7 @@ The Jerde Partnership, Inc.	Los Angeles	CA	1	Architects, Except Landscape and Na
 The Jerome Law Firm PLLC	Miami	FL	1	Judicial Law Clerks		FL
 The Jobin Organization, Inc.	Hauppauge	NY	1	Civil Engineers		NY
 The John R. McAdams Co., Incorporated	Durham	NC	1	Civil Engineers		NC
-The Johns Hopkins Hospital	Baltimore	MD	20	Medical and Clinical Laboratory Technologists; Histotechnologists	66400	MD
+The Johns Hopkins Hospital	Baltimore	MD	14	Medical and Clinical Laboratory Technologists; Histotechnologists	66400	MD
 The Joint Commission	Oakbrook Terrace	IL	1	Database Administrators		IL
 The Josselyn Center, NFP	Northfield	IL	2	Marriage and Family Therapists; Mental Health Counselors		IL
 The Joy Culture Foundation	Menlo Park	CA	1	Graphic Designers		CA
@@ -1050,7 +1050,7 @@ The World Justice Project	Washington	DC	1	Social Science Research Assistants		DC
 Thomas C. Jones, MD, PC	Macon	GA	2	General Internal Medicine Physicians		GA
 Thomas Jefferson University	Philadelphia	PA	29	Medical Scientists, Except Epidemiologists; Health Specialties Teachers, Postsecondary; Biochemists and Biophysicists	71000	PA
 Thomas Jefferson University Hospital	Philadelphia	PA	11	Physicians, All Other; Healthcare Practitioners and Technical Workers, All Other; Physicians, Pathologists	87500	PA
-TikTok USDS Joint Venture LLC	Culver City	CA	141	Software Developers; Data Scientists; Information Security Engineers	187700	CA,WA,NY
+TikTok USDS Joint Venture LLC	Culver City	CA	113	Data Scientists; Software Developers; Information Security Engineers	187700	CA,WA,NY
 Tom James Company	Franklin	TN	1	Fashion Designers		MD
 Towards Justice of Colorado	Glenwood Springs	CO	1	Social Workers, All Other		CO
 TrekNorth Jr. and Sr. High School	Bemidji	MN	1	Secondary School Teachers, Except Special and Career/Technical Education		MN

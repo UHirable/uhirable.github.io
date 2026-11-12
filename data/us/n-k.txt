@@ -1,5 +1,5 @@
 7 Kings Code LLC	Coral Springs	FL	3	Software Developers	90900	TX,GA
-A.T. Kearney, Inc.	Chicago	IL	60	Management Analysts; Industrial Engineers; Supply Chain Managers	188000	MA,IL,TX
+A.T. Kearney, Inc.	Chicago	IL	47	Management Analysts; Industrial Engineers; Supply Chain Managers	188000	MA,IL,TX
 A1 Kaiser Inc	Elgin	IL	1	Computer Programmers		CO
 Acuity Knowledge Partners US Inc.	New York	NY	2	Data Scientists		NY
 Advanced Knowledge Tech LLC	Coppell	TX	8	Software Developers; Software Quality Assurance Analysts and Testers; Business Intelligence Analysts	111400	TX,MI,NY
@@ -26,7 +26,7 @@ Atm Kicks LLC	Lyndhurst	NJ	1	Market Research Analysts and Marketing Specialists	
 Auto Kabel of North America Inc.	Farmington Hills	MI	1	Industrial Engineers		MI
 Ay Dee Kay LLC	Aliso Viejo	CA	2	Electronics Engineers, Except Computer		CA
 Bar Keeper's Friend, Inc.	Indianapolis	IN	1	Industrial Engineers		IN
-Barbara Ann Karmanos Cancer Institute	Detroit	MI	12	Physicians, All Other; Medical and Health Services Managers; Healthcare Diagnosing or Treating Practitioners, All Other		MI,OH
+Barbara Ann Karmanos Cancer Institute	Detroit	MI	4	Physicians, All Other; Medical and Health Services Managers; Healthcare Diagnosing or Treating Practitioners, All Other		MI,OH
 Basic Kitchen CHS LLC	Charleston	SC	1	General and Operations Managers		SC
 Bath Knot, Inc.	Charlotte	NC	3	Interior Designers; Market Research Analysts and Marketing Specialists		NY,NC
 BCC Kitchen and Home Company	Hilliard	OH	1	General and Operations Managers		OH
@@ -106,7 +106,7 @@ Family Psychological Services of Kirkland, PS	Kirkland	WA	1	Mental Health Counse
 Fifield, Kim & Associates Cpas, Inc.	Columbus	OH	1	Accountants and Auditors		OH
 Fletcher Knight, Inc.	Stamford	CT	1	Market Research Analysts and Marketing Specialists		CT
 Flood, Kallus, Yen & Gupta PLLC	Spring	TX	1	Computer Systems Analysts		TX
-Florida Emergency Physicians Kang & Associates, M.d., LLC	Knoxville	TN	17	Emergency Medicine Physicians; Emergency Medicine Physician		FL
+Florida Emergency Physicians Kang & Associates, M.d., LLC	Knoxville	TN	8	Emergency Medicine Physicians; Emergency Medicine Physician		FL
 Florida Kidney Physicians, LLC	Temple Terrace	FL	2	Physicians, All Other		FL
 Fong Ko & Associates, LLP	San Mateo	CA	1	Accountants and Auditors		CA
 Frank Kent Enterprises, LTD	Haltom City	TX	1	Software Developers		TX
@@ -186,7 +186,7 @@ K.P. Cultural Media LLC	Allen	TX	1	Market Research Analysts and Marketing Specia
 K.T.G. (USA) Inc.	Memphis	TN	1	Validation Engineers		TN
 K1 Semiconductor Inc	Chicago	IL	1	Materials Engineers		IL
 K1 Tech Solutions LLC	Tampa	FL	1	Information Technology Project Managers		FL
-K2 Medical Research LLC	Maitland	FL	2	Clinical Research Coordinators		FL
+K2 Medical Research LLC	Maitland	FL	1	Clinical Research Coordinators		FL
 K2 Partnering Solutions, Inc.	Providence	RI	3	Software Developers		PA,IL,MI
 K2 Trucking LLC	Bensenville	IL	2	Database Administrators		IL
 K2view, Inc.	Plano	TX	1	Computer Systems Engineers/Architects		TX
@@ -204,7 +204,7 @@ Kabeer Consulting Inc.	Piscataway	NJ	1	Software Developers		MN
 KabirFalgu LLC	Wake Forest	NC	1	Food Scientists and Technologists		NC
 Kable Inc.	Miami Beach	FL	2	Designers, All Other; Software Developers		CA
 Kaco USA, LLC	Lincolnton	NC	3	Industrial Engineers; Mechanical Engineers		NC
-KAD Engineering PLLC	Downers Grove	IL	3	Civil Engineers; Electrical Engineers		IL
+KAD Engineering PLLC	Downers Grove	IL	2	Civil Engineers; Electrical Engineers		IL
 Kadant Unaflex LLC	Anderson	SC	1	Mechanical Engineers		SC
 Kadiman Enterprises	Wheaton	IL	1	Market Research Analysts and Marketing Specialists		IL
 Kadlec Regional Medical Center	Renton	WA	6	General Internal Medicine Physicians; Surgeons, All Other; Cardiologists	183900	WA
@@ -342,7 +342,7 @@ Kasa Companies, Inc.	Salina	KS	1	Mechatronics Engineers		KS
 Kasa, Inc.	New York	NY	1	Data Scientists		NJ
 Kasai North America, Inc.	Murfreesboro	TN	3	Architectural and Engineering Managers; Mechanical Engineers	123100	MI,TN
 Kasentex Inc	Hillsborough	NJ	1	Survey Researchers		NJ
-Kaseya US LLC	Miami	FL	150	Software Developers; Information Security Analysts; Computer Systems Analysts	103600	FL,SC,NY
+Kaseya US LLC	Miami	FL	33	Software Developers; Information Security Analysts; Computer Systems Analysts	103600	FL,SC,NY
 Kashi Dental	Converse	TX	1	Dentists, General		TX
 Kashiv BioSciences LLC	Piscataway	NJ	13	Chemists; Natural Sciences Managers; Logisticians	95000	NJ,IL
 Kashunamiut School District	Chevak	AK	8	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	65000	AK
@@ -565,7 +565,7 @@ Ketiv Technologies Of California Inc	Brea	CA	2	Mechanical Engineers		CA
 Ketryx Corporation	Cambridge	MA	1	Project Management Specialists		MA
 KetteQ Holdings Inc.	Atlanta	GA	1	Computer Systems Analysts		TX
 Kettering Medical Center	Miamisburg	OH	5	Medical and Clinical Laboratory Technologists; Dietitians and Nutritionists	76600	OH
-Kettering Network Services	Miamisburg	OH	26	Registered Nurses		OH
+Kettering Network Services	Miamisburg	OH	21	Registered Nurses		OH
 Kettle Solutions LLC	New York	NY	2	Graphic Designers		IL,CA
 Keurig Green Mountain Inc.	Burlington	MA	5	Cost Estimators; Architectural and Engineering Managers; Chemical Engineers	131700	MA,FL
 KEVA USA Inc.	Somerset	NJ	1	Computer Network Support Specialists		NJ
@@ -626,7 +626,7 @@ Kfa, LLP	Culver City	CA	1	Architects, Except Landscape and Naval		CA
 KFC Corporation	Plano	TX	6	Computer and Information Systems Managers; Business Intelligence Analysts; Software Developers	143500	TX,KY,KS
 KFH Group, Inc	Rockville	MD	2	Transportation Planners		MD
 KFI Engineers PC	St. Paul	MN	1	Mechanical Engineers		OH
-Kforce Inc.	Tampa	FL	4990	Software Developers; Operations Research Analysts; Business Intelligence Analysts		TX,CA,GA
+Kforce Inc.	Tampa	FL	493	Software Developers; Business Intelligence Analysts; Operations Research Analysts		TX,CA,GA
 KG Construction Services, Inc.	Nanuet	NY	1	Civil Engineers		NY
 KG Mining (Bald Mountain) Inc.	Spring Creek	NV	1	Mining and Geological Engineers, Including Mining Safety Engineers		NV
 KGATE Technologies Inc	Houston	TX	34	Software Developers; Data Scientists; Information Technology Project Managers	112500	TX,NC,CA
@@ -716,7 +716,7 @@ Kimmel Orchard Vineyard Educational Foundation, Inc.	Nebraska City	NE	1	Accounta
 Kimura London & White LLP	Irvine	CA	2	Judicial Law Clerks		MO
 Kin Collective LLC	Vernon	CA	2	Fashion Designers		CA
 Kin Insurance, Inc.	Chicago	IL	1	Software Developers		OH
-Kin On Health Care Center	Seattle	WA	8	Registered Nurses; Clinical Nurse Specialists		WA
+Kin On Health Care Center	Seattle	WA	4	Registered Nurses; Clinical Nurse Specialists		WA
 Kinara, Inc.	Santa Clara	CA	2	Software Developers		CA
 Kinaxis Corp.	Irving	TX	5	Logistics Engineers; Information Technology Project Managers; Software Developers	152900	TX,AZ,CA
 Kind Pack US Inc	Land O' Lakes	FL	1	Financial and Investment Analysts		FL
@@ -745,8 +745,8 @@ Kinetik Healthcare Solutions Inc.	Long Island City	NY	1	Computer Systems Analyst
 King & Prince Seafood Corporation	Brunswick	GA	1	Architectural and Engineering Managers		GA
 King & Spalding LLP	Atlanta	GA	7	Lawyers	260000	NY,GA
 King and Wood LLP	New York	NY	3	Lawyers; Accountants and Auditors	143500	NY
-King Automation Inc.	Roebuck	SC	3	Mechatronics Engineers; Electrical Engineers		SC
-King City Union School District	King City	CA	10	Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Elementary School; Special Education Teachers, Middle School	61500	CA
+King Automation Inc.	Roebuck	SC	2	Mechatronics Engineers; Electrical Engineers		SC
+King City Union School District	King City	CA	9	Middle School Teachers, Except Special and Career/Technical Education; Special Education Teachers, Middle School; Special Education Teachers, Elementary School	61500	CA
 King County	Seattle	WA	4	Software Developers; Lawyers; Water/Wastewater Engineers	135400	WA
 King Electrical Manufacturing Company	Seattle	WA	1	Market Research Analysts and Marketing Specialists		WA
 King Energy Services, Inc.	Durango	CO	3	Software Developers; Financial and Investment Analysts	122000	IN,CA
@@ -770,7 +770,7 @@ Kingmall Supply Chain LLC	Arcadia	CA	1	Logistics Analysts		CA
 Kingman Healthcare, Inc. dba Kingman Regional Medical Center	Kingman	AZ	2	Family Medicine Physicians		AZ
 Kings County Office of Education	Hanford	CA	1	Special Education Teachers, All Other		CA
 Kings Drug & Surgical Corp	Brooklyn	NY	1	Medical and Health Services Managers		NY
-Kings Hawaiian Bakery Southeast Inc.	Gardena	CA	51	Software Developers; Industrial Engineers	152100	GA
+Kings Hawaiian Bakery Southeast Inc.	Gardena	CA	3	Software Developers; Industrial Engineers	152100	GA
 Kings Physician Services P.C.	Brooklyn	NY	1	Surgeons, All Other		NY
 Kingsbarn Realty Capital, LLC	Las Vegas	NV	1	Financial and Investment Analysts		CA
 Kingsisle Entertainment, Inc.	Austin	TX	1	Software Quality Assurance Analysts and Testers		TX
@@ -812,7 +812,7 @@ Kirchhoff Automotive Tecumseh Inc.	Tecumseh	MI	2	Industrial Engineers; Electrica
 Kirchhoff Automotive USA Inc.	Troy	MI	2	Sales Engineers		MI
 Kirkby, White Consulting LLC	Richmond	VA	1	Marketing Managers		VA
 Kirkenes Restaurant Management LLC	Houston	TX	1	Accountants and Auditors		TX
-Kirkland & Ellis LLP	New York	NY	44	Lawyers	310000	NY,CA,TX
+Kirkland & Ellis LLP	New York	NY	29	Lawyers	310000	NY,CA,TX
 Kirkland's, Inc.	Brentwood	TN	1	Software Developers		TN
 Kirkoswald Asset Management LLC	New York	NY	1	Financial Quantitative Analysts		NY
 Kirksey Architects, Inc.	Houston	TX	1	Architects, Except Landscape and Naval		UT
@@ -974,7 +974,7 @@ Kodiak Robotics, Inc.	Mountain View	CA	14	Robotics Engineers; Mechanical Enginee
 Kodiak Sciences Inc.	Palo Alto	CA	4	Chemists; Biochemists and Biophysicists; Accountants and Auditors	138000	CA
 Kodiak Solutions LLC	Indianapolis	IN	3	Data Scientists; Information Security Engineers	175000	TX,MA
 Kodif Inc.	San Francisco	CA	1	Computer Systems Engineers/Architects		CA
-Kodion Consulting LLC	Paola	KS	3	Electrical Engineers; Project Management Specialists		KS
+Kodion Consulting LLC	Paola	KS	2	Project Management Specialists; Electrical Engineers		KS
 KODIS Intermediate Holdings LLC	Cleveland	OH	1	Software Developers		OH
 KodiSoft LLC	Rockville	MD	1	Computer Network Architects		MD
 Koehler Instrument Company, Inc.	Holtsville	NY	3	Architectural and Engineering Managers; Chemical Engineers	150000	NY
@@ -1040,7 +1040,7 @@ Kontoor Services, LLC	Greensboro	NC	1	Computer Systems Analysts		NC
 Kontoor US, LLC	Greensboro	NC	1	Industrial Engineers		OK
 Koo LLC	Chicago	IL	1	Architects, Except Landscape and Naval		IL
 Kooapps Inc.	Bellevue	WA	2	Operations Research Analysts; Graphic Designers		WA
-Kookmin Bank New York Branch	New York	NY	7	Financial Specialists, All Other; Financial Quantitative Analysts	73200	NY
+Kookmin Bank New York Branch	New York	NY	6	Financial Specialists, All Other; Financial Quantitative Analysts	73200	NY
 Koolkarni Consulting LLC	Farmers Branch	TX	1	Software Developers		IL
 Kooltronic, Inc.	Pennington	NJ	1	Mechanical Engineers		NJ
 Koon Financial Planning and Consulting	Greenwood	IN	1	Financial and Investment Analysts		IN
@@ -1101,7 +1101,7 @@ KPI Data Sys Inc.	Dallas	TX	1	Software Developers		AR
 KPI Partners, Inc.	Oakland	CA	2	Database Architects; Software Developers		WA,TX
 KPIT Technologies, Inc.	Novi	MI	91	Software Quality Assurance Analysts and Testers; Software Developers; Information Technology Project Managers	105000	MI,IN,IL
 KPK Technologies Inc.	Wixom	MI	8	Computer Programmers; Software Developers		MI,NC,FL
-KPMG LLP	Dallas	TX	371	Accountants and Auditors; Financial and Investment Analysts; Software Developers	146200	NY,CA,TX
+KPMG LLP	Dallas	TX	236	Accountants and Auditors; Financial and Investment Analysts; Software Developers	146200	NY,TX,CA
 KPRMT Global Solutions LLC	Tampa	FL	3	Data Scientists	93200	FL,IL
 KPS Global, LLC	Fort Worth	TX	1	Accountants and Auditors		TX
 Kptech LLC	Atlanta	GA	1	Computer Systems Engineers/Architects		TX
@@ -1152,7 +1152,7 @@ KRR Capital LLC	Woodstock	GA	2	Financial and Investment Analysts		GA
 Krueck & Sexton Architects, Ltd	Chicago	IL	1	Architects, Except Landscape and Naval		IL
 Krulevitch Architecture, P.C.	Los Gatos	CA	1	Architects, Except Landscape and Naval		CA
 Krumware, LLC	Columbia	SC	1	Software Developers		SC
-Kruse Construction Co., Inc.	Downingtown	PA	2	Computer and Information Research Scientists		PA
+Kruse Construction Co., Inc.	Downingtown	PA	1	Computer and Information Research Scientists		PA
 Krushna Dental Hunt Valley LLC	Hunt Valley	MD	1	Dentists, General		MD
 KS Engineers, PC	Newark	NJ	4	Civil Engineers; Geoscientists, Except Hydrologists and Geographers	90600	NY,CT,NJ
 Ks Systems LLC	Frisco	TX	1	Software Developers		NJ
@@ -1380,7 +1380,7 @@ The Greater Kansas City Community Foundation	Kansas City	MO	1	Information Techno
 The K Company	Akron	OH	1	Logistics Engineers		OH
 The Kasen and Liu Law Firm PLLC	Flushing	NY	2	Paralegals and Legal Assistants; Lawyers		NY
 The Kent Fixture Corporation	Hingham	MA	2	Logistics Analysts; Cost Estimators		MA
-The Klein Group LLC	New York	NY	4	Financial and Investment Analysts	150000	NY
+The Klein Group LLC	New York	NY	3	Financial and Investment Analysts	150000	NY
 The Knapheide Manufacturing Company	Quincy	IL	1	Mechanical Engineers		IL
 The Knot Worldwide Inc.	Chevy Chase	MD	2	Business Intelligence Analysts		NY
 The Koza Group LLC	Bannockburn	IL	1	Accountants and Auditors		IL
