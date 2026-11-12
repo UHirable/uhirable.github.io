@@ -599,6 +599,8 @@ def build_us(sitemap):
         raise RuntimeError("US data looks too small: %d employers" % meta["employers"])
     names = meta["state_names"]
     top, by_state, by_city, by_job = us_read("all-top.txt", False), us_read("by-state.txt", True), us_read("by-city.txt", True), us_read("by-job.txt", True)
+    for old in glob.glob("us-h1b-sponsors*.html"):  # cities and jobs in the top lists change, so start clean
+        os.remove(old)
     sh = shell("uk-visa-sponsors.html")
     my = lambda iso: "%s %s" % (MONTHS[int(iso[5:7]) - 1], iso[:4])
     period = "%s to %s" % (my(meta["from"]), my(meta["to"]))
@@ -718,7 +720,7 @@ def set_browse(hub, block, before):
 
 def update_sitemap(pages):
     s = open("sitemap.xml", encoding="utf-8").read()
-    s = "".join(l for l in s.splitlines(True) if not (m := re.search(r"<loc>" + re.escape(SITE) + r"(uk-visa-sponsors-az-[^<]+)</loc>", l)) or os.path.exists(m.group(1)))
+    s = "".join(l for l in s.splitlines(True) if not (m := re.search(r"<loc>" + re.escape(SITE) + r"((?:uk-visa-sponsors-az-|us-h1b-sponsors)[^<]+)</loc>", l)) or os.path.exists(m.group(1)))
     for fname, date in sorted(pages.items()):
         loc = SITE + fname
         line = f"  <url><loc>{loc}</loc><lastmod>{date}</lastmod><priority>0.7</priority></url>"
