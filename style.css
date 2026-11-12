@@ -1500,3 +1500,10 @@ textarea { resize: vertical; }
 .gd table.spc-table{font-size:.9rem}.spc-table td:nth-child(3){white-space:nowrap;font-weight:700}
 .gd .sp-switch{flex-wrap:wrap}
 .spc-tw td:first-child{white-space:normal}
+/* salary comparison tables on job pages */
+.pj-cmp{overflow-x:auto;margin:10px 0 16px;border-radius:14px;border:1.5px solid #dfe4ff;background:#fff}
+.pj-cmp table{width:100%;border-collapse:collapse;font-size:.94rem}
+.pj-cmp th,.pj-cmp td{text-align:left;padding:10px 14px;border-bottom:1px solid #e6e9ff;vertical-align:top}
+.pj-cmp tr:last-child td{border-bottom:0}.pj-cmp th{background:#f4f6ff;color:#141a52;font-weight:800}
+.pj-cmp td:first-child{font-weight:700}.pj-cmp a{color:#0112ff;text-decoration:none}.pj-cmp a:hover{text-decoration:underline}
+.pj-text p a{color:#0112ff;font-weight:700;text-decoration:none}.pj-text p a:hover{text-decoration:underline}

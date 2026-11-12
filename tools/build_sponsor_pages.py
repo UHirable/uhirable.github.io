@@ -333,7 +333,7 @@ def build_ca(sitemap):
         city_rows = "".join(f"<tr><td>{esc(c)}</td><td>{num(v)}</td></tr>" for c, v in cc.most_common(10))
         occ = top_occ(lst, 3)
         body = (GD +
-                f'          <p class="gd-answer">{num(len(lst))} employers in {esc(name)} were approved to hire foreign workers with a positive LMIA between {period}, for {num(pos)} positions in total. This page lists them from the official Government of Canada list published on {pub}.</p>\n' + switch +
+                f'          <p class="gd-answer">{num(len(lst))} employers in {esc(name)} were approved to hire foreign workers with a positive LMIA from {period}, for {num(pos)} positions in total. This page lists them from the official Government of Canada list published on {pub}.</p>\n' + switch +
                 f'          <h2>Jobs employers in {esc(name)} were approved for</h2>\n          {occ_table(lst, name)}\n          <p>The official list gives up to three main occupations for each employer on this page, so an employer can be counted in more than one row.</p>\n'
                 f'          <h2>Cities in {esc(name)} with the most LMIA employers</h2>\n          <div class="gd-tw spc-tw"><table><thead><tr><th>City</th><th>Employers approved</th></tr></thead><tbody>{city_rows}</tbody></table></div>\n' + ca_tail(name) + GD_END +
                 jobs_block("ca", "", name, f"Live jobs in {name}", "Type your job title to see current openings. Check each advert for whether the employer hires from abroad.", "ca-lmia-prov") + GD +
@@ -361,7 +361,7 @@ def build_ca(sitemap):
         occ = top_occ(lst, 3)
         prov_file = "canada-lmia-employers-%s.html" % slug(pname[code])
         body = (GD +
-                f'          <p class="gd-answer">{num(len(lst))} employers in {esc(name)}, {esc(pname[code])} were approved to hire foreign workers with a positive LMIA between {period}, for {num(pos)} positions in total. This page lists them from the official Government of Canada list published on {pub}.</p>\n' + switch +
+                f'          <p class="gd-answer">{num(len(lst))} employers in {esc(name)}, {esc(pname[code])} were approved to hire foreign workers with a positive LMIA from {period}, for {num(pos)} positions in total. This page lists them from the official Government of Canada list published on {pub}.</p>\n' + switch +
                 f'          <h2>Jobs employers in {esc(name)} were approved for</h2>\n          {occ_table(lst, name)}\n          <p>The official list gives up to three main occupations for each employer on this page, so an employer can be counted in more than one row. Employers are listed under the city in their registered address. See also <a href="{prov_file}">all LMIA employers in {esc(pname[code])}</a>.</p>\n' + ca_tail(name) + GD_END +
                 jobs_block("ca", "", name, f"Live jobs in {name}", "Type your job title to see current openings. Check each advert for whether the employer hires from abroad.", "ca-lmia-city") + GD +
                 f'          <h2>LMIA employers in {esc(name)} with the most approved positions</h2>\n          {ca_table(lst[:CA_CAP], False)}\n' + shown_note(lst) +
@@ -392,7 +392,7 @@ def build_ca(sitemap):
         top_p = [pname.get(c, c) for c, _ in pc.most_common(3)]
         titles = sorted({o for r in lst for o in r[4].split("; ") if any(w in o.lower() for w in words)})
         body = (GD +
-                f'          <p class="gd-answer">{num(len(lst))} employers in Canada were approved to hire foreign {esc(lab)} with a positive LMIA between {period}. Most are in {esc(top_p[0])}, {esc(top_p[1])} and {esc(top_p[2])}. This page lists them from the official Government of Canada list published on {pub}.</p>\n' + switch +
+                f'          <p class="gd-answer">{num(len(lst))} employers in Canada were approved to hire foreign {esc(lab)} with a positive LMIA from {period}. Most are in {esc(top_p[0])}, {esc(top_p[1])} and {esc(top_p[2])}. This page lists them from the official Government of Canada list published on {pub}.</p>\n' + switch +
                 f'          <h2>Where employers hire foreign {esc(lab)}</h2>\n          <div class="gd-tw spc-tw"><table><thead><tr><th>Province</th><th>Employers approved</th></tr></thead><tbody>{prov_rows}</tbody></table></div>\n'
                 f'          <p>An employer is counted here when one of its main approved occupations in the official list is: {esc("; ".join(titles))}.</p>\n' + ca_tail(lab) + GD_END +
                 jobs_block("ca", kw, "", f"Live {kw} jobs in Canada", "Current openings from our job-search partners. Check each advert for whether the employer hires from abroad.", "ca-lmia-job") + GD +
@@ -444,6 +444,8 @@ def update_sitemap(pages):
         else:
             s = s.replace("</urlset>", line + "\n</urlset>")
     open("sitemap.xml", "w", encoding="utf-8", newline="\n").write(s)
+    if os.path.exists("sitemap-pages.xml"):  # same list under a second name (Search Console could not read the first)
+        open("sitemap-pages.xml", "w", encoding="utf-8", newline="\n").write(s)
 
 
 failed, sm = 0, {}
