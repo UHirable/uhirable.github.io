@@ -26,8 +26,11 @@
     pt: { pub: "7607", loc: "Portugal" },
     mx: { pub: "7610", loc: "Mexico" },
     fr: { pub: "7611", loc: "France" },
-    nl: { pub: "7612", loc: "Netherlands" }
-    // No jobs yet (checked Nov 12, 2026): sa 7506, qa 7507, ua 7608, cn 7609, jp 7613; ru 7606 has 1 job
+    nl: { pub: "7612", loc: "Netherlands" },
+    ug: { pub: "7615", loc: "Uganda" },
+    gr: { pub: "7504", loc: "Greece" },
+    om: { pub: "7616", loc: "", label: "Oman" } // this feed returns nothing when the country name is sent as location
+    // No jobs yet (checked Nov 12, 2026): sa 7506, qa 7507, ua 7608, cn 7609, jp 7613, lk 7614, bd 7617; ru 7606 has 1 job
   };
   var API = "https://api.whatjobs.com/api/v1/jobinjector.js";
   var pending = {};
@@ -69,16 +72,16 @@
   function fetchJobs(cc, kw, loc, page) {
     var c = CFG[cc];
     if (!c) return Promise.resolve({ jobs: [], hasMore: false });
-    var where = loc || c.loc;
+    var where = loc || c.loc, label = where || c.label || "";
     return new Promise(function (resolve) {
       var id = "uhwj" + Math.random().toString(36).slice(2);
       var done = false, s = document.createElement("script");
       var finish = function (r) { if (done) return; done = true; delete pending[id]; if (s.parentNode) s.parentNode.removeChild(s); resolve(r); };
-      pending[id] = function (html) { finish(parse(html, where === "UK" ? "United Kingdom" : where)); };
+      pending[id] = function (html) { finish(parse(html, where === "UK" ? "United Kingdom" : label)); };
       s.async = true;
       s.src = API + "?publisher=" + encodeURIComponent(c.pub) + "&el=" + id +
         (kw ? "&keyword=" + encodeURIComponent(kw) : "") +
-        "&location=" + encodeURIComponent(where) +
+        (where ? "&location=" + encodeURIComponent(where) : "") +
         "&limit=10&radius=25&size%5Btitle_chars%5D=120&size%5Bdesc_chars%5D=220" +
         (page > 1 ? "&page=" + page : "") +
         "&url=" + encodeURIComponent(location.href.split("#")[0]);

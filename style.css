@@ -1483,3 +1483,8 @@ textarea { resize: vertical; }
 
 /* hero: more air between the two rows of buttons */
 @media (min-width:721px){.hero-actions.hero-float.hero-six{row-gap:26px}}
+/* black hero buttons: no white gloss on top */
+.hero-float.hero-six .btn.hb-k::before{display:none}
+.hero-float.hero-six .btn.hb-k{box-shadow:0 6px 0 var(--sh),0 14px 24px -10px var(--gl)!important}
+.hero-float.hero-six .btn.hb-k:hover{box-shadow:0 9px 0 var(--sh),0 20px 30px -10px var(--gl)!important}
+.hero-float.hero-six .btn.hb-k:active{box-shadow:0 2px 0 var(--sh)!important}

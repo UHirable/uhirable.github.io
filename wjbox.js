@@ -24,7 +24,10 @@
     pt: { id: "565", pub: "7607", loc: "Portugal", host: "pt.whatjobs.com", name: "Portugal" },
     mx: { id: "565", pub: "7610", loc: "Mexico", host: "es-mx.whatjobs.com", name: "Mexico" },
     fr: { id: "565", pub: "7611", loc: "France", host: "fr.whatjobs.com", name: "France" },
-    nl: { id: "565", pub: "7612", loc: "Netherlands", host: "nl.whatjobs.com", name: "the Netherlands" }
+    nl: { id: "565", pub: "7612", loc: "Netherlands", host: "nl.whatjobs.com", name: "the Netherlands" },
+    ug: { id: "565", pub: "7615", loc: "Uganda", host: "en-ug.whatjobs.com", name: "Uganda" },
+    gr: { id: "565", pub: "7504", loc: "Greece", host: "gr.whatjobs.com", name: "Greece" },
+    om: { id: "565", pub: "7616", loc: "", host: "en-om.whatjobs.com", name: "Oman" }
     // No jobs yet (checked Nov 12, 2026): sa 7506, qa 7507, ua 7608, cn 7609, jp 7613; ru 7606 has 1 job
   };
   var LOADER = "https://static.whatjobs.com/staticMin/ajCore/js/core/Jobbox/widget-loader-v1.js";
