@@ -32,9 +32,10 @@
   const rr = (...L) => { const o = []; const n = Math.max(0, ...L.map((a) => a.length)); for (let k = 0; k < n; k++) L.forEach((a) => { if (a[k]) o.push(a[k]); }); return o; };
   let seq = 0;
   async function fetchJobs(c, kw) {
-    const jooble = fetch(API + "?src=jooble&cc=" + c + "&q=" + encodeURIComponent(kw) + "&page=1").then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] }));
+    const L = D.l && c === D.cc ? D.l : ""; // guide pages can fix a city or region: data-l="Manchester"
+    const jooble = fetch(API + "?src=jooble&cc=" + c + "&q=" + encodeURIComponent((kw + " " + L).trim()) + "&page=1").then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] }));
     const lensa = c === "us" ? fetch(API + "?src=lensa&q=" + encodeURIComponent(kw) + "&page=1").then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] })) : Promise.resolve({ jobs: [] });
-    const wj = window.UHWJF && UHWJF.has(c) ? UHWJF.fetch(c, kw, null, 1).catch(() => ({ jobs: [] })) : Promise.resolve({ jobs: [] });
+    const wj = window.UHWJF && UHWJF.has(c) ? UHWJF.fetch(c, kw, L || null, 1).catch(() => ({ jobs: [] })) : Promise.resolve({ jobs: [] });
     const [j, w, l] = await Promise.all([jooble, wj, lensa]);
     // one card from each available source in turn, paying partners first: Lensa, WhatJobs, Jooble
     return { jobs: rr(l.jobs || [], w.jobs || [], j.jobs || []), total: (j.totalCount || 0) + (l.totalCount || 0) };

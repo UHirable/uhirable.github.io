@@ -1488,3 +1488,15 @@ textarea { resize: vertical; }
 .hero-float.hero-six .btn.hb-k{box-shadow:0 6px 0 var(--sh),0 14px 24px -10px var(--gl)!important}
 .hero-float.hero-six .btn.hb-k:hover{box-shadow:0 9px 0 var(--sh),0 20px 30px -10px var(--gl)!important}
 .hero-float.hero-six .btn.hb-k:active{box-shadow:0 2px 0 var(--sh)!important}
+/* sponsor city / province / job pages */
+.gd ul.spc-list{list-style:none;margin:10px 0 0;padding:0;columns:3 240px;column-gap:26px;font-size:.92rem;line-height:1.4}
+.spc-list li{break-inside:avoid;padding:5px 0;border-bottom:1px solid #eef0ff;color:#141a52;overflow-wrap:anywhere}
+.spc-list li i{font-style:italic;color:#6a6f9c;font-size:.84rem}
+.spc-more{font-size:.9rem;color:#4a4f80;margin:8px 0 0}
+.spc-links{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 0}
+.gd .spc-links a{font-weight:700;font-size:.9rem;padding:7px 13px;border-radius:999px;text-decoration:none;border:1.5px solid #c9cffd;background:#fff;color:#141a52}
+.gd .spc-links a:hover{border-color:#0112ff;color:#0112ff}
+.spc-all summary{cursor:pointer;font-weight:800;color:#0112ff;margin:6px 0}
+.gd table.spc-table{font-size:.9rem}.spc-table td:nth-child(3){white-space:nowrap;font-weight:700}
+.gd .sp-switch{flex-wrap:wrap}
+.spc-tw td:first-child{white-space:normal}
