@@ -138,6 +138,138 @@ def uk_item(r, routes, sw):
     return "<li>" + esc(r[0]) + (f" <i>{esc('; '.join(extra))}</i>" if extra else "") + "</li>"
 
 
+UK_SECTORS = [
+    ("nhs-hospitals", "NHS trusts and hospitals", "NHS trusts, health boards and hospitals", r"\bnhs\b|health board|\bhospitals?\b", "nurse"),
+    ("care-homes", "Care homes and home care", "care homes and home care providers", r"care home|nursing home|residential (care|home)|homecare|home care|domiciliary", "care assistant"),
+    ("universities", "Universities", "universities", r"universit", "lecturer"),
+    ("schools-colleges", "Schools and colleges", "schools, colleges and academies", r"\bschools?\b|college|\bacademy\b", "teacher"),
+    ("technology", "Technology and software companies", "technology and software companies", r"software|technolog|\bdigital\b|cyber|\bdata\b|\bai\b|computing", "software engineer"),
+    ("hotels", "Hotels", "hotels, inns and resorts", r"\bhotels?\b|\binn\b|resort", "hotel"),
+    ("restaurants", "Restaurants and takeaways", "restaurants, takeaways and kitchens", r"restaurant|takeaway|\bgrill\b|pizza|kitchen|\bcafe\b|tandoori|kebab", "chef"),
+    ("pharmacies", "Pharmacies", "pharmacies and pharmaceutical companies", r"pharmac|chemist", "pharmacist"),
+    ("dental-practices", "Dental practices", "dental practices", r"dental|dentist", "dentist"),
+    ("law-firms", "Law firms", "solicitors and law firms", r"solicitor|\blaw\b|legal", "solicitor"),
+    ("accountants", "Accountancy firms", "accountancy, audit and tax firms", r"accountan|accounting|audit|\btax\b", "accountant"),
+    ("engineering", "Engineering companies", "engineering companies", r"engineer", "engineer"),
+    ("construction", "Construction companies", "construction and building companies", r"construction|builders|building|contractors|scaffold|roofing", "construction"),
+    ("sports-clubs", "Football, cricket and rugby clubs", "football, cricket and rugby clubs", r"football|\bfc\b|cricket|rugby", "coach"),
+]
+AZ_PAGE = 2000
+
+
+def uk_item_city(r, routes, sw):
+    extra = [r[1]] if r[1] else []
+    if r[2] == "B":
+        extra.append("B rating")
+    elif r[2] == "P":
+        extra.append("Provisional")
+    rs = [int(i) for i in r[3].split(",") if i != ""]
+    if sw not in rs:
+        extra.append(", ".join(routes[i] for i in rs[:2]))
+    return "<li>" + esc(r[0]) + (f" <i>{esc(' · '.join(extra))}</i>" if extra else "") + "</li>"
+
+
+UK_FOOT = (f'          <h2>Sources</h2><ul class="gd-src"><li><a href="{UK_SRC}" target="_blank" rel="noopener">GOV.UK: Register of licensed sponsors: workers (Home Office)</a></li><li><a href="https://www.gov.uk/skilled-worker-visa" target="_blank" rel="noopener">GOV.UK: Skilled Worker visa</a></li></ul>\n'
+           f'          <p class="gd-src">Contains public sector information licensed under the Open Government Licence v3.0. U Hirable is not connected to the Home Office. We refresh this page from the official file at the start of every month, so always confirm on GOV.UK before you rely on it.</p>\n')
+UK_NOTE = '          <p class="gd-note"><b>A licence is not a job offer.</b> Being on the register means the employer is allowed to sponsor. It does not mean it is hiring now, or that a particular vacancy comes with sponsorship. Always check the job ad or ask the employer.</p>\n'
+
+
+def uk_sectors(rows, routes, sw, meta, sh, sitemap, city_pages):
+    date = nice_date(meta["updated"])
+    has = lambda r, i: str(i) in r[3].split(",")
+    pages = [(lab, "uk-visa-sponsors-%s.html" % sl) for sl, lab, _, _, _ in UK_SECTORS]
+    city_file = {fold(c): f for c, f, _ in city_pages}
+    done = []
+    for sl, lab, phrase, pat, kw in UK_SECTORS:
+        fname = "uk-visa-sponsors-%s.html" % sl
+        rx = re.compile(pat, re.I)
+        lst = sorted((r for r in rows if rx.search(r[0])), key=lambda r: (not r[0][:1].isalpha(), r[0].lower()))
+        n = len(lst)
+        if n < 50:
+            continue
+        n_sw = sum(1 for r in lst if has(r, sw))
+        cc = collections.Counter(r[1] for r in lst if r[1])
+        city_rows = "".join(f"<tr><td>{('<a href=' + chr(34) + city_file[fold(c)] + chr(34) + '>' + esc(c) + '</a>') if fold(c) in city_file else esc(c)}</td><td>{num(v)}</td></tr>" for c, v in cc.most_common(12))
+        top3 = [c for c, _ in cc.most_common(3)]
+        others = link_list([("All UK sponsors (search)", "uk-visa-sponsors.html")] + [(l, f) for l, f in pages if f != fname])
+        body = (GD +
+                f'          <p class="gd-answer">{num(n)} {esc(phrase)} hold a Home Office licence to sponsor work visas, and {num(n_sw)} of them are licensed for the Skilled Worker route. This page lists them all, from the official register dated {date}.</p>\n'
+                f'          <p class="sp-switch"><a href="uk-visa-sponsors.html">Search all of the UK</a><a href="canada-lmia-employers.html">Canada</a></p>\n'
+                f'          <h2>Where they are</h2>\n          <div class="gd-tw spc-tw"><table><thead><tr><th>Town or city</th><th>Licensed sponsors</th></tr></thead><tbody>{city_rows}</tbody></table></div>\n'
+                f'          <p>We group organisations by words in their registered name, so this is a practical list and not an official classification. A few names may match by coincidence, and organisations that trade under a different brand name will be missing.</p>\n' + UK_NOTE + GD_END +
+                jobs_block("uk", kw, "", f"Live {kw} jobs in the UK", "Current openings from our job-search partners. Check each advert for visa sponsorship before you apply.", "uk-sponsors-sector") + GD +
+                f'          <h2>All {num(n)} licensed sponsors, A to Z</h2>\n          <p>The town or city is shown in italics after each name, with a note when the rating is not A or the route is not Skilled Worker.</p>\n'
+                f'          <ul class="spc-list">' + "".join(uk_item_city(r, routes, sw) for r in lst) + "</ul>\n"
+                f'          <div class="gd-cta"><a class="btn btn-primary" href="uk-visa-sponsors.html">Search the full register</a><a class="btn btn-soft" href="visa-sponsorship-jobs.html">Visa sponsorship jobs</a><a class="btn btn-soft" href="uk-cv-format.html">UK CV format</a></div>\n'
+                f'          {{FAQ}}\n          <h2>Sponsors in other sectors</h2>\n          {others}\n' + UK_FOOT + GD_END)
+        faq = [
+            (f"How many {phrase} can sponsor a UK work visa?", f"{num(n)} organisations in this group are on the Home Office register of licensed sponsors dated {date}. {num(n_sw)} are licensed for the Skilled Worker route."),
+            ("Where are most of them?", f"The towns and cities with the most are {top3[0]}, {top3[1]} and {top3[2]}."),
+            ("Does a place on this list mean there is a job for me?", "No. The register shows who is allowed to sponsor workers. It does not show vacancies, and a licensed employer can advertise jobs that do not come with sponsorship."),
+        ]
+        out = render(sh, fname, f"{lab} That Sponsor UK Visas: {num(n)} Licensed Sponsors", f"{num(n)} {phrase} licensed to sponsor UK work visas, with town and rating. From the Home Office register dated {date}.",
+                     "Official Home Office register", f"{lab} that sponsor UK work visas", f"Licensed sponsors on the Home Office register, {date}.", body, faq,
+                     [("Home", ""), ("UK visa sponsorship companies", "uk-visa-sponsors.html"), (lab, fname)], meta["updated"])
+        open(fname, "w", encoding="utf-8", newline="\n").write(out)
+        sitemap[fname] = max(meta["updated"], "2026-11-12")
+        done.append((lab, fname, n))
+    return done
+
+
+def uk_az(rows, routes, sw, meta, sh, sitemap):
+    date = nice_date(meta["updated"])
+    for old in glob.glob("uk-visa-sponsors-az-*.html"):
+        os.remove(old)
+    groups = collections.OrderedDict()
+    key = lambda r: r[0][:1].upper() if (r[0][:1].isascii() and r[0][:1].isalpha()) else "0"
+    for r in sorted(rows, key=lambda r: (key(r), r[0].lower())):
+        groups.setdefault(key(r), []).append(r)
+    plan = []
+    for k in sorted(groups, key=lambda x: (x == "0", x)):
+        lst = groups[k]
+        parts = max(1, -(-len(lst) // AZ_PAGE))
+        size = -(-len(lst) // parts)
+        for i in range(parts):
+            plan.append((k, i + 1, parts, lst[i * size:(i + 1) * size]))
+    fn = lambda k, i: "uk-visa-sponsors-az-%s%s.html" % ("0-9" if k == "0" else k.lower(), "" if i == 1 else "-%d" % i)
+    letters = []
+    for k, i, parts, chunk in plan:
+        if i == 1:
+            letters.append(("0-9" if k == "0" else k, fn(k, 1)))
+    nav = link_list(letters)
+    for idx, (k, i, parts, chunk) in enumerate(plan):
+        fname = fn(k, i)
+        name = "numbers and symbols" if k == "0" else "the letter " + k
+        short = "0-9" if k == "0" else k
+        total = len(groups[k])
+        part_txt = f" (page {i} of {parts})" if parts > 1 else ""
+        pager = ""
+        if parts > 1:
+            pager = '<p class="spc-links">' + "".join((f'<a href="{fn(k, j)}">Page {j}</a>' if j != i else f'<a href="{fn(k, j)}" aria-current="page"><b>Page {j}</b></a>') for j in range(1, parts + 1)) + "</p>"
+        first, last = chunk[0][0], chunk[-1][0]
+        body = (GD +
+                f'          <p class="gd-answer">{num(total)} organisations whose registered name starts with {esc(name)} hold a Home Office licence to sponsor UK work visas. This page shows {num(len(chunk))} of them{part_txt}, from the official register dated {date}.</p>\n'
+                f'          <p class="sp-switch"><a href="uk-visa-sponsors.html">Search the register by name or city</a><a href="canada-lmia-employers.html">Canada</a></p>\n'
+                f'          <h2>Browse the register A to Z</h2>\n          {nav}\n' + UK_NOTE +
+                f'          <h2>Licensed sponsors: {esc(first[:28])} to {esc(last[:28])}</h2>\n          {pager}\n'
+                f'          <p>Names are shown as the Home Office lists them, which is the legal name and not always the brand name. The town or city is in italics, with a note when the rating is not A or the route is not Skilled Worker.</p>\n'
+                f'          <ul class="spc-list">' + "".join(uk_item_city(r, routes, sw) for r in chunk) + f"</ul>\n          {pager}\n"
+                f'          <div class="gd-cta"><a class="btn btn-primary" href="uk-visa-sponsors.html">Search the full register</a><a class="btn btn-soft" href="jobs.html?country=United%20Kingdom">Search live UK jobs</a></div>\n'
+                f'          {{FAQ}}\n' + UK_FOOT + GD_END)
+        faq = [
+            ("How do I check if a company can sponsor my UK visa?", "Find its legal name on this A to Z list or type it into the register search. If it is listed with the Skilled Worker route, it is licensed to sponsor that visa."),
+            ("Why is a company I know missing?", "The register uses legal names, not brand names. Search for part of the name, or look up the company's registered name on Companies House first."),
+            ("Does being on the list mean the company is hiring?", "No. It means the company is allowed to sponsor workers. Check its current vacancies and whether each one offers sponsorship."),
+        ]
+        out = render(sh, fname, f"UK Visa Sponsors Starting With {short}{part_txt}: Licensed Sponsor List", f"Licensed UK visa sponsors from {first[:40]} to {last[:40]}, with town and rating. Home Office register dated {date}.",
+                     "Official Home Office register", f"UK visa sponsors starting with {short}{part_txt}", f"The register of licensed sponsors, A to Z.", body, faq,
+                     [("Home", ""), ("UK visa sponsorship companies", "uk-visa-sponsors.html"), (f"Sponsors: {short}", fn(k, 1))], meta["updated"])
+        open(fname, "w", encoding="utf-8", newline="\n").write(out)
+        sitemap[fname] = max(meta["updated"], "2026-11-12")
+    return letters, len(plan)
+
+
+
 def build_uk(sitemap):
     meta = json.load(open("data/uk/meta.json", encoding="utf-8"))
     routes = meta["routes"]
@@ -229,8 +361,13 @@ def build_uk(sitemap):
         open(fname, "w", encoding="utf-8", newline="\n").write(out)
         done.append((short, fname, n))
         sitemap[fname] = max(meta["updated"], "2026-11-12")
+    sectors = uk_sectors(rows, routes, sw, meta, sh, sitemap, done)
+    letters, n_az = uk_az(rows, routes, sw, meta, sh, sitemap)
     browse = ('<h2>Browse sponsors by city</h2>\n          <p>Full pages for the UK cities with the most licensed sponsors.</p>\n          ' +
-              link_list([(f"{c} ({num(n)})", f) for c, f, n in done]))
+              link_list([(f"{c} ({num(n)})", f) for c, f, n in done]) +
+              '\n          <h2>Browse sponsors by sector</h2>\n          ' + link_list([(f"{l} ({num(n)})", f) for l, f, n in sectors]) +
+              '\n          <h2>The full register, A to Z</h2>\n          ' + link_list(letters))
+    print("UK: %d sector pages, %d A to Z pages" % (len(sectors), n_az))
     set_browse("uk-visa-sponsors.html", browse, "<h2>How to use the register in your job search</h2>")
     print("UK: %d city pages" % len(done))
 
@@ -435,6 +572,7 @@ def set_browse(hub, block, before):
 
 def update_sitemap(pages):
     s = open("sitemap.xml", encoding="utf-8").read()
+    s = "".join(l for l in s.splitlines(True) if not (m := re.search(r"<loc>" + re.escape(SITE) + r"(uk-visa-sponsors-az-[^<]+)</loc>", l)) or os.path.exists(m.group(1)))
     for fname, date in sorted(pages.items()):
         loc = SITE + fname
         line = f"  <url><loc>{loc}</loc><lastmod>{date}</lastmod><priority>0.7</priority></url>"
