@@ -304,6 +304,25 @@ if (list && typeof JOBS !== "undefined") {
   render();
 }
 
+// ---------- "Similar live jobs" block under a job (uses cvjobs.js: Lensa, WhatJobs, Jooble) ----------
+function addSimilarJobs(title) {
+  if (document.getElementById("cv-jobs")) return;
+  const kw = String(title || "").replace(/\([^)]*\)/g, " ").replace(/\b(senior|sr|lead|staff|principal|junior|jr|associate|head of)\b\.?/gi, " ")
+    .replace(/[^\p{L}\p{N}+# ]+/gu, " ").replace(/\s+/g, " ").trim().split(" ").slice(0, 3).join(" ");
+  const host = document.getElementById("job-body");
+  const sec = document.createElement("section");
+  sec.className = "page-body";
+  sec.style.paddingTop = "0";
+  sec.innerHTML = '<div class="container"><section id="cv-jobs" aria-label="Similar live jobs" data-page="job" data-title="Similar live jobs" data-sub="Open now in your country. Every card opens the original ad." data-q="' + kw.replace(/"/g, "") + '"></section></div>';
+  (host && host.closest("section") ? host.closest("section") : document.body).insertAdjacentElement("afterend", sec);
+  const load = (src) => new Promise((ok) => { const e = document.createElement("script"); e.src = src; e.onload = e.onerror = ok; document.body.appendChild(e); });
+  (async () => {
+    if (!window.UHVisitor) await load("next-step.js?v=9");
+    await load("wjfeed.js?v=4");
+    await load("cvjobs.js?v=7");
+  })();
+}
+
 // ---------- Single job page (job.html) ----------
 const jobContent = document.getElementById("job-content");
 if (jobContent && typeof JOBS !== "undefined") {
@@ -315,6 +334,7 @@ if (jobContent && typeof JOBS !== "undefined") {
     document.getElementById("job-meta").textContent = "Thanks for your interest! Browse our other open roles.";
     document.getElementById("job-body").innerHTML =
       `<div class="panel" style="text-align:center"><a class="btn btn-primary" href="${UA_BASE}jobs.html">See all open jobs</a></div>`;
+    addSimilarJobs("");
   } else {
     if (!window.JOB_ID) document.title = `${j.title} – U Hirable`;
     document.getElementById("job-title").textContent = j.title;
@@ -358,6 +378,7 @@ if (jobContent && typeof JOBS !== "undefined") {
       const p = document.querySelector(".apply-card > p");
       if (p) p.textContent = MATCH_NOTE;
     }
+    addSimilarJobs(j.title);
   }
 }
 
