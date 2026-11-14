@@ -66,7 +66,7 @@ const CV_TOOLS = [
     perk: "Many templates are free; some premium designs need Canva Pro",
     cta: "English Templates",
     arabicLink: "https://www.canva.com/ar_eg/resumes/templates/",
-    roles: ["Resume Templates", "Arabic Templates", "Drag & Drop Editor", "Download as PDF"],
+    roles: ["Resume Templates", "Drag & Drop Editor", "Download as PDF"],
     langs: ["English", "العربية", "Español", "Français", "Deutsch", "Português", "Русский", "中文", "日本語", "+60 more"],
     link: "https://www.canva.com/resumes/templates/"
   },
