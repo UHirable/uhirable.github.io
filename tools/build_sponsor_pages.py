@@ -111,7 +111,8 @@ def link_list(items):
 # ---------------------------------------------------------------- United Kingdom
 UK_CITIES = ["London", "Birmingham", "Manchester", "Leicester", "Glasgow", "Bristol", "Edinburgh", "Leeds", "Nottingham", "Reading",
              "Coventry", "Slough", "Cambridge", "Milton Keynes", "Liverpool", "Bradford", "Luton", "Sheffield", "Oxford", "Cardiff",
-             "Bolton", "Southampton", "Belfast", "Croydon", "Derby", "Northampton", "Aberdeen", "Wolverhampton", "Newcastle upon Tyne", "Brighton"]
+             "Bolton", "Southampton", "Belfast", "Croydon", "Derby", "Northampton", "Aberdeen", "Wolverhampton", "Newcastle upon Tyne", "Brighton",
+             "Preston", "Peterborough", "Norwich", "Oldham", "Walsall", "Bedford", "Swindon", "York"]
 UK_ALIAS = {"newcastle upon tyne": {"newcastle upon tyne", "newcastle-upon-tyne", "newcastle"}, "brighton": {"brighton", "brighton and hove", "brighton & hove"}}
 UK_GROUPS = [
     ("NHS, hospitals and health", r"\bnhs\b|hospital|health board|healthcare|\bhealth\b|medical|clinic|pharmac|dental"),
@@ -378,7 +379,9 @@ PROVS = [("ON", "Ontario"), ("QC", "Quebec"), ("BC", "British Columbia"), ("AB",
 CA_CITIES = [("Toronto", "ON", ["toronto"]), ("Calgary", "AB", ["calgary"]), ("Edmonton", "AB", ["edmonton"]), ("Mississauga", "ON", ["mississauga"]),
              ("Surrey", "BC", ["surrey"]), ("Vancouver", "BC", ["vancouver"]), ("Brampton", "ON", ["brampton"]), ("Montreal", "QC", ["montreal"]),
              ("Quebec City", "QC", ["quebec", "quebec city", "ville de quebec"]), ("Winnipeg", "MB", ["winnipeg"]), ("Ottawa", "ON", ["ottawa"]),
-             ("Abbotsford", "BC", ["abbotsford"]), ("Saskatoon", "SK", ["saskatoon"]), ("Halifax", "NS", ["halifax"])]
+             ("Abbotsford", "BC", ["abbotsford"]), ("Saskatoon", "SK", ["saskatoon"]), ("Halifax", "NS", ["halifax"]),
+             ("Burnaby", "BC", ["burnaby"]), ("Richmond", "BC", ["richmond"]), ("Victoria", "BC", ["victoria"]), ("Laval", "QC", ["laval"]),
+             ("Kelowna", "BC", ["kelowna"]), ("Markham", "ON", ["markham"]), ("Oakville", "ON", ["oakville"]), ("London", "ON", ["london"]), ("Regina", "SK", ["regina"])]
 # (slug, plural label, job-search keyword, words matched in the official occupation title)
 CA_JOBS = [
     ("cooks", "cooks and chefs", "cook", ["cooks", "chefs"]),
@@ -395,6 +398,16 @@ CA_JOBS = [
     ("early-childhood-educators", "early childhood educators", "early childhood educator", ["early childhood educators"]),
     ("bakers", "bakers", "baker", ["bakers"]),
     ("cleaners", "cleaners", "cleaner", ["light duty cleaners"]),
+    ("restaurant-managers", "restaurant and food service managers", "restaurant manager", ["restaurant and food service managers"]),
+    ("retail-supervisors", "retail sales supervisors", "retail supervisor", ["retail sales supervisors"]),
+    ("accounting-bookkeepers", "accounting technicians and bookkeepers", "bookkeeper", ["accounting technicians and bookkeepers"]),
+    ("machinists", "machinists", "machinist", ["machinists and machining"]),
+    ("marketing-professionals", "marketing and public relations professionals", "marketing", ["advertising, marketing and public relations"]),
+    ("landscaping-workers", "landscaping labourers", "landscaper", ["landscaping and grounds maintenance labourers"]),
+    ("drywall-installers", "drywall installers and plasterers", "drywall installer", ["drywall installers"]),
+    ("painters", "painters and decorators", "painter", ["painters and decorators"]),
+    ("it-specialists", "information systems specialists", "it specialist", ["information systems specialists"]),
+    ("kitchen-helpers", "kitchen helpers and food counter attendants", "kitchen helper", ["kitchen helpers"]),
 ]
 CA_SRC = "https://open.canada.ca/data/en/dataset/90fed587-1364-4f33-a9ee-208181dc0b97"
 CA_CAP = 150
@@ -491,6 +504,7 @@ def build_ca(sitemap):
         n_prov += 1
     # cities
     for name, fname, code, keys in city_pages:
+        tname = name + ", " + pname[code] if name in ("London", "Victoria", "Richmond") else name  # same name as a bigger place elsewhere
         lst = [r for r in rows if r[2] == code and fold(r[1]) in keys]
         if len(lst) < 50:
             continue
@@ -509,9 +523,9 @@ def build_ca(sitemap):
             ("Does this list show jobs that are open now?", "No. It is a record of past approvals in the last four published quarters. Always check the employer's current vacancies."),
             ("Who pays for the LMIA?", "The employer applies and pays the processing fee. You should not be asked to pay for an LMIA."),
         ]
-        out = render(sh, fname, f"LMIA Employers in {name}: {num(len(lst))} Approved Employers",
+        out = render(sh, fname, f"LMIA Employers in {tname}: {num(len(lst))} Approved Employers",
                      f"{num(len(lst))} employers in {name} approved to hire foreign workers with a positive LMIA, with the jobs they hired for. From the official Canada list.",
-                     "Official Government of Canada list", f"LMIA employers in {name}", f"Employers in {name}, {pname[code]} approved to hire foreign workers.", body, faq,
+                     "Official Government of Canada list", f"LMIA employers in {tname}", f"Employers in {name}, {pname[code]} approved to hire foreign workers.", body, faq,
                      [("Home", ""), ("Canada LMIA employers", "canada-lmia-employers.html"), (name, fname)], meta["published"])
         open(fname, "w", encoding="utf-8", newline="\n").write(out)
         sitemap[fname] = max(meta["published"], "2026-11-12")
@@ -608,8 +622,8 @@ def build_us(sitemap):
     HUB = "us-h1b-sponsors.html"
     state_pages = [(names[s], "us-h1b-sponsors-%s.html" % slug(names[s]), s) for s in sorted(meta["states"], key=lambda s: -meta["states"][s][0]) if s in by_state and meta["states"][s][1] >= 20]
     state_file = {s: f for _, f, s in state_pages}
-    city_pages = [(c, st, "us-h1b-sponsors-%s-%s.html" % (slug(c), st.lower()), pos, n) for c, st, pos, n in meta["cities"][:41] if "%s|%s" % (c, st) in by_city and "us-h1b-sponsors-%s-%s.html" % (slug(c), st.lower()) not in state_file.values()]
-    job_pages = [(j, "us-h1b-sponsors-%s.html" % slug(j), pos, n, sts) for j, pos, n, sts in meta["jobs"][:30] if j in by_job and slug(j) not in {slug(v) for v in names.values()}]
+    city_pages = [(c, st, "us-h1b-sponsors-%s-%s.html" % (slug(c), st.lower()), pos, n) for c, st, pos, n in meta["cities"][:49] if "%s|%s" % (c, st) in by_city and "us-h1b-sponsors-%s-%s.html" % (slug(c), st.lower()) not in state_file.values()]
+    job_pages = [(j, "us-h1b-sponsors-%s.html" % slug(j), pos, n, sts) for j, pos, n, sts in meta["jobs"][:34] if j in by_job and slug(j) not in {slug(v) for v in names.values()}]
     switch = '          <p class="sp-switch"><a href="us-h1b-sponsors.html">Search all US sponsors</a><a href="uk-visa-sponsors.html">United Kingdom</a><a href="canada-lmia-employers.html">Canada</a></p>\n'
     links = lambda skip: (link_list([("All US sponsors (search)", HUB)] + [(n, f) for n, f, _ in state_pages[:20] if f != skip]) +
                           "\n          " + link_list([("%s, %s" % (c, st), f) for c, st, f, _, _ in city_pages[:16] if f != skip]) +
