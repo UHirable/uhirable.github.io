@@ -44,7 +44,6 @@ const CV_TOOLS = [
     price: "start",
     arabic: true,
     logoText: "Si",
-    tag: "Arabic & English CVs",
     tagline: "Arabic and English CV templates with AI help for your summary, skills and experience.",
     deal: "FREE TO START",
     dealLabel: "Pay to download",
