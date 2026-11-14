@@ -1509,9 +1509,28 @@ textarea { resize: vertical; }
 .pj-text p a{color:#0112ff;font-weight:700;text-decoration:none}.pj-text p a:hover{text-decoration:underline}
 #sp-more[hidden]{display:none}
 
-/* Homepage: Remotive block + Paraform card side by side */
-.rm-home .rm-two{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:20px;align-items:stretch}
-.rm-home .rm-two .rm-strip{grid-column:auto}
-.rm-home .rm-two .pf-card{margin:0;display:flex;flex-direction:column}
-.rm-home .rm-two .pf-card .job-actions{margin-top:auto}
-@media(max-width:900px){.rm-home .rm-two{grid-template-columns:1fr}}
+/* Remotive block + Paraform card side by side (homepage and jobs page), compact */
+.rm-two{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:20px;align-items:stretch;grid-column:1/-1}
+.rm-two .rm-strip{grid-column:auto;display:grid;grid-template-columns:1fr auto;grid-template-areas:"head foot" "row row";align-items:center;padding:12px 16px 8px;gap:2px 12px;min-width:0}
+.rm-two .rm-head{grid-area:head;margin:0;gap:10px;min-width:0}
+.rm-two .rm-head .promo-logo{width:48px;height:48px}
+.rm-two .rm-head h2{font-size:1.4rem;margin:0}
+.rm-two .rm-head .meta{font-size:.85rem;margin:0;color:#000}
+.rm-two .rm-foot{grid-area:foot;margin:10px 0 0;flex-direction:column;align-items:flex-end;gap:2px}
+.rm-two .rm-foot small{font-size:.65rem}
+.rm-two .rm-foot .promo-btn{font-size:.72rem;padding:6px 12px}
+.rm-two .rm-row{grid-area:row;padding:2px 2px 6px}
+.rm-two .rm-card{flex:0 0 215px;padding:9px 11px;gap:4px}
+.rm-two .rm-top img{width:28px;height:28px}
+.rm-two .rm-top b{font-size:.85rem}
+.rm-two .rm-card .chips span:not(:first-child),.rm-two .rm-card em{display:none}
+.rm-two .pf-card{margin:0;display:flex;flex-direction:column;justify-content:space-between;gap:8px;padding:12px 16px}
+.rm-two .pf-card .promo-badge{display:none}
+.rm-two .pf-card .job-head{margin:0}
+.rm-two .pf-card .promo-logo{width:44px;height:44px}
+.rm-two .pf-card h3{font-size:1.3rem;line-height:1.2}
+.rm-two .pf-card .meta{font-size:1rem;color:#000}
+.rm-two .pf-card .desc{display:block;font-size:.95rem;line-height:1.4;color:#1d1d3a;margin:0}
+.rm-two .pf-card .job-actions{margin-top:0}
+.rm-two .pf-card .job-actions .promo-btn{font-size:.95rem;padding:9px 16px}
+@media(max-width:900px){.rm-two{grid-template-columns:1fr}.rm-two .rm-strip{grid-template-columns:1fr;grid-template-areas:"head" "foot" "row"}.rm-two .rm-foot{flex-direction:row;align-items:center;margin-top:6px}}

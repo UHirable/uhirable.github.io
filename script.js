@@ -221,10 +221,10 @@ if (list && typeof JOBS !== "undefined") {
   });
 
   // Remotive block shown first on the jobs list
-  function promoCards(country, q) {
-    if (q || window.JOB_FILTER) return "";
+  function promoCards() {
     return `
-        <section class="rm-strip rm-onlist">
+        <div class="rm-two">
+        <section class="rm-strip">
           <span class="promo-badge">Remote jobs</span>
           <div class="rm-head">
             <img class="promo-logo" src="logo-remotive.svg" width="44" height="44" alt="Remotive">
@@ -235,7 +235,20 @@ if (list && typeof JOBS !== "undefined") {
             <a class="btn btn-sm promo-btn" href="${REMOTIVE_LINK}" target="_blank" rel="noopener sponsored">Unlock 100K+ hidden remote jobs →</a>
             <small>Source: <a href="https://remotive.com" target="_blank" rel="noopener">Remotive</a></small>
           </div>
-        </section>`;
+        </section>
+        <article class="job-card promo-card pf-card">
+          <span class="promo-badge">Get matched</span>
+          <div class="job-head">
+            <img class="promo-logo pf-logo" src="logo-paraform.svg" width="52" height="52" alt="Paraform">
+            <div>
+              <h3>Get matched with 1,000+ top companies</h3>
+              <p class="meta">Paraform · AI, Tech, Sales &amp; GTM roles</p>
+            </div>
+          </div>
+          <p class="desc">Share your profile once and get matched with open roles at top startups and tech companies.</p>
+          <div class="job-actions"><a class="btn btn-sm promo-btn" href="${PARAFORM_LINK}" target="_blank" rel="noopener sponsored">Get matched →</a></div>
+        </article>
+        </div>`;
   }
 
   function render() {
