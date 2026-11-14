@@ -50,6 +50,7 @@ const CV_TOOLS = [
     perk: "Write and preview your CV for free; you pay only when you download the PDF",
     cta: "Start My CV",
     roles: ["AI Writing Help", "Arabic Templates", "English Templates", "ATS Resume Checker", "Download as PDF"],
+    langs: ["English", "العربية"],
     link: "https://sirity.com/"
   },
   {
@@ -107,6 +108,7 @@ const CV_TOOLS = [
     perk: "Free plan: 1 resume, 3 PDF downloads and limited AI tools; Pro unlocks everything",
     cta: "Try Rezi Free",
     roles: ["AI Resume Writer", "AI Keyword Targeting", "AI Interview Practice", "Resume Score", "Download as PDF"],
+    langs: ["English", "Español", "Français", "Deutsch", "Português", "हिन्दी", "한국어"],
     link: "https://www.rezi.ai/"
   },
   {
@@ -121,6 +123,7 @@ const CV_TOOLS = [
     perk: "Free plan with basic templates; Premium unlocks all templates and AI features",
     cta: "Try Kickresume",
     roles: ["AI Resume Writer", "AI Cover Letter", "Resume Templates", "Cover Letter Builder"],
+    langs: ["English", "Español", "Português", "Français", "Deutsch", "Čeština", "Slovenčina"],
     link: "https://www.kickresume.com/"
   },
   {
@@ -135,6 +138,7 @@ const CV_TOOLS = [
     perk: "All templates free for 7 days (with Enhancv branding); Pro is paid after that",
     cta: "Try Enhancv",
     roles: ["AI Content Suggestions", "Resume Templates", "ATS Resume Checker", "Cover Letter Builder"],
+    langs: ["English", "Français", "Deutsch", "Español", "Italiano", "العربية", "中文", "日本語", "हिन्दी", "+20 more"],
     link: "https://enhancv.com/"
   },
   {
