@@ -17,7 +17,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="favicon.png">
   <link rel="preload" href="fonts/plus-jakarta-sans.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="style.css?v=78">
+  <link rel="stylesheet" href="style.css?v=79">
   <script type="application/ld+json" id="ld-list">{"@context": "https://schema.org", "@type": "ItemList", "name": "Free CV tools and resume builders", "url": "https://uhirable.github.io/cv-tools.html", "numberOfItems": 15, "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Got Resume Builder", "url": "https://www.gotresumebuilder.com/"}, {"@type": "ListItem", "position": 2, "name": "StylingCV", "url": "https://stylingcv.com/ar/"}, {"@type": "ListItem", "position": 3, "name": "Sirity", "url": "https://sirity.com/"}, {"@type": "ListItem", "position": 4, "name": "Canva", "url": "https://www.canva.com/resumes/templates/"}, {"@type": "ListItem", "position": 5, "name": "Reactive Resume", "url": "https://rxresu.me/"}, {"@type": "ListItem", "position": 6, "name": "Microsoft Create", "url": "https://create.microsoft.com/en-us/templates/resumes"}, {"@type": "ListItem", "position": 7, "name": "Rezi", "url": "https://www.rezi.ai/"}, {"@type": "ListItem", "position": 8, "name": "Kickresume", "url": "https://www.kickresume.com/"}, {"@type": "ListItem", "position": 9, "name": "Enhancv", "url": "https://enhancv.com/"}, {"@type": "ListItem", "position": 10, "name": "Resume.io", "url": "https://resume.io/"}, {"@type": "ListItem", "position": 11, "name": "Novorésumé", "url": "https://novoresume.com/"}, {"@type": "ListItem", "position": 12, "name": "FlowCV", "url": "https://flowcv.com/"}, {"@type": "ListItem", "position": 13, "name": "Overleaf", "url": "https://www.overleaf.com/latex/templates/tagged/cv"}, {"@type": "ListItem", "position": 14, "name": "Resume Worded", "url": "https://resumeworded.com/"}, {"@type": "ListItem", "position": 15, "name": "TopResume", "url": "https://topresume.com/"}]}</script>
 </head>
 <body>
@@ -61,7 +61,7 @@
   </div></section>
 </main>
 <script src="tags.js?v=1"></script>
-<script src="cvtools.js?v=3"></script>
+<script src="cvtools.js?v=4"></script>
 <script>
 const esc=(s="")=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const PRICE={free:"100% Free",start:"Free to start",paid:"Paid"};
@@ -72,7 +72,7 @@ function card(p){return `
    <div><span class="p-tag">${esc(p.tag||"Tool")}</span>${p.price?`<span class="price-b ${p.price}">${PRICE[p.price]}</span>`:""}<h2>${esc(p.name)}</h2><p>${esc(p.tagline)}</p></div></div>
   ${p.deal?`<div class="p-deal"><div class="d-ic"><svg viewBox="0 0 24 24"><path d="M20 12v9H4v-9"/><rect x="2" y="7" width="20" height="5" rx="1"/><path d="M12 21V7"/><path d="M12 7H7.5a2.5 2.5 0 1 1 0-5C11 2 12 7 12 7z"/><path d="M12 7h4.5a2.5 2.5 0 1 0 0-5C13 2 12 7 12 7z"/></svg></div><div class="d-tx"><span class="d-lb">${esc(p.dealLabel||"")}</span> <b>${esc(p.deal)}</b> ${p.perk?`<span class="d-sub">${esc(p.perk)}</span>`:""}</div></div>`:""}
   ${p.steps?`<div class="p-steps">${p.steps.map((s,i)=>`<div><b>STEP ${i+1}</b>${esc(s)}</div>`).join("")}</div>`:""}
-  <div class="p-roles">${p.arabic?AR_TAG:""}${p.roles.map(tagHTML).join("")}</div>
+  <div class="p-roles">${p.arabic?AR_TAG:""}${p.roles.map(tagHTML).join("")}${(p.langs||[]).map(l=>`<em class="tg tg-lang"${/[\u0600-\u06FF]/.test(l)?' lang="ar" dir="rtl"':""}>${esc(l)}</em>`).join("")}</div>
   <div class="p-foot"><a class="btn btn-gold" href="${esc(p.link)}" target="_blank" rel="${p.sponsored?"sponsored ":""}noopener noreferrer" referrerpolicy="no-referrer">${esc(p.cta||"Try Free")} →</a>${p.arabicLink?`<a class="btn btn-ar" href="${esc(p.arabicLink)}" target="_blank" rel="noopener noreferrer" dir="rtl" lang="ar">قوالب بالعربي ←</a>`:""}</div>
  </article>`;}
 const box=document.getElementById("partners");

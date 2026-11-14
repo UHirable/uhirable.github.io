@@ -78,7 +78,8 @@ const CV_TOOLS = [
     deal: "100% FREE",
     dealLabel: "Open source",
     cta: "Build My Resume",
-    roles: ["Resume Templates", "Download as PDF", "Multiple Languages"],
+    roles: ["Resume Templates", "Download as PDF"],
+    langs: ["English", "Español", "Français", "Deutsch", "Português", "Italiano", "Türkçe", "Русский", "العربية", "中文", "日本語", "+40 more"],
     link: "https://rxresu.me/"
   },
   {

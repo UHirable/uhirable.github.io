@@ -1534,3 +1534,6 @@ textarea { resize: vertical; }
 .rm-two .pf-card .job-actions{margin-top:0}
 .rm-two .pf-card .job-actions .promo-btn{font-size:.95rem;padding:9px 16px}
 @media(max-width:900px){.rm-two{grid-template-columns:1fr}.rm-two .rm-strip{grid-template-columns:1fr;grid-template-areas:"head" "foot" "row"}.rm-two .rm-foot{flex-direction:row;align-items:center;margin-top:6px}}
+
+.tg-lang{--t1:#eef5ff;--t2:#d3e5ff;--fg:#0b5596;--sh:#a3c6ee;font-style:normal}
+.partners .p-roles em.tg{font-size:.78rem;padding:5px 9px;border-radius:9px}
