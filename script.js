@@ -233,7 +233,6 @@ if (list && typeof JOBS !== "undefined") {
           <div class="rm-row" id="rm-row"><p class="rm-loading">Loading remote jobs…</p></div>
           <div class="rm-foot">
             <a class="btn btn-sm promo-btn" href="${REMOTIVE_LINK}" target="_blank" rel="noopener sponsored">Unlock 100K+ hidden remote jobs →</a>
-            <small>Source: <a href="https://remotive.com" target="_blank" rel="noopener">Remotive</a></small>
           </div>
         </section>
         <article class="job-card promo-card pf-card">
