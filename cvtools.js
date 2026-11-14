@@ -34,7 +34,8 @@ const CV_TOOLS = [
     dealLabel: "No credit card",
     perk: "Free plan for basic CV creation and a first CV check; paid plans unlock more tools",
     cta: "Build My CV",
-    roles: ["AI Job Tailoring", "AI Cover Letter", "ATS Resume Checker", "Bilingual Templates", "Application Tracker", "16 Languages"],
+    roles: ["AI Job Tailoring", "AI Cover Letter", "ATS Resume Checker", "Bilingual Templates", "Application Tracker"],
+    langs: ["English", "العربية", "Français", "Español", "Deutsch", "+10 more"],
     link: "https://stylingcv.com/ar/"
   },
   {
@@ -67,6 +68,7 @@ const CV_TOOLS = [
     cta: "English Templates",
     arabicLink: "https://www.canva.com/ar_eg/resumes/templates/",
     roles: ["Resume Templates", "Arabic Templates", "Drag & Drop Editor", "Download as PDF"],
+    langs: ["English", "العربية", "Español", "Français", "Deutsch", "Português", "Русский", "中文", "日本語", "+60 more"],
     link: "https://www.canva.com/resumes/templates/"
   },
   {

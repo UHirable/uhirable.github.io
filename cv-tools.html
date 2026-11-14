@@ -61,11 +61,11 @@
   </div></section>
 </main>
 <script src="tags.js?v=1"></script>
-<script src="cvtools.js?v=5"></script>
+<script src="cvtools.js?v=6"></script>
 <script>
 const esc=(s="")=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const PRICE={free:"100% Free",start:"Free to start",paid:"Paid"};
-const AR_TAG=`<span class="tg tg-arcv" dir="rtl" lang="ar">سي في بالعربي</span>`;
+const AR_TAG=`<span class="tg tg-arcv" dir="rtl" lang="ar">العربية</span>`;
 function card(p){return `
  <article class="partner${p.popular?" is-pop":""}" data-price="${p.price||""}" data-ar="${p.arabic?1:0}">${p.popular?`<span class="pop-rib">★ Most popular</span>`:""}
   <div class="p-head">${p.logo?`<img class="p-logo img" src="${esc(p.logo)}" alt="${esc(p.name)} logo" loading="lazy" width="62" height="62">`:`<div class="p-logo txt">${esc(p.logoText||p.name.slice(0,2))}</div>`}
