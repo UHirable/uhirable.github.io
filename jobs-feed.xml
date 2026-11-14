@@ -1079,15 +1079,4 @@
     <expire>24.12.2026</expire>
     <jobtype>full-time</jobtype>
   </job>
-  <job id="lead-generation-specialist">
-    <link><![CDATA[https://uhirable.github.io/job-lead-generation-specialist.html]]></link>
-    <name><![CDATA[Lead Generation Specialist]]></name>
-    <region><![CDATA[Worldwide]]></region>
-    <description><![CDATA[<p>We are seeking a detail-oriented and technically skilled Lead Generation Specialist with experience in web scraping, data extraction, data quality assurance, and outreach automation. The ideal candidate will source and verify leads, use Python scripts to extract data, manage outreach campaigns, and support sales and operations teams in improving lead generation processes.</p><p><strong>Requirements</strong></p><ul><li>Proven experience in lead generation, web scraping, or data extraction.</li><li>Practical knowledge of Python scripting for automated data collection.</li><li>Experience with data cleaning, validation, deduplication, and database management.</li><li>Familiarity with Apollo, Lusha, ContactOut, LinkedIn, and email automation tools.</li><li>Knowledge of domain setup, email configuration, and email deliverability.</li><li>Strong analytical, troubleshooting, and problem-solving skills.</li><li>Excellent attention to detail and organizational abilities.</li><li>Strong communication skills and the ability to collaborate across teams.</li></ul><p>Apply via U Hirable: <a href="https://uhirable.github.io/job-lead-generation-specialist.html">https://uhirable.github.io/job-lead-generation-specialist.html</a></p>]]></description>
-    <pubdate>25.10.2026</pubdate>
-    <updated>25.10.2026</updated>
-    <company><![CDATA[U Hirable (confidential client)]]></company>
-    <expire>24.12.2026</expire>
-    <jobtype>full-time</jobtype>
-  </job>
 </jobs>

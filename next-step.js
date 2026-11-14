@@ -1,6 +1,7 @@
 // "Your CV is ready" window shown in the middle of the page after a CV download.
 // Suggests jobs in the visitor's country, picked from the device time zone (nothing is sent anywhere).
 (() => {
+  const uhBad = (j) => { const t = String((j && j.title) || "").trim(); return /^[\[\(]/.test(t) || /^hiring\s*(in|for|now|!|:|-|\d)/i.test(t) || /\[hiring\]/i.test(t) || (!(j && j.company) && /\b\d+\s*[x×]\s/i.test(t)); };
   if (window.UHNextStep) return;
   const count = (path, title) => { try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path, title, event: true }); } catch (e) {} };
   let tz = ""; try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) {}
@@ -118,7 +119,7 @@
         window.UHWJF && UHWJF.has(g[0]) ? UHWJF.fetch(g[0], k, null, 1).catch(() => ({ jobs: [] })) : { jobs: [] },
         g[0] === "us" ? get(API + "?src=lensa&q=" + encodeURIComponent(k) + "&page=1") : { jobs: [] },
         get(API + "?src=jooble&cc=" + g[0] + "&q=" + encodeURIComponent(k) + "&page=1"),
-      ]).then(([w, l, j]) => { const L = [l.jobs || [], w.jobs || [], j.jobs || []], o = []; for (let k2 = 0; k2 < 3; k2++) L.forEach((a) => { if (a[k2]) o.push(a[k2]); }); return o.filter((x) => x && x.title && x.link).slice(0, 3); });
+      ]).then(([w, l, j]) => { const L = [l.jobs || [], w.jobs || [], (j.jobs || []).filter((x) => !uhBad(x))], o = []; for (let k2 = 0; k2 < 3; k2++) L.forEach((a) => { if (a[k2]) o.push(a[k2]); }); return o.filter((x) => x && x.title && x.link).slice(0, 3); });
       Promise.race([pull(kw).then((o) => (o.length || !kw ? o : pull(""))), late]).then((jobs) => {
         if (!ov.isConnected) return;
         if (!jobs || !jobs.length) { jb.hidden = true; dlg.classList.remove("has-jobs"); return; }

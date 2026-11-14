@@ -239,19 +239,12 @@ if (list && typeof JOBS !== "undefined") {
           <div class="job-actions"><a class="btn btn-sm promo-btn" href="${PARAFORM_LINK}" target="_blank" rel="noopener">Get matched →</a></div>
         </article>` : "";
     const rm = `
-        <article class="job-card promo-card rm-promo">
-          <span class="promo-badge">More remote jobs</span>
-          <div class="job-head">
-            <img class="promo-logo" src="logo-remotive.svg" width="52" height="52" alt="Remotive">
-            <div>
-              <h3>Browse more remote jobs on Remotive</h3>
-              <p class="meta">Remotive · Remote job board</p>
-            </div>
-          </div>
-          <div class="chips"><span class="chip pc">🌍 Worldwide</span><span class="chip pc">100% Remote</span><span class="chip">Tech</span><span class="chip">Marketing</span><span class="chip">Sales</span><span class="chip">Customer Support</span></div>
-          <p class="desc">Hand-picked remote jobs at tech companies, updated every day. Work from anywhere.</p>
-          <div class="job-actions"><a class="btn btn-sm promo-btn" href="${REMOTIVE_LINK}" target="_blank" rel="noopener sponsored">Browse remote jobs →</a></div>
-        </article>`;
+        <a class="rm-slim" href="${REMOTIVE_LINK}" target="_blank" rel="noopener sponsored">
+          <img src="logo-remotive.svg" width="28" height="28" alt="" loading="lazy">
+          <span class="rm-txt"><strong>More remote jobs on Remotive</strong><span class="rm-sub"> · hand-picked, updated every day</span></span>
+          <span class="rm-go">Browse &rarr;</span>
+          <span class="rm-ad">Ad</span>
+        </a>`;
     return pf + rm;
   }
 
