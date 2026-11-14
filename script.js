@@ -220,32 +220,22 @@ if (list && typeof JOBS !== "undefined") {
     countrySelect.appendChild(opt);
   });
 
-  // Promo cards (Paraform + Remotive) shown first; Paraform only for its countries
-  const PF_COUNTRIES = ["United States","United Kingdom","Canada","Austria","Belgium","Bulgaria","Croatia","Cyprus","Czech Republic","Denmark","Estonia","Finland","France","Germany","Greece","Hungary","Ireland","Italy","Latvia","Lithuania","Luxembourg","Malta","Netherlands","Norway","Poland","Portugal","Romania","Slovakia","Slovenia","Spain","Sweden","Switzerland"];
+  // Remotive block shown first on the jobs list
   function promoCards(country, q) {
     if (q || window.JOB_FILTER) return "";
-    const pf = (country === "all" || PF_COUNTRIES.includes(country)) ? `
-        <article class="job-card promo-card pf-card">
-          <span class="promo-badge">Get matched</span>
-          <div class="job-head">
-            <img class="promo-logo pf-logo" src="logo-paraform.svg" width="52" height="52" alt="Paraform">
-            <div>
-              <h3>Get matched with 1,000+ top companies</h3>
-              <p class="meta">Paraform · AI, Tech, Sales &amp; GTM roles</p>
-            </div>
+    return `
+        <section class="rm-strip rm-onlist">
+          <span class="promo-badge">Remote jobs</span>
+          <div class="rm-head">
+            <img class="promo-logo" src="logo-remotive.svg" width="44" height="44" alt="Remotive">
+            <div><h2>Fresh remote jobs from Remotive</h2><p class="meta">Worldwide · 100% remote · updates automatically</p></div>
           </div>
-          <div class="chips"><span class="chip pc">📍 United States</span><span class="chip pc">📍 United Kingdom</span><span class="chip pc">📍 Canada</span><span class="chip pc">📍 Europe</span><span class="chip">Remote</span><span class="chip">Hybrid</span><span class="chip">On-site</span></div>
-          <p class="desc">Didn't find your role? Share your profile once and get matched with open roles at top startups and tech companies.</p>
-          <div class="job-actions"><a class="btn btn-sm promo-btn" href="${PARAFORM_LINK}" target="_blank" rel="noopener">Get matched →</a></div>
-        </article>` : "";
-    const rm = `
-        <a class="rm-slim" href="${REMOTIVE_LINK}" target="_blank" rel="noopener sponsored">
-          <img src="logo-remotive.svg" width="28" height="28" alt="" loading="lazy">
-          <span class="rm-txt"><strong>More remote jobs on Remotive</strong><span class="rm-sub"> · hand-picked, updated every day</span></span>
-          <span class="rm-go">Browse &rarr;</span>
-          <span class="rm-ad">Ad</span>
-        </a>`;
-    return pf + rm;
+          <div class="rm-row" id="rm-row"><p class="rm-loading">Loading remote jobs…</p></div>
+          <div class="rm-foot">
+            <a class="btn btn-sm promo-btn" href="${REMOTIVE_LINK}" target="_blank" rel="noopener sponsored">Unlock 100K+ hidden remote jobs →</a>
+            <small>Source: <a href="https://remotive.com" target="_blank" rel="noopener">Remotive</a></small>
+          </div>
+        </section>`;
   }
 
   function render() {
@@ -290,6 +280,7 @@ if (list && typeof JOBS !== "undefined") {
           </div>
         </article>`)
       .join("");
+    fillRemotive();
   }
 
   countrySelect.addEventListener("change", render);

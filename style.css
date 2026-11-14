@@ -1509,12 +1509,9 @@ textarea { resize: vertical; }
 .pj-text p a{color:#0112ff;font-weight:700;text-decoration:none}.pj-text p a:hover{text-decoration:underline}
 #sp-more[hidden]{display:none}
 
-/* Remotive: slim full-width strip on the jobs list, like an ad banner */
-.rm-slim{grid-column:1/-1;display:flex;align-items:center;gap:12px;padding:8px 14px;border:1px solid #f5d77a;background:#fff8e1;border-radius:12px;color:#1d1d3a;text-decoration:none;font-size:.9rem;position:relative;line-height:1.2}
-.rm-slim:hover{background:#fff1c2}
-.rm-slim img{width:28px;height:28px;border-radius:8px;flex:none;object-fit:contain;background:#fff}
-.rm-slim .rm-txt{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.rm-slim .rm-sub{color:#6b5a1e}
-.rm-slim .rm-go{font-weight:800;color:#8a6500;white-space:nowrap}
-.rm-slim .rm-ad{position:absolute;top:2px;right:8px;font-size:.55rem;letter-spacing:.06em;text-transform:uppercase;color:#a08a3a}
-@media(max-width:640px){.rm-slim .rm-sub{display:none}}
+/* Homepage: Remotive block + Paraform card side by side */
+.rm-home .rm-two{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:20px;align-items:stretch}
+.rm-home .rm-two .rm-strip{grid-column:auto}
+.rm-home .rm-two .pf-card{margin:0;display:flex;flex-direction:column}
+.rm-home .rm-two .pf-card .job-actions{margin-top:auto}
+@media(max-width:900px){.rm-home .rm-two{grid-template-columns:1fr}}
