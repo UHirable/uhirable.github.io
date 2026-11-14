@@ -60,18 +60,17 @@
   </div></section>
 </main>
 <script src="tags.js?v=1"></script>
-<script src="cvtools.js?v=7"></script>
+<script src="cvtools.js?v=8"></script>
 <script>
 const esc=(s="")=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const PRICE={free:"100% Free",start:"Free to start",paid:"Paid"};
-const AR_TAG=`<span class="tg tg-arcv" dir="rtl" lang="ar">العربية</span>`;
 function card(p){return `
  <article class="partner${p.popular?" is-pop":""}" data-price="${p.price||""}" data-ar="${p.arabic?1:0}">${p.popular?`<span class="pop-rib">★ Most popular</span>`:""}
   <div class="p-head">${p.logo?`<img class="p-logo img" src="${esc(p.logo)}" alt="${esc(p.name)} logo" loading="lazy" width="62" height="62">`:`<div class="p-logo txt">${esc(p.logoText||p.name.slice(0,2))}</div>`}
    <div><span class="p-tag">${esc(p.tag||"Tool")}</span>${p.price?`<span class="price-b ${p.price}">${PRICE[p.price]}</span>`:""}<h2>${esc(p.name)}</h2><p>${esc(p.tagline)}</p></div></div>
   ${p.deal?`<div class="p-deal"><div class="d-ic"><svg viewBox="0 0 24 24"><path d="M20 12v9H4v-9"/><rect x="2" y="7" width="20" height="5" rx="1"/><path d="M12 21V7"/><path d="M12 7H7.5a2.5 2.5 0 1 1 0-5C11 2 12 7 12 7z"/><path d="M12 7h4.5a2.5 2.5 0 1 0 0-5C13 2 12 7 12 7z"/></svg></div><div class="d-tx"><span class="d-lb">${esc(p.dealLabel||"")}</span> <b>${esc(p.deal)}</b> ${p.perk?`<span class="d-sub">${esc(p.perk)}</span>`:""}</div></div>`:""}
   ${p.steps?`<div class="p-steps">${p.steps.map((s,i)=>`<div><b>STEP ${i+1}</b>${esc(s)}</div>`).join("")}</div>`:""}
-  <div class="p-roles">${p.arabic?AR_TAG:""}${p.roles.map(tagHTML).join("")}${(p.langs||[]).map(l=>`<em class="tg tg-lang"${/[\u0600-\u06FF]/.test(l)?' lang="ar" dir="rtl"':""}>${esc(l)}</em>`).join("")}</div>
+  <div class="p-roles">${p.roles.map(tagHTML).join("")}${(p.langs||[]).map(l=>`<em class="tg tg-lang"${/[\u0600-\u06FF]/.test(l)?' lang="ar" dir="rtl"':""}>${esc(l)}</em>`).join("")}</div>
   <div class="p-foot"><a class="btn btn-gold" href="${esc(p.link)}" target="_blank" rel="${p.sponsored?"sponsored ":""}noopener noreferrer" referrerpolicy="no-referrer">${esc(p.cta||"Try Free")} →</a>${p.arabicLink?`<a class="btn btn-ar" href="${esc(p.arabicLink)}" target="_blank" rel="noopener noreferrer" dir="rtl" lang="ar">قوالب بالعربي ←</a>`:""}</div>
  </article>`;}
 const box=document.getElementById("partners");
