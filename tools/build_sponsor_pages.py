@@ -542,7 +542,7 @@ def build_ca(sitemap):
         prov_rows = "".join(f"<tr><td>{esc(pname.get(c, c))}</td><td>{num(v)}</td></tr>" for c, v in pc.most_common(8))
         top_p = [pname.get(c, c) for c, _ in pc.most_common(3)]
         titles = sorted({o for r in lst for o in r[4].split("; ") if any(w in o.lower() for w in words)})
-        body = (GD +
+        body = (GD + vh_block(fname) +
                 f'          <p class="gd-answer">{num(len(lst))} employers in Canada were approved to hire foreign {esc(lab)} with a positive LMIA from {period}. Most are in {esc(top_p[0])}, {esc(top_p[1])} and {esc(top_p[2])}. This page lists them from the official Government of Canada list published on {pub}.</p>\n' + switch +
                 f'          <h2>Where employers hire foreign {esc(lab)}</h2>\n          <div class="gd-tw spc-tw"><table><thead><tr><th>Province</th><th>Employers approved</th></tr></thead><tbody>{prov_rows}</tbody></table></div>\n'
                 f'          <p>An employer is counted here when one of its main approved occupations in the official list is: {esc("; ".join(titles))}.</p>\n' + ca_tail(lab) + GD_END +
@@ -717,6 +717,32 @@ def build_us(sitemap):
     open(HUB, "w", encoding="utf-8", newline="\n").write(out); sitemap[HUB] = mod
     print("US: hub + %d state, %d city and %d job pages" % (len(state_pages), len(city_pages), len(job_pages)))
 
+
+
+# ---------------------------------------------------------------- VanHack referral card (tech job pages only)
+LEAF='m-90 2030 45-863a95 95 0 0 0-111-98l-859 151 116-320a65 65 0 0 0-20-73l-941-762 212-99a65 65 0 0 0 34-79l-186-572 542 115a65 65 0 0 0 73-38l105-247 423 454a65 65 0 0 0 111-57l-204-1052 327 189a65 65 0 0 0 91-27l332-652 332 652a65 65 0 0 0 91 27l327-189-204 1052a65 65 0 0 0 111 57l423-454 105 247a65 65 0 0 0 73 38l542-115-186 572a65 65 0 0 0 34 79l212 99-941 762a65 65 0 0 0-20 73l116 320-859-151a95 95 0 0 0-111 98l45 863z'
+PLANE='M21 16v-2l-8-5V3.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z'
+LINK='https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b'
+def _vh_card(title, extra=''):
+    art=('<svg viewBox="0 0 150 100" width="150" height="100" aria-hidden="true" style="position:relative;flex:none">'
+         '<path d="M10 92 C40 88 70 70 92 42" fill="none" stroke="#fff" stroke-width="2.5" stroke-dasharray="2 8" stroke-linecap="round"/>'
+         f'<g transform="translate(78 30) rotate(40) scale(1.55)"><path fill="#fff" d="{PLANE}"/></g>'
+         '<g transform="translate(96 8)"><rect x="-2" y="-2" width="54" height="31" rx="5" fill="#fff"/><rect width="50" height="27" rx="3" fill="#fff"/>'
+         '<rect width="12.5" height="27" fill="#d52b1e"/><rect x="37.5" width="12.5" height="27" fill="#d52b1e"/>'
+         f'<svg x="16" y="4.5" width="18" height="18" viewBox="-2015 -2000 4030 4030"><path fill="#d52b1e" d="{LEAF}"/></svg>'
+         '<rect x="-1" y="27" width="2.5" height="62" rx="1" fill="#fff"/></g></svg>')
+    bg=(f'<svg aria-hidden="true" viewBox="-2015 -2000 4030 4030" style="position:absolute;right:-40px;top:50%;transform:translateY(-50%);width:300px;height:300px;opacity:.12;pointer-events:none"><path fill="#fff" d="{LEAF}"/></svg>')
+    return (f'<div class="vh-card" style="position:relative;overflow:hidden;{extra}display:flex;align-items:center;gap:20px;flex-wrap:wrap;'
+            'background:linear-gradient(120deg,#e63426,#b3161b);border:3px solid #ffc93c;border-radius:20px;padding:20px 24px">'
+            f'{bg}{art}<div style="position:relative;flex:1;min-width:230px">'
+            f'<p style="margin:0 0 8px;font-weight:800;font-size:1.25rem;color:#fff">{title}</p>'
+            '<p style="margin:0;color:#fff;font-size:1rem;line-height:1.55;font-weight:700">VanHack matches tech professionals with Canadian companies that sponsor work permits, and handles the visa process. Free for job seekers.</p></div>'
+            f'<a href="{LINK}" target="_blank" rel="noopener sponsored" style="position:relative;white-space:nowrap;background:#ffc93c;color:#0b0b14;font-weight:800;text-decoration:none;padding:13px 22px;border-radius:14px;box-shadow:0 5px 0 #c99a14">Join VanHack</a></div>')
+
+VH_PAGES = {"canada-lmia-employers-software-developers.html": "Developer looking to move to Canada?",
+            "canada-lmia-employers-it-specialists.html": "Tech professional looking to move to Canada?"}
+def vh_block(fname):
+    return ("          " + _vh_card(VH_PAGES[fname], "margin:0 0 26px;") + "\n") if fname in VH_PAGES else ""
 
 # ---------------------------------------------------------------- hub block + sitemap
 def set_browse(hub, block, before):
