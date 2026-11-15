@@ -96,7 +96,7 @@
     if (!wantLive) { wrap.hidden = true; return; }
     const cc = CC[country] || "us";
     if (reset) { page = 1; shown = 0; list.innerHTML = ""; }
-    const my = ++seq; wrap.hidden = false; status.className = "js-bar"; status.textContent = "Loading live jobs in " + (country === "all" ? "the United States" : country) + "…"; more.hidden = true;
+    const my = ++seq; wrap.hidden = false; status.hidden = false; status.className = "js-bar"; status.textContent = "Loading live jobs in " + (country === "all" ? "the United States" : country) + "…"; more.hidden = true;
     if (ownList.querySelector(".empty")) { ownList.innerHTML = ""; if (countEl) countEl.textContent = ""; }
     try {
       const jooblePromise = lo ? Promise.resolve({ jobs: [], totalCount: 0 }) : fetch(API + "?src=jooble&cc=" + cc + "&q=" + encodeURIComponent(jq) + "&page=" + page).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }).catch(() => ({ jobs: [], totalCount: 0, failed: true }));
@@ -121,13 +121,15 @@
 
       list.insertAdjacentHTML("beforeend", jobs.map((j, i) => card(j, shown + i)).join("")); shown += jobs.length;
       // exact search can empty a page: look a few pages further before giving up
-      if (phrase && !jobs.length && rawMore && tries < 4) { page++; return live(false, tries + 1); }
+      // exact search: gather matches from the first 5 pages in one go (no "Load more")
+      if (phrase && rawMore && tries < 4) { page++; return live(false, tries + 1); }
       const where = (city ? city + ", " : "") + (country === "all" ? "the United States" : country);
       status.innerHTML = shown ? `<b>${phrase ? shown.toLocaleString() + (rawMore ? "+" : "") : total.toLocaleString() + plus}</b> live jobs${kw ? ` for <b>${esc(kw)}</b>` : ""} in ${esc(where)} · from hundreds of job sites` : `No live jobs${kw ? ` for <b>${esc(kw)}</b>` : ""} in ${esc(where)} right now. Try a shorter keyword.`;
       if (!shown) status.className = "js-bar empty";
-      more.hidden = !(phrase ? rawMore : ((jJobs.length + lJobs.length >= 20 && shown < total) || wjData.hasMore));
+      more.hidden = phrase ? true : !((jJobs.length + lJobs.length >= 20 && shown < total) || wjData.hasMore);
+      status.hidden = !!shown; /* count line only needed when nothing was found */
       try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "live-jobs/" + cc, title: "Live jobs " + cc, event: true }); } catch (e) {}
-    } catch (e) { if (my === seq) { status.className = "js-bar empty"; status.textContent = "Couldn't load live jobs right now. Please try again in a moment."; } }
+    } catch (e) { if (my === seq) { if (shown) { status.hidden = true; more.hidden = true; } else { status.className = "js-bar empty"; status.textContent = "Couldn't load live jobs right now. Please try again in a moment."; } } }
   }
   let t; const kick = () => { clearTimeout(t); t = setTimeout(() => live(true), 450); };
   sel.addEventListener("change", () => { if (!selfChange) autoSet = false; live(true); });
