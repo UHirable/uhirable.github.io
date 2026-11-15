@@ -6,6 +6,11 @@
 # the two hub pages, and the matching lines in sitemap.xml.
 import collections, glob, html, json, os, re, sys, unicodedata
 
+YEAR = "2026"  # shown in page titles; bump each January
+_SMALL = {"and", "of", "in", "for", "the", "or", "to"}
+def tcase(s):
+    return " ".join(w if (w.lower() in _SMALL and i) or w.isupper() else w[:1].upper() + w[1:] for i, w in enumerate(s.split()))
+
 SITE = "https://uhirable.github.io/"
 CSS_V = "81"
 esc = html.escape
@@ -208,7 +213,7 @@ def uk_sectors(rows, routes, sw, meta, sh, sitemap, city_pages):
             ("Where are most of them?", f"The towns and cities with the most are {top3[0]}, {top3[1]} and {top3[2]}."),
             ("Does a place on this list mean there is a job for me?", "No. The register shows who is allowed to sponsor workers. It does not show vacancies, and a licensed employer can advertise jobs that do not come with sponsorship."),
         ]
-        out = render(sh, fname, f"{lab} That Sponsor UK Visas: {num(n)} Licensed Sponsors", f"{num(n)} {phrase} licensed to sponsor UK work visas, with town and rating. From the Home Office register dated {date}.",
+        out = render(sh, fname, f"List of {tcase(lab)} That Offer UK Visa Sponsorship ({YEAR})", f"Full list of {num(n)} {phrase} licensed to sponsor UK Skilled Worker visas, with town and rating. Free, from the Home Office register updated {date}.",
                      "Official Home Office register", f"{lab} that sponsor UK work visas", f"Licensed sponsors on the Home Office register, {date}.", body, faq,
                      [("Home", ""), ("UK visa sponsorship companies", "uk-visa-sponsors.html"), (lab, fname)], meta["updated"])
         open(fname, "w", encoding="utf-8", newline="\n").write(out)
@@ -355,8 +360,8 @@ def build_uk(sitemap):
             (f"Which kinds of employers sponsor visas in {short}?", (f"Going by registered names, the largest group among A-rated Skilled Worker sponsors in {short} is {top_group[0].lower()}, with {num(top_group[1])} organisations. " if top_group else "") + "The list also covers many small and medium businesses in other sectors."),
             ("Why can I not find a company I know?", "The register uses legal names, not brand names, and the town is the one the organisation registered with, often its head office. Search the full register by name to check."),
         ]
-        out = render(sh, fname, f"Visa Sponsorship Companies in {short}: {num(n)} Licensed Sponsors",
-                     f"{num(n)} employers in {short} are licensed to sponsor UK work visas. See them by sector and route, from the Home Office register dated {date}.",
+        out = render(sh, fname, f"Visa Sponsorship Companies in {short} ({YEAR}): List of {num(n)}",
+                     f"List of {num(n)} companies in {short} licensed to sponsor UK work visas, grouped by sector and route. Free, from the Home Office register updated {date}.",
                      "Official Home Office register", f"Visa sponsorship companies in {short}", f"Employers in {short} licensed to sponsor a UK work visa.", body, faq,
                      [("Home", ""), ("UK visa sponsorship companies", "uk-visa-sponsors.html"), (short, fname)], meta["updated"])
         open(fname, "w", encoding="utf-8", newline="\n").write(out)
@@ -495,8 +500,8 @@ def build_ca(sitemap):
             ("Does this list show jobs that are open now?", "No. It is a record of past approvals in the last four published quarters. Always check the employer's current vacancies."),
             ("Who pays for the LMIA?", "The employer applies and pays the processing fee. You should not be asked to pay for an LMIA."),
         ]
-        out = render(sh, fname, f"LMIA Employers in {name}: {num(len(lst))} Approved Employers",
-                     f"{num(len(lst))} employers in {name} approved to hire foreign workers with a positive LMIA, with cities and jobs. From the official Canada list.",
+        out = render(sh, fname, f"LMIA Approved Employers in {name} ({YEAR}): List of {num(len(lst))}",
+                     f"List of {num(len(lst))} employers in {name} with a positive LMIA, approved to hire foreign workers. See their jobs and cities, from the official Government of Canada list. Free.",
                      "Official Government of Canada list", f"LMIA employers in {name}", f"Employers in {name} approved to hire foreign workers.", body, faq,
                      [("Home", ""), ("Canada LMIA employers", "canada-lmia-employers.html"), (name, fname)], meta["published"])
         open(fname, "w", encoding="utf-8", newline="\n").write(out)
@@ -523,8 +528,8 @@ def build_ca(sitemap):
             ("Does this list show jobs that are open now?", "No. It is a record of past approvals in the last four published quarters. Always check the employer's current vacancies."),
             ("Who pays for the LMIA?", "The employer applies and pays the processing fee. You should not be asked to pay for an LMIA."),
         ]
-        out = render(sh, fname, f"LMIA Employers in {tname}: {num(len(lst))} Approved Employers",
-                     f"{num(len(lst))} employers in {name} approved to hire foreign workers with a positive LMIA, with the jobs they hired for. From the official Canada list.",
+        out = render(sh, fname, f"LMIA Approved Employers in {tname} ({YEAR}): List of {num(len(lst))}",
+                     f"List of {num(len(lst))} employers in {name} with a positive LMIA, approved to hire foreign workers. See their jobs and cities, from the official Government of Canada list. Free.",
                      "Official Government of Canada list", f"LMIA employers in {tname}", f"Employers in {name}, {pname[code]} approved to hire foreign workers.", body, faq,
                      [("Home", ""), ("Canada LMIA employers", "canada-lmia-employers.html"), (name, fname)], meta["published"])
         open(fname, "w", encoding="utf-8", newline="\n").write(out)
@@ -555,8 +560,8 @@ def build_ca(sitemap):
             ("Does this list show jobs that are open now?", "No. It is a record of past approvals in the last four published quarters. Always check the employer's current vacancies."),
             ("Who pays for the LMIA?", "The employer applies and pays the processing fee. You should not be asked to pay for an LMIA."),
         ]
-        out = render(sh, fname, f"LMIA Employers Hiring {lab.title().replace(' And ', ' and ')} in Canada",
-                     f"{num(len(lst))} employers in Canada approved to hire foreign {lab} with a positive LMIA, by province. From the official government list.",
+        out = render(sh, fname, f"LMIA Jobs in Canada for {lab.title().replace(' And ', ' and ')} ({YEAR})",
+                     f"{num(len(lst))} employers in Canada approved to hire foreign {lab} with a positive LMIA, listed by province. From the official Government of Canada list. Free, no sign-up.",
                      "Official Government of Canada list", f"LMIA employers hiring {lab} in Canada", f"Employers approved to hire foreign {lab}.", body, faq,
                      [("Home", ""), ("Canada LMIA employers", "canada-lmia-employers.html"), (lab.capitalize(), fname)], meta["published"])
         open(fname, "w", encoding="utf-8", newline="\n").write(out)
