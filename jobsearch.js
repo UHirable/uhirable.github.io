@@ -34,7 +34,7 @@
   }
   const vjFilter = () => { const sec = $("#tech-jobs"); if (!sec) return; const q = box.value.toLowerCase().replace(/\s+/g, " ").trim(); let n = 0;
     sec.querySelectorAll(".vj-card").forEach((c) => { const ok = !q || c.textContent.toLowerCase().replace(/\s+/g, " ").includes(q); c.classList.toggle("vj-qh", !ok); if (ok) n++; });
-    sec.style.display = q && !n ? "none" : ""; };
+    sec.style.display = q ? "none" : ""; };
   box.addEventListener("input", vjFilter);
 
   // Place names typed in the search box ("nurse london", "accountant dubai") pick the country automatically.
@@ -83,6 +83,12 @@
     return `<article class="job-card live-card"><div class="job-head"><div class="icon3d ${i % 2 ? "gold" : ""} js-ini">${esc(((String(j.company || j.title || "").trim().match(/[\p{L}\p{N}]/u) || ["•"])[0].toUpperCase()))}</div><div><h3>${esc(j.title)}</h3><p class="meta">${j.source === "whatjobs" ? "via WhatJobs" : esc(j.company || "Company not listed") + (j.source === "lensa" ? " · via Lensa" : "")}</p></div></div><div class="chips">${chips}</div><p class="desc">${esc(desc)}${desc.length >= 170 ? "…" : ""}</p><div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${esc(j.link)}" target="_blank" rel="noopener nofollow${j.source === "lensa" || j.source === "whatjobs" ? " sponsored" : ""}" data-src="${esc(j.source || "")}">Apply</a></div></article>`; };
 
 
+  // VanHack tech jobs that match the search, shown as normal cards among the results
+  const vhHits = (country, phrase) => { const sec = $("#tech-jobs"); if (!sec || !phrase) return [];
+    return [...sec.querySelectorAll(".vj-card")].filter((c) => { const t = c.textContent.toLowerCase().replace(/\s+/g, " "); const m = (c.querySelector(".vj-meta") || {}).textContent || "";
+      return t.includes(phrase) && (country === "all" || m.includes(country)); })
+      .map((c) => { const g = (s) => ((c.querySelector(s) || {}).textContent || "").trim(), a = c.querySelector("a"); const ch = [...c.querySelectorAll(".vj-chip")].slice(0, 3).map((x) => `<span class="chip pc">${esc(x.textContent)}</span>`).join("");
+        return `<article class="job-card live-card"><div class="job-head"><div class="icon3d js-ini">${esc(g("h3").charAt(0).toUpperCase())}</div><div><h3>${esc(g("h3"))}</h3><p class="meta">${esc(g(".vj-meta"))}</p></div></div><div class="chips"><span class="chip gold">${esc(g(".vj-badge"))}</span>${ch}</div><p class="desc">${esc(g(".vj-note"))}</p><div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${esc(a ? a.href : "")}" target="_blank" rel="noopener sponsored" data-src="vanhack">Apply</a></div></article>`; }); };
   async function live(reset, tries = 0) {
     const country = sel.value, raw = box.value.trim();
     const place = findPlace(raw), here = place && place.country === country;
@@ -93,9 +99,10 @@
     const lo = LENSA && (country === "United States" || country === "all");
     if (LENSA) { ownList.style.display = lo ? "none" : ""; if (countEl) countEl.style.display = lo ? "none" : ""; }
     const wantLive = lo || liveCountry || (raw && (country === "United States" || country === "all"));
-    if (!wantLive) { wrap.hidden = true; return; }
+    const vhPhrase = kw.toLowerCase().replace(/\s+/g, " ").trim();
+    if (!wantLive) { const h = reset ? vhHits(country, vhPhrase) : []; if (h.length) { page = 1; shown = h.length; list.innerHTML = h.join(""); wrap.hidden = false; status.hidden = true; more.hidden = true; } else wrap.hidden = true; return; }
     const cc = CC[country] || "us";
-    if (reset) { page = 1; shown = 0; list.innerHTML = ""; }
+    if (reset) { page = 1; shown = 0; list.innerHTML = ""; const h = vhHits(country, vhPhrase); if (h.length) { list.innerHTML = h.join(""); shown = h.length; } }
     const my = ++seq; wrap.hidden = false; status.hidden = false; status.className = "js-bar"; status.textContent = "Loading live jobs in " + (country === "all" ? "the United States" : country) + "…"; more.hidden = true;
     if (ownList.querySelector(".empty")) { ownList.innerHTML = ""; if (countEl) countEl.textContent = ""; }
     try {
