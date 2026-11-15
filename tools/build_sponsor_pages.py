@@ -413,6 +413,14 @@ CA_JOBS = [
     ("painters", "painters and decorators", "painter", ["painters and decorators"]),
     ("it-specialists", "information systems specialists", "it specialist", ["information systems specialists"]),
     ("kitchen-helpers", "kitchen helpers and food counter attendants", "kitchen helper", ["kitchen helpers"]),
+    ("food-processing-workers", "food processing workers", "food processing", ["labourers in food and beverage processing", "fish and seafood plant workers", "labourers in fish and seafood processing"]),
+    ("farm-supervisors", "farm supervisors", "farm supervisor", ["agricultural service contractors and farm supervisors"]),
+    ("butchers", "butchers and meat cutters", "butcher", ["butchers - retail", "industrial butchers", "meat cutters and fishmongers"]),
+    ("retail-managers", "retail and wholesale trade managers", "retail manager", ["retail and wholesale trade managers"]),
+    ("hairstylists", "hairstylists, barbers and estheticians", "hairstylist", ["hairstylists and barbers", "estheticians"]),
+    ("electricians", "electricians", "electrician", ["electricians (except", "industrial electricians", "electrical mechanics"]),
+    ("heavy-equipment-operators", "heavy equipment operators", "heavy equipment operator", ["heavy equipment operators"]),
+    ("roofers", "roofers and shinglers", "roofer", ["roofers and shinglers"]),
 ]
 CA_SRC = "https://open.canada.ca/data/en/dataset/90fed587-1364-4f33-a9ee-208181dc0b97"
 CA_CAP = 150
