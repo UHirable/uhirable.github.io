@@ -358,7 +358,8 @@ textarea { resize: vertical; }
 .empty .icon3d { margin: 0 auto 14px; }
 
 /* Job card actions + job page */
-.jobs-list { align-items: start; }
+.jobs-list { align-items: stretch; }
+.jobs-list > .job-card .job-actions { margin-top: auto; }
 .job-actions { display: flex; flex-wrap: wrap; gap: 12px; }
 .back-link { display: inline-block; color: rgba(255,255,255,.85); font-weight: 600; margin-bottom: 18px; }
 .back-link:hover { color: #fff; }
