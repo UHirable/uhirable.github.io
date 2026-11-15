@@ -33,14 +33,22 @@ def search_box(data, unit, placeholder, jobs=None):
             f'var U="{unit}";'
             'function show(){var v=f(q.value.trim());if(v.length<2){ul.innerHTML="";st.textContent=v?"Type at least 2 letters.":"";return;}'
             'var hit=rows.filter(function(r){return r[2].indexOf(v)>-1;});'
-            'ul.innerHTML=hit.slice(0,100).map(function(r){return "<li>"+e(r[0])+(U?" <i>"+r[1]+" "+U+(r[1]==="1"?"":"s")+"</i>":"")+"</li>";}).join("");'
+            """var L=function(n){var s=n.replace(/\\b(ltd|limited|unlimited company|unlimited|uc|dac|plc|b\\.v\\.|bv|n\\.v\\.|nv|llp|inc)\\.?$/i,"").replace(/[ .,]+$/,"")||n;return '<a class="xs-co" href="https://www.google.com/search?q='+encodeURIComponent(s+" careers")+'" target="_blank" rel="noopener nofollow">'+e(n)+' <span aria-hidden="true">&#8599;</span></a>';};"""
+            'ul.innerHTML=hit.slice(0,100).map(function(r){return "<li>"+L(r[0])+(U?" <i>"+r[1]+" "+U+(r[1]==="1"?"":"s")+"</i>":"")+"</li>";}).join("");'
             'st.textContent=hit.length?(hit.length>100?"Showing 100 of "+hit.length.toLocaleString()+" matches. Type more of the name to narrow it down.":hit.length+(hit.length===1?" match":" matches")):"No company with that name on the list. Try part of the name or the legal name.";}'
             f'function load(){{if(rows)return show();st.textContent="Loading the official list…";fetch("{data}").then(function(r){{return r.text();}}).then(function(s){{rows=s.split("\\n").filter(Boolean).map(function(l){{var p=l.split("\\t");return[p[0],p[1],f(p[0])];}});show();}}).catch(function(){{st.textContent="Could not load the list. Please refresh the page.";}});}}'
             'q.addEventListener("input",function(){clearTimeout(t);t=setTimeout(load,150);});})();</script>\n')
 
 
+def co(name):
+    short = re.sub(r"\b(ltd|limited|unlimited company|unlimited|uc|dac|plc|b\.v\.|bv|n\.v\.|nv|llp|inc)\.?$", "", name, flags=re.I).strip(" .,") or name
+    q = short.replace("&", "%26").replace(" ", "+")
+    return (f'<a class="xs-co" href="https://www.google.com/search?q={esc(q)}+careers" target="_blank" rel="noopener nofollow">{esc(name)} '
+            '<span aria-hidden="true">↗</span></a>')
+
+
 def li(name, extra=""):
-    return f"<li>{esc(name)}" + (f" <i>{esc(extra)}</i>" if extra else "") + "</li>"
+    return f"<li>{co(name)}" + (f" <i>{esc(extra)}</i>" if extra else "") + "</li>"
 
 
 def update_sitemap(pages):
@@ -108,7 +116,7 @@ def build_ie(sm):
                 + switch(IE_HUB) +
                 f'          <h2>The {min(10, n)} that received the most permits</h2>\n'
                 '          <div class="gd-tw spc-tw"><table><thead><tr><th>Employer</th><th>Permits issued</th></tr></thead><tbody>' +
-                "".join(f"<tr><td>{esc(a)}</td><td>{num(b)}</td></tr>" for a, b in g[:10]) + "</tbody></table></div>\n"
+                "".join(f"<tr><td>{co(a)}</td><td>{num(b)}</td></tr>" for a, b in g[:10]) + "</tbody></table></div>\n"
                 '          <p>We group employers by words in their registered name, so this is a practical list and not an official classification. A few names may match by coincidence, and employers that trade under a different name will be missing. <a href="ireland-work-permit-companies.html">Search the full list</a> to check any company.</p>\n'
                 + IE_NOTE +
                 f'          <h2>All {num(n)} employers, by number of permits</h2>\n'
@@ -135,7 +143,7 @@ def build_ie(sm):
             '          <h2>Browse employers by sector</h2>\n          ' + glinks + "\n"
             '          <h2>The 25 employers with the most permits this year</h2>\n'
             '          <div class="gd-tw spc-tw"><table><thead><tr><th>Employer</th><th>Permits issued</th></tr></thead><tbody>' +
-            "".join(f"<tr><td>{esc(a)}</td><td>{num(b)}</td></tr>" for a, b in by_n[:25]) + "</tbody></table></div>\n"
+            "".join(f"<tr><td>{co(a)}</td><td>{num(b)}</td></tr>" for a, b in by_n[:25]) + "</tbody></table></div>\n"
             '          <h2>The two main work permits</h2>\n'
             '          <ul>\n'
             '            <li><b>General Employment Permit.</b> Covers most jobs, unless the job is on the official list of ineligible occupations. It can be granted for a 12-month contract.</li>\n'
@@ -210,7 +218,7 @@ def build_nl(sm):
                 f'          <p class="gd-answer">{num(n)} {esc(phrase)} are recognised sponsors of the IND for work and highly skilled migrants. That means they can hire people from outside the EU through the faster IND procedure. This page lists them all, from the official register updated on {date}.</p>\n'
                 + switch(NL_HUB) +
                 '          <p>We group organisations by words in their registered name, so this is a practical list and not an official classification. A few names may match by coincidence, and companies that trade under a different name will be missing. <a href="netherlands-recognised-sponsors.html">Search the full register</a> to check any company.</p>\n'
-                + f'          <div class="gd-cta" style="margin-top:0"><a class="btn btn-gold" href="jobs.html?country=Netherlands&amp;q={kw}">See live {kw} jobs in the Netherlands</a></div>\n' + NL_NOTE +
+                + NL_NOTE +
                 f'          <h2>All {num(n)} recognised sponsors, A to Z</h2>\n'
                 '          <ul class="spc-list">' + "".join(li(a) for a, _ in g) + "</ul>\n"
                 '          <div class="gd-cta"><a class="btn btn-primary" href="netherlands-recognised-sponsors.html">Search the full register</a><a class="btn btn-soft" href="visa-sponsorship-jobs.html">Visa sponsorship jobs</a></div>\n'
@@ -228,7 +236,7 @@ def build_nl(sm):
         sm[fname] = "2026-11-15"
     body = (GD +
             f'          <p class="gd-answer">To hire you as a highly skilled migrant (kennismigrant), a Dutch employer must be a recognised sponsor of the IND. Search all {num(n_all)} recognised sponsors for work here by company name. The list comes from the official IND register, updated on {date}.</p>\n'
-            + switch(NL_HUB) + search_box("data/nl/all.txt", "", "e.g. ASML, Booking.com, Philips", "jobs.html?country=Netherlands") + NL_NOTE +
+            + switch(NL_HUB) + search_box("data/nl/all.txt", "", "e.g. ASML, Booking.com, Philips") + NL_NOTE +
             '          <h2>Browse recognised sponsors by sector</h2>\n          ' + glinks + "\n"
             '          <h2>Minimum salary for a highly skilled migrant in 2026</h2>\n'
             '          <div class="gd-tw spc-tw"><table><thead><tr><th>Who</th><th>Gross salary per month</th></tr></thead><tbody>'

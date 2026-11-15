@@ -12,7 +12,7 @@ def tcase(s):
     return " ".join(w if (w.lower() in _SMALL and i) or w.isupper() else w[:1].upper() + w[1:] for i, w in enumerate(s.split()))
 
 SITE = "https://uhirable.github.io/"
-CSS_V = "82"
+CSS_V = "83"
 esc = html.escape
 MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 
@@ -710,7 +710,7 @@ def build_us(sitemap):
             '          <p class="sp-switch"><a href="uk-visa-sponsors.html">United Kingdom</a><a href="canada-lmia-employers.html">Canada</a><span class="on">United States</span><a href="ireland-work-permit-companies.html">Ireland</a><a href="netherlands-recognised-sponsors.html">Netherlands</a></p>\n'
             '          <div class="sp-app" id="sp-app" data-set="us">\n            <div class="sp-bar">\n'
             '              <label class="sp-main"><span>Search employers</span><input id="sp-q" type="search" placeholder="e.g. Google, Deloitte, university" autocomplete="off" disabled></label>\n'
-            f'              <label><span>Head office state</span><select id="sp-f"><option value="">All states</option>{opts}</select></label><a class="btn btn-gold sp-live" href="jobs.html?country=United%20States">See live jobs</a>\n            </div>\n'
+            f'              <label><span>Head office state</span><select id="sp-f"><option value="">All states</option>{opts}</select></label>\n            </div>\n'
             '            <div class="sp-chips" id="sp-chips"></div>\n            <p class="sp-status" id="sp-status" aria-live="polite">Loading the list…</p>\n            <div class="sp-grid" id="sp-list"></div>\n'
             '            <p class="sp-morewrap"><button type="button" class="btn btn-soft" id="sp-more" hidden>Show more</button></p>\n          </div>\n'
             '          <ul class="wi-key">\n            <li><span class="chip gold">Applications certified</span> The employer\'s certified H-1B Labor Condition Applications in the period. It includes extensions and transfers, so it is higher than the number of new hires.</li>\n'
@@ -726,7 +726,7 @@ def build_us(sitemap):
            ("How do I check if a company sponsors H-1B visas?", "Type the company name into the search on this page. If it appears, it had H-1B applications certified in the last 12 months, and you can see how many and for which job categories.")] + common_faq
     out = render(sh, HUB, f"H-1B Visa Sponsors List: Search {num(meta['employers'])} US Employers", f"Search {num(meta['employers'])} US employers that filed for H-1B workers in the last 12 months. See filings, job categories and median salaries, from Department of Labor data.",
                  "US Department of Labor data", "H-1B visa sponsors list", "US employers that file for H-1B workers, and how often.", body, faq, [("Home", ""), ("US H-1B sponsors", HUB)], mod)
-    out = out.replace('<script src="cvjobs.js', '<script src="sponsors.js?v=4"></script>\n  <script src="cvjobs.js', 1)
+    out = out.replace('<script src="cvjobs.js', '<script src="sponsors.js?v=5"></script>\n  <script src="cvjobs.js', 1)
     open(HUB, "w", encoding="utf-8", newline="\n").write(out); sitemap[HUB] = mod
     print("US: hub + %d state, %d city and %d job pages" % (len(state_pages), len(city_pages), len(job_pages)))
 

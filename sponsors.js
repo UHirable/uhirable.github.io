@@ -21,23 +21,24 @@
     return cache[file];
   };
   var jobsLink = function (country, q) { return "jobs.html?country=" + encodeURIComponent(country) + "&q=" + encodeURIComponent(q); };
-  var shortName = function (n) { return n.replace(/\b(ltd|limited|plc|llp|inc|incorporated|corp|corporation|t\/a.*)\.?$/i, "").replace(/[.,\s]+$/, "").trim() || n; };
+  var careers = function (n) { return '<a class="sp-co" href="https://www.google.com/search?q=' + encodeURIComponent(shortName(n) + " careers") + '" target="_blank" rel="noopener nofollow" title="Open this company\'s jobs">' + esc(n) + ' <span aria-hidden="true">↗</span></a>'; };
+  var shortName = function (n) { return n.replace(/\b(ltd|limited|plc|llp|llc|inc|incorporated|corp|corporation|t\/a.*)\.?$/i, "").replace(/[.,\s]+$/, "").trim() || n; };
 
   var cardUK = function (f) {
     var routes = f[3] ? f[3].split(",").map(function (i) { return meta.routes[+i]; }) : [];
     var tags = routes.slice(0, 3).map(function (r) { return '<span class="chip">' + esc(r) + "</span>"; }).join("") + (routes.length > 3 ? '<span class="chip">+' + (routes.length - 3) + " more</span>" : "");
     var grade = f[2] === "B" ? '<span class="chip sp-b" title="On a Home Office action plan">B rating</span>' : f[2] === "P" ? '<span class="chip sp-b">Provisional</span>' : '<span class="chip gold">A rating</span>';
-    return '<article class="sp-card"><h3>' + esc(f[0]) + '</h3><p class="sp-where">' + (f[1] ? "📍 " + esc(f[1]) : "Location not listed") + '</p><p class="sp-tags">' + grade + tags +
+    return '<article class="sp-card"><h3>' + careers(f[0]) + '</h3><p class="sp-where">' + (f[1] ? "📍 " + esc(f[1]) : "Location not listed") + '</p><p class="sp-tags">' + grade + tags +
       '</p></article>';
   };
   var cardCA = function (f) {
     var occ = f[4] ? f[4].split("; ") : [];
-    return '<article class="sp-card"><h3>' + esc(f[0]) + '</h3><p class="sp-where">📍 ' + esc(f[1] || "Location not listed") + (f[2] ? ", " + esc(f[2]) : "") + '</p><p class="sp-tags"><span class="chip gold">' + num(f[3]) + (f[3] === "1" ? " position" : " positions") + " approved</span></p>" +
+    return '<article class="sp-card"><h3>' + careers(f[0]) + '</h3><p class="sp-where">📍 ' + esc(f[1] || "Location not listed") + (f[2] ? ", " + esc(f[2]) : "") + '</p><p class="sp-tags"><span class="chip gold">' + num(f[3]) + (f[3] === "1" ? " position" : " positions") + " approved</span></p>" +
       (occ.length ? '<p class="sp-occ">' + occ.map(esc).join(" · ") + "</p>" : "") + '<p class="sp-last">Latest approval: ' + esc(niceQ(f[5])) + '</p></article>';
   };
   var cardUS = function (f) {
     var occ = f[4] ? f[4].split("; ") : [], ws = f[6] ? f[6].split(",") : [];
-    return '<article class="sp-card"><h3>' + esc(f[0]) + '</h3><p class="sp-where">' + (f[1] ? "📍 " + esc(f[1]) + ", " + esc(f[2]) : "Head office not listed") + '</p><p class="sp-tags"><span class="chip gold">' + num(f[3]) + (f[3] === "1" ? " application" : " applications") + " certified</span>" +
+    return '<article class="sp-card"><h3>' + careers(f[0]) + '</h3><p class="sp-where">' + (f[1] ? "📍 " + esc(f[1]) + ", " + esc(f[2]) : "Head office not listed") + '</p><p class="sp-tags"><span class="chip gold">' + num(f[3]) + (f[3] === "1" ? " application" : " applications") + " certified</span>" +
       (f[5] ? '<span class="chip">Median $' + num(f[5]) + "</span>" : "") + "</p>" + (occ.length ? '<p class="sp-occ">' + occ.map(esc).join(" · ") + "</p>" : "") +
       (ws.length ? '<p class="sp-last">Works in: ' + ws.map(function (s) { return esc((meta.state_names || {})[s] || s); }).join(", ") + "</p>" : "") +
       '</article>';
