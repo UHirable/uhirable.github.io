@@ -17,14 +17,15 @@ def switch(on):
 
 
 SEARCH_CSS = ('<style>.xs-q{width:100%;box-sizing:border-box;background:#fff;border:1.5px solid #0112ff;border-radius:16px;padding:14px 18px;font:inherit;font-size:1rem;color:#141a52;margin:6px 0 10px}'
-              '.xs-q:focus{outline:none;box-shadow:0 0 0 3px rgba(1,18,255,.15)}.xs-st{font-weight:700;color:#5b6290;margin:0 0 8px}</style>\n')
+              '.xs-q:focus{outline:none;box-shadow:0 0 0 3px rgba(1,18,255,.15)}.xs-st{font-weight:700;color:#5b6290;margin:0 0 8px}.xs-row{display:flex;gap:10px;align-items:center;margin:6px 0 10px}.xs-row .xs-q{margin:0;flex:1;min-width:0}.xs-live{display:flex;align-items:center;justify-content:center;padding:14px 18px;border-radius:16px;white-space:nowrap}@media(max-width:560px){.xs-row{flex-direction:column;align-items:stretch}}</style>\n')
 
 
-def search_box(data, unit, placeholder):
+def search_box(data, unit, placeholder, jobs=None):
     # unit: "" (no count column) or e.g. "permit"
     return (SEARCH_CSS +
             f'          <label for="xs-q" class="xs-st">Search by company name</label>\n'
-            f'          <input id="xs-q" class="xs-q" type="search" placeholder="{esc(placeholder)}" autocomplete="off">\n'
+            '          <div class="xs-row">' + f'<input id="xs-q" class="xs-q" type="search" placeholder="{esc(placeholder)}" autocomplete="off">' +
+            (f'<a class="btn btn-gold xs-live" href="{jobs}">See live jobs</a>' if jobs else '') + '</div>\n'
             '          <p class="xs-st" id="xs-st" aria-live="polite"></p>\n          <ul class="spc-list" id="xs-list"></ul>\n'
             '          <script>(function(){var q=document.getElementById("xs-q"),st=document.getElementById("xs-st"),ul=document.getElementById("xs-list"),rows=null,t;'
             'var f=function(s){return s.normalize("NFD").replace(/[\\u0300-\\u036f]/g,"").toLowerCase();};'
@@ -202,7 +203,6 @@ def build_nl(sm):
         rx = re.compile(pat, re.I)
         groups.append((sl, lab, phrase, kw, [r for r in rows if rx.search(r[0])]))
     glinks = link_list([(f"{lab} ({num(len(g))})", f"netherlands-recognised-sponsors-{sl}.html") for sl, lab, _, _, g in groups])
-    jb = jobs_block("nl", "", "", "Live jobs in the Netherlands", "Type your job title to see current openings. Check each advert for whether the employer sponsors a visa.", "nl-sponsors")
     for sl, lab, phrase, kw, g in groups:
         fname = f"netherlands-recognised-sponsors-{sl}.html"
         n = len(g)
@@ -210,9 +210,7 @@ def build_nl(sm):
                 f'          <p class="gd-answer">{num(n)} {esc(phrase)} are recognised sponsors of the IND for work and highly skilled migrants. That means they can hire people from outside the EU through the faster IND procedure. This page lists them all, from the official register updated on {date}.</p>\n'
                 + switch(NL_HUB) +
                 '          <p>We group organisations by words in their registered name, so this is a practical list and not an official classification. A few names may match by coincidence, and companies that trade under a different name will be missing. <a href="netherlands-recognised-sponsors.html">Search the full register</a> to check any company.</p>\n'
-                + NL_NOTE + GD_END +
-                jobs_block("nl", kw, "", f"Live {kw} jobs in the Netherlands", "Current openings from our job-search partners. Check each advert for visa sponsorship before you apply.", "nl-sponsors-sector") +
-                GD +
+                + f'          <div class="gd-cta" style="margin-top:0"><a class="btn btn-gold" href="jobs.html?country=Netherlands&amp;q={kw}">See live {kw} jobs in the Netherlands</a></div>\n' + NL_NOTE +
                 f'          <h2>All {num(n)} recognised sponsors, A to Z</h2>\n'
                 '          <ul class="spc-list">' + "".join(li(a) for a, _ in g) + "</ul>\n"
                 '          <div class="gd-cta"><a class="btn btn-primary" href="netherlands-recognised-sponsors.html">Search the full register</a><a class="btn btn-soft" href="visa-sponsorship-jobs.html">Visa sponsorship jobs</a></div>\n'
@@ -230,8 +228,7 @@ def build_nl(sm):
         sm[fname] = "2026-11-15"
     body = (GD +
             f'          <p class="gd-answer">To hire you as a highly skilled migrant (kennismigrant), a Dutch employer must be a recognised sponsor of the IND. Search all {num(n_all)} recognised sponsors for work here by company name. The list comes from the official IND register, updated on {date}.</p>\n'
-            + switch(NL_HUB) + search_box("data/nl/all.txt", "", "e.g. ASML, Booking.com, Philips") + NL_NOTE + GD_END + jb +
-            GD +
+            + switch(NL_HUB) + search_box("data/nl/all.txt", "", "e.g. ASML, Booking.com, Philips", "jobs.html?country=Netherlands") + NL_NOTE +
             '          <h2>Browse recognised sponsors by sector</h2>\n          ' + glinks + "\n"
             '          <h2>Minimum salary for a highly skilled migrant in 2026</h2>\n'
             '          <div class="gd-tw spc-tw"><table><thead><tr><th>Who</th><th>Gross salary per month</th></tr></thead><tbody>'

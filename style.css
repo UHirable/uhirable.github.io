@@ -1449,7 +1449,6 @@ textarea { resize: vertical; }
 /* Sponsor list search (uk-visa-sponsors.html, canada-lmia-employers.html) */
 .sp-app{margin:22px 0 18px;background:#fff;border:1.5px solid #dfe4ff;border-radius:22px;padding:20px;box-shadow:0 14px 40px -24px rgba(20,26,82,.45)}
 .sp-bar{display:grid;grid-template-columns:minmax(0,2.2fr) minmax(0,1fr) minmax(0,1fr);gap:12px;align-items:end}
-.sp-app[data-set="ca"] .sp-bar{grid-template-columns:minmax(0,2.2fr) minmax(0,1fr)}
 .sp-bar label{display:flex;flex-direction:column;gap:6px;font-weight:800;font-size:.88rem;color:#141a52;min-width:0}
 .sp-bar input,.sp-bar select{font:inherit;font-weight:600;font-size:1rem;padding:13px 14px;border-radius:13px;border:1.5px solid #c9cffd;background:#fff;color:#141a52;width:100%;min-width:0}
 .sp-bar input:focus,.sp-bar select:focus{outline:3px solid rgba(1,18,255,.18);border-color:#0112ff}
@@ -1540,3 +1539,5 @@ textarea { resize: vertical; }
 .partners .p-roles em.tg{font-size:.78rem;padding:5px 9px;border-radius:9px}
 
 @media(min-width:561px){.nav .dd-co .dd-m{left:auto!important;right:0!important}.nav .dd:not(.dd-co) .dd-m{right:auto!important;left:0!important}}
+
+.sp-bar .sp-live{display:flex;align-items:center;justify-content:center;padding:13px 16px;border-radius:13px;white-space:nowrap;font-size:1rem}
