@@ -37,6 +37,9 @@
 .vj-date{font-size:.78rem;color:#8a90b8;font-weight:600}
 .vj-how{background:#fff8e1;border:1px solid #ffe29a;border-radius:16px;padding:14px 16px;font-size:.92rem;margin:0 0 18px}
 .vj-card[hidden],.vj-card.vj-qh{display:none}
+.vj-search{width:100%;font:inherit;font-size:1rem;padding:14px 18px;border:2px solid #dde1ff;border-radius:16px;margin:0 0 14px;background:#fff;color:#0d1240}
+.vj-search:focus{outline:none;border-color:#0112ff}
+.vj-empty{font-weight:700;color:#5b6290;margin:0 0 14px}
 </style>
 </head>
 <body>
@@ -67,7 +70,9 @@
       <div class="container">
         <div class="gd" style="max-width:1160px">
           <p class="vj-how"><b>How to apply:</b> the button opens VanHack. Create a free profile, then search the job title to find the role.</p>
+          <input type="search" id="vj-q" class="vj-search" placeholder="Search by job title or skill, e.g. Cloud Native Engineer" aria-label="Search tech jobs">
           <div class="vj-filters" role="group" aria-label="Filter by who can apply"><button type="button" class="vj-f on" data-f="all">All jobs <b>17</b></button><button type="button" class="vj-f" data-f="abroad">Open to applicants abroad <b>1</b></button><button type="button" class="vj-f" data-f="canada">In Canada <b>5</b></button><button type="button" class="vj-f" data-f="latam">Latin America / Americas <b>4</b></button><button type="button" class="vj-f" data-f="us">In the US <b>4</b></button></div>
+          <p class="vj-empty" id="vj-empty" hidden>No jobs match your search.</p>
           <div class="vj-grid">
           <article class="vj-card" data-g="abroad">
             <span class="vj-badge b-abroad">Open to applicants abroad · Visa sponsorship</span>
@@ -212,10 +217,11 @@
     </section>
   </main>
   <script>
-  (function(){var bs=document.querySelectorAll('.vj-f'),cs=document.querySelectorAll('.vj-card');
-  bs.forEach(function(b){b.addEventListener('click',function(){var f=b.getAttribute('data-f');
-  bs.forEach(function(x){x.classList.toggle('on',x===b)});
-  cs.forEach(function(c){c.hidden=!(f==='all'||c.getAttribute('data-g')===f)});});});})();
+  (function(){var bs=document.querySelectorAll('.vj-f'),cs=document.querySelectorAll('.vj-card'),qi=document.getElementById('vj-q'),em=document.getElementById('vj-empty'),f='all';
+  var nz=function(t){return t.toLowerCase().replace(/\s+/g,' ').trim()};
+  var run=function(){var q=qi?nz(qi.value):'',n=0;cs.forEach(function(c){var ok=(f==='all'||c.getAttribute('data-g')===f)&&(!q||nz(c.textContent).indexOf(q)>-1);c.hidden=!ok;if(ok)n++});if(em)em.hidden=n>0;};
+  bs.forEach(function(b){b.addEventListener('click',function(){f=b.getAttribute('data-f');bs.forEach(function(x){x.classList.toggle('on',x===b)});run();});});
+  if(qi)qi.addEventListener('input',run);})();
   </script>
 
   <footer class="footer f1">

@@ -83,6 +83,9 @@
 .vj-date{font-size:.78rem;color:#8a90b8;font-weight:600}
 .vj-how{background:#fff8e1;border:1px solid #ffe29a;border-radius:16px;padding:14px 16px;font-size:.92rem;margin:0 0 18px}
 .vj-card[hidden],.vj-card.vj-qh{display:none}
+.vj-search{width:100%;font:inherit;font-size:1rem;padding:14px 18px;border:2px solid #dde1ff;border-radius:16px;margin:0 0 14px;background:#fff;color:#0d1240}
+.vj-search:focus{outline:none;border-color:#0112ff}
+.vj-empty{font-weight:700;color:#5b6290;margin:0 0 14px}
 </style><h2>Tech jobs in Canada, the US and Latin America</h2><p>Software and tech roles listed on VanHack. Check the coloured label to see who can apply.</p><p class="vj-how"><b>How to apply:</b> the button opens VanHack. Create a free profile, then search the job title to find the role.</p><div class="vj-filters" role="group" aria-label="Filter by who can apply"><button type="button" class="vj-f on" data-f="all">All jobs <b>17</b></button><button type="button" class="vj-f" data-f="abroad">Open to applicants abroad <b>1</b></button><button type="button" class="vj-f" data-f="canada">In Canada <b>5</b></button><button type="button" class="vj-f" data-f="latam">Latin America / Americas <b>4</b></button><button type="button" class="vj-f" data-f="us">In the US <b>4</b></button></div><div class="vj-grid">
           <article class="vj-card" data-g="abroad">
             <span class="vj-badge b-abroad">Open to applicants abroad · Visa sponsorship</span>
@@ -221,10 +224,11 @@
             <div class="vj-foot"><span class="vj-date">Posted Oct 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
           </article>
 </div></section><script>
-  (function(){var bs=document.querySelectorAll('.vj-f'),cs=document.querySelectorAll('.vj-card');
-  bs.forEach(function(b){b.addEventListener('click',function(){var f=b.getAttribute('data-f');
-  bs.forEach(function(x){x.classList.toggle('on',x===b)});
-  cs.forEach(function(c){c.hidden=!(f==='all'||c.getAttribute('data-g')===f)});});});})();
+  (function(){var bs=document.querySelectorAll('.vj-f'),cs=document.querySelectorAll('.vj-card'),qi=document.getElementById('vj-q'),em=document.getElementById('vj-empty'),f='all';
+  var nz=function(t){return t.toLowerCase().replace(/\s+/g,' ').trim()};
+  var run=function(){var q=qi?nz(qi.value):'',n=0;cs.forEach(function(c){var ok=(f==='all'||c.getAttribute('data-g')===f)&&(!q||nz(c.textContent).indexOf(q)>-1);c.hidden=!ok;if(ok)n++});if(em)em.hidden=n>0;};
+  bs.forEach(function(b){b.addEventListener('click',function(){f=b.getAttribute('data-f');bs.forEach(function(x){x.classList.toggle('on',x===b)});run();});});
+  if(qi)qi.addEventListener('input',run);})();
   </script><!--/vh-jobs-->
         <section class="browse-c" id="browse"><h2>Browse jobs by country</h2><p>Pick a country, then a job title: typical salary, what employers ask for, and live openings.</p>
           <div class="pj-grid"><a class="pj-tile" href="uae.html"><b>United Arab Emirates</b><span>Jobs &amp; Pay Guides</span></a><a class="pj-tile" href="saudi-arabia.html"><b>Saudi Arabia</b><span>Jobs &amp; Pay Guides</span></a><a class="pj-tile" href="qatar.html"><b>Qatar</b><span>Jobs &amp; Pay Guides</span></a><a class="pj-tile" href="kuwait.html"><b>Kuwait</b><span>Jobs &amp; Pay Guides</span></a><a class="pj-tile" href="bahrain.html"><b>Bahrain</b><span>Jobs &amp; Pay Guides</span></a><a class="pj-tile" href="egypt.html"><b>Egypt</b><span>Jobs &amp; Pay Guides</span></a><a class="pj-tile" href="usa.html"><b>United States</b><span>Jobs &amp; Pay Guides</span></a><a class="pj-tile" href="london.html"><b>United Kingdom (London)</b><span>Jobs &amp; Pay Guides</span></a></div>
