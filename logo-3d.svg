@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 571 217" width="2284" height="868"><defs>
+<linearGradient id="gr" x1="0" y1="0" x2="0.25" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#dfe8ff"/></linearGradient>
+<filter id="bevel" filterUnits="userSpaceOnUse" x="-60" y="-60" width="700" height="500" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceAlpha" stdDeviation="1.1" result="b"/>
+<feSpecularLighting in="b" surfaceScale="2.4" specularConstant="0.55" specularExponent="16" lighting-color="#ffffff" result="sp"><feDistantLight azimuth="225" elevation="55"/></feSpecularLighting>
+<feComposite in="sp" in2="SourceAlpha" operator="in" result="spin"/>
+<feComposite in="SourceGraphic" in2="spin" operator="arithmetic" k1="0" k2="1" k3="1" k4="0" result="lit"/>
+<feOffset in="SourceAlpha" dx="0.7" dy="1.6" result="o"/><feGaussianBlur in="o" stdDeviation="1.4" result="ob"/>
+<feFlood flood-color="#00086e" flood-opacity="0.22"/><feComposite in2="ob" operator="in" result="shd"/>
+<feMerge><feMergeNode in="shd"/><feMergeNode in="lit"/></feMerge>
+</filter>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="5"/></filter>
+<mask id="outside" maskUnits="userSpaceOnUse" x="-50" y="-50" width="500" height="500"><rect x="-50" y="-50" width="500" height="500" fill="#fff"/><circle cx="164.5" cy="164.5" r="164.5" fill="#000"/></mask>
+</defs><g transform="translate(26 26) scale(0.5015197568389058)" mask="url(#outside)" opacity=".32"><g fill="#fff" filter="url(#glow)"><path fill-rule="evenodd" d="M0,164.5 a164.5,164.5 0 1,0 329,0 a164.5,164.5 0 1,0 -329,0 Z M24.30000000000001,164.5 a140.2,140.2 0 1,1 280.4,0 a140.2,140.2 0 1,1 -280.4,0 Z"/></g></g><g transform="translate(26 26) scale(0.5015197568389058)" filter="url(#bevel)"><g fill="url(#gr)" stroke="url(#gr)" stroke-width="3.2" stroke-linejoin="round"><path fill-rule="evenodd" d="M0,164.5 a164.5,164.5 0 1,0 329,0 a164.5,164.5 0 1,0 -329,0 Z M24.30000000000001,164.5 a140.2,140.2 0 1,1 280.4,0 a140.2,140.2 0 1,1 -280.4,0 Z"/><g transform="rotate(0 164.5 164.5)"><polygon points="164.5,59.5 156.5,33.0 155.6,22.69999999999999 173.4,22.69999999999999 172.5,33.0" stroke="#fff" stroke-width="1.4" stroke-linejoin="round"/></g><g transform="rotate(90 164.5 164.5)"><polygon points="164.5,59.5 156.5,33.0 155.6,22.69999999999999 173.4,22.69999999999999 172.5,33.0" stroke="#fff" stroke-width="1.4" stroke-linejoin="round"/></g><g transform="rotate(180 164.5 164.5)"><polygon points="164.5,59.5 156.5,33.0 155.6,22.69999999999999 173.4,22.69999999999999 172.5,33.0" stroke="#fff" stroke-width="1.4" stroke-linejoin="round"/></g><g transform="rotate(270 164.5 164.5)"><polygon points="164.5,59.5 156.5,33.0 155.6,22.69999999999999 173.4,22.69999999999999 172.5,33.0" stroke="#fff" stroke-width="1.4" stroke-linejoin="round"/></g><path d="M82,126.0 Q82,121 87.0,121 L95.0,121 Q100,121 100,126.0 L100,172 A20.5,22 0 0 0 141,172 L141,126.0 Q141,121 146.0,121 L155.0,121 Q160,121 160,126.0 L160,172 A39,39 0 0 1 82,172 Z"/><path d="M173,126.0 Q173,121 178.0,121 L186.0,121 Q191,121 191,126.0 L191,204.0 Q191,209 186.0,209 L178.0,209 Q173,209 173,204.0 Z"/><path d="M230,126.0 Q230,121 235.0,121 L243.0,121 Q248,121 248,126.0 L248,204.0 Q248,209 243.0,209 L235.0,209 Q230,209 230,204.0 Z"/><rect x="189" y="156" width="43" height="18"/></g></g><g transform="translate(205 85.0)" filter="url(#bevel)"><g fill="none" stroke="url(#gr)" stroke-width="9.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M4.75,4.75 V26.5 A15.75,15.75 0 0 0 36.25,26.5 V4.75"/>
+<path d="M67.75,4.75 V42.25 M98.25,4.75 V42.25 M78.75,23.5 H98.25 M117.5,4.75 V42.25"/>
+
+<path d="M135.75,4.75 V42.25 M135.75,4.75 H151 A9.375,9.375 0 0 1 151,23.5 H135.75 M151,23.5 L164.25,42.25"/>
+<path d="M179.75,42.25 L198.5,4.75 L217.25,42.25 M189.2,32.5 H207.8"/>
+<path d="M233.75,4.75 V42.25 M233.75,4.75 H255 A9.375,9.375 0 0 1 255,23.5 H233.75 M233.75,23.5 H255 A9.375,9.375 0 0 1 255,42.25 H233.75"/>
+<path d="M281.75,4.75 V42.25 H303.25"/>
+<path d="M321.75,4.75 V42.25 M321.75,4.75 H346.25 M321.75,23.5 H343 M321.75,42.25 H346.25"/>
+</g></g></svg>
