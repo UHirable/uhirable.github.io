@@ -1538,3 +1538,5 @@ textarea { resize: vertical; }
 
 .tg-lang{--t1:#eef5ff;--t2:#d3e5ff;--fg:#0b5596;--sh:#a3c6ee;font-style:normal}
 .partners .p-roles em.tg{font-size:.78rem;padding:5px 9px;border-radius:9px}
+
+@media(min-width:561px){.nav .dd-co .dd-m{left:auto!important;right:0!important}.nav .dd:not(.dd-co) .dd-m{right:auto!important;left:0!important}}

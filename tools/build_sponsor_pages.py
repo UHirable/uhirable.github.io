@@ -7,7 +7,7 @@
 import collections, glob, html, json, os, re, sys, unicodedata
 
 SITE = "https://uhirable.github.io/"
-CSS_V = "80"
+CSS_V = "81"
 esc = html.escape
 MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 
