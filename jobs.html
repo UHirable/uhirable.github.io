@@ -63,6 +63,167 @@
         <p id="jobs-count" class="count"></p>
         <div id="jobs-list" class="jobs-list"></div>
         <div id="live-wrap" hidden><div class="js-bar" id="live-status"></div><div id="live-list" class="jobs-list"></div><div class="js-more" id="live-more" hidden><button class="btn btn-soft" id="live-next">Load more jobs</button></div><p class="js-src">Live results from our job-search partners. Each link opens the original job ad on the employer's or job site's page.</p></div>
+        <!--vh-jobs--><section class="vj-sec" id="tech-jobs" style="margin:34px 0 10px"><style>
+.vj-filters{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}
+.vj-f{border:1.5px solid #dde1ff;background:#fff;color:#0d1240;font:inherit;font-weight:700;font-size:.88rem;padding:8px 14px;border-radius:999px;cursor:pointer}
+.vj-f b{margin-left:4px;color:#0112ff}.vj-f.on{background:#0112ff;border-color:#0112ff;color:#fff}.vj-f.on b{color:#ffc93c}
+.vj-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,340px),1fr));gap:16px}
+.vj-card{background:#fff;border:1px solid #dde1ff;border-radius:20px;padding:18px 18px 16px;display:flex;flex-direction:column;gap:8px;box-shadow:0 10px 28px -22px rgba(5,11,63,.45)}
+.vj-card h3{margin:2px 0 0;font-size:1.08rem;line-height:1.3}
+.vj-meta{margin:0;color:#5b6290;font-size:.88rem;font-weight:600}
+.vj-sal{margin:0;font-weight:800;color:#0b7a46;font-size:.92rem}
+.vj-note{margin:0;font-size:.9rem;line-height:1.5;color:#0d1240}
+.vj-badge{align-self:flex-start;font-size:.78rem;font-weight:800;padding:5px 11px;border-radius:999px;line-height:1.3}
+.b-abroad{background:#0b7a46;color:#fff}.b-reloc{background:#d8f3ef;color:#0b5c52}.b-canada{background:#ffe3e6;color:#a3161b}
+.b-latam{background:#efe6ff;color:#5b2bb3}.b-us{background:#e3ecff;color:#1a3fa8}.b-none{background:#eef0f4;color:#4a5068}
+.vj-chips{display:flex;flex-wrap:wrap;gap:6px}.vj-chip{font-size:.75rem;font-weight:700;background:#eef0ff;color:#0112ff;padding:3px 9px;border-radius:8px}
+.vj-foot{margin-top:auto;padding-top:8px;display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.vj-date{font-size:.78rem;color:#8a90b8;font-weight:600}
+.vj-how{background:#fff8e1;border:1px solid #ffe29a;border-radius:16px;padding:14px 16px;font-size:.92rem;margin:0 0 18px}
+.vj-card[hidden]{display:none}
+</style><h2>Tech jobs in Canada, the US and Latin America</h2><p>Software and tech roles listed on VanHack. Check the coloured label to see who can apply.</p><p class="vj-how"><b>How to apply:</b> the button opens VanHack. Create a free profile, then search the job title to find the role.</p><div class="vj-filters" role="group" aria-label="Filter by who can apply"><button type="button" class="vj-f on" data-f="all">All jobs <b>17</b></button><button type="button" class="vj-f" data-f="abroad">Open to applicants abroad <b>1</b></button><button type="button" class="vj-f" data-f="canada">In Canada <b>5</b></button><button type="button" class="vj-f" data-f="latam">Latin America / Americas <b>4</b></button><button type="button" class="vj-f" data-f="us">In the US <b>4</b></button></div><div class="vj-grid">
+          <article class="vj-card" data-g="abroad">
+            <span class="vj-badge b-abroad">Open to applicants abroad · Visa sponsorship</span>
+            <h3>Senior Full-Stack Software Developer</h3>
+            <p class="vj-meta">Mississauga or Calgary, Canada · Hybrid · 4+ years</p>
+            <p class="vj-note">Power-grid software company. Overseas hires can start remotely while the Canadian work visa is processed, then relocate. Must work hours aligned with Eastern or Mountain Time.</p>
+            <div class="vj-chips"><span class="vj-chip">Java</span><span class="vj-chip">Spring Boot</span><span class="vj-chip">TypeScript</span><span class="vj-chip">React or Angular</span><span class="vj-chip">REST APIs</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Oct 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="canada">
+            <span class="vj-badge b-reloc">Toronto-based or willing to relocate to Toronto</span>
+            <h3>Engineering Lead</h3>
+            <p class="vj-meta">Toronto, Canada · On-site · 10+ years</p><p class="vj-sal">CAD 180,000–220,000</p>
+            <p class="vj-note">Fintech company. Lead a team of about 10 engineers and stay hands-on with code and architecture.</p>
+            <div class="vj-chips"><span class="vj-chip">Ruby on Rails</span><span class="vj-chip">AWS</span><span class="vj-chip">PostgreSQL</span><span class="vj-chip">AI coding agents</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Nov 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="canada">
+            <span class="vj-badge b-canada">Canada only · Canadian work authorization</span>
+            <h3>Full-Stack Developer</h3>
+            <p class="vj-meta">Victoria, BC, Canada · On-site · 2+ years</p>
+            <p class="vj-note">Data and mapping software company. Open only to people already living in Canada, on-site five days a week.</p>
+            <div class="vj-chips"><span class="vj-chip">React</span><span class="vj-chip">TypeScript</span><span class="vj-chip">APIs</span><span class="vj-chip">Testing</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Nov 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="canada">
+            <span class="vj-badge b-canada">Canada only</span>
+            <h3>Senior Security Engineer (Offensive Security)</h3>
+            <p class="vj-meta">Toronto, Canada · On-site · 3+ years</p>
+            <p class="vj-note">Event-technology company. Red teaming, penetration testing and supply-chain security.</p>
+            <div class="vj-chips"><span class="vj-chip">Python</span><span class="vj-chip">OWASP</span><span class="vj-chip">Penetration testing</span><span class="vj-chip">AWS</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Oct 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="canada">
+            <span class="vj-badge b-canada">Canada only</span>
+            <h3>QA Support Engineer</h3>
+            <p class="vj-meta">Toronto, Canada · On-site · 1+ years</p><p class="vj-sal">CAD 55,000–65,000</p>
+            <p class="vj-note">Event-technology company. Manual and automated testing, plus support for escalated customer issues.</p>
+            <div class="vj-chips"><span class="vj-chip">Selenium</span><span class="vj-chip">Cypress</span><span class="vj-chip">Automated testing</span><span class="vj-chip">Git</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Oct 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="canada">
+            <span class="vj-badge b-canada">Canada only · Must live in or move to Vancouver</span>
+            <h3>Engineering Operations Leader</h3>
+            <p class="vj-meta">Vancouver, Canada · Remote, some in-person meetings · 6+ years</p>
+            <p class="vj-note">Games company. Lead a small team and direct AI coding agents; Roblox experience strongly preferred.</p>
+            <div class="vj-chips"><span class="vj-chip">React</span><span class="vj-chip">Luau / Lua</span><span class="vj-chip">Roblox</span><span class="vj-chip">AI agents</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Oct 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="latam">
+            <span class="vj-badge b-latam">Latin America only · You must live in Latin America</span>
+            <h3>Staff Back End Engineer (Data Platform)</h3>
+            <p class="vj-meta">Company in Toronto, Canada · Remote from Latin America · 8+ years</p>
+            <p class="vj-note">Series B sales-compensation software company. Evolve a Spark-based data platform.</p>
+            <div class="vj-chips"><span class="vj-chip">Python</span><span class="vj-chip">Apache Spark</span><span class="vj-chip">SQL</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Sep 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="latam">
+            <span class="vj-badge b-latam">Latin America only · You must live in Latin America</span>
+            <h3>Fullstack Staff Engineer (React.js / Python)</h3>
+            <p class="vj-meta">Company in Toronto, Canada · Remote from Latin America · 8+ years</p>
+            <p class="vj-note">Series B sales-compensation software company. Build new product features end to end.</p>
+            <div class="vj-chips"><span class="vj-chip">React</span><span class="vj-chip">Python</span><span class="vj-chip">AWS</span><span class="vj-chip">TypeScript</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Sep 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="latam">
+            <span class="vj-badge b-latam">North, Central or South America only</span>
+            <h3>Senior Full Stack Developer</h3>
+            <p class="vj-meta">Company in Montreal, Canada · Fully remote · 8+ years</p>
+            <p class="vj-note">Build AI-powered product features, from prototype to production.</p>
+            <div class="vj-chips"><span class="vj-chip">Node.js</span><span class="vj-chip">TypeScript</span><span class="vj-chip">React</span><span class="vj-chip">MongoDB</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Jun 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="latam">
+            <span class="vj-badge b-latam">North, Central or South America only</span>
+            <h3>Senior Software Developer · Talent Spotlight</h3>
+            <p class="vj-meta">VanHack · Anywhere in the Americas · Fully remote · 7+ years</p>
+            <p class="vj-note">Not a single job: VanHack shares your profile with companies hiring senior developers. The program page says you must be located in North America.</p>
+            <div class="vj-chips"><span class="vj-chip">Any major stack</span><span class="vj-chip">Intro video required</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Oct 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="none">
+            <span class="vj-badge b-none">Candidate location not stated</span>
+            <h3>Staff Software Engineer</h3>
+            <p class="vj-meta">Loop · Toronto, Canada · Hybrid · 8+ years</p>
+            <p class="vj-note">Cross-border business banking startup. Architect the core ledger and money-movement systems.</p>
+            <div class="vj-chips"><span class="vj-chip">Java</span><span class="vj-chip">Microservices</span><span class="vj-chip">Kafka</span><span class="vj-chip">PostgreSQL</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Oct 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="none">
+            <span class="vj-badge b-none">Candidate location not stated</span>
+            <h3>Data Engineer (3–4 month contract, part-time)</h3>
+            <p class="vj-meta">Québec City, Canada · Fully remote · 4+ years</p>
+            <p class="vj-note">Small data team. Build ETL workflows and data models that connect operational systems. Start within a week.</p>
+            <div class="vj-chips"><span class="vj-chip">SQL</span><span class="vj-chip">ETL</span><span class="vj-chip">APIs</span><span class="vj-chip">Data modeling</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Oct 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="none">
+            <span class="vj-badge b-none">Candidate location not stated</span>
+            <h3>Senior Full Stack Engineer · Java &amp; Kubernetes</h3>
+            <p class="vj-meta">Recruitics · New York, United States · Fully remote · 7+ years</p>
+            <p class="vj-note">Recruitment-marketing platform. Full stack with a strong Kubernetes and data engineering focus.</p>
+            <div class="vj-chips"><span class="vj-chip">Java</span><span class="vj-chip">Kotlin</span><span class="vj-chip">Spring Boot</span><span class="vj-chip">Kubernetes</span><span class="vj-chip">TypeScript</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Oct 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="us">
+            <span class="vj-badge b-us">US only · No visa sponsorship</span>
+            <h3>Director of AI Infrastructure &amp; Platform Operations</h3>
+            <p class="vj-meta">Seattle, United States · Hybrid · 3+ years</p>
+            <p class="vj-note">AI cloud company. Mandarin is required to work with a team in Taiwan.</p>
+            <div class="vj-chips"><span class="vj-chip">Kubernetes</span><span class="vj-chip">MLOps</span><span class="vj-chip">DevOps</span><span class="vj-chip">Engineering leadership</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Nov 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="us">
+            <span class="vj-badge b-us">US only · Seattle or San Francisco Bay Area</span>
+            <h3>Senior Product Manager · AI &amp; AI Infrastructure</h3>
+            <p class="vj-meta">Seattle, United States · Hybrid · 5+ years</p>
+            <p class="vj-note">AI cloud company. Own the roadmap for AI and cloud infrastructure products.</p>
+            <div class="vj-chips"><span class="vj-chip">Product management</span><span class="vj-chip">Cloud infrastructure</span><span class="vj-chip">AI</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Oct 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="us">
+            <span class="vj-badge b-us">US only · No visa sponsorship</span>
+            <h3>Senior/Staff Backend Engineer · Distributed Systems</h3>
+            <p class="vj-meta">Palo Alto, United States · Hybrid · 7+ years</p>
+            <p class="vj-note">AI cloud company. Build the systems that schedule and share GPU clusters.</p>
+            <div class="vj-chips"><span class="vj-chip">Go</span><span class="vj-chip">Python</span><span class="vj-chip">Kubernetes</span><span class="vj-chip">GPU</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Oct 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+          <article class="vj-card" data-g="us">
+            <span class="vj-badge b-us">US only · No visa sponsorship</span>
+            <h3>Cloud Native Engineer</h3>
+            <p class="vj-meta">Palo Alto, United States · Hybrid · 5+ years</p>
+            <p class="vj-note">AI cloud company. Go microservices on Kubernetes. Upper-intermediate Chinese is required.</p>
+            <div class="vj-chips"><span class="vj-chip">Go</span><span class="vj-chip">Kubernetes</span><span class="vj-chip">Docker</span><span class="vj-chip">Python</span></div>
+            <div class="vj-foot"><span class="vj-date">Posted Oct 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
+          </article>
+</div></section><script>
+  (function(){var bs=document.querySelectorAll('.vj-f'),cs=document.querySelectorAll('.vj-card');
+  bs.forEach(function(b){b.addEventListener('click',function(){var f=b.getAttribute('data-f');
+  bs.forEach(function(x){x.classList.toggle('on',x===b)});
+  cs.forEach(function(c){c.hidden=!(f==='all'||c.getAttribute('data-g')===f)});});});})();
+  </script><!--/vh-jobs-->
         <section class="browse-c" id="browse"><h2>Browse jobs by country</h2><p>Pick a country, then a job title: typical salary, what employers ask for, and live openings.</p>
           <div class="pj-grid"><a class="pj-tile" href="uae.html"><b>United Arab Emirates</b><span>Jobs &amp; Pay Guides</span></a><a class="pj-tile" href="saudi-arabia.html"><b>Saudi Arabia</b><span>Jobs &amp; Pay Guides</span></a><a class="pj-tile" href="qatar.html"><b>Qatar</b><span>Jobs &amp; Pay Guides</span></a><a class="pj-tile" href="kuwait.html"><b>Kuwait</b><span>Jobs &amp; Pay Guides</span></a><a class="pj-tile" href="bahrain.html"><b>Bahrain</b><span>Jobs &amp; Pay Guides</span></a><a class="pj-tile" href="egypt.html"><b>Egypt</b><span>Jobs &amp; Pay Guides</span></a><a class="pj-tile" href="usa.html"><b>United States</b><span>Jobs &amp; Pay Guides</span></a><a class="pj-tile" href="london.html"><b>United Kingdom (London)</b><span>Jobs &amp; Pay Guides</span></a></div>
         </section>
