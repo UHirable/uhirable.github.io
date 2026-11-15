@@ -45,7 +45,9 @@
         <p>Pick a country, type a role. Our own openings come first, then live jobs from hundreds of job sites. Every card opens the original ad.</p>
         <div class="filters jh-filters">
           <label>Country
-            <select id="country-filter">
+            <input type="text" id="country-input" list="country-list" placeholder="Type or pick a country" autocomplete="off">
+            <datalist id="country-list"></datalist>
+            <select id="country-filter" hidden aria-hidden="true" tabindex="-1">
               <option value="all">🌍 All countries</option>
             </select>
           </label>
@@ -80,7 +82,7 @@
 .vj-foot{margin-top:auto;padding-top:8px;display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
 .vj-date{font-size:.78rem;color:#8a90b8;font-weight:600}
 .vj-how{background:#fff8e1;border:1px solid #ffe29a;border-radius:16px;padding:14px 16px;font-size:.92rem;margin:0 0 18px}
-.vj-card[hidden]{display:none}
+.vj-card[hidden],.vj-card.vj-qh{display:none}
 </style><h2>Tech jobs in Canada, the US and Latin America</h2><p>Software and tech roles listed on VanHack. Check the coloured label to see who can apply.</p><p class="vj-how"><b>How to apply:</b> the button opens VanHack. Create a free profile, then search the job title to find the role.</p><div class="vj-filters" role="group" aria-label="Filter by who can apply"><button type="button" class="vj-f on" data-f="all">All jobs <b>17</b></button><button type="button" class="vj-f" data-f="abroad">Open to applicants abroad <b>1</b></button><button type="button" class="vj-f" data-f="canada">In Canada <b>5</b></button><button type="button" class="vj-f" data-f="latam">Latin America / Americas <b>4</b></button><button type="button" class="vj-f" data-f="us">In the US <b>4</b></button></div><div class="vj-grid">
           <article class="vj-card" data-g="abroad">
             <span class="vj-badge b-abroad">Open to applicants abroad · Visa sponsorship</span>
@@ -248,11 +250,11 @@
 
 
   <script src="jobs.js?v=43"></script>
-  <script src="script.js?v=49"></script>
+  <script src="script.js?v=50"></script>
   <script src="lib-geo.js?v=1" defer></script>
   <script src="globe.js?v=2" defer></script>
   <script src="wjfeed.js?v=4"></script>
-  <script src="jobsearch.js?v=12"></script>
+  <script src="jobsearch.js?v=13"></script>
   <script data-goatcounter="https://uhirable.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

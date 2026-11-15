@@ -115,7 +115,7 @@ const arr = (v) => (Array.isArray(v) ? v : v ? [v] : []);
 const escapeHTML = (s = "") =>
   String(s).replace(/[&<>"']/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]));
 const WORLDWIDE = "Worldwide";
-const jobCountries = (j) => arr(j.countries || j.locations || j.country);
+const jobCountries = (j) => arr(j.countries || j.locations || j.country).map((c) => (c === "UAE" ? "United Arab Emirates" : c));
 const jobId = (j) => j.id || String(j.title).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const jobPage = (j) => UA_BASE + (j.page || `job.html?id=${encodeURIComponent(jobId(j))}`);
 const jobApply = (j) => {
