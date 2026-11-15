@@ -721,7 +721,8 @@ def build_us(sitemap):
             '\n          <h2>Browse by city</h2>\n          ' + link_list([("%s, %s" % (c, st), f) for c, st, f, _, _ in city_pages]) +
             '\n          <h2>Browse by job</h2>\n          ' + link_list([(j, f) for j, f, _, _, _ in job_pages]) + '<!--/sp-browse-->\n'
             f'          <h2>The 50 largest H-1B sponsors in the US</h2>\n          {us_table(top[:50])}\n' + steps +
-            '          {FAQ}\n' + US_FOOT + GD_END)
+            '          {FAQ}\n' + US_FOOT + GD_END +
+            jobs_block("us", "", "", "Live jobs in the United States", "Type your job title to see current US openings. Check each advert for visa sponsorship before you apply.", "us-h1b"))
     faq = [("Which companies sponsor the most H-1B visas?", f"By certified Labor Condition Applications from {period}, the largest are {top[0][0]}, {top[1][0]} and {top[2][0]}."),
            ("How do I check if a company sponsors H-1B visas?", "Type the company name into the search on this page. If it appears, it had H-1B applications certified in the last 12 months, and you can see how many and for which job categories.")] + common_faq
     out = render(sh, HUB, f"H-1B Visa Sponsors List: Search {num(meta['employers'])} US Employers", f"Search {num(meta['employers'])} US employers that filed for H-1B workers in the last 12 months. See filings, job categories and median salaries, from Department of Labor data.",
