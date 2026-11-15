@@ -739,8 +739,7 @@ def _vh_card(title, extra=''):
             '<p style="margin:0;color:#fff;font-size:1rem;line-height:1.55;font-weight:700">VanHack matches tech professionals with Canadian companies that sponsor work permits, and handles the visa process. Free for job seekers.</p></div>'
             f'<a href="{LINK}" target="_blank" rel="noopener sponsored" style="position:relative;white-space:nowrap;background:#ffc93c;color:#0b0b14;font-weight:800;text-decoration:none;padding:13px 22px;border-radius:14px;box-shadow:0 5px 0 #c99a14">Join VanHack</a></div>')
 
-VH_PAGES = {"canada-lmia-employers-software-developers.html": "Developer looking to move to Canada?",
-            "canada-lmia-employers-it-specialists.html": "Tech professional looking to move to Canada?"}
+VH_PAGES = {}  # VanHack card removed from LMIA pages (Nov 2026): no relocation jobs on VanHack
 def vh_block(fname):
     return ("          " + _vh_card(VH_PAGES[fname], "margin:0 0 26px;") + "\n") if fname in VH_PAGES else ""
 
