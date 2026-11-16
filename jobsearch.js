@@ -36,9 +36,16 @@
   }
   const vjFilter = () => { const sec = $("#tech-jobs"); if (!sec) return; const q = box.value.toLowerCase().replace(/\s+/g, " ").trim(); let n = 0;
     sec.querySelectorAll(".vj-card").forEach((c) => { const ok = !q || c.textContent.toLowerCase().replace(/\s+/g, " ").includes(q); c.classList.toggle("vj-qh", !ok); if (ok) n++; });
-    // the VanHack section is only for Canada, the US and Latin America (and "All countries")
-    const VH = ["all", "Worldwide", "United States", "Canada", "Brazil", "Mexico", "Argentina"];
-    sec.style.display = q || !VH.includes(sel.value) ? "none" : ""; };
+    // the VanHack section is only for Canada, the US and Latin America (and "All countries");
+    // with one country picked it shows only that country's jobs, without the filter buttons
+    const G = { "Canada": ["canada", "abroad"], "United States": ["us"], "Brazil": ["latam"], "Mexico": ["latam"], "Argentina": ["latam"] };
+    const T = { "Canada": "Tech jobs in Canada", "United States": "Tech jobs in the US", "Brazil": "Tech jobs open to Latin America", "Mexico": "Tech jobs open to Latin America", "Argentina": "Tech jobs open to Latin America" };
+    const all = sel.value === "all" || sel.value === "Worldwide", g = G[sel.value];
+    const h2 = sec.querySelector("h2"); if (h2) { if (!h2.dataset.t) h2.dataset.t = h2.textContent; h2.textContent = g ? T[sel.value] : h2.dataset.t; }
+    const fl = sec.querySelector(".vj-filters"); if (fl) fl.style.display = g ? "none" : "";
+    if (g) { const ab = sec.querySelector('.vj-f[data-f="all"]'); if (ab && !ab.classList.contains("on")) ab.click(); }
+    sec.querySelectorAll(".vj-card").forEach((c) => { c.style.display = g && !g.includes(c.getAttribute("data-g")) ? "none" : ""; });
+    sec.style.display = q || !(all || g) ? "none" : ""; };
   box.addEventListener("input", vjFilter);
   sel.addEventListener("change", vjFilter);
 
