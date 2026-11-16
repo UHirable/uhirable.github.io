@@ -39,7 +39,7 @@
     const wj = window.UHWJF && UHWJF.has(c) ? UHWJF.fetch(c, kw, L || null, 1).catch(() => ({ jobs: [] })) : Promise.resolve({ jobs: [] });
     const [j, w, l] = await Promise.all([jooble, wj, lensa]);
     // one card from each available source in turn, paying partners first: Lensa, WhatJobs, Jooble
-    return { jobs: rr(l.jobs || [], w.jobs || [], (j.jobs || []).filter((x) => !uhBad(x))), total: (j.totalCount || 0) + (l.totalCount || 0) };
+    return { jobs: (w.jobs || []).concat(rr(l.jobs || [], (j.jobs || []).filter((x) => !uhBad(x)))), total: (j.totalCount || 0) + (l.totalCount || 0) };
   }
   async function load(auto) {
     const my = ++seq; const kw = qEl.value.trim(); cc = ccEl.value;

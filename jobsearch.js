@@ -75,7 +75,7 @@
 
   // ?src=lensa (links shared in posts): show Lensa results only, hide our own jobs
   const LENSA = new URLSearchParams(location.search).get("src") === "lensa";
-  let page = 1, shown = 0, total = 0, seq = 0;
+  let page = 1, shown = 0, total = 0, seq = 0, wjPage = 1, wjDone = true;
   const clean = (h) => String(h || "").replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
   const ago = (d) => { const t = Date.parse(d); if (!t) return ""; const days = Math.floor((Date.now() - t) / 864e5); return days <= 0 ? "Today" : days === 1 ? "Yesterday" : days < 30 ? days + " days ago" : ""; };
   if (!window.UHCvPop && !document.querySelector('script[src="cv-popup.js"]')) { const _s = document.createElement("script"); _s.src = "cv-popup.js"; document.head.appendChild(_s); }
@@ -102,38 +102,49 @@
     const vhPhrase = kw.toLowerCase().replace(/\s+/g, " ").trim();
     if (!wantLive) { const h = reset ? vhHits(country, vhPhrase) : []; if (h.length) { page = 1; shown = h.length; list.innerHTML = h.join(""); wrap.hidden = false; status.hidden = true; more.hidden = true; } else wrap.hidden = true; return; }
     const cc = CC[country] || "us";
-    if (reset) { page = 1; shown = 0; list.innerHTML = ""; const h = vhHits(country, vhPhrase); if (h.length) { list.innerHTML = h.join(""); shown = h.length; } }
+    if (reset) { page = 1; wjPage = 1; wjDone = lo || !(window.UHWJF && UHWJF.has(cc)); total = 0; shown = 0; list.innerHTML = ""; const h = vhHits(country, vhPhrase); if (h.length) { list.innerHTML = h.join(""); shown = h.length; } }
     const my = ++seq; wrap.hidden = false; status.hidden = false; status.className = "js-bar"; status.textContent = "Loading live jobs in " + (country === "all" ? "the United States" : country) + "…"; more.hidden = true;
     if (ownList.querySelector(".empty")) { ownList.innerHTML = ""; if (countEl) countEl.textContent = ""; }
     try {
-      const jooblePromise = lo ? Promise.resolve({ jobs: [], totalCount: 0 }) : fetch(API + "?src=jooble&cc=" + cc + "&q=" + encodeURIComponent(jq) + "&page=" + page).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }).catch(() => ({ jobs: [], totalCount: 0, failed: true }));
-      const lensaPromise = cc === "us" ? fetch(API + "?src=lensa&q=" + encodeURIComponent(kw) + (city ? "&city=" + encodeURIComponent(city) : "") + "&page=" + page).then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] })) : Promise.resolve({ jobs: [], totalCount: 0 });
-      const wjPromise = !lo && window.UHWJF && UHWJF.has(cc) ? UHWJF.fetch(cc, kw, city || null, page) : Promise.resolve({ jobs: [], hasMore: false });
-
-      const [joobleData, wjData, lensaData] = await Promise.all([jooblePromise, wjPromise, lensaPromise]);
-      if (my !== seq) return;
-
       const phrase = kw.toLowerCase().replace(/\s+/g, " ").trim();
       const exact = (j) => !phrase || clean(j.title).toLowerCase().replace(/\s+/g, " ").includes(phrase);
-      const rawMore = (joobleData.jobs || []).length + (lensaData.jobs || []).length >= 20 || wjData.hasMore;
-      const jJobs = (joobleData.jobs || []).filter((j) => !uhBad(j) && exact(j));
-      const wJobs = (wjData.jobs || []).filter(exact);
-      const lJobs = (lensaData.jobs || []).filter(exact);
-      if (joobleData.failed && !lJobs.length && !wJobs.length) throw new Error("no live jobs");
-      // one card from each available source in turn, paying partners first: Lensa, WhatJobs, Jooble
+      // WhatJobs (paying partner) first: show all its pages, then fill with Lensa / Jooble
+      let wJobs = [], jJobs = [], lJobs = [], jMore = false, failed = false;
+      if (!wjDone) {
+        const wjData = await UHWJF.fetch(cc, kw, city || null, wjPage);
+        if (my !== seq) return;
+        wJobs = (wjData.jobs || []).filter(exact); wjPage++; wjDone = !wjData.hasMore;
+      }
+      if (wjDone) {
+        const jp = page;
+        const jooblePromise = lo ? Promise.resolve({ jobs: [], totalCount: 0 }) : fetch(API + "?src=jooble&cc=" + cc + "&q=" + encodeURIComponent(jq) + "&page=" + jp).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }).catch(() => ({ jobs: [], totalCount: 0, failed: true }));
+        const lensaPromise = cc === "us" ? fetch(API + "?src=lensa&q=" + encodeURIComponent(kw) + (city ? "&city=" + encodeURIComponent(city) : "") + "&page=" + jp).then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] })) : Promise.resolve({ jobs: [], totalCount: 0 });
+        const [joobleData, lensaData] = await Promise.all([jooblePromise, lensaPromise]);
+        if (my !== seq) return;
+        page++;
+        jMore = (joobleData.jobs || []).length + (lensaData.jobs || []).length >= 20;
+        jJobs = (joobleData.jobs || []).filter((j) => !uhBad(j) && exact(j));
+        lJobs = (lensaData.jobs || []).filter(exact);
+        failed = !!joobleData.failed;
+        total = Math.max(total, (joobleData.totalCount || 0) + (lensaData.totalCount || 0));
+      }
+      const rawMore = !wjDone || jMore;
+      if (failed && !wJobs.length && !lJobs.length && !jJobs.length && !shown) throw new Error("no live jobs");
+      // Lensa and Jooble take turns after the WhatJobs jobs
       const rr = (...L) => { const o = []; const n = Math.max(0, ...L.map((a) => a.length)); for (let k = 0; k < n; k++) L.forEach((a) => { if (a[k]) o.push(a[k]); }); return o; };
-      const jobs  = rr(lJobs, wJobs, jJobs);
-      total = Math.max((joobleData.totalCount || 0) + (lensaData.totalCount || 0), shown + jobs.length);
-      const plus = wjData.hasMore ? "+" : "";
+      const jobs = wJobs.concat(rr(lJobs, jJobs));
+      total = Math.max(total, shown + jobs.length);
+      const plus = rawMore ? "+" : "";
 
       list.insertAdjacentHTML("beforeend", jobs.map((j, i) => card(j, shown + i)).join("")); shown += jobs.length;
-      // exact search can empty a page: look a few pages further before giving up
-      // exact search: gather matches from the first 5 pages in one go (no "Load more")
-      if (phrase && rawMore && tries < 4) { page++; return live(false, tries + 1); }
+      // exact search: gather matches from several pages in one go (no "Load more")
+      if (phrase && rawMore && tries < 6) return live(false, tries + 1);
+      // a WhatJobs page with no matches: go straight on to the next one
+      if (!jobs.length && rawMore && tries < 6) return live(false, tries + 1);
       const where = (city ? city + ", " : "") + (country === "all" ? "the United States" : country);
       status.innerHTML = shown ? `<b>${phrase ? shown.toLocaleString() + (rawMore ? "+" : "") : total.toLocaleString() + plus}</b> live jobs${kw ? ` for <b>${esc(kw)}</b>` : ""} in ${esc(where)} · from hundreds of job sites` : `No live jobs${kw ? ` for <b>${esc(kw)}</b>` : ""} in ${esc(where)} right now. Try a shorter keyword.`;
       if (!shown) status.className = "js-bar empty";
-      more.hidden = phrase ? true : !((jJobs.length + lJobs.length >= 20 && shown < total) || wjData.hasMore);
+      more.hidden = phrase ? true : !rawMore;
       status.hidden = !!shown; /* count line only needed when nothing was found */
       try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "live-jobs/" + cc, title: "Live jobs " + cc, event: true }); } catch (e) {}
     } catch (e) { if (my === seq) { if (shown) { status.hidden = true; more.hidden = true; } else { status.className = "js-bar empty"; status.textContent = "Couldn't load live jobs right now. Please try again in a moment."; } } }
@@ -141,7 +152,7 @@
   let t; const kick = () => { clearTimeout(t); t = setTimeout(() => live(true), 450); };
   sel.addEventListener("change", () => { if (!selfChange) autoSet = false; live(true); });
   box.addEventListener("input", () => { if (!detect()) kick(); });
-  $("#live-next").addEventListener("click", () => { page++; live(false); });
+  $("#live-next").addEventListener("click", () => live(false));
   // Extra countries appear in the dropdown once the worker has their Jooble key (it lists them; no site change needed).
   const u0 = new URLSearchParams(location.search);
   const BASE = new Set(["us", ...ORDER.map((c) => CC[c])]);
