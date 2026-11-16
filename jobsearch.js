@@ -36,8 +36,11 @@
   }
   const vjFilter = () => { const sec = $("#tech-jobs"); if (!sec) return; const q = box.value.toLowerCase().replace(/\s+/g, " ").trim(); let n = 0;
     sec.querySelectorAll(".vj-card").forEach((c) => { const ok = !q || c.textContent.toLowerCase().replace(/\s+/g, " ").includes(q); c.classList.toggle("vj-qh", !ok); if (ok) n++; });
-    sec.style.display = q ? "none" : ""; };
+    // the VanHack section is only for Canada, the US and Latin America (and "All countries")
+    const VH = ["all", "Worldwide", "United States", "Canada", "Brazil", "Mexico", "Argentina"];
+    sec.style.display = q || !VH.includes(sel.value) ? "none" : ""; };
   box.addEventListener("input", vjFilter);
+  sel.addEventListener("change", vjFilter);
 
   // Place names typed in the search box ("nurse london", "accountant dubai") pick the country automatically.
   const PLACES = {
