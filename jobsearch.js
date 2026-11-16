@@ -28,8 +28,10 @@
       const o = [...sel.options].find((x) => optName(x).toLowerCase() === t || (t === "uae" && x.value === "United Arab Emirates"));
       if (o && sel.value !== o.value) { sel.value = o.value; sel.dispatchEvent(new Event("change")); } };
     cin.addEventListener("input", pick); cin.addEventListener("change", pick);
-    cin.addEventListener("focus", () => cin.select());
-    cin.addEventListener("blur", () => setTimeout(showSel, 0));
+    // clear the box on focus so the arrow always opens the full country list; the current country stays as a hint
+    const PH = cin.placeholder;
+    cin.addEventListener("focus", () => { if (cin.value) { cin.placeholder = cin.value; cin.value = ""; } });
+    cin.addEventListener("blur", () => setTimeout(() => { cin.placeholder = PH; showSel(); }, 0));
     sel.addEventListener("change", showSel);
   }
   const vjFilter = () => { const sec = $("#tech-jobs"); if (!sec) return; const q = box.value.toLowerCase().replace(/\s+/g, " ").trim(); let n = 0;
