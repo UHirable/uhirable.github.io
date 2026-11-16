@@ -63,8 +63,9 @@
     <section class="page-body">
       <div class="container">
         <p id="jobs-count" class="count"></p>
-        <div id="jobs-list" class="jobs-list"></div>
-        <div id="live-wrap" hidden><div class="js-bar" id="live-status"></div><div id="live-list" class="jobs-list"></div><div class="js-more" id="live-more" hidden><button class="btn btn-soft" id="live-next">Load more jobs</button></div></div>
+        <div class="jobs-list" id="all-jobs"><div id="jobs-list" class="jobs-list"></div>
+        <div id="live-wrap" hidden><div class="js-bar" id="live-status"></div><div id="live-list" class="jobs-list"></div><div class="js-more" id="live-more" hidden><button class="btn btn-soft" id="live-next">Load more jobs</button></div></div></div>
+        <style>/* our jobs and live jobs share one grid: no gap row between them */#all-jobs>#jobs-list,#all-jobs #live-list{display:contents}#all-jobs>#live-wrap:not([hidden]){display:contents}#all-jobs>#live-wrap[hidden]{display:none}#all-jobs #live-status,#all-jobs #live-more,#all-jobs .empty{grid-column:1/-1}</style>
         <!--vh-jobs--><section class="vj-sec" id="tech-jobs" style="margin:34px 0 10px"><style>
 .vj-filters{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}
 .vj-f{border:1.5px solid #dde1ff;background:#fff;color:#0d1240;font:inherit;font-weight:700;font-size:.88rem;padding:8px 14px;border-radius:999px;cursor:pointer}
