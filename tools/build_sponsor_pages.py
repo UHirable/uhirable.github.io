@@ -575,11 +575,16 @@ def build_ca(sitemap):
         return re.sub(r"s$", "", k) if not k.lower().endswith("ss") else k
 
     def occ_link(o):
-        return (f'<a class="xs-co" href="jobs.html?country=Canada&amp;q={urllib.parse.quote_plus(occ_kw(o))}" title="See open {esc(occ_kw(o))} jobs in Canada">'
-                f'{esc(o)} <span aria-hidden="true">→</span></a>')
+        # click fills the job title in the live-jobs block on the same page and scrolls to it;
+        # the plain link to the search page is the fallback when that block is not there
+        kw = occ_kw(o)
+        js = ("var q=document.getElementById('cvj-q'),f=document.getElementById('cvj-form');if(q&&f){q.value=this.dataset.q;"
+              "f.dispatchEvent(new Event('submit',{cancelable:true}));document.getElementById('cv-jobs').scrollIntoView({behavior:'smooth'});return false}")
+        return (f'<a class="xs-co" href="jobs.html?country=Canada&amp;q={urllib.parse.quote_plus(kw)}" data-q="{esc(kw)}" onclick="{js}" title="See open {esc(kw)} jobs">'
+                f'{esc(o)} <span aria-hidden="true">↓</span></a>')
 
     def occ_table(lst, where):
-        return ('<div class="gd-tw spc-tw"><table><thead><tr><th>Occupation (click to see other open jobs in Canada)</th><th>Employers approved in ' + esc(where) + '</th></tr></thead><tbody>' +
+        return ('<div class="gd-tw spc-tw"><table><thead><tr><th>Occupation (click to see open jobs in ' + esc(where) + ')</th><th>Employers approved in ' + esc(where) + '</th></tr></thead><tbody>' +
                 "".join(f"<tr><td>{occ_link(o)}</td><td>{num(v)}</td></tr>" for o, v in top_occ(lst)) + "</tbody></table></div>")
 
     def shown_note(lst):
