@@ -192,20 +192,31 @@ def uk_care_cities(by_city, routes, sw, meta, sh, sitemap, city_pages):
     """One page per city for care homes and care companies on the register."""
     date = nice_date(meta["updated"])
     has = lambda r, i: str(i) in r[3].split(",")
-    todo = []
+    todo, used = [], set()
     for short, city_fname, _ in city_pages:
         full = next(c for c in UK_CITIES if c == short or c.startswith(short))
         lst = []
         for k in UK_ALIAS.get(full.lower(), {full.lower()}):
+            used.add(k)
             lst += [r for r in by_city.get(k, []) if UK_CARE_RX.search(r[0])]
         if len(lst) >= UK_CARE_MIN:
-            lst.sort(key=lambda r: (not r[0][:1].isalpha(), r[0].lower()))
             todo.append((short, city_fname, "uk-visa-sponsors-care-homes-%s.html" % slug(short), lst))
+    # every other town or county on the register with enough care providers (no city page of its own)
+    for k, rs in by_city.items():
+        if not k or k in used:
+            continue
+        lst = [r for r in rs if UK_CARE_RX.search(r[0])]
+        if len(lst) >= UK_CARE_MIN:
+            short = collections.Counter(r[1] for r in lst).most_common(1)[0][0].replace("-On-", "-on-").replace(" Upon ", " upon ")
+            todo.append((short, None, "uk-visa-sponsors-care-homes-%s.html" % slug(short), lst))
+    for t in todo:
+        t[3].sort(key=lambda r: (not r[0][:1].isalpha(), r[0].lower()))
+    todo.sort(key=lambda t: (-len(t[3]), t[0]))
     done = []
     for short, city_fname, fname, lst in todo:
         n = len(lst)
         n_sw = sum(1 for r in lst if has(r, sw))
-        others = link_list([("All UK care homes and home care", "uk-visa-sponsors-care-homes.html"), (f"All sponsors in {short}", city_fname)] +
+        others = link_list([("All UK care homes and home care", "uk-visa-sponsors-care-homes.html")] + ([(f"All sponsors in {short}", city_fname)] if city_fname else []) +
                            [(f"Care homes in {s}", f) for s, _, f, _ in todo if f != fname])
         body = (GD +
                 f'          <p class="gd-answer">{num(n)} care homes, home care agencies and other care providers in {esc(short)} hold a Home Office licence to sponsor work visas, and {num(n_sw)} of them are licensed for the Skilled Worker route, which includes the Health and Care Worker visa. This page lists them from the official register dated {date}.</p>\n'
