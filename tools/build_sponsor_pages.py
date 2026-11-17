@@ -12,7 +12,7 @@ def tcase(s):
     return " ".join(w if (w.lower() in _SMALL and i) or w.isupper() else w[:1].upper() + w[1:] for i, w in enumerate(s.split()))
 
 SITE = "https://uhirable.github.io/"
-CSS_V = "83"
+CSS_V = "84"
 esc = html.escape
 MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 

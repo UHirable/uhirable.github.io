@@ -1541,3 +1541,25 @@ textarea { resize: vertical; }
 @media(min-width:561px){.nav .dd-co .dd-m{left:auto!important;right:0!important}.nav .dd:not(.dd-co) .dd-m{right:auto!important;left:0!important}}
 
 .sp-co,.xs-co{color:inherit;text-decoration:none}.sp-co span,.xs-co span{color:#0112ff;font-size:.85em}.sp-co:hover,.xs-co:hover{color:#0112ff;text-decoration:underline}
+
+/* compact Lilo + WhatsApp row */
+.duo>div{padding:22px 26px}
+.ask-sec{padding-top:90px}.ask-sec .duo{grid-template-columns:1.5fr 1fr}.duo>.duo-lilo{position:relative;overflow:visible;display:flex;flex-direction:column;justify-content:center;padding-left:425px;min-height:270px}
+.duo-lilo .ask-art{position:absolute;left:-22px;bottom:0;width:455px;height:455px;margin:0!important;padding:0;background:none;overflow:visible;z-index:2}
+.duo-lilo .ask-art img{width:100%;height:100%;object-fit:contain;object-position:center bottom;filter:drop-shadow(0 14px 18px rgba(20,26,82,.18))}
+.duo-lilo .ask-bub{display:none}
+.duo-lilo>.tt-pill{align-self:flex-start;white-space:nowrap;font-size:.72rem}
+.duo-lilo h2{font-size:1.3rem;margin:10px 0 4px}
+.duo-lilo>p{margin:0}
+.duo-lilo .btn{align-self:flex-start;margin-top:14px}
+.duo-wa{display:grid!important;grid-template-columns:auto 1fr;column-gap:22px;text-align:left;align-items:center;align-content:center;justify-content:stretch}
+.duo-wa .wa-ic{grid-row:1/span 4;width:72px;height:72px;border-radius:22px;margin:0}
+.duo-wa .wa-ic svg{width:42px;height:42px}
+.duo-wa>*:not(.wa-ic){grid-column:2}
+.duo-wa .tt-pill{justify-self:start;align-self:auto}
+.duo-wa h2{font-size:1.3rem;margin:10px 0 8px}
+.duo-wa ul{margin:0 0 14px;gap:6px}
+.duo-wa li{font-size:.95rem;gap:8px}
+.duo-wa li:before{width:20px;height:20px;font-size:.7rem}
+.duo-wa .btn,.duo-wa a.btn,.duo-wa>a{justify-self:start;padding:11px 20px;font-size:1rem}
+@media (max-width:860px){.ask-sec{padding-top:40px}.ask-sec .duo{grid-template-columns:1fr}.duo-wa{display:none!important}.duo>.duo-lilo{padding:200px 20px 24px;min-height:0;margin-top:80px;align-items:center;text-align:center}.duo-lilo .ask-art{width:280px;height:280px;left:50%;transform:translateX(-50%);top:-85px;bottom:auto}.duo-lilo>.tt-pill,.duo-lilo .btn{align-self:center}}
