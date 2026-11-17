@@ -206,7 +206,6 @@ def uk_sectors(rows, routes, sw, meta, sh, sitemap, city_pages):
                 jobs_block("uk", kw, "", f"Live {kw} jobs in the UK", "Current openings from our job-search partners. Check each advert for visa sponsorship before you apply.", "uk-sponsors-sector") + GD +
                 f'          <h2>All {num(n)} licensed sponsors, A to Z</h2>\n          <p>The town or city is shown in italics after each name, with a note when the rating is not A or the route is not Skilled Worker.</p>\n'
                 f'          <ul class="spc-list">' + "".join(uk_item_city(r, routes, sw) for r in lst) + "</ul>\n"
-                f'          <div class="gd-cta"><a class="btn btn-primary" href="uk-visa-sponsors.html">Search the full register</a><a class="btn btn-soft" href="visa-sponsorship-jobs.html">Visa sponsorship jobs</a><a class="btn btn-soft" href="uk-cv-format.html">UK CV format</a></div>\n'
                 f'          {{FAQ}}\n          <h2>Sponsors in other sectors</h2>\n          {others}\n' + UK_FOOT + GD_END)
         faq = [
             (f"How many {phrase} can sponsor a UK work visa?", f"{num(n)} organisations in this group are on the Home Office register of licensed sponsors dated {date}. {num(n_sw)} are licensed for the Skilled Worker route."),
@@ -260,7 +259,6 @@ def uk_az(rows, routes, sw, meta, sh, sitemap):
                 f'          <h2>Licensed sponsors: {esc(first[:28])} to {esc(last[:28])}</h2>\n          {pager}\n'
                 f'          <p>Names are shown as the Home Office lists them, which is the legal name and not always the brand name. The town or city is in italics, with a note when the rating is not A or the route is not Skilled Worker.</p>\n'
                 f'          <ul class="spc-list">' + "".join(uk_item_city(r, routes, sw) for r in chunk) + f"</ul>\n          {pager}\n"
-                f'          <div class="gd-cta"><a class="btn btn-primary" href="uk-visa-sponsors.html">Search the full register</a><a class="btn btn-soft" href="jobs.html?country=United%20Kingdom">Search live UK jobs</a></div>\n'
                 f'          {{FAQ}}\n' + UK_FOOT + GD_END)
         faq = [
             ("How do I check if a company can sponsor my UK visa?", "Find its legal name on this A to Z list or type it into the register search. If it is listed with the Skilled Worker route, it is licensed to sponsor that visa."),
@@ -348,7 +346,6 @@ def build_uk(sitemap):
                 f'            <li><b>Check the route.</b> For most long-term jobs you need an employer licensed for Skilled Worker.</li>\n'
                 f'            <li><b>Check the job too.</b> The job must be eligible and meet the salary rules for the visa, not only the employer.</li>\n'
                 f'            <li><b>Confirm on GOV.UK.</b> The register changes often. Check the official file before you rely on a name here.</li>\n          </ol>\n'
-                f'          <div class="gd-cta"><a class="btn btn-primary" href="jobs.html?country=United%20Kingdom&amp;q={esc(short.replace(" ", "%20"))}">Search live jobs in {esc(short)}</a><a class="btn btn-soft" href="uk-visa-sponsors.html">Search the full register</a><a class="btn btn-soft" href="uk-cv-format.html">UK CV format</a></div>\n'
                 f'          {{FAQ}}\n'
                 f'          <h2>Sponsors in other UK cities</h2>\n          {others}\n'
                 f'          <h2>Sources</h2><ul class="gd-src"><li><a href="{UK_SRC}" target="_blank" rel="noopener">GOV.UK: Register of licensed sponsors: workers (Home Office)</a></li><li><a href="https://www.gov.uk/skilled-worker-visa" target="_blank" rel="noopener">GOV.UK: Skilled Worker visa</a></li></ul>\n'
@@ -441,7 +438,6 @@ def ca_end(others_title, others):
             f'            <li><b>Pick employers that hired for your job.</b> The last column shows the occupations each employer was approved for.</li>\n'
             f'            <li><b>Go to the employer directly.</b> Look for current vacancies on the employer\'s own site or on a job site, and apply there.</li>\n'
             f'            <li><b>Never pay for an LMIA.</b> The employer applies for it and pays the fee. A recruiter who asks you to pay for one is a warning sign.</li>\n          </ol>\n'
-            f'          <div class="gd-cta"><a class="btn btn-primary" href="canada-lmia-employers.html">Search all LMIA employers</a><a class="btn btn-soft" href="jobs-in-canada-for-foreigners.html">Jobs in Canada for foreigners</a><a class="btn btn-soft" href="canadian-resume-format.html">Canadian resume format</a></div>\n'
             f'          {{FAQ}}\n'
             f'          <h2>{others_title}</h2>\n          {others}\n'
             f'          <h2>Sources</h2><ul class="gd-src"><li><a href="{CA_SRC}" target="_blank" rel="noopener">Open Canada: Temporary Foreign Worker Program, Positive LMIA Employers List (Employment and Social Development Canada)</a></li><li><a href="https://www.canada.ca/en/employment-social-development/services/foreign-workers.html" target="_blank" rel="noopener">Canada.ca: Hire a temporary foreign worker (LMIA)</a></li></ul>\n'
@@ -646,7 +642,7 @@ def build_us(sitemap):
              '            <li><b>Match the job category.</b> The table shows the kinds of jobs each employer filed for. Apply where your occupation is on the list.</li>\n'
              '            <li><b>Compare the pay.</b> The median salary is what the employer wrote on its filings. Use it when you negotiate.</li>\n'
              '            <li><b>Apply on the employer\'s careers page</b> and say clearly whether you need H-1B sponsorship or a transfer.</li>\n          </ol>\n'
-             '          <div class="gd-cta"><a class="btn btn-primary" href="us-h1b-sponsors.html">Search all H-1B sponsors</a><a class="btn btn-soft" href="jobs.html?country=United%20States">Search live US jobs</a><a class="btn btn-soft" href="cv-templates.html">Free CV templates</a></div>\n')
+             '')
     common_faq = [
         ("What is an LCA and how is it linked to the H-1B visa?", "A Labor Condition Application is filed by the employer with the Department of Labor before it can file an H-1B petition. It states the job, the place of work and the pay. A certified LCA does not guarantee a visa."),
         ("Does a company on this list have open jobs now?", "Not necessarily. The data shows past filings, including extensions and transfers for current employees. Check the employer's careers page for current vacancies."),

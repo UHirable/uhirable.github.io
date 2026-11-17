@@ -121,7 +121,6 @@ def build_ie(sm):
                 + IE_NOTE +
                 f'          <h2>All {num(n)} employers, by number of permits</h2>\n'
                 '          <ul class="spc-list">' + "".join(li(a, plural(b)) for a, b in g) + "</ul>\n"
-                '          <div class="gd-cta"><a class="btn btn-primary" href="ireland-work-permit-companies.html">Search all Irish employers</a><a class="btn btn-soft" href="visa-sponsorship-jobs.html">Visa sponsorship jobs</a></div>\n'
                 f'          {{FAQ}}\n          <h2>Other sectors</h2>\n          {link_list([(l2, f"ireland-work-permit-companies-{s2}.html") for s2, l2, _, _, _ in groups if s2 != sl])}\n          ' + IE_SRC + GD_END)
         faq = [
             (f"Which {phrase} in Ireland hire workers from abroad?", f"{num(n)} of them received employment permits from {period}. The ones with the most were " + ", ".join(a for a, _ in top) + "."),
@@ -155,7 +154,6 @@ def build_ie(sm):
             '            <li><b>Go to their careers page.</b> Apply on the employer\'s own site, and look for the words "employment permit" or "visa sponsorship" in the ad.</li>\n'
             '            <li><b>Check the permit type.</b> Make sure your job and salary fit a General or Critical Skills permit before you apply.</li>\n'
             '            <li><b>Never pay for a job.</b> A real employer does not charge you for a job offer or a permit.</li>\n          </ol>\n'
-            '          <div class="gd-cta"><a class="btn btn-primary" href="visa-sponsorship-jobs.html">Visa sponsorship jobs</a><a class="btn btn-soft" href="uk-visa-sponsors.html">UK visa sponsors</a></div>\n'
             '          {FAQ}\n          ' + IE_SRC + GD_END)
     faq = [
         ("Which companies in Ireland sponsor work permits?", f"{num(meta['companies'])} employers received employment permits from {period}. You can search all of them on this page by company name."),
@@ -221,7 +219,6 @@ def build_nl(sm):
                 + NL_NOTE +
                 f'          <h2>All {num(n)} recognised sponsors, A to Z</h2>\n'
                 '          <ul class="spc-list">' + "".join(li(a) for a, _ in g) + "</ul>\n"
-                '          <div class="gd-cta"><a class="btn btn-primary" href="netherlands-recognised-sponsors.html">Search the full register</a><a class="btn btn-soft" href="visa-sponsorship-jobs.html">Visa sponsorship jobs</a></div>\n'
                 f'          {{FAQ}}\n          <h2>Other sectors</h2>\n          {link_list([(l2, f"netherlands-recognised-sponsors-{s2}.html") for s2, l2, _, _, _ in groups if s2 != sl])}\n          ' + NL_SRC + GD_END)
         faq = [
             (f"Which {phrase} in the Netherlands sponsor highly skilled migrants?", f"{num(n)} of them are on the IND public register of recognised sponsors for work, updated on {date}. This page lists them all."),
@@ -248,7 +245,6 @@ def build_nl(sm):
             '            <li><b>Start with your sector.</b> Open the sector that matches your job, then look for vacancies on each employer\'s own careers page.</li>\n'
             '            <li><b>Check the salary.</b> The offer must meet the IND salary criterion for your age.</li>\n'
             '            <li><b>Never pay for a job.</b> A real employer does not charge you for a job offer or a permit.</li>\n          </ol>\n'
-            '          <div class="gd-cta"><a class="btn btn-primary" href="jobs.html?country=Netherlands">Search live jobs in the Netherlands</a><a class="btn btn-soft" href="visa-sponsorship-jobs.html">Visa sponsorship jobs</a></div>\n'
             '          {FAQ}\n          ' + NL_SRC + GD_END)
     faq = [
         ("Which companies in the Netherlands can sponsor a work visa?", f"Organisations recognised by the IND. There are {num(n_all)} recognised sponsors for work on the public register updated on {date}, and you can search them all on this page."),
