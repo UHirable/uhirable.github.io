@@ -493,6 +493,11 @@ CA_JOBS = [
     ("administrative-officers", "administrative officers", "administrative officer", ["administrative officers"]),
     ("cleaning-supervisors", "cleaning supervisors", "cleaning supervisor", ["cleaning supervisors"]),
 ]
+# official titles whose first words make a poor search keyword
+CA_OCC_KW = [("accommodation, travel", "hotel supervisor"), ("computer and information systems managers", "it manager"),
+             ("contractors and supervisors, landscaping", "landscaping supervisor"), ("contractors and supervisors", "construction supervisor"),
+             ("electrical and electronics engineers", "electrical engineer"), ("landscape and horticulture", "landscaper"),
+             ("producers, directors", "producer"), ("specialists in clinical", "physician"), ("supervisors, motor transport", "transport supervisor")]
 CA_COMBO_MIN = 80  # a job-in-province page is built only when at least this many employers match
 CA_SRC = "https://open.canada.ca/data/en/dataset/90fed587-1364-4f33-a9ee-208181dc0b97"
 CA_CAP = 150
@@ -557,9 +562,25 @@ def build_ca(sitemap):
                     c[o] += 1
         return c.most_common(k)
 
+    def occ_kw(o):
+        """Plain job-search keyword for an official occupation title."""
+        low = o.lower()
+        for _s, _lab, kw, words in CA_JOBS:
+            if any(w in low for w in words):
+                return kw
+        for key, kw in CA_OCC_KW:
+            if low.startswith(key):
+                return kw
+        k = re.sub(r"\(.*?\)", "", o).split(",")[0].split(" and ")[0].strip()
+        return re.sub(r"s$", "", k) if not k.lower().endswith("ss") else k
+
+    def occ_link(o):
+        return (f'<a class="xs-co" href="jobs.html?country=Canada&amp;q={urllib.parse.quote_plus(occ_kw(o))}" title="See open {esc(occ_kw(o))} jobs in Canada">'
+                f'{esc(o)} <span aria-hidden="true">→</span></a>')
+
     def occ_table(lst, where):
-        return ('<div class="gd-tw spc-tw"><table><thead><tr><th>Occupation (official title)</th><th>Employers approved in ' + esc(where) + '</th></tr></thead><tbody>' +
-                "".join(f"<tr><td>{esc(o)}</td><td>{num(v)}</td></tr>" for o, v in top_occ(lst)) + "</tbody></table></div>")
+        return ('<div class="gd-tw spc-tw"><table><thead><tr><th>Occupation (click to see other open jobs in Canada)</th><th>Employers approved in ' + esc(where) + '</th></tr></thead><tbody>' +
+                "".join(f"<tr><td>{occ_link(o)}</td><td>{num(v)}</td></tr>" for o, v in top_occ(lst)) + "</tbody></table></div>")
 
     def shown_note(lst):
         return (f'          <p class="spc-more">Showing the {CA_CAP} employers with the most approved positions, out of {num(len(lst))}. <a href="canada-lmia-employers.html">Search the full list</a> for the rest.</p>\n' if len(lst) > CA_CAP else "")
