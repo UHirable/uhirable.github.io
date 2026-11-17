@@ -180,7 +180,64 @@ UK_FOOT = (f'          <h2>Sources</h2><ul class="gd-src"><li><a href="{UK_SRC}"
 UK_NOTE = '          <p class="gd-note"><b>A licence is not a job offer.</b> Being on the register means the employer is allowed to sponsor. It does not mean it is hiring now, or that a particular vacancy comes with sponsorship. Always check the job ad or ask the employer.</p>\n'
 
 
-def uk_sectors(rows, routes, sw, meta, sh, sitemap, city_pages):
+UK_CARE_RX = re.compile(r"\bcare\b|\bcaring\b|nursing home|homecare|care home|residential home|domiciliary", re.I)
+UK_CARE_MIN = 15
+UK_CARE_RULE = ('          <p class="gd-note"><b>Important if you are outside the UK.</b> Since 22 July 2025 the UK no longer accepts new applications from overseas for care worker and senior care worker jobs. '
+                'People already in the UK can still switch into these jobs until 22 July 2028 if they have already worked for that employer for at least three months, and the government keeps this under review. '
+                'Nurses and other eligible health roles can still be sponsored from abroad: see our <a href="uk-nurse-visa-sponsorship-jobs.html">UK nurse visa sponsorship guide</a>.</p>\n')
+
+
+def uk_care_cities(by_city, routes, sw, meta, sh, sitemap, city_pages):
+    """One page per city for care homes and care companies on the register."""
+    date = nice_date(meta["updated"])
+    has = lambda r, i: str(i) in r[3].split(",")
+    todo = []
+    for short, city_fname, _ in city_pages:
+        full = next(c for c in UK_CITIES if c == short or c.startswith(short))
+        lst = []
+        for k in UK_ALIAS.get(full.lower(), {full.lower()}):
+            lst += [r for r in by_city.get(k, []) if UK_CARE_RX.search(r[0])]
+        if len(lst) >= UK_CARE_MIN:
+            lst.sort(key=lambda r: (not r[0][:1].isalpha(), r[0].lower()))
+            todo.append((short, city_fname, "uk-visa-sponsors-care-homes-%s.html" % slug(short), lst))
+    done = []
+    for short, city_fname, fname, lst in todo:
+        n = len(lst)
+        n_sw = sum(1 for r in lst if has(r, sw))
+        others = link_list([("All UK care homes and home care", "uk-visa-sponsors-care-homes.html"), (f"All sponsors in {short}", city_fname)] +
+                           [(f"Care homes in {s}", f) for s, _, f, _ in todo if f != fname])
+        body = (GD +
+                f'          <p class="gd-answer">{num(n)} care homes, home care agencies and other care providers in {esc(short)} hold a Home Office licence to sponsor work visas, and {num(n_sw)} of them are licensed for the Skilled Worker route, which includes the Health and Care Worker visa. This page lists them from the official register dated {date}.</p>\n'
+                f'          <p class="sp-switch"><a href="uk-visa-sponsors.html">Search all of the UK</a><a href="uk-visa-sponsors-care-homes.html">All UK care homes</a></p>\n' + UK_CARE_RULE +
+                f'          <p>We pick care providers by words in their registered name, such as care, caring, nursing home and homecare. This is a practical list and not an official classification: a few names may match by coincidence, and providers that trade under a different name will be missing. The town is the one the organisation registered with, often its head office.</p>\n' + UK_NOTE + GD_END +
+                jobs_block("uk", "care assistant", short, f"Live care jobs in {short}", "Current openings from our job-search partners. Check each advert for visa sponsorship before you apply.", "uk-sponsors-care-city") + GD +
+                f'          <h2>All {num(n)} care providers in {esc(short)} on the register, A to Z</h2>\n          <p>A note in italics shows a rating other than A, or a route other than Skilled Worker.</p>\n'
+                f'          <ul class="spc-list">' + "".join(uk_item(r, routes, sw) for r in lst) + "</ul>\n"
+                f'          <h2>How to use this list</h2>\n          <ol class="gd-steps">\n'
+                f'            <li><b>Check where you are applying from.</b> New care worker and senior care worker applications from outside the UK closed on 22 July 2025.</li>\n'
+                f'            <li><b>Go to the provider directly.</b> Look for vacancies on its own site and ask whether the role comes with sponsorship.</li>\n'
+                f'            <li><b>Never pay for a job or a certificate of sponsorship.</b> The employer pays the sponsorship costs. A request for money is a warning sign.</li>\n'
+                f'            <li><b>Confirm on GOV.UK.</b> The register changes often. Check the official file before you rely on a name here.</li>\n          </ol>\n'
+                f'          {{FAQ}}\n          <h2>Care homes with sponsorship in other cities</h2>\n          {others}\n'
+                f'          <h2>Sources</h2><ul class="gd-src"><li><a href="{UK_SRC}" target="_blank" rel="noopener">GOV.UK: Register of licensed sponsors: workers (Home Office)</a></li><li><a href="https://www.gov.uk/health-care-worker-visa" target="_blank" rel="noopener">GOV.UK: Health and Care Worker visa</a></li></ul>\n'
+                f'          <p class="gd-src">Contains public sector information licensed under the Open Government Licence v3.0. U Hirable is not connected to the Home Office. We refresh this page from the official file at the start of every month, so always confirm on GOV.UK before you rely on it.</p>\n' + GD_END)
+        faq = [
+            (f"Which care homes in {short} offer visa sponsorship?", f"{num(n)} care providers with {short} as their town or city are on the Home Office register of licensed sponsors dated {date}. {num(n_sw)} of them are licensed for the Skilled Worker route. The full list is on this page."),
+            (f"Can I get a care worker job in {short} with sponsorship from outside the UK?", "Not as a new care worker or senior care worker. Since 22 July 2025 the UK does not accept new applications from overseas for those two jobs. Nurses and other eligible health roles can still be sponsored from abroad."),
+            ("I am already in the UK. Can a care home sponsor me?", "Until 22 July 2028 people already in the UK can switch into care worker roles if they have already worked for that employer for at least three months. The government keeps this under review, so check GOV.UK."),
+            ("Does a place on this list mean there is a job for me?", "No. The register shows who is allowed to sponsor workers. It does not show vacancies, and a licensed employer can advertise jobs that do not come with sponsorship."),
+        ]
+        out = render(sh, fname, f"Care Homes With Visa Sponsorship in {short} ({YEAR}): List of {num(n)}",
+                     f"List of {num(n)} care homes and care companies in {short} licensed to sponsor UK work visas, and what changed for care workers in 2025. Free, from the Home Office register updated {date}.",
+                     "Official Home Office register", f"Care homes with visa sponsorship in {short}", f"Care providers in {short} on the Home Office register, {date}.", body, faq,
+                     [("Home", ""), ("UK visa sponsorship companies", "uk-visa-sponsors.html"), ("Care homes and home care", "uk-visa-sponsors-care-homes.html"), (short, fname)], meta["updated"])
+        open(fname, "w", encoding="utf-8", newline="\n").write(out)
+        sitemap[fname] = max(meta["updated"], "2026-11-17")
+        done.append((short, fname, n))
+    return done
+
+
+def uk_sectors(rows, routes, sw, meta, sh, sitemap, city_pages, care_pages=()):
     date = nice_date(meta["updated"])
     has = lambda r, i: str(i) in r[3].split(",")
     pages = [(lab, "uk-visa-sponsors-%s.html" % sl) for sl, lab, _, _, _ in UK_SECTORS]
@@ -202,7 +259,9 @@ def uk_sectors(rows, routes, sw, meta, sh, sitemap, city_pages):
                 f'          <p class="gd-answer">{num(n)} {esc(phrase)} hold a Home Office licence to sponsor work visas, and {num(n_sw)} of them are licensed for the Skilled Worker route. This page lists them all, from the official register dated {date}.</p>\n'
                 f'          <p class="sp-switch"><a href="uk-visa-sponsors.html">Search all of the UK</a><a href="canada-lmia-employers.html">Canada</a></p>\n'
                 f'          <h2>Where they are</h2>\n          <div class="gd-tw spc-tw"><table><thead><tr><th>Town or city</th><th>Licensed sponsors</th></tr></thead><tbody>{city_rows}</tbody></table></div>\n'
-                f'          <p>We group organisations by words in their registered name, so this is a practical list and not an official classification. A few names may match by coincidence, and organisations that trade under a different brand name will be missing.</p>\n' + UK_NOTE + GD_END +
+                f'          <p>We group organisations by words in their registered name, so this is a practical list and not an official classification. A few names may match by coincidence, and organisations that trade under a different brand name will be missing.</p>\n' +
+                ((f'          <h2>Care homes with visa sponsorship by city</h2>\n          ' + link_list([(f"{c} ({num(k)})", f) for c, f, k in care_pages]) + "\n" + UK_CARE_RULE) if sl == "care-homes" and care_pages else "") +
+                UK_NOTE + GD_END +
                 jobs_block("uk", kw, "", f"Live {kw} jobs in the UK", "Current openings from our job-search partners. Check each advert for visa sponsorship before you apply.", "uk-sponsors-sector") + GD +
                 f'          <h2>All {num(n)} licensed sponsors, A to Z</h2>\n          <p>The town or city is shown in italics after each name, with a note when the rating is not A or the route is not Skilled Worker.</p>\n'
                 f'          <ul class="spc-list">' + "".join(uk_item_city(r, routes, sw) for r in lst) + "</ul>\n"
@@ -364,13 +423,15 @@ def build_uk(sitemap):
         open(fname, "w", encoding="utf-8", newline="\n").write(out)
         done.append((short, fname, n))
         sitemap[fname] = max(meta["updated"], "2026-11-12")
-    sectors = uk_sectors(rows, routes, sw, meta, sh, sitemap, done)
+    care = uk_care_cities(by_city, routes, sw, meta, sh, sitemap, done)
+    sectors = uk_sectors(rows, routes, sw, meta, sh, sitemap, done, care)
     letters, n_az = uk_az(rows, routes, sw, meta, sh, sitemap)
     browse = ('<h2>Browse sponsors by city</h2>\n          <p>Full pages for the UK cities with the most licensed sponsors.</p>\n          ' +
               link_list([(f"{c} ({num(n)})", f) for c, f, n in done]) +
               '\n          <h2>Browse sponsors by sector</h2>\n          ' + link_list([(f"{l} ({num(n)})", f) for l, f, n in sectors]) +
+              '\n          <h2>Care homes with sponsorship by city</h2>\n          ' + link_list([(f"{c} ({num(n)})", f) for c, f, n in care]) +
               '\n          <h2>The full register, A to Z</h2>\n          ' + link_list(letters))
-    print("UK: %d sector pages, %d A to Z pages" % (len(sectors), n_az))
+    print("UK: %d sector pages, %d care-by-city pages, %d A to Z pages" % (len(sectors), len(care), n_az))
     set_browse("uk-visa-sponsors.html", browse, "<h2>How to use the register in your job search</h2>")
     print("UK: %d city pages" % len(done))
 
@@ -383,7 +444,11 @@ CA_CITIES = [("Toronto", "ON", ["toronto"]), ("Calgary", "AB", ["calgary"]), ("E
              ("Quebec City", "QC", ["quebec", "quebec city", "ville de quebec"]), ("Winnipeg", "MB", ["winnipeg"]), ("Ottawa", "ON", ["ottawa"]),
              ("Abbotsford", "BC", ["abbotsford"]), ("Saskatoon", "SK", ["saskatoon"]), ("Halifax", "NS", ["halifax"]),
              ("Burnaby", "BC", ["burnaby"]), ("Richmond", "BC", ["richmond"]), ("Victoria", "BC", ["victoria"]), ("Laval", "QC", ["laval"]),
-             ("Kelowna", "BC", ["kelowna"]), ("Markham", "ON", ["markham"]), ("Oakville", "ON", ["oakville"]), ("London", "ON", ["london"]), ("Regina", "SK", ["regina"])]
+             ("Kelowna", "BC", ["kelowna"]), ("Markham", "ON", ["markham"]), ("Oakville", "ON", ["oakville"]), ("London", "ON", ["london"]), ("Regina", "SK", ["regina"]),
+             ("North York", "ON", ["north york"]), ("Scarborough", "ON", ["scarborough"]), ("Etobicoke", "ON", ["etobicoke"]), ("Hamilton", "ON", ["hamilton"]),
+             ("Vaughan", "ON", ["vaughan"]), ("Burlington", "ON", ["burlington"]), ("Delta", "BC", ["delta"]), ("Langley", "BC", ["langley"]),
+             ("Chilliwack", "BC", ["chilliwack"]), ("North Vancouver", "BC", ["north vancouver"]), ("Coquitlam", "BC", ["coquitlam"]),
+             ("Lévis", "QC", ["levis"]), ("Sherbrooke", "QC", ["sherbrooke"]), ("Grande Prairie", "AB", ["grande prairie"])]
 # (slug, plural label, job-search keyword, words matched in the official occupation title)
 CA_JOBS = [
     ("cooks", "cooks and chefs", "cook", ["cooks", "chefs"]),
@@ -418,7 +483,16 @@ CA_JOBS = [
     ("electricians", "electricians", "electrician", ["electricians (except", "industrial electricians", "electrical mechanics"]),
     ("heavy-equipment-operators", "heavy equipment operators", "heavy equipment operator", ["heavy equipment operators"]),
     ("roofers", "roofers and shinglers", "roofer", ["roofers and shinglers"]),
+    ("auto-body-technicians", "auto body technicians", "auto body technician", ["auto body collision"]),
+    ("concrete-finishers", "concrete finishers", "concrete finisher", ["concrete finishers"]),
+    ("family-doctors", "family doctors", "family physician", ["general practitioners and family physicians"]),
+    ("millwrights", "millwrights and industrial mechanics", "millwright", ["construction millwrights and industrial mechanics"]),
+    ("installers", "residential and commercial installers", "installer", ["residential and commercial installers"]),
+    ("supply-chain-supervisors", "supply chain and logistics supervisors", "logistics supervisor", ["supervisors, supply chain"]),
+    ("administrative-officers", "administrative officers", "administrative officer", ["administrative officers"]),
+    ("cleaning-supervisors", "cleaning supervisors", "cleaning supervisor", ["cleaning supervisors"]),
 ]
+CA_COMBO_MIN = 80  # a job-in-province page is built only when at least this many employers match
 CA_SRC = "https://open.canada.ca/data/en/dataset/90fed587-1364-4f33-a9ee-208181dc0b97"
 CA_CAP = 150
 
@@ -481,6 +555,26 @@ def build_ca(sitemap):
     def shown_note(lst):
         return (f'          <p class="spc-more">Showing the {CA_CAP} employers with the most approved positions, out of {num(len(lst))}. <a href="canada-lmia-employers.html">Search the full list</a> for the rest.</p>\n' if len(lst) > CA_CAP else "")
 
+    def job_rows(words):
+        lst = [r for r in rows if any(w in r[4].lower() for w in words)]
+        pos_of = lambda r: next(i for i, o in enumerate(r[4].split("; ")) if any(w in o.lower() for w in words))
+        lst.sort(key=lambda r: (min(pos_of(r), 1), -r[3], r[0].lower()))
+        return lst
+
+    combos = []  # (label, job file, keyword, province code, province name, combo file, rows)
+    for lab, jf, kw, words in job_pages:
+        jl = job_rows(words)
+        if len(jl) < 50:
+            continue
+        for code, pn in PROVS:
+            cl = [r for r in jl if r[2] == code]
+            if len(cl) >= CA_COMBO_MIN:
+                combos.append((lab, jf, kw, code, pn, jf[:-5] + "-" + slug(pn) + ".html", cl))
+    combo_by_job, combo_by_prov = collections.defaultdict(list), collections.defaultdict(list)
+    for c in combos:
+        combo_by_job[c[1]].append(c)
+        combo_by_prov[c[3]].append(c)
+
     n_prov = n_city = n_job = 0
     # provinces
     for name, fname, code in prov_pages:
@@ -494,7 +588,9 @@ def build_ca(sitemap):
         body = (GD +
                 f'          <p class="gd-answer">{num(len(lst))} employers in {esc(name)} were approved to hire foreign workers with a positive LMIA from {period}, for {num(pos)} positions in total. This page lists them from the official Government of Canada list published on {pub}.</p>\n' + switch +
                 f'          <h2>Jobs employers in {esc(name)} were approved for</h2>\n          {occ_table(lst, name)}\n          <p>The official list gives up to three main occupations for each employer on this page, so an employer can be counted in more than one row.</p>\n'
-                f'          <h2>Cities in {esc(name)} with the most LMIA employers</h2>\n          <div class="gd-tw spc-tw"><table><thead><tr><th>City</th><th>Employers approved</th></tr></thead><tbody>{city_rows}</tbody></table></div>\n' + ca_tail(name) + GD_END +
+                f'          <h2>Cities in {esc(name)} with the most LMIA employers</h2>\n          <div class="gd-tw spc-tw"><table><thead><tr><th>City</th><th>Employers approved</th></tr></thead><tbody>{city_rows}</tbody></table></div>\n' +
+                ((f'          <h2>LMIA employers in {esc(name)} by job</h2>\n          ' + link_list([(f"{c[0].capitalize()} ({num(len(c[6]))})", c[5]) for c in sorted(combo_by_prov[code], key=lambda c: -len(c[6]))]) + "\n") if combo_by_prov[code] else "") +
+                ca_tail(name) + GD_END +
                 jobs_block("ca", "", name, f"Live jobs in {name}", "Type your job title to see current openings. Check each advert for whether the employer hires from abroad.", "ca-lmia-prov") + GD +
                 f'          <h2>LMIA employers in {esc(name)} with the most approved positions</h2>\n          {ca_table(lst[:CA_CAP], False)}\n' + shown_note(lst) +
                 ca_end("LMIA employers in other places and jobs", all_links(fname)) + GD_END)
@@ -541,10 +637,8 @@ def build_ca(sitemap):
         n_city += 1
     # jobs
     for lab, fname, kw, words in job_pages:
-        lst = [r for r in rows if any(w in r[4].lower() for w in words)]
         # employers whose first (largest) occupation is this job come first, then by approved positions
-        pos_of = lambda r: next(i for i, o in enumerate(r[4].split("; ")) if any(w in o.lower() for w in words))
-        lst.sort(key=lambda r: (min(pos_of(r), 1), -r[3], r[0].lower()))
+        lst = job_rows(words)
         if len(lst) < 50:
             continue
         pc = collections.Counter(r[2] for r in lst)
@@ -554,7 +648,9 @@ def build_ca(sitemap):
         body = (GD + vh_block(fname) +
                 f'          <p class="gd-answer">{num(len(lst))} employers in Canada were approved to hire foreign {esc(lab)} with a positive LMIA from {period}. Most are in {esc(top_p[0])}, {esc(top_p[1])} and {esc(top_p[2])}. This page lists them from the official Government of Canada list published on {pub}.</p>\n' + switch +
                 f'          <h2>Where employers hire foreign {esc(lab)}</h2>\n          <div class="gd-tw spc-tw"><table><thead><tr><th>Province</th><th>Employers approved</th></tr></thead><tbody>{prov_rows}</tbody></table></div>\n'
-                f'          <p>An employer is counted here when one of its main approved occupations in the official list is: {esc("; ".join(titles))}.</p>\n' + ca_tail(lab) + GD_END +
+                f'          <p>An employer is counted here when one of its main approved occupations in the official list is: {esc("; ".join(titles))}.</p>\n' +
+                ((f'          <h3>{esc(lab.capitalize())} by province</h3>\n          ' + link_list([(f"{c[4]} ({num(len(c[6]))})", c[5]) for c in combo_by_job[fname]]) + "\n") if combo_by_job[fname] else "") +
+                ca_tail(lab) + GD_END +
                 jobs_block("ca", kw, "", f"Live {kw} jobs in Canada", "Current openings from our job-search partners. Check each advert for whether the employer hires from abroad.", "ca-lmia-job") + GD +
                 f'          <h2>LMIA employers that hired {esc(lab)}</h2>\n          <p>Employers whose main approved occupation is this job come first. The number is the total positions the employer had approved in the period, across all its jobs.</p>\n          {ca_table(lst[:CA_CAP], True)}\n' + shown_note(lst) +
                 ca_end("LMIA employers in other jobs and places", all_links(fname)) + GD_END)
@@ -571,12 +667,46 @@ def build_ca(sitemap):
         open(fname, "w", encoding="utf-8", newline="\n").write(out)
         sitemap[fname] = max(meta["published"], "2026-11-12")
         n_job += 1
+    # job in province
+    n_combo = 0
+    for lab, jf, kw, code, pn, fname, lst in combos:
+        cc = collections.Counter(r[1] for r in lst if r[1])
+        top_c = [c for c, _ in cc.most_common(3)]
+        city_rows = "".join(f"<tr><td>{esc(c)}</td><td>{num(v)}</td></tr>" for c, v in cc.most_common(10))
+        pos = sum(r[3] for r in lst)
+        prov_file = "canada-lmia-employers-%s.html" % slug(pn)
+        where = (" Most are in " + (", ".join(top_c[:-1]) + " and " + top_c[-1] if len(top_c) > 1 else top_c[0]) + ".") if top_c else ""
+        others = link_list([(f"All {lab} in Canada", jf), (f"All employers in {pn}", prov_file)] +
+                           [(f"{lab.capitalize()} in {c[4]}", c[5]) for c in combo_by_job[jf] if c[5] != fname] +
+                           [(f"{c[0].capitalize()} in {pn}", c[5]) for c in combo_by_prov[code] if c[5] != fname])
+        body = (GD +
+                f'          <p class="gd-answer">{num(len(lst))} employers in {esc(pn)} were approved to hire foreign {esc(lab)} with a positive LMIA from {period}.{esc(where)} This page lists them from the official Government of Canada list published on {pub}.</p>\n' + switch +
+                f'          <h2>Cities in {esc(pn)} where employers hire foreign {esc(lab)}</h2>\n          <div class="gd-tw spc-tw"><table><thead><tr><th>City</th><th>Employers approved</th></tr></thead><tbody>{city_rows}</tbody></table></div>\n'
+                f'          <p>An employer is counted when {esc(lab)} are among its main approved occupations in the official list. See also <a href="{jf}">{esc(lab)} in all of Canada</a> and <a href="{prov_file}">all LMIA employers in {esc(pn)}</a>.</p>\n' + ca_tail(lab) + GD_END +
+                jobs_block("ca", kw, pn, f"Live {kw} jobs in {pn}", "Current openings from our job-search partners. Check each advert for whether the employer hires from abroad.", "ca-lmia-job-prov") + GD +
+                f'          <h2>LMIA employers in {esc(pn)} that hired {esc(lab)}</h2>\n          <p>Employers whose main approved occupation is this job come first. The number is the total positions the employer had approved in the period, across all its jobs.</p>\n          {ca_table(lst[:CA_CAP], False)}\n' + shown_note(lst) +
+                ca_end("Related LMIA lists", others) + GD_END)
+        faq = [
+            (f"Which employers in {pn} hire foreign {lab} with an LMIA?", f"{num(len(lst))} employers in {pn} on the official positive LMIA list for {period} had {lab} among their main approved occupations. The table on this page shows those with the most approved positions."),
+            (f"Which cities in {pn} have the most LMIA employers for {lab}?", ("Counting employers, the top cities are " + ", ".join(top_c) + ".") if top_c else "The official list does not give a city for these employers."),
+            ("Does this list show jobs that are open now?", "No. It is a record of past approvals in the last four published quarters. Always check the employer's current vacancies."),
+            ("Who pays for the LMIA?", "The employer applies and pays the processing fee. You should not be asked to pay for an LMIA."),
+        ]
+        tl = lab.title().replace(" And ", " and ")
+        out = render(sh, fname, f"LMIA Jobs for {tl} in {pn} ({YEAR}): {num(len(lst))} Employers",
+                     f"List of {num(len(lst))} employers in {pn} approved to hire foreign {lab} with a positive LMIA, with their cities. From the official Government of Canada list. Free, no sign-up.",
+                     "Official Government of Canada list", f"LMIA employers hiring {lab} in {pn}", f"Employers in {pn} approved to hire foreign {lab}.", body, faq,
+                     [("Home", ""), ("Canada LMIA employers", "canada-lmia-employers.html"), (lab.capitalize(), jf), (pn, fname)], meta["published"])
+        open(fname, "w", encoding="utf-8", newline="\n").write(out)
+        sitemap[fname] = max(meta["published"], "2026-11-17")
+        n_combo += 1
     ex = lambda f: os.path.exists(f)
     browse = ('<h2>Browse LMIA employers</h2>\n          <h3>By province</h3>\n          ' + link_list([(n, f) for n, f, _ in prov_pages if ex(f)]) +
               '\n          <h3>By city</h3>\n          ' + link_list([(n, f) for n, f, _, _ in city_pages if ex(f)]) +
-              '\n          <h3>By job</h3>\n          ' + link_list([(lab.capitalize(), f) for lab, f, _, _ in job_pages if ex(f)]))
+              '\n          <h3>By job</h3>\n          ' + link_list([(lab.capitalize(), f) for lab, f, _, _ in job_pages if ex(f)]) +
+              '\n          <h3>By job and province</h3>\n          ' + link_list([(f"{c[0].capitalize()} in {c[4]}", c[5]) for c in combos]))
     set_browse("canada-lmia-employers.html", browse, "<h2>How to use the list in your job search</h2>")
-    print("Canada: %d province, %d city and %d job pages" % (n_prov, n_city, n_job))
+    print("Canada: %d province, %d city, %d job and %d job-in-province pages" % (n_prov, n_city, n_job, n_combo))
 
 
 # ---------------------------------------------------------------- United States (H-1B)
