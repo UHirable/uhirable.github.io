@@ -22,6 +22,237 @@ const ABOUT = "EliseAI builds agentic AI for housing and healthcare: $250M Serie
 
 const JOBS = [
   {
+    id: "canadavisa-chief-of-staff",
+    page: "job-canadavisa-chief-of-staff.html",
+    title: "Chief of Staff",
+    company: "CanadaVisa",
+    industry: "Legal Tech · Immigration",
+    countries: ["Canada"],
+    location: "Toronto, Canada",
+    tags: ["Hybrid", "Full-time", "CA$160K – CA$180K", "Canada work authorization"],
+    brief: "Work as the COO's right hand at a fast-growing AI-native legal tech company, owning growth and revenue projects with a path to a General Manager seat.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "CanadaVisa, together with Cohen Immigration Law, has helped newcomers come to Canada since 1994 and is becoming an AI-native legal technology company. As Chief of Staff you'll work as the COO's right hand, owning growth and revenue initiatives from start to finish. The company says it has grown fivefold since its pivot six months ago, and the role is a clear path to a General Manager seat with full P&L ownership.",
+    responsibilities: [
+      "Lead growth-focused projects with the COO from start to finish, such as pricing tests, add-ons and new service lines beyond immigration.",
+      "Work with the Head of Sales to design and measure tests, track the right KPIs and fix the biggest conversion leaks.",
+      "Run the operating rhythm: weekly scorecards for every function and a goals dashboard every Monday.",
+      "Own financial visibility: a monthly P&L for each business unit, financial and headcount models, and board-ready KPI packs.",
+      "Size markets, map competitors and pricing, then launch and measure the growth initiatives that follow."
+    ],
+    requirements: [
+      "4–10 years of experience, with a background in investment banking or management consulting, or strategy and ops at a scaling tech company.",
+      "At least one role at a tech company or high-growth startup where you built and ran things yourself (founder experience is a strong plus).",
+      "Strong analytical skills: financial models, tests and statistical significance, and clear recommendations from messy data.",
+      "Clear memos and decks, and trusted with confidential financial and people information.",
+      "Hybrid in Toronto, about 3 days a week in the office. Canada work authorization required (no visa sponsorship)."
+    ],
+    compensation: "CA$160K – CA$180K base plus a performance bonus tied to revenue growth and profitability (OTE CA$200K – CA$250K). Flexible vacation, health, dental and wellness coverage."
+  },
+  {
+    id: "canadavisa-senior-client-growth-lawyer",
+    page: "job-canadavisa-senior-client-growth-lawyer.html",
+    title: "Senior Client Growth Lawyer",
+    company: "CanadaVisa",
+    industry: "Legal Tech · Immigration",
+    countries: ["Canada"],
+    location: "Toronto, Canada",
+    tags: ["Hybrid", "Full-time", "CA$130K – CA$160K", "Canada work authorization"],
+    brief: "Turn CanadaVisa's large inbound demand into signed clients, own a $3M+ book and help shape how an AI-native law firm sells and scales.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "CanadaVisa, together with Cohen Immigration Law, has helped newcomers come to Canada since 1994 and is becoming an AI-native legal technology company. The firm says it has more qualified leads than it can serve. As Senior Client Growth Lawyer you'll be a licensed professional and natural closer who owns a $3M+ book and shapes how the growth team sells and scales.",
+    responsibilities: [
+      "Advise warm inbound prospects (work permits, Express Entry, family class, inadmissibility, citizenship by descent) and convert them into signed retainers.",
+      "Own a $3M+ annual revenue target, closing at speed without cutting corners on quality or compliance.",
+      "Build playbooks, scripts and training, and coach associate-level growth lawyers.",
+      "Work with product and engineering to automate intake, qualification and follow-up.",
+      "Use AI tools every day to manage your pipeline."
+    ],
+    requirements: [
+      "5+ years of experience as a lawyer or legal tech sales professional.",
+      "Member in good standing of a Canadian provincial or territorial law society, or an RCIC in good standing with the CICC.",
+      "Proven closer who has carried and beaten a revenue target in legal tech sales, by originating work at a firm, or by running your own practice.",
+      "Hands-on fluency with AI tools such as Claude and ChatGPT (immigration experience is a plus, not required).",
+      "Hybrid in Toronto preferred; Vancouver or Ottawa also considered. Canada work authorization required (no visa sponsorship)."
+    ],
+    compensation: "CA$130K – CA$160K base plus uncapped commission on revenue closed (OTE CA$300K – CA$350K). Flexible vacation, health, dental and wellness coverage."
+  },
+  {
+    id: "canadavisa-associate-client-growth-lawyer",
+    page: "job-canadavisa-associate-client-growth-lawyer.html",
+    title: "Associate Client Growth Lawyer",
+    company: "CanadaVisa",
+    industry: "Legal Tech · Immigration",
+    countries: ["Canada"],
+    location: "Toronto, Canada",
+    tags: ["Hybrid", "Full-time", "CA$80K – CA$100K", "Canada work authorization"],
+    brief: "A client-facing role for a licensed lawyer 1–3 years post-call: advise prospective immigration clients and turn interest into signed retainers, with uncapped commission.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "CanadaVisa, together with Cohen Immigration Law, has helped newcomers come to Canada since 1994 and is becoming an AI-native legal technology company. As Associate Client Growth Lawyer you'll turn the firm's large flow of inbound immigration demand into signed clients. It is a different kind of legal career: client-facing, commission-driven and with full training.",
+    responsibilities: [
+      "Advise prospective clients, assess their immigration situation and turn interest into signed retainers.",
+      "Own each client relationship from the first conversation through to the retainer.",
+      "Carry a revenue target of about $100K a month after a 90-day ramp, with full training and support.",
+      "Use AI tools every day to research, prepare, follow up and manage your pipeline.",
+      "Flag gaps in the firm's platform so engineering can automate intake, qualification and follow-up."
+    ],
+    requirements: [
+      "Member in good standing of a Canadian provincial or territorial law society, 1–3 years post-call (RCICs in good standing with the CICC also welcome).",
+      "Strong communication skills: able to explain complex situations clearly and build trust with first-time clients.",
+      "Comfortable in a client-facing sales role where a large part of pay is commission (no prior sales experience needed).",
+      "Hands-on use of Claude, ChatGPT or similar tools (immigration experience is a plus, not required).",
+      "Hybrid in Toronto preferred; open to Vancouver or Ottawa. Canada work authorization required (no visa sponsorship)."
+    ],
+    compensation: "CA$80K – CA$100K base plus uncapped commission of 3% to 5% of revenue closed (OTE CA$150K+). Flexible vacation, health, dental and wellness coverage."
+  },
+  {
+    id: "canadavisa-lawyer-permanent-residence-practice-lead",
+    page: "job-canadavisa-lawyer-permanent-residence-practice-lead.html",
+    title: "Lawyer, Permanent Residence Practice Lead",
+    company: "CanadaVisa",
+    industry: "Legal Tech · Immigration",
+    countries: ["Canada"],
+    location: "Toronto, Canada",
+    tags: ["Hybrid", "Full-time", "CA$125K – CA$150K", "Canada work authorization"],
+    brief: "Lead a team of about 8 permanent residence case managers at CanadaVisa. A leader-first role for a licensed Canadian lawyer with people management experience.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "CanadaVisa, together with Cohen Immigration Law, has helped newcomers come to Canada since 1994 and is becoming an AI-native legal technology company. As Permanent Residence Practice Lead you'll take ownership of the PR team of about 8 people. This is a leader-first role, not a traditional counsel seat: you build the team, set the legal standard and move the practice from turnaround to growth.",
+    responsibilities: [
+      "Lead, coach and manage performance for about 8 PR case managers, and hire and develop future leaders.",
+      "Own practice results: response times, client satisfaction, team retention and financial performance.",
+      "Give senior legal guidance on complex PR matters and set up quality-control processes.",
+      "Grow capacity and the client experience with the Managing Attorney and executive team.",
+      "Use AI tools and new operations support to scale the practice without lowering legal quality."
+    ],
+    requirements: [
+      "Licensed Canadian lawyer in good standing with a Canadian law society.",
+      "Proven people management experience. This matters most.",
+      "Canadian immigration experience, ideally with PR applications (2+ years preferred).",
+      "Entrepreneurial owner who is comfortable wearing many hats; boutique or small-firm experience is a plus.",
+      "Hybrid in Toronto; exceptions possible for exceptional candidates in Vancouver or Calgary. Canada work authorization required (no visa sponsorship)."
+    ],
+    compensation: "CA$125K – CA$150K base plus a quarterly performance bonus (about CA$16K a year). Law society fees covered, plus extended health, dental, vision and paid time off."
+  },
+  {
+    id: "canadavisa-lawyer-citizenship-practice-lead",
+    page: "job-canadavisa-lawyer-citizenship-practice-lead.html",
+    title: "Lawyer, Citizenship Practice Lead",
+    company: "CanadaVisa",
+    industry: "Legal Tech · Immigration",
+    countries: ["Canada"],
+    location: "Toronto, Canada",
+    tags: ["Hybrid", "Full-time", "CA$150K – CA$175K", "Canada work authorization"],
+    brief: "Lead CanadaVisa's fastest-growing practice: guide about 15 case managers through citizenship files. Management ability matters more than citizenship expertise.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "CanadaVisa, together with Cohen Immigration Law, has helped newcomers come to Canada since 1994 and is becoming an AI-native legal technology company. As Citizenship Practice Lead you'll lead the firm's fastest-growing practice. Recent changes to Canada's citizenship-by-descent rules have driven a surge in demand, and the firm wants a leader first: someone who works alongside the existing lawyer, guides about 15 case managers and grows into the senior lawyer on the practice.",
+    responsibilities: [
+      "Lead, coach and grow a team of about 15 case managers through a high volume of citizenship and proof-of-citizenship files.",
+      "Partner with the practice's current lawyer on legal standards, then grow into the senior leader of the practice.",
+      "Own client outcomes and team metrics such as response times, client satisfaction and team retention.",
+      "Hire, onboard and train talent so the practice can scale without losing legal quality.",
+      "Use AI tools and the AI-assisted client portal to scale the practice, with a path toward General Manager."
+    ],
+    requirements: [
+      "Licensed Canadian lawyer in good standing with a Canadian law society, with 3–8 years of experience.",
+      "Proven people-management experience; management ability matters more than citizenship expertise.",
+      "Immigration experience is a plus but not required; fast learners from other practice areas are welcome.",
+      "Entrepreneurial owner mindset, ideally from a boutique or own-practice background.",
+      "Hybrid in Toronto; exceptions possible for exceptional candidates in Vancouver or Calgary. Canada work authorization required (no visa sponsorship)."
+    ],
+    compensation: "CA$150K – CA$175K base plus a quarterly performance bonus (about CA$16K a year). Law society fees covered, plus extended health, dental, vision and paid time off."
+  },
+  {
+    id: "canadavisa-head-of-operations-service-delivery",
+    page: "job-canadavisa-head-of-operations-service-delivery.html",
+    title: "Head of Operations, Service Delivery",
+    company: "CanadaVisa",
+    industry: "Legal Tech · Immigration",
+    countries: ["Canada"],
+    location: "Toronto, Canada",
+    tags: ["Hybrid", "Full-time", "CA$215K – CA$235K", "Canada work authorization"],
+    brief: "Own everything after the sale across CanadaVisa's legal practices: throughput, turnaround times, capacity, cost per file and AI adoption in delivery.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "CanadaVisa, together with Cohen Immigration Law, has helped newcomers come to Canada since 1994 and is becoming an AI-native legal technology company. As Head of Operations, Service Delivery you'll lead and transform service delivery across the firm's portfolio of legal practices. You own everything after the sale, so delivery keeps pace as sales and growth accelerate.",
+    responsibilities: [
+      "Own end-to-end service delivery: case throughput, turnaround times, backlog, capacity and service levels.",
+      "Lead and coach Practice Leads and Managing Attorneys with operating reviews and scorecards.",
+      "Own the drivers of delivery cost, productivity and contribution margin, working with Finance on budgets and forecasts.",
+      "Build and run a roadmap to modernize delivery through automation and AI, with the CPO and CTO.",
+      "Turn sales forecasts and growth targets into capacity and hiring plans."
+    ],
+    requirements: [
+      "5–12 years of operations experience, including 3+ years leading a high-volume service delivery team.",
+      "Experience leading teams of 20–50+ people, including managers who lead their own teams.",
+      "Track record of redesigning processes with measurable gains in productivity, quality and cost.",
+      "Hands-on experience with budgets, capacity and unit economics, and with driving AI and automation adoption.",
+      "Hybrid in Toronto. Canada work authorization required (no visa sponsorship)."
+    ],
+    compensation: "CA$215K – CA$235K base plus a performance bonus (OTE CA$250K – CA$300K), tied to cost per file and delivery throughput."
+  },
+  {
+    id: "canadavisa-general-immigration-lawyer",
+    page: "job-canadavisa-general-immigration-lawyer.html",
+    title: "Immigration Lawyer (General Application)",
+    company: "CanadaVisa",
+    industry: "Legal Tech · Immigration",
+    countries: ["Canada"],
+    location: "Toronto, Canada",
+    tags: ["Hybrid", "Full-time", "CA$100K – CA$200K", "Canada work authorization"],
+    brief: "A general application for licensed Canadian immigration lawyers at any level, from mid-level to managing attorney. Not tied to one specific vacancy.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "CanadaVisa is a Canadian immigration law firm that has been online since 1994 and is building an AI-native legal practice. This is a general application for immigration lawyers the firm may want to meet. It is not tied to one specific vacancy: strong profiles are shared with the firm for current or future needs, at levels from mid-level lawyer to managing attorney.",
+    responsibilities: [
+      "Handle Canadian immigration matters across the firm's portfolio, such as Express Entry, Provincial Nominee Programs, family sponsorship, work permits and inadmissibility.",
+      "Advise and represent clients through complex immigration and citizenship processes.",
+      "Use and explore AI tools to improve legal workflows and client service.",
+      "Possibly grow into a leadership role, depending on seniority and fit."
+    ],
+    requirements: [
+      "Licensed to practice law in Canada, with direct experience in Canadian immigration law (3–15 years).",
+      "Able to work across a broad portfolio of immigration case types.",
+      "Experience with criminal inadmissibility cases is a strong plus but not required.",
+      "Real curiosity about AI and how it applies to legal practice.",
+      "Hybrid in Toronto, Canada-based working Eastern Time hours. Canada work authorization required (no visa sponsorship)."
+    ],
+    compensation: "CA$100K – CA$200K base, depending on experience level."
+  },
+  {
+    id: "clio-legal-architect-enterprise",
+    page: "job-clio-legal-architect-enterprise.html",
+    title: "Legal Architect, Enterprise",
+    company: "Clio",
+    industry: "Legal Tech · AI",
+    countries: ["Canada"],
+    location: "Toronto, Canada",
+    tags: ["Hybrid", "Full-time", "CA$93K – CA$173K", "Canada work authorization"],
+    brief: "A role for a lawyer with 3–6 years of experience: join Clio's Enterprise team in Toronto as the legal expert who shows top law firms how its Vincent AI changes real legal work.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Clio is a legal technology company founded in 2008 and headquartered in Vancouver, used by legal professionals in more than 130 countries. As a Legal Architect on the Enterprise team in Toronto you'll be a lawyer-turned-subject-matter expert, working with Account Executives to win top law firms and corporate legal teams by showing how Clio's Vincent AI handles real legal work.",
+    responsibilities: [
+      "Join Account Executives in client meetings with partners and legal innovation leaders at top law firms.",
+      "Lead consultative discussions and tailored demos of Vincent AI, grounded in real legal workflows.",
+      "Build the business case for AI adoption across practice areas and design high-impact pilots.",
+      "Act as a trusted advisor to senior stakeholders, from pilot through full rollout.",
+      "Share customer insights with Product and Sales."
+    ],
+    requirements: [
+      "3–6 years of experience (2–10 considered) at an AmLaw 250 firm, or in-house at a tech company with 1,000+ employees.",
+      "JD with a litigation, employment, M&A, finance or insurance background; legal engineers from AI-native firms are also considered.",
+      "Executive presence and strong communication and presentation skills.",
+      "Understanding of the Toronto law firm landscape and legal workflows; passion for AI is a plus.",
+      "Hybrid, at least 2 days a week in the Toronto office. Canada work authorization required (no visa sponsorship)."
+    ],
+    compensation: "CA$93K – CA$173K base with variable pay (OTE CA$133K – CA$247K at 100% attainment), uncapped commission and equity."
+  },
+  {
     id: "seamflow-forward-deployed-engineer-london",
     page: "job-seamflow-forward-deployed-engineer-london.html",
     title: "Forward Deployed Engineer",
