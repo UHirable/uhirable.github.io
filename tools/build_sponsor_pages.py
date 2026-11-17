@@ -4,6 +4,7 @@
 # so the menu and footer always match the rest of the site.
 # It writes only: uk-visa-sponsors-*.html, canada-lmia-employers-*.html, the "browse" block inside
 # the two hub pages, and the matching lines in sitemap.xml.
+import urllib.parse
 import collections, glob, html, json, os, re, sys, unicodedata
 
 YEAR = "2026"  # shown in page titles; bump each January
@@ -497,9 +498,17 @@ CA_SRC = "https://open.canada.ca/data/en/dataset/90fed587-1364-4f33-a9ee-208181d
 CA_CAP = 150
 
 
+def co_link(name):
+    """Company name as a link to a web search for its careers page."""
+    short = re.sub(r"[.,\s]+$", "", re.sub(r"\b(ltd|ltee|limited|inc|incorporated|corp|corporation|llp|llc)\.?$", "", name.strip(), flags=re.I)).strip() or name
+    return (f'<a class="xs-co" href="https://www.google.com/search?q={urllib.parse.quote_plus(short + " careers")}" target="_blank" rel="noopener nofollow" '
+            f'title="Look for this company\'s jobs">{esc(name)} <span aria-hidden="true">↗</span></a>')
+
+
 def ca_table(rows, show_prov):
-    body = "".join(f"<tr><td>{esc(r[0])}</td><td>{esc(r[1] or '-')}{(', ' + esc(r[2])) if show_prov else ''}</td><td>{num(r[3])}</td><td>{esc(r[4])}</td></tr>" for r in rows)
-    return ('<div class="gd-tw spc-tw"><table class="spc-table"><thead><tr><th>Employer</th><th>' + ("City" if not show_prov else "City, province") +
+    body = "".join(f"<tr><td>{co_link(r[0])}</td><td>{esc(r[1] or '-')}{(', ' + esc(r[2])) if show_prov else ''}</td><td>{num(r[3])}</td><td>{esc(r[4])}</td></tr>" for r in rows)
+    return ('<p style="margin:0 0 10px;font-size:.95rem"><b>Click a company name</b> to look for its current jobs.</p>\n          '
+            '<div class="gd-tw spc-tw"><table class="spc-table"><thead><tr><th>Employer</th><th>' + ("City" if not show_prov else "City, province") +
             '</th><th>Positions approved</th><th>Main occupations approved</th></tr></thead><tbody>' + body + "</tbody></table></div>")
 
 
