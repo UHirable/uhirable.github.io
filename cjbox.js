@@ -53,7 +53,7 @@
   const show = () => {
     clearTimeout(widen);
     const [kw, where, place] = tries[n];
-    title.textContent = "More " + (kw ? kw.replace(/\b(it|hr)\b/g, (m) => m.toUpperCase()) + " " : "") + "jobs in " + place;
+    title.textContent = "More " + (kw ? kw.replace(/\b(it|hr)\b/g, (m) => m.toUpperCase()).replace(/\benglish\b/g, "English") + " " : "") + "jobs in " + place;
     // Careerjet's embed code: a div with the search in data- attributes, then their loader script, which puts the frame in it.
     frame.innerHTML = "";
     const box = document.createElement("div");
