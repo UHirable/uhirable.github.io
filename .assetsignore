@@ -1,0 +1,14 @@
+# Files in the repo that are not part of the public site (same format as .gitignore).
+.git
+.github
+.gitignore
+.assetsignore
+.wrangler
+node_modules
+wrangler.jsonc
+worker/
+tools/
+__pycache__/
+*.py
+*.pyc
+CNAME

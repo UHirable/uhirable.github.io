@@ -1,0 +1,15 @@
+{
+  // U Hirable on Cloudflare Workers: the site's files plus one small script (worker/index.js).
+  // The name must match the Worker's name in the Cloudflare dashboard.
+  "name": "uhirable",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-11-01",
+  // A page address that matches no file always reaches worker/index.js, in the browser too.
+  "compatibility_flags": ["assets_navigation_has_no_effect"],
+  "assets": {
+    "directory": "./",
+    "binding": "ASSETS",
+    // Keep every link exactly as it is today: /jobs.html stays /jobs.html (no automatic redirect).
+    "html_handling": "none"
+  }
+}
