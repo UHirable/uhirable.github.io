@@ -300,7 +300,7 @@ if (list && typeof JOBS !== "undefined") {
   render();
 }
 
-// ---------- "Similar live jobs" block under a job (uses cvjobs.js: Lensa, WhatJobs, Jooble) ----------
+// ---------- "Similar live jobs" block under a job (uses cvjobs.js: WhatJobs, Jooble) ----------
 function addSimilarJobs(title) {
   if (document.getElementById("cv-jobs")) return;
   const kw = String(title || "").replace(/\([^)]*\)/g, " ").replace(/\b(senior|sr|lead|staff|principal|junior|jr|associate|head of)\b\.?/gi, " ")

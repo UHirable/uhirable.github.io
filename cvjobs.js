@@ -1,6 +1,6 @@
 // Live jobs block on the CV pages ("Your CV is ready. Now apply").
 // Fills <section id="cv-jobs">. Country comes from the device time zone (next-step.js -> window.UHVisitor); nothing is sent anywhere.
-// Jobs come from the same sources as the job search: Lensa + Jooble (Cloudflare worker) and WhatJobs (wjfeed.js).
+// Jobs come from the same sources as the job search: Jooble (Cloudflare worker) and WhatJobs (wjfeed.js).
 (() => {
   const uhBad = (j) => { const t = String((j && j.title) || "").trim(); return /^[\[\(]/.test(t) || /^hiring\s*(in|for|now|!|:|-|\d)/i.test(t) || /\[hiring\]/i.test(t) || (!(j && j.company) && /\b\d+\s*[x×]\s/i.test(t)); };
   const box = document.getElementById("cv-jobs"); if (!box) return;
@@ -12,7 +12,7 @@
   const clean = (h) => String(h || "").replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
   const count = (path, title) => { try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path, title, event: true }); } catch (e) {} };
   const card = (j, i) => { const desc = clean(j.snippet).slice(0, 150); const chips = [j.location && `<span class="chip">📍 ${esc(j.location)}</span>`, j.type && `<span class="chip pc">${esc(j.type)}</span>`, j.salary && `<span class="chip gold">${esc(j.salary)}</span>`].filter(Boolean).join("");
-    return `<article class="job-card live-card"><span class="promo-badge live">Live</span><div class="job-head"><div class="icon3d ${i % 2 ? "gold" : ""} js-ini">${esc(((String(j.company || j.title || "").trim().match(/[\p{L}\p{N}]/u) || ["•"])[0].toUpperCase()))}</div><div><h3>${esc(j.title)}</h3><p class="meta">${j.source === "whatjobs" ? "via WhatJobs" : esc(j.company || "Company not listed") + (j.source === "lensa" ? " · via Lensa" : "")}</p></div></div><div class="chips">${chips}</div><p class="desc">${esc(desc)}${desc.length >= 150 ? "…" : ""}</p><div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${esc(j.link)}" target="_blank" rel="noopener nofollow${j.source === "lensa" || j.source === "whatjobs" ? " sponsored" : ""}" data-src="${esc(j.source || "")}">Apply</a></div></article>`; };
+    return `<article class="job-card live-card"><span class="promo-badge live">Live</span><div class="job-head"><div class="icon3d ${i % 2 ? "gold" : ""} js-ini">${esc(((String(j.company || j.title || "").trim().match(/[\p{L}\p{N}]/u) || ["•"])[0].toUpperCase()))}</div><div><h3>${esc(j.title)}</h3><p class="meta">${j.source === "whatjobs" ? "via WhatJobs" : esc(j.company || "Company not listed")}</p></div></div><div class="chips">${chips}</div><p class="desc">${esc(desc)}${desc.length >= 150 ? "…" : ""}</p><div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${esc(j.link)}" target="_blank" rel="noopener nofollow${j.source === "whatjobs" ? " sponsored" : ""}" data-src="${esc(j.source || "")}">Apply</a></div></article>`; };
 
   const geo = window.UHVisitor;
   // Guide pages can fix the country, keyword and heading: <section id="cv-jobs" data-cc="uk" data-q="nurse" data-title="…" data-sub="…">
@@ -30,16 +30,14 @@
   // Pre-fill the job title from the CV builder form when there is one
   const fromBuilder = () => { const t = document.getElementById("f-title"); return t && t.value ? t.value.trim() : ""; };
 
-  const rr = (...L) => { const o = []; const n = Math.max(0, ...L.map((a) => a.length)); for (let k = 0; k < n; k++) L.forEach((a) => { if (a[k]) o.push(a[k]); }); return o; };
   let seq = 0;
   async function fetchJobs(c, kw) {
     const L = D.l && c === D.cc ? D.l : ""; // guide pages can fix a city or region: data-l="Manchester"
     const jooble = fetch(API + "?src=jooble&cc=" + c + "&q=" + encodeURIComponent((kw + " " + L).trim()) + "&page=1").then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] }));
-    const lensa = c === "us" ? fetch(API + "?src=lensa&q=" + encodeURIComponent(kw) + "&page=1").then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] })) : Promise.resolve({ jobs: [] });
     const wj = window.UHWJF && UHWJF.has(c) ? UHWJF.fetch(c, kw, L || null, 1).catch(() => ({ jobs: [] })) : Promise.resolve({ jobs: [] });
-    const [j, w, l] = await Promise.all([jooble, wj, lensa]);
-    // one card from each available source in turn, paying partners first: Lensa, WhatJobs, Jooble
-    return { jobs: (w.jobs || []).concat(rr(l.jobs || [], (j.jobs || []).filter((x) => !uhBad(x)))), total: (j.totalCount || 0) + (l.totalCount || 0) };
+    const [j, w] = await Promise.all([jooble, wj]);
+    // WhatJobs (paying partner) first, then Jooble
+    return { jobs: (w.jobs || []).concat((j.jobs || []).filter((x) => !uhBad(x))), total: j.totalCount || 0 };
   }
   async function load(auto) {
     const my = ++seq; const kw = qEl.value.trim(); cc = ccEl.value;

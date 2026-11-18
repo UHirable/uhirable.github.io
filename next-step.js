@@ -117,13 +117,12 @@
       const late = new Promise((r) => setTimeout(() => r(null), 7000));
       const pull = (k) => Promise.all([
         window.UHWJF && UHWJF.has(g[0]) ? UHWJF.fetch(g[0], k, null, 1).catch(() => ({ jobs: [] })) : { jobs: [] },
-        g[0] === "us" ? get(API + "?src=lensa&q=" + encodeURIComponent(k) + "&page=1") : { jobs: [] },
         get(API + "?src=jooble&cc=" + g[0] + "&q=" + encodeURIComponent(k) + "&page=1"),
-      ]).then(([w, l, j]) => { const L = [l.jobs || [], w.jobs || [], (j.jobs || []).filter((x) => !uhBad(x))], o = []; for (let k2 = 0; k2 < 3; k2++) L.forEach((a) => { if (a[k2]) o.push(a[k2]); }); return o.filter((x) => x && x.title && x.link).slice(0, 3); });
+      ]).then(([w, j]) => { const L = [w.jobs || [], (j.jobs || []).filter((x) => !uhBad(x))], o = []; for (let k2 = 0; k2 < 3; k2++) L.forEach((a) => { if (a[k2]) o.push(a[k2]); }); return o.filter((x) => x && x.title && x.link).slice(0, 3); });
       Promise.race([pull(kw).then((o) => (o.length || !kw ? o : pull(""))), late]).then((jobs) => {
         if (!ov.isConnected) return;
         if (!jobs || !jobs.length) { jb.hidden = true; dlg.classList.remove("has-jobs"); return; }
-        jb.innerHTML = head + jobs.map((j) => `<a class="uhns-job" href="${esc(j.link)}" target="_blank" rel="noopener nofollow${j.source === "lensa" || j.source === "whatjobs" ? " sponsored" : ""}" data-src="${esc(j.source || "jooble")}"><span><b>${esc(j.title)}</b><small>${esc([j.source === "whatjobs" ? "" : j.company, j.location].filter(Boolean).join(" · ") || g[1])}</small></span><em>Apply →</em></a>`).join("");
+        jb.innerHTML = head + jobs.map((j) => `<a class="uhns-job" href="${esc(j.link)}" target="_blank" rel="noopener nofollow${j.source === "whatjobs" ? " sponsored" : ""}" data-src="${esc(j.source || "jooble")}"><span><b>${esc(j.title)}</b><small>${esc([j.source === "whatjobs" ? "" : j.company, j.location].filter(Boolean).join(" · ") || g[1])}</small></span><em>Apply →</em></a>`).join("");
         ov.querySelector(".uhns-go").textContent = "See all jobs in " + g[2] + " →";
         count("popup-jobs/" + region, "CV ready window: jobs shown (" + region + ")");
       });

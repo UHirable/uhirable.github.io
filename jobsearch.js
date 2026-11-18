@@ -1,4 +1,4 @@
-// Live jobs on the Search Jobs page. Our own jobs render first (script.js); this adds live results below via our Cloudflare worker (Jooble, Lensa) and WhatJobs (wjfeed.js).
+// Live jobs on the Search Jobs page. Our own jobs render first (script.js); this adds live results below via our Cloudflare worker (Jooble) and WhatJobs (wjfeed.js).
 (() => {
   const uhBad = (j) => { const t = String((j && j.title) || "").trim(); return /^[\[\(]/.test(t) || /^hiring\s*(in|for|now|!|:|-|\d)/i.test(t) || /\[hiring\]/i.test(t) || (!(j && j.company) && /\b\d+\s*[x×]\s/i.test(t)); };
   const API = "https://uhirable-jobs.amel-moussa10.workers.dev/";
@@ -85,14 +85,12 @@
     return false;
   };
 
-  // ?src=lensa (links shared in posts): show Lensa results only, hide our own jobs
-  const LENSA = new URLSearchParams(location.search).get("src") === "lensa";
   let page = 1, shown = 0, total = 0, seq = 0, wjPage = 1, wjDone = true;
   const clean = (h) => String(h || "").replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
   const ago = (d) => { const t = Date.parse(d); if (!t) return ""; const days = Math.floor((Date.now() - t) / 864e5); return days <= 0 ? "Today" : days === 1 ? "Yesterday" : days < 30 ? days + " days ago" : ""; };
   if (!window.UHCvPop && !document.querySelector('script[src="cv-popup.js"]')) { const _s = document.createElement("script"); _s.src = "cv-popup.js"; document.head.appendChild(_s); }
   const card = (j, i) => { const desc = clean(j.snippet).slice(0, 170); const chips = [j.location && `<span class="chip">📍 ${esc(j.location)}</span>`, j.type && `<span class="chip pc">${esc(j.type)}</span>`, j.salary && `<span class="chip gold">${esc(j.salary)}</span>`, ago(j.updated) && `<span class="chip">${ago(j.updated)}</span>`].filter(Boolean).join("");
-    return `<article class="job-card live-card"><div class="job-head"><div class="icon3d ${i % 2 ? "gold" : ""} js-ini">${esc(((String(j.company || j.title || "").trim().match(/[\p{L}\p{N}]/u) || ["•"])[0].toUpperCase()))}</div><div><h3>${esc(j.title)}</h3><p class="meta">${j.source === "whatjobs" ? "via WhatJobs" : esc(j.company || "Company not listed") + (j.source === "lensa" ? " · via Lensa" : "")}</p></div></div><div class="chips">${chips}</div><p class="desc">${esc(desc)}${desc.length >= 170 ? "…" : ""}</p><div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${esc(j.link)}" target="_blank" rel="noopener nofollow${j.source === "lensa" || j.source === "whatjobs" ? " sponsored" : ""}" data-src="${esc(j.source || "")}">Apply</a></div></article>`; };
+    return `<article class="job-card live-card"><div class="job-head"><div class="icon3d ${i % 2 ? "gold" : ""} js-ini">${esc(((String(j.company || j.title || "").trim().match(/[\p{L}\p{N}]/u) || ["•"])[0].toUpperCase()))}</div><div><h3>${esc(j.title)}</h3><p class="meta">${j.source === "whatjobs" ? "via WhatJobs" : esc(j.company || "Company not listed")}</p></div></div><div class="chips">${chips}</div><p class="desc">${esc(desc)}${desc.length >= 170 ? "…" : ""}</p><div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${esc(j.link)}" target="_blank" rel="noopener nofollow${j.source === "whatjobs" ? " sponsored" : ""}" data-src="${esc(j.source || "")}">Apply</a></div></article>`; };
 
 
   // VanHack tech jobs that match the search, shown as normal cards among the results
@@ -108,20 +106,18 @@
     const city = here ? place.city : "";       // "" when only a country was typed
     const jq = city ? (kw + " " + city).trim() : kw; // Jooble: city stays in the keywords
     const liveCountry = CC[country] && country !== "United States";
-    const lo = LENSA && (country === "United States" || country === "all");
-    if (LENSA) { ownList.style.display = lo ? "none" : ""; if (countEl) countEl.style.display = lo ? "none" : ""; }
-    const wantLive = lo || liveCountry || (raw && (country === "United States" || country === "all"));
+    const wantLive = liveCountry || (raw && (country === "United States" || country === "all"));
     const vhPhrase = kw.toLowerCase().replace(/\s+/g, " ").trim();
     if (!wantLive) { const h = reset ? vhHits(country, vhPhrase) : []; if (h.length) { page = 1; shown = h.length; list.innerHTML = h.join(""); wrap.hidden = false; status.hidden = true; more.hidden = true; } else wrap.hidden = true; return; }
     const cc = CC[country] || "us";
-    if (reset) { page = 1; wjPage = 1; wjDone = lo || !(window.UHWJF && UHWJF.has(cc)); total = 0; shown = 0; list.innerHTML = ""; const h = vhHits(country, vhPhrase); if (h.length) { list.innerHTML = h.join(""); shown = h.length; } }
+    if (reset) { page = 1; wjPage = 1; wjDone = !(window.UHWJF && UHWJF.has(cc)); total = 0; shown = 0; list.innerHTML = ""; const h = vhHits(country, vhPhrase); if (h.length) { list.innerHTML = h.join(""); shown = h.length; } }
     const my = ++seq; wrap.hidden = false; status.hidden = false; status.className = "js-bar"; status.textContent = "Loading live jobs in " + (country === "all" ? "the United States" : country) + "…"; more.hidden = true;
     if (ownList.querySelector(".empty")) { ownList.innerHTML = ""; if (countEl) countEl.textContent = ""; }
     try {
       const phrase = kw.toLowerCase().replace(/\s+/g, " ").trim();
       const exact = (j) => !phrase || clean(j.title).toLowerCase().replace(/\s+/g, " ").includes(phrase);
-      // WhatJobs (paying partner) first: show all its pages, then fill with Lensa / Jooble
-      let wJobs = [], jJobs = [], lJobs = [], jMore = false, failed = false;
+      // WhatJobs (paying partner) first: show all its pages, then fill with Jooble
+      let wJobs = [], jJobs = [], jMore = false, failed = false;
       if (!wjDone) {
         const wjData = await UHWJF.fetch(cc, kw, city || null, wjPage);
         if (my !== seq) return;
@@ -129,22 +125,18 @@
       }
       if (wjDone) {
         const jp = page;
-        const jooblePromise = lo ? Promise.resolve({ jobs: [], totalCount: 0 }) : fetch(API + "?src=jooble&cc=" + cc + "&q=" + encodeURIComponent(jq) + "&page=" + jp).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }).catch(() => ({ jobs: [], totalCount: 0, failed: true }));
-        const lensaPromise = cc === "us" ? fetch(API + "?src=lensa&q=" + encodeURIComponent(kw) + (city ? "&city=" + encodeURIComponent(city) : "") + "&page=" + jp).then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] })) : Promise.resolve({ jobs: [], totalCount: 0 });
-        const [joobleData, lensaData] = await Promise.all([jooblePromise, lensaPromise]);
+        const joobleData = await fetch(API + "?src=jooble&cc=" + cc + "&q=" + encodeURIComponent(jq) + "&page=" + jp).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }).catch(() => ({ jobs: [], totalCount: 0, failed: true }));
         if (my !== seq) return;
         page++;
-        jMore = (joobleData.jobs || []).length + (lensaData.jobs || []).length >= 20;
+        jMore = (joobleData.jobs || []).length >= 20;
         jJobs = (joobleData.jobs || []).filter((j) => !uhBad(j) && exact(j));
-        lJobs = (lensaData.jobs || []).filter(exact);
         failed = !!joobleData.failed;
-        total = Math.max(total, (joobleData.totalCount || 0) + (lensaData.totalCount || 0));
+        total = Math.max(total, joobleData.totalCount || 0);
       }
       const rawMore = !wjDone || jMore;
-      if (failed && !wJobs.length && !lJobs.length && !jJobs.length && !shown) throw new Error("no live jobs");
-      // Lensa and Jooble take turns after the WhatJobs jobs
-      const rr = (...L) => { const o = []; const n = Math.max(0, ...L.map((a) => a.length)); for (let k = 0; k < n; k++) L.forEach((a) => { if (a[k]) o.push(a[k]); }); return o; };
-      const jobs = wJobs.concat(rr(lJobs, jJobs));
+      if (failed && !wJobs.length && !jJobs.length && !shown) throw new Error("no live jobs");
+      // Jooble jobs come after the WhatJobs jobs
+      const jobs = wJobs.concat(jJobs);
       total = Math.max(total, shown + jobs.length);
       const plus = rawMore ? "+" : "";
 
