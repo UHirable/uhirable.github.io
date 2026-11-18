@@ -1711,3 +1711,20 @@ textarea { resize: vertical; }
 .hj-cat i{font-style:normal;color:#c8ffe2;margin-left:6px}
 .hj-more{flex-basis:100%;color:#fff;font-weight:900;font-size:1rem;margin-top:2px}
 @media(max-width:700px){.hj-cat{font-size:.9rem;padding:5px 11px}.hj-more{font-size:.92rem}}
+/* home: Remotive full width; Paraform card as a wide banner before Lilo */
+.rm-two{grid-template-columns:minmax(0,1fr)}
+.pf-wide{padding-top:26px;padding-bottom:0}
+.pf-wide .pf-card{margin:0;display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:10px 26px;padding:20px 26px}
+.pf-wide .pf-card .promo-badge{display:none}
+.pf-wide .pf-card .job-head{margin:0}
+.pf-wide .pf-card h3{font-size:1.4rem;line-height:1.2;margin:0}
+.pf-wide .pf-card .meta{font-size:1rem;color:#000;margin:2px 0 0}
+.pf-wide .pf-card .desc{display:block;font-size:1.02rem;line-height:1.45;color:#1d1d3a;margin:0}
+.pf-wide .pf-card .job-actions{margin:0}
+.pf-wide .pf-card .job-actions .promo-btn{font-size:1rem;padding:11px 20px;white-space:nowrap}
+.pf-wide+.ask-sec{padding-top:70px}
+@media(max-width:900px){.pf-wide .pf-card{grid-template-columns:1fr;gap:12px}.pf-wide+.ask-sec{padding-top:40px}}
+.pf-wide{padding:26px 0 0}
+.pf-wide+.ask-sec{padding-top:150px}
+.hj-cat{font-size:.94rem;padding:6px 12px}.hj-cats{gap:8px}
+@media(max-width:900px){.pf-wide+.ask-sec{padding-top:40px}}
