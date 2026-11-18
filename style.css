@@ -1563,3 +1563,151 @@ textarea { resize: vertical; }
 .duo-wa li:before{width:20px;height:20px;font-size:.7rem}
 .duo-wa .btn,.duo-wa a.btn,.duo-wa>a{justify-self:start;padding:11px 20px;font-size:1rem}
 @media (max-width:860px){.ask-sec{padding-top:40px}.ask-sec .duo{grid-template-columns:1fr}.duo-wa{display:none!important}.duo>.duo-lilo{padding:200px 20px 24px;min-height:0;margin-top:80px;align-items:center;text-align:center}.duo-lilo .ask-art{width:280px;height:280px;left:50%;transform:translateX(-50%);top:-85px;bottom:auto}.duo-lilo>.tt-pill,.duo-lilo .btn{align-self:center}}
+/* hackajob UK strip */
+.hj-strip{position:relative;grid-column:1/-1;min-width:0;border:2px solid #1ef398;border-radius:22px;background:linear-gradient(135deg,#050b3f,#0d1240 55%,#0b2a4a);padding:30px 20px 12px;margin-top:22px;color:#fff;--pc:#1ef398;--pt:#050b3f;box-shadow:0 10px 30px rgba(30,243,152,.18)}
+.hj-head{display:flex;align-items:center;justify-content:space-between;gap:12px 18px;flex-wrap:wrap;margin-bottom:12px}
+.hj-head h2{font-size:1.4rem;margin:0;color:#fff}.hj-head h2 span{color:#1ef398}
+.hj-head>div{min-width:0;flex:1 1 320px}.hj-head .meta{margin:3px 0 0;color:#d5d8fa;font-size:.88rem}
+.btn.hj-btn{--b:#1ef398;--t:#050b3f;--edge:#0fae6a;border-color:#1ef398;white-space:nowrap}
+.hj-row{display:flex;gap:12px;overflow-x:auto;padding:4px 2px 12px;scroll-snap-type:x mandatory;scrollbar-width:thin;scrollbar-color:#1ef398 transparent}
+.hj-card{flex:0 0 232px;scroll-snap-align:start;background:rgba(255,255,255,.07);border:1px solid rgba(30,243,152,.38);border-radius:16px;padding:12px 14px;text-decoration:none;color:#fff;display:flex;flex-direction:column;gap:6px;min-height:128px;transition:transform .15s,background .15s}
+.hj-card:hover{transform:translateY(-2px);background:rgba(255,255,255,.12)}
+.hj-co{font-size:.76rem;color:#1ef398;font-weight:800;text-transform:uppercase;letter-spacing:.04em}
+.hj-card b{font-size:.95rem;line-height:1.25}
+.hj-loc{font-size:.8rem;color:#d5d8fa}
+.hj-sal{margin-top:auto;align-self:flex-start;background:#1ef398;color:#050b3f;font-weight:800;font-size:.8rem;padding:4px 10px;border-radius:999px}
+.hj-note{font-size:.74rem;color:#b9bef0;margin:0}
+@media(max-width:700px){.hj-head h2{font-size:1.2rem}.btn.hj-btn{width:100%;text-align:center}}
+.hj-tabs{position:absolute;top:-15px;left:18px;right:18px;display:flex;justify-content:space-between;gap:8px}
+.hj-tab{font:inherit;cursor:pointer;background:#0d1240;color:#1ef398;border:2px solid #1ef398;font-size:.74rem;font-weight:800;letter-spacing:.04em;padding:5px 14px;border-radius:999px;text-transform:uppercase;transition:background .15s,color .15s}
+.hj-tab.on,.hj-tab:hover{background:#1ef398;color:#050b3f}
+.hj-row[hidden],.hj-strip .meta[hidden]{display:none}
+/* hackajob strip: bolder, flatter, bigger tags, wider cards */
+.hj-strip{padding-top:38px;margin-top:30px}
+.hj-strip,.hj-strip .meta,.hj-loc,.hj-note,.hj-card b,.hj-co{font-weight:800}
+.hj-head h2{font-size:1.6rem;font-weight:900}
+.hj-head .meta{color:#fff;font-size:.98rem}
+.hj-loc{color:#fff;font-size:.9rem}.hj-card b{font-size:1.08rem}.hj-co{font-size:.85rem}
+.hj-sal{font-size:.92rem;font-weight:900;padding:5px 13px}
+.hj-note{color:#e3e6ff;font-size:.82rem}
+.hj-card{flex:0 0 285px;min-height:150px;padding:15px 17px;background:#111a52;border:2px solid #1ef398}
+.hj-card:hover{background:#18236a}
+.hj-tabs{top:-22px}
+.hj-tab{font-size:1.02rem;font-weight:900;padding:9px 24px;border-width:3px}
+.btn.hj-btn{box-shadow:none;transform:none;font-weight:900;font-size:1rem;padding:11px 20px;border-radius:14px}
+.btn.hj-btn:hover,.btn.hj-btn:active{box-shadow:none;transform:none;filter:brightness(1.08)}
+@media(max-width:700px){.hj-tab{font-size:.82rem;padding:7px 12px}.hj-card{flex-basis:255px}.hj-head h2{font-size:1.3rem}}
+/* hackajob strip: white theme with site blue */
+.hj-strip{background:#fff;border:3px solid #0112ff;color:#0d1240;--pc:#0112ff;--pt:#fff;box-shadow:0 10px 30px rgba(1,18,255,.14)}
+.hj-head h2{color:#050b3f}.hj-head h2 span{color:#0112ff}
+.hj-head .meta,.hj-loc{color:#0d1240}.hj-note{color:#3a4170}
+.hj-row{scrollbar-color:#0112ff transparent}
+.hj-card{background:#eef0ff;border:2px solid #0112ff;color:#050b3f}.hj-card:hover{background:#dde1ff}
+.hj-co{color:#0112ff}
+.hj-sal{background:#0112ff;color:#fff}
+.hj-tab{background:#fff;color:#0112ff;border-color:#0112ff}.hj-tab.on,.hj-tab:hover{background:#0112ff;color:#fff}
+.btn.hj-btn{--b:#0112ff;--t:#fff;--edge:#0112ff;border-color:#0112ff}
+/* hackajob strip: white theme with green (final palette) */
+.hj-strip{background:#fff;border:3px solid #0a9d63;color:#0d1240;--pc:#0a9d63;--pt:#fff;box-shadow:0 10px 30px rgba(10,157,99,.16)}
+.hj-head h2{color:#050b3f}.hj-head h2 span{color:#0a9d63}
+.hj-row{scrollbar-color:#0a9d63 transparent}
+.hj-card{background:#eafff5;border:2px solid #0a9d63;color:#050b3f}.hj-card:hover{background:#d3fbe8}
+.hj-co{color:#087a4d}
+.hj-sal{background:#0a9d63;color:#fff}
+.hj-tab{background:#fff;color:#087a4d;border-color:#0a9d63}.hj-tab.on,.hj-tab:hover{background:#0a9d63;color:#fff}
+.btn.hj-btn{--b:#0a9d63;--t:#fff;--edge:#0a9d63;border-color:#0a9d63}
+/* hackajob strip: green background (final) */
+.hj-strip{background:linear-gradient(135deg,#0a9d63,#078453);border:3px solid #067347;color:#fff;--pc:#fff;--pt:#067347;box-shadow:0 10px 30px rgba(10,157,99,.25)}
+.hj-head h2{color:#fff}.hj-head h2 span{color:#c9ffe6}
+.hj-head .meta,.hj-note{color:#fff}
+.hj-row{scrollbar-color:#fff transparent}
+.hj-card{background:#fff;border:2px solid #fff;color:#050b3f}.hj-card:hover{background:#eafff5}
+.hj-card .hj-loc{color:#0d1240}.hj-co{color:#087a4d}
+.hj-sal{background:#0a9d63;color:#fff}
+.hj-tab{background:#078453;color:#fff;border-color:#fff}.hj-tab.on,.hj-tab:hover{background:#fff;color:#067347}
+.btn.hj-btn{--b:#fff;--t:#067347;--edge:#fff;border-color:#fff}
+/* hackajob strip: dark olive green + moving cursor hint */
+.hj-strip{background:linear-gradient(135deg,#3a5a1c,#2b4514);border:3px solid #24390f;box-shadow:0 10px 30px rgba(43,69,20,.3);--pt:#2b4514}
+.hj-head h2 span{color:#d9f99d}
+.hj-card:hover{background:#f4fce8}
+.hj-co{color:#4d7c0f}.hj-sal{background:#3f6212;color:#fff}
+.hj-tab{background:#2b4514;color:#fff;border-color:#fff}.hj-tab.on,.hj-tab:hover,.hj-tab.hint{background:#fff;color:#2b4514}
+.hj-tab{transition:background .2s,color .2s,transform .2s}.hj-tab.hint{transform:scale(1.08)}
+.btn.hj-btn{--t:#2b4514}
+.hj-cur{position:absolute;left:0;top:0;pointer-events:none;z-index:3;transition:transform 1s cubic-bezier(.45,.05,.3,1);filter:drop-shadow(0 2px 3px rgba(0,0,0,.35))}
+/* hackajob strip: flat dark green + soft shine */
+.hj-strip{background:#0b5a3a;border:3px solid #084a2f;box-shadow:none;--pt:#0b5a3a}
+.hj-strip::before{content:"";position:absolute;inset:0;border-radius:19px;pointer-events:none;background:linear-gradient(115deg,transparent 35%,rgba(255,255,255,.16) 48%,rgba(255,255,255,.04) 56%,transparent 66%);background-size:260% 100%;background-position:120% 0;animation:hjshine 6s ease-in-out infinite}
+@keyframes hjshine{0%,55%{background-position:120% 0}100%{background-position:-60% 0}}
+@media(prefers-reduced-motion:reduce){.hj-strip::before{animation:none;background-position:40% 0}}
+.hj-head,.hj-row,.hj-note{position:relative;z-index:1}.hj-tabs{z-index:2}
+.hj-head h2 span{color:#b7f7d2}
+.hj-card{box-shadow:none}.hj-card:hover{background:#edfdf4}
+.hj-co{color:#0b7a4b}.hj-sal{background:#0b5a3a;color:#fff}
+.hj-tab{background:#0b5a3a}.hj-tab.on,.hj-tab:hover,.hj-tab.hint{background:#fff;color:#0b5a3a}
+.btn.hj-btn{--t:#0b5a3a}
+.hj-cur{filter:none}
+/* hackajob strip: metallic dark green (gold-style depth) */
+.hj-strip{background:linear-gradient(135deg,#063d27 0%,#0b6b44 28%,#17a06a 48%,#0b6b44 68%,#063d27 100%);border:3px solid #7fe3b4;box-shadow:0 12px 30px rgba(6,61,39,.35),inset 0 2px 0 rgba(255,255,255,.28),inset 0 -6px 14px rgba(0,0,0,.22);--pt:#06472e}
+.hj-strip::before{background:linear-gradient(115deg,transparent 38%,rgba(255,255,255,.32) 49%,rgba(255,255,255,.08) 56%,transparent 64%);background-size:260% 100%;animation:hjshine 5s ease-in-out infinite}
+.hj-head h2{text-shadow:0 2px 0 rgba(0,0,0,.25)}.hj-head h2 span{color:#c8ffe2}
+.hj-card{box-shadow:0 5px 0 #05402a,0 10px 18px rgba(0,0,0,.2);border-color:#fff}
+.hj-row{padding-bottom:16px}
+.hj-co{color:#0b7a4b}.hj-sal{background:linear-gradient(180deg,#12905c,#0a5f3d);color:#fff}
+.hj-tab{background:linear-gradient(180deg,#0f7a4e,#07482f);box-shadow:0 4px 0 #04301f}
+.hj-tab.on,.hj-tab:hover,.hj-tab.hint{background:#fff;color:#06472e;box-shadow:0 4px 0 #bfe9d3}
+.btn.hj-btn{--b:#fff;--t:#06472e;--edge:#bfe9d3;border-color:#fff;box-shadow:0 6px 0 var(--edge),0 14px 22px -8px rgba(0,0,0,.45)}
+.btn.hj-btn:hover{transform:translateY(-2px);box-shadow:0 8px 0 var(--edge),0 18px 26px -10px rgba(0,0,0,.5);filter:none}
+.btn.hj-btn:active{transform:translateY(5px);box-shadow:0 1px 0 var(--edge);filter:none}
+.hj-cur{filter:drop-shadow(0 2px 3px rgba(0,0,0,.4))}
+/* hackajob strip: light grey shadows, bigger bolder white text */
+.hj-card{box-shadow:0 5px 0 #cfd5d2}
+.hj-tab{box-shadow:0 4px 0 #cfd5d2}.hj-tab.on,.hj-tab:hover,.hj-tab.hint{box-shadow:0 4px 0 #cfd5d2}
+.btn.hj-btn{--edge:#cfd5d2;box-shadow:0 6px 0 var(--edge)}
+.btn.hj-btn:hover{box-shadow:0 8px 0 var(--edge)}
+.hj-head h2{font-size:1.95rem;font-weight:900;text-shadow:none}
+.hj-head .meta{font-size:1.15rem;font-weight:900}
+.hj-note{font-size:1rem;font-weight:900;color:#fff}
+.hj-tab{font-weight:900;font-size:1.08rem}
+@media(max-width:700px){.hj-head h2{font-size:1.5rem}.hj-head .meta{font-size:1rem}.hj-tab{font-size:.84rem}.hj-note{font-size:.92rem}}
+.hj-head .meta{font-size:1.05rem}
+@media(max-width:700px){.hj-head .meta{font-size:1rem}}
+/* hackajob strip: no drop shadows, bevel-only 3D, larger text throughout */
+.hj-strip{box-shadow:inset 0 3px 0 rgba(255,255,255,.3),inset 0 -8px 16px rgba(0,0,0,.22)}
+.hj-card,.hj-card:hover{box-shadow:none;background:linear-gradient(180deg,#fff 0%,#fff 70%,#e6efea 100%)}
+.hj-tab,.hj-tab.on,.hj-tab:hover,.hj-tab.hint{box-shadow:none}
+.hj-tab.on,.hj-tab:hover,.hj-tab.hint{background:linear-gradient(180deg,#fff 55%,#dfe9e4)}
+.btn.hj-btn,.btn.hj-btn:hover,.btn.hj-btn:active{box-shadow:none;transform:none;background:linear-gradient(180deg,#fff 55%,#dfe9e4)}
+.btn.hj-btn:hover{filter:brightness(1.04)}
+.hj-cur{filter:none}
+.hj-head h2{font-size:2.15rem}
+.hj-head .meta{font-size:1.15rem}
+.hj-note{font-size:1.1rem}
+.hj-tab{font-size:1.2rem;padding:10px 26px}
+.btn.hj-btn{font-size:1.12rem;padding:13px 22px}
+.hj-card{flex-basis:310px;min-height:176px;padding:18px 20px;gap:8px}
+.hj-co{font-size:.98rem}.hj-card b{font-size:1.25rem}.hj-loc{font-size:1.05rem}.hj-sal{font-size:1.08rem;padding:6px 15px}
+.hj-tabs{top:-26px}.hj-strip{padding-top:44px;margin-top:36px}
+@media(max-width:700px){.hj-head h2{font-size:1.6rem}.hj-head .meta{font-size:1.05rem}.hj-note{font-size:1rem}.hj-tab{font-size:.9rem;padding:8px 12px}.hj-card{flex-basis:270px}.hj-card b{font-size:1.15rem}.btn.hj-btn{font-size:1.05rem}.hj-tabs{top:-22px}}
+/* hackajob strip: softer shine, larger text again */
+.hj-strip{background:linear-gradient(135deg,#063d27 0%,#0a5f3d 30%,#0f7a4e 50%,#0a5f3d 70%,#063d27 100%);box-shadow:inset 0 2px 0 rgba(255,255,255,.16),inset 0 -6px 12px rgba(0,0,0,.16)}
+.hj-strip::before{background:linear-gradient(115deg,transparent 40%,rgba(255,255,255,.14) 50%,rgba(255,255,255,.03) 56%,transparent 62%);background-size:260% 100%;animation-duration:7s}
+.hj-head h2{font-size:2.5rem}
+.hj-head .meta{font-size:1.3rem}
+.hj-note{font-size:1.25rem}
+.hj-tab{font-size:1.35rem;padding:11px 28px}
+.btn.hj-btn{font-size:1.25rem;padding:14px 24px}
+.hj-card{flex-basis:340px;min-height:196px}
+.hj-co{font-size:1.1rem}.hj-card b{font-size:1.42rem}.hj-loc{font-size:1.18rem}.hj-sal{font-size:1.2rem;padding:7px 17px}
+.hj-tabs{top:-28px}.hj-strip{padding-top:48px}
+@media(max-width:700px){.hj-head h2{font-size:1.8rem}.hj-head .meta{font-size:1.15rem}.hj-note{font-size:1.1rem}.hj-tab{font-size:.95rem;padding:8px 11px}.hj-card{flex-basis:285px}.hj-card b{font-size:1.28rem}.hj-loc{font-size:1.1rem}.hj-sal{font-size:1.12rem}.btn.hj-btn{font-size:1.12rem}.hj-tabs{top:-22px;left:10px;right:10px}}
+.hj-hl{background:#c8ffe2;color:#06472e;padding:2px 10px;border-radius:8px;font-weight:900;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.hj-head .meta{line-height:1.7}
+.hj-hl{display:inline-block;margin-top:4px;line-height:1.35}
+/* hackajob strip: departments with live counts */
+.hj-cats{position:relative;z-index:1;display:flex;flex-wrap:wrap;align-items:center;gap:8px 10px;margin:2px 0 14px}
+.hj-cats[hidden]{display:none}
+.hj-cat{background:rgba(255,255,255,.12);border:2px solid rgba(255,255,255,.75);color:#fff;font-weight:900;font-size:1.02rem;padding:6px 14px;border-radius:999px;white-space:nowrap}
+.hj-cat i{font-style:normal;color:#c8ffe2;margin-left:6px}
+.hj-more{flex-basis:100%;color:#fff;font-weight:900;font-size:1rem;margin-top:2px}
+@media(max-width:700px){.hj-cat{font-size:.9rem;padding:5px 11px}.hj-more{font-size:.92rem}}
