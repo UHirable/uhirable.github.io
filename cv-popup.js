@@ -42,9 +42,9 @@
   });
   window.UHCvPop = { open, close };
 
-  // Arabic-market pages: show a template link above the footer
+  // Arabic-market country pages (egypt.html, uae.html, …): show a template link above the footer. Not on the "X jobs in <city>" pages.
   const f = (location.pathname.split("/").pop() || "");
-  if (/-in-(bahrain|cairo|doha|dubai|kuwait|riyadh)\.html$/.test(f) || /^(egypt|uae|saudi-arabia|qatar|kuwait|bahrain)\.html$/.test(f)) {
+  if (/^(egypt|uae|saudi-arabia|qatar|kuwait|bahrain)\.html$/.test(f)) {
     const ft = document.querySelector("footer");
     if (ft && !document.querySelector(".uhcv-tpl")) {
       const a = document.createElement("a"); a.className = "uhcv-tpl"; a.href = "cv-templates.html";

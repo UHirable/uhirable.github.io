@@ -44,7 +44,8 @@
 
   const sec = document.createElement("section");
   sec.id = "cj-jobs"; sec.className = "cvj"; sec.setAttribute("aria-label", "More jobs from Careerjet");
-  sec.innerHTML = '<div class="cvj-head"><span class="eyebrow"><span class="dot"></span> More openings · Careerjet</span><h2></h2><p>Listed by Careerjet. Every job opens the original advert.</p></div>' +
+  // Heading only: Careerjet's own "Powered by Careerjet" line inside the frame is the credit.
+  sec.innerHTML = '<div class="cvj-head"><h2 style="margin:0 0 14px"></h2></div>' +
     '<div class="cj-frame" style="background:#fff;border-radius:16px;border:1.5px solid #dfe4ff;padding:4px 8px;overflow:hidden;min-height:140px"></div>';
   host.parentElement.appendChild(sec); // last thing in the article: under the live jobs and the salary note
   const title = sec.querySelector("h2"), frame = sec.querySelector(".cj-frame");
@@ -91,7 +92,7 @@
       if (host.querySelector(".job-card")) return;
       const st = document.getElementById("pj-status"); if (st) st.hidden = true;
       (document.getElementById("pj-more") || host).insertAdjacentElement("afterend", sec);
-      top = true; sec.style.marginTop = "8px"; sec.querySelector(".eyebrow").lastChild.textContent = " Live openings · Careerjet";
+      top = true; sec.style.marginTop = "8px";
       if (started) show(); else start();
     };
     if (host.dataset.loaded) promote(); else document.addEventListener("uh:jobs", promote, { once: true });
