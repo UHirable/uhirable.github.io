@@ -1728,3 +1728,6 @@ textarea { resize: vertical; }
 .pf-wide+.ask-sec{padding-top:150px}
 .hj-cat{font-size:.94rem;padding:6px 12px}.hj-cats{gap:8px}
 @media(max-width:900px){.pf-wide+.ask-sec{padding-top:40px}}
+/* home hero: four buttons in a 2x2 block, content sits lower in the blue area */
+@media (min-width:721px){.hero-actions.hero-float.hero-six.hero-four{grid-template-columns:repeat(2,minmax(0,270px));row-gap:22px}}
+@media (min-width:961px){.hero{padding-top:95px!important;padding-bottom:115px!important}}

@@ -21,7 +21,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="favicon.png">
   <link rel="preload" href="fonts/plus-jakarta-sans.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="style.css?v=86">
+  <link rel="stylesheet" href="style.css?v=87">
 <style>
 .hx{max-width:480px;margin:0 auto}
 .hx-art svg{display:block;width:100%;height:auto;overflow:visible}
@@ -62,14 +62,11 @@
       <div class="container">
         <div><br><span class="eyebrow"><span class="dot"></span> The Hiring Hub</span>
           <h1>One hub for <span class="hl">every side of hiring</span></h1>
-          <p class="lead"><b>Find your next job, hire great talent, and discover the partners and tools that make it happen.</b></p>
-          <div class="hero-actions hero-float hero-six">
+          <div class="hero-actions hero-float hero-six hero-four">
             <a href="jobs.html" class="btn btn-gold hb-g"><svg class="hi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>Search Jobs</a>
             <a href="career-boost.html" class="btn btn-gold hb-g"><svg class="hi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 15c-1.5 1.5-2 5-2 5s3.5-.5 5-2"/><path d="M9 12l3 3"/><path d="M14.5 4.5C17 2 21 3 21 3s1 4-1.5 6.5L13 16l-5-5z"/><circle cx="15.5" cy="8.5" r="1.3"/></svg>Career Boost</a>
-            <a href="job-sites.html" class="btn btn-gold hb-g"><svg class="hi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a14 14 0 0 1 0 18a14 14 0 0 1 0-18z"/></svg>Job Sites</a>
-            <a href="cv-tools.html" class="btn btn-gold hb-k"><svg class="hi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h4"/></svg>CV Tools</a>
             <a href="walk-in-interviews.html" class="btn btn-gold hb-k"><svg class="hi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="13" cy="4.5" r="2"/><path d="M9 21l2.5-6L9 12l1.5-5 4 1.5L17 12M10.5 7L7 9v3M14.500 15l2 6"/></svg>Walk-in Interviews<i class="hb-new">NEW</i></a>
-            <a href="cv-match.html" class="btn btn-gold hb-k"><svg class="hi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8V5a1 1 0 0 1 1-1h3M16 4h3a1 1 0 0 1 1 1v3M20 16v3a1 1 0 0 1-1 1h-3M8 20H5a1 1 0 0 1-1-1v-3M4 12h16"/></svg>CV Match Scan<i class="hb-pct">72%</i></a>
+            <a href="job-sites.html" class="btn btn-gold hb-g"><svg class="hi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a14 14 0 0 1 0 18a14 14 0 0 1 0-18z"/></svg>Job Sites</a>
           </div>
         </div>
 
@@ -141,7 +138,7 @@ function stop(){if(t){clearInterval(t);t=null}if(cur)cur.style.display="none"}
 tabs.forEach(function(b){b.addEventListener("click",function(){stop();show(b)})});
 s.querySelectorAll(".hj-row").forEach(function(r){["pointerdown","wheel","touchstart"].forEach(function(e){r.addEventListener(e,stop,{passive:true})})});
 function go(){var b=tabs[i%tabs.length];cur.style.transform="translate("+(b.offsetLeft+b.offsetWidth*0.72)+"px,"+(b.offsetTop+b.offsetHeight/2+8)+"px)";setTimeout(function(){if(t)show(b)},1000);i++}
-if(cur&&!(window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches)){go();t=setInterval(go,4500)}else if(cur){cur.style.display="none"}})();</script>
+if(cur&&!(window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches)){go();t=setInterval(go,3500)}else if(cur){cur.style.display="none"}})();</script>
       </section>
       </div>
     </section>
