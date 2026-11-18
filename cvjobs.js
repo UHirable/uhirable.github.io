@@ -70,5 +70,5 @@
   if ("IntersectionObserver" in window) { const io = new IntersectionObserver((en) => { if (en.some((x) => x.isIntersecting)) { io.disconnect(); start(); } }, { rootMargin: "500px 0px" }); io.observe(box); } else start();
 
   // Careerjet job box at the end of the page, on guide pages that fix a country. cjbox.js decides which countries it is switched on for.
-  if (D.cc && !document.querySelector('script[src^="cjbox.js"]')) { const s = document.createElement("script"); s.src = "cjbox.js?v=1"; document.head.appendChild(s); }
+  if (D.cc && !document.querySelector('script[src^="cjbox.js"]')) { const s = document.createElement("script"); s.src = "cjbox.js?v=2"; document.head.appendChild(s); }
 })();

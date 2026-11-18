@@ -1,28 +1,45 @@
-// Careerjet job box (paid per click) at the end of guide pages that fix a country. Switched on for Canada and the UK.
-// Loaded by cvjobs.js. Reads the same data-cc / data-q / data-l as <section id="cv-jobs">, so each page asks for its own job and place.
+// Careerjet job box (paid per click) at the end of pages that are about one country.
+// Loaded by cvjobs.js (guide pages, <section id="cv-jobs">) and pagejobs.js ("X jobs in <country>" pages, <div id="pj-list">).
+// Reads the same data-cc / data-q / data-l those blocks use, so each page asks for its own job and place.
 // The jobs sit inside Careerjet's own frame and are drawn by Careerjet's own script; this file only builds the heading and the frame around them.
 (() => {
-  const host = document.getElementById("cv-jobs"); if (!host || document.getElementById("cj-jobs")) return;
+  const host = document.getElementById("cv-jobs") || document.getElementById("pj-list"); if (!host || document.getElementById("cj-jobs")) return;
   const D = host.dataset;
   // Countries switched on. name = what the heading says, where = the whole country in Careerjet's location search,
-  // place = how a city or region of that country has to be written so Careerjet does not pick a namesake abroad
+  // place = how a city or region of that country has to be written so Careerjet does not pick a namesake elsewhere
   // ("Birmingham" alone gives Birmingham, Alabama; "Ontario, Canada" finds nothing, "Ontario, ON" is the province).
+  // Not here on purpose: India (Careerjet answers with US jobs) and Greece (no jobs).
   const COUNTRY = {
     ca: { name: "Canada", where: "Canada", place: (l) => (l === "Ontario" ? "Ontario, ON" : l + ", Canada") },
     uk: { name: "the UK", where: "United Kingdom", place: (l) => l + ", UK" },
+    // US city pages end in the state code (us-h1b-sponsors-arlington-va.html); Careerjet needs it: "Arlington, VA"
+    us: { name: "the United States", where: "USA", place: (l) => { const st = (location.pathname.match(/-([a-z]{2})\.html$/) || [])[1]; return st ? l + ", " + st.toUpperCase() : l; } },
+    eg: { name: "Egypt", where: "Egypt" },
+    ae: { name: "the UAE", where: "United Arab Emirates" },
+    sa: { name: "Saudi Arabia", where: "Saudi Arabia" },
+    qa: { name: "Qatar", where: "Qatar" },
+    kw: { name: "Kuwait", where: "Kuwait" },
+    bh: { name: "Bahrain", where: "Bahrain" },
+    de: { name: "Germany", where: "Germany" },
   };
   const C = COUNTRY[D.cc]; if (!C) return;
   const BOX = "https://widget.careerjet.net/job-box/9be6c12d3940297b6d0bddce6e0c7394";
   const LOADER = "https://static.careerjet.org/js/all_widget_job_box_3rd_party.min.js";
   const FRAME_ORIGIN = "https://widget.careerjet.net";
-  const q = (D.q || "").trim(), L = (D.l || "").trim();
+  const q = (D.q || "").trim();
+  let L = (D.l || "").trim(), whereL = L ? (C.place ? C.place(L) : L + ", " + C.where) : "";
+  // US state pages carry no data-l; the state is in the address (us-h1b-sponsors-new-york.html), and Careerjet knows states by name.
+  if (!L && D.cc === "us" && D.page === "us-h1b-state") {
+    const m = location.pathname.match(/us-h1b-sponsors-([a-z-]+)\.html$/);
+    if (m) { L = m[1].split("-").map((w) => (w === "dc" ? "DC" : w[0].toUpperCase() + w.slice(1))).join(" "); whereL = L; }
+  }
 
   // Searches to try, in order: the page's own job and place first, then wider ones, so the box is never left empty.
   // Each one is [keywords, Careerjet location, place name for the heading].
   const tries = [];
-  if (q && L) tries.push([q, C.place(L), L]);
+  if (q && L) tries.push([q, whereL, L]);
   if (q) tries.push([q, C.where, C.name]);
-  if (!q && L) tries.push(["", C.place(L), L]);
+  if (!q && L) tries.push(["", whereL, L]);
   tries.push(["", C.where, C.name]);
 
   const sec = document.createElement("section");
@@ -35,7 +52,7 @@
   let n = 0;
   const show = () => {
     const [kw, where, place] = tries[n];
-    title.textContent = "More " + (kw ? kw.replace(/\bit\b/g, "IT") + " " : "") + "jobs in " + place;
+    title.textContent = "More " + (kw ? kw.replace(/\b(it|hr)\b/g, (m) => m.toUpperCase()) + " " : "") + "jobs in " + place;
     // Careerjet's embed code: a div with the search in data- attributes, then their loader script, which puts the frame in it.
     frame.innerHTML = "";
     const box = document.createElement("div");
