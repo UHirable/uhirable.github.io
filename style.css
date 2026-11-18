@@ -1260,6 +1260,7 @@ textarea { resize: vertical; }
 .pj-facts small{display:block;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:#ffd23f;font-weight:800}
 .pj-facts b{display:block;font-size:1.05rem;margin:4px 0 2px;color:#fff}.pj-facts span{font-size:.78rem;color:#dde1ff}
 .pj-body{padding-top:26px}
+.pj-body + .partners-share-wrap{margin-top:34px}
 .pj-text{margin-top:30px}.pj-text h2{font-size:1.25rem;margin:18px 0 8px}
 .pj-rel{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}.pj-rel a{background:#eef1ff;color:#141a52;border-radius:999px;padding:7px 14px;font-weight:700;font-size:.86rem;text-decoration:none}.pj-rel a.all{background:#141a52;color:#ffd23f}
 .pj-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}

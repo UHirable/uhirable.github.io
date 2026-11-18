@@ -38,15 +38,16 @@
       const plus = wjData.hasMore ? "+" : "";
 
       list.insertAdjacentHTML("beforeend", jobs.map((j, i) => card(j, shown + i)).join("")); shown += jobs.length;
-      countEls.forEach((e) => { e.textContent = total.toLocaleString() + plus; });
+      countEls.forEach((e) => { e.textContent = shown ? total.toLocaleString() + plus : "Fresh"; });
       status.innerHTML = shown ? `<b>${total.toLocaleString()}${plus}</b> live ${esc(q)} jobs in ${esc(country)} · from hundreds of job sites · updated daily` : `No live ${esc(q)} jobs in ${esc(country)} right now. Check back tomorrow or <a href="jobs.html">search all jobs</a>.`;
       if (!shown) status.className = "js-bar empty";
       more.hidden = !((jJobs.length >= 20 && shown < total) || wjData.hasMore);
       try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "live-pages/" + cc + "/" + q, title: "Live page " + q, event: true }); } catch (e) {}
-    } catch (e) { status.className = "js-bar empty"; status.innerHTML = `Couldn't load live jobs right now. <a href="jobs.html?country=${encodeURIComponent(country)}&q=${encodeURIComponent(q)}">Open the job search</a> instead.`; }
+    } catch (e) { status.className = "js-bar empty"; status.innerHTML = `Couldn't load live jobs right now. <a href="jobs.html?country=${encodeURIComponent(country)}&q=${encodeURIComponent(q)}">Open the job search</a> instead.`; if (!shown) countEls.forEach((el) => { el.textContent = "Fresh"; }); }
   }
   next.addEventListener("click", () => { page++; load(); });
-  load();
+  // Tell cjbox.js when the first load is over: with no cards on the page, the Careerjet box takes the list's place.
+  load().finally(() => { list.dataset.loaded = "1"; document.dispatchEvent(new Event("uh:jobs")); });
   document.addEventListener("click", (e) => { const a = e.target.closest && e.target.closest("a[data-src]"); if (!a || !a.dataset.src) return; try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "out/" + a.dataset.src, title: "Job click: " + a.dataset.src, event: true }); } catch (x) {} });
 
   // Careerjet job box at the end of the page. cjbox.js decides which countries it is switched on for.

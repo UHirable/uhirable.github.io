@@ -46,14 +46,15 @@
   sec.id = "cj-jobs"; sec.className = "cvj"; sec.setAttribute("aria-label", "More jobs from Careerjet");
   sec.innerHTML = '<div class="cvj-head"><span class="eyebrow"><span class="dot"></span> More openings · Careerjet</span><h2></h2><p>Listed by Careerjet. Every job opens the original advert.</p></div>' +
     '<div class="cj-frame" style="background:#fff;border-radius:16px;border:1.5px solid #dfe4ff;padding:4px 8px;overflow:hidden;min-height:140px"></div>';
-  host.parentElement.appendChild(sec); // last thing in the article, so it never pushes the page's own content down
+  host.parentElement.appendChild(sec); // last thing in the article: under the live jobs and the salary note
   const title = sec.querySelector("h2"), frame = sec.querySelector(".cj-frame");
 
-  let n = 0, widen = 0;
+  let n = 0, widen = 0, top = false; // top: the box has taken the place of an empty live list
   const show = () => {
     clearTimeout(widen);
     const [kw, where, place] = tries[n];
-    title.textContent = "More " + (kw ? kw.replace(/\b(it|hr)\b/g, (m) => m.toUpperCase()).replace(/\benglish\b/g, "English") + " " : "") + "jobs in " + place;
+    const what = (kw ? kw.replace(/\b(it|hr)\b/g, (m) => m.toUpperCase()).replace(/\benglish\b/g, "English") + " " : "") + "jobs in " + place;
+    title.textContent = top ? what[0].toUpperCase() + what.slice(1) : "More " + what;
     // Careerjet's embed code: a div with the search in data- attributes, then their loader script, which puts the frame in it.
     frame.innerHTML = "";
     const box = document.createElement("div");
@@ -82,4 +83,17 @@
     try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "cj-box/" + D.cc, title: "Careerjet box shown " + D.cc, event: true }); } catch (e) {}
   };
   if ("IntersectionObserver" in window) { const io = new IntersectionObserver((en) => { if (en.some((x) => x.isIntersecting)) { io.disconnect(); start(); } }, { rootMargin: "600px 0px" }); io.observe(sec); } else start();
+
+  // "X jobs in <country>" pages: when the page's own live list comes back with no cards, the box moves up into its place
+  // (and the "No live jobs" line is hidden), so the page never looks empty. pagejobs.js says when its first load is over.
+  if (host.id === "pj-list") {
+    const promote = () => {
+      if (host.querySelector(".job-card")) return;
+      const st = document.getElementById("pj-status"); if (st) st.hidden = true;
+      (document.getElementById("pj-more") || host).insertAdjacentElement("afterend", sec);
+      top = true; sec.style.marginTop = "8px"; sec.querySelector(".eyebrow").lastChild.textContent = " Live openings · Careerjet";
+      if (started) show(); else start();
+    };
+    if (host.dataset.loaded) promote(); else document.addEventListener("uh:jobs", promote, { once: true });
+  }
 })();
