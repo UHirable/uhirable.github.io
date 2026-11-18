@@ -4,7 +4,7 @@
 # and its existing data is left untouched.
 import csv, io, json, os, re, sys, collections, datetime, urllib.request
 
-UA = {"User-Agent": "Mozilla/5.0 (uhirable.github.io monthly data refresh)"}
+UA = {"User-Agent": "Mozilla/5.0 (uhirable.com monthly data refresh)"}
 TODAY = datetime.date.today().isoformat()
 UK_PAGE = "https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers"
 CA_PAGE = "https://open.canada.ca/data/en/dataset/90fed587-1364-4f33-a9ee-208181dc0b97"
