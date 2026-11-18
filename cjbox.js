@@ -49,8 +49,9 @@
   host.parentElement.appendChild(sec); // last thing in the article, so it never pushes the page's own content down
   const title = sec.querySelector("h2"), frame = sec.querySelector(".cj-frame");
 
-  let n = 0;
+  let n = 0, widen = 0;
   const show = () => {
+    clearTimeout(widen);
     const [kw, where, place] = tries[n];
     title.textContent = "More " + (kw ? kw.replace(/\b(it|hr)\b/g, (m) => m.toUpperCase()) + " " : "") + "jobs in " + place;
     // Careerjet's embed code: a div with the search in data- attributes, then their loader script, which puts the frame in it.
@@ -63,13 +64,15 @@
     document.body.appendChild(js);
   };
 
-  // Careerjet's frame tells the page how tall it is ({h, i}); with no jobs it is about 144px. Then ask the next, wider search.
+  // Careerjet's frame tells the page how tall it is ({h, i}), usually twice; with no jobs it is about 144px.
+  // A short frame that is not followed by a tall one within two seconds means no jobs: then ask the next, wider search.
   addEventListener("message", (e) => {
     if (e.origin !== FRAME_ORIGIN) return;
     const f = frame.querySelector("iframe"); if (!f || e.source !== f.contentWindow) return;
     let d = e.data; if (typeof d === "string") { try { d = JSON.parse(d); } catch (x) { return; } }
     if (!d || typeof d.h !== "number") return;
-    if (d.h < 200 && n < tries.length - 1) { n++; show(); }
+    clearTimeout(widen);
+    if (d.h < 200 && n < tries.length - 1) widen = setTimeout(() => { n++; show(); }, 2000);
   });
 
   // Load only when the box is close to the screen, so visitors who never scroll that far are not counted as views.
