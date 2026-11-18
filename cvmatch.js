@@ -249,10 +249,10 @@
     x.font = "800 28px Plus Jakarta Sans, Arial, sans-serif"; x.fillStyle = "#1a7a3c"; x.fillText(lastResult.badge.replace(/^\S+\s/, ""), cx, cy + 115);
     x.fillStyle = "#fff"; x.font = "700 34px Plus Jakarta Sans, Arial, sans-serif"; x.fillText(lastResult.head.replace("{n}", "a few"), W / 2, 830);
     x.fillStyle = "#ffd23f"; x.font = "800 30px Plus Jakarta Sans, Arial, sans-serif"; x.fillText("Check yours free, no sign-up", W / 2, 930);
-    x.fillStyle = "#fff"; x.font = "700 26px Plus Jakarta Sans, Arial, sans-serif"; x.fillText("uhirable.github.io/cv-match", W / 2, 975);
+    x.fillStyle = "#fff"; x.font = "700 26px Plus Jakarta Sans, Arial, sans-serif"; x.fillText("uhirable.com/cv-match", W / 2, 975);
     x.font = "800 24px Plus Jakarta Sans, Arial, sans-serif"; x.fillStyle = "rgba(255,255,255,.7)"; x.fillText("U HIRABLE", W / 2, 1030);
     const blob = await new Promise((r) => cv2.toBlob(r, "image/png")); const file = new File([blob], "my-cv-match-score.png", { type: "image/png" });
-    const text = `My CV scored ${lastResult.pct}% against the job I'm applying to. Free check, no sign-up: https://uhirable.github.io/cv-match.html`;
+    const text = `My CV scored ${lastResult.pct}% against the job I'm applying to. Free check, no sign-up: https://uhirable.com/cv-match.html`;
     if (navigator.canShare && navigator.canShare({ files: [file] })) { try { await navigator.share({ files: [file], text, title: "My CV match score" }); return; } catch (e) { if (e.name === "AbortError") return; } }
     const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "my-cv-match-score.png"; a.click();
     const li = $("#cm-share-li"); if (li) { li.hidden = false; li.href = "https://www.linkedin.com/feed/?shareActive=true&text=" + encodeURIComponent(text); }

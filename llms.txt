@@ -5,56 +5,56 @@
 Each "jobs in city" page shows live openings from job-search partners (updated daily), a typical salary range, what employers ask for, where the jobs are, and tips before applying. Some outbound job and tool links are partner links; see the affiliate disclosure.
 
 ## Search jobs
-- [Search Jobs](https://uhirable.github.io/jobs.html): live job search by keyword and country
-- [Remote Jobs](https://uhirable.github.io/remote-jobs.html): fully remote roles with the countries you can apply from
-- [Visa Sponsorship Jobs](https://uhirable.github.io/visa-sponsorship-jobs.html): roles that sponsor work visas
-- [Work From Home Jobs for Beginners](https://uhirable.github.io/work-from-home-jobs-for-beginners.html): entry-level remote roles and how to apply
+- [Search Jobs](https://uhirable.com/jobs.html): live job search by keyword and country
+- [Remote Jobs](https://uhirable.com/remote-jobs.html): fully remote roles with the countries you can apply from
+- [Visa Sponsorship Jobs](https://uhirable.com/visa-sponsorship-jobs.html): roles that sponsor work visas
+- [Work From Home Jobs for Beginners](https://uhirable.com/work-from-home-jobs-for-beginners.html): entry-level remote roles and how to apply
 
 ## Jobs and salaries by country
-- [Jobs in the UAE](https://uhirable.github.io/uae.html): Dubai jobs by title, salaries in AED
-- [Jobs in Saudi Arabia](https://uhirable.github.io/saudi-arabia.html): Riyadh jobs by title, salaries in SAR
-- [Jobs in Qatar](https://uhirable.github.io/qatar.html): Doha jobs by title, salaries in QAR
-- [Jobs in Kuwait](https://uhirable.github.io/kuwait.html): Kuwait City jobs by title, salaries in KWD
-- [Jobs in Bahrain](https://uhirable.github.io/bahrain.html): Manama jobs by title, salaries in BHD
-- [Jobs in Egypt](https://uhirable.github.io/egypt.html): Cairo jobs by title, salaries in EGP
-- [Jobs in the United States](https://uhirable.github.io/usa.html): US jobs by title, salaries in USD
-- [Jobs in London](https://uhirable.github.io/london.html): London jobs by title, salaries in GBP and visa sponsorship notes
+- [Jobs in the UAE](https://uhirable.com/uae.html): Dubai jobs by title, salaries in AED
+- [Jobs in Saudi Arabia](https://uhirable.com/saudi-arabia.html): Riyadh jobs by title, salaries in SAR
+- [Jobs in Qatar](https://uhirable.com/qatar.html): Doha jobs by title, salaries in QAR
+- [Jobs in Kuwait](https://uhirable.com/kuwait.html): Kuwait City jobs by title, salaries in KWD
+- [Jobs in Bahrain](https://uhirable.com/bahrain.html): Manama jobs by title, salaries in BHD
+- [Jobs in Egypt](https://uhirable.com/egypt.html): Cairo jobs by title, salaries in EGP
+- [Jobs in the United States](https://uhirable.com/usa.html): US jobs by title, salaries in USD
+- [Jobs in London](https://uhirable.com/london.html): London jobs by title, salaries in GBP and visa sponsorship notes
 
-Example title pages follow the pattern https://uhirable.github.io/{title}-jobs-in-{city}.html, for example [Accountant jobs in Dubai](https://uhirable.github.io/accountant-jobs-in-dubai.html), [Nurse jobs in London](https://uhirable.github.io/nurse-jobs-in-london.html) and [Software engineer jobs in Cairo](https://uhirable.github.io/software-engineer-jobs-in-cairo.html).
+Example title pages follow the pattern https://uhirable.com/{title}-jobs-in-{city}.html, for example [Accountant jobs in Dubai](https://uhirable.com/accountant-jobs-in-dubai.html), [Nurse jobs in London](https://uhirable.com/nurse-jobs-in-london.html) and [Software engineer jobs in Cairo](https://uhirable.com/software-engineer-jobs-in-cairo.html).
 
 ## Walk-in interviews
-- [Walk-in interviews around the world](https://uhirable.github.io/walk-in-interviews.html): confirmed hiring events and job fairs for the current month by country, each linked to the organiser, updated monthly
-- [UK visa sponsorship companies](https://uhirable.github.io/uk-visa-sponsors.html): searchable copy of the Home Office register of employers licensed to sponsor UK work visas, by company name or town, refreshed monthly from GOV.UK
-- [Canada LMIA employers list](https://uhirable.github.io/canada-lmia-employers.html): searchable list of employers in Canada issued a positive LMIA in the last four quarters, by job, city or province, from the official Open Canada dataset
-- [US H-1B visa sponsors list](https://uhirable.github.io/us-h1b-sponsors.html): searchable list of US employers with certified H-1B Labor Condition Applications in the last 12 months, with job categories and median salaries, plus pages by state, city and job, from US Department of Labor data
+- [Walk-in interviews around the world](https://uhirable.com/walk-in-interviews.html): confirmed hiring events and job fairs for the current month by country, each linked to the organiser, updated monthly
+- [UK visa sponsorship companies](https://uhirable.com/uk-visa-sponsors.html): searchable copy of the Home Office register of employers licensed to sponsor UK work visas, by company name or town, refreshed monthly from GOV.UK
+- [Canada LMIA employers list](https://uhirable.com/canada-lmia-employers.html): searchable list of employers in Canada issued a positive LMIA in the last four quarters, by job, city or province, from the official Open Canada dataset
+- [US H-1B visa sponsors list](https://uhirable.com/us-h1b-sponsors.html): searchable list of US employers with certified H-1B Labor Condition Applications in the last 12 months, with job categories and median salaries, plus pages by state, city and job, from US Department of Labor data
 
 ## Career guides
-- [UK CV format](https://uhirable.github.io/uk-cv-format.html): what UK employers expect on a CV, what to leave out, free template, live UK jobs
-- [UK nursing jobs with visa sponsorship](https://uhirable.github.io/uk-nurse-visa-sponsorship-jobs.html): Health and Care Worker visa, NMC registration steps and costs, NHS starting pay, live nursing jobs
-- [Remote jobs from Egypt that pay in dollars](https://uhirable.github.io/remote-jobs-from-egypt-usd.html): contractor vs employer of record, what to ask before accepting, live remote jobs
-- [Jobs in Germany for English Speakers](https://uhirable.github.io/jobs-in-germany-for-english-speakers.html): visa routes, 2026 salary thresholds, the Opportunity Card for job seekers, live jobs in Germany
-- [German CV Format (Lebenslauf)](https://uhirable.github.io/german-cv-format.html): what German employers expect on a CV, free template, live jobs in Germany
-- [Jobs in Canada for Foreigners](https://uhirable.github.io/jobs-in-canada-for-foreigners.html): employer-specific vs open work permits, LMIA, scam warnings, live jobs in Canada
-- [Canadian Resume Format](https://uhirable.github.io/canadian-resume-format.html): what Canadian employers expect on a resume, what to leave out, live jobs in Canada
-- [Jobs in Kuwait for Expats](https://uhirable.github.io/jobs-in-kuwait-for-expats.html): how the work permit and Article 18 residence work, documents to prepare, live jobs in Kuwait
-- [Jobs in Bahrain for Expats](https://uhirable.github.io/jobs-in-bahrain-for-expats.html): LMRA work permit, who pays, right to change employer, grace period, live jobs in Bahrain
-- [Gulf Jobs for Indian Applicants](https://uhirable.github.io/gulf-jobs-for-indian-applicants.html): registered recruiting agents, legal limit on agent fees, ECR clearance, PBBY insurance, live Gulf jobs
-- [Fresh Graduate Jobs in Egypt](https://uhirable.github.io/fresh-graduate-jobs-in-egypt.html): search words for entry-level jobs, CV with no experience, live jobs in Egypt
-- [All career guides](https://uhirable.github.io/guides.html): each guide lists its official sources and the date it was last checked
+- [UK CV format](https://uhirable.com/uk-cv-format.html): what UK employers expect on a CV, what to leave out, free template, live UK jobs
+- [UK nursing jobs with visa sponsorship](https://uhirable.com/uk-nurse-visa-sponsorship-jobs.html): Health and Care Worker visa, NMC registration steps and costs, NHS starting pay, live nursing jobs
+- [Remote jobs from Egypt that pay in dollars](https://uhirable.com/remote-jobs-from-egypt-usd.html): contractor vs employer of record, what to ask before accepting, live remote jobs
+- [Jobs in Germany for English Speakers](https://uhirable.com/jobs-in-germany-for-english-speakers.html): visa routes, 2026 salary thresholds, the Opportunity Card for job seekers, live jobs in Germany
+- [German CV Format (Lebenslauf)](https://uhirable.com/german-cv-format.html): what German employers expect on a CV, free template, live jobs in Germany
+- [Jobs in Canada for Foreigners](https://uhirable.com/jobs-in-canada-for-foreigners.html): employer-specific vs open work permits, LMIA, scam warnings, live jobs in Canada
+- [Canadian Resume Format](https://uhirable.com/canadian-resume-format.html): what Canadian employers expect on a resume, what to leave out, live jobs in Canada
+- [Jobs in Kuwait for Expats](https://uhirable.com/jobs-in-kuwait-for-expats.html): how the work permit and Article 18 residence work, documents to prepare, live jobs in Kuwait
+- [Jobs in Bahrain for Expats](https://uhirable.com/jobs-in-bahrain-for-expats.html): LMRA work permit, who pays, right to change employer, grace period, live jobs in Bahrain
+- [Gulf Jobs for Indian Applicants](https://uhirable.com/gulf-jobs-for-indian-applicants.html): registered recruiting agents, legal limit on agent fees, ECR clearance, PBBY insurance, live Gulf jobs
+- [Fresh Graduate Jobs in Egypt](https://uhirable.com/fresh-graduate-jobs-in-egypt.html): search words for entry-level jobs, CV with no experience, live jobs in Egypt
+- [All career guides](https://uhirable.com/guides.html): each guide lists its official sources and the date it was last checked
 
 ## Free CV tools
-- [CV Match Checker](https://uhirable.github.io/cv-match.html): match score, missing keywords and ATS format check against a job ad; runs in the browser, nothing uploaded
-- [CV Builder](https://uhirable.github.io/cv-builder.html): build an ATS-friendly CV
-- [CV Templates](https://uhirable.github.io/cv-templates.html): free Word CV templates
-- [CV Tools](https://uhirable.github.io/cv-tools.html): a guide to free and paid CV tools
-- [Career Boost](https://uhirable.github.io/career-boost.html): free AI tools for job seekers
+- [CV Match Checker](https://uhirable.com/cv-match.html): match score, missing keywords and ATS format check against a job ad; runs in the browser, nothing uploaded
+- [CV Builder](https://uhirable.com/cv-builder.html): build an ATS-friendly CV
+- [CV Templates](https://uhirable.com/cv-templates.html): free Word CV templates
+- [CV Tools](https://uhirable.com/cv-tools.html): a guide to free and paid CV tools
+- [Career Boost](https://uhirable.com/career-boost.html): free AI tools for job seekers
 
 ## For companies
-- [Hire Talent](https://uhirable.github.io/employer.html): recruiting support for companies
-- [Hiring Partners](https://uhirable.github.io/partners.html): EOR, payroll, staffing and recruiting tools
+- [Hire Talent](https://uhirable.com/employer.html): recruiting support for companies
+- [Hiring Partners](https://uhirable.com/partners.html): EOR, payroll, staffing and recruiting tools
 
 ## More
-- [Job Sites](https://uhirable.github.io/job-sites.html): the best job sites by country
-- [Events](https://uhirable.github.io/events.html): hiring events and job fairs
-- [About](https://uhirable.github.io/about.html)
-- [Affiliate Disclosure](https://uhirable.github.io/disclosure.html)
+- [Job Sites](https://uhirable.com/job-sites.html): the best job sites by country
+- [Events](https://uhirable.com/events.html): hiring events and job fairs
+- [About](https://uhirable.com/about.html)
+- [Affiliate Disclosure](https://uhirable.com/disclosure.html)
