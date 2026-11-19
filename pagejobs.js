@@ -2,6 +2,7 @@
 (() => {
   const uhBad = (j) => { const t = String((j && j.title) || "").trim(); return /^[\[\(]/.test(t) || /^hiring\s*(in|for|now|!|:|-|\d)/i.test(t) || /\[hiring\]/i.test(t) || (!(j && j.company) && /\b\d+\s*[x×]\s/i.test(t)); };
   const API = "https://uhirable-jobs.amel-moussa10.workers.dev/";
+  const JOOBLE = false; // Jooble jobs are switched off until its paid programme is agreed. Set to true to bring them back: the worker and its keys are untouched.
 
 
   const list = document.getElementById("pj-list"); if (!list) return;
@@ -20,7 +21,7 @@
   async function load() {
     status.className = "js-bar"; status.textContent = "Loading live " + q + " jobs in " + country + "…"; more.hidden = true;
     try {
-      const jooblePromise = fetch(API + "?src=jooble&cc=" + cc + "&q=" + encodeURIComponent(q) + "&page=" + page).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }).catch(() => ({ jobs: [], totalCount: 0, failed: true }));
+      const jooblePromise = !JOOBLE ? Promise.resolve({ jobs: [], totalCount: 0 }) : fetch(API + "?src=jooble&cc=" + cc + "&q=" + encodeURIComponent(q) + "&page=" + page).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }).catch(() => ({ jobs: [], totalCount: 0, failed: true }));
       const wjPromise = window.UHWJF && UHWJF.has(cc) ? UHWJF.fetch(cc, q, wjLoc, page) : Promise.resolve({ jobs: [], hasMore: false });
 
       const [joobleData, wjData] = await Promise.all([jooblePromise, wjPromise]);

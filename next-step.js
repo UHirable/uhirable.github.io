@@ -113,11 +113,12 @@
       const head = `<div class="uhns-jl"><i></i>Hiring now in ${esc(g[2])}</div>`;
       jb.hidden = false; dlg.classList.add("has-jobs"); jb.innerHTML = head + '<div class="uhns-sk"></div><div class="uhns-sk"></div><div class="uhns-sk"></div>';
       const API = "https://uhirable-jobs.amel-moussa10.workers.dev/";
+      const JOOBLE = false; // Jooble jobs are switched off until its paid programme is agreed. Set to true to bring them back: the worker and its keys are untouched.
       const get = (u) => fetch(u).then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] }));
       const late = new Promise((r) => setTimeout(() => r(null), 7000));
       const pull = (k) => Promise.all([
         window.UHWJF && UHWJF.has(g[0]) ? UHWJF.fetch(g[0], k, null, 1).catch(() => ({ jobs: [] })) : { jobs: [] },
-        get(API + "?src=jooble&cc=" + g[0] + "&q=" + encodeURIComponent(k) + "&page=1"),
+        JOOBLE ? get(API + "?src=jooble&cc=" + g[0] + "&q=" + encodeURIComponent(k) + "&page=1") : { jobs: [] },
       ]).then(([w, j]) => { const L = [w.jobs || [], (j.jobs || []).filter((x) => !uhBad(x))], o = []; for (let k2 = 0; k2 < 3; k2++) L.forEach((a) => { if (a[k2]) o.push(a[k2]); }); return o.filter((x) => x && x.title && x.link).slice(0, 3); });
       Promise.race([pull(kw).then((o) => (o.length || !kw ? o : pull(""))), late]).then((jobs) => {
         if (!ov.isConnected) return;

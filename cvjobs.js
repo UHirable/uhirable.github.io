@@ -5,6 +5,7 @@
   const uhBad = (j) => { const t = String((j && j.title) || "").trim(); return /^[\[\(]/.test(t) || /^hiring\s*(in|for|now|!|:|-|\d)/i.test(t) || /\[hiring\]/i.test(t) || (!(j && j.company) && /\b\d+\s*[x×]\s/i.test(t)); };
   const box = document.getElementById("cv-jobs"); if (!box) return;
   const API = "https://uhirable-jobs.amel-moussa10.workers.dev/";
+  const JOOBLE = false; // Jooble jobs are switched off until its paid programme is agreed. Set to true to bring them back: the worker and its keys are untouched.
   const COUNTRIES = [["us", "United States"], ["uk", "United Kingdom"], ["ca", "Canada"], ["de", "Germany"], ["ae", "United Arab Emirates"], ["sa", "Saudi Arabia"], ["qa", "Qatar"], ["kw", "Kuwait"], ["bh", "Bahrain"], ["eg", "Egypt"], ["in", "India"], ["pk", "Pakistan"], ["za", "South Africa"], ["es", "Spain"], ["ph", "Philippines"], ["id", "Indonesia"], ["ke", "Kenya"], ["fr", "France"], ["nl", "Netherlands"], ["be", "Belgium"], ["pt", "Portugal"], ["br", "Brazil"], ["mx", "Mexico"], ["ar", "Argentina"], ["om", "Oman"], ["ug", "Uganda"], ["gr", "Greece"]];
   const NAME = Object.fromEntries(COUNTRIES);
   const SHOW = 6;
@@ -33,7 +34,7 @@
   let seq = 0;
   async function fetchJobs(c, kw) {
     const L = D.l && c === D.cc ? D.l : ""; // guide pages can fix a city or region: data-l="Manchester"
-    const jooble = fetch(API + "?src=jooble&cc=" + c + "&q=" + encodeURIComponent((kw + " " + L).trim()) + "&page=1").then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] }));
+    const jooble = !JOOBLE ? Promise.resolve({ jobs: [] }) : fetch(API + "?src=jooble&cc=" + c + "&q=" + encodeURIComponent((kw + " " + L).trim()) + "&page=1").then((r) => (r.ok ? r.json() : { jobs: [] })).catch(() => ({ jobs: [] }));
     const wj = window.UHWJF && UHWJF.has(c) ? UHWJF.fetch(c, kw, L || null, 1).catch(() => ({ jobs: [] })) : Promise.resolve({ jobs: [] });
     const [j, w] = await Promise.all([jooble, wj]);
     // WhatJobs (paying partner) first, then Jooble
@@ -45,7 +46,7 @@
     let res = await fetchJobs(cc, kw);
     if (my !== seq) return;
     // First automatic load: if the visitor's country has no live source yet, show US jobs instead of an empty block
-    if (auto && !D.cc && !res.jobs.length && cc !== "us") { cc = "us"; ccEl.value = "us"; res = await fetchJobs("us", kw); if (my !== seq) return; }
+    if (JOOBLE && auto && !D.cc && !res.jobs.length && cc !== "us") { cc = "us"; ccEl.value = "us"; res = await fetchJobs("us", kw); if (my !== seq) return; }
     const jobs = res.jobs.slice(0, SHOW);
     list.innerHTML = jobs.map(card).join("");
     const link = "jobs.html?country=" + encodeURIComponent(NAME[cc]) + (kw ? "&q=" + encodeURIComponent(kw) : "");

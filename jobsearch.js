@@ -2,6 +2,7 @@
 (() => {
   const uhBad = (j) => { const t = String((j && j.title) || "").trim(); return /^[\[\(]/.test(t) || /^hiring\s*(in|for|now|!|:|-|\d)/i.test(t) || /\[hiring\]/i.test(t) || (!(j && j.company) && /\b\d+\s*[x×]\s/i.test(t)); };
   const API = "https://uhirable-jobs.amel-moussa10.workers.dev/";
+  const JOOBLE = false; // Jooble jobs are switched off until its paid programme is agreed. Set to true to bring them back: the worker and its keys are untouched.
 
   const CC = { "United States": "us", "Egypt": "eg", "Bahrain": "bh", "Kuwait": "kw", "Qatar": "qa", "Saudi Arabia": "sa", "United Arab Emirates": "ae", "United Kingdom": "uk", "Canada": "ca", "Germany": "de", "India": "in", "Pakistan": "pk", "South Africa": "za", "Spain": "es", "Philippines": "ph", "Indonesia": "id", "Kenya": "ke", "Oman": "om", "Sri Lanka": "lk", "Uganda": "ug", "Nigeria": "ng", "Australia": "au", "France": "fr", "Netherlands": "nl", "Ireland": "ie", "Singapore": "sg", "Malaysia": "my", "Brazil": "br", "Belgium": "be", "Argentina": "ar", "Portugal": "pt", "Mexico": "mx", "Greece": "gr" };
   const ORDER = ["United Arab Emirates", "Saudi Arabia", "Qatar", "Kuwait", "Bahrain", "Egypt", "United Kingdom", "Canada", "Germany"];
@@ -106,7 +107,9 @@
     const city = here ? place.city : "";       // "" when only a country was typed
     const jq = city ? (kw + " " + city).trim() : kw; // Jooble: city stays in the keywords
     const liveCountry = CC[country] && country !== "United States";
-    const wantLive = liveCountry || (raw && (country === "United States" || country === "all"));
+    // With Jooble off, a country has live jobs only when WhatJobs covers it
+    const hasSource = JOOBLE || !!(window.UHWJF && UHWJF.has(CC[country] || "us"));
+    const wantLive = hasSource && (liveCountry || (raw && (country === "United States" || country === "all")));
     const vhPhrase = kw.toLowerCase().replace(/\s+/g, " ").trim();
     if (!wantLive) { const h = reset ? vhHits(country, vhPhrase) : []; if (h.length) { page = 1; shown = h.length; list.innerHTML = h.join(""); wrap.hidden = false; status.hidden = true; more.hidden = true; } else wrap.hidden = true; return; }
     const cc = CC[country] || "us";
@@ -123,7 +126,7 @@
         if (my !== seq) return;
         wJobs = (wjData.jobs || []).filter(exact); wjPage++; wjDone = !wjData.hasMore;
       }
-      if (wjDone) {
+      if (wjDone && JOOBLE) {
         const jp = page;
         const joobleData = await fetch(API + "?src=jooble&cc=" + cc + "&q=" + encodeURIComponent(jq) + "&page=" + jp).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }).catch(() => ({ jobs: [], totalCount: 0, failed: true }));
         if (my !== seq) return;
@@ -165,6 +168,7 @@
   (() => {
     let v = null; try { v = sessionStorage.getItem("uh-live-ccs"); } catch (e) {}
     addAll([]); /* WhatJobs countries need no worker key */
+    if (!JOOBLE) return; /* the worker only lists countries that have a Jooble key */
     if (v) return addAll(v.split(","));
     fetch(API + "?src=countries").then((r) => r.json()).then((d) => { if (!Array.isArray(d.countries)) return addAll(["in", "pk"]); /* older worker: the two known extra countries */ try { sessionStorage.setItem("uh-live-ccs", d.countries.join(",")); } catch (e) {} addAll(d.countries); }).catch(() => {});
   })();
