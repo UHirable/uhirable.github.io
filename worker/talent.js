@@ -64,19 +64,22 @@ async function human(env, token, ip) {
 
 // Tells the owner that a profile is waiting. A failure here never blocks the candidate's form.
 async function notify(env, r) {
-  if (!env.MAIL || !env.TALENT_NOTIFY_EMAIL) return;
+  // How the last email went is noted in the database (no addresses, no profile data), so a silent failure can be found.
+  const note = (v) => env.DB.prepare("INSERT INTO meta (k, v) VALUES ('last_notify', ?) ON CONFLICT(k) DO UPDATE SET v = excluded.v").bind(new Date().toISOString() + " " + v).run().catch(() => {});
+  if (!env.MAIL || !env.TALENT_NOTIFY_EMAIL) return note("skipped: " + (!env.MAIL ? "no MAIL binding" : "no TALENT_NOTIFY_EMAIL"));
   const from = "talent@uhirable.com", to = env.TALENT_NOTIFY_EMAIL, subject = "New Open to Work profile: " + r.name + ", " + r.title;
   const text = ["A new profile is waiting for your review.", "", "Name: " + r.name, "Title: " + r.title, "Industry: " + r.industry, "Country: " + r.country,
     "Experience: " + r.yearsCorp + " years corporate" + (r.yearsProj ? ", " + r.yearsProj + " years projects" : ""), "Open for: " + r.openFor.join(", "), "Skills: " + r.skills.join(", "), "LinkedIn: " + r.linkedin,
     "", "Summary:", r.summary, "", "Approve or reject it here: https://uhirable.com/talent-admin.html"].join("\n");
-  try { await env.MAIL.send({ from, to, subject, text }); }
+  try { await env.MAIL.send({ from, to, subject, text }); await note("sent"); }
   catch (e) {
     try {
       const b64 = btoa(String.fromCharCode(...new TextEncoder().encode(text))).replace(/(.{76})/g, "$1\r\n");
       const raw = ["From: U Hirable <" + from + ">", "To: " + to, "Subject: " + subject.replace(/[^\x20-\x7e]/g, "?"), "Message-ID: <" + crypto.randomUUID() + "@uhirable.com>", "Date: " + new Date().toUTCString(),
         "MIME-Version: 1.0", "Content-Type: text/plain; charset=utf-8", "Content-Transfer-Encoding: base64", "", b64].join("\r\n");
       await env.MAIL.send(new EmailMessage(from, to, raw));
-    } catch (x) { console.log("talent notify failed: " + (x && x.message)); }
+      await note("sent (raw message)");
+    } catch (x) { await note("failed: " + String((e && e.message) || e).slice(0, 200) + " | raw: " + String((x && x.message) || x).slice(0, 200)); }
   }
 }
 
