@@ -60,10 +60,11 @@
       all.textContent = "Open the job search →";
     }
     count((auto ? (D.page ? "guide-jobs/" + D.page + "/" : "cv-jobs/") : "cv-jobs-search/") + cc, (auto ? "CV page jobs " : "CV page job search ") + cc);
-    if (auto) signal();
+    if (D.cc) tell(!jobs.length, kw);
   }
-  // Tells cjbox.js that the first automatic load is over: when the block has no cards, the Careerjet box takes the block's place.
-  const signal = () => { if (box.dataset.loaded) return; box.dataset.loaded = "1"; document.dispatchEvent(new Event("uh:jobs")); };
+  // Tells cjbox.js how a load ended. When the block has no cards, the Careerjet box takes the place of the "No live jobs" line,
+  // for the same job title and country; the heading, the search form and the button of the block stay.
+  const tell = (empty, kw) => { box.dataset.loaded = "1"; box.dataset.empty = empty ? "1" : ""; box.dataset.kw = kw || ""; box.dataset.ecc = cc; document.dispatchEvent(new Event("uh:jobs")); };
   $("#cvj-form").addEventListener("submit", (e) => { e.preventDefault(); load(false); });
   ccEl.addEventListener("change", () => load(false));
   box.addEventListener("click", (e) => { const a = e.target.closest && e.target.closest("a[data-src]"); if (a && a.dataset.src) count("out/" + a.dataset.src, "Job click: " + a.dataset.src); else if (e.target.closest && e.target.closest("#cvj-all")) count("cv-jobs-all/" + cc, "CV page: see all jobs " + cc); });
@@ -74,8 +75,8 @@
   if ("IntersectionObserver" in window) { const io = new IntersectionObserver((en) => { if (en.some((x) => x.isIntersecting)) { io.disconnect(); start(); } }, { rootMargin: "500px 0px" }); io.observe(box); } else start();
 
   // A fixed country with no live source at all (Jooble off, no WhatJobs feed): nothing to wait for, say so at once.
-  if (!JOOBLE && D.cc && window.UHWJF && !UHWJF.has(D.cc)) signal();
+  if (!JOOBLE && D.cc && window.UHWJF && !UHWJF.has(D.cc)) tell(true, D.q || "");
 
   // Careerjet job box at the end of the page, on guide pages that fix a country. cjbox.js decides which countries it is switched on for.
-  if (D.cc && !document.querySelector('script[src^="cjbox.js"]')) { const s = document.createElement("script"); s.src = "cjbox.js?v=3"; document.head.appendChild(s); }
+  if (D.cc && !document.querySelector('script[src^="cjbox.js"]')) { const s = document.createElement("script"); s.src = "cjbox.js?v=4"; document.head.appendChild(s); }
 })();

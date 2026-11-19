@@ -1,7 +1,8 @@
 // Careerjet job box (paid per click).
 // 1) Pages about one country. Loaded by cvjobs.js (guide pages, <section id="cv-jobs">) and pagejobs.js ("X jobs in <country>" pages, <div id="pj-list">).
 //    Reads the same data-cc / data-q / data-l those blocks use, so each page asks for its own job and place.
-//    The box sits last in the article; when the page's own live jobs come back empty it moves up into their place.
+//    The box sits last in the article; when the page's own live jobs come back empty it takes the empty list's place
+//    (on guide pages inside the jobs block, whose heading, search form and button all stay).
 // 2) The Search Jobs page. jobsearch.js calls UHCj.search() for a country that has no other live source.
 // The jobs sit inside Careerjet's own frame and are drawn by Careerjet's own script; this file only builds the heading and the frame around them.
 (() => {
@@ -29,21 +30,23 @@
   const placeOf = (C, l) => (C.place ? C.place(l) : l + ", " + C.where);
   const seen = (cc) => { try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "cj-box/" + cc, title: "Careerjet box shown " + cc, event: true }); } catch (e) {} };
 
-  // Turns `sec` into a Careerjet block and returns show(tries, lead).
+  // Turns `sec` into a Careerjet block and returns show(tries, lead, known).
   // tries: the searches to try in order, each [keywords, Careerjet location, place name for the heading]; the next, wider one is used when a search has no jobs.
   // lead: "More " when the block follows the page's own jobs, "" when it stands in for them.
+  // known: a heading already on the page just above the box (lower case); the box's own heading is left out when it would only repeat it.
   const mount = (sec) => {
     sec.classList.add("cvj"); sec.setAttribute("aria-label", "Jobs from Careerjet");
     // Heading only: Careerjet's own "Powered by Careerjet" line inside the frame is the credit.
     sec.innerHTML = '<div class="cvj-head"><h2 style="margin:0 0 14px"></h2></div>' +
       '<div class="cj-frame" style="background:#fff;border-radius:16px;border:1.5px solid #dfe4ff;padding:4px 8px;overflow:hidden;min-height:140px"></div>';
     const title = sec.querySelector("h2"), frame = sec.querySelector(".cj-frame");
-    let tries = [], n = 0, widen = 0, lead = "More ";
+    let tries = [], n = 0, widen = 0, lead = "More ", known = "";
     const draw = () => {
       clearTimeout(widen);
       const [kw, where, place] = tries[n];
       const what = (kw ? kw.replace(/\b(it|hr)\b/g, (m) => m.toUpperCase()).replace(/\benglish\b/g, "English") + " " : "") + "jobs in " + place;
       title.textContent = lead ? lead + what : what[0].toUpperCase() + what.slice(1);
+      title.hidden = !!known && known.includes(what.toLowerCase());
       // Careerjet's embed code: a div with the search in data- attributes, then their loader script, which puts the frame in it.
       frame.innerHTML = "";
       const box = document.createElement("div");
@@ -63,7 +66,7 @@
       clearTimeout(widen);
       if (d.h < 200 && n < tries.length - 1) widen = setTimeout(() => { n++; draw(); }, 2000);
     });
-    return (t, l) => { tries = t; n = 0; lead = l; draw(); };
+    return (t, l, k) => { tries = t; n = 0; lead = l; known = k || ""; draw(); };
   };
 
   // ---- Search Jobs page: one block right after `after`, redrawn only when the search changes ----
@@ -106,27 +109,54 @@
   tries.push(["", C.where, C.name]);
 
   const sec = document.createElement("section"); sec.id = "cj-jobs";
-  const show = mount(sec);
-  host.parentElement.appendChild(sec); // last thing in the article: under the live jobs and the salary note
+  const show = mount(sec), h2 = sec.querySelector("h2");
+  // Last thing in the article, as a block of its own: under the live jobs and the salary note.
+  const toEnd = () => { host.parentElement.appendChild(sec); sec.style.cssText = ""; h2.style.fontSize = ""; };
+  toEnd();
 
+  // What the box asks for now: the page's own search with "More " in front, until it takes an empty list's place.
+  let cur = [tries, "More ", ""];
   // Load only when the box is close to the screen, so visitors who never scroll that far are not counted as views.
-  let started = false, top = false; // top: the box has taken the place of an empty live list
-  const start = () => { if (started) return; started = true; show(tries, top ? "" : "More "); seen(D.cc); };
+  let started = false;
+  const start = () => { if (started) return; started = true; show(...cur); seen(D.cc); };
   if ("IntersectionObserver" in window) { const io = new IntersectionObserver((en) => { if (en.some((x) => x.isIntersecting)) { io.disconnect(); start(); } }, { rootMargin: "600px 0px" }); io.observe(sec); } else start();
 
-  // When the page's own live jobs come back with no cards, the box moves into their place, so the page never shows an empty list.
-  // pagejobs.js and cvjobs.js say when their first load is over (data-loaded on the host, then the "uh:jobs" event).
-  const promote = () => {
-    const pj = host.id === "pj-list", list = pj ? host : host.querySelector("#cvj-list");
-    if (list && list.querySelector(".job-card")) return;
-    if (pj) {
+  if (host.id === "pj-list") {
+    // "X jobs in <country>" pages: when the live list comes back with no cards, the box moves up into its place
+    // (and the "No live jobs" line is hidden). pagejobs.js says when its first load is over.
+    const promote = () => {
+      if (host.querySelector(".job-card")) return;
       const st = document.getElementById("pj-status"); if (st) st.hidden = true;
       (document.getElementById("pj-more") || host).insertAdjacentElement("afterend", sec); sec.style.marginTop = "8px";
-    } else {
-      host.insertAdjacentElement("afterend", sec); host.style.display = "none"; // the empty jobs block on a guide page, search form included
-    }
-    top = true;
-    if (started) show(tries, ""); else if (pj) start(); // on guide pages the box still waits until it is close to the screen
-  };
-  if (host.dataset.loaded) promote(); else document.addEventListener("uh:jobs", promote, { once: true });
+      cur = [tries, "", ""];
+      if (started) show(...cur); else start();
+    };
+    if (host.dataset.loaded) promote(); else document.addEventListener("uh:jobs", promote, { once: true });
+  } else {
+    // Guide pages: cvjobs.js says how each load of its jobs block ended (data-loaded / data-empty / data-kw / data-ecc, then the "uh:jobs" event).
+    // No cards: the box goes inside the block, in the place of the "No live jobs" line, for the job title and country the block asked for.
+    // The block's heading, search form and button stay as they are. Cards again: the box goes back to the end of the article.
+    let where = "end";
+    const sync = () => {
+      const E = host.dataset; if (!E.loaded) return;
+      const list = host.querySelector("#cvj-list"), st = host.querySelector("#cvj-status");
+      const ecc = E.ecc || D.cc, C2 = COUNTRY[ecc];
+      if (E.empty && C2 && list) {
+        const kw = (E.kw || "").trim(), t = [];
+        if (ecc === D.cc && L) t.push([kw, whereL, L]);
+        if (kw) t.push([kw, C2.where, C2.name]);
+        t.push(["", C2.where, C2.name]);
+        if (st) st.hidden = true;
+        const k = ecc + "|" + kw.toLowerCase(); if (k === where) return; where = k;
+        list.insertAdjacentElement("afterend", sec); sec.style.cssText = "margin:0;padding:0;border:0;background:none"; h2.style.fontSize = "1.15rem";
+        const head = host.querySelector(".cvj-head h2");
+        cur = [t, "", head ? head.textContent.toLowerCase() : ""];
+      } else {
+        if (where === "end") return; where = "end";
+        toEnd(); cur = [tries, "More ", ""];
+      }
+      if (started) show(...cur);
+    };
+    document.addEventListener("uh:jobs", sync); sync();
+  }
 })();

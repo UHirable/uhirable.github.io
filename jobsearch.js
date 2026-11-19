@@ -106,7 +106,7 @@
   const clearOwnEmpty = () => { if (ownList.querySelector(".empty")) { ownList.innerHTML = ""; if (countEl) countEl.textContent = ""; } };
   const cjShow = (c, kw, city) => { cjArgs = [c, kw, city]; if (window.UHCj && UHCj.search(wrap, c, kw, city)) clearOwnEmpty(); };
   const cjHide = () => { cjArgs = null; if (window.UHCj) UHCj.hide(); };
-  { const s = document.createElement("script"); s.src = "cjbox.js?v=3"; s.onload = () => { if (cjArgs) cjShow(...cjArgs); }; document.head.appendChild(s); }
+  { const s = document.createElement("script"); s.src = "cjbox.js?v=4"; s.onload = () => { if (cjArgs) cjShow(...cjArgs); }; document.head.appendChild(s); }
 
   async function live(reset, tries = 0) {
     const country = sel.value, raw = box.value.trim();
