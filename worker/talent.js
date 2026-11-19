@@ -8,6 +8,10 @@
 // Two secrets are set by the site owner in the Worker's settings, never in this repository:
 //   TURNSTILE_SECRET        the secret key of the Turnstile widget on the form
 //   TALENT_ADMIN_PASSWORD   the password of the review page
+//   TALENT_NOTIFY_EMAIL     (optional) where "a new profile is waiting" emails go; it must be a verified
+//                           destination address in the domain's Email Routing. Without it no email is sent.
+
+import { EmailMessage } from "cloudflare:email";
 
 const OPEN_FOR = ["Full-time", "Contract", "Remote", "Hybrid"];
 const MAX_PENDING = 300; // waiting cards allowed at once; more than that means the form is being abused
@@ -58,6 +62,24 @@ async function human(env, token, ip) {
   return d.success === true;
 }
 
+// Tells the owner that a profile is waiting. A failure here never blocks the candidate's form.
+async function notify(env, r) {
+  if (!env.MAIL || !env.TALENT_NOTIFY_EMAIL) return;
+  const from = "talent@uhirable.com", to = env.TALENT_NOTIFY_EMAIL, subject = "New Open to Work profile: " + r.name + ", " + r.title;
+  const text = ["A new profile is waiting for your review.", "", "Name: " + r.name, "Title: " + r.title, "Industry: " + r.industry, "Country: " + r.country,
+    "Experience: " + r.yearsCorp + " years corporate" + (r.yearsProj ? ", " + r.yearsProj + " years projects" : ""), "Open for: " + r.openFor.join(", "), "Skills: " + r.skills.join(", "), "LinkedIn: " + r.linkedin,
+    "", "Summary:", r.summary, "", "Approve or reject it here: https://uhirable.com/talent-admin.html"].join("\n");
+  try { await env.MAIL.send({ from, to, subject, text }); }
+  catch (e) {
+    try {
+      const b64 = btoa(String.fromCharCode(...new TextEncoder().encode(text))).replace(/(.{76})/g, "$1\r\n");
+      const raw = ["From: U Hirable <" + from + ">", "To: " + to, "Subject: " + subject.replace(/[^\x20-\x7e]/g, "?"), "Message-ID: <" + crypto.randomUUID() + "@uhirable.com>", "Date: " + new Date().toUTCString(),
+        "MIME-Version: 1.0", "Content-Type: text/plain; charset=utf-8", "Content-Transfer-Encoding: base64", "", b64].join("\r\n");
+      await env.MAIL.send(new EmailMessage(from, to, raw));
+    } catch (x) { console.log("talent notify failed: " + (x && x.message)); }
+  }
+}
+
 // Compares two strings without stopping at the first different character.
 async function same(a, b) {
   const enc = new TextEncoder();
@@ -68,7 +90,7 @@ async function same(a, b) {
   return diff === 0;
 }
 
-export async function talentApi(request, env, url) {
+export async function talentApi(request, env, url, ctx) {
   const path = url.pathname.replace(/\/+$/, "");
   if (!env.DB) return json({ error: "Not set up yet." }, 503);
 
@@ -97,6 +119,7 @@ export async function talentApi(request, env, url) {
     const r = f.row, now = new Date().toISOString();
     await env.DB.prepare("INSERT INTO talent (id, created_at, status, name, title, linkedin, industry, years_corp, years_proj, country, cc, open_for, skills, summary, consent_at) VALUES (?, ?, 'pending', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)")
       .bind(crypto.randomUUID(), now, r.name, r.title, r.linkedin, r.industry, r.yearsCorp, r.yearsProj, r.country, r.cc, JSON.stringify(r.openFor), JSON.stringify(r.skills), r.summary, now).run();
+    if (ctx && ctx.waitUntil) ctx.waitUntil(notify(env, r)); else await notify(env, r);
     return json({ ok: true });
   }
 

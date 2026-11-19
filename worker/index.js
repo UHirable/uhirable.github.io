@@ -37,7 +37,7 @@ function moved(url, path) {
 const hasExtension = (path) => /\.[A-Za-z0-9]+$/.test(path);
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
     const url = new URL(request.url);
     const path = url.pathname;
 
@@ -46,7 +46,7 @@ export default {
     }
 
     if (path === "/api/talent" || path.startsWith("/api/talent/")) {
-      try { return await talentApi(request, env, url); }
+      try { return await talentApi(request, env, url, ctx); }
       catch (e) { return new Response(JSON.stringify({ error: "Something went wrong. Please try again." }), { status: 500, headers: { "content-type": "application/json" } }); }
     }
 
