@@ -100,6 +100,14 @@
       return t.includes(phrase) && (country === "all" || m.includes(country)); })
       .map((c) => { const g = (s) => ((c.querySelector(s) || {}).textContent || "").trim(), a = c.querySelector("a"); const ch = [...c.querySelectorAll(".vj-chip")].slice(0, 3).map((x) => `<span class="chip pc">${esc(x.textContent)}</span>`).join("");
         return `<article class="job-card live-card"><div class="job-head"><div class="icon3d js-ini">${esc(g("h3").charAt(0).toUpperCase())}</div><div><h3>${esc(g("h3"))}</h3><p class="meta">${esc(g(".vj-meta"))}</p></div></div><div class="chips"><span class="chip gold">${esc(g(".vj-badge"))}</span>${ch}</div><p class="desc">${esc(g(".vj-note"))}</p><div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${esc(a ? a.href : "")}" target="_blank" rel="noopener sponsored" data-src="vanhack">Apply</a></div></article>`; }); };
+  // Careerjet box (cjbox.js) for a search in a country that has no other live source: United States, Saudi Arabia, Qatar.
+  // It goes right after the live results area. The own-jobs "No jobs match" line is cleared while it shows.
+  let cjArgs = null;
+  const clearOwnEmpty = () => { if (ownList.querySelector(".empty")) { ownList.innerHTML = ""; if (countEl) countEl.textContent = ""; } };
+  const cjShow = (c, kw, city) => { cjArgs = [c, kw, city]; if (window.UHCj && UHCj.search(wrap, c, kw, city)) clearOwnEmpty(); };
+  const cjHide = () => { cjArgs = null; if (window.UHCj) UHCj.hide(); };
+  { const s = document.createElement("script"); s.src = "cjbox.js?v=3"; s.onload = () => { if (cjArgs) cjShow(...cjArgs); }; document.head.appendChild(s); }
+
   async function live(reset, tries = 0) {
     const country = sel.value, raw = box.value.trim();
     const place = findPlace(raw), here = place && place.country === country;
@@ -111,7 +119,10 @@
     const hasSource = JOOBLE || !!(window.UHWJF && UHWJF.has(CC[country] || "us"));
     const wantLive = hasSource && (liveCountry || (raw && (country === "United States" || country === "all")));
     const vhPhrase = kw.toLowerCase().replace(/\s+/g, " ").trim();
-    if (!wantLive) { const h = reset ? vhHits(country, vhPhrase) : []; if (h.length) { page = 1; shown = h.length; list.innerHTML = h.join(""); wrap.hidden = false; status.hidden = true; more.hidden = true; } else wrap.hidden = true; return; }
+    if (!wantLive) { const h = reset ? vhHits(country, vhPhrase) : []; if (h.length) { page = 1; shown = h.length; list.innerHTML = h.join(""); wrap.hidden = false; status.hidden = true; more.hidden = true; } else wrap.hidden = true;
+      if (!hasSource && (liveCountry || (raw && (country === "United States" || country === "all")))) cjShow(CC[country] || "us", kw, city); else cjHide();
+      return; }
+    cjHide();
     const cc = CC[country] || "us";
     if (reset) { page = 1; wjPage = 1; wjDone = !(window.UHWJF && UHWJF.has(cc)); total = 0; shown = 0; list.innerHTML = ""; const h = vhHits(country, vhPhrase); if (h.length) { list.innerHTML = h.join(""); shown = h.length; } }
     const my = ++seq; wrap.hidden = false; status.hidden = false; status.className = "js-bar"; status.textContent = "Loading live jobs in " + (country === "all" ? "the United States" : country) + "…"; more.hidden = true;

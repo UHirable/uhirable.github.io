@@ -60,7 +60,10 @@
       all.textContent = "Open the job search →";
     }
     count((auto ? (D.page ? "guide-jobs/" + D.page + "/" : "cv-jobs/") : "cv-jobs-search/") + cc, (auto ? "CV page jobs " : "CV page job search ") + cc);
+    if (auto) signal();
   }
+  // Tells cjbox.js that the first automatic load is over: when the block has no cards, the Careerjet box takes the block's place.
+  const signal = () => { if (box.dataset.loaded) return; box.dataset.loaded = "1"; document.dispatchEvent(new Event("uh:jobs")); };
   $("#cvj-form").addEventListener("submit", (e) => { e.preventDefault(); load(false); });
   ccEl.addEventListener("change", () => load(false));
   box.addEventListener("click", (e) => { const a = e.target.closest && e.target.closest("a[data-src]"); if (a && a.dataset.src) count("out/" + a.dataset.src, "Job click: " + a.dataset.src); else if (e.target.closest && e.target.closest("#cvj-all")) count("cv-jobs-all/" + cc, "CV page: see all jobs " + cc); });
@@ -70,6 +73,9 @@
   const start = () => { if (started) return; started = true; if (!qEl.value) qEl.value = D.q || fromBuilder(); load(true); };
   if ("IntersectionObserver" in window) { const io = new IntersectionObserver((en) => { if (en.some((x) => x.isIntersecting)) { io.disconnect(); start(); } }, { rootMargin: "500px 0px" }); io.observe(box); } else start();
 
+  // A fixed country with no live source at all (Jooble off, no WhatJobs feed): nothing to wait for, say so at once.
+  if (!JOOBLE && D.cc && window.UHWJF && !UHWJF.has(D.cc)) signal();
+
   // Careerjet job box at the end of the page, on guide pages that fix a country. cjbox.js decides which countries it is switched on for.
-  if (D.cc && !document.querySelector('script[src^="cjbox.js"]')) { const s = document.createElement("script"); s.src = "cjbox.js?v=2"; document.head.appendChild(s); }
+  if (D.cc && !document.querySelector('script[src^="cjbox.js"]')) { const s = document.createElement("script"); s.src = "cjbox.js?v=3"; document.head.appendChild(s); }
 })();
