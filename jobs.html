@@ -87,7 +87,7 @@
 .vj-search{width:100%;font:inherit;font-size:1rem;padding:14px 18px;border:1.5px solid #0112ff;border-radius:16px;margin:0 0 14px;background:#fff;color:#0d1240}
 .vj-search:focus{outline:none;border-color:#0112ff}
 .vj-empty{font-weight:700;color:#5b6290;margin:0 0 14px}
-</style><div class="vj-filters" role="group" aria-label="Filter by who can apply"><button type="button" class="vj-f on" data-f="all">All jobs <b>17</b></button><button type="button" class="vj-f" data-f="abroad">Open to applicants abroad <b>1</b></button><button type="button" class="vj-f" data-f="canada">In Canada <b>7</b></button><button type="button" class="vj-f" data-f="latam">Latin America / Americas <b>4</b></button><button type="button" class="vj-f" data-f="us">In the US <b>5</b></button></div><div class="vj-grid">
+</style><div class="vj-grid">
           <article class="vj-card" data-g="abroad">
             <span class="vj-badge b-abroad">Open to applicants abroad · Visa sponsorship</span>
             <h3>Senior Full-Stack Software Developer</h3>
@@ -224,13 +224,7 @@
             <div class="vj-chips"><span class="vj-chip">Go</span><span class="vj-chip">Kubernetes</span><span class="vj-chip">Docker</span><span class="vj-chip">Python</span></div>
             <div class="vj-foot"><span class="vj-date">Posted Oct 2026</span><a class="btn btn-primary btn-sm" style="color:#fff" href="https://app.vanhack.com/referral/welcome/552580a4-1aff-4545-9a70-f7bbd4ccca4b" target="_blank" rel="noopener sponsored">Apply</a></div>
           </article>
-</div></section><script>
-  (function(){var bs=document.querySelectorAll('.vj-f'),cs=document.querySelectorAll('.vj-card'),qi=document.getElementById('vj-q'),em=document.getElementById('vj-empty'),f='all';
-  var nz=function(t){return t.toLowerCase().replace(/\s+/g,' ').trim()};
-  var run=function(){var q=qi?nz(qi.value):'',n=0;cs.forEach(function(c){var ok=(f==='all'||c.getAttribute('data-g')===f)&&(!q||nz(c.textContent).indexOf(q)>-1);c.hidden=!ok;if(ok)n++});if(em)em.hidden=n>0;};
-  bs.forEach(function(b){b.addEventListener('click',function(){f=b.getAttribute('data-f');bs.forEach(function(x){x.classList.toggle('on',x===b)});run();});});
-  if(qi)qi.addEventListener('input',run);})();
-  </script><!--/vh-jobs-->
+</div></section><!--/vh-jobs-->
       </div>
     </section>
   </main>
@@ -256,7 +250,7 @@
   <script src="lib-geo.js?v=1" defer></script>
   <script src="globe.js?v=2" defer></script>
   <script src="wjfeed.js?v=4"></script>
-  <script src="jobsearch.js?v=21"></script>
+  <script src="jobsearch.js?v=22"></script>
   <script data-goatcounter="https://uhirable.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

@@ -78,5 +78,5 @@
   if (!JOOBLE && D.cc && window.UHWJF && !UHWJF.has(D.cc)) tell(true, D.q || "");
 
   // Careerjet job box at the end of the page, on guide pages that fix a country. cjbox.js decides which countries it is switched on for.
-  if (D.cc && !document.querySelector('script[src^="cjbox.js"]')) { const s = document.createElement("script"); s.src = "cjbox.js?v=5"; document.head.appendChild(s); }
+  if (D.cc && !document.querySelector('script[src^="cjbox.js"]')) { const s = document.createElement("script"); s.src = "cjbox.js?v=6"; document.head.appendChild(s); }
 })();

@@ -52,5 +52,5 @@
   document.addEventListener("click", (e) => { const a = e.target.closest && e.target.closest("a[data-src]"); if (!a || !a.dataset.src) return; try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "out/" + a.dataset.src, title: "Job click: " + a.dataset.src, event: true }); } catch (x) {} });
 
   // Careerjet job box at the end of the page. cjbox.js decides which countries it is switched on for.
-  if (!document.querySelector('script[src^="cjbox.js"]')) { const s = document.createElement("script"); s.src = "cjbox.js?v=5"; document.head.appendChild(s); }
+  if (!document.querySelector('script[src^="cjbox.js"]')) { const s = document.createElement("script"); s.src = "cjbox.js?v=6"; document.head.appendChild(s); }
 })();

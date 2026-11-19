@@ -91,33 +91,32 @@
   const vhHits = (country, phrase) => { if (!techSec || !phrase) return [];
     return [...techSec.querySelectorAll(".vj-card")].filter((c) => { const t = c.textContent.toLowerCase().replace(/\s+/g, " "); const m = (c.querySelector(".vj-meta") || {}).textContent || "";
       return t.includes(phrase) && (country === "all" || m.includes(country)); }).map(vhCard); };
-  // Without a keyword: all of them for the chosen country (Canada, the US, Latin America) or for "All countries", after our own jobs and the live jobs.
-  // "All countries" keeps the who-can-apply filter buttons, as a row above them.
+  // Without a keyword: all of them for the chosen country (Canada, the US, Latin America) or for "All countries".
+  // They come right after our own jobs and before the live jobs, so the "Load more jobs" button stays the last thing in the list.
   const vhList = document.createElement("div"); vhList.id = "vh-list"; vhList.style.display = "contents";
-  const vhChips = techSec && techSec.querySelector(".vj-filters");
-  if (allJobs) { if (vhChips) { vhChips.style.gridColumn = "1/-1"; vhChips.style.margin = "0"; allJobs.appendChild(vhChips); } allJobs.appendChild(vhList); }
+  if (allJobs) allJobs.insertBefore(vhList, wrap.parentElement === allJobs ? wrap : null);
   const vjFilter = () => { if (!techSec || !allJobs) return; const q = box.value.trim();
     const G = { "Canada": ["canada", "abroad"], "United States": ["us"], "Brazil": ["latam"], "Mexico": ["latam"], "Argentina": ["latam"] };
-    const all = sel.value === "all" || sel.value === "Worldwide", g = G[sel.value], on = !q && (all || g);
-    if (vhChips) vhChips.style.display = on && all ? "" : "none";
-    const onChip = all && vhChips ? vhChips.querySelector(".vj-f.on") : null, f = onChip ? onChip.getAttribute("data-f") : "all";
-    vhList.innerHTML = !on ? "" : [...techSec.querySelectorAll(".vj-card")].filter((c) => { const k = c.getAttribute("data-g"); return g ? g.includes(k) : f === "all" || k === f; }).map(vhCard).join(""); };
+    const all = sel.value === "all" || sel.value === "Worldwide", g = G[sel.value];
+    vhList.innerHTML = q || !(all || g) ? "" : [...techSec.querySelectorAll(".vj-card")].filter((c) => !g || g.includes(c.getAttribute("data-g"))).map(vhCard).join(""); };
   box.addEventListener("input", vjFilter);
   sel.addEventListener("change", vjFilter);
-  if (vhChips) vhChips.addEventListener("click", vjFilter);
   vjFilter();
-  // Careerjet box (cjbox.js) for a country that has no other live source: United States, Saudi Arabia, Qatar.
-  // It goes after the whole job list (outside its grid, so it is full width): "More jobs in …" under the cards,
-  // or in the list's place when there are no cards. The own-jobs "No jobs match" line is cleared while it shows.
+  // Careerjet box (cjbox.js): the one separate block of this page. It is there for every search and always comes last,
+  // after the whole job list (outside its grid, so it is full width): "More jobs in …" under the cards,
+  // or in the list's place when there are no cards (then the "No jobs match" / "No live jobs" lines go).
+  // "All countries" has no country to ask Careerjet for, so it shows the United States, as the live search does.
   let cjArgs = null;
   const clearOwnEmpty = () => { if (ownList.querySelector(".empty")) { ownList.innerHTML = ""; if (countEl) countEl.textContent = ""; } };
   const cjShow = (c, kw, city) => { cjArgs = [c, kw, city]; if (!window.UHCj) return;
     const above = !!(ownList.querySelector(".job-card") || vhList.querySelector(".job-card") || (!wrap.hidden && list.querySelector(".job-card")));
-    if (UHCj.search(allJobs || wrap, c, kw, city, above ? "More " : "")) clearOwnEmpty(); };
-  const cjHide = () => { cjArgs = null; if (window.UHCj) UHCj.hide(); };
-  { const s = document.createElement("script"); s.src = "cjbox.js?v=5"; s.onload = () => { if (cjArgs) cjShow(...cjArgs); }; document.head.appendChild(s); }
+    if (!UHCj.search(allJobs || wrap, c, kw, city, above ? "More " : "")) return;
+    status.hidden = true; if (!above) clearOwnEmpty(); };
+  { const s = document.createElement("script"); s.src = "cjbox.js?v=6"; s.onload = () => { if (cjArgs) cjShow(...cjArgs); }; document.head.appendChild(s); }
 
+  let ran = false; // a search has been started
   async function live(reset, tries = 0) {
+    ran = true;
     const country = sel.value, raw = box.value.trim();
     const place = findPlace(raw), here = place && place.country === country;
     const kw = here ? place.kw : raw;          // keyword without the place name
@@ -128,10 +127,12 @@
     const hasSource = JOOBLE || !!(window.UHWJF && UHWJF.has(CC[country] || "us"));
     const wantLive = hasSource && (liveCountry || (raw && (country === "United States" || country === "all")));
     const vhPhrase = kw.toLowerCase().replace(/\s+/g, " ").trim();
+    const cjCc = CC[country] || "us";
     if (!wantLive) { const h = reset ? vhHits(country, vhPhrase) : []; if (h.length) { page = 1; shown = h.length; list.innerHTML = h.join(""); wrap.hidden = false; status.hidden = true; more.hidden = true; } else wrap.hidden = true;
-      if (!hasSource && (CC[country] || (raw && country === "all"))) cjShow(CC[country] || "us", kw, city); else cjHide();
+      cjShow(cjCc, kw, city);
       return; }
-    cjHide();
+    // a new search for another job or place: the box waits for the new results before it is drawn again
+    if (reset && window.UHCj && cjArgs && (cjArgs[0] !== cjCc || cjArgs[1] !== kw || cjArgs[2] !== city)) UHCj.hide();
     const cc = CC[country] || "us";
     if (reset) { page = 1; wjPage = 1; wjDone = !(window.UHWJF && UHWJF.has(cc)); total = 0; shown = 0; list.innerHTML = ""; const h = vhHits(country, vhPhrase); if (h.length) { list.innerHTML = h.join(""); shown = h.length; } }
     const my = ++seq; wrap.hidden = false; status.hidden = false; status.className = "js-bar"; status.textContent = "Loading live jobs in " + (country === "all" ? "the United States" : country) + "…"; more.hidden = true;
@@ -174,7 +175,8 @@
       more.hidden = phrase ? true : !rawMore;
       status.hidden = !!shown; /* count line only needed when nothing was found */
       try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "live-jobs/" + cc, title: "Live jobs " + cc, event: true }); } catch (e) {}
-    } catch (e) { if (my === seq) { if (shown) { status.hidden = true; more.hidden = true; } else { status.className = "js-bar empty"; status.textContent = "Couldn't load live jobs right now. Please try again in a moment."; } } }
+      cjShow(cjCc, kw, city);
+    } catch (e) { if (my === seq) { if (shown) { status.hidden = true; more.hidden = true; } else { status.className = "js-bar empty"; status.textContent = "Couldn't load live jobs right now. Please try again in a moment."; } cjShow(cjCc, kw, city); } }
   }
   // cjArgs is dropped while a typed search is waiting, so a Careerjet box that loads in the meantime is not drawn for the search before it
   let t; const kick = () => { clearTimeout(t); cjArgs = null; t = setTimeout(() => live(true), 450); };
@@ -195,5 +197,6 @@
   })();
   const u = new URLSearchParams(location.search); if (u.get("country") && [...sel.options].some((o) => o.value === u.get("country"))) { sel.value = u.get("country"); sel.dispatchEvent(new Event("change")); }
   if (u.get("q")) { box.value = u.get("q"); box.dispatchEvent(new Event("input", { bubbles: true })); }
+  if (!ran && !u.get("q")) live(true); /* nothing above has started a search yet ("All countries"): start one, so the Careerjet box is there */
   document.addEventListener("click", (e) => { const a = e.target.closest && e.target.closest("a[data-src]"); if (!a || !a.dataset.src) return; try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "out/" + a.dataset.src, title: "Job click: " + a.dataset.src, event: true }); } catch (x) {} });
 })();

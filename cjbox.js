@@ -3,14 +3,14 @@
 //    Reads the same data-cc / data-q / data-l those blocks use, so each page asks for its own job and place.
 //    The box sits last in the article; when the page's own live jobs come back empty it takes the empty list's place
 //    (on guide pages inside the jobs block, whose heading, search form and button all stay).
-// 2) The Search Jobs page. jobsearch.js calls UHCj.search() for a country that has no other live source.
+// 2) The Search Jobs page. jobsearch.js calls UHCj.search() for every search: the box is the last block of the page.
 // The jobs sit inside Careerjet's own frame and are drawn by Careerjet's own script; this file only builds the heading and the frame around them.
 (() => {
   if (window.UHCj) return;
   // Countries switched on. name = what the heading says, where = the whole country in Careerjet's location search,
   // place = how a city or region of that country has to be written so Careerjet does not pick a namesake elsewhere
   // ("Birmingham" alone gives Birmingham, Alabama; "Ontario, Canada" finds nothing, "Ontario, ON" is the province).
-  // Not here on purpose: India (Careerjet answers with US jobs) and Greece (no jobs).
+  // Without `place`, a city is written "City, <where>". Every entry was checked in the real box (Nov 2026).
   const COUNTRY = {
     ca: { name: "Canada", where: "Canada", place: (l) => (l === "Ontario" ? "Ontario, ON" : l + ", Canada") },
     uk: { name: "the UK", where: "United Kingdom", place: (l) => l + ", UK" },
@@ -22,7 +22,32 @@
     qa: { name: "Qatar", where: "Qatar" },
     kw: { name: "Kuwait", where: "Kuwait" },
     bh: { name: "Bahrain", where: "Bahrain" },
+    om: { name: "Oman", where: "Oman" },
     de: { name: "Germany", where: "Germany" },
+    fr: { name: "France", where: "France" },
+    nl: { name: "the Netherlands", where: "Netherlands" },
+    be: { name: "Belgium", where: "Belgium" },
+    ie: { name: "Ireland", where: "Ireland" },
+    es: { name: "Spain", where: "Spain" },
+    pt: { name: "Portugal", where: "Portugal" },
+    // "Greece" finds nothing; the country is found as "Hellas", its cities as "Athens, Greece"
+    gr: { name: "Greece", where: "Hellas", place: (l) => l + ", Greece" },
+    za: { name: "South Africa", where: "South Africa" },
+    ke: { name: "Kenya", where: "Kenya" },
+    ug: { name: "Uganda", where: "Uganda" },
+    ng: { name: "Nigeria", where: "Nigeria" },
+    // "India" gives jobs around Indian Land, South Carolina; the country is found as "Indien", its cities by their own name
+    in: { name: "India", where: "Indien", place: (l) => l },
+    pk: { name: "Pakistan", where: "Pakistan" },
+    lk: { name: "Sri Lanka", where: "Sri Lanka" },
+    ph: { name: "the Philippines", where: "Philippines" },
+    id: { name: "Indonesia", where: "Indonesia" },
+    my: { name: "Malaysia", where: "Malaysia" },
+    sg: { name: "Singapore", where: "Singapore" },
+    au: { name: "Australia", where: "Australia" },
+    br: { name: "Brazil", where: "Brazil" },
+    ar: { name: "Argentina", where: "Argentina" },
+    mx: { name: "Mexico", where: "Mexico" },
   };
   const BOX = "https://widget.careerjet.net/job-box/9be6c12d3940297b6d0bddce6e0c7394";
   const LOADER = "https://static.careerjet.org/js/all_widget_job_box_3rd_party.min.js";
