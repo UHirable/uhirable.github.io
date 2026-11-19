@@ -1731,3 +1731,14 @@ textarea { resize: vertical; }
 /* home hero: four buttons in a 2x2 block, content sits lower in the blue area */
 @media (min-width:721px){.hero-actions.hero-float.hero-six.hero-four{grid-template-columns:repeat(2,minmax(0,270px));row-gap:22px}}
 @media (min-width:961px){.hero{padding-top:95px!important;padding-bottom:115px!important}}
+
+/* Open to Work card on the home page (under the hero buttons) */
+.hero-actions.hero-four.otw-three>a:last-child{grid-column:1/-1}
+.otw-home{background:#fff;border:1px solid #dde1ff;border-radius:20px;padding:18px;margin:26px 0 0;max-width:562px;text-align:left;box-shadow:0 14px 34px -22px rgba(5,11,63,.6)}
+.otw-h{display:flex;gap:14px;align-items:center}.otw-h img{flex:none}
+.otw-home h3{margin:0 0 4px;font-size:1.15rem;color:#0d1240}
+.otw-home h3 i{font-style:normal;font-size:.68rem;font-weight:800;padding:3px 9px;border-radius:999px;margin-left:8px;vertical-align:3px;background:#ffc93c;color:#0d1240}
+.otw-home p{margin:0;font-size:.9rem;line-height:1.55;color:#5b6290}
+.otw-b{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:14px}
+.otw-b a{height:44px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:.92rem;text-decoration:none}
+.otw-b .p{background:#0112ff;color:#fff}.otw-b .p:hover{background:#000dcc}.otw-b .q{background:#eef0ff;color:#0112ff}.otw-b .q:hover{background:#dfe4ff}
