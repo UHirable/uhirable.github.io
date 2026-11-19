@@ -6,7 +6,10 @@
 //   /jobs/remote-jobs.html   -> permanent redirect to /remote-jobs.html (old links from uhirable.github.io/jobs/...)
 //   /jobs/                   -> permanent redirect to the home page (it was the old site's home)
 //   /cv-match, /jobs         -> permanent redirect to /cv-match.html, /jobs.html when that page exists
+//   /api/talent...           -> the Open to Work profiles (worker/talent.js)
 //   anything else            -> the site's 404 page, with a real 404 status
+
+import { talentApi } from "./talent.js";
 
 // Same address as the request, with another path and no query string.
 function at(url, path) {
@@ -40,6 +43,11 @@ export default {
 
     if (path === "/") {
       return env.ASSETS.fetch(new Request(at(url, "/index.html"), request));
+    }
+
+    if (path === "/api/talent" || path.startsWith("/api/talent/")) {
+      try { return await talentApi(request, env, url); }
+      catch (e) { return new Response(JSON.stringify({ error: "Something went wrong. Please try again." }), { status: 500, headers: { "content-type": "application/json" } }); }
     }
 
     // Old links from when the whole site lived under /jobs/ (uhirable.github.io/jobs/...):

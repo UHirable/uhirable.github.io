@@ -11,5 +11,9 @@
     "binding": "ASSETS",
     // Keep every link exactly as it is today: /jobs.html stays /jobs.html (no automatic redirect).
     "html_handling": "none"
-  }
+  },
+  // Open to Work profiles (worker/talent.js). The database holds candidates' data, so it is not part of this repository.
+  "d1_databases": [
+    { "binding": "DB", "database_name": "uhirable-talent", "database_id": "82f84bc9-9bc4-429c-8942-e718d909242e" }
+  ]
 }
