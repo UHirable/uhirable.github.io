@@ -1742,3 +1742,12 @@ textarea { resize: vertical; }
 .otw-b{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:14px}
 .otw-b a{height:44px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:.92rem;text-decoration:none}
 .otw-b .p{background:#0112ff;color:#fff}.otw-b .p:hover{background:#000dcc}.otw-b .q{background:#eef0ff;color:#0112ff}.otw-b .q:hover{background:#dfe4ff}
+/* hackajob strip: a little smaller overall */
+.hj-strip{padding-top:40px}.hj-tabs{top:-23px}
+.hj-head h2{font-size:2.05rem}.hj-head .meta{font-size:1.08rem}.hj-note{font-size:1.02rem}
+.hj-tab{font-size:1.1rem;padding:9px 22px}
+.btn.hj-btn{font-size:1.05rem;padding:12px 20px}
+.hj-card{flex-basis:285px;min-height:160px;padding:14px 16px;gap:6px}
+.hj-co{font-size:.92rem}.hj-card b{font-size:1.17rem}.hj-loc{font-size:.98rem}.hj-sal{font-size:1rem;padding:5px 13px}
+.hj-cat{font-size:.84rem;padding:5px 10px}.hj-more{font-size:.9rem}
+@media(max-width:700px){.hj-strip{padding-top:34px}.hj-tabs{top:-19px}.hj-head h2{font-size:1.5rem}.hj-head .meta{font-size:1rem}.hj-note{font-size:.95rem}.hj-tab{font-size:.84rem;padding:7px 9px}.hj-card{flex-basis:245px;min-height:150px}.hj-card b{font-size:1.08rem}.hj-loc{font-size:.95rem}.hj-sal{font-size:.95rem}.btn.hj-btn{font-size:1rem;padding:11px 16px}.hj-cat{font-size:.82rem;padding:4px 9px}.hj-more{font-size:.85rem}}
