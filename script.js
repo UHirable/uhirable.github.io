@@ -220,36 +220,6 @@ if (list && typeof JOBS !== "undefined") {
     countrySelect.appendChild(opt);
   });
 
-  // Remotive block shown first on the jobs list
-  function promoCards() {
-    return `
-        <div class="rm-two">
-        <section class="rm-strip">
-          <span class="promo-badge">Remote jobs</span>
-          <div class="rm-head">
-            <img class="promo-logo" src="logo-remotive.svg" width="44" height="44" alt="Remotive">
-            <div><h2>Fresh remote jobs from Remotive</h2><p class="meta">Worldwide · 100% remote · updates automatically</p></div>
-          </div>
-          <div class="rm-row" id="rm-row"><p class="rm-loading">Loading remote jobs…</p></div>
-          <div class="rm-foot">
-            <a class="btn btn-sm promo-btn" href="${REMOTIVE_LINK}" target="_blank" rel="noopener sponsored">Unlock 100K+ hidden remote jobs →</a>
-          </div>
-        </section>
-        <article class="job-card promo-card pf-card">
-          <span class="promo-badge">Get matched</span>
-          <div class="job-head">
-            <img class="promo-logo pf-logo" src="logo-paraform.svg" width="52" height="52" alt="Paraform">
-            <div>
-              <h3>Get matched with 1,000+ top companies</h3>
-              <p class="meta">Paraform · AI, Tech, Sales &amp; GTM roles</p>
-            </div>
-          </div>
-          <p class="desc">Share your profile once and get matched with open roles at top startups and tech companies.</p>
-          <div class="job-actions"><a class="btn btn-sm promo-btn" href="${PARAFORM_LINK}" target="_blank" rel="noopener sponsored">Get matched →</a></div>
-        </article>
-        </div>`;
-  }
-
   function render() {
     const country = countrySelect.value;
     const q = searchBox.value.trim().toLowerCase();
@@ -274,7 +244,7 @@ if (list && typeof JOBS !== "undefined") {
       return;
     }
 
-    list.innerHTML = promoCards(country, q) + filtered
+    list.innerHTML = filtered
       .map((j, i) => `
         <article class="job-card">
           <div class="job-head">
@@ -292,7 +262,6 @@ if (list && typeof JOBS !== "undefined") {
           </div>
         </article>`)
       .join("");
-    fillRemotive();
   }
 
   countrySelect.addEventListener("change", render);

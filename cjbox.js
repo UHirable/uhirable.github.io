@@ -30,7 +30,7 @@
   const placeOf = (C, l) => (C.place ? C.place(l) : l + ", " + C.where);
   const seen = (cc) => { try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "cj-box/" + cc, title: "Careerjet box shown " + cc, event: true }); } catch (e) {} };
 
-  // Turns `sec` into a Careerjet block and returns show(tries, lead, known).
+  // Turns `sec` into a Careerjet block and returns { show(tries, lead, known), clear() }.
   // tries: the searches to try in order, each [keywords, Careerjet location, place name for the heading]; the next, wider one is used when a search has no jobs.
   // lead: "More " when the block follows the page's own jobs, "" when it stands in for them.
   // known: a heading already on the page just above the box (lower case); the box's own heading is left out when it would only repeat it.
@@ -66,26 +66,31 @@
       clearTimeout(widen);
       if (d.h < 200 && n < tries.length - 1) widen = setTimeout(() => { n++; draw(); }, 2000);
     });
-    return (t, l, k) => { tries = t; n = 0; lead = l; known = k || ""; draw(); };
+    return { show: (t, l, k) => { tries = t; n = 0; lead = l; known = k || ""; draw(); },
+      clear: () => { clearTimeout(widen); tries = []; n = 0; frame.innerHTML = ""; title.textContent = ""; } };
   };
 
-  // ---- Search Jobs page: one block right after `after`, redrawn only when the search changes ----
-  let sBox = null, sShow = null, sKey = "", sCounted = false;
-  const hide = () => { if (!sBox) return; sBox.hidden = true; sBox.style.display = "none"; sKey = ""; const f = sBox.querySelector(".cj-frame"); if (f) f.innerHTML = ""; };
-  // Returns false when Careerjet is not switched on for this country.
-  const search = (after, cc, kw, city) => {
+  // ---- Search Jobs page: one block right after `after` (the job list), redrawn only when the search changes ----
+  // It is drawn when it comes close to the screen, so a box far below a long list is not counted as a view by visitors who never reach it.
+  let sBox = null, sM = null, sKey = "", sCounted = false, sNear = false, sWait = null;
+  const sGo = () => { if (!sWait || !sNear) return; const w = sWait; sWait = null; sM.show(w.tries, w.lead); if (!sCounted) { sCounted = true; seen(w.cc); } };
+  const hide = () => { if (!sBox) return; sBox.hidden = true; sBox.style.display = "none"; sKey = ""; sWait = null; sM.clear(); };
+  // lead: "More " when the list above has cards, "" when the box stands in for an empty list. Returns false when Careerjet is not switched on for this country.
+  const search = (after, cc, kw, city, lead) => {
     const C = COUNTRY[cc]; if (!C || !after) { hide(); return false; }
-    if (!sBox) { sBox = document.createElement("section"); sBox.id = "cj-search"; sShow = mount(sBox); }
+    if (!sBox) {
+      sBox = document.createElement("section"); sBox.id = "cj-search"; sM = mount(sBox);
+      if ("IntersectionObserver" in window) new IntersectionObserver((en) => { sNear = en[en.length - 1].isIntersecting; sGo(); }, { rootMargin: "600px 0px" }).observe(sBox); else sNear = true;
+    }
     if (sBox.previousElementSibling !== after) after.insertAdjacentElement("afterend", sBox);
     sBox.hidden = false; sBox.style.display = "";
-    kw = (kw || "").trim(); city = (city || "").trim();
-    const key = cc + "|" + kw.toLowerCase() + "|" + city.toLowerCase(); if (key === sKey) return true; sKey = key;
+    kw = (kw || "").trim(); city = (city || "").trim(); lead = lead || "";
+    const key = cc + "|" + kw.toLowerCase() + "|" + city.toLowerCase() + "|" + lead; if (key === sKey) return true; sKey = key;
     const tries = [];
     if (city) tries.push([kw, placeOf(C, city), city]);
     if (kw) tries.push([kw, C.where, C.name]);
     tries.push(["", C.where, C.name]);
-    sShow(tries, "");
-    if (!sCounted) { sCounted = true; seen(cc); }
+    sM.clear(); sWait = { tries, lead, cc }; sGo();
     return true;
   };
   window.UHCj = { search, hide };
@@ -109,7 +114,7 @@
   tries.push(["", C.where, C.name]);
 
   const sec = document.createElement("section"); sec.id = "cj-jobs";
-  const show = mount(sec), h2 = sec.querySelector("h2");
+  const show = mount(sec).show, h2 = sec.querySelector("h2");
   // Last thing in the article, as a block of its own: under the live jobs and the salary note.
   const toEnd = () => { host.parentElement.appendChild(sec); sec.style.cssText = ""; h2.style.fontSize = ""; };
   toEnd();

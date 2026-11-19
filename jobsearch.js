@@ -35,20 +35,6 @@
     cin.addEventListener("blur", () => setTimeout(() => { cin.placeholder = PH; showSel(); }, 0));
     sel.addEventListener("change", showSel);
   }
-  const vjFilter = () => { const sec = $("#tech-jobs"); if (!sec) return; const q = box.value.toLowerCase().replace(/\s+/g, " ").trim(); let n = 0;
-    sec.querySelectorAll(".vj-card").forEach((c) => { const ok = !q || c.textContent.toLowerCase().replace(/\s+/g, " ").includes(q); c.classList.toggle("vj-qh", !ok); if (ok) n++; });
-    // the VanHack section is only for Canada, the US and Latin America (and "All countries");
-    // with one country picked it shows only that country's jobs, without the filter buttons
-    const G = { "Canada": ["canada", "abroad"], "United States": ["us"], "Brazil": ["latam"], "Mexico": ["latam"], "Argentina": ["latam"] };
-    const T = { "Canada": "Tech jobs in Canada", "United States": "Tech jobs in the US", "Brazil": "Tech jobs open to Latin America", "Mexico": "Tech jobs open to Latin America", "Argentina": "Tech jobs open to Latin America" };
-    const all = sel.value === "all" || sel.value === "Worldwide", g = G[sel.value];
-    const h2 = sec.querySelector("h2"); if (h2) { if (!h2.dataset.t) h2.dataset.t = h2.textContent; h2.textContent = g ? T[sel.value] : h2.dataset.t; }
-    const fl = sec.querySelector(".vj-filters"); if (fl) fl.style.display = g ? "none" : "";
-    if (g) { const ab = sec.querySelector('.vj-f[data-f="all"]'); if (ab && !ab.classList.contains("on")) ab.click(); }
-    sec.querySelectorAll(".vj-card").forEach((c) => { c.style.display = g && !g.includes(c.getAttribute("data-g")) ? "none" : ""; });
-    sec.style.display = q || !(all || g) ? "none" : ""; };
-  box.addEventListener("input", vjFilter);
-  sel.addEventListener("change", vjFilter);
 
   // Place names typed in the search box ("nurse london", "accountant dubai") pick the country automatically.
   const PLACES = {
@@ -94,19 +80,42 @@
     return `<article class="job-card live-card"><div class="job-head"><div class="icon3d ${i % 2 ? "gold" : ""} js-ini">${esc(((String(j.company || j.title || "").trim().match(/[\p{L}\p{N}]/u) || ["•"])[0].toUpperCase()))}</div><div><h3>${esc(j.title)}</h3><p class="meta">${j.source === "whatjobs" ? "via WhatJobs" : esc(j.company || "Company not listed")}</p></div></div><div class="chips">${chips}</div><p class="desc">${esc(desc)}${desc.length >= 170 ? "…" : ""}</p><div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${esc(j.link)}" target="_blank" rel="noopener nofollow${j.source === "whatjobs" ? " sponsored" : ""}" data-src="${esc(j.source || "")}">Apply</a></div></article>`; };
 
 
-  // VanHack tech jobs that match the search, shown as normal cards among the results
-  const vhHits = (country, phrase) => { const sec = $("#tech-jobs"); if (!sec || !phrase) return [];
-    return [...sec.querySelectorAll(".vj-card")].filter((c) => { const t = c.textContent.toLowerCase().replace(/\s+/g, " "); const m = (c.querySelector(".vj-meta") || {}).textContent || "";
-      return t.includes(phrase) && (country === "all" || m.includes(country)); })
-      .map((c) => { const g = (s) => ((c.querySelector(s) || {}).textContent || "").trim(), a = c.querySelector("a"); const ch = [...c.querySelectorAll(".vj-chip")].slice(0, 3).map((x) => `<span class="chip pc">${esc(x.textContent)}</span>`).join("");
-        return `<article class="job-card live-card"><div class="job-head"><div class="icon3d js-ini">${esc(g("h3").charAt(0).toUpperCase())}</div><div><h3>${esc(g("h3"))}</h3><p class="meta">${esc(g(".vj-meta"))}</p></div></div><div class="chips"><span class="chip gold">${esc(g(".vj-badge"))}</span>${ch}</div><p class="desc">${esc(g(".vj-note"))}</p><div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${esc(a ? a.href : "")}" target="_blank" rel="noopener sponsored" data-src="vanhack">Apply</a></div></article>`; }); };
-  // Careerjet box (cjbox.js) for a search in a country that has no other live source: United States, Saudi Arabia, Qatar.
-  // It goes right after the live results area. The own-jobs "No jobs match" line is cleared while it shows.
+  // VanHack tech jobs. Their cards are stored in the hidden #tech-jobs block of jobs.html and drawn here as normal job cards,
+  // in the same list as every other job (no heading or section of their own).
+  const techSec = $("#tech-jobs"), allJobs = $("#all-jobs");
+  const vhCard = (c) => { const g = (s) => ((c.querySelector(s) || {}).textContent || "").trim(), a = c.querySelector("a");
+    const ch = [...c.querySelectorAll(".vj-chip")].map((x) => `<span class="chip pc">${esc(x.textContent)}</span>`).join("");
+    const meta = [g(".vj-meta"), g(".vj-date")].filter(Boolean).join(" · ");
+    return `<article class="job-card live-card"><div class="job-head"><div class="icon3d js-ini">${esc(g("h3").charAt(0).toUpperCase())}</div><div><h3>${esc(g("h3"))}</h3><p class="meta">${esc(meta)}</p></div></div><div class="chips"><span class="chip gold">${esc(g(".vj-badge"))}</span>${g(".vj-sal") ? `<span class="chip gold">${esc(g(".vj-sal"))}</span>` : ""}${ch}</div><p class="desc">${esc(g(".vj-note"))}</p><div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${esc(a ? a.href : "")}" target="_blank" rel="noopener sponsored" data-src="vanhack">Apply</a></div></article>`; };
+  // With a keyword: the ones that match it, among the search results
+  const vhHits = (country, phrase) => { if (!techSec || !phrase) return [];
+    return [...techSec.querySelectorAll(".vj-card")].filter((c) => { const t = c.textContent.toLowerCase().replace(/\s+/g, " "); const m = (c.querySelector(".vj-meta") || {}).textContent || "";
+      return t.includes(phrase) && (country === "all" || m.includes(country)); }).map(vhCard); };
+  // Without a keyword: all of them for the chosen country (Canada, the US, Latin America) or for "All countries", after our own jobs and the live jobs.
+  // "All countries" keeps the who-can-apply filter buttons, as a row above them.
+  const vhList = document.createElement("div"); vhList.id = "vh-list"; vhList.style.display = "contents";
+  const vhChips = techSec && techSec.querySelector(".vj-filters");
+  if (allJobs) { if (vhChips) { vhChips.style.gridColumn = "1/-1"; vhChips.style.margin = "0"; allJobs.appendChild(vhChips); } allJobs.appendChild(vhList); }
+  const vjFilter = () => { if (!techSec || !allJobs) return; const q = box.value.trim();
+    const G = { "Canada": ["canada", "abroad"], "United States": ["us"], "Brazil": ["latam"], "Mexico": ["latam"], "Argentina": ["latam"] };
+    const all = sel.value === "all" || sel.value === "Worldwide", g = G[sel.value], on = !q && (all || g);
+    if (vhChips) vhChips.style.display = on && all ? "" : "none";
+    const onChip = all && vhChips ? vhChips.querySelector(".vj-f.on") : null, f = onChip ? onChip.getAttribute("data-f") : "all";
+    vhList.innerHTML = !on ? "" : [...techSec.querySelectorAll(".vj-card")].filter((c) => { const k = c.getAttribute("data-g"); return g ? g.includes(k) : f === "all" || k === f; }).map(vhCard).join(""); };
+  box.addEventListener("input", vjFilter);
+  sel.addEventListener("change", vjFilter);
+  if (vhChips) vhChips.addEventListener("click", vjFilter);
+  vjFilter();
+  // Careerjet box (cjbox.js) for a country that has no other live source: United States, Saudi Arabia, Qatar.
+  // It goes after the whole job list (outside its grid, so it is full width): "More jobs in …" under the cards,
+  // or in the list's place when there are no cards. The own-jobs "No jobs match" line is cleared while it shows.
   let cjArgs = null;
   const clearOwnEmpty = () => { if (ownList.querySelector(".empty")) { ownList.innerHTML = ""; if (countEl) countEl.textContent = ""; } };
-  const cjShow = (c, kw, city) => { cjArgs = [c, kw, city]; if (window.UHCj && UHCj.search(wrap, c, kw, city)) clearOwnEmpty(); };
+  const cjShow = (c, kw, city) => { cjArgs = [c, kw, city]; if (!window.UHCj) return;
+    const above = !!(ownList.querySelector(".job-card") || vhList.querySelector(".job-card") || (!wrap.hidden && list.querySelector(".job-card")));
+    if (UHCj.search(allJobs || wrap, c, kw, city, above ? "More " : "")) clearOwnEmpty(); };
   const cjHide = () => { cjArgs = null; if (window.UHCj) UHCj.hide(); };
-  { const s = document.createElement("script"); s.src = "cjbox.js?v=4"; s.onload = () => { if (cjArgs) cjShow(...cjArgs); }; document.head.appendChild(s); }
+  { const s = document.createElement("script"); s.src = "cjbox.js?v=5"; s.onload = () => { if (cjArgs) cjShow(...cjArgs); }; document.head.appendChild(s); }
 
   async function live(reset, tries = 0) {
     const country = sel.value, raw = box.value.trim();
@@ -120,7 +129,7 @@
     const wantLive = hasSource && (liveCountry || (raw && (country === "United States" || country === "all")));
     const vhPhrase = kw.toLowerCase().replace(/\s+/g, " ").trim();
     if (!wantLive) { const h = reset ? vhHits(country, vhPhrase) : []; if (h.length) { page = 1; shown = h.length; list.innerHTML = h.join(""); wrap.hidden = false; status.hidden = true; more.hidden = true; } else wrap.hidden = true;
-      if (!hasSource && (liveCountry || (raw && (country === "United States" || country === "all")))) cjShow(CC[country] || "us", kw, city); else cjHide();
+      if (!hasSource && (CC[country] || (raw && country === "all"))) cjShow(CC[country] || "us", kw, city); else cjHide();
       return; }
     cjHide();
     const cc = CC[country] || "us";
@@ -167,7 +176,8 @@
       try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "live-jobs/" + cc, title: "Live jobs " + cc, event: true }); } catch (e) {}
     } catch (e) { if (my === seq) { if (shown) { status.hidden = true; more.hidden = true; } else { status.className = "js-bar empty"; status.textContent = "Couldn't load live jobs right now. Please try again in a moment."; } } }
   }
-  let t; const kick = () => { clearTimeout(t); t = setTimeout(() => live(true), 450); };
+  // cjArgs is dropped while a typed search is waiting, so a Careerjet box that loads in the meantime is not drawn for the search before it
+  let t; const kick = () => { clearTimeout(t); cjArgs = null; t = setTimeout(() => live(true), 450); };
   sel.addEventListener("change", () => { if (!selfChange) autoSet = false; live(true); });
   box.addEventListener("input", () => { if (!detect()) kick(); });
   $("#live-next").addEventListener("click", () => live(false));
