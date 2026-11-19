@@ -561,3 +561,15 @@ document.addEventListener("click", (e) => {
   const where = a.dataset.wa || (a.closest("footer") ? "footer" : "other");
   try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "wa-channel/" + where, title: "WhatsApp channel click: " + where, event: true }); } catch (err) {}
 });
+
+// Open to Work invitation: one line above the job list on the search page and on the "X jobs in <place>" pages.
+(function () {
+  var at = document.getElementById("all-jobs") || document.getElementById("pj-list");
+  if (!at || document.getElementById("otw-line")) return;
+  var a = document.createElement("a");
+  a.id = "otw-line"; a.href = "open-to-work.html#join";
+  a.style.cssText = "display:flex;gap:10px;align-items:center;justify-content:center;flex-wrap:wrap;background:#0d1240;color:#fff;border-radius:14px;padding:11px 16px;margin:0 0 16px;font-weight:700;font-size:.92rem;text-decoration:none;text-align:center;line-height:1.4";
+  a.innerHTML = '<span>Open to work? Add your free profile and let companies find you.</span><b style="color:#ffc93c;white-space:nowrap">Join as talent \u2192</b>';
+  a.addEventListener("click", function () { try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "open-to-work/line-click", title: "Open to Work line clicked", event: true }); } catch (e) {} });
+  at.parentNode.insertBefore(a, at);
+})();

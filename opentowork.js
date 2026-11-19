@@ -37,29 +37,36 @@
 
   const list = $("#ow-list"), status = $("#ow-status"), search = $("#ow-q");
   let all = [];
-  const cardHtml = (t) => `<article class="ow-card" data-id="${esc(t.id)}">${head(t)}
+  // While the page has fewer than FULL real profiles, it shows an invitation and one card clearly marked "Example",
+  // so a visitor sees what a profile looks like. The example is not a real person and is never mixed in unmarked.
+  const FULL = 6;
+  const EXAMPLE = { id: "example", example: true, name: "Sara M.", title: "Senior backend engineer", linkedin: "", industry: "Fintech", yearsCorp: 7, yearsProj: 2, country: "Egypt", cc: "eg",
+    openFor: ["Full-time", "Remote"], skills: ["Python", "AWS", "Docker", "PostgreSQL", "Kafka", "Java"], joined: new Date().toISOString().slice(0, 10),
+    summary: "This is an example of a professional summary. Describe what you do, your strongest results and the kind of role you want, then say how companies can reach you, for example by email." };
+  const cardHtml = (t) => `<article class="ow-card${t.example ? " ow-example" : ""}" data-id="${esc(t.id)}">${t.example ? '<span class="ow-tag">Example</span>' : ""}${head(t)}
     <div class="ow-chips"><span class="ow-chip ow-country">${flag(t.cc)}${esc(t.country)}</span><span class="ow-chip">${esc(t.industry)}</span>${t.openFor.map((o) => `<span class="ow-chip">${esc(o)}</span>`).join("")}</div>
     <div class="ow-chips">${t.skills.slice(0, 5).map(skillChip).join("")}${t.skills.length > 5 ? `<button type="button" class="ow-chip ow-skill ow-more" data-open="${esc(t.id)}">+${t.skills.length - 5}</button>` : ""}</div>
-    <div class="ow-btns"><a class="ow-btn ow-li" href="${esc(t.linkedin)}" target="_blank" rel="noopener nofollow ugc" data-li>${LI}LinkedIn</a><button type="button" class="ow-btn ow-sum" data-open="${esc(t.id)}">View summary</button></div>
-    <p class="ow-joined">Joined ${esc(date(t.joined))}</p></article>`;
+    <div class="ow-btns">${t.example ? `<span class="ow-btn ow-li ow-off">${LI}LinkedIn</span>` : `<a class="ow-btn ow-li" href="${esc(t.linkedin)}" target="_blank" rel="noopener nofollow ugc" data-li>${LI}LinkedIn</a>`}<button type="button" class="ow-btn ow-sum" data-open="${esc(t.id)}">View summary</button></div>
+    <p class="ow-joined">${t.example ? "This is how your card will look" : "Joined " + esc(date(t.joined))}</p></article>`;
   const draw = () => {
     const q = (search.value || "").toLowerCase().replace(/\s+/g, " ").trim();
     const hit = (t) => !q || [t.name, t.title, t.industry, t.country, ...t.openFor, ...t.skills].join(" ").toLowerCase().includes(q);
-    const shown = all.filter(hit);
-    list.innerHTML = shown.map(cardHtml).join("");
-    status.hidden = shown.length > 0;
-    status.textContent = shown.length ? "" : all.length ? "No profiles match this search. Try another skill, job title or country." : "No profiles yet. Be the first: join as talent.";
+    const shown = all.filter(hit), early = all.length < FULL && !q;
+    list.innerHTML = shown.map(cardHtml).join("") + (early ? cardHtml(EXAMPLE) : "");
+    $("#ow-first").hidden = !early;
+    status.hidden = shown.length > 0 || early;
+    status.textContent = shown.length || early ? "" : "No profiles match this search. Try another skill, job title or country.";
   };
   search.addEventListener("input", draw);
   fetch("/api/talent").then((r) => (r.ok ? r.json() : Promise.reject())).then((d) => { all = d.talent || []; draw(); })
-    .catch(() => { status.hidden = false; status.textContent = "Couldn't load the profiles right now. Please try again in a moment."; });
+    .catch(() => { $("#ow-first").hidden = true; status.hidden = false; status.textContent = "Couldn't load the profiles right now. Please try again in a moment."; });
 
   // ---- Summary window ----
   const win = $("#ow-win"), body = $("#ow-win-body");
   const closeWin = () => { win.hidden = true; document.body.style.overflow = ""; };
-  const openWin = (id) => { const t = all.find((x) => x.id === id); if (!t) return;
+  const openWin = (id) => { const t = id === "example" ? EXAMPLE : all.find((x) => x.id === id); if (!t) return;
     body.innerHTML = `<p class="ow-kicker">Professional summary</p>${head(t)}<div class="ow-chips">${t.skills.map(skillChip).join("")}</div>
-      <p class="ow-text">${esc(t.summary)}</p><a class="ow-btn ow-li ow-wide" href="${esc(t.linkedin)}" target="_blank" rel="noopener nofollow ugc" data-li>${LI}Open LinkedIn</a>
+      <p class="ow-text">${esc(t.summary)}</p>${t.example ? "" : `<a class="ow-btn ow-li ow-wide" href="${esc(t.linkedin)}" target="_blank" rel="noopener nofollow ugc" data-li>${LI}Open LinkedIn</a>`}
       <p class="ow-red ow-red-sm">U Hirable is a free listing only. Any contact or agreement with this candidate is between you and them.</p>`;
     win.hidden = false; document.body.style.overflow = "hidden"; $("#ow-win-x").focus(); count("open-to-work/summary", "Open to Work: summary opened"); };
   document.addEventListener("click", (e) => {
