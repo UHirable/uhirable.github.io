@@ -9,7 +9,7 @@ _src = open(os.path.join(os.path.dirname(__file__), "build_sponsor_pages.py"), e
 exec(_src[:_src.index("# ---------------------------------------------------------------- United Kingdom")])
 
 SWITCH_ALL = [("United Kingdom", "uk-visa-sponsors.html"), ("Canada", "canada-lmia-employers.html"), ("United States", "us-h1b-sponsors.html"),
-              ("Ireland", "ireland-work-permit-companies.html"), ("Netherlands", "netherlands-recognised-sponsors.html"), ("Denmark", "denmark-fast-track-certified-companies.html"), ("Australia", "australia-labour-agreement-sponsors.html")]
+              ("Ireland", "ireland-work-permit-companies.html"), ("Netherlands", "netherlands-recognised-sponsors.html"), ("Denmark", "denmark-fast-track-certified-companies.html"), ("Australia", "australia-labour-agreement-sponsors.html"), ("Finland", "finland-certified-employers.html")]
 
 
 def switch(on):
