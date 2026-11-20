@@ -15,7 +15,7 @@ AU_SRC = ('<h2>Sources</h2><ul class="gd-src">'
           '<li><a href="https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/labour-agreements" target="_blank" rel="noopener">Department of Home Affairs: Labour agreements</a></li></ul>\n'
           '          <p class="gd-src">U Hirable is not connected to the Department of Home Affairs. The department updates the list from time to time, so always confirm a company on immi.homeaffairs.gov.au before you rely on it.</p>\n')
 AU_NOTE = ('          <p class="gd-note"><b>An agreement is not a job offer.</b> A labour agreement lets the business sponsor skilled workers from overseas. It does not mean it is hiring now. '
-           'This is also not the full list of Australian sponsors: many employers sponsor through the standard programme and have no labour agreement.</p>\n')
+           'This is the list of labour agreements only. It is not a list of every employer that can sponsor a visa in Australia.</p>\n')
 
 
 def slug(t):
@@ -102,7 +102,7 @@ faq = [
     ("Which companies in Australia have a labour agreement to sponsor overseas workers?", f"The Department of Home Affairs publishes them. Its list dated {date} has {num(n_ag)} current agreements held by {num(n_co)} employers, and you can search them all on this page."),
     ("What is a labour agreement?", "An agreement that lets an approved business sponsor skilled overseas workers when the Australian labour market cannot meet the need and the standard visa programmes are not available."),
     ("How long does a labour agreement last?", "Agreements are generally in effect for five years."),
-    ("Is this every employer that can sponsor a visa in Australia?", "No. It is the list of labour agreements only. Many employers sponsor through the standard programme and are not on it."),
+    ("Is this every employer that can sponsor a visa in Australia?", "No. It is the list of labour agreements only."),
     ("Does being on the list mean the company is hiring?", "No. The list shows who holds an agreement. It does not show vacancies, so always check the employer's current jobs."),
 ]
 out = render(shell("uk-visa-sponsors.html"), AU_HUB, f"Australia Labour Agreement Employers List ({YEAR}): {num(n_co)} Sponsors",

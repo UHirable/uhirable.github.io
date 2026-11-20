@@ -1,5 +1,5 @@
 # Builds the New Zealand guide page (accredited employers, Immigration New Zealand). Run from the repo root.
-# No company list here: INZ publishes a search tool, not a downloadable list.
+# No company list here: the page points to INZ's official search tool.
 import os, re
 
 _src = open(os.path.join(os.path.dirname(__file__), "build_ie_nl_pages.py"), encoding="utf-8").read()
@@ -9,7 +9,7 @@ NZ = "new-zealand-accredited-employers.html"
 TODAY = "2026-11-20"
 TOOL = "https://immigration.govt.nz/work/requirements-for-work-visas/approved-employers/accredited-employer-list"
 body = (GD +
-        '          <p class="gd-answer">To get New Zealand\'s main work visa, the Accredited Employer Work Visa (AEWV), your job offer must come from an employer accredited by Immigration New Zealand. There are more than 28,000 accredited employers. Immigration New Zealand does not publish them as one list. It has an official search tool, updated daily, where you check an employer by name.</p>\n'
+        '          <p class="gd-answer">To get New Zealand\'s main work visa, the Accredited Employer Work Visa (AEWV), your job offer must come from an employer accredited by Immigration New Zealand. There are more than 28,000 accredited employers. Immigration New Zealand has an official search tool, updated daily, where you check an employer by name.</p>\n'
         + switch(NZ) +
         f'          <p><a class="btn btn-gold" style="white-space:normal;text-align:center;max-width:100%;box-sizing:border-box" href="{TOOL}" target="_blank" rel="noopener">Open the official search tool</a></p>\n'
         '          <p class="gd-note"><b>Accreditation is not a job offer.</b> It means the employer is approved to hire workers from overseas. It does not mean it is hiring now. Also, employers can choose not to have their accreditation published, so a missing name does not always mean the employer is not accredited. Ask the employer.</p>\n'
@@ -41,7 +41,7 @@ body = (GD +
         '<li><a href="https://www.immigration.govt.nz/about-us/news-centre/accredited-employer-work-visa-aewv-key-information-and-statistics" target="_blank" rel="noopener">Immigration New Zealand: AEWV key information and statistics</a></li></ul>\n'
         '          <p class="gd-src">U Hirable is not connected to Immigration New Zealand.</p>\n' + GD_END)
 faq = [
-    ("Is there a list of accredited employers in New Zealand?", "Immigration New Zealand has an official search tool, updated daily, where you check an employer by company name, trading name or NZBN. It is not published as one downloadable list."),
+    ("Is there a list of accredited employers in New Zealand?", "Immigration New Zealand has an official search tool, updated daily, where you check an employer by company name, trading name or NZBN."),
     ("How many accredited employers are there in New Zealand?", "More than 28,000, according to Immigration New Zealand figures from March 2026."),
     ("What job offer do I need for the Accredited Employer Work Visa?", "A full-time offer of at least 30 hours a week from an accredited employer that has an approved job."),
     ("How long can I stay on an Accredited Employer Work Visa?", "Up to 5 years, based on the job offered."),

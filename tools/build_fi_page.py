@@ -25,7 +25,7 @@ assert n == meta["orgs"]
 body = (GD +
         f'          <p class="gd-answer">Finland publishes the employers certified by the Finnish Immigration Service (Migri). There are {n} on the official list, checked on {date}. Certification speeds up the residence permit application of a person the company hires from abroad. The full list is below, with the date each certification ends.</p>\n'
         + switch(FI) +
-        '          <p class="gd-note"><b>The list is not a job advertisement.</b> Migri says a company\'s name on the list does not mean it has vacancies. Certification is also not required: other employers in Finland can hire from abroad too, the application just takes the normal route.</p>\n'
+        '          <p class="gd-note"><b>The list is not a job advertisement.</b> Migri says a company\'s name on the list does not mean it has vacancies.</p>\n'
         f'          <h2>All {n} certified employers, A to Z</h2>\n'
         '          <ul class="spc-list">' + "".join(li(a, "until " + d) for a, _, c, d in rows) + "</ul>\n"
         '          <h2>What employer certification means</h2>\n'

@@ -85,7 +85,7 @@ for sl, lab, phrase, g in groups:
     pages[fname] = TODAY
     print(sl, k)
 body = (GD +
-        f'          <p class="gd-answer">Denmark publishes the companies it has certified to hire workers from outside the EU through the Fast-track Scheme. There are {num(n)} of them on the official list, updated on {date}. Search them here by name, or scroll the full list below. With a certified employer you can start work much sooner, because the company applies for you.</p>\n'
+        f'          <p class="gd-answer">Denmark publishes the companies it has certified to hire workers from outside the EU through the Fast-track Scheme. There are {num(n)} of them on the official list, updated on {date}. Search them here by name, or scroll the full list below. The scheme makes it faster for certified companies to recruit foreign employees.</p>\n'
         + switch(DK_HUB) + search_box("data/dk/all.txt", "", "e.g. Novo Nordisk, Maersk, LEGO") + DK_NOTE +
         '          <h2>Browse certified companies by sector</h2>\n          ' + glinks + "\n"
         '          <h2>What the Fast-track Scheme is</h2>\n'
@@ -101,7 +101,6 @@ body = (GD +
         '          <h2>How to use the list in your job search</h2>\n          <ol class="gd-steps">\n'
         '            <li><b>Look for vacancies on the company\'s own careers page.</b> Tap any name in the list to search for it.</li>\n'
         '            <li><b>Check the salary.</b> The offer must meet the amount for your track.</li>\n'
-        '            <li><b>Not on the list? There are other routes.</b> Denmark has other work schemes that do not use this list. A company needs certification only for the Fast-track Scheme.</li>\n'
         '            <li><b>Never pay for a job.</b> A real employer does not charge you for a job offer or a permit.</li>\n          </ol>\n'
         f'          <h2>All {num(n)} certified companies</h2>\n'
         '          <ul class="spc-list">' + "".join(li(a) for a, _ in rows) + "</ul>\n"
@@ -111,7 +110,6 @@ faq = [
     ("What salary do I need for the Fast-track Scheme in 2026?", "At least DKK 552,000 a year on the pay limit track, or DKK 446,000 a year on the supplementary pay limit track, which has extra conditions."),
     ("Who applies for the permit?", "Your employer. Under the Fast-track Scheme the certified company submits the application, using a power of attorney from you."),
     ("Does being on the list mean the company is hiring?", "No. The list shows who is certified. It does not show vacancies, so always check the employer's current jobs."),
-    ("Can I work in Denmark for a company that is not on the list?", "Yes, through Denmark's other work schemes. Certification is needed only for the Fast-track Scheme."),
 ]
 out = render(shell("uk-visa-sponsors.html"), DK_HUB, f"Denmark Fast-Track Certified Companies List ({YEAR}): {num(n)} Employers",
              f"Search all {num(n)} companies certified by SIRI to hire foreign workers through Denmark's Fast-track Scheme. From the official list updated {date}.",
