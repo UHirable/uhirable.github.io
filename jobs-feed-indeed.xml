@@ -2,7 +2,137 @@
 <source>
   <publisher>U Hirable</publisher>
   <publisherurl>https://uhirable.com/</publisherurl>
-  <lastBuildDate>Wed, 11 Nov 2026 00:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 00:00:00 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Staff Software Engineer, OfficeJS]]></title>
+    <date><![CDATA[Fri, 20 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[harvey-staff-software-engineer-officejs]]></referencenumber>
+    <url><![CDATA[https://uhirable.com/job-harvey-staff-software-engineer-officejs.html]]></url>
+    <company><![CDATA[Harvey]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Harvey builds AI for legal and professional services, used by more than 100,000 lawyers across 1,400+ customers in 60 countries, including most of the AmLaw 100. The company was founded in 2022, has about 2,000 employees and $550M in funding from backers such as Sequoia, OpenAI, GV and Kleiner Perkins. This role sits on the Embedded Experiences team, which owns Harvey in Word and the other Microsoft Office integrations.</p><p><strong>Who can apply:</strong> For people who can work from San Francisco, New York, Chicago or Toronto. Visa transfers (OPT, H1B transfer) are accepted.</p><p><strong>What you'll do:</strong></p><ul><li>Own the technical direction of Harvey in Word and Harvey's other Microsoft Office integrations.</li><li>Build AI editing features: agentic document rewrites, reviewable redlines and track changes, and playbook automation.</li><li>Work with product, design, backend and the Document Editing Engine team on APIs and UX for streaming and tool-calling features.</li><li>Design solutions that hold up across the Office Add-in environment on Windows, Mac and Web.</li><li>Take features from architecture to production on a weekly release cadence, and mentor other engineers.</li></ul><p><strong>Requirements:</strong></p><ul><li>Typically 5+ years as a software engineer (4+ minimum).</li><li>Has personally built and shipped production Office Add-ins with OfficeJS at scale.</li><li>Strong TypeScript, JavaScript and React.</li><li>Bonus: document editing engines (Open XML, redlining, track changes) or legal tech experience.</li><li>Hybrid from the San Francisco, New York, Chicago or Toronto office. Visa transfers accepted (OPT, H1B transfer).</li></ul><p><strong>Compensation:</strong> $231K – $340K base. Full-time, hybrid from Harvey's hubs in San Francisco, New York, Chicago and Toronto, with relocation help for the right candidate.</p>]]></description>
+    <salary><![CDATA[$231K – $340K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Full Stack Product Engineer]]></title>
+    <date><![CDATA[Fri, 20 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[hightouch-full-stack-product-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.com/job-hightouch-full-stack-product-engineer.html]]></url>
+    <company><![CDATA[Hightouch]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Hightouch created the Composable Customer Data Platform, which lets companies use their own data warehouse for marketing personalization, and now offers an Agentic Marketing Platform and AI Decisioning on top of it. Customers include Autotrader, Calendly, Cars.com, Monday.com and PetSmart. Founded in 2018, it has about 580 employees and $332M in funding from investors such as Goldman Sachs, Sapphire Ventures, ICONIQ and Y Combinator. The team is mostly remote across the US and Canada.</p><p><strong>Who can apply:</strong> For people living in the US or Canada. The company can support H1B transfer, TN and O-1.</p><p><strong>What you'll do:</strong></p><ul><li>Design and build features end to end for a new generation of marketing and growth products.</li><li>Work closely with customers, designers and product managers to understand how the product is really used.</li><li>Work with ML engineers to surface insights marketers can act on.</li><li>Build analytics and observability for marketing performance.</li><li>Create simple interfaces for setting up complex experiments.</li></ul><p><strong>Requirements:</strong></p><ul><li>5–12 years of software engineering experience on user-facing, product-centric work.</li><li>Has built user interfaces from zero to one with product teams.</li><li>Can lead and architect complex frontend systems independently.</li><li>Solid grasp of backend API design and data models. Stack: React, TypeScript, Go.</li><li>Based in the US or Canada, working US time zones. Visa transfers accepted (H1B transfer, TN, O-1).</li></ul><p><strong>Compensation:</strong> $180K – $320K base plus ISO stock options. Full-time, remote in North America; offices in San Francisco, New York and North Carolina for those who want one.</p>]]></description>
+    <salary><![CDATA[$180K – $320K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[WFH]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Technical Recruiter]]></title>
+    <date><![CDATA[Fri, 20 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[baseten-technical-recruiter]]></referencenumber>
+    <url><![CDATA[https://uhirable.com/job-baseten-technical-recruiter.html]]></url>
+    <company><![CDATA[Baseten]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Baseten is an AI infrastructure platform focused on inference: the tooling, expertise and hardware companies need to run AI models in production. Founded in 2019 and based in San Francisco, it has about 400 employees. Technical Recruiters here each own hiring for one of four teams: Security Engineering, Product Engineering, Infrastructure or Product Design.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only. Please don't apply from outside the US.</p><p><strong>What you'll do:</strong></p><ul><li>Own the hiring goals and the full process for one team, from role kickoff to accepted offer.</li><li>Work with hiring managers to define the bar for each role.</li><li>Build pipelines of mid-level and senior candidates through hands-on sourcing and outreach.</li><li>Give every candidate a clear, well-run process with timely updates.</li><li>Track pipeline health, time-to-fill, conversion and acceptance rates, and use them to decide where to focus.</li></ul><p><strong>Requirements:</strong></p><ul><li>5–16 years of recruiting experience.</li><li>Experience hiring technical talent end to end.</li><li>Comfortable acting as a talent partner to hiring managers, not only filling requisitions.</li><li>Hybrid, 3 days a week in the office. San Francisco preferred; New York also possible.</li><li>US citizen or Green Card holder (no visa sponsorship).</li></ul><p><strong>Compensation:</strong> $185K – $225K base plus equity. Full-time, hybrid (3 days a week in the office) in San Francisco or New York.</p>]]></description>
+    <salary><![CDATA[$185K – $225K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Solutions Architect]]></title>
+    <date><![CDATA[Fri, 20 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[together-ai-solutions-architect-san-francisco]]></referencenumber>
+    <url><![CDATA[https://uhirable.com/job-together-ai-solutions-architect-san-francisco.html]]></url>
+    <company><![CDATA[Together AI]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Together AI runs an AI cloud for engineers and researchers, covering inference, fine-tuning and GPU clusters around open models. Customers include Cursor, Decagon, ElevenLabs, Salesforce, Zoom and Zomato. Founded in 2022, it has about 200 employees and $1.33B in funding. Solutions Architects sit in the sales organization and own the technical side of each deal, then stay with customers through to production.</p><p><strong>Who can apply:</strong> For people who can work from San Francisco. H-1B transfers are accepted.</p><p><strong>What you'll do:</strong></p><ul><li>Act as technical advisor to the most strategic customers building on open-source models.</li><li>Run demonstrations and proofs of concept across Together's hardware and software stack.</li><li>Work with Account Executives to qualify prospects and support existing customers.</li><li>Build relationships with customer leadership and help them deploy and scale.</li><li>Pass customer feedback to Product, Engineering and Research, and create playbooks, blogs and demos.</li></ul><p><strong>Requirements:</strong></p><ul><li>5+ years in a customer-facing technical role, including 2+ years in pre-sales.</li><li>Deeply technical, with a strong interest in generative AI.</li><li>Comfortable with hands-on work such as benchmarking and tuning inference endpoints.</li><li>In the San Francisco office 4 days a week (Fridays from home).</li><li>H-1B transfers accepted.</li></ul><p><strong>Compensation:</strong> $175K – $210K base, OTE $250K – $300K (70/30 split between base and variable), plus equity. Full-time, hybrid in San Francisco.</p>]]></description>
+    <salary><![CDATA[$175K – $210K (OTE $250K – $300K)]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Robotics Engineer]]></title>
+    <date><![CDATA[Fri, 20 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[skild-ai-robotics-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.com/job-skild-ai-robotics-engineer.html]]></url>
+    <company><![CDATA[Skild AI]]></company>
+    <city><![CDATA[Pittsburgh]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Skild AI is building a general-purpose AI brain for robots that can run on many kinds of hardware, from humanoids to warehouse systems to quadrupeds. Founded in 2022 and headquartered in San Mateo, California, it has raised over $1.8B from investors including SoftBank, Sequoia, NVIDIA and Bezos Expeditions, and counts Amazon and NVIDIA among its customers. This role is based in Pittsburgh.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only. Please don't apply from outside the US.</p><p><strong>What you'll do:</strong></p><ul><li>Design, develop and deploy software for robotic systems, including programming, configuration and validation.</li><li>Integrate robotics software into production environments and troubleshoot failures across hardware, software and model layers.</li><li>Work with ML and core robotics engineers to reproduce edge cases and feed field learnings back into the system.</li><li>Analyze and improve robot algorithms and overall system performance.</li><li>Write documentation, runbooks and tooling for configuration, monitoring and evaluation.</li></ul><p><strong>Requirements:</strong></p><ul><li>3–5+ years of hands-on robotics application development, system integration or field deployment.</li><li>Proficient in Python and C++, with working knowledge of ROS/ROS2.</li><li>Background in autonomous systems such as robotics, drones, autonomous vehicles or industrial automation.</li><li>BS, MS or higher in Computer Science, Robotics or a related field, or equivalent experience.</li><li>On-site in Pittsburgh, PA. US citizen or Green Card holder (no visa sponsorship).</li></ul><p><strong>Compensation:</strong> $150K – $200K base, depending on experience, plus equity. Full-time, on-site in Pittsburgh, PA.</p>]]></description>
+    <salary><![CDATA[$150K – $200K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Full-Stack Engineer (Ambient AI)]]></title>
+    <date><![CDATA[Fri, 20 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[commure-full-stack-engineer-ambient-ai]]></referencenumber>
+    <url><![CDATA[https://uhirable.com/job-commure-full-stack-engineer-ambient-ai.html]]></url>
+    <company><![CDATA[Commure]]></company>
+    <city><![CDATA[Mountain View]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Commure builds AI software for healthcare: ambient clinical documentation, provider copilots, autonomous coding and revenue cycle management, integrated with 60+ EHR systems. Founded in 2017, it has about 1,200 employees and $800M in funding from investors such as General Catalyst, Sequoia and Y Combinator. This role is on the Ambient Scribe team, one of its fastest-growing products.</p><p><strong>Who can apply:</strong> For people who can work from Mountain View, CA. Visa transfers (TN, F1, H1B transfer) are accepted.</p><p><strong>What you'll do:</strong></p><ul><li>Shape full-stack architecture decisions for AI-powered healthcare products.</li><li>Work across the stack, including Python, Go, TypeScript and React.</li><li>Lead technical planning and delivery of new features.</li><li>Set and keep standards for code quality, testing and deployment, and mentor junior engineers.</li><li>Work with product managers, designers, clinical experts and customers directly.</li></ul><p><strong>Requirements:</strong></p><ul><li>2–8 years as a full-stack engineer at fast-growing tech companies (3–4 years for mid-level, 5–8 for senior).</li><li>Computer science degree and strong technical fundamentals.</li><li>Stack: Python, Go, TypeScript, React, Flutter, AWS.</li><li>In the Mountain View office 3 days a week. Remote in Los Angeles, Boston, Austin or Phoenix is considered for exceptional candidates, with travel.</li><li>Visa transfers accepted (TN, F1, H1B transfer); green card sponsorship is available later.</li></ul><p><strong>Compensation:</strong> $140K – $200K base plus equity. Full-time, hybrid in Mountain View, CA.</p>]]></description>
+    <salary><![CDATA[$140K – $200K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Software Engineer, Vehicle Platform]]></title>
+    <date><![CDATA[Fri, 20 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[saildrone-software-engineer-vehicle-platform]]></referencenumber>
+    <url><![CDATA[https://uhirable.com/job-saildrone-software-engineer-vehicle-platform.html]]></url>
+    <company><![CDATA[Saildrone]]></company>
+    <city><![CDATA[Alameda]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Saildrone builds autonomous, wind-powered ocean vehicles that carry sensors for ocean mapping, defense and maritime security, and delivers the data as a full service. Founded in 2014, it builds almost everything in-house on the waterfront in Alameda, California, and has raised about $300M from investors including Lockheed Martin, Lux Capital and Tribe Capital. Customers include the US Coast Guard and Navy.</p><p><strong>Who can apply:</strong> US citizens or Green Card holders living in the US only. Please don't apply from outside the US.</p><p><strong>What you'll do:</strong></p><ul><li>Develop and maintain production C++ software that runs onboard the vessels.</li><li>Integrate sensors and vehicle subsystems such as power, battery management, propulsion and control.</li><li>Diagnose vehicle and software issues using telemetry, logs and test benches, then ship fixes across the active fleet.</li><li>Support new sensor integration as customer missions change.</li><li>Build software for vehicle configuration, deployment and upgrades across about 100 vessels worldwide.</li></ul><p><strong>Requirements:</strong></p><ul><li>4+ years building software that runs on physical hardware (the listing accepts strong engineers from about 3–5 years).</li><li>Hands-on C++ in robotics, autonomous vehicles, aerospace or defense systems.</li><li>Comfortable debugging with telemetry and logs and deploying to products in the field.</li><li>Bonus: embedded Linux, real-time operating systems, or supporting an active fleet.</li><li>Hybrid in Alameda, CA, 3 days a week in the office. No relocation support. US citizen or Green Card holder (no visa sponsorship).</li></ul><p><strong>Compensation:</strong> $144K – $300K base, depending on level, plus equity. Full-time, hybrid in Alameda, CA.</p>]]></description>
+    <salary><![CDATA[$144K – $300K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Machine Learning Engineer, Inference]]></title>
+    <date><![CDATA[Fri, 20 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[inworld-senior-machine-learning-engineer-inference]]></referencenumber>
+    <url><![CDATA[https://uhirable.com/job-inworld-senior-machine-learning-engineer-inference.html]]></url>
+    <company><![CDATA[Inworld]]></company>
+    <city><![CDATA[Mountain View]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Inworld is a research lab and inference provider for realtime AI in consumer apps. It builds its own speech models, serves LLMs and runs the infrastructure behind them, at over 10 trillion tokens a month. Founded in 2021 and based in Mountain View, it has about 50 employees and more than $125M in funding from Lightspeed, Kleiner Perkins, Microsoft's M12, Founders Fund and others.</p><p><strong>Who can apply:</strong> On-site in Mountain View, CA, or remote from the US, Canada, the United Kingdom, Germany, Switzerland or Serbia. Bay Area candidates are strongly preferred. H-1B transfers are supported.</p><p><strong>What you'll do:</strong></p><ul><li>Optimise model serving with modern inference frameworks such as vLLM or TRT-LLM.</li><li>Speed up models with quantization, distillation, caching, continuous batching and speculative decoding.</li><li>Profile and tune code to get the most out of NVIDIA GPUs.</li><li>Scale multi-GPU and multi-node inference with Kubernetes and Ray, handling thousands of concurrent connections.</li><li>Take models from research to reliable production: containerize, optimise and operate them.</li></ul><p><strong>Requirements:</strong></p><ul><li>5+ years as an ML inference or systems engineer.</li><li>Strong in C++, CUDA, Rust or highly optimised Python.</li><li>Distributed systems experience (Kubernetes, Ray, load balancing).</li><li>Public work is a plus: open-source contributions to inference engines or technical write-ups.</li><li>PhD in CS, Physics or Math, or equivalent practical experience. H-1B transfers supported.</li></ul><p><strong>Compensation:</strong> $250K – $300K base, adjusted by location, plus bonus and equity. Full-time. Relocation help for candidates moving to the San Francisco Bay Area.</p>]]></description>
+    <salary><![CDATA[$250K – $300K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[WFH]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Forward Deployed Engineer]]></title>
+    <date><![CDATA[Fri, 20 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[reducto-forward-deployed-engineer]]></referencenumber>
+    <url><![CDATA[https://uhirable.com/job-reducto-forward-deployed-engineer.html]]></url>
+    <company><![CDATA[Reducto]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Reducto builds a document AI platform that turns complex documents into data other software can use, processing tens of millions of pages a month. Founded in 2023 by two MIT classmates, it went through Y Combinator (Winter 2024) and has raised $108M from a16z, Benchmark, First Round and others. The team is about 75–80 people, in the office five days a week in San Francisco.</p><p><strong>Who can apply:</strong> For people who can work on-site in San Francisco. Visa sponsorship is available, including transfers (OPT, H1B transfer).</p><p><strong>What you'll do:</strong></p><ul><li>Work with Account Executives and Sales Engineers before the sale: run evaluations, build custom demos and win bake-offs against rival products.</li><li>Own technical success for 1–3 enterprise accounts after the sale, meeting them weekly or every two weeks.</li><li>Build whatever the customer needs, from an evaluation app to a custom agent.</li><li>Create diagnostics, dashboards and evaluation harnesses to track performance and regressions.</li><li>Bring customer feedback to product and engineering, and work directly with the founders.</li></ul><p><strong>Requirements:</strong></p><ul><li>3–6 years deploying software in production, ideally with enterprise or regulated customers.</li><li>Excellent Python, and comfortable with Bash and infrastructure.</li><li>A high bar for quality and a habit of fixing problems rather than only reporting them.</li><li>Bonus: founder or early-stage experience, or a previous forward-deployed role.</li><li>On-site in San Francisco 5 days a week. Visa sponsorship available.</li></ul><p><strong>Compensation:</strong> Listed range $220K – $320K (the role notes mention $150K – $300K base) plus equity. Full-time, on-site in San Francisco.</p>]]></description>
+    <salary><![CDATA[$220K – $320K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Member of Technical Staff (Platform)]]></title>
+    <date><![CDATA[Fri, 20 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[listen-labs-member-of-technical-staff-platform]]></referencenumber>
+    <url><![CDATA[https://uhirable.com/job-listen-labs-member-of-technical-staff-platform.html]]></url>
+    <company><![CDATA[Listen Labs]]></company>
+    <city><![CDATA[San Francisco]]></city>
+    <country><![CDATA[US]]></country>
+    <description><![CDATA[<p>Listen Labs is an AI market researcher: a company shares a business question, and the AI designs the interviews, finds participants from a network of 50M+ people in 120+ languages and analyses the answers within hours. It has run more than 2 million interviews and says 15% of the Fortune 100 use it, including Google, Microsoft, Nestlé and P&G. Founded in 2023, it has about 80 employees and $100M in funding. In September 2026 Salesforce signed a deal to acquire Listen Labs, with the founders staying on.</p><p><strong>Who can apply:</strong> For people who can work on-site in San Francisco. O-1 sponsorship, H1B transfer and H1B1 are supported.</p><p><strong>What you'll do:</strong></p><ul><li>Build analysis and insight features, including chat inside the platform.</li><li>Develop participant incentives and recruitment features, lists and panels for self-serve customers.</li><li>Contribute to product experience and the design system.</li><li>Work with product and design on product-heavy projects.</li><li>Take on platform work such as distributed systems and APIs.</li></ul><p><strong>Requirements:</strong></p><ul><li>2–8 years as a full-stack or platform engineer.</li><li>Able to take complex problems from start to finish.</li><li>Comfortable working closely with product and design.</li><li>On-site in San Francisco 5 days a week.</li><li>Visa support: O-1 sponsorship, H1B transfer, H1B1.</li></ul><p><strong>Compensation:</strong> $200K – $300K base plus equity. Full-time, on-site in San Francisco.</p>]]></description>
+    <salary><![CDATA[$200K – $300K]]></salary>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[]]></remotetype>
+  </job>
   <job>
     <title><![CDATA[Forward Deployed Engineer]]></title>
     <date><![CDATA[Wed, 11 Nov 2026 00:00:00 GMT]]></date>

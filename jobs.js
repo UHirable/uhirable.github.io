@@ -22,6 +22,315 @@ const ABOUT = "EliseAI builds agentic AI for housing and healthcare: $250M Serie
 
 const JOBS = [
   {
+    id: "harvey-staff-software-engineer-officejs",
+    page: "job-harvey-staff-software-engineer-officejs.html",
+    title: "Staff Software Engineer, OfficeJS",
+    company: "Harvey",
+    logo: "logo-co-harvey.png",
+    industry: "Legal AI",
+    countries: ["United States", "Canada"],
+    location: "San Francisco, New York, Chicago or Toronto",
+    tags: ["Hybrid", "Full-time", "$231K – $340K", "Visa transfers accepted"],
+    brief: "Lead the engineering of Harvey in Word, the Microsoft Office add-in that lawyers at top firms use for AI drafting and redlining.",
+    eligibility: "For people who can work from San Francisco, New York, Chicago or Toronto. Visa transfers (OPT, H1B transfer) are accepted.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Harvey builds AI for legal and professional services, used by more than 100,000 lawyers across 1,400+ customers in 60 countries, including most of the AmLaw 100. The company was founded in 2022, has about 2,000 employees and $550M in funding from backers such as Sequoia, OpenAI, GV and Kleiner Perkins. This role sits on the Embedded Experiences team, which owns Harvey in Word and the other Microsoft Office integrations.",
+    responsibilities: [
+      "Own the technical direction of Harvey in Word and Harvey's other Microsoft Office integrations.",
+      "Build AI editing features: agentic document rewrites, reviewable redlines and track changes, and playbook automation.",
+      "Work with product, design, backend and the Document Editing Engine team on APIs and UX for streaming and tool-calling features.",
+      "Design solutions that hold up across the Office Add-in environment on Windows, Mac and Web.",
+      "Take features from architecture to production on a weekly release cadence, and mentor other engineers."
+    ],
+    requirements: [
+      "Typically 5+ years as a software engineer (4+ minimum).",
+      "Has personally built and shipped production Office Add-ins with OfficeJS at scale.",
+      "Strong TypeScript, JavaScript and React.",
+      "Bonus: document editing engines (Open XML, redlining, track changes) or legal tech experience.",
+      "Hybrid from the San Francisco, New York, Chicago or Toronto office. Visa transfers accepted (OPT, H1B transfer)."
+    ],
+    compensation: "$231K – $340K base. Full-time, hybrid from Harvey's hubs in San Francisco, New York, Chicago and Toronto, with relocation help for the right candidate."
+  },
+  {
+    id: "hightouch-full-stack-product-engineer",
+    page: "job-hightouch-full-stack-product-engineer.html",
+    title: "Full Stack Product Engineer",
+    company: "Hightouch",
+    logo: "logo-co-hightouch.png",
+    industry: "Marketing Data & AI",
+    countries: ["United States", "Canada"],
+    location: "Remote (US or Canada)",
+    tags: ["Remote", "Full-time", "$180K – $320K", "US or Canada", "Visa transfers accepted"],
+    brief: "Build the interface that lets marketers use AI and their own customer data without engineers, at a fully remote company that roughly doubles every year.",
+    eligibility: "For people living in the US or Canada. The company can support H1B transfer, TN and O-1.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Hightouch created the Composable Customer Data Platform, which lets companies use their own data warehouse for marketing personalization, and now offers an Agentic Marketing Platform and AI Decisioning on top of it. Customers include Autotrader, Calendly, Cars.com, Monday.com and PetSmart. Founded in 2018, it has about 580 employees and $332M in funding from investors such as Goldman Sachs, Sapphire Ventures, ICONIQ and Y Combinator. The team is mostly remote across the US and Canada.",
+    responsibilities: [
+      "Design and build features end to end for a new generation of marketing and growth products.",
+      "Work closely with customers, designers and product managers to understand how the product is really used.",
+      "Work with ML engineers to surface insights marketers can act on.",
+      "Build analytics and observability for marketing performance.",
+      "Create simple interfaces for setting up complex experiments."
+    ],
+    requirements: [
+      "5–12 years of software engineering experience on user-facing, product-centric work.",
+      "Has built user interfaces from zero to one with product teams.",
+      "Can lead and architect complex frontend systems independently.",
+      "Solid grasp of backend API design and data models. Stack: React, TypeScript, Go.",
+      "Based in the US or Canada, working US time zones. Visa transfers accepted (H1B transfer, TN, O-1)."
+    ],
+    compensation: "$180K – $320K base plus ISO stock options. Full-time, remote in North America; offices in San Francisco, New York and North Carolina for those who want one."
+  },
+  {
+    id: "baseten-technical-recruiter",
+    page: "job-baseten-technical-recruiter.html",
+    title: "Technical Recruiter",
+    company: "Baseten",
+    logo: "logo-co-baseten.png",
+    industry: "AI Infrastructure",
+    countries: ["United States"],
+    location: "San Francisco Bay Area or New York",
+    tags: ["Hybrid", "Full-time", "$185K – $225K", "US citizens / Green Card"],
+    brief: "Own hiring for one engineering or design team at Baseten, an AI inference platform with about 400 employees.",
+    eligibility: "US citizens or Green Card holders living in the US only. Please don't apply from outside the US.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Baseten is an AI infrastructure platform focused on inference: the tooling, expertise and hardware companies need to run AI models in production. Founded in 2019 and based in San Francisco, it has about 400 employees. Technical Recruiters here each own hiring for one of four teams: Security Engineering, Product Engineering, Infrastructure or Product Design.",
+    responsibilities: [
+      "Own the hiring goals and the full process for one team, from role kickoff to accepted offer.",
+      "Work with hiring managers to define the bar for each role.",
+      "Build pipelines of mid-level and senior candidates through hands-on sourcing and outreach.",
+      "Give every candidate a clear, well-run process with timely updates.",
+      "Track pipeline health, time-to-fill, conversion and acceptance rates, and use them to decide where to focus."
+    ],
+    requirements: [
+      "5–16 years of recruiting experience.",
+      "Experience hiring technical talent end to end.",
+      "Comfortable acting as a talent partner to hiring managers, not only filling requisitions.",
+      "Hybrid, 3 days a week in the office. San Francisco preferred; New York also possible.",
+      "US citizen or Green Card holder (no visa sponsorship)."
+    ],
+    compensation: "$185K – $225K base plus equity. Full-time, hybrid (3 days a week in the office) in San Francisco or New York."
+  },
+  {
+    id: "together-ai-solutions-architect-san-francisco",
+    page: "job-together-ai-solutions-architect-san-francisco.html",
+    title: "Solutions Architect",
+    company: "Together AI",
+    logo: "logo-co-together-ai.png",
+    industry: "AI Cloud",
+    countries: ["United States"],
+    location: "San Francisco, CA",
+    tags: ["Hybrid", "Full-time", "$175K – $210K (OTE $250K – $300K)", "Visa transfers accepted"],
+    brief: "Be the technical advisor to Together AI's biggest customers, running demos and proofs of concept on its open-model AI cloud.",
+    eligibility: "For people who can work from San Francisco. H-1B transfers are accepted.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Together AI runs an AI cloud for engineers and researchers, covering inference, fine-tuning and GPU clusters around open models. Customers include Cursor, Decagon, ElevenLabs, Salesforce, Zoom and Zomato. Founded in 2022, it has about 200 employees and $1.33B in funding. Solutions Architects sit in the sales organization and own the technical side of each deal, then stay with customers through to production.",
+    responsibilities: [
+      "Act as technical advisor to the most strategic customers building on open-source models.",
+      "Run demonstrations and proofs of concept across Together's hardware and software stack.",
+      "Work with Account Executives to qualify prospects and support existing customers.",
+      "Build relationships with customer leadership and help them deploy and scale.",
+      "Pass customer feedback to Product, Engineering and Research, and create playbooks, blogs and demos."
+    ],
+    requirements: [
+      "5+ years in a customer-facing technical role, including 2+ years in pre-sales.",
+      "Deeply technical, with a strong interest in generative AI.",
+      "Comfortable with hands-on work such as benchmarking and tuning inference endpoints.",
+      "In the San Francisco office 4 days a week (Fridays from home).",
+      "H-1B transfers accepted."
+    ],
+    compensation: "$175K – $210K base, OTE $250K – $300K (70/30 split between base and variable), plus equity. Full-time, hybrid in San Francisco."
+  },
+  {
+    id: "skild-ai-robotics-engineer",
+    page: "job-skild-ai-robotics-engineer.html",
+    title: "Robotics Engineer",
+    company: "Skild AI",
+    logo: "logo-co-skild-ai.png",
+    industry: "Robotics · AI",
+    countries: ["United States"],
+    location: "Pittsburgh, PA",
+    tags: ["On-site", "Full-time", "$150K – $200K", "US citizens / Green Card"],
+    brief: "Take Skild AI's robotics foundation model from the lab to real robots: write the software, integrate it and fix what fails in the field.",
+    eligibility: "US citizens or Green Card holders living in the US only. Please don't apply from outside the US.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Skild AI is building a general-purpose AI brain for robots that can run on many kinds of hardware, from humanoids to warehouse systems to quadrupeds. Founded in 2022 and headquartered in San Mateo, California, it has raised over $1.8B from investors including SoftBank, Sequoia, NVIDIA and Bezos Expeditions, and counts Amazon and NVIDIA among its customers. This role is based in Pittsburgh.",
+    responsibilities: [
+      "Design, develop and deploy software for robotic systems, including programming, configuration and validation.",
+      "Integrate robotics software into production environments and troubleshoot failures across hardware, software and model layers.",
+      "Work with ML and core robotics engineers to reproduce edge cases and feed field learnings back into the system.",
+      "Analyze and improve robot algorithms and overall system performance.",
+      "Write documentation, runbooks and tooling for configuration, monitoring and evaluation."
+    ],
+    requirements: [
+      "3–5+ years of hands-on robotics application development, system integration or field deployment.",
+      "Proficient in Python and C++, with working knowledge of ROS/ROS2.",
+      "Background in autonomous systems such as robotics, drones, autonomous vehicles or industrial automation.",
+      "BS, MS or higher in Computer Science, Robotics or a related field, or equivalent experience.",
+      "On-site in Pittsburgh, PA. US citizen or Green Card holder (no visa sponsorship)."
+    ],
+    compensation: "$150K – $200K base, depending on experience, plus equity. Full-time, on-site in Pittsburgh, PA."
+  },
+  {
+    id: "commure-full-stack-engineer-ambient-ai",
+    page: "job-commure-full-stack-engineer-ambient-ai.html",
+    title: "Full-Stack Engineer (Ambient AI)",
+    company: "Commure",
+    logo: "logo-co-commure.png",
+    industry: "Healthcare AI",
+    countries: ["United States"],
+    location: "Mountain View, CA",
+    tags: ["Hybrid", "Full-time", "$140K – $200K", "Visa transfers accepted"],
+    brief: "Build the Ambient Scribe product that writes clinical notes from patient visits, on iOS, Android and web, at a healthcare AI company used by 500,000+ clinicians.",
+    eligibility: "For people who can work from Mountain View, CA. Visa transfers (TN, F1, H1B transfer) are accepted.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Commure builds AI software for healthcare: ambient clinical documentation, provider copilots, autonomous coding and revenue cycle management, integrated with 60+ EHR systems. Founded in 2017, it has about 1,200 employees and $800M in funding from investors such as General Catalyst, Sequoia and Y Combinator. This role is on the Ambient Scribe team, one of its fastest-growing products.",
+    responsibilities: [
+      "Shape full-stack architecture decisions for AI-powered healthcare products.",
+      "Work across the stack, including Python, Go, TypeScript and React.",
+      "Lead technical planning and delivery of new features.",
+      "Set and keep standards for code quality, testing and deployment, and mentor junior engineers.",
+      "Work with product managers, designers, clinical experts and customers directly."
+    ],
+    requirements: [
+      "2–8 years as a full-stack engineer at fast-growing tech companies (3–4 years for mid-level, 5–8 for senior).",
+      "Computer science degree and strong technical fundamentals.",
+      "Stack: Python, Go, TypeScript, React, Flutter, AWS.",
+      "In the Mountain View office 3 days a week. Remote in Los Angeles, Boston, Austin or Phoenix is considered for exceptional candidates, with travel.",
+      "Visa transfers accepted (TN, F1, H1B transfer); green card sponsorship is available later."
+    ],
+    compensation: "$140K – $200K base plus equity. Full-time, hybrid in Mountain View, CA."
+  },
+  {
+    id: "saildrone-software-engineer-vehicle-platform",
+    page: "job-saildrone-software-engineer-vehicle-platform.html",
+    title: "Software Engineer, Vehicle Platform",
+    company: "Saildrone",
+    logo: "logo-co-saildrone.png",
+    industry: "Maritime Autonomy · Defense",
+    countries: ["United States"],
+    location: "Alameda, CA",
+    tags: ["Hybrid", "Full-time", "$144K – $300K", "US citizens / Green Card"],
+    brief: "Write the C++ software that runs onboard Saildrone's autonomous ocean vessels, and keep a fleet of about 100 of them working at sea.",
+    eligibility: "US citizens or Green Card holders living in the US only. Please don't apply from outside the US.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Saildrone builds autonomous, wind-powered ocean vehicles that carry sensors for ocean mapping, defense and maritime security, and delivers the data as a full service. Founded in 2014, it builds almost everything in-house on the waterfront in Alameda, California, and has raised about $300M from investors including Lockheed Martin, Lux Capital and Tribe Capital. Customers include the US Coast Guard and Navy.",
+    responsibilities: [
+      "Develop and maintain production C++ software that runs onboard the vessels.",
+      "Integrate sensors and vehicle subsystems such as power, battery management, propulsion and control.",
+      "Diagnose vehicle and software issues using telemetry, logs and test benches, then ship fixes across the active fleet.",
+      "Support new sensor integration as customer missions change.",
+      "Build software for vehicle configuration, deployment and upgrades across about 100 vessels worldwide."
+    ],
+    requirements: [
+      "4+ years building software that runs on physical hardware (the listing accepts strong engineers from about 3–5 years).",
+      "Hands-on C++ in robotics, autonomous vehicles, aerospace or defense systems.",
+      "Comfortable debugging with telemetry and logs and deploying to products in the field.",
+      "Bonus: embedded Linux, real-time operating systems, or supporting an active fleet.",
+      "Hybrid in Alameda, CA, 3 days a week in the office. No relocation support. US citizen or Green Card holder (no visa sponsorship)."
+    ],
+    compensation: "$144K – $300K base, depending on level, plus equity. Full-time, hybrid in Alameda, CA."
+  },
+  {
+    id: "inworld-senior-machine-learning-engineer-inference",
+    page: "job-inworld-senior-machine-learning-engineer-inference.html",
+    title: "Senior Machine Learning Engineer, Inference",
+    company: "Inworld",
+    logo: "logo-co-inworld.png",
+    industry: "Realtime AI",
+    countries: ["United States", "Canada", "United Kingdom", "Germany"],
+    location: "Mountain View, CA or Remote",
+    tags: ["Remote", "Full-time", "$250K – $300K", "US, Canada, UK and parts of Europe", "Visa transfers accepted"],
+    brief: "Make AI models answer in under a second at huge scale: optimise inference for a lab that serves over 10 trillion LLM tokens a month.",
+    eligibility: "On-site in Mountain View, CA, or remote from the US, Canada, the United Kingdom, Germany, Switzerland or Serbia. Bay Area candidates are strongly preferred. H-1B transfers are supported.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Inworld is a research lab and inference provider for realtime AI in consumer apps. It builds its own speech models, serves LLMs and runs the infrastructure behind them, at over 10 trillion tokens a month. Founded in 2021 and based in Mountain View, it has about 50 employees and more than $125M in funding from Lightspeed, Kleiner Perkins, Microsoft's M12, Founders Fund and others.",
+    responsibilities: [
+      "Optimise model serving with modern inference frameworks such as vLLM or TRT-LLM.",
+      "Speed up models with quantization, distillation, caching, continuous batching and speculative decoding.",
+      "Profile and tune code to get the most out of NVIDIA GPUs.",
+      "Scale multi-GPU and multi-node inference with Kubernetes and Ray, handling thousands of concurrent connections.",
+      "Take models from research to reliable production: containerize, optimise and operate them."
+    ],
+    requirements: [
+      "5+ years as an ML inference or systems engineer.",
+      "Strong in C++, CUDA, Rust or highly optimised Python.",
+      "Distributed systems experience (Kubernetes, Ray, load balancing).",
+      "Public work is a plus: open-source contributions to inference engines or technical write-ups.",
+      "PhD in CS, Physics or Math, or equivalent practical experience. H-1B transfers supported."
+    ],
+    compensation: "$250K – $300K base, adjusted by location, plus bonus and equity. Full-time. Relocation help for candidates moving to the San Francisco Bay Area."
+  },
+  {
+    id: "reducto-forward-deployed-engineer",
+    page: "job-reducto-forward-deployed-engineer.html",
+    title: "Forward Deployed Engineer",
+    company: "Reducto",
+    logo: "logo-co-reducto.png",
+    industry: "Document AI",
+    countries: ["United States"],
+    location: "San Francisco, CA",
+    tags: ["On-site", "Full-time", "$220K – $320K", "Visa sponsorship"],
+    brief: "A founding Forward Deployed Engineer role at Reducto, a Series B document AI company backed by a16z and Benchmark: deploy the platform with large enterprise customers.",
+    eligibility: "For people who can work on-site in San Francisco. Visa sponsorship is available, including transfers (OPT, H1B transfer).",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Reducto builds a document AI platform that turns complex documents into data other software can use, processing tens of millions of pages a month. Founded in 2023 by two MIT classmates, it went through Y Combinator (Winter 2024) and has raised $108M from a16z, Benchmark, First Round and others. The team is about 75–80 people, in the office five days a week in San Francisco.",
+    responsibilities: [
+      "Work with Account Executives and Sales Engineers before the sale: run evaluations, build custom demos and win bake-offs against rival products.",
+      "Own technical success for 1–3 enterprise accounts after the sale, meeting them weekly or every two weeks.",
+      "Build whatever the customer needs, from an evaluation app to a custom agent.",
+      "Create diagnostics, dashboards and evaluation harnesses to track performance and regressions.",
+      "Bring customer feedback to product and engineering, and work directly with the founders."
+    ],
+    requirements: [
+      "3–6 years deploying software in production, ideally with enterprise or regulated customers.",
+      "Excellent Python, and comfortable with Bash and infrastructure.",
+      "A high bar for quality and a habit of fixing problems rather than only reporting them.",
+      "Bonus: founder or early-stage experience, or a previous forward-deployed role.",
+      "On-site in San Francisco 5 days a week. Visa sponsorship available."
+    ],
+    compensation: "Listed range $220K – $320K (the role notes mention $150K – $300K base) plus equity. Full-time, on-site in San Francisco."
+  },
+  {
+    id: "listen-labs-member-of-technical-staff-platform",
+    page: "job-listen-labs-member-of-technical-staff-platform.html",
+    title: "Member of Technical Staff (Platform)",
+    company: "Listen Labs",
+    industry: "AI Market Research",
+    countries: ["United States"],
+    location: "San Francisco, CA",
+    tags: ["On-site", "Full-time", "$200K – $300K", "Visa transfers accepted"],
+    brief: "Join the engineering team at Listen Labs, whose AI runs customer research interviews for companies like Google and Microsoft.",
+    eligibility: "For people who can work on-site in San Francisco. O-1 sponsorship, H1B transfer and H1B1 are supported.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Listen Labs is an AI market researcher: a company shares a business question, and the AI designs the interviews, finds participants from a network of 50M+ people in 120+ languages and analyses the answers within hours. It has run more than 2 million interviews and says 15% of the Fortune 100 use it, including Google, Microsoft, Nestlé and P&G. Founded in 2023, it has about 80 employees and $100M in funding. In September 2026 Salesforce signed a deal to acquire Listen Labs, with the founders staying on.",
+    responsibilities: [
+      "Build analysis and insight features, including chat inside the platform.",
+      "Develop participant incentives and recruitment features, lists and panels for self-serve customers.",
+      "Contribute to product experience and the design system.",
+      "Work with product and design on product-heavy projects.",
+      "Take on platform work such as distributed systems and APIs."
+    ],
+    requirements: [
+      "2–8 years as a full-stack or platform engineer.",
+      "Able to take complex problems from start to finish.",
+      "Comfortable working closely with product and design.",
+      "On-site in San Francisco 5 days a week.",
+      "Visa support: O-1 sponsorship, H1B transfer, H1B1."
+    ],
+    compensation: "$200K – $300K base plus equity. Full-time, on-site in San Francisco."
+  },
+  {
     id: "canadavisa-chief-of-staff",
     page: "job-canadavisa-chief-of-staff.html",
     title: "Chief of Staff",
