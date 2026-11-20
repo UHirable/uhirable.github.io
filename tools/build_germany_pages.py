@@ -68,7 +68,7 @@ def build(slug,title,desc,eyebrow,h1,lead,body1,jobs,body2,faq,headline):
     open(slug,'w',encoding='utf-8').write(p); return slug
 KEEP='jobs-in-germany-for-english-speakers.html'
 KEEP='jobs-in-germany-for-english-speakers.html'
-LINKS={'germany-shortage-occupations.html':'Germany shortage occupations list','germany-opportunity-card.html':'Germany Opportunity Card','nurse-jobs-in-germany.html':'Nurse jobs in Germany','doctor-jobs-in-germany.html':'Doctor jobs in Germany','engineering-jobs-in-germany.html':'Engineering jobs in Germany','it-jobs-in-germany.html':'IT jobs in Germany',KEEP:'Jobs in Germany for English speakers','german-cv-format.html':'German CV format','guides.html':'All career guides'}
+LINKS={'germany-shortage-occupations.html':'Germany shortage occupations list','germany-opportunity-card.html':'Germany Opportunity Card','nurse-jobs-in-germany.html':'Nurse jobs in Germany','doctor-jobs-in-germany.html':'Doctor jobs in Germany','engineering-jobs-in-germany.html':'Engineering jobs in Germany','it-jobs-in-germany.html':'IT jobs in Germany','pharmacist-jobs-in-germany.html':'Pharmacist jobs in Germany','dentist-jobs-in-germany.html':'Dentist jobs in Germany','teacher-jobs-in-germany.html':'Teacher jobs in Germany','architect-jobs-in-germany.html':'Architect jobs in Germany',KEEP:'Jobs in Germany for English speakers','german-cv-format.html':'German CV format','guides.html':'All career guides'}
 def links(me): return '<p>'+' · '.join(f'<a href="{u}">{t}</a>' for u,t in LINKS.items() if u!=me)+'</p>'
 # ---------- hub
 faq=[("What is a shortage occupation in Germany?","An occupation on the official list published under Section 18g of the Residence Act. If your job is on the list, a lower salary is enough for the EU Blue Card: €45,934.20 gross a year in 2026 instead of €50,700."),
@@ -292,4 +292,112 @@ jobs='<section id="cv-jobs" aria-label="Live jobs" data-cc="de" data-q="english"
 build('germany-opportunity-card.html',"Germany Opportunity Card 2026 (Chancenkarte): Points & Requirements",
       "Germany's Opportunity Card (Chancenkarte) in 2026: the full points table, the €1,091 a month proof of funds, what work is allowed, and how to apply.",
       "Career guide · Germany","Germany Opportunity Card 2026 (Chancenkarte)","Move to Germany for up to a year to look for a job: who qualifies, the points table and how to apply.",b1,jobs,b2,faq,"Germany Opportunity Card 2026 (Chancenkarte)")
+
+
+RID=SRC('https://www.anerkennung-in-deutschland.de/html/en/index.php','Recognition in Germany: the federal government\'s portal for foreign professional qualifications')
+def health(slug,noun,Noun,de,code,q,srcs,extra_faq,extra_row=''):
+    faq=[(f"Can foreign {noun}s work in Germany?",f"Yes. {Noun} is a regulated profession in Germany, so you need the Approbation, the state licence to practise. You can get it with a qualification from outside the EU if your training is recognised as equivalent and you meet the other requirements."),
+         (f"What German level do {noun}s need?","Usually general German at level B2 plus a professional language test at level C1, taken during the licence procedure."),
+         (f"Are {noun}s on Germany's shortage occupation list?",f"Yes. {Noun}s (ISCO code {code}) are on the official list, so the lower EU Blue Card salary of €45,934.20 a year applies in 2026."),
+         ("Can I apply for the licence from abroad?","Yes. The official service descriptions say you can submit the application from abroad.")]+extra_faq
+    b1=f"""          <p class="gd-answer">Yes, {noun}s trained outside the EU can work in Germany, and {noun}s are on the official list of shortage occupations. The profession is regulated: you need the Approbation, the state licence to practise. For that, your training must be recognised as equivalent to the German one, and you usually need German at level B2 plus a professional language test at level C1.</p>
+
+          <h2>What you need for the Approbation</h2>
+          <div class="gd-tw"><table>
+            <tr><th>Requirement</th><th>What it means</th></tr>
+            <tr><td>Equivalent training</td><td>The competent authority checks whether your training as a {noun} matches the German training.</td></tr>
+            <tr><td>German language</td><td>Usually general German at level B2 and professional language skills at level C1, shown in a language test during the procedure. The B2 certificate can often be handed in later.</td></tr>
+            <tr><td>Health suitability</td><td>You are physically and mentally fit to work as a {noun}.</td></tr>
+            <tr><td>Reliability</td><td>No criminal record that makes you unfit for the profession.</td></tr>{extra_row}
+          </table></div>
+          <p>The Approbation is issued by the authority of the federal state where you want to work. The German job title is {de}.</p>
+
+          <h2>The visa routes</h2>
+          <div class="gd-tw"><table>
+            <tr><th>Route</th><th>Key requirement</th></tr>
+            <tr><td>Work visa for qualified professionals</td><td>Recognised qualification and a job offer in Germany.</td></tr>
+            {BC}
+            <tr><td>Visa for the recognition of foreign qualifications</td><td>If the authority asks for further qualifications in Germany before it can grant the licence.</td></tr>
+            <tr><td>Opportunity Card</td><td>To look for a job in Germany for up to one year. See the <a href="germany-opportunity-card.html">Opportunity Card guide</a>.</td></tr>
+          </table></div>
+"""
+    b2=links(slug)+'\n          <h2>Sources</h2><ul class="gd-src">'+srcs+RID+SRC_LIST+SRC_ACT+'</ul>'
+    jobs=f'<section id="cv-jobs" aria-label="Live jobs" data-cc="de" data-q="{q}" data-title="Live {noun} jobs in Germany" data-sub="Search starts with {q}, the German job title. Every card opens the original ad." data-page="de-{noun}"></section>'
+    build(slug,f"{Noun} Jobs in Germany for Foreigners (2026): Licence & Visa",
+      f"How {noun}s trained abroad can work in Germany in 2026: the Approbation licence, German B2 and C1 language test, visa routes, and live jobs.",
+      "Career guide · Germany",f"{Noun} jobs in Germany for foreigners",f"What a {noun} trained abroad needs to work in Germany in 2026, the visa routes, and live jobs.",b1,jobs,b2,faq,f"{Noun} jobs in Germany for foreigners")
+health('pharmacist-jobs-in-germany.html','pharmacist','Pharmacist','Apothekerin or Apotheker','2262','Apotheker',
+  SRC('https://verwaltung.bund.de/leistungsverzeichnis/DE/leistung/99150046001000/herausgeber/TH-211295732/region/160000000000','Federal administration portal: Approbation as a pharmacist with a third-country qualification (German)')+SRC('https://rp.baden-wuerttemberg.de/themen/bildung/ausbildung/seiten/auslaendische-abschluesse-akad/pharmazie-ausland/en','Baden-Württemberg regional council: pharmacy qualifications from abroad'),
+  [("Can I use a specialist pharmacist title from abroad?","Only after you have the Approbation as a pharmacist. Recognition of a specialised title is a separate application.")])
+health('dentist-jobs-in-germany.html','dentist','Dentist','Zahnärztin or Zahnarzt','2261','Zahnarzt',
+  SRC('https://www.hamburg.de/service/info/11985368/n0/','City of Hamburg: Approbation as a dentist with a third-country qualification (German)')+SRC('https://rp.baden-wuerttemberg.de/themen/bildung/ausbildung/seiten/zahnarzt-ausland/en','Baden-Württemberg regional council: dentistry qualifications from abroad'),
+  [("Is the dentist licence valid in all of Germany?","Yes. The Approbation is granted without a time limit and is valid across the whole of Germany.")])
+# ---------- teachers
+tcodes=codes(['231','232','233','234','235'])
+faq=[("Can foreign teachers work in Germany?","Yes. Teaching at state schools is a regulated profession, so a teacher trained abroad applies for recognition in the federal state where they want to work."),
+     ("Who recognises a foreign teaching qualification?","The authority of the federal state you choose. It compares your qualification with the teaching qualification of that state. Rules differ from state to state."),
+     ("What German level do teachers need?","The state authority sets the level and tells you which one applies. Berlin, for example, asks for level C2."),
+     ("Are teachers on Germany's shortage occupation list?","Yes. University, vocational, secondary, primary and early childhood teachers, and several other teaching professionals, are on the official list."),
+     ("Does recognition give me a job?","No. With recognition you can apply for a teaching position in that federal state. That is a separate procedure.")]
+b1=f"""          <p class="gd-answer">Yes, teachers trained abroad can work in Germany, and teaching professions are on the official list of shortage occupations. Teaching at state schools is regulated by each federal state. You apply for recognition in the state where you want to work, the authority compares your qualification with that state's teaching qualification, and it tells you the German level you need. You can apply from abroad.</p>
+
+          <h2>How recognition works</h2>
+          <ol class="gd-steps">
+            <li><b>Choose a federal state.</b> Recognition is decided by the state where you want to teach, and the rules differ between states.</li>
+            <li><b>Apply for recognition.</b> The authority compares your qualification with the teaching qualification in that state. You can apply from abroad.</li>
+            <li><b>Close any gaps.</b> If there are substantial differences, you can usually take a compensation measure, such as an adaptation course or an aptitude test. In Berlin the adaptation course generally takes 18 months.</li>
+            <li><b>Prove your German.</b> The authority tells you the level. Berlin asks for level C2.</li>
+            <li><b>Apply for a teaching post.</b> This is a separate procedure, where health suitability and the other requirements are checked.</li>
+          </ol>
+
+          <h2>Teaching occupations on the shortage list</h2>
+          {ul(tcodes)}
+
+          <h2>The visa routes for teachers</h2>
+          <div class="gd-tw"><table>
+            <tr><th>Route</th><th>Key requirement</th></tr>
+            <tr><td>Work visa for qualified professionals</td><td>Recognised qualification and a job offer in Germany.</td></tr>
+            {BC}
+            <tr><td>Visa for the recognition of foreign qualifications</td><td>To complete a compensation measure in Germany.</td></tr>
+            <tr><td>Opportunity Card</td><td>To look for a job in Germany for up to one year. See the <a href="germany-opportunity-card.html">Opportunity Card guide</a>.</td></tr>
+          </table></div>
+"""
+b2=links('teacher-jobs-in-germany.html')+'\n          <h2>Sources</h2><ul class="gd-src">'+SRC('https://service.berlin.de/dienstleistung/329595/en/','State of Berlin: applying for recognition of foreign professional qualifications as a teacher')+SRC('https://www.berlin.de/sen/bjf/anerkennung/lehramtsabschluesse/english/','Berlin Senate Department for Education: recognition of qualifications as a teacher')+SRC('https://www.service.bremen.de/dienstleistungen/apply-for-recognition-as-a-teacher-with-professional-qualifications-from-third-countries-184343','State of Bremen: recognition as a teacher with a third-country qualification')+RID+SRC_LIST+'</ul>'
+jobs='<section id="cv-jobs" aria-label="Live jobs" data-cc="de" data-q="teacher" data-title="Live teaching jobs in Germany" data-sub="Search starts with the word teacher. Try Lehrer or Lehrkraft for adverts in German. Every card opens the original ad." data-page="de-teacher"></section>'
+build('teacher-jobs-in-germany.html',"Teacher Jobs in Germany for Foreigners (2026): Recognition & Visa",
+      "How teachers trained abroad can work in Germany in 2026: recognition by federal state, German level, compensation measures, visa routes, and live jobs.",
+      "Career guide · Germany","Teacher jobs in Germany for foreigners","How a teacher trained abroad gets recognised in Germany, the visa routes, and live teaching jobs.",b1,jobs,b2,faq,"Teacher jobs in Germany for foreigners")
+# ---------- architects
+acodes=codes(['216'])
+faq=[("Can foreign architects work in Germany?","Yes. You can work in planning, for example as an employee in an architecture office, without being registered. To use the title Architekt and to submit building plans you must be entered in the list of architects of a state chamber."),
+     ("Is architect a protected title in Germany?","Yes. Architect, interior architect, landscape architect and urban planner are protected titles. You may use them only after registration with the chamber of architects of your federal state."),
+     ("Who recognises a foreign architecture qualification?","The chamber of architects of the federal state where you want to work. It compares your qualification with the German one."),
+     ("Are architects on Germany's shortage occupation list?","Yes. Building architects (ISCO code 2161), landscape architects (2162) and town and traffic planners (2164) are on the official list.")]
+b1=f"""          <p class="gd-answer">Yes, architects trained abroad can work in Germany, and architects are on the official list of shortage occupations. You do not need registration to work in planning as an employee. But the title Architekt is protected: to use it, and to submit building plans, you must be entered in the list of architects of the chamber in your federal state.</p>
+
+          <h2>With and without registration</h2>
+          <div class="gd-tw"><table>
+            <tr><th></th><th>Without registration</th><th>Registered with the chamber</th></tr>
+            <tr><td>Work in an architecture office</td><td>Yes</td><td>Yes</td></tr>
+            <tr><td>Use the title Architekt</td><td>No</td><td>Yes</td></tr>
+            <tr><td>Submit building plans</td><td>No</td><td>Yes</td></tr>
+          </table></div>
+          <p>The chamber of architects in each federal state compares your foreign qualification with the German one and decides on registration. Registration usually also requires practical professional experience, so check the rules of the chamber in your state.</p>
+
+          <h2>Occupations in this group on the shortage list</h2>
+          {ul(acodes)}
+
+          <h2>The visa routes for architects</h2>
+          <div class="gd-tw"><table>
+            <tr><th>Route</th><th>Key requirement</th></tr>
+            {BC}
+            <tr><td>Work visa for qualified professionals</td><td>Recognised qualification and a job offer in Germany.</td></tr>
+            <tr><td>Opportunity Card</td><td>To look for a job in Germany for up to one year. See the <a href="germany-opportunity-card.html">Opportunity Card guide</a>.</td></tr>
+          </table></div>
+"""
+b2=links('architect-jobs-in-germany.html')+'\n          <h2>Sources</h2><ul class="gd-src">'+SRC('https://service.berlin.de/dienstleistung/355420/','State of Berlin: entry in the list of architects with a foreign professional qualification (German)')+SRC('https://www.hamburg.de/service/info/11414454/','City of Hamburg: recognition as an architect with a qualification from abroad (German)')+SRC('https://www.akh.de/fileadmin/Mitgliedschaft/Mitglied_werden/Downloads/Acknowledgement_foreign_diploma-ENG.pdf','Hesse Chamber of Architects: recognition of foreign diplomas (PDF)')+RID+SRC_LIST+'</ul>'
+jobs='<section id="cv-jobs" aria-label="Live jobs" data-cc="de" data-q="Architekt" data-title="Live architect jobs in Germany" data-sub="Search starts with Architekt, the German job title. Every card opens the original ad." data-page="de-architect"></section>'
+build('architect-jobs-in-germany.html',"Architect Jobs in Germany for Foreigners (2026): Title & Visa",
+      "How architects trained abroad can work in Germany in 2026: the protected title, chamber registration, visa routes, and live architect jobs.",
+      "Career guide · Germany","Architect jobs in Germany for foreigners","When a foreign architect needs chamber registration in Germany, the visa routes, and live jobs.",b1,jobs,b2,faq,"Architect jobs in Germany for foreigners")
 print('built all',NOCC)
