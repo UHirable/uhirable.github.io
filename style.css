@@ -1761,3 +1761,12 @@ textarea { resize: vertical; }
 .hj-cats{margin:0 0 10px;gap:6px}.hj-cat{font-size:.78rem;padding:4px 9px;border-width:1.5px}.hj-more{font-size:.84rem}
 .hj-row{padding-bottom:12px}
 @media(max-width:700px){.hj-strip{padding:30px 14px 6px}.hj-tabs{top:-17px}.hj-head h2{font-size:1.3rem}.hj-head .meta{font-size:.92rem}.hj-note{font-size:.88rem}.hj-tab{font-size:.78rem;padding:6px 8px}.hj-card{flex-basis:215px;min-height:124px}.hj-card b{font-size:.98rem}.hj-loc{font-size:.88rem}.hj-sal{font-size:.88rem}.btn.hj-btn{font-size:.94rem;padding:10px 14px}.hj-cat{font-size:.76rem;padding:3px 8px}.hj-more{font-size:.8rem}}
+
+/* home footer: "Join the community" pill, same size as the Product Hunt pill and right under it */
+.ph-stack{display:inline-grid;gap:8px}
+.fbrand .socials:has(.ph-stack){align-items:flex-start}
+.ph-mini.wa-join{background:#25d366;color:#fff!important;box-sizing:border-box;width:0;min-width:100%;min-height:36px;justify-content:center;gap:5px;padding:7px 8px;font-size:.7rem}
+.ph-mini.wa-join svg{flex:none;width:16px;height:16px}
+.ph-mini.wa-join:hover{background:#2be072}
+/* Lilo box alone in its row (the WhatsApp box next to it was removed) */
+.ask-sec .duo.solo{grid-template-columns:1fr}
