@@ -7,6 +7,7 @@
 //   /jobs/                   -> permanent redirect to the home page (it was the old site's home)
 //   /cv-match, /jobs         -> permanent redirect to /cv-match.html, /jobs.html when that page exists
 //   /api/talent...           -> the Open to Work profiles (worker/talent.js)
+//   removed list pages       -> permanent redirect to the nearest page that still exists (see removedPage)
 //   anything else            -> the site's 404 page, with a real 404 status
 
 import { talentApi } from "./talent.js";
@@ -36,6 +37,21 @@ function moved(url, path) {
 // A path that ends in a file extension, such as ".html" or ".xml".
 const hasExtension = (path) => /\.[A-Za-z0-9]+$/.test(path);
 
+// Removed pages: returns the pages to try instead, best first, or null when the path is not one of them.
+const UK_HUB = "/uk-visa-sponsors.html";
+const UK_REMOVED = new Set(["care-homes", "nhs-hospitals", "universities", "schools-colleges", "technology", "hotels", "restaurants",
+  "pharmacies", "dental-practices", "law-firms", "accountants", "engineering", "construction", "sports-clubs"]);
+function removedPage(path) {
+  let m = path.match(/^\/uk-visa-sponsors-care-homes-([a-z0-9-]+)\.html$/);
+  if (m) return ["/uk-visa-sponsors-" + m[1] + ".html", UK_HUB]; // the city's own page when there is one
+  m = path.match(/^\/uk-visa-sponsors-([a-z0-9-]+)\.html$/);
+  if (m && UK_REMOVED.has(m[1])) return [UK_HUB];
+  if (/^\/netherlands-recognised-sponsors-[a-z0-9-]+\.html$/.test(path)) return ["/netherlands-recognised-sponsors.html"];
+  if (/^\/ireland-work-permit-companies-[a-z0-9-]+\.html$/.test(path)) return ["/ireland-work-permit-companies.html"];
+  if (/^\/denmark-fast-track-companies-[a-z0-9-]+\.html$/.test(path)) return ["/denmark-fast-track-certified-companies.html"];
+  return null;
+}
+
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
@@ -59,6 +75,15 @@ export default {
       const short = rest.replace(/\/+$/, "");
       if (short && !hasExtension(short) && (await exists(env, url, short + ".html"))) {
         return moved(url, short + ".html");
+      }
+    }
+
+    // Pages that were removed in November 2026 (lists grouped by words in company names, which is not
+    // an official classification). Old links go to the nearest page that is still there.
+    const gone = removedPage(path);
+    if (gone) {
+      for (const target of gone) {
+        if (await exists(env, url, target)) return moved(url, target);
       }
     }
 
