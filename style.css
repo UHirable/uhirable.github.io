@@ -1751,3 +1751,13 @@ textarea { resize: vertical; }
 .hj-co{font-size:.92rem}.hj-card b{font-size:1.17rem}.hj-loc{font-size:.98rem}.hj-sal{font-size:1rem;padding:5px 13px}
 .hj-cat{font-size:.84rem;padding:5px 10px}.hj-more{font-size:.9rem}
 @media(max-width:700px){.hj-strip{padding-top:34px}.hj-tabs{top:-19px}.hj-head h2{font-size:1.5rem}.hj-head .meta{font-size:1rem}.hj-note{font-size:.95rem}.hj-tab{font-size:.84rem;padding:7px 9px}.hj-card{flex-basis:245px;min-height:150px}.hj-card b{font-size:1.08rem}.hj-loc{font-size:.95rem}.hj-sal{font-size:.95rem}.btn.hj-btn{font-size:1rem;padding:11px 16px}.hj-cat{font-size:.82rem;padding:4px 9px}.hj-more{font-size:.85rem}}
+/* hackajob strip: smaller again */
+.hj-strip{padding:34px 18px 8px;margin-top:30px}.hj-tabs{top:-20px}
+.hj-head{margin-bottom:8px}.hj-head h2{font-size:1.7rem}.hj-head .meta{font-size:.98rem;line-height:1.55}.hj-note{font-size:.92rem}
+.hj-tab{font-size:.98rem;padding:7px 18px;border-width:2px}
+.btn.hj-btn{font-size:.98rem;padding:10px 18px}
+.hj-card{flex-basis:245px;min-height:132px;padding:12px 14px;gap:4px;border-radius:14px}
+.hj-co{font-size:.82rem}.hj-card b{font-size:1.02rem}.hj-loc{font-size:.9rem}.hj-sal{font-size:.9rem;padding:4px 11px}
+.hj-cats{margin:0 0 10px;gap:6px}.hj-cat{font-size:.78rem;padding:4px 9px;border-width:1.5px}.hj-more{font-size:.84rem}
+.hj-row{padding-bottom:12px}
+@media(max-width:700px){.hj-strip{padding:30px 14px 6px}.hj-tabs{top:-17px}.hj-head h2{font-size:1.3rem}.hj-head .meta{font-size:.92rem}.hj-note{font-size:.88rem}.hj-tab{font-size:.78rem;padding:6px 8px}.hj-card{flex-basis:215px;min-height:124px}.hj-card b{font-size:.98rem}.hj-loc{font-size:.88rem}.hj-sal{font-size:.88rem}.btn.hj-btn{font-size:.94rem;padding:10px 14px}.hj-cat{font-size:.76rem;padding:3px 8px}.hj-more{font-size:.8rem}}
