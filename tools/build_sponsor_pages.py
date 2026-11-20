@@ -385,7 +385,7 @@ def build_uk(sitemap):
         route_rows = "".join(f"<tr><td>{esc(k)}</td><td>{num(v)}</td></tr>" for k, v in rc.most_common(8))
         groups, group_counts = "", []
         cap = 60 if n > FULL_LIST_MAX else 40
-        for label, pat in UK_GROUPS:
+        for label, pat in []:  # name-based groups removed: the register has no sector field
             rx = re.compile(pat, re.I)
             g = [r for r in lst if r[2] == "A" and has(r, sw) and r[0][:1].isalpha() and rx.search(r[0])]
             if len(g) < 5:
@@ -410,10 +410,9 @@ def build_uk(sitemap):
                 GD_END +
                 jobs_block("uk", "", short, f"Live jobs in {short}", "Type your job title to see current openings. Check each advert for visa sponsorship before you apply.", "uk-sponsors-city") +
                 GD +
-                f'          <h2>Skilled Worker sponsors in {esc(short)} by sector</h2>\n          <p>A-rated organisations licensed for Skilled Worker, grouped by words in their registered name. The groups are a quick way in, not an official classification, and one organisation can appear in more than one group.</p>\n' +
-                groups + full +
+                full +
                 f'          <h2>How to use this list</h2>\n          <ol class="gd-steps">\n'
-                f'            <li><b>Find employers in your field.</b> Start with the sector groups above, then look for vacancies on each employer\'s own careers page.</li>\n'
+                f'            <li><b>Look for vacancies on each employer\'s own careers page.</b></li>\n'
                 f'            <li><b>Check the route.</b> For most long-term jobs you need an employer licensed for Skilled Worker.</li>\n'
                 f'            <li><b>Check the job too.</b> The job must be eligible and meet the salary rules for the visa, not only the employer.</li>\n'
                 f'            <li><b>Confirm on GOV.UK.</b> The register changes often. Check the official file before you rely on a name here.</li>\n          </ol>\n'
@@ -425,23 +424,19 @@ def build_uk(sitemap):
         faq = [
             (f"How many companies in {short} can sponsor a UK work visa?", f"{num(n)} organisations with {short} as their town or city are on the Home Office register of licensed sponsors dated {date}. {num(n_sw)} of them are licensed for the Skilled Worker route."),
             (f"Does a company on this list have jobs in {short} right now?", "Not necessarily. The register shows who is allowed to sponsor workers. It does not show vacancies, and a licensed employer can advertise jobs that do not come with sponsorship."),
-            (f"Which kinds of employers sponsor visas in {short}?", (f"Going by registered names, the largest group among A-rated Skilled Worker sponsors in {short} is {top_group[0].lower()}, with {num(top_group[1])} organisations. " if top_group else "") + "The list also covers many small and medium businesses in other sectors."),
             ("Why can I not find a company I know?", "The register uses legal names, not brand names, and the town is the one the organisation registered with, often its head office. Search the full register by name to check."),
         ]
         out = render(sh, fname, f"Visa Sponsorship Companies in {short} ({YEAR}): List of {num(n)}",
-                     f"List of {num(n)} companies in {short} licensed to sponsor UK work visas, grouped by sector and route. Free, from the Home Office register updated {date}.",
+                     f"List of {num(n)} companies in {short} licensed to sponsor UK work visas, with the visa routes. Free, from the Home Office register updated {date}.",
                      "Official Home Office register", f"Visa sponsorship companies in {short}", f"Employers in {short} licensed to sponsor a UK work visa.", body, faq,
                      [("Home", ""), ("UK visa sponsorship companies", "uk-visa-sponsors.html"), (short, fname)], meta["updated"])
         open(fname, "w", encoding="utf-8", newline="\n").write(out)
         done.append((short, fname, n))
         sitemap[fname] = max(meta["updated"], "2026-11-12")
-    care = uk_care_cities(by_city, routes, sw, meta, sh, sitemap, done)
-    sectors = uk_sectors(rows, routes, sw, meta, sh, sitemap, done, care)
+    care, sectors = [], []  # name-based care-home and sector pages removed: the register has no sector field
     letters, n_az = uk_az(rows, routes, sw, meta, sh, sitemap)
     browse = ('<h2>Browse sponsors by city</h2>\n          <p>Full pages for the UK cities with the most licensed sponsors.</p>\n          ' +
               link_list([(f"{c} ({num(n)})", f) for c, f, n in done]) +
-              '\n          <h2>Browse sponsors by sector</h2>\n          ' + link_list([(f"{l} ({num(n)})", f) for l, f, n in sectors]) +
-              '\n          <h2>Care homes with sponsorship by city</h2>\n          ' + link_list([(f"{c} ({num(n)})", f) for c, f, n in care]) +
               '\n          <h2>The full register, A to Z</h2>\n          ' + link_list(letters))
     print("UK: %d sector pages, %d care-by-city pages, %d A to Z pages" % (len(sectors), len(care), n_az))
     set_browse("uk-visa-sponsors.html", browse, "<h2>How to use the register in your job search</h2>")
