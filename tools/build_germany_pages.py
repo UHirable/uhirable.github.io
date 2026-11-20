@@ -299,7 +299,7 @@ def health(slug,noun,Noun,de,code,q,srcs,extra_faq,extra_row=''):
     faq=[(f"Can foreign {noun}s work in Germany?",f"Yes. {Noun} is a regulated profession in Germany, so you need the Approbation, the state licence to practise. You can get it with a qualification from outside the EU if your training is recognised as equivalent and you meet the other requirements."),
          (f"What German level do {noun}s need?","Usually general German at level B2 plus a professional language test at level C1, taken during the licence procedure."),
          (f"Are {noun}s on Germany's shortage occupation list?",f"Yes. {Noun}s (ISCO code {code}) are on the official list, so the lower EU Blue Card salary of €45,934.20 a year applies in 2026."),
-         ("Can I apply for the licence from abroad?","Yes. The official service descriptions say you can submit the application from abroad.")]+extra_faq
+         ]+([("Can I apply for the licence from abroad?","Yes. The official service description says you can also submit the application from abroad.")] if noun=='dentist' else [])+extra_faq
     b1=f"""          <p class="gd-answer">Yes, {noun}s trained outside the EU can work in Germany, and {noun}s are on the official list of shortage occupations. The profession is regulated: you need the Approbation, the state licence to practise. For that, your training must be recognised as equivalent to the German one, and you usually need German at level B2 plus a professional language test at level C1.</p>
 
           <h2>What you need for the Approbation</h2>
