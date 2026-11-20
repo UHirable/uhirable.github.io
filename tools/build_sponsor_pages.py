@@ -240,7 +240,7 @@ def uk_care_cities(by_city, routes, sw, meta, sh, sitemap, city_pages):
             ("Does a place on this list mean there is a job for me?", "No. The register shows who is allowed to sponsor workers. It does not show vacancies, and a licensed employer can advertise jobs that do not come with sponsorship."),
         ]
         out = render(sh, fname, f"Care Homes With Visa Sponsorship in {short} ({YEAR}): List of {num(n)}",
-                     f"List of {num(n)} care homes and care companies in {short} licensed to sponsor UK work visas, and what changed for care workers in 2025. Free, from the Home Office register updated {date}.",
+                     f"See the {num(n)} care home{'' if n == 1 else 's'} in {short} licensed to sponsor UK work visas, who can still be sponsored in {YEAR}, and live care jobs in {short} to apply to.",
                      "Official Home Office register", f"Care homes with visa sponsorship in {short}", f"Care providers in {short} on the Home Office register, {date}.", body, faq,
                      [("Home", ""), ("UK visa sponsorship companies", "uk-visa-sponsors.html"), ("Care homes and home care", "uk-visa-sponsors-care-homes.html"), (short, fname)], meta["updated"])
         open(fname, "w", encoding="utf-8", newline="\n").write(out)
