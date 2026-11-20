@@ -101,7 +101,7 @@ def build_ie(sm):
     by_n = sorted(rows, key=lambda r: (-r[1], r[0].lower()))
     plural = lambda n: f"{num(n)} permit" + ("" if n == 1 else "s")
     groups = []
-    for sl, lab, phrase, kw, pat in IE_GROUPS:
+    for sl, lab, phrase, kw, pat in []:  # name-based sector pages removed: not an official classification
         rx = re.compile(pat, re.I)
         g = [r for r in by_n if rx.search(r[0])]
         groups.append((sl, lab, phrase, kw, g))
@@ -139,7 +139,6 @@ def build_ie(sm):
             f'          <p class="gd-answer">{num(meta["companies"])} employers in Ireland received employment permits for workers from outside the EEA from {esc(period)}, {num(total)} permits in total. Search them all here by company name. The list comes from the official file of the Department of Enterprise, Tourism and Employment, published on {date}.</p>\n'
             + switch(IE_HUB) + search_box("data/ie/all.txt", "permit", "e.g. HSE, Dawn Meats, Google") + IE_NOTE + GD_END +
             GD +
-            '          <h2>Browse employers by sector</h2>\n          ' + glinks + "\n"
             '          <h2>The 25 employers with the most permits this year</h2>\n'
             '          <div class="gd-tw spc-tw"><table><thead><tr><th>Employer</th><th>Permits issued</th></tr></thead><tbody>' +
             "".join(f"<tr><td>{co(a)}</td><td>{num(b)}</td></tr>" for a, b in by_n[:25]) + "</tbody></table></div>\n"
@@ -150,7 +149,6 @@ def build_ie(sm):
             '          </ul>\n'
             '          <p>Either you or the employer can apply, and the application must be made at least 12 weeks before the job starts. Salary rules and the occupation lists change, so check the current rules on enterprise.gov.ie.</p>\n'
             '          <h2>How to use this list in your job search</h2>\n          <ol class="gd-steps">\n'
-            '            <li><b>Start with your sector.</b> Open the sector that matches your job and note the employers with the most permits. They hire from abroad again and again.</li>\n'
             '            <li><b>Go to their careers page.</b> Apply on the employer\'s own site, and look for the words "employment permit" or "visa sponsorship" in the ad.</li>\n'
             '            <li><b>Check the permit type.</b> Make sure your job and salary fit a General or Critical Skills permit before you apply.</li>\n'
             '            <li><b>Never pay for a job.</b> A real employer does not charge you for a job offer or a permit.</li>\n          </ol>\n'
@@ -163,7 +161,7 @@ def build_ie(sm):
         ("How often is the list updated?", "The Department publishes a new file every month, covering the year so far. We refresh this page from it."),
     ]
     out = render(sh, IE_HUB, f"Companies in Ireland That Sponsor Work Permits ({YEAR}): Search {num(meta['companies'])}",
-                 f"Search {num(meta['companies'])} employers in Ireland that received employment permits for non-EEA workers in {YEAR}, with permit counts and sectors. Free, from the official DETE file updated {date}.",
+                 f"Search {num(meta['companies'])} employers in Ireland that received employment permits for non-EEA workers in {YEAR}, with permit counts. Free, from the official DETE file updated {date}.",
                  "Official Irish government data", "Companies in Ireland that sponsor work permits", "Check if an employer in Ireland has hired workers from abroad.", body, faq,
                  [("Home", ""), ("Ireland work permit companies", IE_HUB)], meta["updated"], "2026-11-15")
     open(IE_HUB, "w", encoding="utf-8", newline="\n").write(out)
@@ -205,7 +203,7 @@ def build_nl(sm):
     date, n_all = nice_date(meta["updated"]), meta["orgs"]
     sh = shell("uk-visa-sponsors.html")
     groups = []
-    for sl, lab, phrase, kw, pat in NL_GROUPS:
+    for sl, lab, phrase, kw, pat in []:  # name-based sector pages removed: not an official classification
         rx = re.compile(pat, re.I)
         groups.append((sl, lab, phrase, kw, [r for r in rows if rx.search(r[0])]))
     glinks = link_list([(f"{lab} ({num(len(g))})", f"netherlands-recognised-sponsors-{sl}.html") for sl, lab, _, _, g in groups])
@@ -234,7 +232,6 @@ def build_nl(sm):
     body = (GD +
             f'          <p class="gd-answer">To hire you as a highly skilled migrant (kennismigrant), a Dutch employer must be a recognised sponsor of the IND. Search all {num(n_all)} recognised sponsors for work here by company name. The list comes from the official IND register, updated on {date}.</p>\n'
             + switch(NL_HUB) + search_box("data/nl/all.txt", "", "e.g. ASML, Booking.com, Philips") + NL_NOTE +
-            '          <h2>Browse recognised sponsors by sector</h2>\n          ' + glinks + "\n"
             '          <h2>Minimum salary for a highly skilled migrant in 2026</h2>\n'
             '          <div class="gd-tw spc-tw"><table><thead><tr><th>Who</th><th>Gross salary per month</th></tr></thead><tbody>'
             '<tr><td>30 years or older</td><td>€5,942</td></tr><tr><td>Under 30</td><td>€4,357</td></tr><tr><td>Reduced criterion (for example, recent graduates in the Netherlands)</td><td>€3,122</td></tr>'
@@ -242,7 +239,6 @@ def build_nl(sm):
             '          <p>The IND updates these amounts every January. Check the current figures on ind.nl before you negotiate an offer.</p>\n'
             '          <h2>How to use the register in your job search</h2>\n          <ol class="gd-steps">\n'
             '            <li><b>Check the employer before you apply.</b> If a company offers you a highly skilled migrant job and it is not on the register, it cannot apply for your permit.</li>\n'
-            '            <li><b>Start with your sector.</b> Open the sector that matches your job, then look for vacancies on each employer\'s own careers page.</li>\n'
             '            <li><b>Check the salary.</b> The offer must meet the IND salary criterion for your age.</li>\n'
             '            <li><b>Never pay for a job.</b> A real employer does not charge you for a job offer or a permit.</li>\n          </ol>\n'
             '          {FAQ}\n          ' + NL_SRC + GD_END)
@@ -253,7 +249,7 @@ def build_nl(sm):
         ("How often is the register updated?", "The IND updates its public registers once a month."),
     ]
     out = render(sh, NL_HUB, f"Netherlands Recognised Sponsors List ({YEAR}): Search {num(n_all)} IND Sponsors",
-                 f"Search all {num(n_all)} IND recognised sponsors that can hire highly skilled migrants in the Netherlands, by company name and sector. Free, from the official register updated {date}.",
+                 f"Search all {num(n_all)} IND recognised sponsors that can hire highly skilled migrants in the Netherlands, by company name. Free, from the official register updated {date}.",
                  "Official IND register", "Netherlands recognised sponsors (IND)", "Check if a Dutch employer can sponsor your highly skilled migrant visa.", body, faq,
                  [("Home", ""), ("Netherlands recognised sponsors", NL_HUB)], meta["updated"], "2026-11-15")
     open(NL_HUB, "w", encoding="utf-8", newline="\n").write(out)
