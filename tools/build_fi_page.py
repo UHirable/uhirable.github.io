@@ -37,7 +37,7 @@ body = (GD +
         '          <h2>How to use the list in your job search</h2>\n          <ol class="gd-steps">\n'
         '            <li><b>Look for vacancies on the company\'s own careers page.</b> Tap any name in the list to search for it.</li>\n'
         '            <li><b>Use Finland\'s official job sites too.</b> Migri points job seekers to Work in Finland and Job Market Finland.</li>\n'
-        '            <li><b>Check the end date.</b> Migri updates the list every week and removes employers whose certification has ended.</li>\n'
+        '            <li><b>Check the end date.</b> Migri updates the list every week. An employer is removed when its certification expires and it has not applied for an extension.</li>\n'
         '            <li><b>Never pay for a job.</b> A real employer does not charge you for a job offer or a permit.</li>\n          </ol>\n'
         '          {FAQ}\n          '
         '<h2>Sources</h2><ul class="gd-src">'

@@ -312,7 +312,8 @@ def health(slug,noun,Noun,de,code,q,srcs,extra_faq,extra_row=''):
           </table></div>
           <p>The Approbation is issued by the authority of the federal state where you want to work. The German job title is {de}.</p>
 
-          <h2>The visa routes</h2>
+          <h2>General visa routes for qualified professionals</h2>
+          <p>These are the general routes described by Make it in Germany, the government portal for skilled workers.</p>
           <div class="gd-tw"><table>
             <tr><th>Route</th><th>Key requirement</th></tr>
             <tr><td>Work visa for qualified professionals</td><td>Recognised qualification and a job offer in Germany.</td></tr>
@@ -335,7 +336,7 @@ health('dentist-jobs-in-germany.html','dentist','Dentist','Zahnärztin or Zahnar
 # ---------- teachers
 tcodes=codes(['231','232','233','234','235'])
 faq=[("Can foreign teachers work in Germany?","Yes. Teaching at state schools is a regulated profession, so a teacher trained abroad applies for recognition in the federal state where they want to work."),
-     ("Who recognises a foreign teaching qualification?","The authority of the federal state you choose. It compares your qualification with the teaching qualification of that state. Rules differ from state to state."),
+     ("Who recognises a foreign teaching qualification?","The authority of the federal state you choose. It compares your qualification with the teaching qualification of that state."),
      ("What German level do teachers need?","The state authority sets the level and tells you which one applies. Berlin, for example, asks for level C2."),
      ("Are teachers on Germany's shortage occupation list?","Yes. University, vocational, secondary, primary and early childhood teachers, and several other teaching professionals, are on the official list."),
      ("Does recognition give me a job?","No. With recognition you can apply for a teaching position in that federal state. That is a separate procedure.")]
@@ -343,7 +344,7 @@ b1=f"""          <p class="gd-answer">Yes, teachers trained abroad can work in G
 
           <h2>How recognition works</h2>
           <ol class="gd-steps">
-            <li><b>Choose a federal state.</b> Recognition is decided by the state where you want to teach, and the rules differ between states.</li>
+            <li><b>Choose a federal state.</b> Recognition is decided by the state where you want to teach.</li>
             <li><b>Apply for recognition.</b> The authority compares your qualification with the teaching qualification in that state. You can apply from abroad.</li>
             <li><b>Close any gaps.</b> If there are substantial differences, you can usually take a compensation measure, such as an adaptation course or an aptitude test. In Berlin the adaptation course generally takes 18 months.</li>
             <li><b>Prove your German.</b> The authority tells you the level. Berlin asks for level C2.</li>
@@ -353,7 +354,8 @@ b1=f"""          <p class="gd-answer">Yes, teachers trained abroad can work in G
           <h2>Teaching occupations on the shortage list</h2>
           {ul(tcodes)}
 
-          <h2>The visa routes for teachers</h2>
+          <h2>General visa routes for qualified professionals</h2>
+          <p>These are the general routes described by Make it in Germany, the government portal for skilled workers.</p>
           <div class="gd-tw"><table>
             <tr><th>Route</th><th>Key requirement</th></tr>
             <tr><td>Work visa for qualified professionals</td><td>Recognised qualification and a job offer in Germany.</td></tr>
@@ -382,12 +384,13 @@ b1=f"""          <p class="gd-answer">Yes, architects trained abroad can work in
             <tr><td>Use the title Architekt</td><td>No</td><td>Yes</td></tr>
             <tr><td>Submit building plans</td><td>No</td><td>Yes</td></tr>
           </table></div>
-          <p>The chamber of architects in each federal state compares your foreign qualification with the German one and decides on registration. Registration usually also requires practical professional experience, so check the rules of the chamber in your state.</p>
+          <p>The chamber of architects in each federal state compares your foreign qualification with the German one and decides on registration.</p>
 
           <h2>Occupations in this group on the shortage list</h2>
           {ul(acodes)}
 
-          <h2>The visa routes for architects</h2>
+          <h2>General visa routes for qualified professionals</h2>
+          <p>These are the general routes described by Make it in Germany, the government portal for skilled workers.</p>
           <div class="gd-tw"><table>
             <tr><th>Route</th><th>Key requirement</th></tr>
             {BC}
