@@ -274,6 +274,7 @@ const JOBS = [
     page: "job-reducto-forward-deployed-engineer.html",
     title: "Forward Deployed Engineer",
     company: "Reducto",
+    logo: "logo-co-reducto.png",
     industry: "Document AI",
     countries: ["United States"],
     location: "San Francisco, CA",
