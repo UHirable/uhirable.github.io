@@ -22,6 +22,300 @@ const ABOUT = "EliseAI builds agentic AI for housing and healthcare: $250M Serie
 
 const JOBS = [
   {
+    id: "hex-senior-software-engineer",
+    page: "job-hex-senior-software-engineer.html",
+    title: "Senior Software Engineer",
+    company: "Hex",
+    industry: "Data & Analytics",
+    countries: ["United States"],
+    location: "Remote (US)",
+    tags: ["Remote", "Full-time", "$199K – $295K", "US-based only", "Visa transfers accepted"],
+    brief: "Work across the full stack on the core Hex experience, including the AI agent features of its data platform.",
+    eligibility: "US-based only. Listed areas include New York, San Francisco, South Bay Area, Los Angeles, Boston, Seattle, Texas, Chicago, Washington DC, Denver, Florida, Minnesota and Sacramento. Open to visa transfers (OPT, H1B transfers); the listing says generally open, but transfers are preferred.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Hex builds a platform for working with data that makes analytics workflows more powerful, collaborative and shareable. The company was founded in 2019, has about 170 employees and has raised over $100M from investors including Andreessen Horowitz and Sequoia. The team is looking for a full-stack engineer who is product-minded, takes initiative, enjoys customer interaction and owns projects end to end.",
+    responsibilities: [
+      "Work across the full stack to shape the core user experience of Hex, where users create, collaborate and scale their work.",
+      "Build on the agent framework the team created for Hex's first AI agent, which other product teams build on.",
+      "Work with embedded AI engineers and the research team on context engineering and prompting strategies.",
+      "Design integrations with Slack and other tools to bring Hex to where customers work.",
+      "Solve UX challenges around multiplayer editing, real-time collaboration and performance at scale in data-intensive applications."
+    ],
+    requirements: [
+      "4–8 years of experience building 0-to-1 products as a full-stack engineer while leading projects.",
+      "Tech stack: React and TypeScript.",
+      "Product-minded, takes initiative and enjoys customer interaction.",
+      "US-based. Open to visa transfers (OPT, H1B transfers)."
+    ],
+    compensation: "$199K – $295K, based on location, qualification and experience, plus competitive equity. Full-time, remote within the US."
+  },
+  {
+    id: "semgrep-senior-solutions-engineer",
+    page: "job-semgrep-senior-solutions-engineer.html",
+    title: "Senior Solutions Engineer, Digital Native/Mid-Market",
+    company: "Semgrep",
+    industry: "Application Security",
+    countries: ["United States"],
+    location: "Remote (US)",
+    tags: ["Remote", "Full-time", "$147K – $175K", "OTE $210K – $250K", "US citizens / Green Card"],
+    brief: "Be the technical lead in Semgrep's mid-market sales cycles: read code, understand vulnerabilities and work with CI/CD systems.",
+    eligibility: "US citizens or Green Card holders living in the US only. Please don't apply from outside the US. The listing says candidates on the East Coast are preferred.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Semgrep is the team behind a widely used static analysis (SAST) tool and the Semgrep AppSec Platform for code, dependency and secrets scanning. Companies such as Snowflake, Plaid, Figma, Lyft and Dropbox use it. Semgrep was founded in 2017, has about 175 employees and $100M in funding from investors including Felicis, Lightspeed, Menlo Ventures, Redpoint and Sequoia. The company is hiring two remote Solutions Engineers, one for West Coast customers and one for East Coast customers, with up to 20% travel.",
+    responsibilities: [
+      "Become an expert on Semgrep and integrate it into customer CI/CD pipelines, developer workflows and AppSec programs.",
+      "Run technical discovery, diagnose issues and advise on solution design.",
+      "Own Proof-of-Value cycles end to end: success criteria, environment setup and technical wins.",
+      "Write or adapt Semgrep rules to identify vulnerabilities.",
+      "Partner with Account Executives (2:1 ratio) on enterprise deals of about $140K ACV with 6–12 month cycles."
+    ],
+    requirements: [
+      "2–5 years in a pre-sales engineering role in enterprise SaaS with complex technical products; security experience strongly preferred.",
+      "Strong engineering depth in DevOps, AppSec and CI/CD.",
+      "Able to communicate clearly with senior technical stakeholders.",
+      "Up to 20% travel for customer meetings, events and company events.",
+      "US citizens or Green Card holders only."
+    ],
+    compensation: "$147K – $175K base, with on-target earnings of $210K – $250K, plus competitive equity. Full-time, remote within the US."
+  },
+  {
+    id: "nooks-agent-product-engineer",
+    page: "job-nooks-agent-product-engineer.html",
+    title: "Agent Product Engineer",
+    company: "Nooks",
+    industry: "AI for Sales",
+    countries: ["United States"],
+    location: "San Francisco, CA",
+    tags: ["Hybrid", "Full-time", "$215K – $300K", "Visa transfers accepted"],
+    brief: "Own the end-to-end deployment of AI sales agents with Nooks' design-partner customers.",
+    eligibility: "For people who can work from San Francisco at least 3 days a week. Open to visa transfers (OPT, H1B transfers) and relocation.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Nooks is an applied AI lab building the Agent Workspace for go-to-market teams: AI agents that work across sales tasks from account strategy to prospect research and outreach. More than 1,500 customers use it, including Notion, HubSpot, Cursor, Rippling, Deel and ZoomInfo. Nooks was founded in 2020, has about 220 employees and has raised over $70M from investors including Kleiner Perkins, Tola Capital and Lachy Groom. This role is on the new Agent Studio team.",
+    responsibilities: [
+      "Deploy and iterate on AI agents for account strategy, prospecting, outbound emails, LinkedIn messages, call prep and follow-ups directly with customers.",
+      "Embed with customers through shared Slack channels and calls, and turn field needs into agent improvements quickly.",
+      "Build agents that automate SDR work, with clear evals and trust calibration.",
+      "Own the deployment outcome end to end, with accountability for customer revenue numbers.",
+      "Explain agents to sales teams, bring customer needs to engineering and report status to leadership."
+    ],
+    requirements: [
+      "5+ years of engineering experience, ideally as a technical founder, founding engineer or forward-deployed engineer.",
+      "Production AI agent experience.",
+      "Comfortable owning outcomes without a clear playbook.",
+      "Strong cross-functional communication.",
+      "Based in San Francisco and in the office 3+ days per week. Tech stack: AI agents, LLMs, Python, TypeScript."
+    ],
+    compensation: "$215K – $300K base salary plus competitive equity. Full-time, hybrid in San Francisco."
+  },
+  {
+    id: "serval-forward-deployed-engineer",
+    page: "job-serval-forward-deployed-engineer.html",
+    title: "Forward Deployed Engineer",
+    company: "Serval",
+    industry: "AI for IT",
+    countries: ["United States"],
+    location: "San Francisco, CA",
+    tags: ["On-site", "Full-time", "$200K – $325K", "US citizens / Green Card"],
+    brief: "A customer-facing software engineer on Serval's new Agent Deployment team, shipping product and working on strategic deployments.",
+    eligibility: "US citizens or Green Card holders living in the US only. Please don't apply from outside the US. On-site in San Francisco 5 days a week.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Serval is an AI platform for IT teams that automates IT tickets. It was founded in early 2024 and is used by companies such as Perplexity, Together AI, Writer and Verkada. Serval has about 25 employees and $127M in total funding. This is a founding role on the Agent Deployment team: an engineer first, contributing to the core platform while working closely with customers.",
+    responsibilities: [
+      "Architect and build production-grade systems for strategic pilots from complex customer requirements.",
+      "Design, implement and maintain backend services, APIs and integrations for Serval's AI agent platform.",
+      "Build secure, high-performance integrations with external systems, with a focus on reliability and observability.",
+      "Turn customer pain points and edge cases into reusable product capabilities.",
+      "Own the technical lifecycle of key deployments from architecture through launch and scaling."
+    ],
+    requirements: [
+      "2+ years of software engineering experience, ideally in a product-focused or customer-facing role.",
+      "Comfortable working directly with customers, sales and internal engineering teams.",
+      "On-site in San Francisco 5 days a week.",
+      "US citizens or Green Card holders only."
+    ],
+    compensation: "$200K – $325K plus equity. Full-time, on-site in San Francisco."
+  },
+  {
+    id: "llamaindex-technical-lead-manager-platform-engineering",
+    page: "job-llamaindex-technical-lead-manager-platform-engineering.html",
+    title: "Technical Lead Manager, Platform Engineering",
+    company: "LlamaIndex",
+    industry: "AI Infrastructure",
+    countries: ["United States"],
+    location: "San Francisco Bay Area",
+    tags: ["Hybrid", "Full-time", "$250K – $350K", "Visa transfers accepted"],
+    brief: "Own engineering execution, technical direction, hiring and team development at LlamaIndex, in a hands-on role.",
+    eligibility: "For people who can work from the San Francisco Bay Area office 3 days a week (Monday, Wednesday, Friday). Open to visa transfers (OPT, H1B transfers).",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "LlamaIndex helps developers build agents that extract insights and take action on complex enterprise documents, combining document parsing and extraction with a framework for building agents. The company says more than 200 million documents have been processed on LlamaCloud. LlamaIndex was founded in 2022 and has $27.5M in total funding. The role is about 70% individual contributor and 30% manager.",
+    responsibilities: [
+      "Lead and develop the engineering team, setting clear priorities, ownership and accountability.",
+      "Work with company leadership to turn customer needs into a focused roadmap.",
+      "Stay directly involved in architecture, code reviews, production debugging and critical changes.",
+      "Set technical direction across application services, APIs, data pipelines and ML infrastructure.",
+      "Guide model serving decisions across latency, throughput, GPU utilization, reliability and inference cost.",
+      "Hire strong engineers and coach technical leaders."
+    ],
+    requirements: [
+      "5–8 years of experience as a software engineer or technical lead manager who is still hands-on.",
+      "Has shipped and operated B2B API products.",
+      "Understands both model serving and model training, from experimentation and evaluation to deployment.",
+      "Comfortable reviewing code and architecture, debugging production issues and writing code for critical systems.",
+      "In the San Francisco Bay Area office 3 days a week."
+    ],
+    compensation: "$250K – $350K, based on experience and qualifications, plus competitive equity. Full-time, hybrid in the San Francisco Bay Area."
+  },
+  {
+    id: "hippocratic-ai-forward-deployed-engineer",
+    page: "job-hippocratic-ai-forward-deployed-engineer.html",
+    title: "Forward Deployed Engineer",
+    company: "Hippocratic AI",
+    industry: "Healthcare AI",
+    countries: ["United States"],
+    location: "Remote (US)",
+    tags: ["Remote", "Full-time", "$150K – $200K", "30–40% travel", "Visa transfers accepted"],
+    brief: "Be the technical owner of AI deployments in health systems, building and running conversational AI agents with customers.",
+    eligibility: "For people in the US. Open to visa transfers (OPT, H1B transfers). The role involves 30–40% travel and relocation is not offered.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Hippocratic AI is building a healthcare-only, safety-focused large language model. It was co-founded by CEO Munjal Shah with physicians, hospital administrators, healthcare professionals and AI researchers. The company was founded in 2023, has about 300 employees and $404M in total funding. In this role you embed with customers to build, launch and operate production conversational AI agents for real clinical workflows.",
+    responsibilities: [
+      "Act as the technical owner of AI deployments for health systems.",
+      "Embed with customers to build, launch and operate production conversational AI agents.",
+      "Architect systems that handle real clinical workflows and patient interactions."
+    ],
+    requirements: [
+      "3–6 years of experience as a customer-facing software engineer, AI engineer or forward deployed engineer.",
+      "Experience building and shipping AI-powered products at scale.",
+      "Tech stack listed: Python, LangChain, LangSmith, Model Context Protocol (MCP), RAG, GCP, Epic, Cerner, Athena, FHIR, HL7 and REST APIs.",
+      "Able to travel 30–40% of the time."
+    ],
+    compensation: "$150K – $200K base. Actual pay depends on skills, experience and interview performance. Full-time, remote within the US with 30–40% travel."
+  },
+  {
+    id: "secureframe-senior-staff-software-engineer",
+    page: "job-secureframe-senior-staff-software-engineer.html",
+    title: "Senior/Staff Software Engineer",
+    company: "Secureframe",
+    industry: "Cybersecurity & Compliance",
+    countries: ["United States"],
+    location: "New York, NY",
+    tags: ["Hybrid", "Full-time", "$210K – $260K", "US citizens / Green Card"],
+    brief: "Build full-stack features as Secureframe moves from security compliance into AI and cybersecurity tooling for the US defense industrial base.",
+    eligibility: "US citizens or Green Card holders living in the US only. Please don't apply from outside the US. The company is opening a New York office and expects in-person work to grow from weekly towards 3 days a week.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Secureframe provides cybersecurity compliance software used by thousands of businesses. It was founded in 2020, has about 100 employees and $56M in total funding from investors including Kleiner Perkins, Accomplice and Gradient Ventures. The company is looking for a product-focused generalist who can move quickly and take ownership.",
+    responsibilities: [
+      "Develop full-stack features for experimental products on the Horizon team or foundational infrastructure on the Atlas team.",
+      "Work across the whole product lifecycle, from planning and design to deployment and optimization.",
+      "Build with TypeScript, React, GraphQL and Ruby on Rails, with chances to use Rust or Node.js on new defense-focused products.",
+      "Collaborate with product, design and other engineers in a fast, iterative environment.",
+      "Mentor other engineers."
+    ],
+    requirements: [
+      "6+ years of full-stack software development, including tech-lead scope.",
+      "TypeScript and a modern object-oriented backend language (fine to lean more backend or frontend).",
+      "Able to take ownership without much oversight.",
+      "US citizens or Green Card holders only."
+    ],
+    compensation: "$210K – $260K base depending on level, from established senior to staff, plus competitive equity. Full-time, hybrid in New York."
+  },
+  {
+    id: "opal-security-software-engineer-infrastructure",
+    page: "job-opal-security-software-engineer-infrastructure.html",
+    title: "Software Engineer, Infrastructure",
+    company: "Opal Security",
+    industry: "Identity Security",
+    countries: ["United States"],
+    location: "San Francisco, CA",
+    tags: ["Hybrid", "Full-time", "$160K – $250K", "Visa transfers accepted"],
+    brief: "A software engineer who works on infrastructure, keeping Opal's platform stable, secure and fast for enterprise customers.",
+    eligibility: "For people who can work from the San Francisco office 3 days a week (Monday, Tuesday, Thursday). Open to visa transfers (OPT, H1B transfers).",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Opal Security builds identity governance and access management for enterprises, covering employees, contractors, service accounts and AI agents. It is based in New York City and San Francisco and backed by Greylock and Battery Ventures. Opal was founded in 2020, has about 60 employees and $34M in total funding. The platform team reports to the CTO. The listing says this is not a traditional SRE or DevOps role: you go through the same coding screen as product engineers.",
+    responsibilities: [
+      "Ensure the stability, security, scalability and performance of Opal's platform.",
+      "Own critical infrastructure components and drive architectural decisions.",
+      "Give product engineers the tools, systems and practices they need to ship quickly.",
+      "Work with leadership, product and other engineers on roadmap and architecture.",
+      "Talk directly with enterprise customers about product feedback and infrastructure issues."
+    ],
+    requirements: [
+      "4+ years as a software engineer building distributed systems.",
+      "Solid coding fundamentals and familiarity with cloud infrastructure at scale.",
+      "A track record of building reliable, performant systems.",
+      "Tech stack: Kubernetes, Go, PostgreSQL, Redis, Terraform, GraphQL, TypeScript, React, AWS, GCP and Kafka.",
+      "In the San Francisco office 3 days a week."
+    ],
+    compensation: "$160K – $250K plus competitive equity. Full-time, hybrid in San Francisco."
+  },
+  {
+    id: "fieldguide-senior-staff-software-engineer-agents",
+    page: "job-fieldguide-senior-staff-software-engineer-agents.html",
+    title: "Senior/Staff Software Engineer, Agents",
+    company: "Fieldguide",
+    industry: "AI for Audit & Advisory",
+    countries: ["United States"],
+    location: "San Francisco, CA",
+    tags: ["Hybrid", "Full-time", "$220K – $315K", "Visa transfers accepted"],
+    brief: "Own how Fieldguide measures and improves the quality of its long-horizon AI agents.",
+    eligibility: "For people who can work from the Financial District office in San Francisco about 3 days a week. Open to visa transfers (OPT, H1B transfers).",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Fieldguide is an AI-native platform for audit, advisory and assurance work, used by firms including KPMG, RSM US, Baker Tilly, BDO and Grant Thornton. It is headquartered in San Francisco and backed by Goldman Sachs Alternatives, Bessemer Venture Partners, 8VC and Thomson Reuters. Fieldguide announced a $75M Series C in February 2026 and has raised $125M to date. It was founded in 2019 and has about 150 employees. This role is on the Foundation Agents team.",
+    responsibilities: [
+      "Own the evals strategy and error-analysis practice for agent quality.",
+      "Design and build agent knowledge and evaluation infrastructure for long-horizon agents.",
+      "Lead error analysis on agent behavior and turn findings into platform-level reliability improvements.",
+      "Build and harden backend systems for agent execution, evaluation and monitoring at scale.",
+      "Mentor engineers on the team."
+    ],
+    requirements: [
+      "5–15 years of experience as a software engineer.",
+      "Has built AI products end to end with ownership of agent quality outcomes.",
+      "Treats evals and error analysis as a discipline.",
+      "Strong in the backend and comfortable owning platform-level systems."
+    ],
+    compensation: "$220K – $315K base, depending on experience and interview performance, plus competitive equity. Benefits include medical, dental and vision, a 401(k), a work-from-home stipend and commuter benefits. Full-time, hybrid in San Francisco."
+  },
+  {
+    id: "traba-product-engineer",
+    page: "job-traba-product-engineer.html",
+    title: "Product Engineer (Mid-Senior)",
+    company: "Traba",
+    industry: "Supply Chain AI & Staffing",
+    countries: ["United States"],
+    location: "New York, NY",
+    tags: ["On-site", "Full-time", "$140K – $200K", "Visa transfers accepted"],
+    brief: "Build Traba's product on top of AI agents across its staffing marketplace, from vetting and matching to payments.",
+    eligibility: "In person 5 days a week in New York. Relocation is available for candidates who need it. Open to visa transfers (OPT, H1B transfers).",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Traba started by supplying industrial businesses with temporary workers and now also builds AI agents for logistics providers, manufacturers and other industrial businesses. It is backed by Founders Fund, Khosla Ventures and General Catalyst. Traba was founded in 2021, has about 75 employees and $45.6M in total funding. The listing covers two tracks: Applied AI, which puts existing agents to work across the product, and AI Agent (Neo), which builds the agents themselves.",
+    responsibilities: [
+      "Apply existing agents and frontier models across the worker app, business app, ops platform and marketplace to automate vetting, matching and fulfilment.",
+      "Lead frontend and backend development and mentor other engineers.",
+      "Architect and build core systems: real-time matching, vetting pipelines, distributed systems and APIs.",
+      "Own product surfaces end to end with product and design.",
+      "Partner with the CTO on architecture and roadmap."
+    ],
+    requirements: [
+      "3–4 years as a software engineer owning products in early-stage teams.",
+      "A track record of shipping scalable applications from frontend interfaces to backend distributed systems.",
+      "Comfortable moving between API design, UX and deployment infrastructure.",
+      "Tech stack: TypeScript/JavaScript, React, React Native, Python and Node.js.",
+      "In person 5 days a week in New York."
+    ],
+    compensation: "$140K – $200K plus competitive equity. Full-time, on-site in New York, with relocation available."
+  },
+  {
     id: "harvey-staff-software-engineer-officejs",
     page: "job-harvey-staff-software-engineer-officejs.html",
     title: "Staff Software Engineer, OfficeJS",
