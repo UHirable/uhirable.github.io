@@ -40,7 +40,7 @@
   // While the page has fewer than FULL real profiles, it shows an invitation and one card clearly marked "Example",
   // so a visitor sees what a profile looks like. The example is not a real person and is never mixed in unmarked.
   const FULL = 6;
-  const EXAMPLE = { id: "example", example: true, name: "Sara M.", title: "Senior backend engineer", linkedin: "", industry: "Fintech", yearsCorp: 7, yearsProj: 2, country: "Egypt", cc: "eg",
+  const EXAMPLE = { id: "example", example: true, name: "Sara M.", title: "Senior Backend Engineer", linkedin: "", industry: "Fintech", yearsCorp: 7, yearsProj: 2, country: "Egypt", cc: "eg",
     openFor: ["Full-time", "Remote"], skills: ["Python", "AWS", "Docker", "PostgreSQL", "Kafka", "Java"], joined: new Date().toISOString().slice(0, 10),
     summary: "This is an example of a professional summary. Describe what you do, your strongest results and the kind of role you want, then say how companies can reach you, for example by email." };
   const cardHtml = (t) => `<article class="ow-card${t.example ? " ow-example" : ""}" data-id="${esc(t.id)}">${t.example ? '<span class="ow-tag">Example</span>' : ""}${head(t)}
