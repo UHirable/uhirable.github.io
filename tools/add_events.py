@@ -19,18 +19,18 @@ MON = {m: i + 1 for i, m in enumerate("Jan Feb Mar Apr May Jun Jul Aug Sep Oct N
 
 # Details confirmed on the organiser's page or announcement on 21 Nov 2026.
 NEW = [
-    {"name": "Employee Well-Being 2026", "date": "7–9 Dec 2026", "month": "2026-12",
-     "city": "Orlando, FL, USA", "region": "North America", "audience": "hr", "format": "In person",
-     "desc": "The Conference Board's conference for HR, total rewards, benefits and well-being leaders, on emotional, physical and financial well-being at work.",
-     "link": "https://www.conference-board.org/events/be-well"},
-    {"name": "HR Tech & Innovation Conference Penang", "date": "7 Dec 2026", "month": "2026-12",
-     "city": "Penang, Malaysia", "region": "Asia & Pacific", "audience": "hr", "format": "In person",
-     "desc": "One-day conference on AI in HR, skills-based organisations, employee experience and people analytics, at AC Hotel by Marriott Penang.",
-     "link": "https://malaysiahrtech.com/"},
-    {"name": "SHRM MENA Annual Conference & Expo", "date": "16–17 Dec 2026", "month": "2026-12",
-     "city": "Dubai, UAE", "region": "Middle East & North Africa", "audience": "hr", "format": "In person",
-     "desc": "SHRM MENA's annual HR conference and expo at Madinat Jumeirah, with an HR + AI Lab and the SHRM MENA STAR Awards on 17 December.",
-     "link": "https://www.zawya.com/en/press-release/events-conferences/shrm-mena-unveils-hr-ai-lab-to-shape-the-future-of-work-at-2026-annual-conference-expo-475365"},
+    {"name": "Diversity and Inclusion Virtual Career Fair", "date": "1 Dec 2026", "month": "2026-12",
+     "city": "Online, USA", "region": "North America", "audience": "seekers", "format": "Online",
+     "desc": "Free online career fair on the CareerEco platform for students, recent graduates and experienced job seekers. Chat live with employers about jobs and internships, 11:00 AM to 3:00 PM ET.",
+     "link": "https://www.nhpr.org/community-calendar/event/diversity-and-inclusion-virtual-career-fair-30-10-2026-21-40-16"},
+    {"name": "Made in Berlin Job Fair", "date": "3 Dec 2026", "month": "2026-12",
+     "city": "Berlin, Germany", "region": "Europe", "audience": "seekers", "format": "In person",
+     "desc": "Job and career fair at Ludwig-Erhard-Haus for university students and graduates looking for an internship or a first job. Open 10 a.m. to 4 p.m., free for students and graduates up to 5 years after graduation.",
+     "link": "https://www.berlin.de/en/trade-fairs/3687693-7918797-made-in-berlin-job-fair.en.html"},
+    {"name": "Hire Canada Virtual Job Fair & Training Expo", "date": "9 Dec 2026", "month": "2026-12",
+     "city": "Online, Canada", "region": "North America", "audience": "seekers", "format": "Online",
+     "desc": "Free virtual job fair for candidates: meet employers, explore training options and interview live online, 11 AM to 3 PM EST.",
+     "link": "https://www.todocanada.ca/city/london/event/hire-canada-virtual-job-fair-training-expo/"},
 ]
 
 slug = lambda s: re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
@@ -67,9 +67,10 @@ def page(e):
             parts = [p.strip() for p in e["city"].split(",")]
             ld = {"@context": "https://schema.org", "@type": "Event", "name": e["name"], "startDate": d[0], "endDate": d[1],
                   "eventStatus": "https://schema.org/EventScheduled",
-                  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-                  "location": {"@type": "Place", "name": e["city"],
-                               "address": {"@type": "PostalAddress", "addressLocality": parts[0], "addressCountry": parts[-1]}},
+                  "eventAttendanceMode": "https://schema.org/" + ("OnlineEventAttendanceMode" if e["format"] == "Online" else "OfflineEventAttendanceMode"),
+                  "location": ({"@type": "VirtualLocation", "url": e["link"]} if e["format"] == "Online" else
+                               {"@type": "Place", "name": e["city"],
+                                "address": {"@type": "PostalAddress", "addressLocality": parts[0], "addressCountry": parts[-1]}}),
                   "description": e["desc"], "image": [B + "og-event-" + sl + ".png"], "url": B + "event-" + sl + ".html",
                   "organizer": {"@type": "Organization", "name": e["name"], "url": e["link"]}}
             ln = '  <script type="application/ld+json" id="ld-schema">' + json.dumps(ld, ensure_ascii=False).replace("</", "<\\/") + "</script>"
@@ -100,6 +101,10 @@ def main():
         pos = next(i for i, l in enumerate(lines)
                    if (m := re.search(r'month:"([^"]*)"', l)) and (m.group(1) == "" or m.group(1) > e["month"]))
         lines.insert(pos, js_line(e))
+        # inside the month, order by the first day
+        mi = [i for i, l in enumerate(lines) if 'month:"%s"' % e["month"] in l]
+        blk = sorted((lines[i] for i in mi), key=lambda l: int(re.search(r'date:"(\d+)', l).group(1)))
+        lines[mi[0]:mi[-1] + 1] = blk
         js = "\n".join(lines)
         entry = json.dumps({"t": e["name"], "d": e["city"] + " · " + e["date"], "u": "event-" + sl + ".html", "k": "Event"},
                            ensure_ascii=False, separators=(",", ":"))

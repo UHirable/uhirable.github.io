@@ -19,14 +19,18 @@ def my():
     s='<rect width="280" height="140" fill="#fff"/>'+''.join(f'<rect y="{i*10}" width="280" height="10" fill="#cc0001"/>' for i in range(0,14,2))
     s+='<rect width="140" height="80" fill="#010066"/><circle cx="52" cy="40" r="26" fill="#ffcc00"/><circle cx="60" cy="40" r="22.5" fill="#010066"/>'+star(92,40,22,'#ffcc00',pts=14,inner=.45)
     return ('0 0 280 140',s)
-FL={'us':us(),'ae':ae(),'my':my()}
+def de():
+    return ('0 0 5 3','<rect width="5" height="1" fill="#000"/><rect y="1" width="5" height="1" fill="#dd0000"/><rect y="2" width="5" height="1" fill="#ffce00"/>')
+def ca():
+    return ('0 0 1000 500','<rect width="1000" height="500" fill="#d52b1e"/><rect x="250" width="500" height="500" fill="#fff"/><path fill="#d52b1e" d="M499 418l-8-84c-1-9 7-14 15-12l79 14-12-30c-2-5-1-9 3-12l94-76-21-10c-5-2-7-8-5-13l19-57-54 11c-5 1-10-2-11-6l-11-31-43 46c-6 6-16 1-14-7l21-108-34 19c-5 3-11 1-14-4l-35-69-35 69c-3 5-9 7-14 4l-34-19 21 108c2 8-8 13-14 7l-43-46-11 31c-1 4-6 7-11 6l-54-11 19 57c2 5 0 11-5 13l-21 10 94 76c4 3 5 7 3 12l-12 30 79-14c8-2 16 3 15 12l-8 84z"/>')
+FL={'us':us(),'ae':ae(),'my':my(),'de':de(),'ca':ca()}
 def flag(k,w,h,r=6):
     vb,body=FL[k]
     return f'<svg viewBox="{vb}" width="{w}" height="{h}" preserveAspectRatio="none" style="border-radius:{r}px;display:block;box-shadow:0 0 0 2px rgba(255,255,255,.9)">{body}</svg>'
 EV=[
- dict(slug='employee-well-being-2026',name='Employee Well-Being 2026',date='7–9 Dec 2026',mon='DEC',day='7–9',city='Orlando, FL, USA',country='United States',flag='us'),
- dict(slug='hr-tech-innovation-conference-penang',name='HR Tech & Innovation Conference Penang',date='7 Dec 2026',mon='DEC',day='7',city='Penang, Malaysia',country='Malaysia',flag='my'),
- dict(slug='shrm-mena-annual-conference-expo',name='SHRM MENA Annual Conference & Expo',date='16–17 Dec 2026',mon='DEC',day='16–17',city='Dubai, UAE',country='United Arab Emirates',flag='ae'),
+ dict(slug='diversity-and-inclusion-virtual-career-fair',name='Diversity and Inclusion Virtual Career Fair',date='1 Dec 2026',mon='DEC',day='1',city='Online',country='United States',flag='us',who='For job seekers · Online · Free',det='Online · Free · 11 AM to 3 PM ET'),
+ dict(slug='made-in-berlin-job-fair',name='Made in Berlin Job Fair',date='3 Dec 2026',mon='DEC',day='3',city='Berlin, Germany',country='Germany',flag='de',who='For job seekers · In person',det='Berlin · Students and graduates'),
+ dict(slug='hire-canada-virtual-job-fair-training-expo',name='Hire Canada Virtual Job Fair & Training Expo',date='9 Dec 2026',mon='DEC',day='9',city='Online',country='Canada',flag='ca',who='For job seekers · Online · Free',det='Online · Free · 11 AM to 3 PM EST'),
 ]
 BASE='''<!DOCTYPE html><html><head><meta charset="utf-8"><style>
 @font-face{font-family:PJ;src:url(../plus-jakarta-sans.woff2) format("woff2");font-weight:200 800}
@@ -49,27 +53,28 @@ h1{{font-size:{fs}px;font-weight:800;line-height:1.08;margin-top:18px;letter-spa
 .cal span{{display:flex;align-items:center;justify-content:center;height:186px;color:#0112ff;font-weight:800;font-size:{dfs}px;letter-spacing:-2px}}
 </style></head><body><div class="l"><img src="../logo-white.png"><br><span class="pill"><i></i>HIRING EVENT</span>
 <h1>{n}</h1><div class="chips"><span class="c d">{e['date']}</span><span class="c p">{flag(e['flag'],36,24,4)}{e['city']}</span></div>
-<div class="s">For companies &amp; HR · In person</div></div>
+<div class="s">{e["who"]}</div></div>
 <div class="cal"><b>{e['mon']}</b><span>{e['day']}</span></div></body></html>'''
 def li():
     rows=''.join(f'''<div class="row"><div class="f">{flag(e['flag'],150,96,12)}</div>
-<div class="t"><div class="co">{e['country']}</div><div class="nm">{e['name'].replace('&','&amp;')}</div><div class="ct">{e['city']}</div></div>
-<div class="dt"><b>{e['day']}</b><span>DEC 2026</span></div></div>''' for e in sorted(EV,key=lambda e:int(re.match(r'\d+',e['day']).group())))
-    return BASE+f'''body{{width:1080px;height:1080px;background:radial-gradient(800px 600px at 85% 8%,#2a3cff,transparent 70%),linear-gradient(165deg,#0112ff,#0008b8)}}
-.top{{position:absolute;left:70px;top:60px;right:70px;display:flex;justify-content:space-between;align-items:center}}.top img{{height:46px}}
-.tag{{background:rgba(255,255,255,.14);border:2px solid rgba(255,255,255,.35);font-weight:800;font-size:20px;letter-spacing:2px;padding:9px 22px;border-radius:999px}}
-h1{{position:absolute;left:66px;top:140px;font-size:168px;font-weight:800;letter-spacing:-7px;color:#ffc93c;line-height:1}}
-.sub{{position:absolute;left:74px;top:322px;font-size:34px;font-weight:700}}
-.list{{position:absolute;left:70px;right:70px;top:404px;display:flex;flex-direction:column;gap:24px}}
-.row{{background:#fff;border-radius:28px;height:176px;display:flex;align-items:center;padding:0 30px;gap:28px;box-shadow:0 8px 0 #ffc93c}}
+<div class="t"><div class="co">{e['country']}</div><div class="nm">{e['name'].replace('&','&amp;')}</div><div class="ct">{e['det']}</div></div>
+<div class="dt"><b>{e['day']}</b><span>DEC 2026</span></div></div>''' for e in EV)
+    return BASE+f'''body{{width:1080px;height:1080px;color:#0b1170;background:radial-gradient(800px 600px at 88% 4%,#ffa24d,transparent 70%),linear-gradient(165deg,#ff7a1a,#f25c05)}}
+.top{{position:absolute;left:70px;top:58px;right:70px;display:flex;justify-content:space-between;align-items:center}}
+.top img{{height:46px}}
+h1{{position:absolute;left:66px;top:128px;font-size:160px;font-weight:800;letter-spacing:-7px;color:#fff;line-height:1}}
+.tag{{position:absolute;left:70px;top:312px;background:#0b1170;color:#ffc93c;font-weight:800;font-size:44px;letter-spacing:1px;padding:10px 30px 13px;border-radius:18px;transform:rotate(-2deg);box-shadow:0 8px 0 rgba(11,17,112,.25)}}
+.sub{{position:absolute;right:70px;top:330px;font-size:30px;font-weight:800;color:#fff}}
+.list{{position:absolute;left:70px;right:70px;top:426px;display:flex;flex-direction:column;gap:22px}}
+.row{{background:#fff;border-radius:28px;height:170px;display:flex;align-items:center;padding:0 30px;gap:28px;box-shadow:0 8px 0 #0b1170}}
 .f svg{{box-shadow:0 0 0 2px #e3e6f5!important}}
-.t{{flex:1;color:#0b1170;min-width:0}}.co{{font-size:21px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#0112ff}}
-.nm{{font-size:31px;font-weight:800;line-height:1.12;margin-top:6px;letter-spacing:-.6px}}.ct{{font-size:22px;font-weight:600;color:#4a5080;margin-top:6px}}
-.dt{{width:170px;height:128px;border-radius:20px;background:#0112ff;display:flex;flex-direction:column;align-items:center;justify-content:center}}
-.dt b{{font-size:50px;font-weight:800;line-height:1;letter-spacing:-1.5px}}.dt span{{font-size:19px;font-weight:800;letter-spacing:2px;color:#ffc93c;margin-top:8px}}
-.ft{{position:absolute;left:70px;right:70px;bottom:44px;text-align:center;font-size:25px;font-weight:700;color:#dfe4ff}}
-</style></head><body><div class="top"><img src="../logo-white.png"><span class="tag">FOR HR &amp; TALENT TEAMS</span></div>
-<h1>Events</h1><div class="sub">HR events around the world in December 2026</div>
+.t{{flex:1;color:#0b1170;min-width:0}}.co{{font-size:21px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#f25c05}}
+.nm{{font-size:30px;font-weight:800;line-height:1.12;margin-top:5px;letter-spacing:-.6px}}.ct{{font-size:22px;font-weight:800;color:#0b1170;margin-top:6px}}
+.dt{{width:170px;height:128px;border-radius:20px;background:#0b1170;color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;flex:none}}
+.dt b{{font-size:60px;font-weight:800;line-height:1;letter-spacing:-1.5px}}.dt span{{font-size:25px;font-weight:800;letter-spacing:1px;color:#ffc93c;margin-top:6px}}
+.ft{{position:absolute;left:70px;right:70px;bottom:40px;text-align:center;font-size:25px;font-weight:800;color:#fff}}
+</style></head><body><div class="top"><img src="../logo-white.png"></div>
+<h1>Events</h1><div class="tag">FOR JOB SEEKERS</div><div class="sub">December 2026</div>
 <div class="list">{rows}</div><div class="ft">Links to all three events are in the post</div></body></html>'''
 from playwright.async_api import async_playwright
 async def shot(b,htmltxt,w,h,out):
@@ -80,6 +85,6 @@ async def main():
     async with async_playwright() as p:
         b=await p.chromium.launch(executable_path="/usr/bin/google-chrome",args=["--no-sandbox"])
         for e in EV: await shot(b,og(e),1200,627,f"{SITE}/og-event-{e['slug']}.png")
-        await shot(b,li(),1080,1080,"/home/claude/gen/ev/linkedin-hr-events-december-2026.png")
+        await shot(b,li(),1080,1080,"/home/claude/gen/ev/linkedin-job-seeker-events-december-2026.png")
         await b.close()
 asyncio.run(main())
