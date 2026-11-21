@@ -1770,3 +1770,12 @@ textarea { resize: vertical; }
 .ph-mini.wa-join:hover{background:#2be072}
 /* Lilo box alone in its row (the WhatsApp box next to it was removed) */
 .ask-sec .duo.solo{grid-template-columns:1fr}
+
+/* Open to Work: small tab fixed on the right edge of the tech pages (clear of the Lilo button) */
+.otw-side{position:fixed;right:0;top:46%;z-index:55;display:flex;align-items:center;gap:10px;background:#fff;border:2px solid #cfd6ff;border-right:0;border-radius:16px 0 0 16px;padding:10px 14px 10px 10px;text-decoration:none;color:#141a52;box-shadow:-6px 10px 26px rgba(20,26,82,.18)}
+.otw-side img{flex:none;border-radius:10px}
+.otw-side b{display:block;font-size:.95rem;line-height:1.2;color:#0112ff}
+.otw-side small{display:block;font-size:.78rem;font-weight:800;background:#ffc93c;color:#141a52;border-radius:8px;padding:3px 8px;margin-top:4px;text-align:center}
+.otw-side:hover{border-color:#9aa6ff}
+@media(max-width:720px){.otw-side{top:auto;bottom:164px;padding:8px 10px 8px 8px}.otw-side img{width:28px;height:28px}.otw-side b{font-size:.82rem}.otw-side small{font-size:.7rem}}
+@media print{.otw-side{display:none!important}}

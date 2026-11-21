@@ -403,4 +403,9 @@ jobs='<section id="cv-jobs" aria-label="Live jobs" data-cc="de" data-q="Architek
 build('architect-jobs-in-germany.html',"Architect Jobs in Germany for Foreigners (2026): Title & Visa",
       "How architects trained abroad can work in Germany in 2026: the protected title, chamber registration, visa routes, and live architect jobs.",
       "Career guide · Germany","Architect jobs in Germany for foreigners","When a foreign architect needs chamber registration in Germany, the visa routes, and live jobs.",b1,jobs,b2,faq,"Architect jobs in Germany for foreigners")
+# Open to Work tab on the IT page (tech page)
+_f='it-jobs-in-germany.html'; _t=open(_f,encoding='utf-8').read()
+if 'otw-side' not in _t:
+    import re as _re
+    _t=_t.replace('</body>','<a class="otw-side" href="open-to-work.html#join" aria-label="Open to work? Add your profile"><img src="open-to-work-icon.svg" alt="" width="34" height="34"><span><b>Open to work?</b><small>Add your profile</small></span></a>\n'+'</body>'); _t=_re.sub(r'style\.css\?v=\d+','style.css?v=92',_t); open(_f,'w',encoding='utf-8').write(_t)
 print('built all',NOCC)

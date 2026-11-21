@@ -143,3 +143,33 @@ export async function talentApi(request, env, url, ctx) {
 
   return json({ error: "Not found." }, 404);
 }
+
+// ---- Open to Work page: approved cards written into the page itself, so search engines can read them ----
+// The page's own script (opentowork.js) draws the same cards again once it loads; this is the same content, only earlier.
+const esc = (t) => String(t == null ? "" : t).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const yearsText = (t) => t.yearsCorp + (t.yearsCorp === 1 ? " year" : " years") + " corporate" + (t.yearsProj ? " · " + t.yearsProj + (t.yearsProj === 1 ? " year" : " years") + " projects" : "");
+const initials = (n) => String(n).split(/\s+/).filter(Boolean).slice(0, 2).map((w) => (w.match(/[\p{L}\p{N}]/u) || [""])[0].toUpperCase()).join("");
+const dateText = (d) => { const t = new Date(d + "T00:00:00Z"); return isNaN(t) ? "" : t.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }); };
+const cardHtml = (t) => `<article class="ow-card" data-id="${esc(t.id)}"><div class="ow-head"><div class="ow-av" aria-hidden="true">${esc(initials(t.name))}</div><div><p class="ow-name">${esc(t.name)}</p><p class="ow-title">${esc(t.title)}</p><p class="ow-exp">${esc(yearsText(t))}</p></div></div>`
+  + `<div class="ow-chips"><span class="ow-chip ow-country">${esc(t.country)}</span><span class="ow-chip">${esc(t.industry)}</span>${t.openFor.map((o) => `<span class="ow-chip">${esc(o)}</span>`).join("")}</div>`
+  + `<div class="ow-chips">${t.skills.map((s) => `<span class="ow-chip ow-skill">${esc(s)}</span>`).join("")}</div>`
+  + `<p class="ow-joined">Joined ${esc(dateText(t.joined))}</p></article>`;
+
+// Returns the Open to Work page with the approved cards inside it. With no approved cards, or on any error, the page is returned as it is.
+export async function talentPage(request, env) {
+  const page = await env.ASSETS.fetch(request);
+  if (request.method !== "GET" || page.status !== 200 || !env.DB) return page;
+  try {
+    const { results } = await env.DB.prepare("SELECT * FROM talent WHERE status = 'approved' ORDER BY decided_at DESC LIMIT 300").all();
+    if (!results.length) return page;
+    const html = results.map(card).map(cardHtml).join("");
+    const out = new HTMLRewriter()
+      .on("#ow-list", { element(e) { e.setInnerContent(html, { html: true }); } })
+      .on("#ow-status", { element(e) { e.setAttribute("hidden", ""); } })
+      .transform(page);
+    const headers = new Headers(out.headers);
+    headers.set("cache-control", "public, max-age=300");
+    headers.delete("etag"); headers.delete("content-length");
+    return new Response(out.body, { status: 200, headers });
+  } catch (e) { return env.ASSETS.fetch(request); }
+}

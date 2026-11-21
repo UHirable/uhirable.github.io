@@ -1,5 +1,5 @@
-// U Hirable: handles only the addresses that match no file.
-// Every real file (all .html pages, CSS, JS, images, data) is served by Cloudflare directly and never reaches this script.
+// U Hirable: handles the addresses that match no file, plus the Open to Work page.
+// Every other real file (all .html pages, CSS, JS, images, data) is served by Cloudflare directly and never reaches this script.
 //
 // What it does:
 //   /                        -> the home page (index.html)
@@ -7,10 +7,11 @@
 //   /jobs/                   -> permanent redirect to the home page (it was the old site's home)
 //   /cv-match, /jobs         -> permanent redirect to /cv-match.html, /jobs.html when that page exists
 //   /api/talent...           -> the Open to Work profiles (worker/talent.js)
+//   /open-to-work.html       -> the page, with the approved profile cards written into it
 //   removed list pages       -> permanent redirect to the nearest page that still exists (see removedPage)
 //   anything else            -> the site's 404 page, with a real 404 status
 
-import { talentApi } from "./talent.js";
+import { talentApi, talentPage } from "./talent.js";
 
 // Same address as the request, with another path and no query string.
 function at(url, path) {
@@ -60,6 +61,10 @@ export default {
     if (path === "/") {
       return env.ASSETS.fetch(new Request(at(url, "/index.html"), request));
     }
+
+    // The Open to Work page is the one real file that passes through here (see run_worker_first in wrangler.jsonc):
+    // the approved profile cards are written into it so search engines can read them.
+    if (path === "/open-to-work.html") return talentPage(request, env);
 
     if (path === "/api/talent" || path.startsWith("/api/talent/")) {
       try { return await talentApi(request, env, url, ctx); }
