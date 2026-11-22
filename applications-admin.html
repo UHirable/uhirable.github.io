@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Job applications | U Hirable</title>
+  <link rel="icon" href="favicon.png">
+  <style>
+    body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif;background:#f4f6ff;color:#0d1240}
+    .wrap{max-width:860px;margin:0 auto;padding:22px 16px 60px}
+    h1{font-size:1.4rem;margin:0 0 14px}
+    .box{background:#fff;border:1px solid #dde1ff;border-radius:18px;padding:18px;margin:0 0 14px}
+    input[type=password]{width:100%;box-sizing:border-box;padding:12px 14px;border-radius:12px;border:1.5px solid #cfd6ff;font:inherit;margin:8px 0 12px}
+    button,select{font:inherit;font-weight:700;border:0;border-radius:12px;height:42px;padding:0 16px;cursor:pointer}
+    .p{background:#0112ff;color:#fff}.q{background:#eef0ff;color:#0112ff}.r{background:#fcebeb;color:#791f1f}
+    .tabs{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 14px}.tabs button.on{background:#0d1240;color:#fff}
+    .row{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;align-items:flex-start}
+    .n{font-weight:800;font-size:1.05rem;margin:0}.m{margin:2px 0;color:#5b6290;font-size:.9rem;overflow-wrap:anywhere}
+    .qa{margin:10px 0 0}.qa b{display:block;font-size:.88rem;margin:10px 0 2px}.qa p{margin:0;white-space:pre-line;overflow-wrap:anywhere;line-height:1.5}
+    .st{font-size:.75rem;font-weight:800;padding:4px 10px;border-radius:999px;background:#fff3cf;color:#6b4a00}
+    .acts{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px;align-items:center}
+    details summary{cursor:pointer;font-weight:700;color:#0112ff;margin-top:10px}
+    #err{color:#791f1f;font-weight:700}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Job applications</h1>
+  <div class="box" id="login">
+    <label for="pw"><b>Review password</b></label>
+    <input type="password" id="pw" autocomplete="current-password">
+    <button class="p" id="go">Open</button>
+    <p id="err" hidden></p>
+  </div>
+  <div id="app" hidden>
+    <div class="tabs" id="tabs"></div>
+    <div id="rows"></div>
+  </div>
+</div>
+<script>
+(() => {
+  const $ = (s) => document.querySelector(s);
+  const esc = (t) => String(t == null ? "" : t).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  // The password is kept only in this tab's memory and is sent with each request; it is never saved in the browser.
+  let pw = "", all = [], statuses = [], tab = "all";
+  const call = async (action, id, status) => {
+    const r = await fetch("/api/apply/admin", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ password: pw, action, id, status }) });
+    const d = await r.json().catch(() => ({}));
+    if (!r.ok) throw new Error(d.error || "Something went wrong.");
+    all = d.applications || []; statuses = d.statuses || []; draw();
+  };
+  const draw = () => {
+    const jobs = [...new Map(all.map((a) => [a.job_id, a.job_title])).entries()];
+    $("#tabs").innerHTML = [["all", "All"], ...jobs].map(([k, l]) => `<button class="q ${tab === k ? "on" : ""}" data-tab="${esc(k)}">${esc(l)} (${k === "all" ? all.length : all.filter((a) => a.job_id === k).length})</button>`).join("");
+    const rows = all.filter((a) => tab === "all" || a.job_id === tab);
+    $("#rows").innerHTML = rows.length ? rows.map((a) => `<div class="box"><div class="row"><div><p class="n">${esc(a.name)}</p><p class="m">${esc(a.job_title)}</p>
+      <p class="m">${esc(a.location)} · <a href="mailto:${esc(a.email)}">${esc(a.email)}</a> · ${esc(a.phone)}</p>
+      <p class="m"><a href="${esc(a.linkedin)}" target="_blank" rel="noopener">LinkedIn</a> · <a href="${esc(a.cv)}" target="_blank" rel="noopener">CV</a></p>
+      <p class="m">Authorised to work in the US: <b>${esc(a.authorised)}</b> · Needs sponsorship: <b>${esc(a.sponsorship)}</b></p>
+      <p class="m">Desired compensation: ${esc(a.compensation)}</p></div><div><span class="st">${esc(a.status)}</span><p class="m">Sent ${esc(a.created)}</p></div></div>
+      <details><summary>Answers (${a.answers.length})</summary><div class="qa">${a.answers.map((x) => `<b>${esc(x.q)}</b><p>${esc(x.a)}</p>`).join("")}</div></details>
+      <div class="acts"><select data-id="${esc(a.id)}" class="q">${statuses.map((s) => `<option${s === a.status ? " selected" : ""}>${esc(s)}</option>`).join("")}</select><button class="r" data-act="delete" data-id="${esc(a.id)}">Delete for good</button></div></div>`).join("") : '<div class="box">No applications yet.</div>';
+  };
+  const open = async () => { pw = $("#pw").value; $("#err").hidden = true;
+    try { await call("list"); $("#login").hidden = true; $("#app").hidden = false; $("#pw").value = ""; }
+    catch (e) { $("#err").hidden = false; $("#err").textContent = e.message; } };
+  $("#go").addEventListener("click", open);
+  $("#pw").addEventListener("keydown", (e) => { if (e.key === "Enter") open(); });
+  document.addEventListener("change", async (e) => { const s = e.target.closest("select[data-id]"); if (s) { try { await call("status", s.dataset.id, s.value); } catch (x) { alertless(x); } } });
+  const alertless = (x) => { $("#rows").insertAdjacentHTML("afterbegin", `<div class="box" style="color:#791f1f">${esc(x.message)}</div>`); };
+  document.addEventListener("click", async (e) => {
+    const t = e.target.closest("[data-tab]"); if (t) { tab = t.dataset.tab; return draw(); }
+    const a = e.target.closest("[data-act]"); if (!a) return;
+    if (a.dataset.sure !== "1") { a.dataset.sure = "1"; a.textContent = "Press again to delete"; return; }
+    a.disabled = true;
+    try { await call("delete", a.dataset.id); } catch (x) { a.disabled = false; a.textContent = x.message; }
+  });
+})();
+</script>
+</body>
+</html>

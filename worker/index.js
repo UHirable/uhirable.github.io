@@ -12,6 +12,7 @@
 //   anything else            -> the site's 404 page, with a real 404 status
 
 import { talentApi, talentPage } from "./talent.js";
+import { applyApi } from "./apply.js";
 
 // Same address as the request, with another path and no query string.
 function at(url, path) {
@@ -66,6 +67,11 @@ export default {
     // The Open to Work page is the one real file that passes through here (see run_worker_first in wrangler.jsonc):
     // the approved profile cards are written into it so search engines can read them.
     if (path === "/open-to-work.html") return talentPage(request, env);
+
+    if (path === "/api/apply" || path.startsWith("/api/apply/")) {
+      try { return await applyApi(request, env, url, ctx); }
+      catch (e) { return new Response(JSON.stringify({ error: "Something went wrong. Please try again." }), { status: 500, headers: { "content-type": "application/json" } }); }
+    }
 
     if (path === "/api/talent" || path.startsWith("/api/talent/")) {
       try { return await talentApi(request, env, url, ctx); }

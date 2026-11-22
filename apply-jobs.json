@@ -1,0 +1,126 @@
+{
+ "regional-sales-manager-great-lakes": {
+  "title": "Regional Sales Manager, Great Lakes",
+  "where": "Remote, Great Lakes region",
+  "page": "job-regional-sales-manager-great-lakes.html",
+  "note": "For candidates based in the Great Lakes region of the United States (IN, KY, MI, OH, West PA, WV, West NY). The application asks about your US work authorisation. The employer's name is shared with shortlisted candidates.",
+  "questions": [
+   {
+    "type": "text",
+    "q": "How many channel partners or distributors have you managed, and across which states? How did you bring in new business through them?"
+   },
+   {
+    "type": "text",
+    "q": "What is your experience with submersible pumps and electrical control panels? If none, with slurry pumps or municipal and industrial pumping?"
+   },
+   {
+    "type": "text",
+    "q": "Which CRM and ERP systems have you used, and how? Have you used HubSpot?"
+   },
+   {
+    "type": "text",
+    "q": "How many years of outside sales do you have, and how large was your territory (states, customer segments, annual revenue)?"
+   },
+   {
+    "type": "text",
+    "q": "This role needs about 75% travel, usually 2 to 3 nights a week, and some international travel. Are you comfortable with that? Any limits?"
+   },
+   {
+    "type": "yn",
+    "q": "Do you have a clean driving record?"
+   },
+   {
+    "type": "line",
+    "q": "Highest level of education"
+   },
+   {
+    "type": "line",
+    "q": "Have you applied to or interviewed with this employer before? If you are not sure, write \"not sure\"."
+   }
+  ]
+ },
+ "avp-inside-sales-manager-mortgage": {
+  "title": "AVP, Inside Sales Manager (Mortgage)",
+  "where": "Remote, United States",
+  "page": "job-avp-inside-sales-manager-mortgage.html",
+  "note": "For candidates in the United States. The application asks about your US work authorisation. The employer's name is shared with shortlisted candidates.",
+  "questions": [
+   {
+    "type": "text",
+    "q": "What was the size of the team you managed in your most recent role and in your previous roles?"
+   },
+   {
+    "type": "text",
+    "q": "What was your loan closing volume per month: number of loans funded and total loan amount?"
+   },
+   {
+    "type": "line",
+    "q": "Have you applied to or interviewed with this employer before? If you are not sure, write \"not sure\"."
+   }
+  ]
+ },
+ "outside-loan-officer-private-lending": {
+  "title": "Outside Loan Officer, Private Lending (BPL / DSCR)",
+  "where": "Remote, United States",
+  "page": "job-outside-loan-officer-private-lending.html",
+  "note": "For candidates in the United States with an established book of business in private lending. The application asks about your US work authorisation. The employer's name is shared with shortlisted candidates.",
+  "questions": [
+   {
+    "type": "text",
+    "q": "Tell us about your experience developing relationships with investors, private lenders, borrowers or other real estate finance professionals."
+   },
+   {
+    "type": "line",
+    "q": "About how many active investor relationships do you personally maintain today?"
+   },
+   {
+    "type": "line",
+    "q": "How many of those relationships generated actual business for you in the past 12 months?"
+   },
+   {
+    "type": "line",
+    "q": "What sales volume or revenue did those relationships generate over the past 12 months?"
+   },
+   {
+    "type": "line",
+    "q": "Have you applied to or interviewed with this employer before? If you are not sure, write \"not sure\"."
+   }
+  ]
+ },
+ "director-of-sales-professional-staffing": {
+  "title": "Director of Sales, Professional Staffing",
+  "where": "Remote, United States",
+  "page": "job-director-of-sales-professional-staffing.html",
+  "note": "You must live in the United States. The application asks about your US work authorisation. The employer's name is shared with shortlisted candidates.",
+  "questions": [
+   {
+    "type": "text",
+    "q": "How many years have you sold professional staffing services? Give details: contingent or direct hire, size of target companies, industries, job functions and geography."
+   },
+   {
+    "type": "text",
+    "q": "How many new clients did you sign in the last 12 months for contingent staffing? About how many job orders came from them, and in which industries and functions?"
+   },
+   {
+    "type": "text",
+    "q": "Have you sold contingent labour solutions to end clients, to MSPs, or both? Please explain."
+   },
+   {
+    "type": "text",
+    "q": "How many new clients did you sign in the last 12 months for direct hire staffing? About how many job orders came from them, and in which industries and functions?"
+   },
+   {
+    "type": "text",
+    "q": "Do you have experience selling MSP services or VMS? Please explain. (Preferred, not required.)"
+   },
+   {
+    "type": "line",
+    "q": "Highest level of education (degree completed)"
+   },
+   {
+    "type": "text",
+    "q": "Are you currently employed? If not, why did you leave your last employer?"
+   }
+  ]
+ }
+}
