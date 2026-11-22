@@ -26,7 +26,6 @@ MAIN = '''  <main>
         <h1>Remote expert work for AI projects, paid by the hour</h1>
         <p style="margin-left:auto;margin-right:auto">Mercor hires professionals to help train and evaluate AI systems in their own field. Listings are remote hourly contracts. This page explains how it works and what to check before you apply.</p>
         <p style="margin-top:18px;text-align:center;margin-left:auto;margin-right:auto">''' + (BTN % "btn-gold") + '''</p>
-        <p style="margin-top:12px;font-size:14px;opacity:.9;max-width:640px;margin-left:auto;margin-right:auto">This is a referral link. When Mercor shows that you were referred by Amel Moussa, that is the recruiter behind U Hirable.</p>
       </div>
     </section>
 
@@ -37,7 +36,7 @@ MAIN = '''  <main>
         <div class="wfh-stats"><div><b>Remote</b><span>listings are marked Remote</span></div><div><b>Hourly</b><span>each listing shows an hourly rate</span></div><div><b>3 steps</b><span>resume, location, short AI interview</span></div><div><b>Weekly</b><span>payments on Stripe or Wise, as listings state</span></div></div>
 
         <h2 class="wfh-h">1. Check the location first</h2>
-        <section class="topic-faq"><p><b>Not every listing is open to every country.</b> Many listings show a "Location requirements" line, for example USA only, or Canada, UK and USA. Mercor's referral policy says a listing that names a region is open only to candidates from that region, and a listing with no location is assumed open to applicants in the US, Canada, the UK or the EU.</p><p>Before you spend time on an application, open the listing and read its location line.</p></section>
+        <section class="topic-faq"><p><b>Not every listing is open to every country.</b> Many listings show a "Location requirements" line, for example USA only, or Canada, UK and USA. Mercor says a listing that names a region is open only to candidates from that region, and a listing with no location is assumed open to applicants in the US, Canada, the UK or the EU.</p><p>Before you spend time on an application, open the listing and read its location line.</p></section>
 
         <h2 class="wfh-h">2. Fields Mercor lists</h2>
         <div class="wfh-grid">
@@ -72,7 +71,6 @@ MAIN = '''  <main>
           </ul></section>
         </div>
 
-        <section class="topic-faq" style="margin-top:28px"><h2>Disclosure</h2><p>The Mercor links on this page are referral links. If you are hired and start paid work, U Hirable may earn a referral fee from Mercor. Read our <a href="disclosure.html">affiliate disclosure</a>.</p></section>
 
         <p class="count" style="margin-top:28px">''' + (BTN % "btn-primary") + ''' &nbsp; <a class="btn btn-sm btn-soft" href="remote-jobs.html">See remote jobs at startups →</a></p>
       </div>
