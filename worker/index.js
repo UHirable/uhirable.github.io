@@ -40,12 +40,13 @@ const hasExtension = (path) => /\.[A-Za-z0-9]+$/.test(path);
 
 // Removed pages: returns the pages to try instead, best first, or null when the path is not one of them.
 const UK_HUB = "/uk-visa-sponsors.html";
+const UK_CARE = "/care-homes-with-visa-sponsorship-uk.html";
 const UK_REMOVED = new Set(["care-homes", "nhs-hospitals", "universities", "schools-colleges", "technology", "hotels", "restaurants",
   "pharmacies", "dental-practices", "law-firms", "accountants", "engineering", "construction", "sports-clubs"]);
 function removedPage(path) {
-  let m = path.match(/^\/uk-visa-sponsors-care-homes-([a-z0-9-]+)\.html$/);
-  if (m) return ["/uk-visa-sponsors-" + m[1] + ".html", UK_HUB]; // the city's own page when there is one
-  m = path.match(/^\/uk-visa-sponsors-([a-z0-9-]+)\.html$/);
+  // Care home pages (the main one and one per city) go to the guide that answers the same search.
+  if (/^\/uk-visa-sponsors-care-homes(-[a-z0-9-]+)?\.html$/.test(path)) return [UK_CARE, UK_HUB];
+  let m = path.match(/^\/uk-visa-sponsors-([a-z0-9-]+)\.html$/);
   if (m && UK_REMOVED.has(m[1])) return [UK_HUB];
   if (/^\/netherlands-recognised-sponsors-[a-z0-9-]+\.html$/.test(path)) return ["/netherlands-recognised-sponsors.html"];
   if (/^\/ireland-work-permit-companies-[a-z0-9-]+\.html$/.test(path)) return ["/ireland-work-permit-companies.html"];
