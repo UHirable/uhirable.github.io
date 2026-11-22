@@ -270,21 +270,24 @@ if (list && typeof JOBS !== "undefined") {
 }
 
 // ---------- "Similar live jobs" block under a job (uses cvjobs.js: WhatJobs, Jooble) ----------
-function addSimilarJobs(title) {
+function addSimilarJobs(title, countries) {
   if (document.getElementById("cv-jobs")) return;
+  // The block opens on the job's own country (the first one listed), not on the visitor's country.
+  const CC = { "United States": "us", "United Kingdom": "uk", "Canada": "ca", "Germany": "de", "UAE": "ae", "United Arab Emirates": "ae", "Saudi Arabia": "sa", "Qatar": "qa", "Kuwait": "kw", "Bahrain": "bh", "Egypt": "eg", "India": "in", "Pakistan": "pk", "South Africa": "za", "Spain": "es", "Philippines": "ph", "Indonesia": "id", "Kenya": "ke", "France": "fr", "Netherlands": "nl", "Belgium": "be", "Portugal": "pt", "Brazil": "br", "Mexico": "mx", "Argentina": "ar", "Oman": "om", "Uganda": "ug", "Greece": "gr" };
+  const first = (countries || []).find((c) => CC[c]), jobCc = first ? CC[first] : "";
   const kw = String(title || "").replace(/\([^)]*\)/g, " ").replace(/\b(senior|sr|lead|staff|principal|junior|jr|associate|head of)\b\.?/gi, " ")
     .replace(/[^\p{L}\p{N}+# ]+/gu, " ").replace(/\s+/g, " ").trim().split(" ").slice(0, 3).join(" ");
   const host = document.getElementById("job-body");
   const sec = document.createElement("section");
   sec.className = "page-body";
   sec.style.paddingTop = "0";
-  sec.innerHTML = '<div class="container"><section id="cv-jobs" aria-label="Similar live jobs" data-page="job" data-title="Similar live jobs" data-sub="Open now in your country. Every card opens the original ad." data-q="' + kw.replace(/"/g, "") + '"></section></div>';
+  sec.innerHTML = '<div class="container"><section id="cv-jobs" aria-label="Similar live jobs" data-page="job" data-title="Similar live jobs" data-sub="' + (jobCc ? "Open now in the same country as this job." : "Open now in your country.") + ' Every card opens the original ad."' + (jobCc ? ' data-cc="' + jobCc + '"' : "") + ' data-q="' + kw.replace(/"/g, "") + '"></section></div>';
   (host && host.closest("section") ? host.closest("section") : document.body).insertAdjacentElement("afterend", sec);
   const load = (src) => new Promise((ok) => { const e = document.createElement("script"); e.src = src; e.onload = e.onerror = ok; document.body.appendChild(e); });
   (async () => {
     if (!window.UHVisitor) await load("next-step.js?v=9");
     await load("wjfeed.js?v=4");
-    await load("cvjobs.js?v=7");
+    await load("cvjobs.js?v=8");
   })();
 }
 
@@ -343,7 +346,7 @@ if (jobContent && typeof JOBS !== "undefined") {
       const p = document.querySelector(".apply-card > p");
       if (p) p.textContent = MATCH_NOTE;
     }
-    addSimilarJobs(j.title);
+    addSimilarJobs(j.title, j.countries);
   }
 }
 
