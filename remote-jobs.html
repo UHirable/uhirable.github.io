@@ -20,11 +20,20 @@
   <link rel="stylesheet" href="style.css?v=94">
   <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "name": "Remote Jobs at Startups – U Hirable", "description": "Fully remote jobs at startups and tech companies, with the countries you can apply from. Updated as new roles are added.", "url": "https://uhirable.com/remote-jobs.html", "isPartOf": {"@type": "WebSite", "name": "U Hirable", "url": "https://uhirable.com/"}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://uhirable.com/"}, {"@type": "ListItem", "position": 2, "name": "Remote Jobs", "item": "https://uhirable.com/remote-jobs.html"}]}]}</script>
 <style>
-.rj-strip{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;margin:118px 0 22px;padding:16px 22px;border-radius:18px;background:linear-gradient(100deg,#0b1170,#0112ff);color:#fff;text-decoration:none;box-shadow:0 8px 24px rgba(1,18,255,.18)}
-.rj-strip b{display:block;font-size:1.05rem;font-weight:800;line-height:1.3}
-.rj-strip small{display:block;font-size:.88rem;opacity:.9;margin-top:2px}
-.rj-strip i{font-style:normal;font-weight:800;font-size:.92rem;background:#ffc93c;color:#0b1170;padding:9px 16px;border-radius:999px;white-space:nowrap}
-.rj-strip:hover{filter:brightness(1.08)}
+.rj-cards{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin:118px 0 26px}
+.rj-cards .rm-strip h2{font-size:1.35rem;margin:0}
+.rj-card{border-radius:22px;padding:26px 26px 24px;display:flex;flex-direction:column;align-items:flex-start;gap:10px}
+.rj-card h2{font-size:1.4rem;line-height:1.25;margin:0}
+.rj-card p{margin:0;font-size:1rem;line-height:1.5}
+.rj-name{font-weight:800;font-size:1.05rem;letter-spacing:.02em}
+.rj-btn{margin-top:auto;display:inline-block;font-weight:800;font-size:1rem;padding:12px 22px;text-decoration:none}
+.rj-mercor{background:#fff;border:2px solid #4f46e5;color:#111827;box-shadow:0 10px 30px rgba(79,70,229,.12)}
+.rj-mercor .rj-name{color:#4f46e5}.rj-mercor p{color:#374151}
+.rj-mercor .rj-btn{background:#4f46e5;color:#fff;border-radius:8px}
+.rj-terac{background:#0a0a0a;color:#fff;box-shadow:0 10px 30px rgba(0,0,0,.22)}
+.rj-terac h2{color:#fff}.rj-terac p{color:#d6d6d6}
+.rj-terac .rj-btn{background:#1a1aff;color:#fff;border-radius:10px}
+@media(max-width:800px){.rj-cards{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -56,21 +65,31 @@
 
     <section class="page-body">
       <div class="container">
-        <a class="rj-strip" href="remote-jobs-usd.html"><span><b>Remote expert work, paid by the hour</b><small>AI projects for people with real experience in their field</small></span><i>See how it works →</i></a>
-        <div class="filters">
-          <label>Country
-            <select id="country-filter">
-              <option value="all">🌍 All countries</option>
-            </select>
-          </label>
-          <label>Search
-            <input type="search" id="search-box" placeholder="Job title or keyword">
-          </label>
+        <div class="rj-cards">
+        <section class="rm-strip" id="rm-strip">
+          <span class="promo-badge">Remote jobs</span>
+          <div class="rm-head">
+            <img class="promo-logo" src="logo-remotive.svg" width="44" height="44" alt="Remotive">
+            <div><h2>Fresh remote jobs from Remotive</h2><p class="meta">Worldwide · 100% remote · updates automatically</p></div>
+          </div>
+          <div class="rm-row" id="rm-row"><p class="rm-loading">Loading remote jobs…</p></div>
+          <div class="rm-foot">
+            <a class="btn btn-sm promo-btn" href="https://remotive.com/join?via=uhirable" target="_blank" rel="noopener sponsored">Unlock 100K+ hidden remote jobs →</a>
+          </div>
+        </section>
+        <section class="rj-card rj-mercor">
+          <span class="rj-name">Mercor</span>
+          <h2>Remote expert work, paid by the hour</h2>
+          <p>AI projects for people with real experience in their field. Check the location on each listing before you apply.</p>
+          <a class="rj-btn" href="remote-jobs-usd.html">See how it works →</a>
+        </section>
+        <section class="rj-card rj-terac">
+          <span class="rj-name">Terac</span>
+          <h2>Paid expert studies and AI training tasks</h2>
+          <p>Interviews, surveys and AI tasks for experienced professionals. Each study has its own requirements.</p>
+          <a class="rj-btn" href="https://terac.com/refer/bc955b86" target="_blank" rel="noopener sponsored">Open Terac →</a>
+        </section>
         </div>
-
-        <p id="jobs-count" class="count"></p>
-        <div id="jobs-list" class="jobs-list"></div>
-        <p class="count" style="margin-top:28px"><a class="btn btn-sm btn-soft" href="jobs.html">See all open roles →</a></p>
         <section class="topic-faq"><h2>About these remote jobs</h2><p>Remote doesn't always mean worldwide. Each job on this page shows the countries you must live in to apply. Roles marked <b>Worldwide</b> are open to candidates anywhere; roles marked with a country (for example "Remote · US") require you to live there.</p><p>Looking for more? Browse <a href="job-sites.html">remote job sites</a> we recommend, or the fresh remote jobs from Remotive on our <a href="index.html">home page</a>.</p></section>
       </div>
     </section>
