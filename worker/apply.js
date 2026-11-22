@@ -19,6 +19,25 @@ const TABLE = `CREATE TABLE IF NOT EXISTS applications (
   name TEXT NOT NULL, email TEXT NOT NULL, phone TEXT NOT NULL, location TEXT NOT NULL,
   linkedin TEXT NOT NULL, cv TEXT NOT NULL, authorised TEXT NOT NULL, sponsorship TEXT NOT NULL,
   compensation TEXT NOT NULL, answers TEXT NOT NULL, consent_at TEXT NOT NULL)`;
+// An uploaded CV is kept in its own table, one row per application. D1 allows 2 MB per row, so files are limited to 1.5 MB.
+const FILES = `CREATE TABLE IF NOT EXISTS application_files (id TEXT PRIMARY KEY, name TEXT NOT NULL, type TEXT NOT NULL, data BLOB NOT NULL)`;
+const MAX_FILE = 1500000;
+const TYPES = { pdf: "application/pdf", docx: "application/vnd.openxmlformats-officedocument.wordprocessingml.document", doc: "application/msword" };
+
+// Reads the uploaded CV ({ name, data: base64 }). Returns { file } (null when none was sent) or { error }.
+// The type is decided by the file's first bytes, not by its name.
+function readFile(f) {
+  if (!f || typeof f !== "object" || !f.data) return { file: null };
+  let bytes;
+  try { const bin = atob(String(f.data)); bytes = new Uint8Array(bin.length); for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i); }
+  catch (e) { return { error: "The CV file could not be read. Please choose it again." }; }
+  if (bytes.length > MAX_FILE) return { error: "The CV file is larger than 1.5 MB. Please upload a smaller file or paste a link instead." };
+  const head = [...bytes.slice(0, 4)].map((x) => x.toString(16).padStart(2, "0")).join("");
+  const kind = head === "25504446" ? "pdf" : head === "504b0304" ? "docx" : head === "d0cf11e0" ? "doc" : "";
+  if (!kind) return { error: "Please upload your CV as a PDF or Word file." };
+  const base = line(f.name, 80).replace(/\.[A-Za-z0-9]+$/, "").replace(/[^\p{L}\p{N} _-]/gu, "").trim() || "cv";
+  return { file: { name: base + "." + kind, type: TYPES[kind], bytes } };
+}
 
 async function human(env, token, ip) {
   const body = new URLSearchParams({ secret: env.TURNSTILE_SECRET, response: String(token || "") });
@@ -46,7 +65,7 @@ async function roles(env, url) {
 const web = (v, max) => { const s = line(v, max); try { const u = new URL(s); return u.protocol === "https:" ? u.toString() : ""; } catch (e) { return ""; } };
 
 // Reads and checks the form. Returns { row } or { error }.
-function readForm(b, role) {
+function readForm(b, role, hasFile) {
   const row = {
     name: line(b.name, 80), email: line(b.email, 120).toLowerCase(), phone: line(b.phone, 30), location: line(b.location, 80),
     linkedin: web(b.linkedin, 200), cv: web(b.cv, 300),
@@ -59,7 +78,7 @@ function readForm(b, role) {
   if (row.phone.replace(/\D/g, "").length < 7) return { error: "Please enter a phone number." };
   if (row.location.length < 2) return { error: "Please enter your city and state." };
   if (!/^https:\/\/([a-z]+\.)?linkedin\.com\//i.test(row.linkedin)) return { error: "Please paste the link to your LinkedIn profile (it starts with https://www.linkedin.com/)." };
-  if (!row.cv) return { error: "Please paste a link to your CV that starts with https://." };
+  if (!row.cv && !hasFile) return { error: "Please upload your CV, or paste a link to it that starts with https://." };
   if (!row.authorised || !row.sponsorship) return { error: "Please answer both work eligibility questions." };
   if (!row.compensation) return { error: "Please enter your desired compensation." };
   const given = Array.isArray(b.answers) ? b.answers : [];
@@ -100,18 +119,23 @@ export async function applyApi(request, env, url, ctx) {
     if (b.website) return json({ ok: true }); // hidden field only robots fill in: pretend it worked
     const all = await roles(env, url), jobId = line(b.job, 90), role = all[jobId];
     if (!role) return json({ error: "This role is no longer open." }, 404);
-    const f = readForm(b, role);
+    const up = readFile(b.file);
+    if (up.error) return json({ error: up.error }, 400);
+    const f = readForm(b, role, !!up.file);
     if (f.error) return json({ error: f.error }, 400);
     if (!(await human(env, b.token, request.headers.get("cf-connecting-ip")))) return json({ error: "The robot check did not pass. Please try it again." }, 400);
     await env.DB.prepare(TABLE).run();
+    await env.DB.prepare(FILES).run();
     const now = new Date(), since = new Date(now - 864e5).toISOString();
     const recent = await env.DB.prepare("SELECT COUNT(*) AS n FROM applications WHERE created_at > ?").bind(since).first();
     if (recent && recent.n >= MAX_PER_DAY) return json({ error: "We are receiving many applications right now. Please try again tomorrow." }, 429);
     const r = f.row;
     const dup = await env.DB.prepare("SELECT id FROM applications WHERE job_id = ? AND email = ?").bind(jobId, r.email).first();
     if (dup) return json({ error: "You have already applied for this role with this email." }, 409);
+    const newId = crypto.randomUUID();
+    if (up.file) await env.DB.prepare("INSERT INTO application_files (id, name, type, data) VALUES (?, ?, ?, ?)").bind(newId, up.file.name, up.file.type, up.file.bytes).run();
     await env.DB.prepare("INSERT INTO applications (id, created_at, status, job_id, job_title, name, email, phone, location, linkedin, cv, authorised, sponsorship, compensation, answers, consent_at) VALUES (?, ?, 'new', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)")
-      .bind(crypto.randomUUID(), now.toISOString(), jobId, role.title, r.name, r.email, r.phone, r.location, r.linkedin, r.cv, r.authorised, r.sponsorship, r.compensation, r.answers, now.toISOString()).run();
+      .bind(newId, now.toISOString(), jobId, role.title, r.name, r.email, r.phone, r.location, r.linkedin, r.cv, r.authorised, r.sponsorship, r.compensation, r.answers, now.toISOString()).run();
     if (ctx && ctx.waitUntil) ctx.waitUntil(notify(env, role.title)); else await notify(env, role.title);
     return json({ ok: true });
   }
@@ -123,11 +147,17 @@ export async function applyApi(request, env, url, ctx) {
       return json({ error: "Wrong password." }, 401);
     }
     await env.DB.prepare(TABLE).run();
+    await env.DB.prepare(FILES).run();
     const id = String(b.id || "");
+    if (b.action === "file") {
+      const f = await env.DB.prepare("SELECT name, type, data FROM application_files WHERE id = ?").bind(id).first();
+      if (!f) return json({ error: "No file for this application." }, 404);
+      return new Response(new Uint8Array(f.data), { headers: { "content-type": f.type, "content-disposition": 'attachment; filename="' + f.name.replace(/[^\x20-\x7e]|"/g, "_") + '"', "x-file-name": encodeURIComponent(f.name), "cache-control": "no-store" } });
+    }
     if (b.action === "status" && STATUSES.includes(b.status)) await env.DB.prepare("UPDATE applications SET status = ? WHERE id = ?").bind(b.status, id).run();
-    else if (b.action === "delete") await env.DB.prepare("DELETE FROM applications WHERE id = ?").bind(id).run();
+    else if (b.action === "delete") { await env.DB.prepare("DELETE FROM application_files WHERE id = ?").bind(id).run(); await env.DB.prepare("DELETE FROM applications WHERE id = ?").bind(id).run(); }
     else if (b.action !== "list") return json({ error: "Unknown action." }, 400);
-    const { results } = await env.DB.prepare("SELECT * FROM applications ORDER BY created_at DESC LIMIT 1000").all();
+    const { results } = await env.DB.prepare("SELECT a.*, f.name AS file_name FROM applications a LEFT JOIN application_files f ON f.id = a.id ORDER BY a.created_at DESC LIMIT 1000").all();
     return json({ statuses: STATUSES, applications: results.map((r) => ({ ...r, answers: JSON.parse(r.answers), created: r.created_at.slice(0, 10) })) });
   }
 

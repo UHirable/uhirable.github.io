@@ -16,6 +16,7 @@ STYLE = """<style>
 .ap-card h2{font-size:1.08rem;color:#0112ff;margin:24px 0 4px}
 .ap-f{margin:14px 0 0}.ap-l{display:block;font-weight:700;font-size:.92rem;color:#0b1170;margin:0 0 6px;line-height:1.4}
 .ap-f input:not([type=radio]),.ap-f textarea{width:100%;box-sizing:border-box;border:1.5px solid #d5d9ff;border-radius:12px;padding:11px 12px;font:inherit;font-size:1rem;color:#0b1170;background:#fff}
+.ap-f input[type=file]{padding:9px 10px;font-size:.92rem}.ap-or{margin:12px 0 8px;font-size:.85rem;font-weight:700;color:#5b6290;text-align:center}
 .ap-f textarea{min-height:92px;resize:vertical}.ap-f small{display:block;margin-top:5px;color:#5b6290;font-size:.82rem}
 .ap-f input:focus,.ap-f textarea:focus{outline:2px solid #0112ff;outline-offset:1px}
 .ap-yn{display:flex;gap:8px}.ap-yn label{flex:1;position:relative}.ap-yn input{position:absolute;opacity:0;inset:0;width:100%;height:100%;margin:0;cursor:pointer}
@@ -46,7 +47,7 @@ MAIN = """<main>
 a = s.index("<main>"); b = s.index("</main>") + len("</main>")
 s = s[:a] + MAIN + s[b:]
 # page scripts: the site's own script, then the form
-s = re.sub(r'\s*<script>document\.getElementById\("ct-copy"\).*?</script>', '\n  <script src="apply.js?v=1"></script>', s, flags=re.S)
-assert 'apply.js?v=1' in s and "ct-copy" not in s
+s = re.sub(r'\s*<script>document\.getElementById\("ct-copy"\).*?</script>', '\n  <script src="apply.js?v=2"></script>', s, flags=re.S)
+assert 'apply.js?v=2' in s and "ct-copy" not in s
 open("apply.html", "w", encoding="utf-8").write(s)
 print("ok")

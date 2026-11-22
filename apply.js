@@ -24,7 +24,7 @@
         ${field("Phone", '<input name="phone" type="tel" autocomplete="tel" maxlength="30" required>')}
         ${field("City and state", '<input name="location" maxlength="80" required>')}
         ${field("LinkedIn profile link", '<input name="linkedin" type="url" placeholder="https://www.linkedin.com/in/…" maxlength="200" required>')}
-        ${field("Link to your CV (Google Drive, Dropbox or similar)", '<input name="cv" type="url" placeholder="https://…" maxlength="300" required><small>Make sure anyone with the link can view it.</small>')}
+        ${field("Your CV", '<input name="file" type="file" accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"><small>PDF or Word, up to 1.5 MB.</small><div class="ap-or">or paste a link instead</div><input name="cv" type="url" placeholder="https://… (Google Drive, Dropbox or similar)" maxlength="300"><small>If you paste a link, make sure anyone with the link can view it.</small>')}
         <h2>Work eligibility</h2>
         ${field("Are you legally authorised to work in the US for any employer?", yn("authorised"))}
         ${field("Will you now or in the future need visa sponsorship to work in the US?", yn("sponsorship"))}
@@ -51,6 +51,14 @@
         answers: role.questions.map((q, i) => v("q" + i)), consent: form.consent.checked,
         token: window.turnstile && widget !== null ? turnstile.getResponse(widget) : "" };
       if (!form.checkValidity()) return say("Please fill in every field and tick the box to agree.");
+      const file = form.file.files[0];
+      if (!file && !body.cv) return say("Please upload your CV or paste a link to it.");
+      if (file) {
+        if (file.size > 1500000) return say("The CV file is larger than 1.5 MB. Please upload a smaller file or paste a link instead.");
+        const buf = new Uint8Array(await file.arrayBuffer()); let bin = "";
+        for (let i = 0; i < buf.length; i += 32768) bin += String.fromCharCode.apply(null, buf.subarray(i, i + 32768));
+        body.file = { name: file.name, data: btoa(bin) };
+      }
       if (!body.token) return say("Please complete the robot check above the button.");
       btn.disabled = true; btn.textContent = "Sending…";
       try {
