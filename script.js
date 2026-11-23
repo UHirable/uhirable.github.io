@@ -379,15 +379,17 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
       if(!words.every(w=>all.includes(w)))return null;
       let s=0;if(t.startsWith(v))s+=6;if(t.includes(v))s+=3;words.forEach(w=>{if(t.includes(w))s+=2;});
       return {e,s};}).filter(Boolean).sort((a,b)=>b.s-a.s||ORDER[a.e.k]-ORDER[b.e.k]).slice(0,8);
-    res.innerHTML=hits.length?hits.map(({e})=>`<a href="${esc(e.u)}"${e.x?' target="_blank" rel="noopener"':""}><span class="hs-k k-${esc(e.k.replace(/\s+/g,"-").toLowerCase())}">${esc(e.k)}</span><span class="hs-t"><b>${esc(e.t)}</b><small>${esc(e.d)}</small></span>${e.x?"<i>↗</i>":""}</a>`).join("")
-      :`<div class="hs-none">No results for “${esc(q.value.trim())}”</div>`;
+    // last row: every job with this word, from our own cards and the live job feeds (the Search Jobs page)
+    const all=`<a class="hs-all" href="${UA_BASE}jobs.html?q=${encodeURIComponent(q.value.trim())}"><span class="hs-k k-job">Search</span><span class="hs-t"><b>Search all jobs for “${esc(q.value.trim())}”</b><small>Our jobs and live jobs from job sites, all countries</small></span><i>→</i></a>`;
+    res.innerHTML=(hits.length?hits.map(({e})=>`<a href="${esc(e.u)}"${e.x?' target="_blank" rel="noopener"':""}><span class="hs-k k-${esc(e.k.replace(/\s+/g,"-").toLowerCase())}">${esc(e.k)}</span><span class="hs-t"><b>${esc(e.t)}</b><small>${esc(e.d)}</small></span>${e.x?"<i>↗</i>":""}</a>`).join("")
+      :"")+all;
     res.hidden=false;
   }
   q.addEventListener("focus",()=>load().then(run));
   q.addEventListener("input",()=>load().then(run));
   q.addEventListener("keydown",e=>{
     const links=[...res.querySelectorAll("a")];const i=links.indexOf(document.activeElement);
-    if(e.key==="Enter"&&links[0]){e.preventDefault();links[0].click();}
+    if(e.key==="Enter"&&links[0]){e.preventDefault();(res.querySelector("a.hs-all")||links[0]).click();}
     if(e.key==="ArrowDown"&&links[0]){e.preventDefault();links[0].focus();}
     if(e.key==="Escape"){res.hidden=true;q.blur();}
   });

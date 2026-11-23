@@ -114,10 +114,40 @@
     status.hidden = true; if (!above) clearOwnEmpty(); };
   { const s = document.createElement("script"); s.src = "cjbox.js?v=6"; s.onload = () => { if (cjArgs) cjShow(...cjArgs); }; document.head.appendChild(s); }
 
+  // "All countries" with a keyword: our own cards, then WhatJobs jobs from several countries at once, then the Careerjet box.
+  // WhatJobs has one feed per country, so the visitor's own country is asked first (its clicks are the ones that count for us)
+  // and the list below fills up the rest. Eight feeds at most, one page each, so a search stays quick.
+  const ALL_CCS = ["uk", "ca", "ae", "de", "in", "za", "eg", "nl", "es", "ph"];
+  const visitorCc = () => new Promise((ok) => {
+    if (window.UHVisitor !== undefined) return ok(window.UHVisitor ? UHVisitor.cc : "");
+    const sc = document.createElement("script"); sc.src = "next-step.js?v=9"; sc.onload = () => ok(window.UHVisitor ? UHVisitor.cc : ""); sc.onerror = () => ok(""); document.head.appendChild(sc);
+  });
+  async function liveAll(kw) {
+    const my = ++seq; page = 1; wjPage = 1; wjDone = true; total = 0; shown = 0; list.innerHTML = "";
+    const phrase = kw.toLowerCase().replace(/\s+/g, " ").trim();
+    const h = vhHits("all", phrase); if (h.length) { list.innerHTML = h.join(""); shown = h.length; }
+    wrap.hidden = false; status.hidden = false; status.className = "js-bar"; status.textContent = "Loading live jobs in all countries…"; more.hidden = true;
+    if (window.UHCj && cjArgs && cjArgs[1] !== kw) UHCj.hide();
+    const v = await visitorCc(); if (my !== seq) return;
+    const ccs = [...new Set([v].concat(ALL_CCS).filter((c) => c && UHWJF.has(c)))].slice(0, 8);
+    const exact = (j) => clean(j.title).toLowerCase().replace(/\s+/g, " ").includes(phrase);
+    const res = await Promise.all(ccs.map((c) => UHWJF.fetch(c, kw, null, 1).then((d) => (d.jobs || []).filter(exact)).catch(() => [])));
+    if (my !== seq) return;
+    // one job from each country in turn, so no single country fills the list
+    const out = []; for (let i = 0; out.length < 60; i++) { let any = false; res.forEach((r) => { if (r[i] && out.length < 60) { out.push(r[i]); any = true; } }); if (!any) break; }
+    list.insertAdjacentHTML("beforeend", out.map((j, i) => card(j, shown + i)).join("")); shown += out.length;
+    if (shown) clearOwnEmpty();
+    status.hidden = !!shown;
+    if (!shown) { status.className = "js-bar empty"; status.innerHTML = `No live jobs for <b>${esc(kw)}</b> right now. Try a shorter keyword or pick a country.`; }
+    try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "live-jobs/all", title: "Live jobs all countries", event: true }); } catch (e) {}
+    cjShow(v && v !== "us" && ["ca", "uk", "eg", "ae", "sa", "qa", "kw", "bh", "om", "de", "fr", "nl", "be", "ie", "es", "pt", "gr", "za", "ke", "ug", "ng", "in"].includes(v) ? v : "us", kw, "");
+  }
+
   let ran = false; // a search has been started
   async function live(reset, tries = 0) {
     ran = true;
     const country = sel.value, raw = box.value.trim();
+    if (country === "all" && raw && window.UHWJF) return liveAll(raw);
     const place = findPlace(raw), here = place && place.country === country;
     const kw = here ? place.kw : raw;          // keyword without the place name
     const city = here ? place.city : "";       // "" when only a country was typed
