@@ -50,7 +50,7 @@ Example title pages follow the pattern https://uhirable.com/{title}-jobs-in-{cit
 - [Career Boost](https://uhirable.com/career-boost.html): free AI tools for job seekers
 
 ## For companies
-- [Hire Talent](https://uhirable.com/employer.html): recruiting support for companies
+- [Post a Job](https://uhirable.com/post-a-job.html): employers list a job for free; candidates apply to the employer directly
 - [Hiring Partners](https://uhirable.com/partners.html): EOR, payroll, staffing and recruiting tools
 
 ## More

@@ -29,7 +29,10 @@ function render(){
   grid.innerHTML=list.map(card).join("");
 }
 if(one){document.querySelector(".ev-bar").style.display="none";grid.classList.add("single");
-  grid.insertAdjacentHTML("afterend",'<div style="text-align:center"><a class="backall" href="events.html">← See all hiring events</a></div>');}
+  grid.insertAdjacentHTML("afterend",'<div style="text-align:center"><a class="backall" href="events.html">← See all hiring events</a></div>');
+  // On an event for companies and HR teams: a short block for employers (post a job for free, or browse candidates).
+  const cur=EVENTS.find(e=>slug(e.name)===one);
+  if(cur&&cur.audience!=="seekers") document.querySelector(".ev-wrap").insertAdjacentHTML("afterend",'<section class="container" style="max-width:760px;margin:26px auto 40px"><div style="background:#0b1170;border-radius:22px;padding:24px 22px;color:#fff;box-shadow:0 14px 34px rgba(5,11,63,.28)"><span style="display:inline-block;background:#ffc93c;color:#0b1170;font-weight:800;font-size:.72rem;letter-spacing:.08em;border-radius:999px;padding:4px 10px">FOR EMPLOYERS</span><h2 style="color:#fff;font-size:1.35rem;margin:12px 0 6px">Hiring right now?</h2><p style="margin:0 0 16px;color:#dfe2ff;line-height:1.55">Post your job on U Hirable for free, or browse candidates who are open to work.</p><div style="display:flex;gap:10px;flex-wrap:wrap"><a href="post-a-job.html" style="flex:1 1 200px;text-align:center;background:#ffc93c;color:#0b1170;font-weight:800;border-radius:12px;padding:12px 16px;text-decoration:none">Post a job for free</a><a href="open-to-work.html" style="flex:1 1 200px;text-align:center;border:1.5px solid rgba(255,255,255,.55);color:#fff;font-weight:700;border-radius:12px;padding:12px 16px;text-decoration:none">Browse candidates</a></div></div></section>');}
 sel.addEventListener("change",render);
 document.addEventListener("click",ev=>{const b=ev.target.closest(".ev .cp");if(b){try{navigator.clipboard.writeText(b.dataset.u)}catch(e){};b.style.background="#08a35a";}});
 render();

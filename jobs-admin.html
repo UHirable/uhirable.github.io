@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Job posts review | U Hirable</title>
+  <link rel="icon" href="favicon.png">
+  <style>
+    body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif;background:#f4f6ff;color:#0d1240}
+    .wrap{max-width:860px;margin:0 auto;padding:22px 16px 60px}
+    h1{font-size:1.4rem;margin:0 0 14px}
+    .box{background:#fff;border:1px solid #dde1ff;border-radius:18px;padding:18px;margin:0 0 14px}
+    input[type=password]{width:100%;box-sizing:border-box;padding:12px 14px;border-radius:12px;border:1.5px solid #cfd6ff;font:inherit;margin:8px 0 12px}
+    button{font:inherit;font-weight:700;border:0;border-radius:12px;height:42px;padding:0 16px;cursor:pointer}
+    .p{background:#0112ff;color:#fff}.g{background:#e6f7ee;color:#0b5c36}.r{background:#fcebeb;color:#791f1f}.q{background:#eef0ff;color:#0112ff}
+    .tabs{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 14px}.tabs button.on{background:#0d1240;color:#fff}
+    .row{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;align-items:flex-start}
+    .n{font-weight:800;font-size:1.05rem;margin:0}.m{margin:2px 0;color:#5b6290;font-size:.9rem}
+    .s{white-space:pre-line;overflow-wrap:anywhere;line-height:1.55;margin:10px 0}
+    .st{font-size:.75rem;font-weight:800;padding:4px 10px;border-radius:999px}
+    .pending{background:#fff3cf;color:#6b4a00}.expired{background:#eceef5;color:#4a4f6b}.approved{background:#e6f7ee;color:#0b5c36}.rejected{background:#fcebeb;color:#791f1f}
+    .acts{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+    #err{color:#791f1f;font-weight:700}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Job posts review</h1>
+  <div class="box" id="login">
+    <label for="pw"><b>Review password</b></label>
+    <input type="password" id="pw" autocomplete="current-password">
+    <button class="p" id="go">Open</button>
+    <p id="err" hidden></p>
+  </div>
+  <div id="app" hidden>
+    <div class="tabs" id="tabs"></div>
+    <div id="rows"></div>
+  </div>
+</div>
+<script>
+(() => {
+  const $ = (s) => document.querySelector(s);
+  const esc = (t) => String(t == null ? "" : t).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  // The password is kept only in this tab's memory and is sent with each request; it is never saved in the browser.
+  let pw = "", all = [], tab = "pending";
+  const call = async (action, id) => {
+    const r = await fetch("/api/jobpost/admin", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ password: pw, action, id }) });
+    const d = await r.json().catch(() => ({}));
+    if (!r.ok) throw new Error(d.error || "Something went wrong.");
+    all = d.jobs || []; draw();
+  };
+  const draw = () => {
+    const n = (s) => all.filter((t) => t.status === s).length;
+    $("#tabs").innerHTML = [["pending", "Waiting"], ["approved", "Live"], ["expired", "Expired"], ["rejected", "Rejected"]].map(([k, l]) => `<button class="q ${tab === k ? "on" : ""}" data-tab="${k}">${l} (${n(k)})</button>`).join("");
+    const rows = all.filter((t) => t.status === tab);
+    $("#rows").innerHTML = rows.length ? rows.map((t) => `<div class="box"><div class="row"><div><p class="n">${esc(t.title)}</p><p class="m">${esc(t.company)}${t.website ? ` · <a href="${esc(t.website)}" target="_blank" rel="noopener noreferrer">${esc(t.website)}</a>` : ""}</p>
+      <p class="m">${esc([t.city, t.country].filter(Boolean).join(", "))} · ${esc(t.workplace)} · ${esc(t.type)}${t.salary ? " · " + esc(t.salary) : ""}</p>
+      <p class="m">Candidates apply by: ${t.applyUrl ? `<a href="${esc(t.applyUrl)}" target="_blank" rel="noopener noreferrer">${esc(t.applyUrl)}</a>` : esc(t.applyEmail)}</p>
+      <p class="m">Sent by: ${esc(t.contactEmail)}</p>${t.status === "approved" ? `<p class="m"><a href="/job-post-${esc(t.id)}.html" target="_blank" rel="noopener">Open the live page</a> · listed until ${esc(t.expires)}</p>` : ""}</div><div><span class="st ${t.status}">${t.status}</span><p class="m">Sent ${esc(t.created)}</p></div></div>
+      <p class="s">${esc(t.description)}</p><div class="acts">${t.status !== "approved" ? `<button class="g" data-act="approve" data-id="${esc(t.id)}">${t.status === "expired" ? "List for 30 more days" : "Approve"}</button>` : ""}${t.status !== "rejected" ? `<button class="r" data-act="reject" data-id="${esc(t.id)}">${t.status === "approved" ? "Take down" : "Reject"}</button>` : ""}<button class="q" data-act="delete" data-id="${esc(t.id)}">Delete for good</button></div></div>`).join("") : '<div class="box">Nothing here.</div>';
+  };
+  const open = async () => { pw = $("#pw").value; $("#err").hidden = true;
+    try { await call("list"); $("#login").hidden = true; $("#app").hidden = false; $("#pw").value = ""; }
+    catch (e) { $("#err").hidden = false; $("#err").textContent = e.message; } };
+  $("#go").addEventListener("click", open);
+  $("#pw").addEventListener("keydown", (e) => { if (e.key === "Enter") open(); });
+  document.addEventListener("click", async (e) => {
+    const t = e.target.closest("[data-tab]"); if (t) { tab = t.dataset.tab; return draw(); }
+    const a = e.target.closest("[data-act]"); if (!a) return;
+    if (a.dataset.act === "delete" && a.dataset.sure !== "1") { a.dataset.sure = "1"; a.textContent = "Press again to delete"; return; }
+    a.disabled = true;
+    try { await call(a.dataset.act, a.dataset.id); } catch (x) { a.disabled = false; a.textContent = x.message; }
+  });
+})();
+</script>
+</body>
+</html>

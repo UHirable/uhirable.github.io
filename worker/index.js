@@ -8,11 +8,14 @@
 //   /cv-match, /jobs         -> permanent redirect to /cv-match.html, /jobs.html when that page exists
 //   /api/talent...           -> the Open to Work profiles (worker/talent.js)
 //   /open-to-work.html       -> the page, with the approved profile cards written into it
+//   /api/jobpost...          -> free job posts sent by employers (worker/jobpost.js)
+//   /job-post-<id>.html      -> an approved job post's own page; /sitemap-jobs.xml lists them
 //   removed list pages       -> permanent redirect to the nearest page that still exists (see removedPage)
 //   anything else            -> the site's 404 page, with a real 404 status
 
 import { talentApi, talentPage } from "./talent.js";
 import { applyApi } from "./apply.js";
+import { jobPostApi, jobPostPage, jobPostSitemap } from "./jobpost.js";
 
 // Same address as the request, with another path and no query string.
 function at(url, path) {
@@ -45,6 +48,8 @@ const UK_CARE = "/care-homes-with-visa-sponsorship-uk.html";
 const UK_REMOVED = new Set(["care-homes", "nhs-hospitals", "universities", "schools-colleges", "technology", "hotels", "restaurants",
   "pharmacies", "dental-practices", "law-firms", "accountants", "engineering", "construction", "sports-clubs"]);
 function removedPage(path) {
+  // "Hire Talent" became the free "Post a Job" page.
+  if (path === "/employer.html") return ["/post-a-job.html"];
   // Care home pages (the main one and one per city) go to the guide that answers the same search.
   if (/^\/uk-visa-sponsors-care-homes(-[a-z0-9-]+)?\.html$/.test(path)) return [UK_CARE, UK_HUB];
   let m = path.match(/^\/uk-visa-sponsors-([a-z0-9-]+)\.html$/);
@@ -71,6 +76,18 @@ export default {
     if (path === "/api/apply" || path.startsWith("/api/apply/")) {
       try { return await applyApi(request, env, url, ctx); }
       catch (e) { return new Response(JSON.stringify({ error: "Something went wrong. Please try again." }), { status: 500, headers: { "content-type": "application/json" } }); }
+    }
+
+    if (path === "/api/jobpost" || path.startsWith("/api/jobpost/")) {
+      try { return await jobPostApi(request, env, url, ctx); }
+      catch (e) { return new Response(JSON.stringify({ error: "Something went wrong. Please try again." }), { status: 500, headers: { "content-type": "application/json" } }); }
+    }
+    if (path === "/sitemap-jobs.xml") return jobPostSitemap(env);
+    // An approved job post's page. A job that is not live (never approved, taken down, or older than 30 days) falls through to the 404 page.
+    const posted = path.match(/^\/job-post-([a-z0-9-]{3,90})\.html$/);
+    if (posted) {
+      const page = await jobPostPage(request, env, url, posted[1]).catch(() => null);
+      if (page) return page;
     }
 
     if (path === "/api/talent" || path.startsWith("/api/talent/")) {

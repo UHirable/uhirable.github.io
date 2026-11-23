@@ -126,6 +126,14 @@ const jobApply = (j) => {
   }
   return link;
 };
+// A free job post sent by an employer (worker/jobpost.js), in the same shape as the jobs in jobs.js.
+const postedJob = (p, note) => {
+  const flat = String(p.description || "").replace(/\s+/g, " ").trim();
+  return { id: p.id, page: "job-post-" + p.id + ".html", posted: true, title: p.title, company: p.company, countries: [p.country],
+    location: p.workplace === "Remote" ? "" : [p.city, p.country].filter(Boolean).join(", "), tags: [p.workplace, p.type].filter(Boolean),
+    brief: flat.slice(0, 170) + (flat.length > 170 ? "…" : ""), overview: p.description, compensation: p.salary || "", eligibility: note || "",
+    applyLink: p.applyUrl || ("mailto:" + p.applyEmail + "?subject=" + encodeURIComponent("Application: " + p.title)) };
+};
 const FLAG_CODES = {
   "United States": "us", "Canada": "ca", "United Kingdom": "gb", "Germany": "de", "Egypt": "eg",
   "Saudi Arabia": "sa", "UAE": "ae", "United Arab Emirates": "ae", "Jordan": "jo", "Lebanon": "lb",
@@ -267,6 +275,17 @@ if (list && typeof JOBS !== "undefined") {
   countrySelect.addEventListener("change", render);
   searchBox.addEventListener("input", render);
   render();
+
+  // Free job posts sent by employers and approved by U Hirable: added to the same list, after our own jobs.
+  fetch("/api/jobpost").then((r) => (r.ok ? r.json() : null)).then((d) => {
+    if (!d || !Array.isArray(d.jobs) || !d.jobs.length) return;
+    d.jobs.forEach((p) => {
+      if (JOBS.some((j) => j.id === p.id)) return;
+      JOBS.push(postedJob(p, d.note));
+      if (p.country && ![...countrySelect.options].some((o) => o.value === p.country)) { const o = document.createElement("option"); o.value = o.textContent = p.country; countrySelect.appendChild(o); }
+    });
+    render();
+  }).catch(() => {});
 }
 
 // ---------- "Similar live jobs" block under a job (uses cvjobs.js: WhatJobs, Jooble) ----------
@@ -293,9 +312,11 @@ function addSimilarJobs(title, countries) {
 
 // ---------- Single job page (job.html) ----------
 const jobContent = document.getElementById("job-content");
-if (jobContent && typeof JOBS !== "undefined") {
+// On an employer's job post (/job-post-<id>.html) the job comes from the page itself (window.POSTED_JOB), not from jobs.js.
+const POSTED = window.POSTED_JOB ? postedJob(window.POSTED_JOB, window.POSTED_NOTE) : null;
+if (jobContent && (POSTED || typeof JOBS !== "undefined")) {
   const id = window.JOB_ID || new URLSearchParams(location.search).get("id");
-  const j = JOBS.find((x) => jobId(x) === id);
+  const j = POSTED || JOBS.find((x) => jobId(x) === id);
 
   if (!j) {
     document.getElementById("job-title").textContent = "This position has been filled";
@@ -304,7 +325,7 @@ if (jobContent && typeof JOBS !== "undefined") {
       `<div class="panel" style="text-align:center"><a class="btn btn-primary" href="${UA_BASE}jobs.html">See all open jobs</a></div>`;
     addSimilarJobs("");
   } else {
-    if (!window.JOB_ID) document.title = `${j.title} – U Hirable`;
+    if (!window.JOB_ID && !POSTED) document.title = `${j.title} – U Hirable`;
     document.getElementById("job-title").textContent = j.title;
     document.getElementById("job-meta").textContent = [j.company, j.industry].filter(Boolean).join(" · ");
     document.getElementById("job-chips").innerHTML = jobChips(j);
@@ -330,7 +351,7 @@ if (jobContent && typeof JOBS !== "undefined") {
     });
 
     jobContent.innerHTML =
-      eligHTML(j) + `<h2>Role overview</h2><p>${escapeHTML(j.overview || j.brief || "")}</p>` +
+      eligHTML(j) + `<h2>Role overview</h2><p${j.posted ? ' style="white-space:pre-line"' : ""}>${escapeHTML(j.overview || j.brief || "")}</p>` +
       (j.compensation ? `<h2>Compensation</h2><p>${escapeHTML(j.compensation)}</p>` : "") +
       list("Key responsibilities", j.responsibilities) +
       (arr(j.responsibilityGroups).length
@@ -345,6 +366,10 @@ if (jobContent && typeof JOBS !== "undefined") {
     if (j.matchNote) {
       const p = document.querySelector(".apply-card > p");
       if (p) p.textContent = MATCH_NOTE;
+    }
+    if (j.posted) {
+      const p = document.querySelector(".apply-card > p");
+      if (p) p.textContent = "Apply directly with the employer. U Hirable does not take part in the hiring.";
     }
     addSimilarJobs(j.title, j.countries);
   }
@@ -367,7 +392,7 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
   const q=document.getElementById("hs-q"),res=document.getElementById("hs-res");
   if(!q)return;
   let loading=null;
-  const load=()=>loading||(loading=new Promise(r=>{if(window.SEARCH_INDEX)return r();const s=document.createElement("script");s.src=UA_BASE+"search-index.js?v=25";s.onload=r;s.onerror=r;document.head.appendChild(s);}));
+  const load=()=>loading||(loading=new Promise(r=>{if(window.SEARCH_INDEX)return r();const s=document.createElement("script");s.src=UA_BASE+"search-index.js?v=26";s.onload=r;s.onerror=r;document.head.appendChild(s);}));
   const esc=(s="")=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const norm=s=>String(s).toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g,"");
   const ORDER={"Page":0,"Job":1,"CV Tool":2,"Career Tool":3,"Hiring Partner":4,"Job Site":5,"Event":6};
@@ -420,7 +445,7 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
   chips.addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) ask(b.textContent); });
   const L = (t, u) => `<a href="${/^https?:/.test(u) ? u : UA_BASE + u}">${t}</a>`;
   let idx = null, loading = null;
-  const loadIdx = () => loading || (loading = new Promise((r) => { if (window.SEARCH_INDEX) { idx = window.SEARCH_INDEX; return r(); } const s = document.createElement("script"); s.src = UA_BASE + "search-index.js?v=25"; s.onload = () => { idx = window.SEARCH_INDEX || []; r(); }; s.onerror = r; document.head.appendChild(s); }));
+  const loadIdx = () => loading || (loading = new Promise((r) => { if (window.SEARCH_INDEX) { idx = window.SEARCH_INDEX; return r(); } const s = document.createElement("script"); s.src = UA_BASE + "search-index.js?v=26"; s.onload = () => { idx = window.SEARCH_INDEX || []; r(); }; s.onerror = r; document.head.appendChild(s); }));
   const find = (words, kinds, n) => (idx || []).filter((e) => (!kinds || kinds.includes(e.k)) && words.some((w) => (e.t + " " + e.d).toLowerCase().includes(w))).slice(0, n || 5);
   const list = (items) => items.length ? "<ul>" + items.map((e) => `<li>${L(escapeHTML(e.t), e.u)}${e.d ? " <small>· " + escapeHTML(e.d) + "</small>" : ""}</li>`).join("") + "</ul>" : "";
   const COUNTRIES = ["egypt", "uae", "dubai", "saudi", "riyadh", "qatar", "kuwait", "bahrain", "oman", "jordan", "morocco", "tunisia", "nigeria", "kenya", "south africa", "united states", "usa", "us", "canada", "uk", "united kingdom", "london", "ireland", "germany", "france", "netherlands", "spain", "portugal", "poland", "italy", "india", "pakistan", "singapore", "australia", "japan", "korea", "china", "philippines", "thailand", "indonesia", "brazil", "mexico", "europe", "gulf", "africa", "asia", "remote"];
@@ -436,7 +461,7 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
     if (has("remote", "work from home", "wfh", "anywhere", "ريموت", "من البيت", "عن بعد", "اونلاين", "اون لاين", "من المنزل")) return (ar ? "كل الوظايف الريموت هنا، وكل وظيفة مكتوب عليها الدول المسموح تقدّم منها: " : "All fully remote roles are here, each showing the countries you can apply from: ") + L(ar ? "وظايف ريموت" : "Remote jobs", "remote-jobs.html") + "<br>" + (ar ? "وكمان مواقع الوظايف الريموت: " : "More remote job sites: ") + L(ar ? "مواقع الوظايف الريموت" : "Job Sites → Remote", "job-sites.html");
     if (has("cv", "resume", "ats", "cover letter", "سي في", "سيره", "سيفي", "cv ", "الcv", "ريزومي")) return (ar ? "أدوات مجانية تبني بيها السي في وتتأكد إنه يعدّي الـ ATS (كل أداة مكتوب عليها إيه المجاني فيها): " : "Free tools to build your CV and check it passes ATS filters (each one shows what's free): ") + L(ar ? "أدوات السي في" : "CV Tools", "cv-tools.html") + (ar ? "<br>وعايز تعرف لو السي في مناسب لوظيفة معينة؟ " + L("CV Match Checker", "cv-match.html") + " بيقولك في 30 ثانية.<br>أو ارفع السي في هنا من 📎 وهطابقه بالوظايف المفتوحة.<br>نصيحة: خلي أول تلت في السي في مطابق لعنوان الوظيفة وكلماتها." : "<br>Checking your CV against one job ad? Use the " + L("CV Match Checker", "cv-match.html") + " (30 seconds).<br>Or upload your CV here with the 📎 clip and I'll match it to open roles.<br>Tip: match the top third of your CV to the job title and keywords.");
     if (has("linkedin", "profile", "لينكد", "بروفايل")) return (ar ? "عشان الريكروترز يلاقوك على لينكدإن: حط عنوان واضح فيه الوظيفة اللي بتدور عليها، وفعّل Open to Work، وانشر مرة في الأسبوع. وتابع " : "To get found by recruiters on LinkedIn: use a clear headline with the role you want, turn on Open to Work, and post once a week. Also follow ") + L(ar ? "U Hirable على لينكدإن" : "U Hirable on LinkedIn", "https://www.linkedin.com/company/uhirable") + (ar ? " عشان الوظايف الأسبوعية." : " for weekly roles.");
-    if (has("hire", "recruit", "post a job", "employer", "candidates", "توظيف", "اوظف", "محتاج موظف", "عاوز موظف", "عايز موظف", "مرشحين")) return (ar ? "عايز توظف؟ قولنا عن الوظيفة وهنلاقيلك الناس المناسبة: " : "Hiring? Tell us about the role and we'll find the right people: ") + L(ar ? "وظّف معانا" : "Hire Talent", "employer.html") + "<br>" + (ar ? "وأدوات التوظيف والرواتب بعروض خاصة: " : "Hiring, payroll and EOR tools with exclusive perks: ") + L(ar ? "شركاء التوظيف" : "Hiring Partners", "partners.html");
+    if (has("hire", "recruit", "post a job", "employer", "candidates", "توظيف", "اوظف", "محتاج موظف", "عاوز موظف", "عايز موظف", "مرشحين")) return (ar ? "عايز توظف؟ انشر وظيفتك مجاناً، والمتقدمين يبعتولك مباشرة: " : "Hiring? Post your job for free. Candidates apply to you directly: ") + L(ar ? "انشر وظيفة مجاناً" : "Post a Job", "post-a-job.html") + "<br>" + (ar ? "وأدوات التوظيف والرواتب بعروض خاصة: " : "Hiring, payroll and EOR tools with exclusive perks: ") + L(ar ? "شركاء التوظيف" : "Hiring Partners", "partners.html");
     if (has("partner", "payroll", "eor", "oyster", "staffing", "ats software", "crm")) return "Hiring tools with exclusive perks (EOR, payroll, staffing, recruiting software): " + L("Hiring Partners", "partners.html");
     if (has("event", "conference", "fair", "summit", "معرض", "مؤتمر", "فعاليات", "ايفنت")) return (ar ? "فعاليات التوظيف ومعارض الوظايف ومؤتمرات الـ HR حوالين العالم: " : "Hiring events, career fairs and HR conferences around the world: ") + L(ar ? "الفعاليات" : "Events", "events.html");
     if (has("newsletter", "subscribe", "shortlist", "نشره", "نيوزليتر")) return (ar ? "نشرتنا الأسبوعية اسمها The Shortlist على لينكدإن: " : "Our weekly newsletter is The Shortlist, on LinkedIn: ") + L(ar ? "U Hirable على لينكدإن" : "U Hirable on LinkedIn", "https://www.linkedin.com/company/uhirable") + (ar ? ". كل عدد فيه أدوات مجانية ونصايح سي في ومين يقدر يقدّم فعلًا." : ". Each issue: free tools, CV tips and who can actually apply.");
