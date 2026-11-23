@@ -1762,7 +1762,7 @@ textarea { resize: vertical; }
 .hj-row{padding-bottom:12px}
 @media(max-width:700px){.hj-strip{padding:30px 14px 6px}.hj-tabs{top:-17px}.hj-head h2{font-size:1.3rem}.hj-head .meta{font-size:.92rem}.hj-note{font-size:.88rem}.hj-tab{font-size:.78rem;padding:6px 8px}.hj-card{flex-basis:215px;min-height:124px}.hj-card b{font-size:.98rem}.hj-loc{font-size:.88rem}.hj-sal{font-size:.88rem}.btn.hj-btn{font-size:.94rem;padding:10px 14px}.hj-cat{font-size:.76rem;padding:3px 8px}.hj-more{font-size:.8rem}}
 
-/* home footer: "Join the community" pill, same size as the Product Hunt pill and right under it */
+/* footer: "Join the community" pill next to the WhatsApp icon, same size as the Product Hunt pill under it */
 .ph-stack{display:inline-grid;gap:8px}
 .fbrand .socials:has(.ph-stack){align-items:flex-start}
 .ph-mini.wa-join{background:#25d366;color:#fff!important;box-sizing:border-box;width:0;min-width:100%;min-height:36px;justify-content:center;gap:5px;padding:7px 8px;font-size:.7rem}
