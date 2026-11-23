@@ -199,7 +199,9 @@ function fillRemotive() {
   const ww = row.hasAttribute("data-worldwide-first"), key = RM_CACHE_KEY + (ww ? "-ww" : "");
   const isWW = (j) => (/^\s*worldwide\s*$/i.test(j.candidate_required_location || "") ? 1 : 0);
   const paint = (jobs) => {
-    const seen = new Set(), one = jobs.filter((j) => !seen.has(j.id) && seen.add(j.id));
+    // Employers we could not vouch for are left out of the strip.
+    const skip = /^\s*iapwe\s*$/i;
+    const seen = new Set(), one = jobs.filter((j) => !skip.test(j.company_name || "") && !seen.has(j.id) && seen.add(j.id));
     row.innerHTML = (ww ? one.filter(isWW).concat(one.filter((j) => !isWW(j))) : one).slice(0, 12).map(rmCard).join("");
   };
   try {
