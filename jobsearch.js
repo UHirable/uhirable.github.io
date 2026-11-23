@@ -22,7 +22,7 @@
   const cin = $("#country-input"), cdl = $("#country-list");
   const optName = (o) => o.textContent.replace(/^[^A-Za-z]+/, "").trim();
   const fillList = () => { if (!cdl) return; cdl.innerHTML = [...sel.options].map((o) => `<option value="${esc(optName(o))}"></option>`).join(""); };
-  const showSel = () => { if (cin && document.activeElement !== cin) { const o = sel.options[sel.selectedIndex]; cin.value = o && o.value !== "all" ? optName(o) : ""; } };
+  const showSel = () => { if (cin && document.activeElement !== cin) { const o = sel.options[sel.selectedIndex]; cin.value = o ? optName(o) : ""; } };
   if (cin) {
     fillList(); new MutationObserver(fillList).observe(sel, { childList: true });
     const pick = () => { const t = cin.value.trim().toLowerCase(); if (!t) { if (sel.value !== "all") { sel.value = "all"; sel.dispatchEvent(new Event("change")); } return; }
@@ -34,6 +34,7 @@
     cin.addEventListener("focus", () => { if (cin.value) { cin.placeholder = cin.value; cin.value = ""; } });
     cin.addEventListener("blur", () => setTimeout(() => { cin.placeholder = PH; showSel(); }, 0));
     sel.addEventListener("change", showSel);
+    showSel(); // the box starts on "All countries"
   }
 
   // Place names typed in the search box ("nurse london", "accountant dubai") pick the country automatically.
