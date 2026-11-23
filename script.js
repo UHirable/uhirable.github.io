@@ -195,16 +195,22 @@ function rmCard(j) {
 function fillRemotive() {
   const row = document.getElementById("rm-row");
   if (!row) return;
-  const paint = (jobs) => { row.innerHTML = jobs.slice(0, 12).map(rmCard).join(""); };
+  // On the Remote Jobs page (data-worldwide-first) the jobs open to any country come first, then the rest.
+  const ww = row.hasAttribute("data-worldwide-first"), key = RM_CACHE_KEY + (ww ? "-ww" : "");
+  const isWW = (j) => (/^\s*worldwide\s*$/i.test(j.candidate_required_location || "") ? 1 : 0);
+  const paint = (jobs) => {
+    const seen = new Set(), one = jobs.filter((j) => !seen.has(j.id) && seen.add(j.id));
+    row.innerHTML = (ww ? one.filter(isWW).concat(one.filter((j) => !isWW(j))) : one).slice(0, 12).map(rmCard).join("");
+  };
   try {
-    const c = JSON.parse(sessionStorage.getItem(RM_CACHE_KEY) || "null");
+    const c = JSON.parse(sessionStorage.getItem(key) || "null");
     if (c && Date.now() - c.t < 6 * 3600e3 && c.jobs.length) { paint(c.jobs); return; }
   } catch {}
-  fetch("https://remotive.com/api/remote-jobs?limit=12").then((r) => r.json()).then((d) => {
+  fetch("https://remotive.com/api/remote-jobs?limit=" + (ww ? 50 : 12)).then((r) => r.json()).then((d) => {
     const jobs = (d && d.jobs) || [];
     if (!jobs.length) throw new Error("empty");
     paint(jobs);
-    try { sessionStorage.setItem(RM_CACHE_KEY, JSON.stringify({ t: Date.now(), jobs })); } catch {}
+    try { sessionStorage.setItem(key, JSON.stringify({ t: Date.now(), jobs: jobs.map((j) => ({ ...j, description: "" })) })); } catch {}
   }).catch(() => {
     row.innerHTML = `<p class="rm-loading">Hand-picked remote jobs at tech companies, updated every day. Work from anywhere.</p>`;
   });
