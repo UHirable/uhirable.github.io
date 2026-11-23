@@ -50,7 +50,7 @@ function readForm(b) {
   const rawSite = String(b.website || "").trim(), rawApply = String(b.applyUrl || "").trim();
   const website = rawSite ? webLink(rawSite) : "", applyUrl = rawApply ? webLink(rawApply) : "";
   if (company.length < 2) return { error: "Enter your company name." };
-  if (rawSite && !website) return { error: "Enter your company website as a full link, like https://company.com" };
+  if (rawSite && !website) return { error: "The company website is not a valid link. Write it like https://company.com, or leave it empty." };
   if (!isEmail(contactEmail)) return { error: "Enter your work email." };
   if (title.length < 3) return { error: "Enter the job title." };
   if (country.length < 2) return { error: "Enter the country." };
@@ -58,8 +58,8 @@ function readForm(b) {
   if (workplace !== "Remote" && city.length < 2) return { error: "Enter the city." };
   if (!type) return { error: "Choose the job type." };
   if (description.length < 150) return { error: "Write a job description of at least 150 characters." };
-  if (rawApply && !applyUrl) return { error: "Enter the application link as a full link, like https://company.com/careers" };
-  if (applyEmail && !isEmail(applyEmail)) return { error: "Check the application email." };
+  if (rawApply && !applyUrl) return { error: "The application link is not a valid link. Write it like https://company.com/careers, or leave it empty and use an email." };
+  if (applyEmail && !isEmail(applyEmail)) return { error: "The application email is not a valid email address. Write it like jobs@company.com, or leave it empty and use a link." };
   if (!applyUrl && !applyEmail) return { error: "Add an application link or an application email." };
   if (b.agree !== true) return { error: "Tick the box to agree before you post." };
   return { row: { company, website, contactEmail, title, country, city, workplace, type, description, salary, applyUrl, applyEmail } };

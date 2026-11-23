@@ -9,19 +9,31 @@
   window.pjTsReady = () => { widget = turnstile.render("#ap-ts", { sitekey: SITE_KEY }); };
   const s = document.createElement("script"); s.src = "https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit&onload=pjTsReady"; s.async = true; document.head.appendChild(s);
 
-  const say = (t) => { msg.hidden = false; msg.textContent = t; msg.scrollIntoView({ block: "center", behavior: "smooth" }); };
+  // Shows the message and, when a field is named, takes the employer to that field.
+  const say = (t, field) => { msg.hidden = false; msg.textContent = t;
+    const el = field && form.elements[field];
+    if (el && el.focus) { el.focus({ preventScroll: true }); el.scrollIntoView({ block: "center", behavior: "smooth" }); } else msg.scrollIntoView({ block: "center", behavior: "smooth" }); };
+  const isEmail = (v) => /^[^\s@<>"',;]+@[^\s@<>"',;]+\.[a-z]{2,}$/i.test(v);
+  const isLink = (v) => { try { const u = new URL(/^[a-z][a-z0-9+.-]*:/i.test(v) ? v : "https://" + v); return /^https?:$/.test(u.protocol) && /\.[a-z]{2,}$/i.test(u.hostname); } catch (e) { return false; } };
   form.addEventListener("submit", async (e) => {
     e.preventDefault();
     const d = new FormData(form), v = (k) => String(d.get(k) || "").trim();
     const body = { company: v("company"), website: v("website"), contactEmail: v("contactEmail"), title: v("title"), country: v("country"), city: v("city"),
       workplace: v("workplace"), type: v("type"), description: v("description"), salary: v("salary"), applyUrl: v("applyUrl"), applyEmail: v("applyEmail"),
       fax: v("fax"), agree: form.agree.checked, token: window.turnstile && widget !== null ? turnstile.getResponse(widget) : "" };
-    if (!body.company || !body.contactEmail || !body.title || !body.country || !body.workplace) return say("Please fill in the company, your work email, the job title, the country and the workplace.");
-    if (body.workplace !== "Remote" && !body.city) return say("Please enter the city, or choose Remote.");
-    if (body.description.length < 150) return say("Please write a job description of at least 150 characters.");
-    if (!body.applyUrl && !body.applyEmail) return say("Please add an application link or an application email.");
+    if (!body.company) return say("Please enter your company name.", "company");
+    if (body.website && !isLink(body.website)) return say("The company website is not a valid link. Write it like https://company.com, or leave it empty.", "website");
+    if (!isEmail(body.contactEmail)) return say("Please enter your work email, like you@company.com.", "contactEmail");
+    if (!body.title) return say("Please enter the job title.", "title");
+    if (!body.country) return say("Please enter the country.", "country");
+    if (!body.workplace) return say("Please choose the workplace: On-site, Hybrid or Remote.");
+    if (body.workplace !== "Remote" && !body.city) return say("Please enter the city, or choose Remote.", "city");
+    if (body.description.length < 150) return say("Please write a job description of at least 150 characters. You have " + body.description.length + " so far.", "description");
+    if (!body.applyUrl && !body.applyEmail) return say("Please add an application link or an application email.", "applyUrl");
+    if (body.applyUrl && !isLink(body.applyUrl)) return say("The application link is not a valid link. Write it like https://company.com/careers, or leave it empty and use an email.", "applyUrl");
+    if (body.applyEmail && !isEmail(body.applyEmail)) return say("The application email is not a valid email address. Write it like jobs@company.com, or leave it empty and use a link.", "applyEmail");
     if (!body.agree) return say("Please tick the box to agree before you post.");
-    if (!body.token) return say("Please complete the robot check above the button.");
+    if (!body.token) return say("Please wait for the robot check above the button to finish, then press the button again.");
     btn.disabled = true; btn.textContent = "Sending…"; msg.hidden = true;
     try {
       const r = await fetch("/api/jobpost", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify(body) });

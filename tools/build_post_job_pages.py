@@ -26,7 +26,7 @@ head = f'''  <title>{TITLE}</title>
 a, n = re.subn(r'  <title>.*?</title>\s*<meta name="description"[^>]*>\s*<meta name="robots"[^>]*>', lambda m: head, a, count=1, flags=re.S)
 assert n == 1
 a = a.replace("</style>", ".ap-f select{width:100%;box-sizing:border-box;border:1.5px solid #d5d9ff;border-radius:12px;padding:11px 12px;font:inherit;font-size:1rem;color:#0b1170;background:#fff}\n"
-  "#pj-form .ap-ck{display:flex!important}#pj-form .ap-ck input{width:20px!important}\n"
+  "#pj-form .ap-ck{display:flex!important;flex-direction:row!important;align-items:flex-start}#pj-form .ap-ck input{width:20px!important;flex:0 0 20px}#pj-form .ap-ck span{flex:1}\n"
   ".ap-info{background:#eef0ff;border:1.5px solid #d5d9ff;border-radius:14px;padding:12px 14px;color:#0b1170;font-size:.92rem;line-height:1.5;margin:0 0 6px}\n"
   ".ap-terms{margin:8px 0 0;padding-left:20px;color:#0b1170;font-size:.9rem;line-height:1.6}.ap-terms li{margin:0 0 6px}\n"
   ".pj-how{max-width:680px;margin:26px auto 0;color:#0b1170}.pj-how h2{font-size:1.15rem;margin:0 0 8px}.pj-how ol{margin:0;padding-left:20px;line-height:1.7}\n</style>", 1)
@@ -71,7 +71,7 @@ FORM = '''<div class="ap-card" id="pj-box">
 a, n = re.subn(r'<div class="ap-card" id="ap-box">.*?</div></div></div>', lambda m: FORM + "</div></div>", a, count=1, flags=re.S)
 assert n == 1
 a = a.replace('<h1 id="ap-title">Apply</h1>', "<h1>Post a job for free</h1>").replace('<p id="ap-where"></p>', "<p>Reach job seekers in the US, UK, Canada, the Gulf and Egypt. No fees, no account.</p>").replace(" Application</span>", " For Employers</span>")
-a, n = re.subn(r'<script[^>]*src="apply\.js[^"]*"[^>]*></script>', '<script src="postjob.js?v=1"></script>', a)
+a, n = re.subn(r'<script[^>]*src="apply\.js[^"]*"[^>]*></script>', '<script src="postjob.js?v=2"></script>', a)
 assert n == 1, n
 write("post-a-job.html", a)
 
