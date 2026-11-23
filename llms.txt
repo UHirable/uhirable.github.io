@@ -6,7 +6,7 @@ Each "jobs in city" page shows live openings from job-search partners (updated d
 
 ## Search jobs
 - [Search Jobs](https://uhirable.com/jobs.html): live job search by keyword and country
-- [Remote Jobs](https://uhirable.com/remote-jobs.html): fully remote roles with the countries you can apply from
+- [Remote jobs open worldwide](https://uhirable.com/remote-jobs.html): remote jobs you can apply to from any country listed first, then remote roles for specific countries
 - [Get paid to train AI](https://uhirable.com/get-paid-to-train-ai.html): Mercor and Terac compared: type of work, who qualifies, countries, how you are paid
 - [Visa Sponsorship Jobs](https://uhirable.com/visa-sponsorship-jobs.html): roles that sponsor work visas
 - [Work From Home Jobs for Beginners](https://uhirable.com/work-from-home-jobs-for-beginners.html): entry-level remote roles and how to apply
