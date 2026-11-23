@@ -22,6 +22,290 @@ const ABOUT = "EliseAI builds agentic AI for housing and healthcare: $250M Serie
 
 const JOBS = [
   {
+    id: "sentilink-senior-engineering-manager-core-services",
+    page: "job-sentilink-senior-engineering-manager-core-services.html",
+    title: "Senior Engineering Manager (Core Services)",
+    company: "SentiLink",
+    industry: "Identity Verification & Fraud",
+    countries: ["United States"],
+    location: "Remote (US)",
+    tags: ["Remote", "Full-time", "$200K – $260K", "US-based only", "US citizens / Green Card"],
+    brief: "Lead the backend and platform engineering team behind SentiLink's core identity and risk products.",
+    eligibility: "Remote, US-based position. Not open to any visas: US citizens and Green Card holders only. Travel about once a quarter for company or department offsites. Relocation is offered to people who want to be near an office.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "SentiLink provides identity and risk solutions and builds identity verification for the United States through real-time APIs. The company was founded in 2017, has about 160 employees and $84M in total funding, with investors including Craft Ventures, Andreessen Horowitz, NYCA and Max Levchin. This role leads a small but growing team that owns the backend systems, external APIs and services behind its core products. The listing asks for a manager who is a strong backend engineer and stays close to technical work.",
+    responsibilities: [
+      "Lead and grow a team of backend and platform engineers building the systems that power Intercept and other critical applications.",
+      "Own the technical direction of backend services and APIs so that systems are secure, performant and maintainable.",
+      "Drive planning, prioritisation and delivery with a focus on reliability and scalability.",
+      "Work with data science to put models into production and integrate decisioning systems into APIs and workflows.",
+      "Hire, mentor and develop engineers, and contribute to code and technical problem-solving as needed."
+    ],
+    requirements: [
+      "6–10 years as a senior or staff-level backend engineer.",
+      "2–5+ years as an Engineering Manager leading backend or platform teams.",
+      "Tech stack: Golang, Python, PostgreSQL, Docker, OpenSearch and AWS.",
+      "US-based. US citizens and Green Card holders only."
+    ],
+    compensation: "$200K – $260K plus competitive equity. Full-time, remote within the US."
+  },
+  {
+    id: "vannevar-labs-engineering-manager-security-platform",
+    page: "job-vannevar-labs-engineering-manager-security-platform.html",
+    title: "Engineering Manager, Security Platform",
+    company: "Vannevar Labs",
+    industry: "Defense Technology",
+    countries: ["United States"],
+    location: "Remote (US)",
+    tags: ["Remote", "Full-time", "$190K – $240K", "US-based only", "US citizens / Green Card"],
+    brief: "Become Vannevar's first Security Platform engineering manager and own authentication, authorization and access management across its products.",
+    eligibility: "US-based, working in your own time zone. Not open to any visas: US citizens and Green Card holders only. Minimal travel for occasional team or department offsites.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Vannevar Labs builds software and hardware for national security missions. It was founded in 2019, has about 180 employees and $87M in total funding, and is backed by investors including General Catalyst, DFJ Growth, Point72, Costanoa and Felicis. This is a new player-coach role, about 30% hands-on, on a newly split-off team. You own the systems behind authentication, authorization and access management across every Vannevar product and build the team from the ground up.",
+    responsibilities: [
+      "Own strategy and execution for a centralized, modular auth service.",
+      "Scale identity and access consistently across products and customers.",
+      "Stay hands-on with code review and architecture design.",
+      "Manage and mentor engineers, starting with one direct report, and hire to grow the team.",
+      "Partner with the Senior Engineering Manager of Data & Security on platform priorities."
+    ],
+    requirements: [
+      "7–12 years in software engineering, including 3+ years in management.",
+      "Tech stack: identity and access management (IAM), authentication, authorization, single sign-on (SSO), IdP, distributed systems and security platforms.",
+      "US-based. US citizens and Green Card holders only."
+    ],
+    compensation: "$190K – $240K plus competitive equity. Full-time, remote within the US."
+  },
+  {
+    id: "cora-ai-founding-full-stack-engineer-applied-ai",
+    page: "job-cora-ai-founding-full-stack-engineer-applied-ai.html",
+    title: "Founding Full Stack Engineer (Applied AI)",
+    company: "Cora AI",
+    industry: "AI Customer Operations",
+    countries: ["United States"],
+    location: "Remote (California)",
+    tags: ["Remote", "Full-time", "$160K – $250K", "California-based", "TN visas accepted"],
+    brief: "Join a six-person team building AI agents for customer lifecycle management, working across a Python backend and React frontend.",
+    eligibility: "Remote, California-based. Ideally in the San Francisco Bay Area for occasional in-person collaboration, though the listing says this is flexible. The listing says it is open to TN visas, with no new H1Bs or H1B transfers.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Cora AI builds AI agents that run customer operations for B2B companies. It was founded in 2025, has 6 employees and $4M in total funding, with investors including Acrew Capital, Emerson Collective and Recall Capital. The team is looking for a generalist engineer with 5–7 years of experience who works across the full stack (backend-heavy), talks to customers and helps shape the product and culture from the start.",
+    responsibilities: [
+      "Build and maintain backend services and APIs (Python, FastAPI) and frontend experiences (React).",
+      "Work directly with enterprise customers to understand use cases and co-build custom AI agents and workflows.",
+      "Own product and infrastructure areas end to end, including architectural decisions.",
+      "Work closely with the co-founders and influence the product roadmap and company strategy."
+    ],
+    requirements: [
+      "5–7 years of experience in full-stack software engineering.",
+      "Tech stack: Python with FastAPI, SQLModel and React.",
+      "Comfortable in a fast-paced, ambiguous environment, owning outcomes from problem to shipped feature.",
+      "Based in California."
+    ],
+    compensation: "$160K – $250K plus competitive equity. Full-time, remote within California."
+  },
+  {
+    id: "compute-exchange-senior-full-stack-engineer",
+    page: "job-compute-exchange-senior-full-stack-engineer.html",
+    title: "Senior Full-Stack Engineer",
+    company: "Compute Exchange",
+    industry: "GPU Compute Marketplace",
+    countries: ["United States", "Canada"],
+    location: "Remote (US or Canada)",
+    tags: ["Remote", "Full-time", "$200K – $275K", "US or Canada", "Visa transfers accepted"],
+    brief: "Build the backend and frontend of an open marketplace for GPU compute as part of a small, senior engineering team.",
+    eligibility: "Listed locations are Remote US and Remote Canada. The remote policy says US-based (or Canada/LatAm), working East Coast hours with core collaboration hours of 11 AM to 4 PM EST. Open to visa transfers (OPT, H1B transfers).",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Compute Exchange runs an open exchange for compute, a marketplace that connects buyers who need GPU capacity with suppliers who have it. It was founded in 2023 and has 10 employees. The team is remote-first and everyone reports to the CEO. The listing asks for an engineer with 8+ years of experience who is backend-heavy but capable across the full stack, with experience in e-commerce or marketplace systems involving inventory, orders and customer workflows.",
+    responsibilities: [
+      "Architect and build backend services and frontend features for a compute marketplace, including inventory management, order workflows, RFQs and invoicing.",
+      "Plan and spec features, then use AI coding agents to speed up delivery while validating quality and correctness.",
+      "Extend the platform with KYC/KYB automation, Slack integrations, live chat and AI-powered customer support.",
+      "Own production reliability: design, deploy and maintain systems end to end.",
+      "Join daily standups and help across the business when needed, including customer support and ticket resolution."
+    ],
+    requirements: [
+      "8–12 years of experience as a software engineer.",
+      "Backend-heavy but capable across the full stack.",
+      "Experience with e-commerce or marketplace systems involving inventory, orders and customer workflows.",
+      "Tech stack: React, TypeScript, SQL, Go, Rust, Node.js, Bun, Temporal, Kafka and Kubernetes."
+    ],
+    compensation: "$200K – $275K base salary plus competitive equity. The listing says compensation may go higher for exceptional candidates with highly relevant experience. Full-time, remote."
+  },
+  {
+    id: "luminary-solutions-engineer-physics-ai-cfd",
+    page: "job-luminary-solutions-engineer-physics-ai-cfd.html",
+    title: "Senior / Principal Solutions Engineer, Physics AI (CFD)",
+    company: "Luminary",
+    industry: "Physics AI & Simulation",
+    countries: ["United States"],
+    location: "Remote (US)",
+    tags: ["Remote", "Full-time", "$132K – $236K", "US-based only", "US citizens / Green Card"],
+    brief: "Work with engineering customers as the CFD expert on Luminary's Physics AI platform, from technical discovery to proofs of concept.",
+    eligibility: "US-based remote with regular travel to customer sites. Hybrid in San Mateo, CA is also an option, with relocation support. Not open to any visas: US citizens and Green Card holders only.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Luminary builds a Physics AI platform for building and deploying models that predict physical behaviour, used by engineering companies in automotive, aerospace, defense, industrial, semiconductors and energy. It is a Series B company founded in 2019 and headquartered in San Mateo, California. The team is looking for a CFD expert with a customer-facing technical background, at Senior or Principal level.",
+    responsibilities: [
+      "Lead technical discovery and define approaches for complex CAE use cases.",
+      "Deliver technical demonstrations, workshops and proofs of concept tailored to customer needs.",
+      "Partner with Account Executives through the sales cycle, and with Forward Deployed Engineering, AI/ML, Product and Engineering on technical engagements.",
+      "Identify technical risks, integration requirements and product gaps, and contribute to proposals and scopes of work.",
+      "Travel to customer sites for workshops, demonstrations and technical reviews."
+    ],
+    requirements: [
+      "Strong hands-on computational fluid dynamics (CFD) expertise; CFD-heavy simulation, not a primary focus on FEA and structures.",
+      "Customer-facing technical experience in solutions engineering, applications engineering or technical presales, with CFD or CAE depth.",
+      "Senior or Principal level experience (5–15 years).",
+      "BS, MS or PhD in Mechanical Engineering, Aerospace Engineering or a related discipline.",
+      "Aerospace and defense exposure is a plus."
+    ],
+    compensation: "$132K – $236K base, with on-target earnings of $165K – $295K depending on level (Senior or Principal) and experience. Full-time."
+  },
+  {
+    id: "actai-machine-learning-engineer-ranking-retrieval",
+    page: "job-actai-machine-learning-engineer-ranking-retrieval.html",
+    title: "Machine Learning Engineer, Ranking & Retrieval",
+    company: "ActAI",
+    industry: "Consumer AI Apps",
+    countries: ["United States", "Canada", "Europe"],
+    location: "Remote (US, Canada or Europe)",
+    tags: ["Remote", "Full-time", "$185K – $280K", "US, Canada or Europe", "Work authorization required"],
+    brief: "Build the classification, retrieval, ranking and personalization models behind ActAI's agent-first email and chat app.",
+    eligibility: "Listed locations are Remote (US or Canada) and Remote (Europe). North America is preferred, with no set time zone requirements. No visa sponsorship: you must have work authorization in your country of work.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "ActAI builds AI-native consumer apps, starting with an agent-first email and chat app that works through your inbox and helps coordinate plans without prompting. The company was founded in 2026 and has about 20 employees. The listing says it is fully self-funded, with $100M committed and no venture rounds. The team is fully remote and spread across Asia, Europe and the US.",
+    responsibilities: [
+      "Build and improve ML models for classification, ranking, retrieval and personalization.",
+      "Develop efficient classifiers and optimise model accuracy, precision, latency and cost.",
+      "Improve search relevance and context retrieval using embeddings, hybrid search and reranking.",
+      "Develop evaluation pipelines, labeled datasets and metrics to measure model quality.",
+      "Build and maintain ML training, inference and deployment pipelines, and debug production issues."
+    ],
+    requirements: [
+      "2+ years of experience as a machine learning engineer or applied scientist in industry.",
+      "Tech stack: Python, PyTorch and JAX.",
+      "Work authorization in your country of work."
+    ],
+    compensation: "$185K – $280K. The listing says this range is for the US market and is adjusted for candidates outside the US. The package includes base salary, an OKR-based discretionary bonus and equity."
+  },
+  {
+    id: "p-1-ai-founding-account-executive",
+    page: "job-p-1-ai-founding-account-executive.html",
+    title: "Founding Account Executive",
+    company: "P-1 AI",
+    industry: "AI for Engineering",
+    countries: ["United States", "Canada"],
+    location: "Remote (US or Canada)",
+    tags: ["Remote", "Full-time", "$150K – $200K", "US or Canada", "US citizens / Green Card"],
+    brief: "Be the first Account Executive at P-1 AI and win new enterprise customers among large industrial companies.",
+    eligibility: "US or Canada-based, any time zone. Not open to any visas, per the listing (US citizens and Green Card holders).",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "P-1 AI builds Archie, an AI engineer agent for the physical world, and sells to large industrial enterprises such as aerospace, automotive and HVAC manufacturers. The company was founded in 2024 and has $73M in total funding. As the first Account Executive hire you shape the role and the go-to-market strategy.",
+    responsibilities: [
+      "Own net-new customer acquisition end to end, from finding a way into a strategic account through discovery, technical validation, negotiation, contracting and close.",
+      "Create pipeline through outbound, your existing network, events and referrals.",
+      "Work with Forward Deployed Engineers and Deployment Managers to validate scope during discovery and hand off closed customers with clear success criteria.",
+      "Shape the sales playbook for a new category, including messaging, collateral and events."
+    ],
+    requirements: [
+      "4+ years of experience as an Account Executive selling AI to industrial customers.",
+      "Based in the US or Canada."
+    ],
+    compensation: "$150K – $200K base with on-target earnings of $300K – $400K (50/50 base and variable), uncapped commission and competitive equity. Full-time, remote."
+  },
+  {
+    id: "alt-senior-fullstack-engineer-payments",
+    page: "job-alt-senior-fullstack-engineer-payments.html",
+    title: "Senior Fullstack Engineer, Payments",
+    company: "Alt",
+    industry: "Trading Card Marketplace",
+    countries: ["United States"],
+    location: "Remote (US)",
+    tags: ["Remote", "Full-time", "$180K – $250K", "US-based only", "Visa transfers accepted"],
+    brief: "Build the payments and ledger systems behind Alt's marketplace for trading cards.",
+    eligibility: "US-based, 100% remote. Open to visa transfers (OPT, H1B transfers).",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Alt is a marketplace where collectors buy, sell, vault and finance trading cards. The company was founded in 2020, has about 50 employees and $300M in total funding. This role sits in a three-engineer payments pod and owns real-time payments infrastructure that processes large ACH transactions. The work is about 70% backend.",
+    responsibilities: [
+      "Process thousands of large-value transactions ($100K+) through Stripe and banking partner integrations.",
+      "Build and maintain a custom double-entry ledger system for the marketplace.",
+      "Develop new ledgers for future lending and financial products.",
+      "Work about 70% on the backend (Python), with React and React Native on the frontend."
+    ],
+    requirements: [
+      "4+ years of fullstack engineering experience processing large financial transactions (ACH, real-time payments).",
+      "Tech stack: Python, Postgres, AWS, React, TypeScript, React Native and Stripe.",
+      "US-based."
+    ],
+    compensation: "$180K – $250K base salary plus competitive equity, depending on depth of money-movement and ledger experience. Full-time, remote within the US."
+  },
+  {
+    id: "future-senior-product-designer",
+    page: "job-future-senior-product-designer.html",
+    title: "Senior Product Designer",
+    company: "Future",
+    industry: "Fitness & Coaching App",
+    countries: ["United States"],
+    location: "Remote (US)",
+    tags: ["Remote", "Full-time", "$185K – $240K", "US-based only", "US citizens / Green Card"],
+    brief: "Design the member app and the tools coaches and clinicians use at Future, a personal fitness coaching product.",
+    eligibility: "Remote-first. You can work from anywhere in the continental US and must work in US time zones. No relocation support. Not open to any visas: US citizens and Green Card holders only.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Future is a personal fitness coaching product. The company was founded in 2017, is based in San Francisco and has $110M in total funding. The team is looking for a staff-level product designer who has designed and shipped B2C consumer mobile apps and has worked at, or founded, a startup. You take weight off the design lead and own work across the member app and the tools coaches and clinicians use.",
+    responsibilities: [
+      "Design core product experiences across onboarding, training, coaching and long-term engagement, from user flows and wireframes to high-fidelity UI.",
+      "Own key problem spaces on the platform and drive a cohesive end-to-end member experience.",
+      "Work with Product Managers and Engineers from discovery through launch to help define what gets built.",
+      "Build scalable design patterns across the consumer experience, coach workflows and AI systems.",
+      "Use product metrics, user feedback and experiments to improve engagement and outcomes."
+    ],
+    requirements: [
+      "6+ years of experience as a product designer, at staff level and above.",
+      "Has designed and shipped B2C consumer mobile apps.",
+      "Startup experience, as an employee or a founder.",
+      "A portfolio showing strong UX and user flows plus polished, high-end visual design.",
+      "Tools: Figma, design systems, mobile app design, prototyping and wireframing."
+    ],
+    compensation: "$185K – $240K base salary plus an equity package and benefits including medical, dental and vision insurance, a 401(k) plan, a home office stipend, a monthly wellness stipend and flexible PTO."
+  },
+  {
+    id: "albert-invent-lead-integrations-engineer",
+    page: "job-albert-invent-lead-integrations-engineer.html",
+    title: "Lead Integrations Engineer",
+    company: "Albert Invent",
+    industry: "AI for Chemistry R&D",
+    countries: ["United States"],
+    location: "Remote (US)",
+    tags: ["Remote", "Full-time", "$157K – $189K", "US-based only", "US citizens / Green Card"],
+    brief: "Own enterprise data integrations and migrations from scoping to go-live for chemical companies that use the Albert platform.",
+    eligibility: "US-based, working East Coast hours. Customer travel about once a quarter. Not open to any visas: US citizens and Green Card holders only.",
+    applyLink: PARAFORM_LINK,
+    matchNote: true,
+    overview: "Albert Invent builds an AI platform for chemistry and materials science R&D, used by scientists in more than 30 countries. The company was founded in 2021, has about 200 employees and $55M in total funding. This is a post-sales role that combines data engineering and solutions engineering: you take a signed statement of work, do the final scoping and deliver it.",
+    responsibilities: [
+      "Own integration projects from start to finish, typically around 6 months each.",
+      "Build connectors that sync key customer data into Albert, such as SAP raw-material lot numbers.",
+      "Work with customer IT teams to connect systems and with subject matter experts to define data mapping and transformation.",
+      "Scope work carefully and use AI coding agents and teammates for most of the build, reviewing their output.",
+      "Act as the technical point of contact for customers, with weekly syncs and customer visits about once a quarter."
+    ],
+    requirements: [
+      "5–15 years as a software, integrations, data or solutions engineer who has owned and scoped data or integration projects end to end.",
+      "Strong ETL and data pipeline skills, with experience working directly with customers.",
+      "Tech stack: Python, Node.js, ETL and data pipelines, Databricks, Airflow, AWS, RESTful APIs and SAP.",
+      "US-based. US citizens and Green Card holders only."
+    ],
+    compensation: "$157K – $189K plus competitive equity. Full-time, remote within the US."
+  },
+  {
     id: "regional-sales-manager-great-lakes",
     page: "job-regional-sales-manager-great-lakes.html",
     title: "Regional Sales Manager, Great Lakes",

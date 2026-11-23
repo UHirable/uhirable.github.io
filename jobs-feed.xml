@@ -1,5 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <jobs>
+  <job id="sentilink-senior-engineering-manager-core-services">
+    <link><![CDATA[https://uhirable.com/job-sentilink-senior-engineering-manager-core-services.html]]></link>
+    <name><![CDATA[Senior Engineering Manager (Core Services)]]></name>
+    <region><![CDATA[Remote (US)]]></region>
+    <description><![CDATA[<p>SentiLink provides identity and risk solutions and builds identity verification for the United States through real-time APIs. The company was founded in 2017, has about 160 employees and $84M in total funding, with investors including Craft Ventures, Andreessen Horowitz, NYCA and Max Levchin. This role leads a small but growing team that owns the backend systems, external APIs and services behind its core products. The listing asks for a manager who is a strong backend engineer and stays close to technical work.</p><p><strong>Who can apply:</strong> Remote, US-based position. Not open to any visas: US citizens and Green Card holders only. Travel about once a quarter for company or department offsites. Relocation is offered to people who want to be near an office.</p><p><strong>What you'll do:</strong></p><ul><li>Lead and grow a team of backend and platform engineers building the systems that power Intercept and other critical applications.</li><li>Own the technical direction of backend services and APIs so that systems are secure, performant and maintainable.</li><li>Drive planning, prioritisation and delivery with a focus on reliability and scalability.</li><li>Work with data science to put models into production and integrate decisioning systems into APIs and workflows.</li><li>Hire, mentor and develop engineers, and contribute to code and technical problem-solving as needed.</li></ul><p><strong>Requirements:</strong></p><ul><li>6–10 years as a senior or staff-level backend engineer.</li><li>2–5+ years as an Engineering Manager leading backend or platform teams.</li><li>Tech stack: Golang, Python, PostgreSQL, Docker, OpenSearch and AWS.</li><li>US-based. US citizens and Green Card holders only.</li></ul><p><strong>Compensation:</strong> $200K – $260K plus competitive equity. Full-time, remote within the US.</p><p>Apply via U Hirable: <a href="https://uhirable.com/job-sentilink-senior-engineering-manager-core-services.html">https://uhirable.com/job-sentilink-senior-engineering-manager-core-services.html</a></p>]]></description>
+    <pubdate>23.11.2026</pubdate>
+    <updated>23.11.2026</updated>
+    <salary><![CDATA[$200K – $260K]]></salary>
+    <company><![CDATA[SentiLink]]></company>
+    <expire>22.01.2027</expire>
+    <jobtype>full-time</jobtype>
+  </job>
+  <job id="vannevar-labs-engineering-manager-security-platform">
+    <link><![CDATA[https://uhirable.com/job-vannevar-labs-engineering-manager-security-platform.html]]></link>
+    <name><![CDATA[Engineering Manager, Security Platform]]></name>
+    <region><![CDATA[Remote (US)]]></region>
+    <description><![CDATA[<p>Vannevar Labs builds software and hardware for national security missions. It was founded in 2019, has about 180 employees and $87M in total funding, and is backed by investors including General Catalyst, DFJ Growth, Point72, Costanoa and Felicis. This is a new player-coach role, about 30% hands-on, on a newly split-off team. You own the systems behind authentication, authorization and access management across every Vannevar product and build the team from the ground up.</p><p><strong>Who can apply:</strong> US-based, working in your own time zone. Not open to any visas: US citizens and Green Card holders only. Minimal travel for occasional team or department offsites.</p><p><strong>What you'll do:</strong></p><ul><li>Own strategy and execution for a centralized, modular auth service.</li><li>Scale identity and access consistently across products and customers.</li><li>Stay hands-on with code review and architecture design.</li><li>Manage and mentor engineers, starting with one direct report, and hire to grow the team.</li><li>Partner with the Senior Engineering Manager of Data & Security on platform priorities.</li></ul><p><strong>Requirements:</strong></p><ul><li>7–12 years in software engineering, including 3+ years in management.</li><li>Tech stack: identity and access management (IAM), authentication, authorization, single sign-on (SSO), IdP, distributed systems and security platforms.</li><li>US-based. US citizens and Green Card holders only.</li></ul><p><strong>Compensation:</strong> $190K – $240K plus competitive equity. Full-time, remote within the US.</p><p>Apply via U Hirable: <a href="https://uhirable.com/job-vannevar-labs-engineering-manager-security-platform.html">https://uhirable.com/job-vannevar-labs-engineering-manager-security-platform.html</a></p>]]></description>
+    <pubdate>23.11.2026</pubdate>
+    <updated>23.11.2026</updated>
+    <salary><![CDATA[$190K – $240K]]></salary>
+    <company><![CDATA[Vannevar Labs]]></company>
+    <expire>22.01.2027</expire>
+    <jobtype>full-time</jobtype>
+  </job>
+  <job id="cora-ai-founding-full-stack-engineer-applied-ai">
+    <link><![CDATA[https://uhirable.com/job-cora-ai-founding-full-stack-engineer-applied-ai.html]]></link>
+    <name><![CDATA[Founding Full Stack Engineer (Applied AI)]]></name>
+    <region><![CDATA[Remote (California)]]></region>
+    <description><![CDATA[<p>Cora AI builds AI agents that run customer operations for B2B companies. It was founded in 2025, has 6 employees and $4M in total funding, with investors including Acrew Capital, Emerson Collective and Recall Capital. The team is looking for a generalist engineer with 5–7 years of experience who works across the full stack (backend-heavy), talks to customers and helps shape the product and culture from the start.</p><p><strong>Who can apply:</strong> Remote, California-based. Ideally in the San Francisco Bay Area for occasional in-person collaboration, though the listing says this is flexible. The listing says it is open to TN visas, with no new H1Bs or H1B transfers.</p><p><strong>What you'll do:</strong></p><ul><li>Build and maintain backend services and APIs (Python, FastAPI) and frontend experiences (React).</li><li>Work directly with enterprise customers to understand use cases and co-build custom AI agents and workflows.</li><li>Own product and infrastructure areas end to end, including architectural decisions.</li><li>Work closely with the co-founders and influence the product roadmap and company strategy.</li></ul><p><strong>Requirements:</strong></p><ul><li>5–7 years of experience in full-stack software engineering.</li><li>Tech stack: Python with FastAPI, SQLModel and React.</li><li>Comfortable in a fast-paced, ambiguous environment, owning outcomes from problem to shipped feature.</li><li>Based in California.</li></ul><p><strong>Compensation:</strong> $160K – $250K plus competitive equity. Full-time, remote within California.</p><p>Apply via U Hirable: <a href="https://uhirable.com/job-cora-ai-founding-full-stack-engineer-applied-ai.html">https://uhirable.com/job-cora-ai-founding-full-stack-engineer-applied-ai.html</a></p>]]></description>
+    <pubdate>23.11.2026</pubdate>
+    <updated>23.11.2026</updated>
+    <salary><![CDATA[$160K – $250K]]></salary>
+    <company><![CDATA[Cora AI]]></company>
+    <expire>22.01.2027</expire>
+    <jobtype>full-time</jobtype>
+  </job>
+  <job id="compute-exchange-senior-full-stack-engineer">
+    <link><![CDATA[https://uhirable.com/job-compute-exchange-senior-full-stack-engineer.html]]></link>
+    <name><![CDATA[Senior Full-Stack Engineer]]></name>
+    <region><![CDATA[Remote (US or Canada)]]></region>
+    <description><![CDATA[<p>Compute Exchange runs an open exchange for compute, a marketplace that connects buyers who need GPU capacity with suppliers who have it. It was founded in 2023 and has 10 employees. The team is remote-first and everyone reports to the CEO. The listing asks for an engineer with 8+ years of experience who is backend-heavy but capable across the full stack, with experience in e-commerce or marketplace systems involving inventory, orders and customer workflows.</p><p><strong>Who can apply:</strong> Listed locations are Remote US and Remote Canada. The remote policy says US-based (or Canada/LatAm), working East Coast hours with core collaboration hours of 11 AM to 4 PM EST. Open to visa transfers (OPT, H1B transfers).</p><p><strong>What you'll do:</strong></p><ul><li>Architect and build backend services and frontend features for a compute marketplace, including inventory management, order workflows, RFQs and invoicing.</li><li>Plan and spec features, then use AI coding agents to speed up delivery while validating quality and correctness.</li><li>Extend the platform with KYC/KYB automation, Slack integrations, live chat and AI-powered customer support.</li><li>Own production reliability: design, deploy and maintain systems end to end.</li><li>Join daily standups and help across the business when needed, including customer support and ticket resolution.</li></ul><p><strong>Requirements:</strong></p><ul><li>8–12 years of experience as a software engineer.</li><li>Backend-heavy but capable across the full stack.</li><li>Experience with e-commerce or marketplace systems involving inventory, orders and customer workflows.</li><li>Tech stack: React, TypeScript, SQL, Go, Rust, Node.js, Bun, Temporal, Kafka and Kubernetes.</li></ul><p><strong>Compensation:</strong> $200K – $275K base salary plus competitive equity. The listing says compensation may go higher for exceptional candidates with highly relevant experience. Full-time, remote.</p><p>Apply via U Hirable: <a href="https://uhirable.com/job-compute-exchange-senior-full-stack-engineer.html">https://uhirable.com/job-compute-exchange-senior-full-stack-engineer.html</a></p>]]></description>
+    <pubdate>23.11.2026</pubdate>
+    <updated>23.11.2026</updated>
+    <salary><![CDATA[$200K – $275K]]></salary>
+    <company><![CDATA[Compute Exchange]]></company>
+    <expire>22.01.2027</expire>
+    <jobtype>full-time</jobtype>
+  </job>
+  <job id="luminary-solutions-engineer-physics-ai-cfd">
+    <link><![CDATA[https://uhirable.com/job-luminary-solutions-engineer-physics-ai-cfd.html]]></link>
+    <name><![CDATA[Senior / Principal Solutions Engineer, Physics AI (CFD)]]></name>
+    <region><![CDATA[Remote (US)]]></region>
+    <description><![CDATA[<p>Luminary builds a Physics AI platform for building and deploying models that predict physical behaviour, used by engineering companies in automotive, aerospace, defense, industrial, semiconductors and energy. It is a Series B company founded in 2019 and headquartered in San Mateo, California. The team is looking for a CFD expert with a customer-facing technical background, at Senior or Principal level.</p><p><strong>Who can apply:</strong> US-based remote with regular travel to customer sites. Hybrid in San Mateo, CA is also an option, with relocation support. Not open to any visas: US citizens and Green Card holders only.</p><p><strong>What you'll do:</strong></p><ul><li>Lead technical discovery and define approaches for complex CAE use cases.</li><li>Deliver technical demonstrations, workshops and proofs of concept tailored to customer needs.</li><li>Partner with Account Executives through the sales cycle, and with Forward Deployed Engineering, AI/ML, Product and Engineering on technical engagements.</li><li>Identify technical risks, integration requirements and product gaps, and contribute to proposals and scopes of work.</li><li>Travel to customer sites for workshops, demonstrations and technical reviews.</li></ul><p><strong>Requirements:</strong></p><ul><li>Strong hands-on computational fluid dynamics (CFD) expertise; CFD-heavy simulation, not a primary focus on FEA and structures.</li><li>Customer-facing technical experience in solutions engineering, applications engineering or technical presales, with CFD or CAE depth.</li><li>Senior or Principal level experience (5–15 years).</li><li>BS, MS or PhD in Mechanical Engineering, Aerospace Engineering or a related discipline.</li><li>Aerospace and defense exposure is a plus.</li></ul><p><strong>Compensation:</strong> $132K – $236K base, with on-target earnings of $165K – $295K depending on level (Senior or Principal) and experience. Full-time.</p><p>Apply via U Hirable: <a href="https://uhirable.com/job-luminary-solutions-engineer-physics-ai-cfd.html">https://uhirable.com/job-luminary-solutions-engineer-physics-ai-cfd.html</a></p>]]></description>
+    <pubdate>23.11.2026</pubdate>
+    <updated>23.11.2026</updated>
+    <salary><![CDATA[$132K – $236K (OTE: $165K – $295K)]]></salary>
+    <company><![CDATA[Luminary]]></company>
+    <expire>22.01.2027</expire>
+    <jobtype>full-time</jobtype>
+  </job>
+  <job id="actai-machine-learning-engineer-ranking-retrieval">
+    <link><![CDATA[https://uhirable.com/job-actai-machine-learning-engineer-ranking-retrieval.html]]></link>
+    <name><![CDATA[Machine Learning Engineer, Ranking & Retrieval]]></name>
+    <region><![CDATA[Remote (US, Canada or Europe)]]></region>
+    <description><![CDATA[<p>ActAI builds AI-native consumer apps, starting with an agent-first email and chat app that works through your inbox and helps coordinate plans without prompting. The company was founded in 2026 and has about 20 employees. The listing says it is fully self-funded, with $100M committed and no venture rounds. The team is fully remote and spread across Asia, Europe and the US.</p><p><strong>Who can apply:</strong> Listed locations are Remote (US or Canada) and Remote (Europe). North America is preferred, with no set time zone requirements. No visa sponsorship: you must have work authorization in your country of work.</p><p><strong>What you'll do:</strong></p><ul><li>Build and improve ML models for classification, ranking, retrieval and personalization.</li><li>Develop efficient classifiers and optimise model accuracy, precision, latency and cost.</li><li>Improve search relevance and context retrieval using embeddings, hybrid search and reranking.</li><li>Develop evaluation pipelines, labeled datasets and metrics to measure model quality.</li><li>Build and maintain ML training, inference and deployment pipelines, and debug production issues.</li></ul><p><strong>Requirements:</strong></p><ul><li>2+ years of experience as a machine learning engineer or applied scientist in industry.</li><li>Tech stack: Python, PyTorch and JAX.</li><li>Work authorization in your country of work.</li></ul><p><strong>Compensation:</strong> $185K – $280K. The listing says this range is for the US market and is adjusted for candidates outside the US. The package includes base salary, an OKR-based discretionary bonus and equity.</p><p>Apply via U Hirable: <a href="https://uhirable.com/job-actai-machine-learning-engineer-ranking-retrieval.html">https://uhirable.com/job-actai-machine-learning-engineer-ranking-retrieval.html</a></p>]]></description>
+    <pubdate>23.11.2026</pubdate>
+    <updated>23.11.2026</updated>
+    <salary><![CDATA[$185K – $280K]]></salary>
+    <company><![CDATA[ActAI]]></company>
+    <expire>22.01.2027</expire>
+    <jobtype>full-time</jobtype>
+  </job>
+  <job id="p-1-ai-founding-account-executive">
+    <link><![CDATA[https://uhirable.com/job-p-1-ai-founding-account-executive.html]]></link>
+    <name><![CDATA[Founding Account Executive]]></name>
+    <region><![CDATA[Remote (US or Canada)]]></region>
+    <description><![CDATA[<p>P-1 AI builds Archie, an AI engineer agent for the physical world, and sells to large industrial enterprises such as aerospace, automotive and HVAC manufacturers. The company was founded in 2024 and has $73M in total funding. As the first Account Executive hire you shape the role and the go-to-market strategy.</p><p><strong>Who can apply:</strong> US or Canada-based, any time zone. Not open to any visas, per the listing (US citizens and Green Card holders).</p><p><strong>What you'll do:</strong></p><ul><li>Own net-new customer acquisition end to end, from finding a way into a strategic account through discovery, technical validation, negotiation, contracting and close.</li><li>Create pipeline through outbound, your existing network, events and referrals.</li><li>Work with Forward Deployed Engineers and Deployment Managers to validate scope during discovery and hand off closed customers with clear success criteria.</li><li>Shape the sales playbook for a new category, including messaging, collateral and events.</li></ul><p><strong>Requirements:</strong></p><ul><li>4+ years of experience as an Account Executive selling AI to industrial customers.</li><li>Based in the US or Canada.</li></ul><p><strong>Compensation:</strong> $150K – $200K base with on-target earnings of $300K – $400K (50/50 base and variable), uncapped commission and competitive equity. Full-time, remote.</p><p>Apply via U Hirable: <a href="https://uhirable.com/job-p-1-ai-founding-account-executive.html">https://uhirable.com/job-p-1-ai-founding-account-executive.html</a></p>]]></description>
+    <pubdate>23.11.2026</pubdate>
+    <updated>23.11.2026</updated>
+    <salary><![CDATA[$150K – $200K (OTE: $300K – $400K)]]></salary>
+    <company><![CDATA[P-1 AI]]></company>
+    <expire>22.01.2027</expire>
+    <jobtype>full-time</jobtype>
+  </job>
+  <job id="alt-senior-fullstack-engineer-payments">
+    <link><![CDATA[https://uhirable.com/job-alt-senior-fullstack-engineer-payments.html]]></link>
+    <name><![CDATA[Senior Fullstack Engineer, Payments]]></name>
+    <region><![CDATA[Remote (US)]]></region>
+    <description><![CDATA[<p>Alt is a marketplace where collectors buy, sell, vault and finance trading cards. The company was founded in 2020, has about 50 employees and $300M in total funding. This role sits in a three-engineer payments pod and owns real-time payments infrastructure that processes large ACH transactions. The work is about 70% backend.</p><p><strong>Who can apply:</strong> US-based, 100% remote. Open to visa transfers (OPT, H1B transfers).</p><p><strong>What you'll do:</strong></p><ul><li>Process thousands of large-value transactions ($100K+) through Stripe and banking partner integrations.</li><li>Build and maintain a custom double-entry ledger system for the marketplace.</li><li>Develop new ledgers for future lending and financial products.</li><li>Work about 70% on the backend (Python), with React and React Native on the frontend.</li></ul><p><strong>Requirements:</strong></p><ul><li>4+ years of fullstack engineering experience processing large financial transactions (ACH, real-time payments).</li><li>Tech stack: Python, Postgres, AWS, React, TypeScript, React Native and Stripe.</li><li>US-based.</li></ul><p><strong>Compensation:</strong> $180K – $250K base salary plus competitive equity, depending on depth of money-movement and ledger experience. Full-time, remote within the US.</p><p>Apply via U Hirable: <a href="https://uhirable.com/job-alt-senior-fullstack-engineer-payments.html">https://uhirable.com/job-alt-senior-fullstack-engineer-payments.html</a></p>]]></description>
+    <pubdate>23.11.2026</pubdate>
+    <updated>23.11.2026</updated>
+    <salary><![CDATA[$180K – $250K]]></salary>
+    <company><![CDATA[Alt]]></company>
+    <expire>22.01.2027</expire>
+    <jobtype>full-time</jobtype>
+  </job>
+  <job id="future-senior-product-designer">
+    <link><![CDATA[https://uhirable.com/job-future-senior-product-designer.html]]></link>
+    <name><![CDATA[Senior Product Designer]]></name>
+    <region><![CDATA[Remote (US)]]></region>
+    <description><![CDATA[<p>Future is a personal fitness coaching product. The company was founded in 2017, is based in San Francisco and has $110M in total funding. The team is looking for a staff-level product designer who has designed and shipped B2C consumer mobile apps and has worked at, or founded, a startup. You take weight off the design lead and own work across the member app and the tools coaches and clinicians use.</p><p><strong>Who can apply:</strong> Remote-first. You can work from anywhere in the continental US and must work in US time zones. No relocation support. Not open to any visas: US citizens and Green Card holders only.</p><p><strong>What you'll do:</strong></p><ul><li>Design core product experiences across onboarding, training, coaching and long-term engagement, from user flows and wireframes to high-fidelity UI.</li><li>Own key problem spaces on the platform and drive a cohesive end-to-end member experience.</li><li>Work with Product Managers and Engineers from discovery through launch to help define what gets built.</li><li>Build scalable design patterns across the consumer experience, coach workflows and AI systems.</li><li>Use product metrics, user feedback and experiments to improve engagement and outcomes.</li></ul><p><strong>Requirements:</strong></p><ul><li>6+ years of experience as a product designer, at staff level and above.</li><li>Has designed and shipped B2C consumer mobile apps.</li><li>Startup experience, as an employee or a founder.</li><li>A portfolio showing strong UX and user flows plus polished, high-end visual design.</li><li>Tools: Figma, design systems, mobile app design, prototyping and wireframing.</li></ul><p><strong>Compensation:</strong> $185K – $240K base salary plus an equity package and benefits including medical, dental and vision insurance, a 401(k) plan, a home office stipend, a monthly wellness stipend and flexible PTO.</p><p>Apply via U Hirable: <a href="https://uhirable.com/job-future-senior-product-designer.html">https://uhirable.com/job-future-senior-product-designer.html</a></p>]]></description>
+    <pubdate>23.11.2026</pubdate>
+    <updated>23.11.2026</updated>
+    <salary><![CDATA[$185K – $240K]]></salary>
+    <company><![CDATA[Future]]></company>
+    <expire>22.01.2027</expire>
+    <jobtype>full-time</jobtype>
+  </job>
+  <job id="albert-invent-lead-integrations-engineer">
+    <link><![CDATA[https://uhirable.com/job-albert-invent-lead-integrations-engineer.html]]></link>
+    <name><![CDATA[Lead Integrations Engineer]]></name>
+    <region><![CDATA[Remote (US)]]></region>
+    <description><![CDATA[<p>Albert Invent builds an AI platform for chemistry and materials science R&D, used by scientists in more than 30 countries. The company was founded in 2021, has about 200 employees and $55M in total funding. This is a post-sales role that combines data engineering and solutions engineering: you take a signed statement of work, do the final scoping and deliver it.</p><p><strong>Who can apply:</strong> US-based, working East Coast hours. Customer travel about once a quarter. Not open to any visas: US citizens and Green Card holders only.</p><p><strong>What you'll do:</strong></p><ul><li>Own integration projects from start to finish, typically around 6 months each.</li><li>Build connectors that sync key customer data into Albert, such as SAP raw-material lot numbers.</li><li>Work with customer IT teams to connect systems and with subject matter experts to define data mapping and transformation.</li><li>Scope work carefully and use AI coding agents and teammates for most of the build, reviewing their output.</li><li>Act as the technical point of contact for customers, with weekly syncs and customer visits about once a quarter.</li></ul><p><strong>Requirements:</strong></p><ul><li>5–15 years as a software, integrations, data or solutions engineer who has owned and scoped data or integration projects end to end.</li><li>Strong ETL and data pipeline skills, with experience working directly with customers.</li><li>Tech stack: Python, Node.js, ETL and data pipelines, Databricks, Airflow, AWS, RESTful APIs and SAP.</li><li>US-based. US citizens and Green Card holders only.</li></ul><p><strong>Compensation:</strong> $157K – $189K plus competitive equity. Full-time, remote within the US.</p><p>Apply via U Hirable: <a href="https://uhirable.com/job-albert-invent-lead-integrations-engineer.html">https://uhirable.com/job-albert-invent-lead-integrations-engineer.html</a></p>]]></description>
+    <pubdate>23.11.2026</pubdate>
+    <updated>23.11.2026</updated>
+    <salary><![CDATA[$157K – $189K]]></salary>
+    <company><![CDATA[Albert Invent]]></company>
+    <expire>22.01.2027</expire>
+    <jobtype>full-time</jobtype>
+  </job>
   <job id="hex-senior-software-engineer">
     <link><![CDATA[https://uhirable.com/job-hex-senior-software-engineer.html]]></link>
     <name><![CDATA[Senior Software Engineer]]></name>
