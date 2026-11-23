@@ -578,3 +578,29 @@ document.addEventListener("click", (e) => {
   a.addEventListener("click", function () { try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "open-to-work/line-click", title: "Open to Work line clicked", event: true }); } catch (e) {} });
   at.parentNode.insertBefore(a, at);
 })();
+
+// ---------- Google Analytics 4 ----------
+// Loads for every visitor outside Europe. In Europe (EEA, UK, Switzerland) it loads only after the visitor says yes;
+// until then nothing is sent to Google and no Analytics cookie is set. The answer is kept in this browser only.
+(function () {
+  var ID = "G-J5MHBCD21Q", KEY = "uh-ga-consent";
+  var tz = ""; try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) {}
+  var ask = /^(Europe\/|Atlantic\/(Canary|Madeira|Azores|Reykjavik|Faroe)|Arctic\/)/.test(tz);
+  function load() {
+    if (window.__uhGa) return; window.__uhGa = 1;
+    window.dataLayer = window.dataLayer || []; window.gtag = function () { dataLayer.push(arguments); };
+    gtag("js", new Date()); gtag("config", ID);
+    var s = document.createElement("script"); s.async = true; s.src = "https://www.googletagmanager.com/gtag/js?id=" + ID; document.head.appendChild(s);
+  }
+  var c = null; try { c = localStorage.getItem(KEY); } catch (e) {}
+  if (!ask || c === "yes") return load();
+  if (c === "no") return;
+  function bar() {
+    var d = document.createElement("div"); d.id = "uh-consent"; d.setAttribute("role", "dialog"); d.setAttribute("aria-label", "Analytics consent");
+    d.style.cssText = "position:fixed;left:12px;right:12px;bottom:12px;z-index:9998;max-width:560px;margin:0 auto;background:#0b1170;color:#fff;border-radius:16px;padding:14px 16px;box-shadow:0 12px 32px rgba(5,11,63,.35);font-size:.88rem;line-height:1.45;display:flex;gap:12px;align-items:center;flex-wrap:wrap";
+    d.innerHTML = '<span style="flex:1 1 240px">We use Google Analytics to count visits and see which pages help job seekers. <a href="' + UA_BASE + 'privacy.html" style="color:#ffc93c">Privacy policy</a></span><span style="display:flex;gap:8px"><button type="button" data-a="no" style="font:inherit;font-weight:700;border:1.5px solid rgba(255,255,255,.5);background:none;color:#fff;border-radius:10px;padding:8px 14px;cursor:pointer">No thanks</button><button type="button" data-a="yes" style="font:inherit;font-weight:800;border:0;background:#ffc93c;color:#0b1170;border-radius:10px;padding:8px 16px;cursor:pointer">OK</button></span>';
+    d.addEventListener("click", function (e) { var b = e.target.closest("button[data-a]"); if (!b) return; try { localStorage.setItem(KEY, b.getAttribute("data-a")); } catch (x) {} d.remove(); if (b.getAttribute("data-a") === "yes") load(); });
+    document.body.appendChild(d);
+  }
+  if (document.body) bar(); else document.addEventListener("DOMContentLoaded", bar);
+})();
