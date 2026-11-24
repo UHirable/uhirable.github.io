@@ -175,6 +175,13 @@ export async function jobPostPage(request, env, url, id) {
   const title = j.title + " at " + j.company + " – " + where, short = j.description.replace(/\s+/g, " ").slice(0, 150);
   const desc = [where, j.workplace, j.type, j.salary].filter(Boolean).join(" · ") + ". " + short;
   const attr = (name, value) => ({ element(e) { e.setAttribute(name, value); } });
+  // A job with its own share design: when the file og-job-post-<id>.png is in the site's files, a shared link shows it instead of the general image.
+  let ogImage = "";
+  try {
+    const img = new URL(url); img.pathname = "/og-job-post-" + j.id + ".png"; img.search = "";
+    const found = await env.ASSETS.fetch(new Request(img, { method: "HEAD" }));
+    if (found.status === 200) ogImage = SITE + "/og-job-post-" + j.id + ".png";
+  } catch (e) {}
   const out = new HTMLRewriter()
     .on("title", { element(e) { e.setInnerContent(title); } })
     .on('meta[name="description"]', attr("content", desc))
@@ -183,6 +190,7 @@ export async function jobPostPage(request, env, url, id) {
     .on('meta[property="og:title"]', attr("content", "We're hiring: " + j.title + " at " + j.company))
     .on('meta[property="og:description"]', attr("content", desc))
     .on('meta[property="og:url"]', attr("content", pageUrl))
+    .on('meta[property="og:image"]', { element(e) { if (ogImage) e.setAttribute("content", ogImage); } })
     .on("#pj-ld", { element(e) { e.setInnerContent(inScript(jobPosting(j, pageUrl)), { html: true }); } })
     .on("#pj-data", { element(e) { e.setInnerContent("window.POSTED_JOB=" + inScript(j) + ";window.POSTED_NOTE=" + inScript(NOTE) + ";", { html: true }); } })
     .on("#job-title", { element(e) { e.setInnerContent(j.title); } })
