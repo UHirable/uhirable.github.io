@@ -20,7 +20,7 @@ t = re.sub(r"<style>.*?</style>", """<style>
 .de-card .co{font-weight:800;margin:0 0 10px}
 .de-tags{display:flex;gap:8px;flex-wrap:wrap}
 .de-tags span{background:#eef1ff;border-radius:999px;padding:4px 12px;font-size:.84rem;font-weight:700}
-.de-tags span.d{background:#ffc93c}.de-tags span.w{background:#fff;border:1.5px solid #c3caff;color:#0112ff;padding:2.5px 12px}
+.de-tags span.d{background:#ffc93c}.de-card .co .w{display:inline-block;margin-left:8px;background:#fff;border:1.5px solid #c3caff;color:#0112ff;border-radius:999px;padding:2px 10px;font-size:.8rem;font-weight:800;white-space:nowrap}
 .de-card p.s{margin:10px 0 0;color:#5b6290;font-size:.92rem;line-height:1.55}
 .de-msg{background:#fff;border-radius:18px;padding:22px;text-align:center;color:#5b6290}
 .de-red{display:flex;gap:12px;align-items:flex-start;background:#a32d2d;color:#fff;border-radius:16px;padding:14px 18px;margin:0 0 16px;line-height:1.55;font-size:.95rem}.de-red b{flex:none;width:24px;height:24px;border-radius:50%;background:#fff;color:#a32d2d;display:flex;align-items:center;justify-content:center;font-weight:800;margin-top:1px}
@@ -53,8 +53,8 @@ script = """<script>
   fetch("/api/jobpost").then((r) => r.json()).then((d) => {
     const jobs = d.jobs || [];
     if (!jobs.length) { list.innerHTML = '<p class="de-msg">No employer posts are live right now. Please check back soon.</p>'; return; }
-    list.innerHTML = jobs.map((j) => `<a class="de-card" href="job-post-${esc(j.id)}.html"><h2>${esc(j.title)}</h2><p class="co">${esc(j.company)}</p>
-      <div class="de-tags"><span class="d">Direct from employer</span>${j.websiteChecked ? '<span class="w" title="Company website checked by U Hirable before this job was listed. This is not a guarantee about the employer or the job.">✓ Website Checked</span>' : ""}<span>${esc(place(j))}</span><span>${esc(j.workplace)}</span><span>${esc(j.type)}</span>${j.salary ? `<span>${esc(j.salary)}</span>` : ""}</div>
+    list.innerHTML = jobs.map((j) => `<a class="de-card" href="job-post-${esc(j.id)}.html"><h2>${esc(j.title)}</h2><p class="co">${esc(j.company)}${j.websiteChecked ? ' <span class="w">✓ Website Checked</span>' : ""}</p>
+      <div class="de-tags"><span class="d">Direct from employer</span><span>${esc(place(j))}</span><span>${esc(j.workplace)}</span><span>${esc(j.type)}</span>${j.salary ? `<span>${esc(j.salary)}</span>` : ""}</div>
       <p class="s">${esc(short(j.description))}</p></a>`).join("");
   }).catch(() => { list.innerHTML = '<p class="de-msg">Could not load the jobs right now. Please try again in a moment.</p>'; });
 })();
