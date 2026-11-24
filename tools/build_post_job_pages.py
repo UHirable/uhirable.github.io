@@ -36,8 +36,9 @@ FORM = '''<div class="ap-card" id="pj-box">
         <form id="pj-form" novalidate>
           <h2>Your company</h2>
           <div class="ap-f"><label class="ap-l" for="pj-company">Company name</label><input id="pj-company" name="company" maxlength="80" autocomplete="organization" required></div>
-          <div class="ap-f"><label class="ap-l" for="pj-website">Company website</label><input id="pj-website" name="website" type="url" placeholder="https://" maxlength="300" required></div>
+          <div class="ap-f"><label class="ap-l" for="pj-website">Company website</label><input id="pj-website" name="website" type="url" placeholder="https://" maxlength="300" required><small>A company website is required. It helps candidates trust your job post.</small></div>
           <div class="ap-f"><label class="ap-l" for="pj-contact">Your work email</label><input id="pj-contact" name="contactEmail" type="email" autocomplete="email" maxlength="120" required><small>Only for us to confirm the post. Not shown on the site.</small></div>
+          <hr class="ap-hr">
           <h2>The job</h2>
           <div class="ap-f"><label class="ap-l" for="pj-title">Job title</label><input id="pj-title" name="title" maxlength="100" required></div>
           <div class="ap-f"><label class="ap-l" for="pj-country">Country</label><input id="pj-country" name="country" maxlength="60" autocomplete="country-name" required><small>For a remote job, the country candidates must be based in.</small></div>
@@ -46,6 +47,7 @@ FORM = '''<div class="ap-card" id="pj-box">
           <div class="ap-f"><label class="ap-l" for="pj-type">Job type</label><select id="pj-type" name="type" required><option>Full-time</option><option>Part-time</option><option>Contract</option><option>Internship</option></select></div>
           <div class="ap-f"><label class="ap-l" for="pj-desc">Job description and requirements</label><textarea id="pj-desc" name="description" maxlength="6000" style="min-height:190px" required></textarea><small>What the person will do and what you need from them. At least 150 characters.</small></div>
           <div class="ap-f"><label class="ap-l" for="pj-salary">Salary (optional)</label><input id="pj-salary" name="salary" maxlength="80" placeholder="e.g. USD 1,500 to 2,000 a month"></div>
+          <hr class="ap-hr">
           <h2>How candidates apply</h2>
           <p class="ap-pick">Choose one: an application link <b>or</b> an application email. You only need to fill in one.</p>
           <div class="ap-f"><label class="ap-l" for="pj-url">Application link</label><input id="pj-url" name="applyUrl" type="url" placeholder="https://company.com/careers/job" maxlength="300"></div>
