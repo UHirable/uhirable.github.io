@@ -54,12 +54,13 @@
     const shown = all.filter(hit), early = all.length < FULL && !q;
     list.innerHTML = shown.map(cardHtml).join("") + (early ? cardHtml(EXAMPLE) : "");
     $("#ow-first").hidden = !early;
+    $("#ow-joinbtn").hidden = early; $("#ow-bar").classList.toggle("one", early); // one join button at a time: in the navy box while it shows, beside the search otherwise
     status.hidden = shown.length > 0 || early;
     status.textContent = shown.length || early ? "" : "No profiles match this search. Try another skill, job title or country.";
   };
   search.addEventListener("input", draw);
   fetch("/api/talent").then((r) => (r.ok ? r.json() : Promise.reject())).then((d) => { all = d.talent || []; draw(); })
-    .catch(() => { $("#ow-first").hidden = true; status.hidden = false; status.textContent = "Couldn't load the profiles right now. Please try again in a moment."; });
+    .catch(() => { $("#ow-first").hidden = true; $("#ow-joinbtn").hidden = false; $("#ow-bar").classList.remove("one"); status.hidden = false; status.textContent = "Couldn't load the profiles right now. Please try again in a moment."; });
 
   // ---- Summary window ----
   const win = $("#ow-win"), body = $("#ow-win-body");
