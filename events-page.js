@@ -21,9 +21,13 @@ function card(e){
   <a class="go" href="${esc(e.link)}" target="_blank" rel="noopener noreferrer">Visit event website →</a></article>`;
 }
 const grid=document.getElementById("grid"),sel=document.getElementById("region");
+// The filter is by country: the last part of the event's place ("Leeds, UK" -> "UK"; an online event with no country -> "Online").
+const country=e=>e.city.split(",").pop().trim();
+sel.setAttribute("aria-label","Filter by country");
+sel.innerHTML=["All countries"].concat([...new Set(EVENTS.filter(e=>!e.month||e.month>=now).map(country))].sort((a,b)=>a.localeCompare(b))).map(c=>"<option>"+esc(c)+"</option>").join("");
 function render(){
   const r=sel.value;
-  let list=EVENTS.filter(e=>(!e.month||e.month>=now)&&(r==="All regions"||e.region===r)).sort((x,y)=>(x.month||"9999").localeCompare(y.month||"9999"));
+  let list=EVENTS.filter(e=>(!e.month||e.month>=now)&&(r==="All countries"||country(e)===r)).sort((x,y)=>(x.month||"9999").localeCompare(y.month||"9999"));
   if(one) list=EVENTS.filter(e=>slug(e.name)===one);
   document.getElementById("count").textContent=list.length+(list.length===1?" event":" events");
   grid.innerHTML=list.map(card).join("");
