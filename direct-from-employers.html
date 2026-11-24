@@ -20,7 +20,7 @@
   <link rel="stylesheet" href="style.css?v=94">
 
 <style>
-.de-wrap{max-width:860px;margin:0 auto}
+.de-wrap{max-width:1120px;margin:0 auto}.de-wc{color:#0c8f4d;font-weight:800;white-space:nowrap}.chip.de-d{background:#ffc93c;color:#0d1240}#de-list .de-msg{grid-column:1/-1}
 .de-top{display:flex;gap:14px;align-items:center;justify-content:space-between;flex-wrap:wrap;background:#fff8e1;border:1.5px solid #ffc93c;border-radius:18px;padding:16px 18px;margin:0 0 18px}
 .de-top p{margin:0;color:#0b1170;font-weight:700;line-height:1.5}
 .de-list{display:grid;gap:14px}
@@ -64,7 +64,7 @@
       <div class="container"><div class="de-wrap">
         <p class="de-red"><b>!</b>Free listing service. These jobs are posted by employers and you apply straight to them. U Hirable is not a recruitment agency: we do not screen, interview or recommend candidates, and we do not receive or forward applications. We review each post and require every employer to provide a company website as a source of credibility, but we cannot verify every detail. Never pay any fee to apply for a job.</p>
         <div class="de-top"><p>Hiring? Your job can be listed here too.</p><a class="btn btn-gold" href="post-a-job.html">Post a job for free</a></div>
-        <div class="de-list" id="de-list"><p class="de-msg">Loading jobs&hellip;</p></div>
+        <div class="jobs-list" id="de-list"><p class="de-msg">Loading jobs&hellip;</p></div>
       </div></div>
     </section>
   </main>
@@ -86,20 +86,22 @@
 
 
 
-  <script src="script.js?v=59"></script>
+  <script src="script.js?v=60"></script>
   <script>
 (() => {
+  // Same cards as the Jobs page (job-card), built with the helpers from script.js.
   const list = document.getElementById("de-list");
-  const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
-  const place = (j) => (j.workplace === "Remote" ? "Remote, " + j.country : [j.city, j.country].filter(Boolean).join(", "));
-  const short = (s) => { s = String(s || "").replace(/\s+/g, " ").trim(); return s.length > 190 ? s.slice(0, 190).replace(/\s+\S*$/, "") + "…" : s; };
   fetch("/api/jobpost").then((r) => r.json()).then((d) => {
-    const jobs = d.jobs || [];
-    if (!jobs.length) { list.innerHTML = '<p class="de-msg">No employer posts are live right now. Please check back soon.</p>'; return; }
-    list.innerHTML = jobs.map((j) => `<a class="de-card" href="job-post-${esc(j.id)}.html"><h2>${esc(j.title)}</h2><p class="co">${esc(j.company)}${j.websiteChecked ? ' <span class="w"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" style="flex:none;vertical-align:-3px"><path d="M12 1.6 3.5 4.7v6.6c0 5.2 3.5 9.5 8.5 11.1 5-1.6 8.5-5.9 8.5-11.1V4.7z" fill="#0112ff"/><path d="m7.6 12.2 3 3 5.8-6.2" fill="none" stroke="#fff" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/></svg> Website Checked</span>' : ""}</p>
-      <div class="de-tags"><span class="d">Direct from employer</span><span>${esc(place(j))}</span><span>${esc(j.workplace)}</span><span>${esc(j.type)}</span>${j.salary ? `<span>${esc(j.salary)}</span>` : ""}</div>
-      <p class="s">${esc(short(j.description))}</p></a>`).join("");
-  }).catch(() => { list.innerHTML = '<p class="de-msg">Could not load the jobs right now. Please try again in a moment.</p>'; });
+    const jobs = (d.jobs || []).map((p) => postedJob(p, ""));
+    if (!jobs.length) { list.className = ""; list.innerHTML = '<p class="de-msg">No employer posts are live right now. Please check back soon.</p>'; return; }
+    list.innerHTML = jobs.map((j, i) => `<article class="job-card">
+      <div class="job-head"><div class="icon3d ${i % 2 ? "gold" : ""}">${jobIcon(j)}</div><div><h3>${escapeHTML(j.title)}</h3>
+        <p class="meta">${escapeHTML(j.company)}${j.websiteChecked ? ' <span class="de-wc">' + WC_ICON + ' Website Checked</span>' : ""}</p></div></div>
+      <div class="chips"><span class="chip de-d">Direct from employer</span>${jobChips(j)}</div>
+      <p class="desc">${escapeHTML(j.brief || "")}</p>
+      <div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${escapeHTML(jobApply(j))}" target="_blank" rel="noopener nofollow">Apply &rarr;</a><a class="btn btn-sm btn-soft" href="${jobPage(j)}">More details</a></div>
+    </article>`).join("");
+  }).catch(() => { list.className = ""; list.innerHTML = '<p class="de-msg">Could not load the jobs right now. Please try again in a moment.</p>'; });
 })();
 </script>
   <script data-goatcounter="https://uhirable.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
