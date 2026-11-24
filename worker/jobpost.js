@@ -1,4 +1,4 @@
-// Free job posts: an employer sends a job, U Hirable reviews it, and the approved job is listed for 30 days.
+// Free job posts: an employer sends a job, U Hirable reviews it, and the approved job stays listed until the employer asks for it to be removed.
 // Candidates apply straight to the employer (their link or their email). No candidate data passes through here.
 // The posts live in the D1 database (binding DB), never in the site's files.
 //
@@ -11,7 +11,6 @@
 // Uses the same settings as worker/talent.js: DB, TURNSTILE_SECRET, TALENT_ADMIN_PASSWORD, and MAIL + TALENT_NOTIFY_EMAIL for the notice.
 
 const SITE = "https://uhirable.com";
-const LIVE_DAYS = 30; // an approved job is listed for this many days
 const MAX_PENDING = 200; // waiting posts allowed at once; more than that means the form is being abused
 const WORKPLACES = ["On-site", "Hybrid", "Remote"];
 const TYPES = ["Full-time", "Part-time", "Contract", "Internship"];
@@ -34,12 +33,10 @@ const isEmail = (v) => /^[^\s@<>"',;]+@[^\s@<>"',;]+\.[a-z]{2,}$/i.test(v) && v.
 // A web link the form may store: http or https only, with a real host name. "company.com" is read as "https://company.com".
 const webLink = (v) => { try { const raw = String(v).trim(), u = new URL(/^[a-z][a-z0-9+.-]*:/i.test(raw) ? raw : "https://" + raw); return /^https?:$/.test(u.protocol) && /\.[a-z]{2,}$/i.test(u.hostname) ? u.href.slice(0, 300) : ""; } catch (e) { return ""; } };
 const day = (iso) => String(iso || "").slice(0, 10);
-const addDays = (iso, n) => new Date(Date.parse(iso) + n * 864e5).toISOString();
-const liveSince = () => new Date(Date.now() - LIVE_DAYS * 864e5).toISOString();
 
 // What the public gets for one job. The employer's contact email stays in the database.
 const pub = (r) => ({ id: r.id, title: r.title, company: r.company, website: r.website, country: r.country, city: r.city, workplace: r.workplace, type: r.type,
-  description: r.description, salary: r.salary, applyUrl: r.apply_url, applyEmail: r.apply_email, posted: day(r.decided_at || r.created_at), expires: day(addDays(r.decided_at || r.created_at, LIVE_DAYS)) });
+  description: r.description, salary: r.salary, applyUrl: r.apply_url, applyEmail: r.apply_email, posted: day(r.decided_at || r.created_at) });
 
 // Reads and checks the form. Returns { row } or { error }.
 function readForm(b) {
@@ -99,7 +96,7 @@ export async function jobPostApi(request, env, url, ctx) {
   await env.DB.prepare(TABLE).run();
 
   if (path === "/api/jobpost" && request.method === "GET") {
-    const { results } = await env.DB.prepare("SELECT * FROM job_posts WHERE status = 'approved' AND decided_at > ? ORDER BY decided_at DESC LIMIT 200").bind(liveSince()).all();
+    const { results } = await env.DB.prepare("SELECT * FROM job_posts WHERE status = 'approved' ORDER BY decided_at DESC LIMIT 200").all();
     return json({ jobs: results.map(pub), note: NOTE }, 200, { "cache-control": "public, max-age=120" });
   }
 
@@ -119,7 +116,7 @@ export async function jobPostApi(request, env, url, ctx) {
     const waiting = await env.DB.prepare("SELECT COUNT(*) AS n FROM job_posts WHERE status = 'pending'").first();
     if (waiting && waiting.n >= MAX_PENDING) return json({ error: "We are reviewing many job posts right now. Please try again tomorrow." }, 429);
     const r = f.row, now = new Date().toISOString();
-    const dup = await env.DB.prepare("SELECT id FROM job_posts WHERE lower(title) = lower(?) AND lower(company) = lower(?) AND status != 'rejected' AND created_at > ?").bind(r.title, r.company, liveSince()).first();
+    const dup = await env.DB.prepare("SELECT id FROM job_posts WHERE lower(title) = lower(?) AND lower(company) = lower(?) AND status != 'rejected'").bind(r.title, r.company).first();
     if (dup) return json({ error: "This job has already been sent. We review posts within one business day." }, 409);
     const id = (slug(r.title + " " + r.company).slice(0, 70).replace(/-+$/, "") || "job") + "-" + crypto.randomUUID().slice(0, 6);
     await env.DB.prepare("INSERT INTO job_posts (id, created_at, status, company, website, contact_email, title, country, city, workplace, type, description, salary, apply_url, apply_email, agreed_at) VALUES (?, ?, 'pending', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)")
@@ -140,9 +137,8 @@ export async function jobPostApi(request, env, url, ctx) {
     else if (b.action === "delete") await env.DB.prepare("DELETE FROM job_posts WHERE id = ?").bind(id).run();
     else if (b.action !== "list") return json({ error: "Unknown action." }, 400);
     const { results } = await env.DB.prepare("SELECT * FROM job_posts ORDER BY created_at DESC LIMIT 1000").all();
-    const since = liveSince();
     return json({ jobs: results.map((r) => ({ ...pub(r), contactEmail: r.contact_email, created: day(r.created_at),
-      status: r.status === "approved" && r.decided_at <= since ? "expired" : r.status })) });
+      status: r.status })) });
   }
 
   return json({ error: "Not found." }, 404);
@@ -156,7 +152,7 @@ const inScript = (v) => JSON.stringify(v).replace(/</g, "\\u003c").replace(/\u20
 const place = (j) => (j.workplace === "Remote" ? "Remote, " + j.country : [j.city, j.country].filter(Boolean).join(", "));
 
 function jobPosting(j, pageUrl) {
-  const ld = { "@context": "https://schema.org/", "@type": "JobPosting", title: j.title, description: paragraphs(j.description), datePosted: j.posted, validThrough: j.expires + "T23:59:59Z",
+  const ld = { "@context": "https://schema.org/", "@type": "JobPosting", title: j.title, description: paragraphs(j.description), datePosted: j.posted,
     employmentType: LD_TYPE[j.type], hiringOrganization: { "@type": "Organization", name: j.company, ...(j.website ? { sameAs: j.website } : {}) }, url: pageUrl, directApply: false };
   if (j.workplace === "Remote") { ld.jobLocationType = "TELECOMMUTE"; ld.applicantLocationRequirements = { "@type": "Country", name: j.country }; }
   else ld.jobLocation = { "@type": "Place", address: { "@type": "PostalAddress", addressLocality: j.city, addressCountry: j.country } };
@@ -168,7 +164,7 @@ export async function jobPostPage(request, env, url, id) {
   if (request.method !== "GET" && request.method !== "HEAD") return null;
   if (!env.DB) return null;
   let r;
-  try { r = await env.DB.prepare("SELECT * FROM job_posts WHERE id = ? AND status = 'approved' AND decided_at > ?").bind(id, liveSince()).first(); } catch (e) { return null; }
+  try { r = await env.DB.prepare("SELECT * FROM job_posts WHERE id = ? AND status = 'approved'").bind(id).first(); } catch (e) { return null; }
   if (!r) return null;
   const tpl = new URL(url); tpl.pathname = "/posted-job.html"; tpl.search = "";
   const page = await env.ASSETS.fetch(new Request(tpl));
@@ -199,7 +195,7 @@ export async function jobPostPage(request, env, url, id) {
 
 export async function jobPostSitemap(env) {
   let rows = [];
-  try { rows = (await env.DB.prepare("SELECT id, decided_at FROM job_posts WHERE status = 'approved' AND decided_at > ? ORDER BY decided_at DESC LIMIT 1000").bind(liveSince()).all()).results; } catch (e) {}
+  try { rows = (await env.DB.prepare("SELECT id, decided_at FROM job_posts WHERE status = 'approved' ORDER BY decided_at DESC LIMIT 1000").all()).results; } catch (e) {}
   const xml = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     + rows.map((r) => "  <url><loc>" + SITE + "/job-post-" + esc(r.id) + ".html</loc><lastmod>" + day(r.decided_at) + "</lastmod></url>\n").join("") + "</urlset>\n";
   return new Response(xml, { headers: { "content-type": "application/xml; charset=utf-8", "cache-control": "public, max-age=3600" } });

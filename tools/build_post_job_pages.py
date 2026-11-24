@@ -12,7 +12,7 @@ def write(p, s): open(p, "w", encoding="utf8").write(s)
 # ---------- post-a-job.html ----------
 a = read("apply.html")
 TITLE = "Post a Job for Free – Reach Job Seekers Worldwide | U Hirable"
-DESC = "Post your job on U Hirable for free. No fees and no account. We review every post, list it for 30 days, and candidates apply to you directly."
+DESC = "Post your job on U Hirable for free. No fees and no account. We review every post, it stays listed until you ask us to remove it, and candidates apply to you directly."
 head = f'''  <title>{TITLE}</title>
   <meta name="description" content="{DESC}">
   <link rel="canonical" href="https://uhirable.com/post-a-job.html">
@@ -32,7 +32,7 @@ a = a.replace("</style>", ".ap-f select{width:100%;box-sizing:border-box;border:
   ".pj-how{max-width:680px;margin:26px auto 0;color:#0b1170}.pj-how h2{font-size:1.15rem;margin:0 0 8px}.pj-how ol{margin:0;padding-left:20px;line-height:1.7}\n</style>", 1)
 
 FORM = '''<div class="ap-card" id="pj-box">
-        <p class="ap-info"><b>Free for employers.</b> Your job is reviewed, then listed on U Hirable for 30 days. Candidates apply to you directly.</p>
+        <p class="ap-info"><b>Free for employers.</b> Your job is reviewed, then listed on U Hirable until you ask us to remove it. Candidates apply to you directly.</p>
         <form id="pj-form" novalidate>
           <h2>Your company</h2>
           <div class="ap-f"><label class="ap-l" for="pj-company">Company name</label><input id="pj-company" name="company" maxlength="80" autocomplete="organization" required></div>
@@ -67,11 +67,11 @@ FORM = '''<div class="ap-card" id="pj-box">
         </form>
         <noscript><p class="ap-note">Please turn on JavaScript to post a job.</p></noscript>
       </div>
-      <div class="pj-how"><h2>What happens next</h2><ol><li>We review your post, usually within one business day.</li><li>Once approved, it appears on our <a href="jobs.html">Jobs page</a> with its own page you can share.</li><li>Candidates apply through your link or your email. The post stays live for 30 days.</li></ol></div>'''
+      <div class="pj-how"><h2>What happens next</h2><ol><li>We review your post, usually within one business day.</li><li>Once approved, it appears on our <a href="jobs.html">Jobs page</a> with its own page you can share.</li><li>Candidates apply through your link or your email. The post stays live until you ask us to remove it: email <a href="mailto:hello@uhirable.com">hello@uhirable.com</a> when the role is filled.</li></ol></div>'''
 a, n = re.subn(r'<div class="ap-card" id="ap-box">.*?</div></div></div>', lambda m: FORM + "</div></div>", a, count=1, flags=re.S)
 assert n == 1
 a = a.replace('<h1 id="ap-title">Apply</h1>', "<h1>Post a job for free</h1>").replace('<p id="ap-where"></p>', "<p>Reach job seekers in the US, UK, Canada, the Gulf and Egypt. No fees, no account.</p>").replace(" Application</span>", " For Employers</span>")
-a, n = re.subn(r'<script[^>]*src="apply\.js[^"]*"[^>]*></script>', '<script src="postjob.js?v=2"></script>', a)
+a, n = re.subn(r'<script[^>]*src="apply\.js[^"]*"[^>]*></script>', '<script src="postjob.js?v=3"></script>', a)
 assert n == 1, n
 write("post-a-job.html", a)
 
@@ -94,14 +94,13 @@ write("posted-job.html", j)
 t = read("talent-admin.html")
 t = t.replace("<title>Open to Work review | U Hirable</title>", "<title>Job posts review | U Hirable</title>").replace("<h1>Open to Work review</h1>", "<h1>Job posts review</h1>")
 t = t.replace('"/api/talent/admin"', '"/api/jobpost/admin"').replace("all = d.talent || []; draw();", "all = d.jobs || []; draw();")
-t = t.replace('[["pending", "Waiting"], ["approved", "Live"], ["rejected", "Rejected"]]', '[["pending", "Waiting"], ["approved", "Live"], ["expired", "Expired"], ["rejected", "Rejected"]]')
 t = t.replace(".pending{background:#fff3cf;color:#6b4a00}", ".pending{background:#fff3cf;color:#6b4a00}.expired{background:#eceef5;color:#4a4f6b}")
 start = t.index('$("#rows").innerHTML = rows.length ? rows.map((t) => `'); end = t.index("'<div class=\"box\">Nothing here.</div>';", start)
 ROWS = '''$("#rows").innerHTML = rows.length ? rows.map((t) => `<div class="box"><div class="row"><div><p class="n">${esc(t.title)}</p><p class="m">${esc(t.company)}${t.website ? ` · <a href="${esc(t.website)}" target="_blank" rel="noopener noreferrer">${esc(t.website)}</a>` : ""}</p>
       <p class="m">${esc([t.city, t.country].filter(Boolean).join(", "))} · ${esc(t.workplace)} · ${esc(t.type)}${t.salary ? " · " + esc(t.salary) : ""}</p>
       <p class="m">Candidates apply by: ${t.applyUrl ? `<a href="${esc(t.applyUrl)}" target="_blank" rel="noopener noreferrer">${esc(t.applyUrl)}</a>` : esc(t.applyEmail)}</p>
-      <p class="m">Sent by: ${esc(t.contactEmail)}</p>${t.status === "approved" ? `<p class="m"><a href="/job-post-${esc(t.id)}.html" target="_blank" rel="noopener">Open the live page</a> · listed until ${esc(t.expires)}</p>` : ""}</div><div><span class="st ${t.status}">${t.status}</span><p class="m">Sent ${esc(t.created)}</p></div></div>
-      <p class="s">${esc(t.description)}</p><div class="acts">${t.status !== "approved" ? `<button class="g" data-act="approve" data-id="${esc(t.id)}">${t.status === "expired" ? "List for 30 more days" : "Approve"}</button>` : ""}${t.status !== "rejected" ? `<button class="r" data-act="reject" data-id="${esc(t.id)}">${t.status === "approved" ? "Take down" : "Reject"}</button>` : ""}<button class="q" data-act="delete" data-id="${esc(t.id)}">Delete for good</button></div></div>`).join("") : '''
+      <p class="m">Sent by: ${esc(t.contactEmail)}</p>${t.status === "approved" ? `<p class="m"><a href="/job-post-${esc(t.id)}.html" target="_blank" rel="noopener">Open the live page</a></p>` : ""}</div><div><span class="st ${t.status}">${t.status}</span><p class="m">Sent ${esc(t.created)}</p></div></div>
+      <p class="s">${esc(t.description)}</p><div class="acts">${t.status !== "approved" ? `<button class="g" data-act="approve" data-id="${esc(t.id)}">Approve</button>` : ""}${t.status !== "rejected" ? `<button class="r" data-act="reject" data-id="${esc(t.id)}">${t.status === "approved" ? "Take down" : "Reject"}</button>` : ""}<button class="q" data-act="delete" data-id="${esc(t.id)}">Delete for good</button></div></div>`).join("") : '''
 t = t[:start] + ROWS + t[end:]
 write("jobs-admin.html", t)
 print("built")
