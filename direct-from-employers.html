@@ -86,7 +86,7 @@
 
 
 
-  <script src="script.js?v=60"></script>
+  <script src="script.js?v=61"></script>
   <script>
 (() => {
   // Same cards as the Jobs page (job-card), built with the helpers from script.js.
@@ -96,8 +96,8 @@
     if (!jobs.length) { list.className = ""; list.innerHTML = '<p class="de-msg">No employer posts are live right now. Please check back soon.</p>'; return; }
     list.innerHTML = jobs.map((j, i) => `<article class="job-card">
       <div class="job-head"><div class="icon3d ${i % 2 ? "gold" : ""}">${jobIcon(j)}</div><div><h3>${escapeHTML(j.title)}</h3>
-        <p class="meta">${escapeHTML(j.company)}${j.websiteChecked ? ' <span class="de-wc">' + WC_ICON + ' Website Checked</span>' : ""}</p></div></div>
-      <div class="chips"><span class="chip de-d">Direct from employer</span>${jobChips(j)}</div>
+        <p class="meta">${escapeHTML(j.company)}${j.websiteChecked ? ' <span class="de-wc" title="Website Checked">' + WC_ICON + '</span>' : ""}</p></div></div>
+      <div class="chips">${jobChips(j)}</div>
       <p class="desc">${escapeHTML(j.brief || "")}</p>
       <div class="job-actions"><a class="btn btn-primary btn-sm apply-btn" href="${escapeHTML(jobApply(j))}" target="_blank" rel="noopener nofollow">Apply &rarr;</a><a class="btn btn-sm btn-soft" href="${jobPage(j)}">More details</a></div>
     </article>`).join("");
