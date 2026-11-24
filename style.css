@@ -1779,3 +1779,6 @@ textarea { resize: vertical; }
 .otw-side:hover{border-color:#9aa6ff}
 @media(max-width:560px){.otw-side{margin-top:6px;padding:5px 8px 5px 6px;gap:6px}.otw-side img{width:22px;height:22px}.otw-side b{font-size:.78rem}.otw-side small{font-size:.68rem;padding:3px 7px}}
 @media print{.otw-side{display:none!important}}
+
+/* Career Boost: an odd last card sits in the grid like the others, not alone in its own row */
+@media (min-width:861px){.partners.boost .partner:last-child:nth-child(odd){grid-column:auto!important;width:auto!important;justify-self:stretch!important}}
