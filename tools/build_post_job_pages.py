@@ -36,7 +36,7 @@ FORM = '''<div class="ap-card" id="pj-box">
         <form id="pj-form" novalidate>
           <h2>Your company</h2>
           <div class="ap-f"><label class="ap-l" for="pj-company">Company name</label><input id="pj-company" name="company" maxlength="80" autocomplete="organization" required></div>
-          <div class="ap-f"><label class="ap-l" for="pj-website">Company website (optional)</label><input id="pj-website" name="website" type="url" placeholder="https://" maxlength="300"></div>
+          <div class="ap-f"><label class="ap-l" for="pj-website">Company website</label><input id="pj-website" name="website" type="url" placeholder="https://" maxlength="300" required></div>
           <div class="ap-f"><label class="ap-l" for="pj-contact">Your work email</label><input id="pj-contact" name="contactEmail" type="email" autocomplete="email" maxlength="120" required><small>Only for us to confirm the post. Not shown on the site.</small></div>
           <h2>The job</h2>
           <div class="ap-f"><label class="ap-l" for="pj-title">Job title</label><input id="pj-title" name="title" maxlength="100" required></div>
@@ -71,7 +71,7 @@ FORM = '''<div class="ap-card" id="pj-box">
 a, n = re.subn(r'<div class="ap-card" id="ap-box">.*?</div></div></div>', lambda m: FORM + "</div></div>", a, count=1, flags=re.S)
 assert n == 1
 a = a.replace('<h1 id="ap-title">Apply</h1>', "<h1>Post a job for free</h1>").replace('<p id="ap-where"></p>', "<p>Reach job seekers in the US, UK, Canada, the Gulf and Egypt. No fees, no account.</p>").replace(" Application</span>", " For Employers</span>")
-a, n = re.subn(r'<script[^>]*src="apply\.js[^"]*"[^>]*></script>', '<script src="postjob.js?v=3"></script>', a)
+a, n = re.subn(r'<script[^>]*src="apply\.js[^"]*"[^>]*></script>', '<script src="postjob.js?v=4"></script>', a)
 assert n == 1, n
 write("post-a-job.html", a)
 

@@ -47,7 +47,8 @@ function readForm(b) {
   const rawSite = String(b.website || "").trim(), rawApply = String(b.applyUrl || "").trim();
   const website = rawSite ? webLink(rawSite) : "", applyUrl = rawApply ? webLink(rawApply) : "";
   if (company.length < 2) return { error: "Enter your company name." };
-  if (rawSite && !website) return { error: "The company website is not a valid link. Write it like https://company.com, or leave it empty." };
+  if (!rawSite) return { error: "Enter your company website." };
+  if (!website) return { error: "The company website is not a valid link. Write it like https://company.com." };
   if (!isEmail(contactEmail)) return { error: "Enter your work email." };
   if (title.length < 3) return { error: "Enter the job title." };
   if (country.length < 2) return { error: "Enter the country." };

@@ -22,7 +22,8 @@
       workplace: v("workplace"), type: v("type"), description: v("description"), salary: v("salary"), applyUrl: v("applyUrl"), applyEmail: v("applyEmail"),
       fax: v("fax"), agree: form.agree.checked, token: window.turnstile && widget !== null ? turnstile.getResponse(widget) : "" };
     if (!body.company) return say("Please enter your company name.", "company");
-    if (body.website && !isLink(body.website)) return say("The company website is not a valid link. Write it like https://company.com, or leave it empty.", "website");
+    if (!body.website) return say("Please enter your company website, like https://company.com.", "website");
+    if (!isLink(body.website)) return say("The company website is not a valid link. Write it like https://company.com.", "website");
     if (!isEmail(body.contactEmail)) return say("Please enter your work email, like you@company.com.", "contactEmail");
     if (!body.title) return say("Please enter the job title.", "title");
     if (!body.country) return say("Please enter the country.", "country");
