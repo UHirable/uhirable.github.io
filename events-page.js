@@ -31,6 +31,8 @@ if(!document.getElementById("evq")){
   sel.insertAdjacentHTML("afterend",'<input type="search" id="evq" placeholder="Search by event, city or month" aria-label="Search events" autocomplete="off">');
 }
 const box=document.getElementById("evq");
+// A link can open the page already filtered: events.html?country=Canada (and/or ?q=toronto)
+try{const ps=new URLSearchParams(location.search),c=(ps.get("country")||"").toLowerCase(),o=[...sel.options].find(x=>x.value.toLowerCase()===c);if(o)sel.value=o.value;if(ps.get("q"))box.value=ps.get("q")}catch(e){}
 function render(){
   const r=sel.value,q=(box.value||"").trim().toLowerCase();
   let list=EVENTS.filter(e=>(!e.month||e.month>=now)&&(r==="All countries"||country(e)===r)&&(!q||(e.name+" "+e.city+" "+e.date+" "+e.desc).toLowerCase().includes(q))).sort((x,y)=>(x.month||"9999").localeCompare(y.month||"9999"));
