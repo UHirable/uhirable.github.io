@@ -127,9 +127,15 @@ const jobApply = (j) => {
   return link;
 };
 // A free job post sent by an employer (worker/jobpost.js), in the same shape as the jobs in jobs.js.
+// "Website Checked" beside the company on an employer's post: shown only when the website was opened and ticked on the review page.
+const WC_TIP = "Company website checked by U Hirable before this job was listed. This is not a guarantee about the employer or the job.";
+const websiteCheckedBadge = () => {
+  if (!document.getElementById("wc-css")) document.head.insertAdjacentHTML("beforeend", '<style id="wc-css">#job-meta{position:relative}.wc{display:inline-flex;align-items:center;gap:6px;margin-left:10px;font-weight:800;font-size:.82rem;color:#0112ff;background:#fff;border:1.5px solid #c3caff;border-radius:999px;padding:3px 8px 3px 10px;vertical-align:middle;cursor:pointer;line-height:1.3}.wc i{font-style:normal;width:17px;height:17px;border-radius:50%;background:#0112ff;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:.72rem}.wc-tip{display:none;position:absolute;left:50%;transform:translateX(-50%);top:calc(100% + 8px);width:min(300px,86vw);background:#0d1240;color:#fff;font-weight:600;font-size:.82rem;line-height:1.5;padding:10px 12px;border-radius:12px;z-index:40;text-align:left;box-shadow:0 10px 24px rgba(5,11,63,.35)}.wc:hover .wc-tip,.wc:focus .wc-tip,.wc.on .wc-tip{display:block}</style>');
+  return ` <span class="wc" tabindex="0" role="button" aria-label="Website Checked. ${WC_TIP}" onclick="this.classList.toggle('on')">✓ Website Checked <i>!</i><span class="wc-tip">${WC_TIP}</span></span>`;
+};
 const postedJob = (p, note) => {
   const flat = String(p.description || "").replace(/\s+/g, " ").trim();
-  return { id: p.id, page: "job-post-" + p.id + ".html", posted: true, title: p.title, company: p.company, countries: [p.country],
+  return { id: p.id, page: "job-post-" + p.id + ".html", posted: true, websiteChecked: !!p.websiteChecked, title: p.title, company: p.company, countries: [p.country],
     location: p.workplace === "Remote" ? "" : [p.city, p.country].filter(Boolean).join(", "), tags: [p.workplace, p.type].filter(Boolean),
     brief: flat.slice(0, 170) + (flat.length > 170 ? "…" : ""), overview: p.description, compensation: p.salary || "", eligibility: note || "",
     applyLink: p.applyUrl || ("mailto:" + p.applyEmail + "?subject=" + encodeURIComponent("Application: " + p.title)) };
@@ -267,7 +273,7 @@ if (list && typeof JOBS !== "undefined") {
             ${j.logo ? `<div class="icon3d co-logo"><img src="${escapeHTML(j.logo)}" width="64" height="64" alt="${escapeHTML(j.company || "")} logo" loading="lazy"></div>` : `<div class="icon3d ${i % 2 ? "gold" : ""}">${jobIcon(j)}</div>`}
             <div>
               <h3>${escapeHTML(j.title)}</h3>
-              <p class="meta">${escapeHTML(j.company || "")}${j.industry ? " · " + escapeHTML(j.industry) : ""}</p>
+              <p class="meta">${escapeHTML(j.company || "")}${j.industry ? " · " + escapeHTML(j.industry) : ""}${j.websiteChecked ? ' <span style="color:#0112ff;font-weight:800;white-space:nowrap" title="Website Checked">✓ Website Checked</span>' : ""}</p>
             </div>
           </div>
           <div class="chips">${jobChips(j)}</div>${eligHTML(j)}
@@ -336,6 +342,7 @@ if (jobContent && (POSTED || typeof JOBS !== "undefined")) {
     if (!window.JOB_ID && !POSTED) document.title = `${j.title} – U Hirable`;
     document.getElementById("job-title").textContent = j.title;
     document.getElementById("job-meta").textContent = [j.company, j.industry].filter(Boolean).join(" · ");
+    if (j.websiteChecked) document.getElementById("job-meta").insertAdjacentHTML("beforeend", websiteCheckedBadge());
     document.getElementById("job-chips").innerHTML = jobChips(j);
     document.getElementById("job-apply").href = jobApply(j) || "#";
 

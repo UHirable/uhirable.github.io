@@ -21,7 +21,7 @@ const TABLE = `CREATE TABLE IF NOT EXISTS job_posts (
   id TEXT PRIMARY KEY, created_at TEXT NOT NULL, status TEXT NOT NULL DEFAULT 'pending', decided_at TEXT,
   company TEXT NOT NULL, website TEXT NOT NULL, contact_email TEXT NOT NULL,
   title TEXT NOT NULL, country TEXT NOT NULL, city TEXT NOT NULL, workplace TEXT NOT NULL, type TEXT NOT NULL,
-  description TEXT NOT NULL, salary TEXT NOT NULL, apply_url TEXT NOT NULL, apply_email TEXT NOT NULL, agreed_at TEXT NOT NULL)`;
+  description TEXT NOT NULL, salary TEXT NOT NULL, apply_url TEXT NOT NULL, apply_email TEXT NOT NULL, agreed_at TEXT NOT NULL, website_checked INTEGER NOT NULL DEFAULT 0)`;
 
 const json = (body, status = 200, headers = {}) =>
   new Response(JSON.stringify(body), { status, headers: { "content-type": "application/json; charset=utf-8", "cache-control": "no-store", ...headers } });
@@ -36,7 +36,7 @@ const day = (iso) => String(iso || "").slice(0, 10);
 
 // What the public gets for one job. The employer's contact email stays in the database.
 const pub = (r) => ({ id: r.id, title: r.title, company: r.company, website: r.website, country: r.country, city: r.city, workplace: r.workplace, type: r.type,
-  description: r.description, salary: r.salary, applyUrl: r.apply_url, applyEmail: r.apply_email, posted: day(r.decided_at || r.created_at) });
+  description: r.description, salary: r.salary, applyUrl: r.apply_url, applyEmail: r.apply_email, posted: day(r.decided_at || r.created_at), websiteChecked: !!r.website_checked }); // websiteChecked: Amel opened the company website herself and ticked it on the review page
 
 // Reads and checks the form. Returns { row } or { error }.
 function readForm(b) {
@@ -135,6 +135,7 @@ export async function jobPostApi(request, env, url, ctx) {
     const id = String(b.id || ""), now = new Date().toISOString();
     if (b.action === "approve") await env.DB.prepare("UPDATE job_posts SET status = 'approved', decided_at = ? WHERE id = ?").bind(now, id).run();
     else if (b.action === "reject") await env.DB.prepare("UPDATE job_posts SET status = 'rejected', decided_at = ? WHERE id = ?").bind(now, id).run();
+    else if (b.action === "check" || b.action === "uncheck") await env.DB.prepare("UPDATE job_posts SET website_checked = ? WHERE id = ?").bind(b.action === "check" ? 1 : 0, id).run();
     else if (b.action === "delete") await env.DB.prepare("DELETE FROM job_posts WHERE id = ?").bind(id).run();
     else if (b.action !== "list") return json({ error: "Unknown action." }, 400);
     const { results } = await env.DB.prepare("SELECT * FROM job_posts ORDER BY created_at DESC LIMIT 1000").all();
