@@ -50,7 +50,7 @@
     </div>
     <div class="ev-grid" id="grid"></div>
   </section>
-  <section class="container partners-share-wrap"><div class="partners-share share">
+  <section class="container partners-share-wrap" style="margin-top:44px"><div class="partners-share share">
     <span>Know someone who should attend? Share this page</span>
     <div class="share-btns">
               <a id="share-li" class="share-btn li" target="_blank" rel="noopener" aria-label="Share on LinkedIn" title="Share on LinkedIn"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45z"/></svg></a>
@@ -65,12 +65,15 @@
 <script src="events-page.js?v=6"></script>
 <script>
 (function(){
-  const url="https://uhirable.com/events.html";
-  const msg="Hiring events around the world:";
-  document.getElementById("share-li").href="https://www.linkedin.com/sharing/share-offsite/?url="+encodeURIComponent(url);
-  document.getElementById("share-wa").href="https://wa.me/?text="+encodeURIComponent(msg+" "+url);
+  // The link that gets shared follows the country picked in the list (events.html?country=Canada), so the preview shows that country's design.
+  const sel=document.getElementById("region");
+  const cur=()=>"https://uhirable.com/events.html"+(sel.value&&sel.value!=="All countries"?"?country="+encodeURIComponent(sel.value):"");
+  const msg=()=>sel.value&&sel.value!=="All countries"?"Hiring events and job fairs in "+sel.value+":":"Hiring events around the world:";
+  const upd=()=>{document.getElementById("share-li").href="https://www.linkedin.com/sharing/share-offsite/?url="+encodeURIComponent(cur());
+    document.getElementById("share-wa").href="https://wa.me/?text="+encodeURIComponent(msg()+" "+cur());};
+  upd();sel.addEventListener("change",upd);
   document.getElementById("share-copy").addEventListener("click",async()=>{
-    const s=document.getElementById("copy-status");
+    const s=document.getElementById("copy-status"),url=cur();
     try{await navigator.clipboard.writeText(url);s.textContent="Link copied!";}catch(e){s.textContent=url;}
     setTimeout(()=>s.textContent="",2500);
   });

@@ -60,6 +60,12 @@ function removedPage(path) {
   return null;
 }
 
+// Share previews for the Events page when it is opened for one country.
+const EVENT_SHARE = {
+  canada: { q: "Canada", img: "og-events-canada.png", title: "Free Job Fairs in Canada | U Hirable", desc: "Free job fairs across Canada, with dates, venues and live jobs in the same city." },
+  uk: { q: "UK", img: "og-events-uk.png", title: "Free Careers Fairs in the UK | U Hirable", desc: "Free careers fairs across the UK, with dates, venues and live jobs in the same city." },
+};
+
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
@@ -72,6 +78,23 @@ export default {
     // The Open to Work page is the one real file that passes through here (see run_worker_first in wrangler.jsonc):
     // the approved profile cards are written into it so search engines can read them.
     if (path === "/open-to-work.html") return talentPage(request, env);
+
+    // The Events page opened with a country (events.html?country=Canada): same page, with that country's share image and title,
+    // so a link shared on LinkedIn or WhatsApp shows the job fairs design for that country.
+    if (path === "/events.html") {
+      const page = await env.ASSETS.fetch(request);
+      const share = EVENT_SHARE[(url.searchParams.get("country") || "").toLowerCase()];
+      if (!share || page.status !== 200) return page;
+      try {
+        const set = (v) => ({ element(e) { e.setAttribute("content", v); } });
+        return new HTMLRewriter()
+          .on('meta[property="og:image"]', set("https://uhirable.com/" + share.img))
+          .on('meta[property="og:url"]', set("https://uhirable.com/events.html?country=" + share.q))
+          .on('meta[property="og:title"]', set(share.title))
+          .on('meta[property="og:description"]', set(share.desc))
+          .transform(page);
+      } catch (e) { return page; }
+    }
 
     if (path === "/api/apply" || path.startsWith("/api/apply/")) {
       try { return await applyApi(request, env, url, ctx); }

@@ -11,8 +11,9 @@
     "binding": "ASSETS",
     // Keep every link exactly as it is today: /jobs.html stays /jobs.html (no automatic redirect).
     "html_handling": "none",
+    // The Events page also goes through it: a link with ?country=Canada or ?country=UK gets that country's share image.
     // The Open to Work page goes through worker/index.js, which writes the approved profile cards into it.
-    "run_worker_first": ["/open-to-work.html"]
+    "run_worker_first": ["/open-to-work.html", "/events.html"]
   },
   // Open to Work profiles (worker/talent.js). The database holds candidates' data, so it is not part of this repository.
   "d1_databases": [
