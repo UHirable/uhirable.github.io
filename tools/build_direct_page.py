@@ -53,7 +53,7 @@ script = """<script>
   fetch("/api/jobpost").then((r) => r.json()).then((d) => {
     const jobs = d.jobs || [];
     if (!jobs.length) { list.innerHTML = '<p class="de-msg">No employer posts are live right now. Please check back soon.</p>'; return; }
-    list.innerHTML = jobs.map((j) => `<a class="de-card" href="job-post-${esc(j.id)}.html"><h2>${esc(j.title)}</h2><p class="co">${esc(j.company)}${j.websiteChecked ? ' <span class="w">✓ Website Checked</span>' : ""}</p>
+    list.innerHTML = jobs.map((j) => `<a class="de-card" href="job-post-${esc(j.id)}.html"><h2>${esc(j.title)}</h2><p class="co">${esc(j.company)}${j.websiteChecked ? ' <span class="w"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" style="flex:none;vertical-align:-3px"><path d="M12 1.6 3.5 4.7v6.6c0 5.2 3.5 9.5 8.5 11.1 5-1.6 8.5-5.9 8.5-11.1V4.7z" fill="#0112ff"/><path d="m7.6 12.2 3 3 5.8-6.2" fill="none" stroke="#fff" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/></svg> Website Checked</span>' : ""}</p>
       <div class="de-tags"><span class="d">Direct from employer</span><span>${esc(place(j))}</span><span>${esc(j.workplace)}</span><span>${esc(j.type)}</span>${j.salary ? `<span>${esc(j.salary)}</span>` : ""}</div>
       <p class="s">${esc(short(j.description))}</p></a>`).join("");
   }).catch(() => { list.innerHTML = '<p class="de-msg">Could not load the jobs right now. Please try again in a moment.</p>'; });

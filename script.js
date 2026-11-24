@@ -128,10 +128,11 @@ const jobApply = (j) => {
 };
 // A free job post sent by an employer (worker/jobpost.js), in the same shape as the jobs in jobs.js.
 // "Website Checked" beside the company on an employer's post: shown only when the website was opened and ticked on the review page.
+const WC_ICON = '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" style="flex:none;vertical-align:-3px"><path d="M12 1.6 3.5 4.7v6.6c0 5.2 3.5 9.5 8.5 11.1 5-1.6 8.5-5.9 8.5-11.1V4.7z" fill="#0112ff"/><path d="m7.6 12.2 3 3 5.8-6.2" fill="none" stroke="#fff" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/></svg>'; // a shield with a tick, in the brand blue
 const WC_TIP = "Company website checked by U Hirable before this job was listed. This is not a guarantee about the employer or the job.";
 const websiteCheckedBadge = () => {
   if (!document.getElementById("wc-css")) document.head.insertAdjacentHTML("beforeend", '<style id="wc-css">.wc{display:inline-flex;align-items:center;gap:6px;margin-left:10px;font-weight:800;font-size:.82rem;color:#0112ff;background:#fff;border:1.5px solid #c3caff;border-radius:999px;padding:3px 8px 3px 10px;vertical-align:middle;cursor:pointer;line-height:1.3}.wc i{font-style:normal;width:17px;height:17px;border-radius:50%;background:#0112ff;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:.72rem}.wc-tip{display:none;max-width:420px;margin:10px auto 2px;background:#0d1240;color:#fff;font-weight:600;font-size:.84rem;line-height:1.5;padding:10px 14px;border-radius:12px;text-align:left;border:1px solid rgba(255,255,255,.25)}.wc:hover+.wc-tip,.wc:focus+.wc-tip,.wc.on+.wc-tip{display:block}</style>');
-  return ` <span class="wc" tabindex="0" role="button" aria-label="Website Checked. ${WC_TIP}" onclick="this.classList.toggle('on')">✓ Website Checked <i>!</i></span><span class="wc-tip">${WC_TIP}</span>`;
+  return ` <span class="wc" tabindex="0" role="button" aria-label="Website Checked. ${WC_TIP}" onclick="this.classList.toggle('on')">${WC_ICON} Website Checked <i>!</i></span><span class="wc-tip">${WC_TIP}</span>`;
 };
 const postedJob = (p, note) => {
   const flat = String(p.description || "").replace(/\s+/g, " ").trim();
@@ -273,7 +274,7 @@ if (list && typeof JOBS !== "undefined") {
             ${j.logo ? `<div class="icon3d co-logo"><img src="${escapeHTML(j.logo)}" width="64" height="64" alt="${escapeHTML(j.company || "")} logo" loading="lazy"></div>` : `<div class="icon3d ${i % 2 ? "gold" : ""}">${jobIcon(j)}</div>`}
             <div>
               <h3>${escapeHTML(j.title)}</h3>
-              <p class="meta">${escapeHTML(j.company || "")}${j.industry ? " · " + escapeHTML(j.industry) : ""}${j.websiteChecked ? ' <span style="color:#0112ff;font-weight:800;white-space:nowrap" title="Website Checked">✓ Website Checked</span>' : ""}</p>
+              <p class="meta">${escapeHTML(j.company || "")}${j.industry ? " · " + escapeHTML(j.industry) : ""}${j.websiteChecked ? ' <span style="color:#0112ff;font-weight:800;white-space:nowrap" title="Website Checked">' + WC_ICON + ' Website Checked</span>' : ""}</p>
             </div>
           </div>
           <div class="chips">${jobChips(j)}</div>${eligHTML(j)}
