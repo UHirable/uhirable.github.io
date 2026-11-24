@@ -133,7 +133,7 @@ export async function jobPostApi(request, env, url, ctx) {
       return json({ error: "Wrong password." }, 401);
     }
     const id = String(b.id || ""), now = new Date().toISOString();
-    if (b.action === "approve") await env.DB.prepare("UPDATE job_posts SET status = 'approved', decided_at = ? WHERE id = ?").bind(now, id).run();
+    if (b.action === "approve") await env.DB.prepare("UPDATE job_posts SET status = 'approved', decided_at = ?, website_checked = 1 WHERE id = ?").bind(now, id).run();
     else if (b.action === "reject") await env.DB.prepare("UPDATE job_posts SET status = 'rejected', decided_at = ? WHERE id = ?").bind(now, id).run();
     else if (b.action === "check" || b.action === "uncheck") await env.DB.prepare("UPDATE job_posts SET website_checked = ? WHERE id = ?").bind(b.action === "check" ? 1 : 0, id).run();
     else if (b.action === "delete") await env.DB.prepare("DELETE FROM job_posts WHERE id = ?").bind(id).run();
