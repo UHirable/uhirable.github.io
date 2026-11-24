@@ -31,8 +31,11 @@ if(!document.getElementById("evq")){
   sel.insertAdjacentHTML("afterend",'<input type="search" id="evq" placeholder="Search by event, city or month" aria-label="Search events" autocomplete="off">');
 }
 const box=document.getElementById("evq");
-// A link can open the page already filtered: events.html?country=Canada (and/or ?q=toronto)
-try{const ps=new URLSearchParams(location.search),c=(ps.get("country")||"").toLowerCase(),o=[...sel.options].find(x=>x.value.toLowerCase()===c);if(o)sel.value=o.value;if(ps.get("q"))box.value=ps.get("q")}catch(e){}
+// A link can open the page already on one country: /events/uk, /events/saudi-arabia (the old form events.html?country=UK still works). ?q=toronto fills the search box.
+const cslug=c=>c.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+try{const ps=new URLSearchParams(location.search),pm=location.pathname.match(/^\/events\/([^\/]+)/),c=cslug(pm?decodeURIComponent(pm[1]):ps.get("country")||""),o=[...sel.options].find(x=>cslug(x.value)===c);if(o)sel.value=o.value;if(ps.get("q"))box.value=ps.get("q")}catch(e){}
+// Picking a country puts it in the address (/events/uk), so the address bar always holds a link to what is on screen.
+if(!one)sel.addEventListener("change",()=>{try{history.replaceState(null,"",sel.value==="All countries"?"/events.html":"/events/"+cslug(sel.value))}catch(e){}});
 function render(){
   const r=sel.value,q=(box.value||"").trim().toLowerCase();
   let list=EVENTS.filter(e=>(!e.month||e.month>=now)&&(r==="All countries"||country(e)===r)&&(!q||(e.name+" "+e.city+" "+e.date+" "+e.desc).toLowerCase().includes(q))).sort((x,y)=>(x.month||"9999").localeCompare(y.month||"9999"));

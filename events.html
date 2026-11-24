@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <base href="/">
   <link rel="canonical" href="https://uhirable.com/events.html">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Hiring Events 2026–2027: Career Fairs &amp; HR Conferences Worldwide</title>
@@ -62,12 +63,12 @@
 </main>
 <script>window.EVENT_ID=null;</script>
 <script src="events.js?v=6"></script>
-<script src="events-page.js?v=6"></script>
+<script src="events-page.js?v=7"></script>
 <script>
 (function(){
-  // The link that gets shared follows the country picked in the list (events.html?country=Canada), so the preview shows that country's design.
+  // The link that gets shared follows the country picked in the list (/events/canada), so the preview shows that country's design.
   const sel=document.getElementById("region");
-  const cur=()=>"https://uhirable.com/events.html"+(sel.value&&sel.value!=="All countries"?"?country="+encodeURIComponent(sel.value):"");
+  const cur=()=>sel.value&&sel.value!=="All countries"?"https://uhirable.com/events/"+sel.value.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,""):"https://uhirable.com/events.html";
   const msg=()=>sel.value&&sel.value!=="All countries"?"Hiring events and job fairs in "+sel.value+":":"Hiring events around the world:";
   const upd=()=>{document.getElementById("share-li").href="https://www.linkedin.com/sharing/share-offsite/?url="+encodeURIComponent(cur());
     document.getElementById("share-wa").href="https://wa.me/?text="+encodeURIComponent(msg()+" "+cur());};

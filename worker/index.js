@@ -62,8 +62,8 @@ function removedPage(path) {
 
 // Share previews for the Events page when it is opened for one country.
 const EVENT_SHARE = {
-  canada: { q: "Canada", img: "og-events-canada.png", title: "Free Job Fairs in Canada | U Hirable", desc: "Free job fairs across Canada, with dates, venues and live jobs in the same city." },
-  uk: { q: "UK", img: "og-events-uk.png", title: "Free Careers Fairs in the UK | U Hirable", desc: "Free careers fairs across the UK, with dates, venues and live jobs in the same city." },
+  canada: { img: "og-events-canada.png", title: "Free Job Fairs in Canada | U Hirable", desc: "Free job fairs across Canada, with dates, venues and live jobs in the same city." },
+  uk: { img: "og-events-uk.png", title: "Free Careers Fairs in the UK | U Hirable", desc: "Free careers fairs across the UK, with dates, venues and live jobs in the same city." },
 };
 
 export default {
@@ -79,17 +79,19 @@ export default {
     // the approved profile cards are written into it so search engines can read them.
     if (path === "/open-to-work.html") return talentPage(request, env);
 
-    // The Events page opened with a country (events.html?country=Canada): same page, with that country's share image and title,
-    // so a link shared on LinkedIn or WhatsApp shows the job fairs design for that country.
-    if (path === "/events.html") {
-      const page = await env.ASSETS.fetch(request);
-      const share = EVENT_SHARE[(url.searchParams.get("country") || "").toLowerCase()];
+    // The Events page for one country: /events/uk, /events/canada, /events/saudi-arabia (the old form events.html?country=UK still works).
+    // It is the same page; the list opens on that country, and Canada and the UK get their own share image and title.
+    const evPath = path.match(/^\/events\/([a-z0-9-]+)\/?$/i);
+    if (path === "/events.html" || evPath) {
+      const slug = (evPath ? evPath[1] : url.searchParams.get("country") || "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+      const page = await env.ASSETS.fetch(evPath ? new Request(at(url, "/events.html")) : request);
+      const share = EVENT_SHARE[slug];
       if (!share || page.status !== 200) return page;
       try {
         const set = (v) => ({ element(e) { e.setAttribute("content", v); } });
         return new HTMLRewriter()
           .on('meta[property="og:image"]', set("https://uhirable.com/" + share.img))
-          .on('meta[property="og:url"]', set("https://uhirable.com/events.html?country=" + share.q))
+          .on('meta[property="og:url"]', set("https://uhirable.com/events/" + slug))
           .on('meta[property="og:title"]', set(share.title))
           .on('meta[property="og:description"]', set(share.desc))
           .transform(page);
