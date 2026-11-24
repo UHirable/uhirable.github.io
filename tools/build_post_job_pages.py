@@ -47,8 +47,9 @@ FORM = '''<div class="ap-card" id="pj-box">
           <div class="ap-f"><label class="ap-l" for="pj-desc">Job description and requirements</label><textarea id="pj-desc" name="description" maxlength="6000" style="min-height:190px" required></textarea><small>What the person will do and what you need from them. At least 150 characters.</small></div>
           <div class="ap-f"><label class="ap-l" for="pj-salary">Salary (optional)</label><input id="pj-salary" name="salary" maxlength="80" placeholder="e.g. USD 1,500 to 2,000 a month"></div>
           <h2>How candidates apply</h2>
+          <p class="ap-pick">Choose one: an application link <b>or</b> an application email. You only need to fill in one.</p>
           <div class="ap-f"><label class="ap-l" for="pj-url">Application link</label><input id="pj-url" name="applyUrl" type="url" placeholder="https://company.com/careers/job" maxlength="300"></div>
-          <p class="ap-or">or</p>
+          <p class="ap-or"><span>OR</span></p>
           <div class="ap-f"><label class="ap-l" for="pj-email">Application email</label><input id="pj-email" name="applyEmail" type="email" placeholder="jobs@company.com" maxlength="120"><small>This email is shown publicly on the job page.</small></div>
           <h2>Before you post</h2>
           <ul class="ap-terms">
@@ -70,8 +71,8 @@ FORM = '''<div class="ap-card" id="pj-box">
       <div class="pj-how"><h2>What happens next</h2><ol><li>We review your post, usually within one business day.</li><li>Once approved, it appears on our <a href="jobs.html">Jobs page</a> with its own page you can share.</li><li>Candidates apply through your link or your email. The post stays live until you ask us to remove it: email <a href="mailto:hello@uhirable.com">hello@uhirable.com</a> when the role is filled.</li></ol></div>'''
 a, n = re.subn(r'<div class="ap-card" id="ap-box">.*?</div></div></div>', lambda m: FORM + "</div></div>", a, count=1, flags=re.S)
 assert n == 1
-a = a.replace('<h1 id="ap-title">Apply</h1>', "<h1>Post a job for free</h1>").replace('<p id="ap-where"></p>', "<p>Reach job seekers in the US, UK, Canada, the Gulf and Egypt. No fees, no account.</p>").replace(" Application</span>", " For Employers</span>")
-a, n = re.subn(r'<script[^>]*src="apply\.js[^"]*"[^>]*></script>', '<script src="postjob.js?v=4"></script>', a)
+a = a.replace('<h1 id="ap-title">Apply</h1>', "<h1>Post a job for free</h1>").replace('<p id="ap-where"></p>', "<p class="lead">Reach job seekers globally. No fees, no account.</p>").replace(" Application</span>", " For Employers</span>")
+a, n = re.subn(r'<script[^>]*src="apply\.js[^"]*"[^>]*></script>', '<script src="postjob.js?v=5"></script>', a)
 assert n == 1, n
 write("post-a-job.html", a)
 

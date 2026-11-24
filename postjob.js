@@ -40,7 +40,7 @@
       const r = await fetch("/api/jobpost", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify(body) });
       const out = await r.json().catch(() => ({}));
       if (!r.ok) throw new Error(out.error || "Something went wrong. Please try again.");
-      box.innerHTML = '<div class="ap-done"><h2>Thank you. Your job is with us.</h2><p>We review every post, usually within one business day. Once approved, it appears on our Jobs page and stays live until you ask us to remove it. Email hello@uhirable.com when the role is filled.</p><p><a class="btn btn-primary" href="jobs.html">See the Jobs page</a></p></div>';
+      box.innerHTML = '<div class="ap-done"><h2>Thank you. Your job is with us.</h2><p>We review every post, usually within one business day. Once approved, it appears on our Jobs page and stays live until you ask us to remove it. Email hello@uhirable.com when the role is filled.</p></div>';
       box.scrollIntoView({ block: "start", behavior: "smooth" });
     } catch (x) {
       btn.disabled = false; btn.textContent = "Send for review";

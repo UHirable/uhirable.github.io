@@ -27,7 +27,7 @@
 .ap-card h2{font-size:1.08rem;color:#0112ff;margin:24px 0 4px}
 .ap-f{margin:14px 0 0}.ap-l{display:block;font-weight:700;font-size:.92rem;color:#0b1170;margin:0 0 6px;line-height:1.4}
 .ap-f input:not([type=radio]),.ap-f textarea{width:100%;box-sizing:border-box;border:1.5px solid #d5d9ff;border-radius:12px;padding:11px 12px;font:inherit;font-size:1rem;color:#0b1170;background:#fff}
-.ap-f input[type=file]{padding:9px 10px;font-size:.92rem}.ap-or{margin:12px 0 8px;font-size:.85rem;font-weight:700;color:#5b6290;text-align:center}
+.ap-f input[type=file]{padding:9px 10px;font-size:.92rem}.ap-or{margin:18px 0 6px;display:flex;align-items:center;gap:12px;font-size:.9rem;font-weight:800;color:#0b1170}.ap-or:before,.ap-or:after{content:"";flex:1;height:2px;background:#d5d9ff}.ap-or span{background:#ffc93c;border-radius:999px;padding:4px 14px}.ap-pick{margin:6px 0 0;font-size:.9rem;color:#5b6290;line-height:1.5}.ap-pick b{color:#0b1170}
 .ap-f textarea{min-height:92px;resize:vertical}.ap-f small{display:block;margin-top:5px;color:#5b6290;font-size:.82rem}
 .ap-f input:focus,.ap-f textarea:focus{outline:2px solid #0112ff;outline-offset:1px}
 .ap-yn{display:flex;gap:8px}.ap-yn label{flex:1;position:relative}.ap-yn input{position:absolute;opacity:0;inset:0;width:100%;height:100%;margin:0;cursor:pointer}
@@ -66,7 +66,7 @@
       <div class="container">
         <span class="eyebrow"><span class="dot"></span> For Employers</span>
         <h1>Post a job for free</h1>
-        <p>Reach job seekers in the US, UK, Canada, the Gulf and Egypt. No fees, no account.</p>
+        <p class="lead">Reach job seekers globally. No fees, no account.</p>
       </div>
     </section>
     <section class="page-body">
@@ -86,8 +86,9 @@
           <div class="ap-f"><label class="ap-l" for="pj-desc">Job description and requirements</label><textarea id="pj-desc" name="description" maxlength="6000" style="min-height:190px" required></textarea><small>What the person will do and what you need from them. At least 150 characters.</small></div>
           <div class="ap-f"><label class="ap-l" for="pj-salary">Salary (optional)</label><input id="pj-salary" name="salary" maxlength="80" placeholder="e.g. USD 1,500 to 2,000 a month"></div>
           <h2>How candidates apply</h2>
+          <p class="ap-pick">Choose one: an application link <b>or</b> an application email. You only need to fill in one.</p>
           <div class="ap-f"><label class="ap-l" for="pj-url">Application link</label><input id="pj-url" name="applyUrl" type="url" placeholder="https://company.com/careers/job" maxlength="300"></div>
-          <p class="ap-or">or</p>
+          <p class="ap-or"><span>OR</span></p>
           <div class="ap-f"><label class="ap-l" for="pj-email">Application email</label><input id="pj-email" name="applyEmail" type="email" placeholder="jobs@company.com" maxlength="120"><small>This email is shown publicly on the job page.</small></div>
           <h2>Before you post</h2>
           <ul class="ap-terms">
@@ -128,7 +129,7 @@
 
 
   <script src="script.js?v=55"></script>
-  <script src="postjob.js?v=4"></script>
+  <script src="postjob.js?v=5"></script>
   <script data-goatcounter="https://uhirable.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
