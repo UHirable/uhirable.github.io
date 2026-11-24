@@ -25,9 +25,15 @@ const grid=document.getElementById("grid"),sel=document.getElementById("region")
 const country=e=>e.city.split(",").pop().trim();
 sel.setAttribute("aria-label","Filter by country");
 sel.innerHTML=["All countries"].concat([...new Set(EVENTS.filter(e=>!e.month||e.month>=now).map(country))].sort((a,b)=>a.localeCompare(b))).map(c=>"<option>"+esc(c)+"</option>").join("");
+// A text box next to the country list: type an event name, a city or a month.
+if(!document.getElementById("evq")){
+  const st=document.createElement("style");st.textContent=".ev-bar #evq{font:inherit;font-weight:600;padding:12px 14px;border-radius:12px;border:2px solid #e3e6ff;color:#050b3f;background:#fff;flex:1 1 220px;min-width:0}.ev-bar #evq:focus,.ev-bar select:focus{outline:none;border-color:#0112ff}.ev-bar select{cursor:pointer}@media(max-width:560px){.ev-bar select,.ev-bar #evq{flex:1 1 100%}.ev-bar .count{margin-left:0}}";document.head.appendChild(st);
+  sel.insertAdjacentHTML("afterend",'<input type="search" id="evq" placeholder="Search by event, city or month" aria-label="Search events" autocomplete="off">');
+}
+const box=document.getElementById("evq");
 function render(){
-  const r=sel.value;
-  let list=EVENTS.filter(e=>(!e.month||e.month>=now)&&(r==="All countries"||country(e)===r)).sort((x,y)=>(x.month||"9999").localeCompare(y.month||"9999"));
+  const r=sel.value,q=(box.value||"").trim().toLowerCase();
+  let list=EVENTS.filter(e=>(!e.month||e.month>=now)&&(r==="All countries"||country(e)===r)&&(!q||(e.name+" "+e.city+" "+e.date+" "+e.desc).toLowerCase().includes(q))).sort((x,y)=>(x.month||"9999").localeCompare(y.month||"9999"));
   if(one) list=EVENTS.filter(e=>slug(e.name)===one);
   document.getElementById("count").textContent=list.length+(list.length===1?" event":" events");
   grid.innerHTML=list.map(card).join("");
@@ -45,7 +51,7 @@ if(one){document.querySelector(".ev-bar").style.display="none";grid.classList.ad
     const add=(src,then)=>{const sc=document.createElement("script");sc.src=src;sc.onload=then;document.body.appendChild(sc)};
     add("wjfeed.js?v=4",()=>add("pagejobs.js?v=7"));}
   if(cur&&cur.audience!=="seekers") document.querySelector(".ev-wrap").insertAdjacentHTML("afterend",'<section class="container" style="max-width:760px;margin:26px auto 40px"><div style="background:#0b1170;border-radius:22px;padding:24px 22px;color:#fff;box-shadow:0 14px 34px rgba(5,11,63,.28)"><span style="display:inline-block;background:#ffc93c;color:#0b1170;font-weight:800;font-size:.72rem;letter-spacing:.08em;border-radius:999px;padding:4px 10px">FOR EMPLOYERS</span><h2 style="color:#fff;font-size:1.35rem;margin:12px 0 6px">Hiring right now?</h2><p style="margin:0 0 16px;color:#dfe2ff;line-height:1.55">Post your job on U Hirable for free, or browse candidates who are open to work.</p><div style="display:flex;gap:10px;flex-wrap:wrap"><a href="post-a-job.html" style="flex:1 1 200px;text-align:center;background:#ffc93c;color:#0b1170;font-weight:800;border-radius:12px;padding:12px 16px;text-decoration:none">Post a job for free</a><a href="open-to-work.html" style="flex:1 1 200px;text-align:center;border:1.5px solid rgba(255,255,255,.55);color:#fff;font-weight:700;border-radius:12px;padding:12px 16px;text-decoration:none">Browse candidates</a></div></div></section>');}
-sel.addEventListener("change",render);
+sel.addEventListener("change",render);box.addEventListener("input",render);
 document.addEventListener("click",ev=>{const b=ev.target.closest(".ev .cp");if(b){try{navigator.clipboard.writeText(b.dataset.u)}catch(e){};b.style.background="#08a35a";}});
 render();
 })();
