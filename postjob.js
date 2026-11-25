@@ -41,6 +41,7 @@
       const out = await r.json().catch(() => ({}));
       if (!r.ok) throw new Error(out.error || "Something went wrong. Please try again.");
       box.innerHTML = '<div class="ap-done"><h2>Thank you. Your job is with us.</h2><p>We review every post, usually within one business day. Once approved, it appears on our Jobs page and stays live until you ask us to remove it. Email hello@uhirable.com when the role is filled.</p></div>';
+      if (window.UHPJOffers) UHPJOffers(box);
       box.scrollIntoView({ block: "start", behavior: "smooth" });
     } catch (x) {
       btn.disabled = false; btn.textContent = "Send for review";
@@ -49,3 +50,28 @@
     }
   });
 })();
+
+// After a job is sent: the offers for companies (every partner on the Hiring Partners page except Manatal),
+// with the discount as the biggest thing on each card.
+window.UHPJOffers = function (after) {
+  try {
+    if (typeof PARTNERS === "undefined" || document.getElementById("pj-offers")) return;
+    const esc = (s = "") => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+    const list = PARTNERS.filter(p => p.deal && p.link && p.name !== "Manatal");
+    if (!list.length) return;
+    const sec = document.createElement("section");
+    sec.id = "pj-offers"; sec.className = "pjo";
+    sec.innerHTML = '<h2>While we review your job</h2><p class="pjo-sub">Offers for your hiring, payroll and HR.</p><div class="pjo-grid">' + list.map(p =>
+      '<a class="pjo-c" href="' + esc(p.link) + '" target="_blank" rel="sponsored noopener noreferrer" referrerpolicy="no-referrer" data-n="' + esc(p.name) + '">' +
+      '<span class="pjo-deal">' + esc(p.deal) + '</span>' +
+      '<span class="pjo-h">' + (p.logo ? '<img src="' + esc(p.logo) + '" alt="" width="40" height="40" loading="lazy">' : '') + '<span><b>' + esc(p.name) + '</b><i>' + esc(p.tag || "") + '</i></span></span>' +
+      (p.perk ? '<span class="pjo-p">' + esc(p.perk) + '</span>' : '') +
+      '<span class="pjo-b">' + esc(p.cta || "Get the offer") + ' →</span></a>').join("") + '</div>';
+    after.insertAdjacentElement("afterend", sec);
+    sec.addEventListener("click", e => {
+      const a = e.target.closest(".pjo-c"); if (!a) return;
+      try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "pj-offer/" + a.dataset.n.toLowerCase().replace(/[^a-z0-9]+/g, "-"), title: "Post a Job offer click: " + a.dataset.n, event: true }); } catch (x) {}
+    });
+    try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "pj-offers-shown", title: "Post a Job offers shown", event: true }); } catch (x) {}
+  } catch (x) {}
+};

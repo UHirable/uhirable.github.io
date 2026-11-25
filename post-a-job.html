@@ -38,6 +38,16 @@
 #ap-ts{margin:0 0 12px;min-height:65px}
 .ap-msg{background:#fcebeb;color:#791f1f;font-weight:700;border-radius:12px;padding:10px 12px;margin:0 0 12px;font-size:.92rem}
 .ap-fine{font-size:.8rem;color:#5b6290;text-align:center;margin:10px 0 0}
+.pjo{margin-top:26px}.pjo h2{font-size:1.35rem;color:#050b3f;margin:0 0 4px;text-align:center}.pjo-sub{text-align:center;color:#5b6290;margin:0 0 16px}
+.pjo-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.pjo-c{display:flex;flex-direction:column;gap:10px;background:#fff;border-radius:20px;padding:14px;text-decoration:none;color:#050b3f;box-shadow:0 10px 30px rgba(1,18,255,.10);border:2px solid transparent;transition:transform .15s,border-color .15s}
+.pjo-c:hover{transform:translateY(-3px);border-color:#0fbf6a}
+.pjo-deal{position:relative;display:flex;align-items:center;justify-content:center;text-align:center;min-height:86px;padding:10px 12px;border-radius:14px;background:linear-gradient(135deg,#0fbf6a,#08a35a 55%,#067a44);color:#fff;font-weight:800;font-size:1.75rem;line-height:1.05;letter-spacing:-.5px}
+.pjo-deal:before{content:"";position:absolute;inset:5px;border:2px dashed rgba(255,255,255,.5);border-radius:10px}
+.pjo-h{display:flex;align-items:center;gap:10px}.pjo-h img{border-radius:10px;flex:none;object-fit:contain;background:#fff}.pjo-h b{display:block;font-size:1.02rem}.pjo-h i{display:block;font-style:normal;font-size:.76rem;color:#0112ff;font-weight:700;text-transform:uppercase;letter-spacing:.4px}
+.pjo-p{font-size:.86rem;line-height:1.45;color:#3a4170;flex:1}
+.pjo-b{display:block;text-align:center;background:#ffc93c;color:#050b3f;font-weight:800;border-radius:12px;padding:10px;font-size:.92rem;box-shadow:0 3px 0 #d99e12}
+@media(max-width:560px){.pjo-grid{grid-template-columns:1fr}.pjo-deal{min-height:74px;font-size:1.7rem}}
 .ap-done{text-align:center}.ap-done h2{font-size:1.3rem}.ap-done p{color:#0b1170;line-height:1.6}
 .ap-f select{width:100%;box-sizing:border-box;border:1.5px solid #d5d9ff;border-radius:12px;padding:11px 12px;font:inherit;font-size:1rem;color:#0b1170;background:#fff}
 #pj-form .ap-ck{display:flex!important;flex-direction:row!important;align-items:flex-start}#pj-form .ap-ck input{width:20px!important;flex:0 0 20px}#pj-form .ap-ck span{flex:1}
@@ -131,7 +141,8 @@
 
 
   <script src="script.js?v=62"></script>
-  <script src="postjob.js?v=5"></script>
+  <script src="partners.js?v=20"></script>
+  <script src="postjob.js?v=6"></script>
   <script data-goatcounter="https://uhirable.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
