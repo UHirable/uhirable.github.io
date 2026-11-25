@@ -456,9 +456,11 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
   document.body.appendChild(panel);
   const log = panel.querySelector("#ua-log"), chips = panel.querySelector("#ua-chips"), form = panel.querySelector("#ua-form"), q = panel.querySelector("#ua-q");
   const CHIPS = ["Remote jobs", "Visa sponsorship", "Fix my CV", "Jobs in UAE", "Job sites", "Hire talent"];
-  // The conversation is kept for this browser tab (sessionStorage), so leaving the page and coming back shows the same chat, still open.
+  // The conversation is kept, so leaving the site and coming back shows the same chat.
   const KEEP = "uh-lilo"; let kept = [], restoring = false;
-  const persist = () => { try { sessionStorage.setItem(KEEP, JSON.stringify({ open: panel.classList.contains("open"), log: kept.slice(-30), hist: (typeof hist !== "undefined" ? hist : []).slice(-8) })); } catch (e) {} };
+  // Kept on the device for 24 hours (so it is also there when the site is opened from a home-screen shortcut), then removed.
+  const DAY = 24 * 60 * 60 * 1000, REOPEN = 2 * 60 * 60 * 1000;
+  const persist = () => { try { localStorage.setItem(KEEP, JSON.stringify({ t: Date.now(), open: panel.classList.contains("open"), log: kept.slice(-30), hist: (typeof hist !== "undefined" ? hist : []).slice(-8) })); } catch (e) {} };
   const say = (html, me) => { const d = document.createElement("div"); d.className = "ua-m " + (me ? "me" : "bot"); d.dir = "auto"; if (me) d.textContent = html; else d.innerHTML = html; log.appendChild(d); log.scrollTop = log.scrollHeight; if (!restoring) { kept.push({ me: !!me, html: String(html).slice(0, 6000) }); persist(); } };
   const setChips = (list) => { chips.innerHTML = list.map((c) => `<button type="button">${escapeHTML(c)}</button>`).join(""); };
   chips.addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) ask(b.textContent); });
@@ -636,6 +638,10 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
   let opened = false;
   const open = (quiet) => { panel.classList.add("open"); btn.setAttribute("aria-expanded", "true"); if (!opened) { opened = true; loadIdx(); say(reply("hi")); setChips(CHIPS); } if (!quiet) q.focus(); persist(); };
   const close = () => { panel.classList.remove("open"); btn.setAttribute("aria-expanded", "false"); persist(); };
+  // "Clear chat": removes the conversation from the screen and from the device.
+  const clr = document.createElement("button"); clr.type = "button"; clr.className = "ua-clear"; clr.textContent = "Clear chat";
+  panel.appendChild(clr);
+  clr.addEventListener("click", () => { log.innerHTML = ""; kept = []; hist.length = 0; try { localStorage.removeItem(KEEP); } catch (e) {} say(reply("hi")); setChips(CHIPS); });
   // A round "Ask Lilo" button with Lilo's face, next to the search box at the top of every page.
   const hs = document.querySelector(".topbar .hsearch");
   if (hs && !document.getElementById("lilo-top")) {
@@ -646,12 +652,14 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
   }
   // Coming back to the site in the same tab: the earlier conversation is shown again, open if it was open.
   try {
-    const st = JSON.parse(sessionStorage.getItem(KEEP) || "null");
+    try { sessionStorage.removeItem(KEEP); } catch (e) {}
+    let st = JSON.parse(localStorage.getItem(KEEP) || "null");
+    if (st && (!st.t || Date.now() - st.t > DAY)) { localStorage.removeItem(KEEP); st = null; }
     if (st && Array.isArray(st.log) && st.log.length) {
       restoring = true; st.log.forEach((m) => say(m.html, m.me)); restoring = false;
       kept = st.log; if (Array.isArray(st.hist)) st.hist.forEach((m) => hist.push(m));
       opened = true; setChips(CHIPS); loadIdx();
-      if (st.open) open(true);
+      if (st.open && Date.now() - st.t < REOPEN) open(true);
     }
   } catch (e) { restoring = false; }
   btn.addEventListener("click", () => (panel.classList.contains("open") ? close() : open()));

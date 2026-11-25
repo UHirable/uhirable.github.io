@@ -1801,3 +1801,6 @@ textarea { resize: vertical; }
 .lilo-top{flex:none;width:44px;height:44px;border-radius:50%;padding:0;margin:0 4px 0 2px;border:2px solid #fff;background:#fff;cursor:pointer;overflow:hidden;box-shadow:0 0 0 3px #ffc93c,0 5px 10px rgba(0,0,0,.25);transition:transform .15s}
 .lilo-top:hover{transform:translateY(-2px) rotate(-6deg)}.lilo-top img{width:100%;height:100%;object-fit:cover;display:block}
 @media(max-width:560px){.lilo-top{width:36px;height:36px;margin:0 3px 0 9px;border-width:1.5px}.topbar .logo img.logo3d{height:54px!important;width:auto!important}.topbar .hsearch{margin-left:8px}.topbar .hsearch input{padding-left:30px;padding-right:6px}.topbar .hsearch svg{left:9px}}
+
+/* "Clear chat" under Lilo's message box */
+.ua-clear{display:block;width:100%;border:0;background:#fff;color:#6b70a0;font:inherit;font-size:.78rem;font-weight:700;padding:0 0 9px;cursor:pointer;text-decoration:underline;flex:none}.ua-clear:hover{color:#0112ff}
