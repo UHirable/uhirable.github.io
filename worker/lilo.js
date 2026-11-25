@@ -144,7 +144,7 @@ const PAGES = [
   ["CV Match (compare your CV with open jobs)", "cv-match.html"],
   ["CV Tools", "cv-tools.html"],
   ["Career Boost (tools and offers for job seekers)", "career-boost.html"],
-  ["Get paid to train AI", "get-paid-to-train-ai.html"],
+  ["Get paid to train AI (Mercor and Terac for professionals with experience in a field; Clickworker for small paid tasks from a phone or computer: surveys, voice recordings, photos, web research, app testing)", "get-paid-to-train-ai.html"],
   ["Open to Work (add your profile so employers can find you)", "open-to-work.html"],
   ["Post a Job for free (employers)", "post-a-job.html"],
   ["Hiring Partners (tools and offers for companies)", "partners.html"],
