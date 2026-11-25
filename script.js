@@ -488,6 +488,21 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
     let c = COUNTRIES.filter((x) => new RegExp("(^|[^a-z])" + x + "($|[^a-z])").test(t)).sort((a, b) => b.length - a.length)[0];
     if (!c) { const k = Object.keys(AR_COUNTRIES).find((x) => t.includes(norm(x))); if (k) c = AR_COUNTRIES[k]; }
     const wantsSites = has("job site", "job board", "where to search", "sites", "websites", "مواقع", "موقع", "ادور فين", "ابحث فين", "منين");
+    // "accounting jobs in Egypt": the live job search for that country and field comes first; job sites only when they ask for sites.
+    if (c && !wantsSites) {
+      const JC = { "united states": "United States", egypt: "Egypt", bahrain: "Bahrain", kuwait: "Kuwait", qatar: "Qatar", saudi: "Saudi Arabia", uae: "United Arab Emirates", "united kingdom": "United Kingdom", canada: "Canada", germany: "Germany", india: "India", pakistan: "Pakistan", "south africa": "South Africa", spain: "Spain", philippines: "Philippines", indonesia: "Indonesia", kenya: "Kenya", oman: "Oman", nigeria: "Nigeria", australia: "Australia", france: "France", netherlands: "Netherlands", ireland: "Ireland", singapore: "Singapore", malaysia: "Malaysia", brazil: "Brazil", belgium: "Belgium", portugal: "Portugal", mexico: "Mexico", greece: "Greece" };
+      const name = JC[ALIAS[c] || c];
+      if (name) {
+        const F = { "حسابات": "accounting", "محاسب": "accountant", "تسويق": "marketing", "مبيعات": "sales", "خدمه عملاء": "customer service", "مهندس": "engineer", "هندسه": "engineering", "تمريض": "nurse", "ممرض": "nurse", "موارد بشريه": "hr", "مبرمج": "developer", "برمجه": "developer", "مدرس": "teacher", "تدريس": "teacher", "سواق": "driver", "سائق": "driver", "دكتور": "doctor", "طبيب": "doctor", "صيدل": "pharmacist", "تصميم": "designer", "مصمم": "designer", "بيانات": "data", "داتا": "data", "اداره": "manager", "سكرتار": "secretary", "استقبال": "receptionist", "شيف": "chef", "امن": "security", "كول سنتر": "call center", "ترجمه": "translator" };
+        const SKIP = new Set("job jobs work working role roles vacancy vacancies hiring career careers want need looking find search show give get please for the and any some with from into near about there here open new latest best me my i in at a an to of is are".split(" "));
+        const fk = Object.keys(F).sort((a, b) => b.length - a.length).find((k) => t.includes(norm(k)));
+        const used = new Set((c + " " + (ALIAS[c] || "") + " " + name.toLowerCase()).split(" "));
+        const field = fk ? F[fk] : (t.match(/[a-z][a-z+#.]{1,}/g) || []).filter((w) => !SKIP.has(w) && !used.has(w)).slice(0, 3).join(" ");
+        const url = "jobs.html?country=" + encodeURIComponent(name) + (field ? "&q=" + encodeURIComponent(field) : "");
+        const label = field ? (ar ? `وظايف ${escapeHTML(field)} في ${escapeHTML(name)} ←` : `${escapeHTML(field)} jobs in ${escapeHTML(name)} →`) : (ar ? `الوظايف المفتوحة في ${escapeHTML(name)} ←` : `Open jobs in ${escapeHTML(name)} →`);
+        return (ar ? "دي الوظايف المفتوحة دلوقتي" + (field ? " في مجالك" : "") + ":" : "Here are the live jobs" + (field ? " in your field" : "") + ":") + "<br><b>" + L(label, url) + "</b><br><br>" + (ar ? "ولو عايز مواقع توظيف في نفس البلد: " : "Job sites for the same country: ") + L(ar ? "مواقع التوظيف" : "Job sites", "job-sites.html");
+      }
+    }
     if (c || wantsSites) {
       const key = ALIAS[c] || c; const sites = key ? find([key], ["Job Site"], 6) : [], jobs = key ? find([key], ["Job"], 4) : [];
       let out = key ? (ar ? `ده اللي لقيته لـ <b>${escapeHTML(key)}</b>:` : `Here's what I found for <b>${escapeHTML(key)}</b>:`) : (ar ? "مواقع التوظيف حسب المنطقة (100+ موقع): " : "Browse 100+ job sites by region: ") + L(ar ? "مواقع التوظيف" : "Job Sites", "job-sites.html");
@@ -595,7 +610,7 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
     .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, (m, a, u) => `<a href="${u}"${/^https?:\/\/(www\.)?uhirable\.com/i.test(u) ? "" : ' target="_blank" rel="sponsored noopener noreferrer"'}>${a}</a>`)
     .replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>").replace(/(^|\n)\s*[-*•]\s+/g, "$1• ").replace(/\n{2,}/g, "<br><br>").replace(/\n/g, "<br>");
   async function aiReply() {
-    const ctl = new AbortController(), timer = setTimeout(() => ctl.abort(), 20000);
+    const ctl = new AbortController(), timer = setTimeout(() => ctl.abort(), 15000);
     try {
       const r = await fetch("/api/lilo", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ messages: hist.slice(-8) }), signal: ctl.signal });
       if (!r.ok) return null;

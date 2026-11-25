@@ -15,8 +15,9 @@ import { jobPostApi } from "./jobpost.js";
 const SITE = "https://uhirable.com/";
 const WHATSAPP = "https://whatsapp.com/channel/0029VbEDfrB7oQhYTHsf582Q";
 
-// Text models that are on the free Workers plan, best first. The first one that answers is used.
-const MODELS = ["@cf/zai-org/glm-4.7-flash", "@cf/google/gemma-4-26b-a4b-it", "@cf/meta/llama-3.1-8b-instruct"];
+// Text models that are on the free Workers plan, with how long each may take (ms). The first one that answers in time is used.
+// The whole wait stays under about 14 seconds; after that the page uses Lilo's built-in answers.
+const MODELS = [["@cf/google/gemma-4-26b-a4b-it", 8500], ["@cf/meta/llama-3.1-8b-instruct", 5000]];
 
 const json = (data, status = 200, headers = {}) =>
   new Response(JSON.stringify(data), { status, headers: { "content-type": "application/json; charset=utf-8", ...headers } });
@@ -96,6 +97,35 @@ async function employerJobs(env, url, ctx) {
   } catch (e) { return []; }
 }
 
+// A link to the live job search for the country (and field) named in a message, e.g. "accounting jobs in Egypt".
+const JOB_COUNTRIES = { "united states": "United States", usa: "United States", america: "United States", egypt: "Egypt", bahrain: "Bahrain", kuwait: "Kuwait", qatar: "Qatar",
+  "saudi arabia": "Saudi Arabia", saudi: "Saudi Arabia", ksa: "Saudi Arabia", riyadh: "Saudi Arabia", jeddah: "Saudi Arabia", "united arab emirates": "United Arab Emirates", uae: "United Arab Emirates", dubai: "United Arab Emirates", "abu dhabi": "United Arab Emirates",
+  "united kingdom": "United Kingdom", uk: "United Kingdom", england: "United Kingdom", britain: "United Kingdom", london: "United Kingdom", canada: "Canada", germany: "Germany", india: "India", pakistan: "Pakistan",
+  "south africa": "South Africa", spain: "Spain", philippines: "Philippines", indonesia: "Indonesia", kenya: "Kenya", oman: "Oman", "sri lanka": "Sri Lanka", uganda: "Uganda", nigeria: "Nigeria", australia: "Australia",
+  france: "France", netherlands: "Netherlands", ireland: "Ireland", singapore: "Singapore", malaysia: "Malaysia", brazil: "Brazil", belgium: "Belgium", argentina: "Argentina", portugal: "Portugal", mexico: "Mexico", greece: "Greece",
+  "مصر": "Egypt", "القاهره": "Egypt", "الامارات": "United Arab Emirates", "دبي": "United Arab Emirates", "ابوظبي": "United Arab Emirates", "السعوديه": "Saudi Arabia", "الرياض": "Saudi Arabia", "جده": "Saudi Arabia",
+  "قطر": "Qatar", "الكويت": "Kuwait", "البحرين": "Bahrain", "عمان": "Oman", "انجلترا": "United Kingdom", "بريطانيا": "United Kingdom", "لندن": "United Kingdom", "كندا": "Canada", "المانيا": "Germany", "امريكا": "United States",
+  "الهند": "India", "باكستان": "Pakistan", "نيجيريا": "Nigeria", "كينيا": "Kenya", "استراليا": "Australia", "فرنسا": "France", "هولندا": "Netherlands", "ايرلندا": "Ireland", "اسبانيا": "Spain" };
+const JOB_FIELDS = { "حسابات": "accounting", "محاسب": "accountant", "تسويق": "marketing", "مبيعات": "sales", "خدمه عملاء": "customer service", "مهندس": "engineer", "هندسه": "engineering", "تمريض": "nurse", "ممرض": "nurse",
+  "موارد بشريه": "hr", "مبرمج": "developer", "برمجه": "developer", "مدرس": "teacher", "تدريس": "teacher", "سواق": "driver", "سائق": "driver", "دكتور": "doctor", "طبيب": "doctor", "صيدل": "pharmacist",
+  "تصميم": "designer", "مصمم": "designer", "بيانات": "data", "داتا": "data", "اداره": "manager", "سكرتار": "secretary", "استقبال": "receptionist", "شيف": "chef", "امن": "security", "كول سنتر": "call center", "ترجمه": "translator" };
+const JOB_SKIP = new Set("job jobs work working role roles vacancy vacancies hiring career careers want need looking find search show give get please for the and any some with from into near about there here open new latest best me my i in at a an to of is are".split(" "));
+const arNorm = (x) => x.replace(/[أإآ]/g, "ا").replace(/ى/g, "ي").replace(/ة/g, "ه").replace(/ؤ/g, "و").replace(/ئ/g, "ي").replace(/[\u064B-\u0652\u0640]/g, "");
+export function jobSearchLink(text) {
+  const t = arNorm(String(text || "").toLowerCase());
+  const key = Object.keys(JOB_COUNTRIES).sort((a, b) => b.length - a.length)
+    .find((k) => (/[a-z]/.test(k) ? new RegExp("(^|[^a-z])" + k + "($|[^a-z])").test(t) : t.includes(k)));
+  if (!key) return null;
+  const country = JOB_COUNTRIES[key];
+  let field = (Object.keys(JOB_FIELDS).sort((a, b) => b.length - a.length).find((k) => t.includes(k)) || "");
+  field = field ? JOB_FIELDS[field] : "";
+  if (!field) {
+    const used = new Set(Object.keys(JOB_COUNTRIES).filter((k) => JOB_COUNTRIES[k] === country).join(" ").split(" "));
+    field = (t.match(/[a-z][a-z+#.]{1,}/g) || []).filter((w) => !JOB_SKIP.has(w) && !used.has(w)).slice(0, 3).join(" ");
+  }
+  return { country, field, url: SITE + "jobs.html?country=" + encodeURIComponent(country) + (field ? "&q=" + encodeURIComponent(field) : "") };
+}
+
 // ---------- Lilo ----------
 
 const PAGES = [
@@ -120,7 +150,7 @@ const PAGES = [
   ["Contact", "contact.html"],
 ];
 
-function systemPrompt(d, found, jobs) {
+function systemPrompt(d, found, jobs, live) {
   const line = (o) => `- ${o.name} (${o.what}): ${o.offer}${o.details ? ". " + o.details : ""}. Link: ${o.link}`;
   return [
     "You are Lilo, the assistant on U Hirable (uhirable.com), a free hiring hub: jobs, visa sponsorship lists, CV tools, job fairs, and free job posting for employers.",
@@ -131,6 +161,7 @@ function systemPrompt(d, found, jobs) {
     "Only use links that appear below, written as markdown [text](url). Never write any other link.",
     "U Hirable is not a recruitment agency: it does not screen candidates, guarantee jobs or handle applications. Never tell anyone to pay to apply for a job.",
     "Do not mention commissions, referrals or affiliates. Do not ask for a CV to be sent to you, passwords, ID numbers or payment details.",
+    live ? `LIVE JOB SEARCH FOR THIS REQUEST (give this link first when they ask for jobs${live.field ? " in this field" : ""} in ${live.country}; do not send them to job sites instead): ${live.url}` : "",
     "",
     "MAIN PAGES:",
     ...PAGES.map(([t, u]) => `- ${t}: ${SITE}${u}`),
@@ -184,20 +215,39 @@ export async function liloApi(request, env, url, ctx) {
   const d = await data(env, url);
   const found = search(d.index, last.content, null, 8);
   const jobs = await employerJobs(env, url, ctx);
+  const live = jobSearchLink(last.content);
   const allowed = new Set([WHATSAPP, SITE, SITE.slice(0, -1), ...PAGES.map(([, u]) => SITE + u),
     ...d.seekers.map((o) => o.link), ...d.companies.map((o) => o.link), ...found.map((f) => f.url), ...jobs.map((j) => j.url)]);
-  const messages = [{ role: "system", content: systemPrompt(d, found, jobs) }, ...msgs];
+  if (live) allowed.add(live.url);
+  const messages = [{ role: "system", content: systemPrompt(d, found, jobs, live) }, ...msgs];
 
-  for (const model of MODELS) {
+  // What happened with each model goes to a small table (model, time, error only; never the conversation), so problems can be found.
+  const note = (model, ms, ok, err) => {
+    if (!env.DB || !ctx || !ctx.waitUntil) return;
+    ctx.waitUntil((async () => {
+      try {
+        await env.DB.prepare("CREATE TABLE IF NOT EXISTS lilo_log (at TEXT, model TEXT, ms INTEGER, ok INTEGER, err TEXT)").run();
+        await env.DB.prepare("INSERT INTO lilo_log (at, model, ms, ok, err) VALUES (?, ?, ?, ?, ?)").bind(new Date().toISOString(), model, ms, ok ? 1 : 0, String(err || "").slice(0, 300)).run();
+        await env.DB.prepare("DELETE FROM lilo_log WHERE at < ?").bind(new Date(Date.now() - 14 * 864e5).toISOString()).run();
+      } catch (e) {}
+    })());
+  };
+
+  for (const [model, limit] of MODELS) {
+    const t0 = Date.now();
     try {
-      const out = await env.AI.run(model, { messages, max_tokens: 420, temperature: 0.6 });
+      const out = await Promise.race([
+        env.AI.run(model, { messages, max_tokens: 380, temperature: 0.6 }),
+        new Promise((_, no) => setTimeout(() => no(new Error("timeout after " + limit + "ms")), limit)),
+      ]);
       let text = "";
       if (typeof out === "string") text = out;
       else if (out && typeof out.response === "string") text = out.response;
       else if (out && out.choices && out.choices[0]) text = (out.choices[0].message && out.choices[0].message.content) || out.choices[0].text || "";
       text = String(text || "").replace(/<think>[\s\S]*?<\/think>/g, "").trim();
-      if (text) return json({ reply: keepKnownLinks(text, allowed).slice(0, 2500) }, 200, { "cache-control": "no-store" });
-    } catch (e) { /* try the next model */ }
+      if (text) { note(model, Date.now() - t0, true, ""); return json({ reply: keepKnownLinks(text, allowed).slice(0, 2500) }, 200, { "cache-control": "no-store" }); }
+      note(model, Date.now() - t0, false, "empty answer: " + JSON.stringify(out).slice(0, 200));
+    } catch (e) { note(model, Date.now() - t0, false, (e && (e.message || e.name)) || "error"); }
   }
   return json({ error: "unavailable" }, 503);
 }
