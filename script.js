@@ -456,7 +456,10 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
   document.body.appendChild(panel);
   const log = panel.querySelector("#ua-log"), chips = panel.querySelector("#ua-chips"), form = panel.querySelector("#ua-form"), q = panel.querySelector("#ua-q");
   const CHIPS = ["Remote jobs", "Visa sponsorship", "Fix my CV", "Jobs in UAE", "Job sites", "Hire talent"];
-  const say = (html, me) => { const d = document.createElement("div"); d.className = "ua-m " + (me ? "me" : "bot"); d.dir = "auto"; if (me) d.textContent = html; else d.innerHTML = html; log.appendChild(d); log.scrollTop = log.scrollHeight; };
+  // The conversation is kept for this browser tab (sessionStorage), so leaving the page and coming back shows the same chat, still open.
+  const KEEP = "uh-lilo"; let kept = [], restoring = false;
+  const persist = () => { try { sessionStorage.setItem(KEEP, JSON.stringify({ open: panel.classList.contains("open"), log: kept.slice(-30), hist: (typeof hist !== "undefined" ? hist : []).slice(-8) })); } catch (e) {} };
+  const say = (html, me) => { const d = document.createElement("div"); d.className = "ua-m " + (me ? "me" : "bot"); d.dir = "auto"; if (me) d.textContent = html; else d.innerHTML = html; log.appendChild(d); log.scrollTop = log.scrollHeight; if (!restoring) { kept.push({ me: !!me, html: String(html).slice(0, 6000) }); persist(); } };
   const setChips = (list) => { chips.innerHTML = list.map((c) => `<button type="button">${escapeHTML(c)}</button>`).join(""); };
   chips.addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) ask(b.textContent); });
   const L = (t, u) => `<a href="${/^https?:/.test(u) ? u : UA_BASE + u}">${t}</a>`;
@@ -631,8 +634,26 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
   }
   form.addEventListener("submit", (e) => { e.preventDefault(); ask(q.value); });
   let opened = false;
-  const open = () => { panel.classList.add("open"); btn.setAttribute("aria-expanded", "true"); if (!opened) { opened = true; loadIdx(); say(reply("hi")); setChips(CHIPS); } q.focus(); };
-  const close = () => { panel.classList.remove("open"); btn.setAttribute("aria-expanded", "false"); };
+  const open = (quiet) => { panel.classList.add("open"); btn.setAttribute("aria-expanded", "true"); if (!opened) { opened = true; loadIdx(); say(reply("hi")); setChips(CHIPS); } if (!quiet) q.focus(); persist(); };
+  const close = () => { panel.classList.remove("open"); btn.setAttribute("aria-expanded", "false"); persist(); };
+  // A round "Ask Lilo" button with Lilo's face, next to the search box at the top of every page.
+  const hs = document.querySelector(".topbar .hsearch");
+  if (hs && !document.getElementById("lilo-top")) {
+    const tb = document.createElement("button"); tb.id = "lilo-top"; tb.className = "lilo-top"; tb.type = "button"; tb.title = "Ask Lilo"; tb.setAttribute("aria-label", "Ask Lilo");
+    tb.innerHTML = '<img src="' + UA_BASE + 'robot-head.webp" alt="" width="40" height="40">';
+    hs.insertAdjacentElement("afterend", tb);
+    tb.addEventListener("click", () => (panel.classList.contains("open") ? close() : open()));
+  }
+  // Coming back to the site in the same tab: the earlier conversation is shown again, open if it was open.
+  try {
+    const st = JSON.parse(sessionStorage.getItem(KEEP) || "null");
+    if (st && Array.isArray(st.log) && st.log.length) {
+      restoring = true; st.log.forEach((m) => say(m.html, m.me)); restoring = false;
+      kept = st.log; if (Array.isArray(st.hist)) st.hist.forEach((m) => hist.push(m));
+      opened = true; setChips(CHIPS); loadIdx();
+      if (st.open) open(true);
+    }
+  } catch (e) { restoring = false; }
   btn.addEventListener("click", () => (panel.classList.contains("open") ? close() : open()));
   panel.querySelector(".ua-head button").addEventListener("click", close);
 })();
