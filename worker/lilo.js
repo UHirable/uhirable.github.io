@@ -15,9 +15,10 @@ import { jobPostApi } from "./jobpost.js";
 const SITE = "https://uhirable.com/";
 const WHATSAPP = "https://whatsapp.com/channel/0029VbEDfrB7oQhYTHsf582Q";
 
-// Text models that are on the free Workers plan, with how long each may take (ms). The first one that answers in time is used.
-// The whole wait stays under about 14 seconds; after that the page uses Lilo's built-in answers.
-const MODELS = [["@cf/google/gemma-4-26b-a4b-it", 8500], ["@cf/meta/llama-3.1-8b-instruct", 5000]];
+// The text model (on the free Workers plan) and how long it may take (ms). The visitor should not wait more than about 5 seconds:
+// after that the page uses Lilo's built-in answers. Thinking mode is off (enable_thinking: false); with it on, the model
+// spends its words thinking and the answer comes back empty.
+const MODELS = [["@cf/google/gemma-4-26b-a4b-it", 5000]];
 
 const json = (data, status = 200, headers = {}) =>
   new Response(JSON.stringify(data), { status, headers: { "content-type": "application/json; charset=utf-8", ...headers } });
@@ -106,10 +107,10 @@ const JOB_COUNTRIES = { "united states": "United States", usa: "United States", 
   "مصر": "Egypt", "القاهره": "Egypt", "الامارات": "United Arab Emirates", "دبي": "United Arab Emirates", "ابوظبي": "United Arab Emirates", "السعوديه": "Saudi Arabia", "الرياض": "Saudi Arabia", "جده": "Saudi Arabia",
   "قطر": "Qatar", "الكويت": "Kuwait", "البحرين": "Bahrain", "عمان": "Oman", "انجلترا": "United Kingdom", "بريطانيا": "United Kingdom", "لندن": "United Kingdom", "كندا": "Canada", "المانيا": "Germany", "امريكا": "United States",
   "الهند": "India", "باكستان": "Pakistan", "نيجيريا": "Nigeria", "كينيا": "Kenya", "استراليا": "Australia", "فرنسا": "France", "هولندا": "Netherlands", "ايرلندا": "Ireland", "اسبانيا": "Spain" };
-const JOB_FIELDS = { "حسابات": "accounting", "محاسب": "accountant", "تسويق": "marketing", "مبيعات": "sales", "خدمه عملاء": "customer service", "مهندس": "engineer", "هندسه": "engineering", "تمريض": "nurse", "ممرض": "nurse",
+const JOB_FIELDS = { "حسابات": "accounting", "محاسب": "accountant", "مدير تسويق": "marketing manager", "تسويق": "marketing", "مدير مبيعات": "sales manager", "مبيعات": "sales", "مدير": "manager", "خدمه عملاء": "customer service", "مهندس": "engineer", "هندسه": "engineering", "تمريض": "nurse", "ممرض": "nurse",
   "موارد بشريه": "hr", "مبرمج": "developer", "برمجه": "developer", "مدرس": "teacher", "تدريس": "teacher", "سواق": "driver", "سائق": "driver", "دكتور": "doctor", "طبيب": "doctor", "صيدل": "pharmacist",
   "تصميم": "designer", "مصمم": "designer", "بيانات": "data", "داتا": "data", "اداره": "manager", "سكرتار": "secretary", "استقبال": "receptionist", "شيف": "chef", "امن": "security", "كول سنتر": "call center", "ترجمه": "translator" };
-const JOB_SKIP = new Set("job jobs work working role roles vacancy vacancies hiring career careers want need looking find search show give get please for the and any some with from into near about there here open new latest best me my i in at a an to of is are".split(" "));
+const JOB_SKIP = new Set("job jobs work working role roles vacancy vacancies hiring career careers want need looking find search show give get please for the and any some with from into near about there here open new latest best me my i in at a an to of is are how much what salary salaries pay paid average does do exactly".split(" "));
 const arNorm = (x) => x.replace(/[أإآ]/g, "ا").replace(/ى/g, "ي").replace(/ة/g, "ه").replace(/ؤ/g, "و").replace(/ئ/g, "ي").replace(/[\u064B-\u0652\u0640]/g, "");
 export function jobSearchLink(text) {
   const t = arNorm(String(text || "").toLowerCase());
@@ -154,7 +155,7 @@ function systemPrompt(d, found, jobs, live) {
   const line = (o) => `- ${o.name} (${o.what}): ${o.offer}${o.details ? ". " + o.details : ""}. Link: ${o.link}`;
   return [
     "You are Lilo, the assistant on U Hirable (uhirable.com), a free hiring hub: jobs, visa sponsorship lists, CV tools, job fairs, and free job posting for employers.",
-    "Talk like a warm, sharp human recruiter friend: short, natural sentences, no corporate tone, no bullet walls. Two to five sentences is usually enough. Ask one short follow-up question when it helps (their country, field, or experience).",
+    "Talk like a warm, sharp human recruiter friend: short, natural sentences, no corporate tone, no bullet walls. Two to four short sentences. Ask one short follow-up question when it helps (their country, field, or experience).",
     "Always reply in the language the visitor writes in. For Arabic, write in friendly Egyptian Arabic.",
     "If asked whether you are a human, say plainly that you are Lilo, U Hirable's AI assistant.",
     "Only state facts found below. If you do not know something, say so and point to the closest page. Never invent jobs, companies, salaries, dates, visa rules or links.",
@@ -237,7 +238,7 @@ export async function liloApi(request, env, url, ctx) {
     const t0 = Date.now();
     try {
       const out = await Promise.race([
-        env.AI.run(model, { messages, max_tokens: 380, temperature: 0.6 }),
+        env.AI.run(model, { messages, max_tokens: 300, temperature: 0.6, chat_template_kwargs: { enable_thinking: false } }),
         new Promise((_, no) => setTimeout(() => no(new Error("timeout after " + limit + "ms")), limit)),
       ]);
       let text = "";
