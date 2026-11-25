@@ -10,12 +10,15 @@
 //   /open-to-work.html       -> the page, with the approved profile cards written into it
 //   /api/jobpost...          -> free job posts sent by employers (worker/jobpost.js)
 //   /job-post-<id>.html      -> an approved job post's own page; /sitemap-jobs.xml lists them
+//   /api/lilo                -> Lilo's AI answers (worker/lilo.js)
+//   /mcp                     -> the U Hirable connector for AI apps such as ChatGPT and Claude (worker/lilo.js)
 //   removed list pages       -> permanent redirect to the nearest page that still exists (see removedPage)
 //   anything else            -> the site's 404 page, with a real 404 status
 
 import { talentApi, talentPage } from "./talent.js";
 import { applyApi } from "./apply.js";
 import { jobPostApi, jobPostPage, jobPostSitemap } from "./jobpost.js";
+import { liloApi, mcpApi } from "./lilo.js";
 
 // Same address as the request, with another path and no query string.
 function at(url, path) {
@@ -106,6 +109,14 @@ export default {
     if (path === "/api/jobpost" || path.startsWith("/api/jobpost/")) {
       try { return await jobPostApi(request, env, url, ctx); }
       catch (e) { return new Response(JSON.stringify({ error: "Something went wrong. Please try again." }), { status: 500, headers: { "content-type": "application/json" } }); }
+    }
+    if (path === "/api/lilo") {
+      try { return await liloApi(request, env, url, ctx); }
+      catch (e) { return new Response(JSON.stringify({ error: "unavailable" }), { status: 503, headers: { "content-type": "application/json" } }); }
+    }
+    if (path === "/mcp" || path === "/mcp/") {
+      try { return await mcpApi(request, env, url, ctx); }
+      catch (e) { return new Response(JSON.stringify({ jsonrpc: "2.0", id: null, error: { code: -32603, message: "Internal error" } }), { status: 500, headers: { "content-type": "application/json" } }); }
     }
     if (path === "/sitemap-jobs.xml") return jobPostSitemap(env);
     // An approved job post's page. A job that is not live (never approved, taken down, or older than 30 days) falls through to the 404 page.

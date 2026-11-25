@@ -20,5 +20,7 @@
     { "binding": "DB", "database_name": "uhirable-talent", "database_id": "82f84bc9-9bc4-429c-8942-e718d909242e" }
   ],
   // Lets worker/talent.js email the owner when a new profile is waiting (through the domain's Email Routing).
-  "send_email": [{ "name": "MAIL" }]
+  "send_email": [{ "name": "MAIL" }],
+  // Workers AI writes Lilo's answers (worker/lilo.js). It runs on the free daily allowance.
+  "ai": { "binding": "AI" }
 }

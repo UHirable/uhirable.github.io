@@ -589,7 +589,32 @@ document.addEventListener("click", () => document.querySelectorAll(".dd.open").f
     } catch (e) { say("I couldn't read that file (" + (e && e.message === "timeout" ? "it took too long" : "no readable text") + "). Try a PDF or Word (.docx) with selectable text, or type your main skills here and I'll match them."); }
     fileIn.value = "";
   });
-  async function ask(text) { if (!text.trim()) return; say(text, true); q.value = ""; await loadIdx(); setTimeout(() => say(reply(text)), 250); }
+  // Lilo's answers come from the AI (/api/lilo). If it is unavailable, the built-in answers below are used instead.
+  const hist = [];
+  const mdSafe = (t) => escapeHTML(t)
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, (m, a, u) => `<a href="${u}"${/^https?:\/\/(www\.)?uhirable\.com/i.test(u) ? "" : ' target="_blank" rel="sponsored noopener noreferrer"'}>${a}</a>`)
+    .replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>").replace(/(^|\n)\s*[-*•]\s+/g, "$1• ").replace(/\n{2,}/g, "<br><br>").replace(/\n/g, "<br>");
+  async function aiReply() {
+    const ctl = new AbortController(), timer = setTimeout(() => ctl.abort(), 20000);
+    try {
+      const r = await fetch("/api/lilo", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ messages: hist.slice(-8) }), signal: ctl.signal });
+      if (!r.ok) return null;
+      const j = await r.json();
+      return j && typeof j.reply === "string" && j.reply.trim() ? j.reply.trim() : null;
+    } catch (e) { return null; } finally { clearTimeout(timer); }
+  }
+  let busy = false;
+  async function ask(text) {
+    if (!text.trim() || busy) return; busy = true;
+    say(text, true); q.value = ""; await loadIdx();
+    hist.push({ role: "user", content: text });
+    const wait = document.createElement("div"); wait.className = "ua-m bot ua-wait"; wait.textContent = "…"; log.appendChild(wait); log.scrollTop = log.scrollHeight;
+    const ai = await aiReply();
+    wait.remove();
+    if (ai) { say(mdSafe(ai)); hist.push({ role: "assistant", content: ai }); }
+    else { const out = reply(text); say(out); const d = document.createElement("div"); d.innerHTML = out; hist.push({ role: "assistant", content: d.textContent.slice(0, 600) }); }
+    busy = false;
+  }
   form.addEventListener("submit", (e) => { e.preventDefault(); ask(q.value); });
   let opened = false;
   const open = () => { panel.classList.add("open"); btn.setAttribute("aria-expanded", "true"); if (!opened) { opened = true; loadIdx(); say(reply("hi")); setChips(CHIPS); } q.focus(); };
