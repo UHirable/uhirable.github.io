@@ -1,0 +1,4 @@
+"adventor-700.woff" is a Latin subset of TeX Gyre Adventor Bold
+Copyright (C) 2007-2018 Bogusław Jackowski and Janusz M. Nowacki (GUST e-foundry).
+Distributed under the GUST Font License: http://www.gust.org.pl/projects/e-foundry/licenses
+Source: http://www.gust.org.pl/projects/e-foundry/tex-gyre/
