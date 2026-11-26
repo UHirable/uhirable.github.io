@@ -64,7 +64,6 @@ ALI RAJ TANDOORI RESTAURANT LTD	Kent	A	0
 ALICE HOPKINS LTD	Keighley	A	0
 ALISON HOLDINGS LTD T/A KASPAS DESSERTS	Kent	A	0
 ALL ABOUT CARE LIMITED	Kent	A	0
-ALL CUISINES CATERING LTD t/a KOKU SHI	Kirkcaldy	A	0
 All Motors Ltd	Kirknewton	A	0
 All Saints' Trust	Kenton	A	0
 Allen Pyke Associates Ltd	Kingston Upon Thames	A	0
@@ -73,6 +72,7 @@ Alpacaly Ever After CIC	Keswick	A	0
 Alpenbest Limited	Kingston upon Thames	A	0
 ALPHA TRAINING & CONSULTANTS LTD	Knaresborough	A	0
 Alphasonics UCS Ltd	Knowsley	A	0
+Always Caring Bromley Ltd	Kent	A	0
 AMA POSTMAIL LIMITED	Kirkcaldy	A	0
 Amada United Kingdom Limited	Kidderminster	A	0,4,7
 Amelia Knight Limited	Knutsford	A	0,4
@@ -175,6 +175,7 @@ BFC INTERNATIONAL FOOD CENTRE LTD	Kent	A	0
 BG Research Ltd	Kimbolton	A	0
 BHAVA BISTRO LTD	Kingston Upon Thames	A	0
 Bholenath Limited	Kidderminster	A	0
+Bholenath Ltd T/a Chef's Kitchen	Kidderminster	A	0
 BICYCLE TOWN LIMITED t/a BUBBLEOLOGY	Kingston Upon Thames	A	0
 Biome9 Limited	Kettering	A	0
 BIRYANI JUNCTION Ltd	Kingsley Road	A	0
@@ -315,7 +316,6 @@ Cumbria Deaf Association	Kendal	A	0
 Cumbria Nursing Services (Millfield) Limited	Keswick	A	0
 Cumbria Smiles	Kirkby Stephen	A	0
 Cummins Civil Engineering Ltd	Knutsford	A	0
-CURCUMIN LTD T/A TULASI	Kidlington	A	0
 Curo Salus Ltd	Kilbarchan	A	0
 Curry House	Keighley	A	0
 CXC GLOBAL EMEA UK LIMITED	Kings Langley	A	0,4
@@ -754,7 +754,6 @@ Kirkcaldy House Spice Limited t/a Amritsar Tandoori Restaurant	Kirkcaldy	A	0
 Kirkcaldy House Spice ltd	Kirkcaldy	A	0
 Kirkcaldy Islamic Centre	Kirkcaldy	A	1
 Kirkcaldy Specsavers Limited	Kirkcaldy	A	0
-Kirkella Mansions Limited	Kirk Ella	A	0
 Kirkgate Off Licence & News Agent	Keighley	A	0
 Kirklands Hotel Kinross Ltd	Kinross	A	0
 KLR SOLICITORS LTD	Kent	A	0
@@ -921,7 +920,6 @@ Mullinsallagh Ltd	Knockloughrim	A	0
 MUMBAI CUISINES LIMITED T/a Mumbai	Kendal	A	0
 Mumbai Wok Ltd	Kent	A	0
 Munnelly Support Services Limited	Kings Langley	A	0
-mydentist Group Limited	Kearsley	A	0
 Nanoflam Limited	King's Lynn	A	0
 Narmico Consulting Servics ltd.	Kings Hill	A	0
 Narrativ Ltd	Kingston Upon Thames	A	0
@@ -930,6 +928,7 @@ Nav Van Hire Ltd	Kettering	A	0
 NAZAM BUILDERS LIMITED	Keighley	A	0
 NB Pharmacy Ltd	Kent	A	0
 NDK Europe Limited	Kingston-upon-Thames	A	0,4
+NDPL MANAGEMENT LIMITED	Keighley	A	0
 Netherfield Cricket Club	Kendal	A	11
 New Best Co	Kent	A	0
 New Covenant Church Abbeywood	Kent	A	1
@@ -1109,7 +1108,6 @@ RAINBOW NAILS KETTERING LTD	Kettering	A	0
 RAITH ROVERS FOOTBALL CLUB	Kirkcaldy	A	11
 RAJ PAVILION CATERING LIMITED T/A RAJ PAVILION	Kent	A	0
 Ramadevi Ltd	Kilmarnock	A	0
-RAMSGATE SPICE LIMITED T/A SECRET SPICES	Kent	A	0
 RAMZAN KENNOWAY LTD TA RAMZANS CURRY HOUSE	Kennoway	A	0
 RANA SUPER STORE LTD	Kilmarnock	A	0
 RARS PVT LTD	King'S Lynn	A	0
@@ -1182,7 +1180,6 @@ S3 ENTERTAINMENTS LTD	Keighley	A	0
 SAA Spice Ltd, T/A Taste of Bengal	Kent	A	0
 Sable Cottage	Kelsall	A	0
 SAHNI CARE HOMES LIMITED T/A OAKLANDS CARE HOME	Kingswinford	A	0
-SAHOTA GROUNDWORK & FORMWORK LTD	Kent	A	0
 SAIM SPICES LTD	Kilmarnock	A	0
 Saipem Ltd	Kingston	A	0,4
 Saipem SPA UK Branch	Kingston Upon Thames	A	2
@@ -1236,6 +1233,7 @@ SHAN SMART LTD	Kent	A	0
 Shana Enterprises Limited T/A Deea bangladeshi cuisine	Kingston Upon Thames	A	0
 SHANT LTD	Kings Lynn	A	0
 SHARON SALON	Kingsbury	A	0
+SHASTA FOODS LIMITED t/a SUBWAY	Kent	A	0
 Shaw Education Trust	Kidsgrove	A	0
 Shayana Limited T/A Best One	Kent	A	0
 Shazsha Holdings Limited TA West Winch Service Station	King's Lynn	A	0
@@ -1288,6 +1286,7 @@ Sophie's Choice	Kent	A	0
 SORONY LIMITED T/A SUBWAY	Kenilworth	A	0
 SOUTH AMERICAN AGENCY LIMITED	Kent	A	0
 South Leicestershire Medical Group	Kibworth Beachamp	A	0
+South Moor Ltd TA South Moor Vets	Kingsbridge	A	0
 South Thames Colleges Group	Kingston upon Thames	A	0
 South Thames Colleges Group	Kingston-Upon Thames	A	0
 Southern Mart Limited	Kettering	A	0
@@ -1453,6 +1452,7 @@ Tiny Stars Day Nursery LTD	Keighley	A	0
 Tiny Thinkers	Kingston	A	0
 TITAN EUROPE LIMITED	Kidderminster	A	0
 TMAHANAIM LTD	Kington	A	0
+TMW Management Limited	Kenilworth	A	0
 TND Electrical Ltd	Kettering	A	0
 Today's	Kingston Upon Hull	A	0
 Todd & Duncan Limited	Kinross	A	0,4
@@ -1581,6 +1581,7 @@ Yogi's Tyres Limited	Keighley	A	0
 Yolo Group Restaurants Limited	Kingston Upon Thames	A	0
 YOUN HWA SA	Kingston Upon Thames	A	1
 Your Shop	Kent	A	0
+Youth Works Northamptonshire	Kettering	A	0
 YRS1985 LTD T/A ANNAPURNA GURKHA	Kirkcaldy	A	0
 YUCA ENERGY LIMITED	Kettering	A	0
 Yuchi Beauty Limited	Kent	A	0
@@ -1592,5 +1593,4 @@ Zedra Trust Company (UK) Limited	Knutsford	A	0
 ZEF CONCEPTS LTD	Kingston Upon Thames	A	0
 Zega Coffee	Kingston	A	0
 ZOLA LTD	Kent	A	0
-Zorba Group Limited	Kent	A	0
 Zucchetti UK Limited	Keynsham	A	0

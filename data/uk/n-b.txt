@@ -179,7 +179,6 @@ ABU BANGLADESH LIMITED	London	A	0
 Abundant Graze Ltd T/A ACH Healthcare (Bicester)	Bicester	A	0
 ABV HAIR & BEAUTY LTD	Dartford	A	0
 AC & AA Limited t/a Betterclean Services	Tunbridge Wells	A	0
-AC and JA Brodie	Dorking	A	11
 AC Breaking Limited	Cropredy	A	0
 ACADEMY BUILDING WORKS LTD	Hounslow,	A	0
 Acal BFi UK Limited	Wokingham	A	0
@@ -222,13 +221,13 @@ ADAM BOOZE LIMITED	Manchester	A	0
 Adam Build Ltd	London	A	0
 ADAM BUILDING SOLUTIONS LTD	Dagenham	A	0
 Adam Carr Builders Ltd	Carnforth	A	0
-Adam Grocers Ltd T/A Abu Bakr Supermarket	Leeds	A	0
 Adam Handling Limited T/A Frog by Adam Handling	Greater London	A	0
 Adam Hope Bespoke	Hemel Hempstead	A	0
 Adam's Building Construction Limited	Bradford	A	0
 Adaptate Biotherapeutics Limited	London	A	0
 ADB SAFEGATE BV BRANCH UK	London	A	0
 ADDISON BRADLEY & CO. LIMITED	London	A	0
+Adem's Hair & Beauty Ltd	Belgravia	A	0
 Adilias Station Road Bakery Ltd	Cambridge	A	0
 ADM Care Homes Limited T/A The Beeches	Rushden	A	0
 Adnan Barbers (Sole Trader)	West Midlands	A	0
@@ -241,13 +240,13 @@ ADV Brightware Manufacturing Ltd	Coventry	A	0
 ADVANCE BAR SECURITY LTD	Harlow	A	0
 ADVANCE COLLEGE OF BUSINESS AND TECHNOLOGY LIMITED	London	A	0
 Advanced Beauty Clinic and Training Ltd.	London	A	0
-ADVANCED BEAUTY MEDICAL LTD	London	A	0
 ADVANCED BROADCAST SERVICES LIMITED	London	A	0
 Advanced Building & Maintenance Services Limited	Aveley	A	0
 Advantage Basements & Cellar Company Limited	Wandsworth	A	0
 Advantage Business Systems Limited	London	A	0
 Advantech Europe BV UK Branch	London	A	0,4
 Advent Bioservices	Cambridge	A	0
+Advent BioServices Ltd	Cambridge	A	0
 Advention Business Partners (UK) Limited	London	A	0,4
 Adventure Builders Limited	Langley	A	0
 ADYEN N.V. LONDON BRANCH	London	A	0,4
@@ -447,6 +446,7 @@ Alliance Motors & Body Repairs Ltd	Wokingham	A	0
 Allica Bank	London	A	0
 Allied Global Traders Ltd T/A Buy Macs	Luton	A	0
 Allison Brothers, Limited	London	A	0
+Allneeds Building & Construction Depot Limited T/a ABC Depot	Hatfield	A	0
 Alltype Builders Merchants	London	A	0
 Allurehairandbeauty Limited T/A Allure Hair and Beauty	Hounslow	A	0
 Allwaste (Berkshire) Ltd	Slough	A	0
@@ -472,12 +472,13 @@ Alumrock Cake Box Limited	Birmingham	A	0
 Alvan Blanch Dev Co Ltd	Malmesbury	A	0
 Alvance British Aluminium Ltd	Fort William	A	0
 ALVI BROTHERS LTD	Nottingham	A	0
+Always Caring Bromley Ltd	Kent	A	0
 Alysia Caring (Silver Birch) ltd	Ipswich	A	0
 AM Bid Services Ltd	North Berwick	A	0
 AM BODY REPAIRS LIMITED	Birmingham	A	0
 AM Builders (Luton) Ltd,.	Luton	A	0
 Am Legends Barber Ltd	London	A	0
-AM Surveying & Block Management	Maidstone	A	0
+AM Surveying & Block Management	Ditton	A	0
 AM:PM BELFAST LIMITED	Belfast	A	0
 AMA by Andrea Marino Ltd	London	A	0
 Amaani Beauty LTD	Berkshire	A	0
@@ -638,6 +639,7 @@ Archaeolog Brython Archaeology CYF	Bangor	A	0
 Archbishop beck catholic college	Liverpool	A	0
 Archer Hotel Capital B.V.	London	A	0,4
 Architects Registration Board	London	A	0
+Arda Biomaterials Ltd	London	A	0
 Ards Business Centre Limited	Newtownards	A	0
 Areeba Bristol Ltd T/A, New Rupali	Bristol	A	0
 Arena Tiles and Bathrooms Ltd	Hemel Hempstead	A	0
@@ -661,6 +663,7 @@ Arriva UK Bus Limited	Thurmaston	A	0
 ARROW BOURNEMOUTH LIMITED	Southampton	A	0
 Arrow Business Communications Ltd	Liverpool	A	0
 Arshad Brother & Co Veg Ltd	East Manchester	A	0
+ART TIME BARBER LTD	Rickmansworth	A	0
 Artemis Beauty Ltd	London	A	0
 Artigiano Espresso Bars limited	Exeter	A	0
 Artisan Furniture Ltd T/A BED4US	Leeds	A	0
@@ -724,6 +727,7 @@ Assicurazioni Generali S.p.A. UK Branch	London	A	0,4
 Associated British Foods Plc	London	A	0,4
 Associated British Ports (ABP)	London	A	0
 ASSOCIATION OF BAPTISTS FOR WORLD EVANGELISM OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND	Epsom	A	1,10
+Association of British Credit Unions Ltd	Manchester	A	0
 Association of British Insurers	London	A	0
 Assura Hospitality Ltd t/a Buchanan Arms Hotel	Glasgow	A	0
 Assured Hair and Beauty Ltd	London	A	0
@@ -894,7 +898,7 @@ B&E Live Limited	London	A	0
 B&F SOLUTIONS LTD	Wakefield	A	0,3
 B&G Double Glazing Ltd	Dagenham	A	0
 B&GT Limited	Bristol	A	0
-B&H CALL LIMITED	Salisbury	A	0
+B&H CALL LIMITED	Bristol	A	0
 B&H CONVENIENCE STORE LTD T/A VICTORIA NEWS	London	A	0
 B&K ACCOUNTANTS LIMITED	East Ham	A	0
 B&K BUILDERS MERCHANTS LIMITED	Ilford	A	0
@@ -1033,7 +1037,6 @@ BABA COURIERS LTD	Crawley	A	0
 BABA FOOD LTD	London	A	0
 BABA KEBABISH LTD	London	A	0
 BABA NEWS LTD	St Ives	A	0
-Baba Raiya Ltd T/a Taste of Belgium	Belfast	A	0
 Baba stores Limited	Hull	A	0
 Baba Supermarket Ltd	Gateshead	A	0
 BABA TASTY FOODS LTD T/A TASTY CHICKEN PERI PERI	Bedford	A	0
@@ -1230,7 +1233,6 @@ Bainbridge (UK) Services Ltd	London	A	0
 Bainbridge Bio LTD	Mildenhall	A	0
 Baines Care Limited	Chatham	A	0
 Bainland Country Park Ltd	Woodhall Spa	A	0
-BAINS & HAYRE LIMITED	Leeds	A	0
 Bains Healthcare Limited	Johnstone	A	0
 BAINS LOCAL LIMITED	Croydon	A	0
 Bains UK Builder Ltd	Oldbury	A	0
@@ -1362,7 +1364,6 @@ Balhousie Care Group	Perth	A	0
 BALI BROTHERS LTD	Ilford,	A	0
 BALI DENTAL LIMITED	Inverness	A	0
 bali motors ltd	London	A	0
-Balindra Software Limited	London	A	0
 Balio Software Limited	Canterbury	A	0
 Baljit Singh Thakker	Guildford	A	0
 Baljogi Pvt Ltd	Norfolk	A	0
@@ -1464,17 +1465,16 @@ BAM-GB LTD TA Beauty Lounge	Southampton	A	0
 BAMA EUROPA UK LIMITED	Portadown	A	0
 BAMA TECH LTD	Ilford	A	0
 BAMBERS FARM LTD	Lancaster	A	0
+Bambi Air Limited	Birmingham	A	0
 BAMBI'S GROUP LTD	Wolverhampton	A	0
 Bamboleo Polo Team	Midhurst	A	11
 Bamboo Connect Limited	Waltham Abbey	A	0
 Bamboo Distribution Limited	Waltham Abbey	A	0
-Bamboo House Ltd t/a Bamboo House	Harrow	A	0
 Bamboo Limited	London	A	0
 Bamboo Living Management Limited	London	A	0
 Bamboo Medical Communications Ltd	Shepperton	A	0
 Bamboo Natural Therapy Ltd	London	A	0
 Bamboo Rose Ltd	Belfast	A	0,4
-Bamboo Thai Takeaway Ltd	York	A	0
 Bambooh Education Ltd	Charlbury	A	0
 bambooh Hook Norton Ltd	Hook Norton	A	0
 Bamford Bus Company Limited Trading as Wrightbus	Ballymena	A	0
@@ -1637,7 +1637,6 @@ BANKSIDE NEWS LTD T/A Premier	Gainsborough	A	0
 BANKTECH SOFTWARE SERVICES LIMITED	Cambridge	A	0
 BANKYâ??S KITCHEN LIMITED	Sheffield	A	0
 Banner & Associates Ltd	Harrow	A	0
-BANNER HOUSE SUPPORT SERVICES LIMITED	Dartford	A	0
 Bannerdale Osteopaths Ltd	Sheffield	A	0
 Banning Dental Group Ltd	London	A	0
 Banning Dental Group Ltd	Slough	A	0
@@ -1690,7 +1689,6 @@ Baptist Union of Great Britain	Didcot	A	0
 Baptist Union of Wales	Carmarthen	A	1,10
 BAQRX PHARMA LTD	Salford	A	0
 BAR 86 LTD	Harrow	A	0
-BAR B QUE BASE FOODS LIMITED	Manchester	A	0
 Bar Collective Limited	London	A	0
 Bar des Pres Ltd	London	A	0
 Bar Dona Ltd	North Shields	A	0
@@ -1780,7 +1778,7 @@ BARGAIN CONVENIENCE STORES LIMITED	Chorley	A	0
 BARGAIN DEALS LTD	Manchester	A	0
 Bargain Depot Ltd T/A Greta Grove	Leicester	A	0
 Bargain Exchange Limited	Bingley	A	0
-Bargain Grass Limited	Northampton	A	0
+Bargain Grass Limited	London	A	0
 Bargain Hunt Ltd	Basingstoke	A	0
 Bargain Island Ltd	Manchester	A	0
 BARGAIN LOCAL	Huddersfield	A	0
@@ -1797,7 +1795,7 @@ Barge East	London	A	0
 Bargoed Service Station Limited T/A Bargoed Service Station	Bargoed	A	0
 Barhale Limited	Walsall	A	0
 Barham Global Limited	Watford	A	0
-BARHAM STORES LIMITED	Portland	A	0
+BARHAM STORES LIMITED	Weymouth	A	0
 Barhil 2021 Limited T/A CERU	London	A	0
 Barhouse Ltd	Glasgow	A	0
 Bari Bari Ltd	London	A	0
@@ -1954,6 +1952,7 @@ Barry's Bootcamp Ltd	London	A	0,4
 Bars and Bistros at No 18 Ltd	South Queensferry	A	0
 BARSAN GLOBAL LOGISTICS LTD	Coventry	A	0,4
 BARSHU HOUSE LIMITED T/A Sichuan Folk	London	A	0
+BART HARPER LIMITED	London	A	0
 Barter For Things Ltd	Eastleigh	A	0
 Barter Hill Partnership Limited	Takeley	A	0
 Bartestree and Lugwardine Cricket Club	Bartestree	A	11
@@ -2009,6 +2008,7 @@ Base Solutions Limited	Sidcup	A	0
 Base1 Media Limited	Farnborough	A	0
 BaseballSoftballUK	Slough	A	0,11
 Basecamp Brews Ltd	Kettering	A	0
+Basecamp Brews Ltd	Norwich	A	0
 Basecamp Research	London	A	0
 Based Upon Ltd	London	A	0
 BASEEL LIMITED	London	A	0,4
@@ -2023,7 +2023,6 @@ BASF Metals ltd	London	A	0,4
 BASF Plc	Stockport	A	0,4,7
 Basford United Football Club Limited	Nottingham	A	11
 BASH ECOCLEANERS SERVICE LTD	Andover	A	0
-Bash Grill Kingsbury Road Ltd	Birmingham	A	0
 BASHIR AA & SONS LTD	Bristol	A	0
 BASHIR ACCOUNTANTS LIMITED	Stanwell	A	0
 Bashir Halal Meat Ltd	Morden	A	0
@@ -2077,7 +2076,6 @@ Bassi Supermarket Limited	Wolverhampton	A	0
 Bassingbourn Community Primary School	Bassingbourn	A	0
 Bassna Investments Group Limited	Reading	A	0
 Basswood UK Limited	London	A	0
-Basta London Limited	London	A	0
 BASTONSHOP LIMITED	Lincolnshire	A	0
 Bastows Ltd	London	A	0
 Basu Associates Limited	York	A	0,4
@@ -2103,7 +2101,6 @@ BATH AND DISTRICT PHARMACY LIMITED	Walsall	A	0
 Bath and North East Somerset Council	Bath	A	0
 Bath And North East Somerset Third Sector Group CIO	Bath	A	0
 Bath and West Finance Ltd	Bristol	A	0
-Bath Best Food Ltd	Bath	A	0
 Bath College	Bath	A	0
 Bath Cricket Club	Bath	A	11
 BATH EXPRESS LTD	Walcot, Bath	A	0
@@ -2233,7 +2230,6 @@ Baytul Ilm Secondary School	milton Keynes	A	0
 Bayview Hotel Portballintrae Limited	Portballintrae	A	0
 Bayview International UK Ltd	London	A	0,4
 BayWa R.E. UK Limited	Edinburgh	A	0,4
-Baywater Healthcare	Crewe	A	0
 Baywater Healthcare Limited	Crewe	A	0,4
 Baywood Chemist (Greatvale Ltd)	London	A	0
 Baz Mohammed Ahmadi T/A Panjtani Store	Peterborough	A	0
@@ -2387,6 +2383,7 @@ BDK WHOLESALE LIMITED	Glasgow	A	0
 BDL Restaurant Ltd	London	A	0
 BDLAND UK LIMITED	London	A	0
 BDM Ads Ltd	London	A	0,4
+BDM Care	Blairgowrie	A	0
 BDM Care Ltd	Perthshire	A	0
 BDM Law LLP	London	A	0
 BDM Logistics and Management	London	A	0
@@ -2406,7 +2403,6 @@ BDW Trading Limited (trading as Barratt London)	London	A	0
 Be A Bear Ltd	London	A	0
 Be Amazed Limited	King's Lynn	A	0
 BE BIRD LIMITED	New Malden	A	0
-Be Bold LC	London	A	0
 Be Caring Together Ltd	Newcastle	A	0
 Be Cool Group UK Ltd	London	A	0
 Be Creative Design LTD	Barrow-in-Furness	A	0
@@ -2507,7 +2503,6 @@ BEAMERTON HEATH STORE LTD	Salisbury	A	0
 Beamery Ltd	London	A	0
 Beamfast Limited	Ilford	A	0
 Beamish Museum	Stanley	A	0
-Beamo Ltd	Willenhall	A	0
 BEAMS & CO UK LTD	London	A	0
 BEAMS INTERNATIONAL LIMITED	Rainham	A	0
 Beams Renovation Limited	London	A	0
@@ -2696,7 +2691,7 @@ Bedford Greenacre Independent School	Bedford	A	0
 Bedford Hindu Temple and Community Trust	Bedford	A	1,10
 BEDFORD PHONE REPAIRS LTD	Bedford	A	0
 Bedford Specsavers Hearcare Limited	Bedford	A	0
-BEDFORD SQUARE GROUP INTERNATIONAL LTD	London	A	0
+BEDFORD SQUARE GROUP INTERNATIONAL LTD	London	A	0,4
 Bedford Visionplus Limited T/A Specsavers Opticians	Bedford	A	0
 Bedfords Mot Centre Ltd	Bedford	A	0
 Bedfordshire Car Sales Limited	Leighton Buzzard	A	0
@@ -2851,6 +2846,7 @@ Beirut Mezze Lebanese Restaurant Limited	Bristol	A	0
 Beirut Sky Limited	Glasgow	A	0
 BEIRUTIMES UK LIMITED 14408915	England	A	2
 BEIRUTTRADES LIMITED	Scotland	A	0
+BEIS MENACHEM CHABAD LUBAVITCH	Salford	A	1
 Beit El Zaytoun	London	A	0
 Beit Shvidler Primary School	Edgware	A	0
 Beitel Care Services Limited	London	A	0
@@ -2888,6 +2884,7 @@ Belfast International Airport Limited	Belfast	A	0
 Belfast International Watersports Limited	Belfast	A	0
 Belfast Islamic Centre	Belfast	A	1
 Belfast Lodgings Ltd Trading as Botanic Rest	Belfast	A	0
+Belfast Pilates & Physiotherapy LTD	Belfast	A	0
 Belfast School of Theology	Belfast	A	0,1,9,10
 Belfast Skin Clinic	Belfast	A	0
 Belfast Star Basketball Club	Newtownabbey	A	11
@@ -2972,7 +2969,6 @@ Belleza Beauty & Spa Ltd T/A Belleza Beauty	Colchester	A	0
 Belleza Beauty Limited	Basildon	A	0
 BELLFARM CONSTRUCTION LTD	Ilford	A	0
 Bellfred Limited T/A Radfield Homecare Liverpool North	Waterloo	A	0
-Bellhouse Care Home Ltd	Huddersfield	A	0
 BELLINI'S ITALIAN RESTAURANT LIMITED	Heywood	A	0
 Bellini(n/e) ltd	Sunderland	A	0
 Bellissima Weddings	South Woodham Ferrers	A	0
@@ -3019,6 +3015,7 @@ Belmont View Limited	Guisborough	A	0
 Belmont Villa Care Home Limited	Frome	A	0
 BELMONT WOOLRICH LIMITED	Manchester	A	0
 BELOGIC SYSTEMS LIMITED	Maidstone	A	0
+Belong Learning CiC	Cheltenham	A	0
 Beloved Homecare Ltd	Wirral	A	0
 Below280 Limited	Cramlington	A	0
 Beloy SAS	London	A	0
@@ -3047,7 +3044,6 @@ BELVIDERE COURT LTD	Wolverhampton	A	0
 Belvidere Medical Practice	Shrewsbury	A	0
 Belvoir Healthcare Ltd	Norwich	A	0
 Belvoir Home Care Ltd	Car Colston	A	0
-BELVOIR STEAK AND CURRY HOUSE LIMITED	Nottingham,	A	0
 Belyfted Limted	Dagenham	A	0
 Belzona Polymerics Limited	Harrogate	A	0
 Beman Ltd	Llandudno	A	0
@@ -3160,6 +3156,7 @@ BENJAMIN & ISAAC TAX CONSULTANTS LTD	Glasgow	A	0
 Benjamin Cory Limited	London	A	0
 Benjamin Hubert Ltd.	London	A	0
 Benjamin Partnership Limited t/a Bluebird Care Worcester, Wychavon & North Cotswolds	Evesham	A	0
+Benjamin Solicitors Limited t/as Integrity Law	Preston	A	0
 Benjamin uk ltd	Leighton Buzzard	A	0
 Benjamin's Ltd t/a Smoky Boys Shepperton	Shepperton	A	0
 Benjamins Cafe	Luton	A	0
@@ -3167,6 +3164,7 @@ BenJeMax Limited	Bromley	A	0
 Benjn. R. Vickers & Sons Ltd	Leeds	A	0
 Benllech Dental Surgery	Benllech	A	0
 BENLOCH GROUP LTD	London	A	0
+Bennachie Equine Vets Limited	Aberdeen	A	0
 Bennamann Ltd	Truro	A	0
 BENNAMOR LTD	Birmingham	A	0
 BennBridge Services LLP	London	A	0
@@ -3303,6 +3301,7 @@ Bermar International Ltd.	Ipswich	A	0
 Bermiz Ltd	Romford	A	0
 BERMONDSEY ENGINEERING & TRADE CO. LTD	London	A	0
 Bermont Advisors Limited	London	A	0
+Bermuda Brokers UK Limited	London	A	0
 BERMUDA CIVIL AVIATION AUTHORITY	Farnborough	A	0
 Bernadette Banner (Shabby Cabbage)	London	A	0
 BERNARD BERGER LTD	Oldham	A	0
@@ -3325,7 +3324,6 @@ BERRY & GAIL LTD	Accrington	A	0
 BERRY & MAPLE LTD	London	A	0
 Berry Drive Stores	Bromham	A	0
 Berry Good Partnerships LTD	London	A	0
-Berry Health Ltd	London	A	0
 Berry Palmer & Lyle Limited	London	A	0,4
 Berry Therapy Limited	Chepstow	A	0
 Berry's tREAT ltD	Bimingham	A	0
@@ -3407,7 +3405,7 @@ Best At Home Domiciliary Care Services Ltd	Mitcham	A	0
 BEST AT LESS STORE LTD	London	A	0
 BEST AUTOCENTRES LTD	Didcot	A	0
 BEST BAGEL LIMITED	London	A	0
-BEST BARGAIN SEWING SUPPLIES LTD	Salford	A	0
+BEST BARGAIN SEWING SUPPLIES LTD	Bolton	A	0
 Best Bargains Direct Ltd	Luton	A	0
 BEST BEDDING LIMITED	Manchester	A	0
 Best Bookkeeping Limited	London	A	0
@@ -3450,7 +3448,6 @@ BEST FURNITURE LTD	Manchester	A	0
 Best Glazing Limited	London	A	0
 BEST GROUP OF COMPANIES LTD	Barking	A	0
 Best Halal Meat	London	A	0
-Best Halal Meat Supply Ltd	Ashton-Under-Lyne	A	0
 BEST HOMES BUILDER LTD	Birmingham	A	0
 Best in Care Ltd T/A Clarity Homecare Bradford	Leeds	A	0
 BEST IN CITY LTD	London	A	0
@@ -3604,7 +3601,7 @@ Better Bargain	Newcastle Upon Tyne	A	0
 Better Care Services Ltd	Cannock	A	0
 Better Collective UK Services Ltd	London	A	0
 Better Dairy Limited	London	A	0
-Better Decision Groups Ltd	Spalding	A	0
+Better Decisions Group Ltd	Manchester	A	0
 BETTER FAMILIES SOCIAL WORK SERVICES LTD	Gravesend	A	0
 Better Futures Multi Academy Trust	Coventry	A	0
 Better Half Limited	London	A	0
@@ -3756,6 +3753,7 @@ BGC (BRISTOL) LIMITED	Solihull	A	0
 BGEN Ltd	Warrington	A	0
 BGF 3 LIMITED T/A German Doner Kebab	Birmingham	A	0
 BGF 4 Limited	Walsall	A	0
+BGF 4 Limited T/a German Doner Kebab	Walsall	A	0
 BGF 5 LIMITED	Birmingham	A	0
 BGF Services Ltd	London	A	0
 BGFX Limited	Dartford	A	3
@@ -3775,7 +3773,6 @@ BGTA ACCELERATOR LTD	London	A	0
 BGTS LTD	London	A	0,4
 BGV REAL ESTATE LIMITED	London	A	0
 BH BB limited	Birmingham	A	0
-BH Electrical Services Ltd	Huddersfield	A	0
 BH Movies Ltd	Bournemouth	A	3
 BH MULTI FAMILY OFFICE LTD	London	A	0
 BH Nail Salon Limited T/a BH Nails & Beauty	Eastleigh	A	0
@@ -3859,6 +3856,7 @@ BHOJSONS (U.K.) LIMITED	London	A	0
 BHOLA FOOD AND CATERERS LTD T/A SIGDI INDIAN RESTAURANT & BAR	Astley	A	0
 Bholenath 2024 Limited	Crawley	A	0
 Bholenath Limited	Kidderminster	A	0
+Bholenath Ltd T/a Chef's Kitchen	Kidderminster	A	0
 Bholes UK Ltd	Southampton	A	0
 BHOSALE & PATIL CORPORATION LTD	Middlesbrough	A	0
 BHP Billiton International Services Limited	London	A	0,4
@@ -3939,7 +3937,6 @@ Bideford Visionplus Limited T/A Specsavers Opticians	Bideford	A	0
 BIDEM AFRIVENTURE LIMITED	Sunderland	A	0
 BIDEX FOODS LTD	Gravesend	A	0
 BidFX	London	A	0
-Bidstack Ltd	London	A	0
 Bidvest Noonan	London	A	0
 Bidwells LLP	Cambridge	A	0
 BIE Magnum Limited	Bristol	A	0
@@ -4173,7 +4170,6 @@ Binley Solid Surface Limited	Coventry	A	0
 BINLEY WOODS SERVICE CENTRES LIMITED	Coventry	A	0
 BINODINI LIMITED	Bedford	A	0
 BINOY INDIAN LTD	Windsor	A	0
-BinSina Limited	Harrow	A	0
 BINSOLS (GB) LIMITED	Feltham	A	0
 BINSUN LTD	Leeds	A	0
 Bintel Ltd	Dagenham	A	0
@@ -4229,7 +4225,6 @@ Biomodal Limited	Little Chesterford	A	0
 Bion Solutions Limited	London	A	0
 Bionema Limited	Swansea	A	0
 BIONIC ASSOCIATES LTD	Birmingham	A	0
-Bionic Services Limited	London	A	0
 Bionical Solutions Ltd	Derby	A	0
 BIONIQ HEALTH TECH-SOLUTIONS LTD	London	A	0
 BioNTech UK Limited	London	A	0,4
@@ -4273,7 +4268,6 @@ Bira care homes ltd TA Avenue road Nursing Home	Abergavvany	A	0
 Birbeck Medical Group	Penrith	A	0
 Birch Airfield Composting Services Ltd	Colchester	A	0
 Birch Assist Ltd t/a Bluebird Care	Slough	A	0
-Birch Care Ltd	Stockport	A	0
 Birch Grove Capital (UK) Limited	London	A	0
 Birch Tree Manor	Port Sunlight	A	0
 Birches Head Medical Centre	Stoke-on-Trent	A	0
@@ -4281,7 +4275,7 @@ Birchester Care Limited	Peterbrough	A	0
 Birchfield Dental Practice	Birmingham	A	0
 Birchfield Engineering Limited	Dudley	A	0
 BIRCHFIELD FAMILY BUTCHERS LIMITED	Birmingham	A	0
-BIRCHFIELD HOTEL LTD	Weston supre mare	A	0
+BIRCHFIELD HOTEL LTD	Catford	A	0
 Birchfield Residential Care Home Limited	Blackburn	A	0
 Birchfield School	Wolverhampton	A	0
 Birchgrove Management Services Limited	Hook Heath	A	0
@@ -4307,7 +4301,6 @@ Birdfynn Accountants Ltd	Wembley	A	0
 Birdi Ltd	Glasgow	A	0
 Birdie Care Services Limited	London	A	0
 BIRDLIFE INTERNATIONAL	Cambridge	A	0,4,9
-BIRDMILK ONE LIMITED	London	A	0
 Birdquest Ltd	Clitheroe	A	0
 Birds and Animals UK Ltd	Tring	A	0,4
 BIRDS VIEW PROPERTY INVESTMENTS LTD	London	A	0
@@ -4527,7 +4520,6 @@ BIZ Engineering Limited	Ensfield	A	0
 Biz-Effective UK Limited	London	A	0
 Biz2mobile Ltd	Reading	A	0
 Bizagi Limited	Chalfont St Peter	A	0,4
-Bizbell Ventures Limited	Harrow	A	0
 BizClik Media Ltd	Norwich	A	0
 BIZDGE LIMITED	St. Albans	A	0
 BIZGROW HOLDINGS LTD	Essex	A	0
@@ -4860,7 +4852,6 @@ Bleach Products Limited	London	A	0
 Bleat Post Production Ltd	London	A	0
 Blecon Ltd	Cambridge	A	0
 Blek Ltd t/a Big Licks	Glasgow	A	0
-Blend and Brew Ltd	Toomebridge	A	0
 BLEND CRAFTERS LIMITED	London	A	0
 BLEND FAMILY LTD	Sheffield	A	0
 Blend International UK Limited	London	P	2
@@ -4916,15 +4907,13 @@ Bliss Care 3 Limited T/A Brandon House	Exmouth	A	0
 BLISS CARE SOLUTIONS	Edinburgh	A	0
 BLISS CARE TORQUAY LIMITED	Torquay	A	0
 BLISS CONVENIENCE STORE LTD	Sawbridgeworth	A	0
-Bliss Eventworks Limited	Epsom	A	0
 BLISS GROWTH LTD	Canterbury	A	0
-BLISS ROUTE COURIER LTD	Salford	A	0
 Bliss software solutions Ltd	Aylesbury	A	0
 Bliss The Chelsea Clinic for Women and Children	London	A	0
 Blisscars247 Ltd	Reading	A	0
 Blissful Care Limited	Bournemouth	A	0
 Blissful Living Ltd	Reading	A	0
-BLISSHEALTH CONCEPTS LTD	Bedford	A	0
+BLISSHEALTH CARE LTD	Bedford	A	0
 Blissi Ltd	London	A	0
 Blisters Ltd	Midsomer Norton	A	0
 Blitz Bolton	Bolton	A	0
@@ -4972,7 +4961,6 @@ Bloom Perfumery Ltd	London	A	0
 Bloom Regulatory Ltd	London	A	0
 Bloom Solihull Ltd	Solihull	A	0
 Bloom Stones London Limited	London	A	0
-Bloom Trade Limited	Glasgow	A	0
 Bloom Unlimited UK Ltd	London	A	0
 BLOOM&SQUARE LONDON LTD	London	A	0,2,4
 Bloombar Watches Ltd	London	A	0
@@ -4999,7 +4987,7 @@ Bloomsbury Glass Ltd	West Bromwich	A	0
 BLOOMSBURY INSTITUTE LIMITED	London	A	0
 Bloomsbury Publishing Plc	London	A	0
 BLOOMSBURY REALTY MANAGEMENT LTD	Wembley	A	0
-Bloomscare Ltd	Dagenham	A	0
+Bloomscare Ltd	Dagenham	B	0
 Bloor and Co Limited	Sheffield	A	0
 Bloss ltd	London	A	0
 Blossom Bargain Shop Ltd T/A Blossom	Manchester	A	0
@@ -5121,6 +5109,7 @@ Blue Kangaroo Happy Nursery	Glasgow	A	0
 Blue Lagoon (Fish & Chip Shops) Ltd	Glasgow	A	0
 Blue Lake Solution Ltd	London	A	0
 BLUE LATAN LIMITED T/A FINT	Leeds	A	0
+Blue Leaf Composites Ltd	Cowes	A	0
 Blue Lemon Cleaning Services Ltd	Kent	A	0
 Blue Leone LTD	Cambridge	A	0
 Blue Lid Ltd	Reading	A	0
@@ -5273,7 +5262,7 @@ BlueFloat Management UK Limited	London	A	0
 Bluefriars Brokers Limited	Buntingford	A	0
 Bluefront Care Ltd	Corby	A	0
 Bluegem Capital Partners LLP	London	A	0
-BLUEGRID TECHNOLOGY LTD	Peterborough	A	0
+BLUEGRID TECHNOLOGY LTD	Hemel Hamstead	A	0
 Blueground Furnished Apartments UK Ltd	London	A	0,4
 Bluegrove Capital Management Limited	London	A	0
 Bluejay Care Ltd	Birmingham,	A	0
@@ -5284,6 +5273,7 @@ Blueleaf Consultants Ltd	Essex	A	0
 Blueleys Ltd	Aylesbury	A	0
 Bluelight CRM Ltd	West Malling	A	0
 Bluelight Healthcare Recruitment Limited	Essex	A	0
+Blueline Enterprise Limited	Harrow	A	0
 Blueline Luxury Coach Limited	London	A	0
 BLUELINE PVT LTD	Manchester	A	0
 Blueloop Limited	Yeovil	A	0
@@ -5379,7 +5369,7 @@ BM BRISLINGTON LIMITED	Bristol	A	0
 BM Coaches & Rental Ltd	Hayes	A	0
 BM CONSTRUCTION LONDON LTD	London	A	0
 BM Data Solutions Limited T/A BM Aluminium	Tewkesbury	A	0
-BM Dynamic Ltd	Stoke-on-Trent	A	0
+BM Dynamic Ltd	Manchester	A	0
 BM Fashions (UK) Ltd T/A Fashion UK	Leicester	A	0
 BM Injection Ltd	Whitchurch	A	0
 BM MOBILE CARE LTD	Slough	A	0
@@ -5411,7 +5401,6 @@ BMH Shipbroking Limited	London	A	0
 BMH Tutors Limited	Croydon	A	0
 BMI GLOBALED LTD	London	A	0
 BMI Group Holdings UK Limited	Reading	A	0,4
-BMI Healthcare Limited trading as Circle Health Group Limited	London	A	0,4
 BMI Project (UK) Limited	Manchester	A	0
 bmi trailers ltd	Dungannon	A	0
 BMJ Publishing Group Limited	London	A	0
@@ -5586,8 +5575,6 @@ BOILER & HEATING CARE LIMITED	London	A	0
 BOILER ROOM (UK) LIMITED	London	A	0,4
 BOILER SPARES CENTRE (LEIC) LTD	Leicester	A	0
 BOINA LTD	Newcastle	A	0
-BOING INTERNATIONAL TEA LIMITED	Birmingham	A	0
-Boing International Trading Limited	Birmingham	A	0
 BOISDALE LIMITED	London	A	0
 Boitefin Limited	London	A	0
 BOKA Capital Ltd	London	A	0
@@ -5682,6 +5669,7 @@ Bombay Corner Ltd	London	A	0
 BOMBAY CUISINE LIMITED	Penzance	A	0
 BOMBAY DELI LTD	Paisley	A	0
 Bombay Delight Ltd T/A Bombay Delight	London	A	0
+BOMBAY DRAGON LTD	London	A	0
 BOMBAY GLOUCESTER LTD	Gloucester	A	0
 Bombay Halwa Limited	Southall	A	0
 Bombay Hospitality Limited	Cheltenham	A	0
@@ -5747,7 +5735,7 @@ Bonelli Erede Lombardi Pappalardo LLP	London	A	0
 BONEMA LTD	London	A	0
 BONEMA PROPERTY LIMITED	London	A	0
 Bones Restaurant Group Limited T/A 7Bone Burger Co.	Southampton	A	0
-BONG EVENT LTD	Cambridge	A	0
+BONG EVENT LTD	London	A	0
 Bong Thai Restaurant Ltd	Slough	A	0
 Bonham and Brook	London	A	0
 Bonhams 1793 Ltd.	London	A	0
@@ -6056,6 +6044,7 @@ Bournemouth Symphony Orchestra	Poole	A	0,3
 Bournemouth University	Poole	A	0,12
 Bournemouth Visionplus LTD	Bournemouth	A	0
 Bournemouth, Christchurch and Poole Council	Bournemouth	A	0
+Bourneside Services	Shepperton	A	0
 Bourns Limited	Bedford	A	0,4
 BOURSE AND BAZAAR FOUNDATON	London	A	0
 Bourton Vale Cricket Club	Cheltenham	A	11
@@ -6115,7 +6104,6 @@ Bowling & Co	London	A	0
 Bowling Green Dental Care	Leicester	A	0
 BOWLZ LTD	Slough	A	0
 Bowman International Limited	Abingdon	A	0
-Bowman Power Group Limited	Southampton	A	0
 Bowman Riley Architects Ltd	Skipton	A	0
 Bowman Sculpture Limited	London	A	0
 Bowmark Capital LLP	London	A	0
@@ -6155,6 +6143,7 @@ BOYACK ENTERPRISES LIMITED	Weston Super Mare	A	0
 Boyal Convenience Store	Llanhilleth	A	0
 BOYAN TRANSPORT 2017 LTD	Gravesend	A	0
 Boyarde Limited	Milton Keynes	A	3
+BOYAS BARBERS	Fraserburgh	A	0
 Boyatt Wood Surgery	Eastleigh	A	0
 Boyce Care Ltd	Ashford	A	0
 Boyd Bedding Limited	Omagh	A	0
@@ -6252,7 +6241,6 @@ Brad Enterprise Limited T/A Phone Junkies	Taunton	A	0
 Bradberrys Solicitors LLP	Hayes	A	0
 Bradbury Stell	Teddington	A	0
 Bradbury Street Limited	London	A	0
-Bradcare Ltd	Swadlincote	A	0
 BRADDICKS LEISURE LIMITED	Bideford	A	0
 Bradeney House Care Home	Bridgnorth	A	0
 BRADESCO SECURITIES UK LIMITED	London	A	0,4
@@ -6346,6 +6334,7 @@ Brainstorm Mobile Solutions Ltd	London	A	0
 Braintree Dental Studio	Braintree	A	0
 Braintree District Council	Braintree	A	0
 BRAINTREE LIMITED	Kent	A	0,4
+Braintree PCN Limited	Braintree	A	0
 Braintree Specsavers Limited T/A Specsavers Opticians	Braintree	A	0
 Brainwave Business Consultants Ltd	Portsmouth	A	0
 Braithwate Ltd	London	A	0
@@ -6395,7 +6384,7 @@ BRAND FACTORY LTD	Aylesbury	A	0
 Brand Finance Plc	Cornwall	A	0
 Brand Fuel Ltd	London	A	0
 Brand Genetics Limited	London	A	0
-BRAND GLOBAL LTD	Leicester	A	0
+BRAND GLOBAL LTD	Leicester	B	0
 Brand Ice Ltd	London	A	0
 Brand Machine International Limited	London	A	0
 Brand Port Europe Ltd	Uckfield	A	0
@@ -6420,7 +6409,6 @@ Brandly Ventures Ltd	Croydon	A	0
 Brandmovers Europe Ltd	London	A	0
 Brandon Care Limited	Newton Poppleford	A	0
 BRANDON CENTRE FOR COUNSELLING AND PSYCHOTHERAPY FOR YOUNG PEOPLE	London	A	9
-Brandon Groundworks Limited	London	A	0
 Brandon Medical	Leeds	A	0
 Brandon Schubert Ltd	London	A	0
 Brandon Trust (Region A)	Bristol	A	0
@@ -6434,7 +6422,7 @@ BRANDS BY JANAN (CHEETHAM HILL) LIMITED	Manchester	A	0
 BRANDS BY JANAN (MANCHESTER) LIMITED	Manchester	A	0
 Brands DirectLimited	Colchester	A	4
 BRANDS EXPRESS UK LIMITED	London	A	0
-Brands In Limited	London	A	0
+BRANDS IN LIMITED	London	A	0
 Brands International T/A Copper Fox Grill	Birmingham	A	0
 Brands Konnect Limited	Southgate, London, England	A	0
 Brands2Life Limited	London	A	0
@@ -6442,7 +6430,6 @@ Brandscapes Worldwide Consultancy Services Ltd	London	A	4
 BRANDSTREAM LTD	London	A	0
 BRANFORD GROUP LIMITED	London	A	0
 Branksome Care Ltd	Eastleigh	A	0
-Branksome Park Care Centre Limited	Poole	A	0
 Brannam Medical Centre	Barnstaple	A	0
 BRANOS OXFORD LTD T/A LILO	Oxford	A	0
 BranQ UK Limited	Bristol	A	0
@@ -6643,7 +6630,6 @@ Briant Broadband Limited	Worthing	A	0
 Briar Chemicals Limited	Norwich	A	0
 Briar Court Hotel Limited	Huddersfield	A	0
 Briar Security Systems ltd	Cambridge	A	0
-Briarcroft Care Home	Teignmouth	A	0
 Briardale Road G & S Ltd	Northumberland	A	0
 Briardene Limited T/A Briar Dene Residential Care Home	Scarborough	A	0
 BRIARHILL PREMIER STORE	Northampton	A	0
@@ -6799,6 +6785,7 @@ Briercliffe Lodge	Colne	A	0
 Brierley Care Ltd	Clitheroe	A	0
 Brierley Food & Wine Ltd	Bilston	A	0
 Brierley Park Medical Centre	Sutton in Ashfield	A	0
+Briffa Legal Limited	Islington	A	0
 BRIGAD LTD	London	A	0,4
 Brigade Capital UK LLP	London	A	0,4
 Brigade cricket Club	Londonderry	A	11
@@ -6814,7 +6801,6 @@ Brigham Young University Limited	London	A	0,4
 Brighouse Sushi Limited	Huddersfield	A	0
 Bright Almond Care Ltd	Leicester	A	0
 Bright Angel Travel Limited	Southall	A	0
-BRIGHT ASSOCIATES LIMITED	Croydon	A	0
 BRIGHT BIOTECH LIMITED	Manchester	A	0
 Bright Blue Campaign	London	A	0
 Bright Blue Day Limited	Bournemouth	A	0
@@ -6955,6 +6941,7 @@ BRILLIANCE OF CHESTER LIMITED	Chester	A	0
 Brilliance Real Estate UK LTD	Berwick Upon Tweed	A	0
 Brilliance Solicitor Ltd	Hatfield	A	0
 Brilliant Contracts Birmingham Ltd	Wolverhampton	A	0
+Brilliant Culinary Group Ltd	Southall	A	0
 Brilliant Food & Wine Ltd	Dunstable	A	0
 BRILLIANT IN EXCELLENCE (UK) LIMITED	Silverstone	A	0,4
 brilliant motors limited	Welling	A	0
@@ -6999,7 +6986,6 @@ Brioche Pasquier UK	Milton Keynes	A	0,4,7
 Brisca Healthcare Ltd	Chelmsford	A	0
 BrisDoc Healthcare Services	Bristol	A	0
 Brisel Consult Ltd	Basildon	A	0
-Brisfix Ltd	Amersham	A	0
 Brisk Global Travels Limited	Manchester	A	0
 Brisk Renovations Ltd	Timperley	A	0
 Brisko Scaffolding Limited T/A Brisko Metal Resources	Surrey	A	0
@@ -7539,6 +7525,7 @@ Browne White Ltd	Duns	A	0
 Brownfield Solutions Limited	Northwich	A	0
 Brownhill Care Limited	Catford	A	0
 BROWNHILL CORPORATE HIRE LTD	Blackburn	A	0
+Brownhill Surgery	Blackburn	A	0
 Browning & Associates Ltd.	London	A	0
 Brownlee Fitness Ltd.	Ipswich	A	11
 Brownlow Enterprises Limited	Golders Green	A	0
@@ -7602,7 +7589,6 @@ bruno boulay Ltd	Barkham	A	0
 Bruno UK Studio Ltd	London	P	2
 Brunswick Coffee Ltd	Hackney	A	0
 Brunswick Consultants LTD	London	A	0,4
-BRUNSWICK EAST LTD	Hackney	A	0
 Brunswick Health Centre	Swansea	A	0
 Brunswick House Cafe Limited	London	A	0
 Brunswick Park Medical Practice	London	A	0
@@ -7631,7 +7617,6 @@ Bryden Johnson Limited	Croydon	A	0
 Bryden Wood Ltd	London	A	0
 Brydg Capital LTD	London	A	0
 BRYMBO & TANYFRON REGENERATION TRUST	Brymbo Wrexham	A	0
-Brymore Care Homes Ltd	London	A	0
 Brympton House Estates Ltd	Yeovil	A	0
 Bryn Awelon Care Home Ltd	Gwynedd	A	0
 Bryn Darland Surgery	Wrexham	A	0
@@ -7648,7 +7633,6 @@ Brynmawr Medical Practice	Ebbw Vale	A	0
 Brysa Limited	Warrington	A	0
 Bryson House Ltd	Milton Keynes	A	0
 Bryter	London	A	0
-BRYTER Services UK Limited	Holborn	A	0,4
 BS AERO SUPPLIES LTD	Keighley	A	0
 BS Bham 3 Ltd T/A Burger and Sauce	Birmingham	A	0
 BS Builders and Contractors Limited	Birmingham	A	0
@@ -7980,13 +7964,14 @@ Bumblebee IT Solutions Ltd	Edenbridge	A	0
 Bumblebeepower Ltd	London	A	0
 BUMERANG LTD	Hertford	A	0
 Bumi Armada UK Ltd	Aberdeen	A	0,4
-Bumper International Limited	London	A	0
+Bumper International Limited	Sheffield	A	0
 Bun & Base Ltd	Doncaster	A	0
 BUN AND BUTTER LIMITED	London	A	0
 BUN DISTRIBUTION LIMITED	Horsham	A	0
 BUN HOUSE & TEA ROOM LIMITED	London	A	0
 BUN SQUAD LIMITED T/A BUN SQUAD	High Wycombe	A	0
 BUNAC Travel Services limited	London	A	12
+BUNBOO LTD	Bicester	A	0
 BUNBUN TRADING LTD	Manchester	A	0
 BUNCH CAPITAL LTD	Altrincham	A	0
 Bundle Training Limited	London	A	0
@@ -8015,7 +8000,6 @@ BURAANS 107 LTD	Nottingham	A	0
 BURAAQ FOODS LTD	Manchester	A	0
 BURAAQ STORE LIMITED	Birmingham	A	0
 Burak Services LTD T/A Burak Airport Transfers	London	A	0
-Burak Transport & Solutions Ltd	Doncaster	A	0
 Buraq Cafes Private Ltd T/A Creams Kilburn	London	A	0
 BURAQ ESTATES LTD	Manchester	A	0
 Buraq Foods Limited	Nottingham	A	0
@@ -8207,6 +8191,7 @@ Business Development Director	London	A	0
 Business Disability Forum	London	A	0
 Business Dispatch Ltd	Banstead	A	0
 BUSINESS EDGE SOLUTIONS LTD	Glasgow	A	0
+Business Essentials Services Limited	London	A	0
 BUSINESS EXCELLENCE EUROPE LIMITED	Loughton	A	0
 Business Help uk ltd	Romford	A	0
 Business Horizon International Group Ltd	London	A	0
@@ -8262,7 +8247,6 @@ Busy Bees Care Limited	Polmont	A	0
 Busy Bees Nurseries Ltd	Burntwood	A	0
 Busy Books (Westbury) Ltd	Westbury	A	0
 Butacare Limited	Manchester	A	0
-Butchies LTD	London	A	0
 Butcombe Brewery	Bristol	A	0
 Bute & Cowal Vets	Rothesay	A	0
 Bute Construction Ltd	Edgware	A	0
@@ -8379,7 +8363,6 @@ BW Partnership- Brant Road Dental Practice	Lincoln	A	0
 BW Refrigeration & Air Conditioning Limited	Great Yarmouth	A	0
 BW Solicitors Ltd	Ilford	A	0
 BW1 Consultants Ltd	Nottingham	A	0
-BW1 Enterprise Group Ltd	Nottingham	A	0
 BWA HEALTH & CARE SERVICES LTD	Derby	A	0
 BWAM UK Limited	London	A	0,4
 BWB Consulting Ltd	Nottingham	A	0,4
@@ -8473,6 +8456,7 @@ Cacao Bean Restaurant Limited	Herts	A	0
 CACEIS Bank UK Branch	London	A	0,4
 CAFE BARCELONA	London	A	0
 CAFE BOATS LIMITED	Gloucester	A	0
+CAFE BUENO LIMITED	Gillingham	A	0
 CAFE MULTA LTD t/a Black Gold	Cheltenham	A	0
 CaixaBank SA UK Branch	London	A	0,4
 Cake Box Acton Ltd	London	A	0
@@ -8593,7 +8577,6 @@ Catpro Beauty Ltd	London	A	0
 Cave Building Construction Limited	Rainham	A	0
 Caveman Barbers Ltd	Beverley, East Yorkshire	A	0
 CAVUS BISTRO LTD T/A Lavish	Stevenage	A	0
-CB Services (Preston) ltd T/A Eggfree Cake Box Preston	Preston	A	0
 CBC (Europe) GmbH, UK Branch	London	A	0
 Cboe Clear Europe N.V. (London Branch)	London	A	0,4
 Cboe Europe B.V.	London	A	0,4
@@ -8710,7 +8693,6 @@ CHISOM LTD t/a Mechi Restaurant and Bar	Hull	A	0
 Chivas Brothers International Limited	London	A	0,4,7
 Chivas Brothers Ltd	London	A	0,4
 CHLOE'S BOOZE LIMITED	Bristol	A	0
-Chocoberry (Bolton) Ltd T/A Chocoberry	Bolton	A	0
 Choice Ruby Ltd t/a Basil Spice	Basildon	A	0
 CHOPRA AND SONS (BIRMINGHAM) LIMITED	Birmingham	A	0
 Chopsticks Ltd trading as The Place Restaurant & Bar	Sutton	A	0
@@ -8790,7 +8772,6 @@ Classyhair Beauty Ltd	Nottingham	A	0
 Clay Brook Healthcare Ltd	Enfield	A	0
 Clayton Health Centre - Drs Hanif & Bannuru Practice	Manchester	A	0
 CLEAN WORLD BIRMINGHAM LTD	Birmingham	A	0
-Cleaning Fairies Bristol Ltd	Bristol	A	0
 Clear Books Limited	London	A	0
 CLEAR MIND BUSINESS SOLUTIONS LIMITED	Manchester	A	0
 Clear Span Buildings Limited	Llandrinio	A	0
@@ -8817,7 +8798,6 @@ Cloudwater Brew Co Ltd	Manchester	A	0
 Club Bauhaus Limited	London	A	0
 Clumber Bars Ltd. T/A Bistro 66	Beeston	A	0
 Clyde Biosciences Limited	Newhouse	A	0
-Clydesdale Bank PLC	Glasgow	A	0
 CM Bespoke Care Ltd	Cleobury Mortimer	A	0
 CM Biryani Ltd t/a Chennai's Marina	Edinburgh	A	0
 CMD bespoke ltd	London	A	0
@@ -8836,6 +8816,7 @@ Coffee Affairs Limited T/A Muffin Break Reading	Reading	A	0
 Coffee Bird Limited	London	A	0
 COFFEE TREE BUCKS LIMITED	Bucks	A	0
 Cogent Breeding Limited	Aldford	A	0,4
+COGENT BYTES LTD	Datchet	A	0
 Cognizant Business Logics Limited	Coventry	A	0
 Cold Tea LTD T/A MOOBOO BUBBLE TEA	Hatfield	A	0
 COLE BUXTON LTD	London	A	0
@@ -8912,7 +8893,6 @@ Corton House and Brewster Court	Norwich	A	0
 Corwen convenience business ltd	Corwen	A	0
 Cory Brothers Ltd	Ipswich	A	0
 COSMIC BUSINESS HOUSE LTD	London	A	0
-Cosmo Buy Ltd	Droylsden	A	0
 COSTCUTTER BIRTLEY LIMITED	Birtley	A	0
 Cotswold Brewing Company Limited	Bourton-on-the-Water	A	0
 Cotswold Restaurant Group Ltd t/a Muse Brasserie	Cheltenham	A	0
@@ -8976,7 +8956,6 @@ Crouch End Cafe Ltd T/A BEAM	London	A	0
 Crown Agents Bank Ltd	London	A	0
 Crown Bioscience UK Limited	Loughborough	A	0
 Crown Builders UK Ltd	London	A	0
-Crown Foods (Bradford) LTD	Bradford	A	0
 CROWN FRESH LIMITED T/A Bondor Bazar Cash and Carry	London	A	0
 Crown Home Buying Limited	London	A	0
 Crown Hotel Blockley Limited	Brackley	A	0
@@ -8998,6 +8977,7 @@ CT BUILT LTD	London	A	0
 CTA Healthcare Ltd T/A Bonnyton House Care Home	Ellon	A	0
 Cubico UK t/a Easy Bathrooms	Wakefield	A	0
 Cudd Bentley Consulting Limited	Ascot	A	0
+Cudd Bentley Consulting Ltd	London	A	0
 CULINA BISTRO LTD	Croydon	A	0
 CULTURE RESTAURANT AND BAR LTD	Newcastle Upon Tyne	A	0
 Cupar Baptist Church SCIO	Cupar	A	0,1
@@ -9203,7 +9183,6 @@ DIGITS AND BYTES ASSOCIATES LIMITED	Sutton	A	0
 Diligent Boardbooks Limited	London	A	0,4
 DILLON BUTCHERS LTD	West Bromwich	A	0
 Diluxshi Stores Ltd t/a Baba Express	London	A	0
-DIMENSION ABBAS BUILDERS LTD	Leicester	A	0
 Dimmingsdale Bridge Garden Centre Limited	Wolverhampton	A	0
 DINE INDIA (LONDON) LIMITED T/A BOMBAY CENTRAL	Harrow	A	0
 Dinosaur Merchant Bank Ltd.	London	A	0,4
@@ -9328,7 +9307,6 @@ DUDLEY PLASTICS, PLUMBING AND BATHROOMS LTD	Dudley	A	0
 DUHOK BARBER LTD	Hatfield	A	0
 Duke Beds Ltd	Wakefield	A	0
 DULAI DEEP BLUE LTD	Hetton Le Hole	A	0
-Duman Bold Street Ltd	Liverpool	A	0
 Dun & Bradstreet Limited	London	A	0,4
 Dun Cow Bar & Grill Ltd	Telford	A	0
 Duncan & Griffin Limited T/A Silver Birch Hotel	Omagh	A	0
@@ -9337,7 +9315,6 @@ Dunluce Healthcare Bangor Ltd	Holywood	A	0
 Dunn Bros Recycling Ltd	Smethwick	A	0
 Dunns Artsian Bakers Ltd	London	A	0
 DUNSTABLE ROAD BAKES LIMITED T/A CAKES & BAKES LUTON	Bedfordshire	A	0
-DURA Automotive Body & Glass Systems UK Ltd	Birmingham	A	0
 DURA BEDS LTD	Batley	A	0
 DURABLE BUILDERS LTD	Bradford	A	0
 Durbar Hospitality Limited T/A Gurkha Royale Restaurant & Bar	Windsor	A	0
@@ -9362,7 +9339,6 @@ E Home Basics Ltd	Oldham	A	0
 E P Barrus Ltd	Bicester	A	0
 E WORKS BOLTON LTD	Bolton	A	0
 E&C Building and Design Ltd	London	A	0
-E&G BUILDERST LTD	London	A	0
 E&G Senior Care Limited T/A Right at Home Bridgend & The Vale of Glamorgan	Bridgend	A	0
 E&R Battersea Limited t/as Paul Edmonds	London	A	0
 e.l.f. Beauty UK Limited	Reading	A	0,4
@@ -9448,6 +9424,7 @@ Ejaz Ahmad T/A Brixton Grocers	Brixton	A	0
 EJG BUILDERS LTD	Mansfield	A	0
 EL BEAUTY LOUNGE LTD	Hounslow	A	0
 EL BOCA DONCASTER LTD	Doncaster	A	0
+EL-HALAL BUCKS LTD	Aylesbury	A	0
 Elanki Bridal Ltd	Birmingham	A	0
 Elden Harvey Burke	Hazel Grove	A	0
 ELDON BEDS LTD	Wakefield	A	0
@@ -9466,7 +9443,6 @@ ELITE 1 BUILDERS LTD	Manchester	A	0
 ELITE AESTHETICS & BEAUTY ACADEMY LTD	Luton	A	0
 Elite Banqueting Suite Limited	Slough	A	0
 ELITE BODY REPAIR LTD UK	Brentford	A	0
-Elite Body Sculpture Limited	London	A	0,4
 Elite Business Solutions LTD	Chelmsford	A	0
 Elite Custom Building Limited	Whitefield/Manchester	A	0
 ELITE DESSERT LTD, TA TREATZ BRIGHTON	Brighton and Hove, Brighton	A	0
@@ -9588,7 +9564,6 @@ EVA AIRWAYS CORPORATION - UK BRANCH	London	A	4
 Evara E Bikes Ltd	London	A	0
 Events By Cecilia Ltd	Lincoln	A	0
 EVENTSWISE LTD TA Prince Banquting suite	Dudley	A	0
-Everest 1 Limited t/a K2 Balti House	Hemel Hempstead	A	0
 EVEREST HAIR & BEAUTY LIMITED	Bournemouth	A	0
 EVERGREEN BUILDERS LTD	Wolverhampton	A	0
 Every Bite Right Limited T/A Domino's Pizza	Chertsey Street	A	0
@@ -9652,7 +9627,6 @@ Fairfield School of Business Ltd	London	A	0
 Fairlop Limited T/a Sri Balaji Service Station	Stoke-On-Trent	A	0
 Fairview Beaconhurst Ltd	Bridge of Allan	A	4
 FAISAL BUILDING SOLUTION LTD	Dewsbury	A	0
-FAISAL CURRY HOUSE & PIZZA BAR LIMITED	Barnsley	A	0
 Faith Ministries t/a Acts Church Bradford	Bradford	A	1
 FAIZA SPICE BAR LIMITED t/a Mezbaan	Kettering	A	0
 FAIZAN BLINDS LIMITED	Ilford	A	0
@@ -9720,6 +9694,7 @@ Fierce Beer Limited	Aberdeen	A	0
 FIFE BUSINESS CONSULTANTS LTD	Dunermline	A	0
 Fig Tree Blossom LTD t/As Newbirth Care	Doncaster	A	0
 FIL TRADING LTD T/As BIKENEARME	London	A	0
+Finance and Business Academy Limited	Birmingham	A	0
 Finbiz Funding Limited T/A Bizcap UK	London	A	0
 Finch Bay Ltd	London	A	0
 Finchampstead Baptist Church	Wokingham	A	1
@@ -9891,6 +9866,7 @@ G B (LONDIS) LTD t/a LONDIS	Banbury	A	0
 G B AUTOS MCR LTD	Manchester,	A	0
 G B E Services Ltd	Dartford	A	0
 G B Mobiles (MCR) Limited	Manchester	A	0
+G Bhandal Transport Ltd	Dudley	A	0
 G H Sheldon Wholesale Bakers Ltd	Openshaw	A	0
 G N R DESIGN AND BUILD LTD	Hounslow	A	0
 G S B Haulage Limited	Tipton	A	0
@@ -9951,7 +9927,6 @@ Gazelle Book Services Ltd.	Lancaster	A	0
 GB Bank Limited	London	A	0
 GB BPO Limited	Godalming	A	0
 GB Brands Europe Ltd	London	A	0
-GB Burga Limited	Southampton	A	0
 GB SRS BRUNDAVAN	Slough	A	1,10
 GB TYRE (BIRMINGHAM) LIMITED	West Bromwich	A	0
 GBS BROTHERS LTD	Glasgow	A	0
@@ -10090,7 +10065,7 @@ Gourmet Burger Kitchen (UK) Ltd.	Birmingham	A	0
 Govanhill Baths Community Trust	Glasgow	A	9
 Govindaa Leisure Limited t/as The Brook	Cambridge	A	0
 Gowrie Laxmico Ltd T/A B&S Healthcare	Ruislip	A	0,4
-GP BULLHOUND CORPORATE FINANCE LTD	London	A	0,4
+GP Bullhound Corporate Finance Ltd	London	A	0,4
 GP MAX RETAIL LTD T/A The candy box	Ipswich	A	0
 GPH Group Limited T/A Basilico	London	A	0
 GR Bastille Limited	Belfast	A	0
@@ -10102,7 +10077,6 @@ Grace Church Brockley	London	A	1,10
 GRACIE BARRA SALISBURY LTD	Salisbury	A	0
 GRAEME W CHEYNE (BUILDERS) LTD	Aberdeen	A	0
 Grail Bio UK Limited	London	A	0,4
-GRAINGER GLOBAL ONLINE BUSINESS LTD.	London	A	0,4
 GRAMEEN BAZAR LTD	London	A	0
 Grampian Valuation Joint Board	Aberdeen	A	0
 GRANBY BUTCHERS LTD	Liverpool	A	0
@@ -10701,7 +10675,6 @@ INGARAN & BROTHER LTD	South Croydon	A	0
 Inislyn Limited T/A Voco Belfast	Belfast	A	0
 Inn Control Management Services Limited T/A The Prince of Wales Baslow	Baslow	A	0
 Inn on the Park (London) Limited doing business as Four Seasons Hotel London	London	A	0,4
-Innovation Technology and Business Solutions Limited	London	A	0,4
 INNOVATIONS BUILDING SERVICES LTD	Slough	A	0
 Innovative Design and Build Ltd	Hull	A	0
 Innroom Ltd T/A The Blue Boar Inn	Alcester	A	0
@@ -10777,6 +10750,7 @@ Isola Bella Limited	Islington	A	0
 ISUPERIOR CONSULTING LTD T/A Mooboo Bubble Tea	Bristol	A	0
 ISWARI BURROWS	London	A	0
 IT Big Bang Limited	Peterborough	A	0
+IT Blackbelt Ltd	Bradford	A	0
 IT Helpdesk Burton Ltd	Burton on trent	A	0
 It's Bagels Soho	London	A	0
 ITAL BANGLA GROCERY SHOP LTD	London	A	0
@@ -10971,6 +10945,7 @@ Joseph Hage Aaronson & Bremen LLP	London	A	0
 Josephine Bistro Limited	London	A	0
 Joss Engineering (Barrow) Ltd	Barrow-in-Furness	A	0
 Joules Brewery Limited	Market Drayton	A	0
+Joy Brands Limited T/A Pret A Manger	Buckinghamshire	A	0
 JP BODEN & CO LIMITED	London	A	0
 JP RESTAURANTS KENT LTD T/A BAS BAR	Kent	A	0
 JPMorgan Chase Bank, National Association	London	A	0,4,7
@@ -11084,7 +11059,6 @@ Kawi Foods Limited T/A Burger and Sauce	Birmingham	A	0
 Kay Street Baptist Church	Rossendale	A	1
 Kaya Builders Limited	Harrow	A	0
 Kayanx Group Ltd t/a Blue Water & Co	Nottingham	A	0
-Kayu Bakehouse Limited	London	A	0
 KB Hair And Beauty LTD	Brentford	A	0
 KBC Bank NV	London	A	0,4
 KBS Brother's Limited T/A Londis	Bolton	A	0
@@ -11299,12 +11273,13 @@ La Campagna Warminster Limited T/A La Campagna Restaurant Bar	Wiltshire	A	0
 LA CASA RESTAURANT & BAR	Manchester	A	0
 LA Galleria Birmingham Ltd	Birmingham	A	0
 LA MINA JUICE BAR Limited	Cardiff	A	0
-LA PARRILLA TAPAS BAR AND GRILL LTD	Gravesend	A	0
+LA PARRILLA TAPAS BAR AND GRILL LTD	Sheffield	A	0
 La Petite Brassiere Ltd	Watford	A	0
 La Petite Ecole Bilingue	London	A	0
 La Villa Ltd T/A Bella Vita Folkestone	Folkestone- KENT	A	0
 Laba & Davy Ltd. TA The Beaumont Hexham	Hexham	A	0
 Labelle Jade Limited T/A Labelle Nails & Beauty	Hertfordshire	A	0
+LabMedExpert Biomedical Limited	West Midlands	A	0
 Laboratories Biophysics Limited	London	A	0
 Ladbrokes Betting & Gaming Ltd	London	A	0,4
 Ladhar Fish Bar	Northumberland	A	0
@@ -11312,6 +11287,7 @@ Lady Buddha Ltd	London	A	0
 Lagodicomo Bar & Restaurant	Tunbridge Wells	A	0
 Lahore Cafe Bar(Manchester) Limited	Manchester	A	0
 LAHORI BUTT KARAHI LIMITED	Manchester	A	0
+LAHORI SPICE GARDEN LTD T/A MY BAGH	Manchester	A	0
 LAHORI SPICY BIRYANI HOUSE LTD	London	A	0
 LAKRAJ CAKE BOX LTD	Basildon	A	0
 LAL BAGAN LTD T/A TAMARIND RESTAURANT	Norwich	A	0
@@ -11571,12 +11547,12 @@ LONDON OFFICE OF BANCO COMERCIAL PORTUGUES, S.A.	London	A	4
 London Plus Services Ltd Trading as Brixton Kebab	London	A	0
 LONDON PRIME CONSTRUCTION AND BUILDERS LTD	Hounslow	A	0
 London Property Broker Ltd T/A Moving City	London	A	0
+London Pulse t/a London Pulse Basketball Club	London	A	0
 LONDON RED BUS SOUVENIRS & GIFTS LIMITED	London	A	0
 London Regent Park Limited T/a Bonzai	London	A	0
 LONDON REPRESENTATIVE OFFICE, QINGDAO INTERNATIONAL CENTRE FOR BUSINESS & COMMERCE CO., LTD	London	A	0
 LONDON ROAD MEAT & GROCERIES LIMITED, T/A Bedford Halal Meat & Groceries	Bedford	A	0
 LONDON SCHOOL OF BUSINESS & COMPUTING LTD	London	A	0
-London School of Business Administration Ltd	London	A	0
 London South Bank University	London	A	0,9,12
 London Street Brasserie Ltd	Reading	A	0
 London to Brighton electric vehicle rally Ltd	Brighton	A	0
@@ -11654,7 +11630,6 @@ Lyons Bowe	Shepton Mallet	A	0
 Lyons Business Service Ltd (TA Mail boxes)	London	A	0
 M & A BRANDS LTD	London	A	0
 M & D Business Limited	Street	A	0
-M & D Careplus Limited T/A Bluebird Care Tamworth, Lichfield, Nuneaton & North Warwickshire	Tamworth	A	0
 M & K STORES LTD T/A BETTER BUY PROVISIONS	Osmondthorpe	A	0
 M & Z BEEBY HAULAGE LTD	Loughborough	A	0
 M A & Brothers Convenience Store	Oldham	A	0
@@ -11859,6 +11834,7 @@ Mary's Cafe Bistro	Edinburgh	A	0
 MARYAMHOFU LIMITED T/A BENGAL BERTIE'S	West Sussex	A	0
 Mas Bazaar Ltd T/A Ujan Bhati	Bedfordshire	A	0
 Mas Bazaar Retail and Wholesale Limited	Newport	A	0
+MAS BAZAR BETHNAL GREEN LTD t/a Mas Bazar	London	A	0
 Mas Bazar Birmingham Ltd	Birmingham	A	0
 MAS BAZAR LUTON LTD	Luton	A	0
 MAS BAZAR WHITECHAPEL LIMITED	London	A	0
@@ -11866,7 +11842,6 @@ MAS BUILDERS WAREHOUSE LTD	Bradford	A	0
 Masala Bay Limited	Ventnor	A	0
 Masala Bazaar Cardiff LTD	Cwmbran	A	0
 MASALA BAZAAR CHADWELL LTD	Cwmbran	A	0
-MASALA BAZAAR SWANSEA LTD	Swansea	A	0
 MASALA BAZAAR SWINDON LTD	Cwmbran	A	0
 MASALA CARE LIMITED T/A BADI MIRCHI	Eastleigh	A	0
 Mascot Bespoke Homes Limited	London	A	0
@@ -11951,6 +11926,7 @@ Megavarnan Piratheepan & Subashini Piratheepan T/A Brentwood Road Supermarket	Gr
 Meghna Bristol Ltd	Bristol	A	0
 MEHARVANA BEAUTY LIMITED	London	A	0
 MEHREEN DINE (BOURNE) LTD T/A MONTAZ	Bourne	A	0
+Mehru's Beauty LTD	London	A	0
 Melli Bank Plc	London	A	0
 Meltdown Bradford Limited	Bradford	A	0
 Melton Mowbray Building Society	Melton Mowbray	A	0
@@ -11958,7 +11934,6 @@ Meopham Tandoori Balti Ltd	Gravesend	A	0
 Merali Beedle	London	A	0
 Mercury Engineering & Building Services Limited	London	A	0,4
 Meridian Business Support LTD	Threapwood Road	A	0
-Meritor Heavy Vehicle Braking Systems (UK) Limited	Cwmbran	A	0,4
 Merrywell Care ( Belmont Grange)Ltd	Durham City	A	0
 MERSEY CONVENIENCE STORE LTD T/A Cheapest Booze Express	Wallasey	A	0
 MESSRS BHARDWAJ	Glasgow	A	0
@@ -12048,6 +12023,7 @@ Mitchell and Urwin Brickwork Contractors Limited	Ferrybridge	A	0
 Mitchells & Butlers PLC	Birmingham	A	0
 Mitchells Chartered Accountants Tax and Business Advisers	Chesterfield	A	0
 Mithras Underwriting Europe SRL (UK Branch)	London	A	0
+MITRA BIO LIMITED	London	A	0
 Mitsubishi Corporation London Branch	London	A	0,4
 Mitsubishi Electric Europe B.V.	Hatfield	A	0,4
 Mitsubishi UFJ Baillie Gifford Asset Management Limited	Edinburgh	A	0,4
@@ -12486,7 +12462,6 @@ New Road surgery Bromsgrove	Bromsgrove	A	0
 NEW SEASON BEAUTY HAIR & SPA LTD	Hounslow	A	0
 NEWA BROTHERS LTD T/A VINTUNA	Aldershot	A	0
 Newbridge Baptist Church	Birmingham	A	1,10
-NEWCASTLE BUILDING CONSTRUCTION LIMITED	Newcastle Upon Tyne	A	0
 Newcastle Building Society	Newcastle Upon Tyne	A	0
 Newcastle Eagles Basketball Ltd	Newcastle upon Tyne	A	11
 Newgate Pubs & Bars Company Limited T/A The Mayfair Pub and Kitchen	Newcastle upon Tyne	A	0
@@ -12606,6 +12581,7 @@ Northern Bites Halifax Ltd	Halifax	A	0
 Northern Monk Brewing Co. Ltd	Leeds	A	0
 NORTHERN SHORE (BIRMINGHAM) LIMITED	Birmingham	A	0
 NORTHGATE CAFE & SNACKS BAR LTD	Kent	A	0
+NORTHUMBRIAN CITIZENS ADVICE BUREAU	Northumberland	A	0
 Northwest CB Limited T/A Classic Bistro	Londonderry	A	0
 Northwood Law Practice T/A Burnham Law Practice	Burnham	A	0
 Norton Kitchen and Bedrooms ltd	Birmingham	A	0
@@ -12651,6 +12627,7 @@ OASIS BANQUETING LTD.	Barking	A	0
 Oasis Brothers Ltd	London	A	0
 OASIS DESIGN AND BUILD LTD	London	A	0
 Oasis Retail Ltd T/a Budgens	Rugby	A	0
+Obee Ltd T/A Bliss Care Home	Southend-On-Sea	A	0
 OBLIQUE BEAUTY HOUSE LIMITED	London	A	0
 OC Physio Ltd T/A Bodyset	London	A	0
 Occam Biosciences Limited	Dundee	A	0
@@ -12764,11 +12741,11 @@ Orient Real Estates Ltd T/A Century21 Barking and Dagenham	Barking	A	0
 Oriental Bu Trading Ltd	Bicester	A	0
 Origin Benefits Limited	London	A	0
 Original Additions (Beauty Products) Limited	Middlesex	A	0
-Original Biryaniwala London Limited	Wembley	A	0
 Original BTC	Witney	A	0
 Original Business IT Solutions LTD	Barry	A	0
 Original Hungry Bites Ltd	Stockton-On-Tees	A	0
 ORION OXFORD OPCO LIMITED TRADING AS Courtyard By Marriott Oxford City Centre	Oxford	A	0
+Orla Homes Ltd t/a St Brelades Retirement Homes	Herne Bay, Kent	A	0
 ORTO BEDFORD STREET LTD	Belfast	A	0
 OS Builders Merchants Ltd	London	A	0
 Oscar& Bentleys Ltd	Canterbury	A	0
@@ -12969,7 +12946,7 @@ Phat Buns (Beeston) Limited	Nottingham	A	0
 Phat Buns DARC Limited	Sheffield	A	0
 PHAT BUNS NOTTINGHAM LTD	Nottingham	A	0
 PHBB Restaurants Ltd T/A Pahli Hill Bandra Bhai	London	A	0
-PHC Europe B.V.	Loughborough	A	0
+PHC Europe B.V.	Runcorn	A	0
 Philip Brown Violins Limited	Newbury	A	0
 Philippe Briand Limited	London	A	0
 PHILIPPINE NATIONAL BANK (EUROPE) PLC	London	A	0,4
@@ -13081,7 +13058,6 @@ Powerplay Brands Limited	Oldham	A	0
 Powys Teaching Health Board	Brecon	A	0
 PPC BROADBAND FIBER LTD	Marlesford	A	0
 PR BEAUTY SALON LIMITED	London	A	0
-PRAAN (BELPER) LTD t/a Praan Restaurant	Belper	A	0
 Practical Business Solutions (NW) Limited	Wigan	A	0
 PRAGNA BEAUTY LIMITED	Birmingham	A	0
 PRAKASH BUILDER LIMITED	Leicester	A	0
@@ -13104,7 +13080,6 @@ Premier Halal Butcher Nuneaton Limited	Nuneaton	A	0
 Premier Plumbing & Bathrooms LTD	Blackburn	A	0
 Premier Solicitors (Bedford) Limited	Bedford	A	0
 Premier Tiles & Bathrooms UK Limited	High Wycombe	A	0
-Premier UK Business LLP	Petersfield	A	0
 PREMIUM HALAL (UK) BUTCHERS LTD	London	A	0
 Prestige BB Ltd	Blackburn	A	0
 Prestige Bodywork London Ltd.	London	A	0
@@ -13199,7 +13174,6 @@ Quadram Institute Bioscience	Norwich	A	0,12
 Quakers in Britain also known as the Religious Society of Friends	London	A	0
 Qualasept Ltd t/a Bath ASU	Corsham	A	0
 QUALITY BARGAINS INTL LTD.	London	A	0
-Quality Bites Ltd	Walsall	A	0
 Quality Booze Ltd	Croydon	A	0
 Quality Building Envelope Solutions Ltd	East Kilbride	A	0
 QUALITY BUTCHERS AND INTERCONTINENTAL FOODS LTD	Harlow	A	0
@@ -13234,7 +13208,6 @@ R & B Stores Limited T/A Redbarn Express	Fareham	A	0
 R & S BEAUTY LTD	London	A	0
 R & S Benning Limited T/A Your Local Convenience Store	Reading	A	0
 R & S Cafe Bistro Limited	Kirkcaldy	A	0
-R B A Limited	Colwyn Bay	A	0
 R B GRILL LTD	Southsea	A	0
 R B Plastering	Nottingham	A	0
 R Brown & K Jones Ltd	Southport	A	0
@@ -13394,7 +13367,6 @@ REHAN BARBERS LIMITED	London	A	0
 Reid Brewin Architects (UK) Ltd	London	A	0
 Reigate and Banstead Borough Council	Reigate	A	0
 Reigate Baptist Church Trust	Reigate Baptist Church	A	1
-REINA BE LTD	London	A	0
 RELIABLE CARS BEDFORD LTD	Peterborough	A	0
 Reliance Bookkeeping and Accounting Services Ltd	London	A	0
 Reliance Community Care Limited Bradford	Bradford	A	0
@@ -13498,6 +13470,7 @@ Rochdale Borough Council	Rochdale	A	0
 Rochdale Boroughwide Housing	Rochdale	A	0
 Rocket Rights Booster Limited	London	A	0
 Rocks Lines Ltd t/a The Bell Rock Restaurant	Arbroath	A	0
+Rodeos BBQ (Birmingham) LTD	Birmingham	A	0
 RODIN LIMITED t/a CORZA CAFE BAR RESTAURANT	London	A	0
 Rodizio Rico Birmingham Limited	Birmingham	A	0
 Roger Bullivant Limited	Swadlincote	A	0,4
@@ -13524,7 +13497,7 @@ Rosecare Chesterfield Limited T/A Brookholme Care Home	Chesterfield	A	0
 Rosemont restaurant and cocktail bar	Canterbury	A	0
 Rosemore Building Services Ltd	Croydon	A	0
 ROSEN Europe BV	Newcastle	A	0
-Rosewood & Brook House Ltd	Somerset	A	0
+Rosewood & Brook House Ltd	Somerset	B	0
 ROSEWOOD OF WALTON LIMITED TA Babucci	Walton-On-Thames	A	0
 ROSHON BANQUETING HALL LIMITED TA Roshon Banqueting	Birmingham	A	0
 Rosies Bakes Ltd	Banbridge	A	0
@@ -13638,7 +13611,6 @@ SAA Spice Ltd, T/A Taste of Bengal	Kent	A	0
 Sabay Limited T/A Bluelabel Dry Cleaning Co	London	A	0
 SABI HAIR AND BEAUTY LTD	Wolverhampton	A	0
 SABIR BROS LTD T/A Life Style Express	Glasgow	A	0
-SABIR'S SPICY GRILL BAR LIMITED	Rotherham	A	0
 SABLE BLOOM LIMITED	Bridgnorth	A	0
 Saby Nails & Beauty Limited	Leicester	A	0
 SACOMA FOODS AND GLOBAL BUSINESS INNOVATION & LEADERSHIP TRAINING (SACOMA- GLOBAL ) LIMITED	Romford	A	0
@@ -13659,7 +13631,6 @@ safi beauty bar limited	Nottingham	A	0
 Safi Biosolutions Limited	Carlisle	A	0
 Safy Impex Limited T/A Spice Time and The Balti Company	Birmingham	A	0
 Sagron Builders Ltd	Luton	A	0
-Sahara Grill Birmingham Ltd	London	A	0
 SAHI BAZAR LTD T/A SHAHI BAZAR	Cheltenham	A	0
 SAHI BUILDERS LTD	Rugby	A	0
 Sai Accounting and Business Consultants Limited/ T/A PTOTAX PLUS ACCOUNTANTS	Ashford	A	0
@@ -13821,6 +13792,7 @@ Senior UK Ltd t/a Senior Aerospace BWT	Adlington	A	0
 SENSE BIODETECTION LIMITED	Abingdon	A	0,4
 Sensible Biotechnologies Limited	Oxford	A	0
 SEOUL BIRD WESTFIELD LONDON LIMITED	London	A	0
+SEOUL BORN LTD	Norwich	A	0
 Seoul Money Brokerage Services, Ltd. London Representative Office	London	A	0,2,4
 Sequel Business Solutions Ltd	London	A	0
 Serbian Orthodox Church of St John the Baptist	Halifax	A	1
@@ -13882,6 +13854,7 @@ Shanghai Pudong Development Bank Co., Ltd.	London	A	0,4
 Shanmuga Peryisamy trading as Colwyn Bay Convenience Store	Colwyn Bay,	A	0
 Shanshayan Rasaiah T/A Best one	Worthing	A	0
 Shanz Hair & Beauty LTD	London	A	0
+Shapero Rare Books	London	A	0
 Shapes Brow & Beauty Ltd	Inverness	A	0
 Sharif Brothers Ltd	Dudley	A	0
 Sharks basketball Ltd	Sheffield	A	11
@@ -13911,12 +13884,12 @@ SHIMLA PEPPERS BAR & GRILL LTD	Walsall	A	0
 Shine Beautybrowbar Ltd	Walsall	A	0
 Shine Threaded Brow & Beauty T/A Binas Threaded Brow & Beauty	Carlisle	A	0
 Shinhan Bank, London B	London	A	0,4
-Shining Eyes Ltd t/a Baroque Hair and Nails	London	A	0
 Shionogi B.V.	London	A	0,4
 SHIRA BUILDERS LTD	Oldbury	A	0
 Shiraz Bar & Restaurant	Horley	A	0
 SHIRDI SAI BABA LTD	Greenwich	A	0
 Shirdi Sai Baba Temple Association of London	Wembley	A	1
+Shire Beds	Dewsbury	A	0
 Shirin Mahal Sweets and Bakers Ltd	Dagenham	A	0
 Shiva Aum Ltd T/As News Box	Dagenham	A	0
 Shiva Baba Ltd T/A Namaste Nepal	Manchester	A	0
@@ -13993,7 +13966,7 @@ Simms building and civil engineering Ltd	Bexley	A	0
 Simon Bastone Associates Ltd.	Exeter	A	0
 Simon Beckett t/a SB Cars	Abingdon	A	0
 Simon Bethel Solicitors	Lewisham	A	0
-SIMON BUILDERS LTD	Croydon	A	0
+SIMON BUILDERS LTD	London	A	0
 Simons Muirhead Burton LLP	London	A	0,3
 SIMPLY BARGAINS LTD t/a Bargain World	Cheadle Hulme	A	0
 Simply Bearings Ltd	Leigh	A	0,4
@@ -14100,6 +14073,7 @@ SMS BUILDERS UK LIMITED	Nottingham	A	0
 SMS THANUSAN LTD T/A BRUNSWICK STORES	Aberdeen	A	0
 SMW BOOKKEEPING SERVICES LTD	Hounslow	A	0
 Snacks Boss Ltd	London	A	0
+SNAP-ON BUSINESS SOLUTIONS LIMITED	Reading	A	0,4
 SNG BROTHERS LTD T/A LINK ROAD CONVENIENCE STORE	Anstey	A	0
 Snoggy's Butchery and Food Market Limited	London	A	0
 So & Co Building Services Limited	Stanmore	A	0
@@ -14250,7 +14224,6 @@ SS BUSINESS GROUP LTD	Bedford	A	0
 SS GLOBAL PVT LTD T/A ESSO BROOKLANDS SERVICE STATION	Dorking	A	0
 SS News & Booze Ltd (T/A S&S News and Booze)	Hindley	A	0
 SSB Bangor Ltd T/A Bangor Cash and Carry	Bangor	A	0
-SSC Bradford Ltd	Stockport	A	0
 SSCP Spring Bidco Limited	Bolton	A	0
 SSG Builders Ltd	Harrow	A	0
 SSJ BUILDING SUPPLIES LTD	Birmingham	A	0
@@ -14730,7 +14703,6 @@ The Beatson Institute for Cancer Research	Glasgow	A	0
 The Beaumont Hotel Limited T/A The Beaumont Hotel	London	A	0
 The Beaute Group LTD	Kettering	A	0
 The Beautiful Truth Group Limited	London	A	0
-The Beauty Alliance International Ltd	Stanmore	A	0
 The Beauty Club LTD	London	A	0
 THE BEAUTY OF EDINBURGH LTD	Edinburgh	A	0
 THE BEAUTY ROOM BY SUFIA LIMITED	Huddersfield,	A	0
@@ -14874,7 +14846,7 @@ The Brendoncare Foundation	Winchester	A	0
 The Brew Quarters Ltd	Newmarket	A	0
 The Brewery Tradeco Ltd	Romford	A	0
 The Briars	Glemsford	A	0
-The Briars Group Limited	Elstead	A	0
+The Briars Group Limited	Warrington	A	0
 The Bridal Suite Limited	Bradford	A	0
 The Bridge - New Life Church	Dinnington	A	1,9,10
 The Bridge Application Limited	London	A	0
@@ -14931,7 +14903,6 @@ The Buchan Group London Pty Limited	London	A	0,4
 The Buddha-Dhamma Fellowship	Warwick	A	1,10
 THE BUDDHAPADIPA TEMPLE TRUST	Wimbledon	A	1,9,10
 The Buffalo Farm Produce Ltd	Kirkcaldy	A	0
-THE BUG AND BARREL LIMITED	Birmingham	A	0
 The Building Safety Regulator	Bootle	A	0
 The Bull & Willow Limited	Great Totham	A	0
 The Bullion Store Ltd	Birmingham	A	0
@@ -15127,6 +15098,7 @@ The Parish Church of St Andrew, Burgess Hill	Burgess Hill	A	1
 The Parochial Church Council of the Ecclesiastical Benefice of Totton	Southampton	A	0,10
 THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ALL SAINTS, BEDWORTH	Bedworth	A	1,10
 The Parochial Church Council of the Ecclesiastical Parish of Christ Church Summerfield, Birmingham	Birmingham	A	1
+The Parochial Church Council of the Ecclesiastical Parish of St Barnabas Woodside Park	London	A	0
 THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST JOHN THE BAPTIST LEYTONSTONE	London	A	1
 The Parochial Church Council of the Ecclesiastical Parish of St John the Baptist Midsomer Norton	Radstock	A	1
 The Parochial Church Council of the Ecclesiastical Parish of St John the Baptist Southend-on-Sea	Southend-on-Sea	A	1,10
@@ -15139,7 +15111,7 @@ The Partners For the Time Being of Good Dentist and Orthodontist	Manchester	A	0
 The Pathway Funding Body	London	A	0
 The People's Bank of China Representative Office for Europe	London	A	0,4
 THE PERI PERI BOX LTD	Barking	A	0
-THE POLAR BEARS GROUP LTD	Cambridge	A	0
+THE POLAR BEARS GROUP LTD	London	A	0
 The Production Boutique	Taunton	A	3
 The Professional Builders Ltd	Nottingham	A	0
 The Project Blue Group Limited	London	A	0
@@ -15237,7 +15209,6 @@ Theydon Bois Pharmacy Ltd	Epping	A	0
 Thind Building Services Limited	Dagenham	A	0
 THIND M B BUILDER LTD	Dagenham	A	0
 Think Two Design Limited T/A Basha Franklin	London	A	0
-Thinks Insight and Strategy (Britain Thinks) Limited	London	A	0
 Thinks Insight and Strategy (Britain Thinks) Limited	Looe	A	0
 Third Bridge Group Limited	London	A	0,4
 This Bank Limited	London	A	0
@@ -15271,8 +15242,8 @@ THREESIXTY BRANDS LTD	London	A	0
 Throssel Hole Buddhist Abbey	Hexham	A	1,10
 Thurrock Borough Council	Grays	A	0
 Thy's Nails & Beauty Ltd.	Hampshire	A	0
+Tieto Banktech UK Ltd	London	A	0
 Tieto Great Britain Limited	Aberdeen	A	0,4
-Tiffin Indian kitchen & Bar	Barnstaple	A	0
 TIGER BELLY LTD	Preston	A	0
 Tiger Brokers (UK) Limited	London	A	0
 TIGI International Limited (Trading As Elida Beauty)	London	A	0,4
@@ -15294,6 +15265,7 @@ TJ ELITE BUILDING SERVICES LTD	London	A	0
 TKO BARKING AMATEUR BOXING CLUB CIC	Dagenham	A	0
 TKR BRADFORD LIMITED	Staines-Upon-Thames	A	0
 TL Everlasting Beauty Limited Trading As Em Nails & Spa	Maidstone	A	0
+TLC Care (UK) Limited t/a Briarcroft Care Home	Teignmouth	A	0
 TM Care Limited T/A Bluebird Care	Twyford	A	0
 TM CONSTRUCTIONS BOLTON LIMITED	Bolton	A	0
 To Be Properties Ltd	Bicester	A	0
@@ -15341,7 +15313,7 @@ Tower Bridge Legal Ltd T/A Tower Bridge Legal	Birmingham	A	0
 TOWER WORLDWIDE (BASILDON) LIMITED	Basildon	A	0
 TOWN & COUNTRY CARE (BOSTON) LIMITED	Boston	A	0
 TOYITO BRIGHTON LIMITED T/A O'Shio	Brighton	A	0
-Toyota Racing GmbH UK Branch	Epsom	A	0,4
+Toyota Racing GmbH UK Branch	Epsom	A	0,4,11
 TP BRICKWORK LTD	Dartford	A	0
 TPS BUSINESS LTD	Gravesend	A	0
 Tracey Bothers Ltd	Enniskillen	A	0
@@ -15368,7 +15340,6 @@ Treetops Nursery Bootle	Bootle	A	0
 Trek Bicycle Corporation	Milton Keynes	A	0,4
 Trendy Brand Outlet Ltd	London	A	0
 TREVOR BARR'S BUTCHERS AND DELI LIMITED	Ballymena	A	0
-Tridev Hospitality Limited TA The Old Bush Bar & Grill	Tipton	A	0
 Trimming Shop 007 (Birmingham) Ltd	Cheshunt	A	0
 TRIMZ HOUSE BARBERS LTD	Hatfield	A	0
 Trinitarian Bible Society	London	A	0,4
@@ -15465,10 +15436,8 @@ UK Buyback Limited	Bolton	A	0
 UK COLLEGE OF BUSINESS AND COMPUTING LTD	London	A	0,4
 UK CURRICULUM AND ACCREDITATION BODY (UKCAB)	Birmingham	A	0,3,9
 UK Garanti Builders Ltd	South Croydon	A	0
-UK Good Deals Limited T/A Black	Preston	A	0
 UK GUAN YIN CITTA DHARMA DOOR BUDDHIST CHARITY FOUNDATION	London	A	9
 UK Israel Business	London	A	0
-UK LAW BOOK SELLERS LTD	Halifax	A	0
 UK LOCAL BAZAR LIMITED	Essex	A	0
 UK MOTOR BODY LTD	Manchester	A	0
 UK PLUMBING, PLASTICS AND BATHROOMS LTD	Walsall	A	0
@@ -15488,7 +15457,6 @@ Uncle Beef Ltd	Crayford, Dartford	A	0
 UNCLE SAMS BROADWATER LTD T/A UNCLESAMS HAMBURGER EXPRESS	Worthing	A	0
 UNCLES XENIAL LIMITED T/A BRAMLEY INN	Tadley	A	0
 UNDERDOG BON LTD	London	A	0
-UNI BARGAIN LIMITED	Halifax	A	0
 Unicorn Brands Ltd	Luton	A	0
 Unicredit Bank GMBH London Branch	London	A	0,4,7
 UNION BANCAIRE PRIVEE	London	A	0,4
@@ -15527,7 +15495,6 @@ United Trust Bank Limited	London	A	0
 Unity Enterprise (Bristol) Ltd	Bristol	A	0
 Universal Bakers	Peterborough	A	0
 Universal Balancing	Bristol	A	0
-UNIVERSAL BARGAIN LTD	Salford	A	0
 Universal Bodyshop UK Limited	Nuneaton	A	0
 UNIVERSAL BRANDING LTD	Wolverhampton	A	0
 University Campus of Football Business Limited	Wembley	A	0
@@ -15591,7 +15558,7 @@ V&T BRO LTD T/A COST CUTTER	Birmingham	A	0
 V-TAX ACCOUNTANTS AND BUSINESS CONSULTANTS LIMITED	Bradford	A	0
 V.K.Pillai Ltd T/A Best One	Oldbury	A	0
 V2 Brothers Ltd T/A The Spice Merchant	Newtownabbey	A	0
-V3 BUSINESS SOLUTIONS LTD T/AS SOUTH ESK SERVICE STATION SHELL	Montrose	A	0
+V3 BUSINESS SOLUTIONS LTD	Inverurie	A	0
 VacV Biotherapeutics UK Limited	London	A	0
 Vaisu Beauty Ltd	London	A	0
 Vale Base Metals Limited	London	A	0,4
@@ -15639,7 +15606,6 @@ Veysos Brasserie Limited	Hertfordshire	A	0
 ViaNautis Bio Limited	Cambridge	A	0
 Vibhumi Hospitality Ltd T/A The Brewers Inn	Cambridge	A	0
 VIBRANT BUSINESS SERVICES LTD	Luton	A	0
-VICEROY (BOLLINGTON) RESTAURANT LTD	Macclesfield	A	0
 Victor Buyck Steel Construction UK Ltd	Margam	A	0,4
 Victoria & Albert Baths Limited	Wolverhampton	A	0,4
 VICTORIA BEAUTY SALON	London	A	0
@@ -15690,6 +15656,7 @@ VJ Assets Ltd T/A Best Western Northfields Ealing Hotel	Slough	A	0
 VK Broâ??s Limited T/A The Ceylon Lounge	Swansea	A	0
 VL & G LTD T/A BEST-ONE	Leicester	A	0
 Vodacom Business Africa Group Services Limited	London	A	0
+Vok Bikes Ltd	London	A	0
 Volkswagen Bank GmbH	Milton Keynes	A	0,4
 Voltas Spa & Beauty Ltd T/As	Twickenham	A	0
 Vonage Business Limited	Basingstoke	A	0,4
@@ -15808,7 +15775,6 @@ Western Brand Poultry Products Ni	Lisnaskea	A	0
 WESTERN MOTOR FUEL LTD T/A BP	Kilmarnock	A	0
 Westgate Healthcare (Borehamwood) Limited	Borehamwood	A	0
 Westgate Healthcare (Braintree) Limited	Braintree	A	0
-WESTGATE INVESTMENT & BUSINESS DEVELOPMENT LTD	London	A	0
 WESTMINSTER BANGLADESHI WELFARE TRUST	London	A	0,1,9,10
 Westminster Bridge Hotel Operator Ltd	London	A	0
 Westpac Banking Corporation	London	A	0,4
@@ -15832,6 +15798,7 @@ Wigan Borough Federated Healthcare Ltd	Wigan	A	0
 WIGSTON BUILDING CONTRACTORS LIMITED	Leicester	A	0
 Wild Bioscience Limited	Abingdon	A	0
 Wild Brain Family International Limited	London	A	0,4
+Wild Bunch & Co limited	London	A	0
 WILD BUSH LIMITED	Richmond	A	0
 Wilkinson Beven Design Limited	Birmingham	A	0
 Will It Make The Boat Go Faster? Ltd	Coalville	A	0
@@ -16004,7 +15971,6 @@ ZETESMED Ltd t/a BUTTERFLY Dental Practice	Oswestry	A	0
 ZG BUSINESS SERVICES LIMITED	Newcastle upon Tyne	A	0
 Zhixiang Bespoke Culture Limited	London	A	0
 Zion Baptist Church	Cambridge	A	1
-ZM Brands Ltd t/a Oodles N'Oodles Coventry	Coventry	A	0
 Zomato Drinks Limited T/A Mooboo Bubble Tea	Luton	A	0
 ZONE BEAUTY STUDIO (NORTHAMPTON) LTD	Northampton	A	0
 ZONE SCHOOL OF BUSINESS STUDIES LONDON LTD	London, England	A	0

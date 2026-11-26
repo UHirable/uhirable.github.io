@@ -11,7 +11,6 @@ Duncan & Grove Ltd	,Crawley	A	0
 Easy Solutions And Logistics Limited	18 Wadsworth Road	A	0
 Exclusive Law Ltd	56 Peter Street	A	0
 EXEL(GB) Limited	155 Edge Lane	A	0
-Fenton Pharmaceuticals Limited	1A Frognal	A	0
 H&C Accountants Ltd	111 New Street	A	0
 Hurst, Peirce + Malcolm LLP	33 Johns Mews	A	0
 IMA Swiftpack Limited	3 Arden Road Alcester	A	0
@@ -25,7 +24,6 @@ Michael Fahami Ltd	14 Lyon Road	A	0
 Mulchand (UK) Limited	8-9 Ivor Place, London, Greater Lon	A	0
 Next Management London Limited	5 - 23 Old Street	A	0,3,4
 NEXT STACK LTD	43 Sutherland Road	A	0
-Pay IO Limited	36-38 Cornhill	A	0
 Projcon Group Limited	3000 Hillswood Dr	A	0
 RATTAN SWEET CENTER LIMITED	227 Dudley Road, Wolverhampton, Eng	A	0
 Raycast Technologies Ltd	1 Water Lane	A	0
@@ -35,6 +33,7 @@ SAI SKN LIMITED	3 Kingston Drive	A	0
 Seesaw Media Ltd	235 Regents Park Road	A	0
 SEETHA SOFTWARE SOLUTIONS LTD	18 Brainton Avenue	A	0
 Sophrena Limited	{Potters Bar	A	0
+Sova Assessment Ltd	27 New Dover Road	A	0
 SUPER STAR RETAIL LIMITED	52 Nottingham Road	A	0
 Surecare Hillingdon Limited	14 Lyon Road	A	0
 Trident Traders Ltd	182 -184 High Street North	A	0

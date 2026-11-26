@@ -37,7 +37,6 @@ A1 JOINERY BHAM LIMITED	Birmingham	A	0
 A12 PJ Limited T/A Papa Johns	Nottingham	A	0
 A5 NG1 Ltd T/A Papa Johns Pizza	Coventry	A	0
 AA & JJ Food Ltd	Brighton	A	0
-AC and JA Brodie	Dorking	A	11
 AC Jade Trading Ltd	Surrey	A	0
 ACES JEWELLERS LIMITED	Lisburn	A	0
 Adelaide Jones and Co Ltd	London	A	0
@@ -336,6 +335,7 @@ Ethical Introductions Ltd T/A Just Move In	Bournemouth	A	0
 ETHOS JIUJITSU BARNET LTD	London	A	0
 EUN JI KIM LTD	New Malden,	A	0
 Eve Johnson Houghton	Blewbury	A	0
+Eve Johnson Houghton Racing Limited	Blewbury	A	0
 Everyday JD Limited	East Kilbride	A	0
 Evesham786 Limited, T/a Papa John's	Evesham	A	0
 Eville & Jones (GB) Ltd	Leeds	A	0
@@ -513,6 +513,7 @@ J & S LAW FIRM LTD	London	A	0
 J & U CLUSTER LIMITED t/a Shell	Norfolk	A	0
 J & Z LIMITED	Luton	A	0
 J &F Constructions Limited	Hayes	A	0
+J A COYLE MANUFACTURING LIMITED	Derry	A	0
 J A Investments	London	A	0
 J A Kemp LLP	London	A	0
 J and K Minimarket Limited	Littleborough	A	0
@@ -1123,10 +1124,10 @@ JAMESY7 LTD	Coventry	A	0
 JAMF LTD	London	A	0
 Jamia Al Furqaan	Sheffield	A	0,1
 Jamia Al-Karam	Retford	A	0
-JAMIA DARUS SUNNAH LONDON	London	A	0,9,10
 Jamia Hanfia Ghosia Mosque And Princess Street Resource Centre	Burton on Trent	A	1
 Jamia Hanfia Rezvia Mosque	Newport	A	1,10
 Jamia Islamia (Islamic & Community Centre) Trust	Glasgow	A	9
+JAMIA ISLAMIA (ISLAMIC STUDIES CENTRE) TRUST	Nuneaton	A	9
 Jamia Islamia Ghousia Trust	Luton	A	1,9,10
 JAMIA LTD	London	A	0
 Jamia Masjid & Madrassa Faiz Ul Quran Ghousia	Birmingham	A	1,10
@@ -1169,7 +1170,6 @@ Jan London Trade Limited	Birmingham	A	0
 Jan London Trade Ltd	Birmingham	A	0
 Jan Preschool and Nursery	London	A	0
 Jan Towers Solicitors Ltd	London	A	0
-JAN UK TRADERS LIMITED	London	A	0
 Jan's Global Limited T/A DZRT	London	A	0
 JAN-PHARMA LTD T/A CHURCHFIELD PHARMACY	London	A	0
 Jana Retail Limited	Cornwall	A	0
@@ -1275,6 +1275,7 @@ JAR FRIENDS LTD	Romford	A	0
 JAR SOFTWARES LONDON LTD	London	A	0
 JARA FINANCE LTD	Birmingham	A	0
 Jara Solutions Ltd	Reading	A	0
+Jara Trading Limited	London	A	0
 Jarden Murphy Ltd	Brackley	A	0
 Jardin Des Violettes Ltd	Solihull	A	0
 Jardine Care Limited	New Malden	A	0
@@ -1315,7 +1316,7 @@ Jash (BV) Limted T/As One Stop	Birmingham	A	0
 JASH (WALSALL) 2 LIMITED T/A ONE STOP	Stoke-on-Trent	A	0
 JASH HEALTHCARE LTD TRADING AS JASH PHYSIO	Harrow	A	0
 Jash News Limited	London	A	0
-JASH VENTURES LIMITED	London	A	0
+JASH VENTURES LIMITED	Rickmansworth	A	0
 Jashaan Limited	Leicester	A	0
 JASHAN LIMITED	London	A	0
 Jashim Metal LTD	London	A	0
@@ -1427,7 +1428,6 @@ Jayachoice Ltd t/a Putney Pharmacy	London	A	0
 Jayaharan Medical Services LTD	Lytham St. Annes	A	0
 JAYAMANNA LIMITED	Bristol	A	0
 JAYAMBER LIMITED	Hemel Hempstead	A	0
-Jayan Hospitality Ltd	London	A	0
 JAYANDGEE LIMITED	London	A	0
 JAYASHREE MANAGEMENT PVT LTD	Rochester	A	0
 JAYASHRI PONNUSAMI T/A HEATH SIDE STORES	Petersfield	A	0
@@ -1494,7 +1494,7 @@ JBCTA LTD	Torquay	A	0
 JBD Distributions Ltd	Chaddock Lane	A	0
 JBD Group Ltd	Bristol	A	0
 JBL Furniture Interiors and Design Limited	Feltham	A	0
-JBL Living Ltd	Harpenden	A	0
+JBL Living Ltd	Birmingham	A	0
 JBLP 2 LIMITED	Norwich	A	0
 JBM International Ltd	Stafford	A	0
 JBM Law Ltd	Campbeltown	A	0
@@ -1505,7 +1505,6 @@ JBS Combines Ltd	Exeter	A	0
 JBS Global (UK) Limited	Uxbridge	A	0,4
 JBS Mechanical Ltd	Gloucester	A	0
 JBS MED LIMITED	Warwickshire	A	0
-JBS NEXUS TECH LTD	Crewe	A	0
 JBS Pharma Limited	London	A	0
 JBS UNIVERSAL TRADING LTD T/A DEEP PAN EXPRESS	Liverpool	A	0
 JbTYres	Tobermore	A	0
@@ -1681,7 +1680,6 @@ JENOSIKAN RAVICHANDRAN	Liverpool	A	0
 JENPAK LIMITED	Stanmore	A	0
 Jensen Hunt Design Limited	London	A	0
 Jensen UK Limited	Banbury	A	0
-Jensin Ltd t/as Castello Italia	Carrickfergus	A	0
 Jensten Group Limited	Huntingdon	A	0
 Jentry (International) Limited	London	A	0
 JEOL (U.K.) LIMITED	Welwyn Garden City	A	0,4
@@ -1838,7 +1836,6 @@ JFC (UK) Ltd	Hayes	A	0,4
 JFC Plastics Ltd	Stratford-upon-Avon	A	0
 JFC Tech Services Limited	London	A	0
 JFDI Consulting Ltd	Brighton	A	0
-Jfg Care Limited, T/A Mint Dental Care Kingseat	Aberdeenshire	A	0
 JFH Law LLP	London	A	0
 JFI NGO	Oxford	A	0
 JFL Seymours Lettings & Management Services (Woking) Limited	Woking	A	0
@@ -2137,7 +2134,6 @@ JMD Restaurants (Cardiff) Limited	Cardiff	A	0
 JME Strategy Limited	London	A	0
 JMG CARGO & TRAVEL LIMITED	London	A	0
 JMG GROUP INVESTMENTS LIMITED	Leeds	A	0
-JMG PVT LTD	Rainham	A	0
 JMG STORE LTD T/A CROWN MEAD STORES	Thatcham	A	0
 JMG Systems	Omagh	A	0
 JMI Salons Limited	London	A	0,4
@@ -2318,6 +2314,7 @@ John Paul Clarkin	Cheltenham	A	11
 John Paul Construction Limited	Bracknell	A	0,4
 John Pawson Limited	London	A	0
 John Puttick Associates Limited	London	A	0
+John Pye and Sons Ltd	Nottingham	A	0
 JOHN QUINN RACING LTD	Malton	A	0
 John Reilly Civil Engineering Ltd	Park Gate	A	0
 John Rich Architects Limited	Richmond	A	0
@@ -2554,11 +2551,11 @@ Jousting Ltd	Thornhill	A	0
 Jove International Limited	London	A	0
 Jovi Entertainment Limited	Covent Garden, London	A	0
 JOVS LTD	Clydebank	A	0
+Joy Brands Limited T/A Pret A Manger	Buckinghamshire	A	0
 JOY CARE AGENCY	Romford	A	0
 JOY CARE SERVICE LIMITED	East Sussex	A	0
 Joy Caring Services Limited	Stevenage	A	0
 JOY FILMS LIMITED	London	A	0
-Joy Global (UK) Limited	Bolton	A	0,4
 Joy Global (UK) Ltd	Bolton	A	0,4
 Joy Smile Limited	Dundee	A	0
 Joy Taste Ltd	Dalkeith	A	0
@@ -2822,7 +2819,7 @@ Judospace Ltd	Foxton	A	11
 Judy's Spa Limited	Glasgow	A	0
 Juergen Matthes Student Organisation	Eastbourne	A	0
 JUG AND BOTTLE	London	A	0
-Juga Homes Ltd	Bromley	B	0
+Juga Homes Ltd	Bromley	A	0
 JUGAAD KITCHEN LIMITED	Welling	A	0
 Jugai Constructions Ltd	Nottingham	A	0
 Juggernaut Trading Services Limited	Milton Keynes	A	0
@@ -2842,7 +2839,6 @@ Juju Catering Ltd.	Hatfield	A	0
 JUJUHOME GROUP LTD	London	A	0
 Jukin Media Limited	London	A	0,4
 JULCOM PROPERTY MANAGEMENT LTD	London	A	0
-Julee Care Limited	Harpenden.	A	0
 JULES DIAMONDS LIMITED	London	A	0
 JULIA & RANA LTD	London	A	0
 Julia Charles Event Management	Milton Keynes	A	0
@@ -2893,7 +2889,6 @@ JUNCTION MANGAL LTD	London	A	0
 Junction Motors Watford Ltd	Watford	A	0
 JUNCTION SURGERY	Huddersfield	A	0
 JUNCTION TANDOORI LTD	Conwy	A	0
-June Capital Limited	London	A	0
 Juneja Telecom Limited	Horsham	A	0
 Junelight Ltd	London	A	0
 Junerain Spa & Treatment Clinic	Leamington Spa	A	0
@@ -3023,6 +3018,7 @@ JUSTORA LEGAL SERVICES LTD	London	A	0
 JustParent Ltd	London	A	0
 JustPark Parking Limited	London	A	0
 JustRight Scotland SCIO	Glasgow	A	0
+Justt Fintech UK Ltd	London	A	0
 JustWontDie Limited	Cambridge	A	0
 Justworks Employment UK Ltd.	London	A	0,4
 Jusu Brothers Ltd	London	A	0
@@ -3242,7 +3238,6 @@ Mr Jahan Zaib T/A Zaib Hair Kutz	Manchester	A	0
 Mr Jahngir Ahmed T/A Chapel Lane Garage	Stoke On Trent	A	0
 Mr Janarthanan Nadesapillai TA Hawkhurst Local	Hawkhurst	A	0
 Mr Jayesh Patel T/A B K News	London	A	0
-Mr Jean Francois Decaux	London	A	11
 Mr Jeyabalan Arumugam T/A Meadow Vale Convenience Store	Belper	A	0
 Mr JEYAKUMAR KUMARIAH T/A VINA WINES	Aylesbury	A	0
 Mr Jeyarajah Jeyanathan T/A The Stores	Gravesend	A	0
@@ -3283,9 +3278,8 @@ Mumbai Masala Ltd T/A Street Food Junction	South Harrow	A	0
 Munster Joinery (U.K) Limited	Wellesbourne	A	0,4
 MUSTAFA JEWELLERS LIMITED	Luton	A	0
 MZ JOINERY AND WOODWORKS LTD	Ruislip	A	0
-N & C Management Ltd t/a Joyato Sushi & Grill	Swansea	A	0
 N & J BARBERS LTD T/A N & J BARBERS	London	A	0
-N P Josan Dalston Ltd	Ilford	A	0
+N P Josan Dalston Ltd	London	A	0
 N P Josan Dover Ltd	Ilford	A	0
 N S Johal & Sons Limited	Bradford	A	0
 N Sree Ashtalukshimi Jewellers Pvt Ltd	Lewisham	A	0
@@ -3391,7 +3385,7 @@ PRITESH PATEL TRADING AS JAY'S STORES	Essex	A	0
 PRIYA & JOSLINE RESTAURANTS LTD	London	A	0
 Progress JJ Limited	Manchester	A	0
 Project J LTD	London	A	0
-PROJECT NEWCASTLE PRIVATE LIMITED TRADING AS PAPA JOHNS	Huddersfield	A	0
+PROJECT NEWCASTLE PRIVATE LIMITED TRADING AS PAPA JOHNS	Binley Woods,Coventry	A	0
 Prosperous Jade Feast Ltd T/A JRC Global Buffet	Ilford	A	0
 Public Interest Incorporated Association The Japan Association of Marine Safety London Office	London	A	0,4
 Puddle Jumpers Ltd	London	A	0
@@ -3480,6 +3474,7 @@ Route Justice	London	A	0
 Roy Victor Humphrey & Macayla J Burrows	Eye	A	0
 Royal Jordanian Airlines	London	A	0,4
 Ruby James Restaurants Limited	Ashford	A	0
+Ruddy Joinery Limited	Flitwick	A	0
 Rupert Jade Ltd	London	A	0
 Russell Jackson t/a ITinStock	Waltham Cross	A	0
 S & J Business Advisors Ltd	London	A	0
@@ -3639,7 +3634,6 @@ St Johnstone Football Club	Perth	A	11
 St Joseph Newport Ltd	Cardiff	A	0
 St Joseph's Catholic Primary School	London	A	0
 St Joseph's College	Ipswich	A	0
-St Joseph's College Reading	Reading	A	0
 St Joseph's Nursing Home	Littlehampton	A	0
 St Joseph's RC Primary School	Barking	A	0
 St Joseph's RC Primary School	Manchester	A	0
@@ -3882,11 +3876,11 @@ Watford Hotel Ltd T/A Holiday Inn Express London - Watford Junction	Watford	A	0
 WB The Creative Jewellery Group	Birmingham	A	0
 WE PROTECT SECURITY JTR LTD	West Bromwich	A	0
 WELCOME JEWELLERY LTD	London	A	0
+Well Grounded Jobs CIC	London	A	0
 West Dean College - The Edward James Foundation Ltd	Chichester	A	0,3,9
 WEST MIDLANDS JAPAN MOTORS LTD	Birmingham	A	0
 WEST OAK JOINERY LTD.	Letchworth Garden City	A	0
 Western Jewellers	Tooting Broadway	A	0
-WESTWOOD JOINERY & CONSTRUCTION LIMITED	Sheffield	A	0
 will jones agri services	Carmarthen	A	0
 William Jackson Food Group	Hull	A	0
 Williams Jet Tenders Ltd	Berinsfield	A	0

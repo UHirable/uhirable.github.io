@@ -67,6 +67,7 @@ AB World Foods Ltd	Leigh	A	0
 abbey wood dental practice	London	A	0
 Abbotshill Food & Wine LTD	Ealing	A	0
 ABC CAFE WEST LONDON LIMITED	Southall	A	0
+ABC WORLDWIDE LTD	Belfast	A	0
 Abdul Wahab	Manchester	A	0
 Abi Steel Works Ltd	Manchester	A	0
 Abingdon and Witney College	Abingdon	A	0
@@ -109,7 +110,6 @@ Adrian Wintle Racing Limited	Westbury-on-Severn	A	0
 ADVANCE WATER TREATMENT TECHNOLOGIES LIMITED	Leighton Buzzard	A	0
 ADVANTAGE HOTELS (WALSALL) LTD	Harrow	A	0
 Advertising Week Europe Ltd	London	A	0
-Advita Ltd T/As Smart food and wine	Hampshire	A	0
 AEA Consulting Worldwide Ltd	London	A	0
 Affinity Health at Work	London	A	0
 Affinity Water	Hatfield	A	0
@@ -227,6 +227,7 @@ Andres West Kirby Ltd	West Kirby	A	0
 ANDREU WORLD UK LTD	London	A	0
 ANDREW WITHEROW FENCING	Strabane	A	0
 ANDREW WOMMACK MINISTRIES - EUROPE	Walsall	A	1
+ANDY WALKER CONSTRUCTION CO. LIMITED	Manchester	A	0
 Angel Cars (Woking) Ltd	Woking	A	0
 Angela's Workforce Ltd	Tipton	A	0
 Anglian Water Services Ltd	Huntingdon	A	0
@@ -282,7 +283,7 @@ AROMA COFFEE HOUSE (WM) LTD TA Aroma	Birmingham	A	0
 Arora Superstore Ltd T/A Dedworth food and wine - Dedworth Convenience Store	Windsor	A	0
 ARROW WHOLESALE GROUP LTD	Southampton	A	0
 ARS Wholesaler Limited	Greenford	A	0
-Arsenal Women Football Club Limited	London	A	11
+Arsenal Women Football Club Limited	London	A	0,11
 Artelium Wine Estate LLP	Streat	A	0
 Artifex Creative Webnet Ltd	London	A	0
 Artis Works Ltd	London	A	0
@@ -327,6 +328,7 @@ Atlas Workplace Services Limited	Milton Keynes	A	0
 Atomic Wire Technology Limited	London	A	0
 Atrium Workforce Solutions UK Ltd	London	A	0
 ATS Carpets & Furniture world	Edgware	A	0
+Attraction World Limited	Birmingham	A	0
 AUBERGINE WITH FLOWER LTD	London	A	0
 Aulic Limited T/A The White Hart	Windsor	A	0
 AUM SOUTH WEST LTD	Bristol	A	0
@@ -660,7 +662,6 @@ Care Centres Wales Limited T/A Pen Y Bryn Care Home	Swansea	A	0
 Care Homes of Distinction (Wray Park) Limited	Poole	A	0
 Care Matters (Wiltshire) Limited	Wiltshire	A	0
 Care with Heart	Abingdon	A	0
-Care With Pride Leicester Ltd	Leicester	A	0
 Care with Pride Ltd	Luton	A	0
 CARE WITHIN LTD	Halifax,	A	0
 CARE WORLD AGENCY LTD	Croydon	A	0
@@ -671,7 +672,6 @@ Carebase (Hemel) Limited t/a Water Mill House Care Home	Hertfordshire	A	0
 Caremark Warwick	Leamington Spa	A	0
 Carers with Care Limited	Camberley	A	0
 Cargostore Worldwide Trading Ltd	London	A	0
-Caring Hands (Wiltshire)	Swindon	A	0
 Caring with Dignity Limited	Tipton	A	0
 Carl Turner Architect's TA/ Turner Works	London	A	0
 CARMELITE PRIORY - OXFORD (The Friends of Whitefriars Oxford Trust)	Oxford	A	1,9,10
@@ -684,6 +684,7 @@ Casbah Food and Wine	Crawley	A	0
 Casco Food & Wine Ltd	Slough	A	0
 CASPIAN WALSALL LIMITED T/A CASPIAN PIZZA	Walsall	A	0
 Castle Hotel Windermere Ltd	Pitlochry	A	0
+Castle Waste Services Ltd	Ilkeston	A	0
 Castle Water Limited	Blairgowrie	A	0
 Castlebridge Hotels Winchester Opco Limited	Leamington	A	0
 Cathedral Church of St Andrews in Wells	Wells	A	10
@@ -738,7 +739,6 @@ CHESTERS (WOOD GREEN) LIMITED	London	A	0
 Chestnut on the Water LTD	Somerton	A	0
 Chetan Wholesalers Limited	Southend-on-Sea	A	0
 CHICKEN & WINGS LIMITED	Manchester	A	0
-Chigwell Window Centre Limited	Hainault	A	0
 CHIGWELL WINDOW CENTRE PLC	Ilford	A	0
 Chiltern Way Academy Trust	Aylesbury	A	0
 CHINA WINE & SPIRIT (UK) CO. LTD	London	A	0
@@ -791,6 +791,7 @@ Climate Windows Ltd	London	A	0
 CLIMAX CUISINE LTD T/a Magic Wok & Box	London	A	0
 Clodan Limited t/a The White Horse Inn	Saintfield	A	0
 Cloud Kitchen London Ltd T/AS Hyderabad Wala {House of Biryani}	London	A	0
+CLS Wind (UK) Ltd	Edinburgh	A	4
 Coate Water Care (Church View Nursing Home) Ltd	Swindon	A	0
 Coates Way Junior Mixed Infants and Nursery School	Watford	A	0
 COCO WEMBLEY HAIR AND BEAUTY LIMITED T/A COCO WEMBLEY HAIR & BEAUTY	Wembley	A	0
@@ -982,7 +983,6 @@ Direct Wholesale Foods (London) Ltd	Edmonton	A	0
 Direct Wines Limited	Reading	A	0,4
 Discount Wholesale Tyres (Hemel) Ltd	Hemel Hempstead	A	0
 DISCOUNT WINE CENTRE	Gateshead	A	0
-Ditton Wine Traders	London	A	0
 DIXIT FOOD & WINE LTD	London	A	0
 Dixy Chicken Walsall Ltd	Walsall	A	0
 DIY WHOLESALE LTD	Manchester, England	A	0
@@ -1031,7 +1031,6 @@ DS Windows Ltd	Harrow	A	0
 DSK FOOD & WINE LIMITED	London	A	0
 DSL Care Ltd T/A Wellcross Grange Nursing Home	Horsham	A	0
 DSP FOOD & WINE LTD	Birmingham	A	0
-DTE HOLDINGS (NORTH WEST) LTD	Runcorn	A	0
 Dua Wholesale Ltd	Peterborough	A	0
 Dudley Wood Surgery	Dudley	A	0
 Duke of wellington	London	A	0
@@ -1352,6 +1351,7 @@ Gefyra Waterproofing Limited	London	A	0,4
 Gelato Italia Wholesale	Shoeburyness	A	0
 Gene Weaver Ltd	Helions Bumpstead	A	0
 Genius Within CIC	Lewes	A	0
+Genix Care Ltd T/A Waxham House	Ryde	A	0
 George Downie T/A Downies of Whitehills	Banff	A	0
 George F. White	Alnwick	A	0
 George W. Consulting Limited	London	A	0
@@ -1388,7 +1388,6 @@ Globelink Warehousing & Logistics Limited	Northampton	A	0
 GLOBUS WEALTH MANAGEMENT LIMITED	London	A	0
 GMS Food and Wine Ltd.T/As GMS Food & Wine	Chiswick	A	0
 GN Wellsprings Care Services	Rugby	A	0
-GNY World Group Ltd	London	A	0
 Go Dharmic Welfare UK	London	A	0,9
 Go Far Together Limited d/b/a Black Women in Asset Management	London	A	0
 Go Wireless Ltd	Kingston upon Thames	A	0
@@ -1682,7 +1681,9 @@ Ingleton Wood LLP	London	A	0
 Inn Control Management Services Limited T/A The Prince of Wales Baslow	Baslow	A	0
 Inner Park Food and Wine Ltd	London	A	0
 INNOCEAN WORLDWIDE UK LTD	London	A	0,4
+innov8 Workshops	Bury St Edmunds	A	0
 Innovations Wiltshire Ltd	Marlborough	A	0
+Innowise Works Ltd	Garforth	A	0
 Inspire (Walsall) Limited	Walsall	A	0
 Inspire Dental Ilford Limited T/A Whitestar Dental Care	Essex	A	0
 INSPIRE SUPPORT WORKERS LTD	London	A	0
@@ -1897,7 +1898,6 @@ Kenilworth Wardens	Kenilworth	A	11
 Kennedy Wilson UK Limited	London	A	0,4
 Kenneth Davis (Works of Art) Limited	London	A	0
 Kenny Wax Ltd	London	A	3
-KENS WATERLOOVILLE LIMITED	Waterlooville	A	0
 Kensal Food and Wine	London	A	0
 KENT ST WINES UK LTD	Hayes	A	0
 Kent Ultrasound Studio Ltd T/A Window to the Womb Maidstone Ltd	Maidstone	A	0
@@ -2118,7 +2118,6 @@ LVMH Watch & Jewellery (UK) Limited	Manchester	A	0,4
 Lyca Health Canary Wharf Ltd	London	A	0
 Lycosa Web Services Ltd	Driffield	A	0
 LYMINGE FOOD & WINE	Folkestone	A	0
-M & D Careplus Limited T/A Bluebird Care Tamworth, Lichfield, Nuneaton & North Warwickshire	Tamworth	A	0
 M & S Food and Wine	Brighton	A	0
 M & S WATER SERVICES (UTILITIES) LIMITED	Luton	A	0
 M Aslam T/a Watan Foods	Walsall	A	0
@@ -2226,7 +2225,7 @@ MB TYRES AND WHEELS LTD	London	A	0
 McCabe Ford Williams	Maidstone	A	0
 MCCOYS WENDOVER LIMITED	Aylesbury	A	0
 McDermott Will & Schulte UK LLP	London	A	0,4
-McMillan Woods	Sidcup	A	0
+McMillan Woods	London	A	0
 Mcmillan Woods Audits Limited	London	A	0
 McTear Williams & Wood Limited	Norwich	A	0
 MDFOODS LTD WALES CYF.	Pontypridd	A	0
@@ -2405,7 +2404,6 @@ NAHL WORKS LTD	Mildenhall	A	0
 NAILS WITH DEE LTD	London	A	0
 Naked Wines	Norwich	A	0
 NALINI FOOD PVT LIMITED t/a KK Food & Wine	Birmingham	A	0
-NAMASTE WOLVERHAMPTON LTD	Wolverhampton	A	0
 NAME WHAT LTD	London	A	0
 Nanak Windows Ltd	Ilford	A	0
 NAR BEAUTY & WELLNESS LTD	Coventry	A	0
@@ -2450,7 +2448,6 @@ NEVIS WEALTH TECHNOLOGY LTD	London	A	0
 NEW ALISHA (WALSALL) SUPERMARKET LTD	Walsall	A	0
 NEW CARE OPCO (WOODFORD) LIMITED T/A Bramhall Manor Care Centre	Bramhall	A	0
 NEW COLES & WALL LTD	London	A	0
-New College Worcester	Worcester	A	0
 New Earth Solutions (West) Ltd t/a Mid UK Recycling	Grantham	A	0
 New Heights Wellness Ltd	Huntingdon	A	0
 New Shapla Watford Ltd	Watford	A	0
@@ -2621,7 +2618,6 @@ Opus Waterproofing Solutions Ltd	Borough Green	A	0
 ORAL HEALTHCARE WALDRON LTD	London	A	0
 Orbital Witness Limited	London	A	0
 Orchid Wellness Limited	Fleet	A	0
-Orchid Woodlands Healthcare Ltd	Manchester	A	0
 Origin Wine Ltd	Banbury	A	0,4
 OSAKA (HIGH WYCOMBE) LIMITED	High Wycombe	A	0
 OSG WATER LTD	London	A	0
@@ -2632,7 +2628,6 @@ Our Care Your Way Ltd	Liverpool	A	0
 Out of Hours West Lancshire CIC	Skelmersdale	A	0
 Oviya Food and Wine LTD	Bradford	A	0
 P & P FOOD N WINE LIMITED	Bolton	A	0
-P W Circuits Ltd	South Wigston	A	0
 P Z & W Limited	Basingstoke	A	0
 P.I. WORKS UK LTD	Marlow	A	0,4
 P.K. ENGINEERING (WB) LTD	West Bromwich	A	0
@@ -2800,7 +2795,6 @@ Punjab Jewellers Kapurthala Wale Ltd	Leicester	A	0
 Pure Body Limited T/A William Thomas Gaughan	London	A	0
 Pure Science Ltd t/a Sense Worldwide	London	A	0
 Pure Wellness Centre Limited	Bournemouth	A	0
-pure white lines	Brooks Lane	A	0
 Purely Scottish Natural Mineral Water LTD	East Lothian	A	0
 PURLEY WAY SERVICE STN LIMITED	London	A	0
 Purple Willows Ltd	Welling	A	0
@@ -2882,7 +2876,6 @@ Renn Consultancy Ltd t/a Emulous Water	Wells	A	0
 Renovate Wellness Limited, T/A Chiltern Physiotherapy	Chorleywood	A	0
 REPRESENTATIVE OFFICE OF JOINT STOCK COMPANY SOVEREIGN WEALTH FOND SAMRUK KAZYNA	London	A	0
 Resilient Water Accelerator Limited	London	A	0
-Resman Wireless Reservoir Surveillance UK Ltd	Westhill	A	0
 RESTORATION WORLD REVIVAL CHURCH	Croydon,	A	1,9,10
 RESUL'S FOOD & WINE LIMITED	Woodford Green	A	0
 RESV Enterprise Ltd t/a Woburn Sands Convenience Store	Milton Keynes	A	0
@@ -3002,6 +2995,7 @@ S W P CONCRETE SOLUTIONS LIMITED	Bridgwater	A	0
 S&J Enterprises(wales)Ltd	Port-Talbot	A	0
 S&S STORES (WOLVERHAMPTON) LIMITED	Bilston	A	0
 S.K WINDOWS & DOORS LTD	London	A	0
+S5 Agency World	London	A	0
 SA FOOD AND WINE LTD	Guilford	A	0
 Saaiyeeshwar Food & Wine and News	Wirral	A	0
 Sabden and Whalley Medical Group	Clitheroe	A	0
@@ -3135,7 +3129,6 @@ Shepherd's Lodge (trading as Wisteria Lodge)	Watford	A	0
 Shera Building Works Ltd	Surrey	A	0
 SHERRY'S WHOLESALE LTD	Greenford	A	0
 Sherwood Food and wine	Surrey	A	0
-Shikumen Investment (W12) Ltd	London	A	0
 SHINE TECHNOLOGY WLL UK LTD	London	A	2
 SHINEWING WILSON ACCOUNTANCY LIMITED	London	A	0
 Shires Healthcare (Woodside) Ltd	Harrow	A	0
@@ -3247,7 +3240,6 @@ SOMERVILLE GLASS & WINDOWS LTD	Reading	A	0
 Sophia Webster Ltd	London	A	0
 Sophisa Ltd T/A Wallace White Accountants	Glasgow	A	0
 Soul Water Sauna	Edinburgh	A	0
-Sousa World Gourmet Ltd	Reigate	A	0
 South & West Motors Ltd	Bath	A	0
 South East Water Limited	Snodland	A	0
 SOUTH LEGACY LIMITED T/A EAST IN THE WEST	Paignton	A	0
@@ -3451,7 +3443,6 @@ TAANVI LIMITED T/AS KING EDWARD FOOD AND WINE	Deal	A	0
 TAFFS WELL UK LIMITED	Cardiff	A	0
 TAG N. 1 ltd trading as yapix Coffee and Wine House	London	A	0
 TajSpices Wholesale Limited T/A TajSpices	East Calder	A	0
-Talbot Woods Lodge	Bournemouth	A	0
 Tanager Wealth Management LLP	London	A	0
 TANE WROXHAM LTD	Norwich	A	0
 Tanga Wizi Limited	Twickenham	A	0
@@ -3518,7 +3509,7 @@ The Brooke Weston Trust	Kettering	A	0
 The Bull & Willow Limited	Great Totham	A	0
 The Cat & Wickets Pub Co Ltd t/a The Tap & Run	Melton Mowbray	A	0
 The Cave (Woodford) LTD	Essex	A	0
-The Changing Workplace Ltd	Lewes	A	0
+The Changing Workplace Ltd	Haywards Heath	A	0
 The Chelsea Food and Wine Company Limited	Harrow	A	0
 THE CHURCH OF SIGNS AND WONDERS (UK) LTD	Leicester	A	0,1,9,10
 The Church of the Living God, Pillar and Foundation of the Truth, The Light of the World, South London	London	A	0,1,10
@@ -3565,7 +3556,6 @@ The Incorporated Council of Law Reporting for England and Wales	London	A	0
 The Inn at Whitewell Limited	Clitheroe	A	0
 The John Wallis Church of England Academy	Ashford	A	0
 The Juice Warehouse Ltd	Epping	A	0
-The King Alfred Winchester Ltd	Winchester	A	0
 The Laundry Post Ltd T/A Wash	London	A	0
 The Law Society of England and Wales	London	A	12
 The Leeds Welding Company Ltd	Leeds	A	0
@@ -3592,6 +3582,7 @@ The Palm Group Winchester Ltd	WInchester	A	0
 THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF CHRIST CHURCH WEST GREEN WITH ST. PETER	London	A	1
 The Parochial Church Council of the Ecclesiastical Parish of Oakley with Wootton	Oakley	A	0
 The Parochial Church Council of the Ecclesiastical Parish of Saint John with Saint Andrew, Chelsea	London	A	1
+The Parochial Church Council of the Ecclesiastical Parish of St Barnabas Woodside Park	London	A	0
 THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST EDMUND THE KING, ST MARY WOOLNOTH AND ST CLEMENT EASTCHEAP	London	A	0,9,10
 The Parochial Church Council of the Ecclesiastical Parish of St James, Westminster	London	A	0
 The Parochial Church Council of the Ecclesiastical Parish of St John the Divine with St James the Apostle Kennington	London	A	9
@@ -3637,7 +3628,6 @@ The Sushi Co (Waterloo) Ltd	London	A	0
 The Sushi Co (Wimbledon) Ltd	London	A	0
 The Sushi Co (Woodford) Ltd	Woodford Green	A	0
 The Swan Hotel (Warwick Corporation Ltd)	Alresford	A	0
-The Thakerar Partnership T/A Welbourn Homes	Lincoln	A	0
 The Thin White Duke	London	A	0
 The United World College of the Atlantic Ltd	Llantwit Major	A	3,9
 The United World Colleges (International)	London	A	0
@@ -3670,7 +3660,6 @@ The Water Monopoly (2003) Limited	London	A	0
 The Waterfield Practice	Bracknell	A	0
 The Waterman's Arms	London	A	0
 The Watford Association Football Club Limited	Watford	A	0,11
-THE WATLING INN LIMITED	Nuneaton	A	0
 THE WAVERLEY HOTEL (GREAT YARMOUTH) LIMITED	Great Yarmouth	A	0
 The Way International UK Limited	London	A	0,4
 The Weather Company UK Limited	Birmingham	A	0
@@ -3679,7 +3668,6 @@ THE WEB VISIONS LTD	Milton Keynes	A	0
 The Webinar Vet	Liverpool	A	0
 The Wedding Boutique Italy	Stonham Aspal	A	0
 The Wedding Dress Shop LTD	Wimbledon Park	A	0
-The Wedding Hire Company Ltd	Hertford	A	0
 The Wee Choo-Choo Thai Restaurant	Pitlochry	A	0
 The Wee Furniture Factory Ltd.	Paisley	A	0
 The Welby Group	Bottesford	A	0
@@ -4269,7 +4257,6 @@ WALL FRAMES & MOULDING LTD	Glasgow	A	0
 Wall Hill Care Home Limited	Leek	A	0
 Wall of Death Ltd	Ely	A	3
 Wall-Lag (Wales) LTD	Mold	A	0
-wall2wall carpets and flooring	Bolton	A	0
 WALL2WALL CARPETS AND FLOORING LIMITED	Bolton	A	0
 Wallace Collection	London	A	0
 Wallace HCL Ltd	London	A	0
@@ -4368,7 +4355,6 @@ WAMBA store	Wolverhampton	A	0
 WAMIN TECH LTD	Luton, England,	A	0
 WAMO TECHNOLOGY LIMITED	London	A	0
 Wan Media Ltd	London	A	0
-Wan Plastering Limited	Slough	A	0
 WANB EXPRESS UK LTD	Ipswich	A	0
 Wanderlust Wine	London	A	0
 Wandle Healthcare Services Limited	London	A	0
@@ -4542,6 +4528,7 @@ Wasted Talent LTD	London	A	0
 Wastefront Limited	Warwick	A	0,4
 WASTEMOVE LIMITED	Ilford	A	0
 Wastewater Fuels Ltd	Coventry	A	0
+WASTIB STUDIO LIMITED	London	A	0
 WASZ LIMITED	Surrey	A	0
 WAT ARUN NORFOLK UK	Norwich	A	1,9,10
 Wat Buddharam (London)	Romford	A	1,10
@@ -4714,7 +4701,6 @@ Wavetrak Limited	Plymouth	A	0
 Wavin Limited	Doncaster	A	0,4
 Wavteq Limited	Belfast	A	0
 Wawa Fertility Limited	London	A	0
-Waxham House	Ryde	A	0
 Waxman Energy Ltd	Elland	A	0
 Way Ahead Group LTD	Nottingham	A	0
 Way Of Life Management Ltd	London	A	0
@@ -4736,9 +4722,9 @@ Waymap Limited	London	A	0
 Waymo UK Ltd	Oxford	A	0,4
 Wayne Kerr Electronics Ltd	Bognor Regis	A	0
 Wayne Leighton LLP	Elstree	A	0
+WAYNE TECHNOLOGY ENTERPRISES LTD	Walthamstow	A	0
 WAYPOINT COMMODITIES LIMITED	London	A	0
 Waypoint Consulting Limited	London	A	0
-Ways to Wellness Foundation	Newcastle upon Tyne	A	0
 Wayside Care Limited	Bromsgrove	A	0
 WAYSIDE COMMUNICATIONS LTD	Birmingham	A	0
 Wayside Lodge Equestrian LTD	Leicester	A	0
@@ -4825,6 +4811,7 @@ WE CARE 4 YOU SERVICES LIMITED	London	A	0
 We Care Homes Ltd	London	A	0
 WE CARE NOTTINGHAM LIMITED	Nottingham	A	0
 We Care Nursing Services LTD	Corby	A	0
+We Care Physiotherapy ltd	Maidstone	A	0
 WE CARE SERVICES LTD	Rossendale	A	0
 We Care You Plus Ltd	Cardiff	A	0
 We Certify Group Ltd	London	A	0
@@ -4860,12 +4847,12 @@ We Study In (UK) Limited	Watford	A	0
 We Supply Food Limited	London	A	0
 We Twelve Limited	London	A	0
 We Vape Limited	Slough	A	0
-WE&CE Ltd	Manchester	A	0
 We'll Mind Your Own Business Ltd	London	A	0
 We've Got the Key	Chorley	A	0
 WE-ARE-HR LIMITED	London	A	0
 We-Care-Recruitment Ltd	Oxford	A	0
 WE2UK LTD	Birmingham	A	0
+WE3 Services Limited	Norwich	A	0
 WE4U LIMITED	Richmond	A	0
 WEACTIVE9 LTD	Milton Keynes	A	0
 WEAL Architects Ltd	Wheathampstead	A	0
@@ -4944,7 +4931,6 @@ WEBINTELLECT LTD	Reading	A	0
 WEBIST LTD	Dagenham	A	0
 WEBMAVEN TECH LTD	London	A	0
 WebMD UK Limited	London	A	0,4
-WebN Group (UK) Limited	London	A	0,4
 Webnise Ltd	Romford	A	0
 Weboo Online Limited	London	A	0
 Webskitters Ltd.	London	A	0,2
@@ -5070,6 +5056,7 @@ WELL CARE 24/7 LTD	Keighley	A	0
 Well Co Engineering Automation UK Ltd	Birmingham	A	2
 Well Drawn Brewing Company Limited	Bedwas	A	0
 Well Dunn Limited	Manchester	A	0
+Well Grounded Jobs CIC	London	A	0
 Well Kneaded	London	A	0
 WELL NATURAL LIMITED	Salisbury	A	0
 Well Played Games Ltd	Leamington Spa	A	0
@@ -5146,6 +5133,7 @@ Wellington WM Ltd t\a Calthorpe Arms	Birmingham	A	0
 Wellman Clean & Amy Cleaning	Watford	A	0
 Wellmist UK Ltd	Bradford	A	0
 Wellmun Care Ltd	Halesowen	A	0
+WELLNESS CARE UK LTD	Stapeley	A	0
 Wellness Minerals Ltd	Wembley	A	0
 WELLNESS PLANET LTD	London	A	0
 Wellness Social Care Services Limited	Dunfermline	A	0
@@ -5389,8 +5377,6 @@ West Midlands Steel Ltd	Warwick	A	0
 West Monroe Partners Limited	London	A	0
 WEST MOON LTD T/A THE FUSION	Bexley	A	0
 West Motor Co Ltd	London	A	0
-WEST MOTORS LONDON LTD	Uxbridge	A	0
-West NAH Professionals LLP	Paisley	A	0
 West Nine Construction Ltd	London	A	0
 West Norfolk Academies Trust	Kings Lynn	A	0
 West Northamptonshire Council	Northampton	A	0
@@ -5461,7 +5447,7 @@ WestBridge Business Immigration Ltd	London	A	0
 Westbridge FoodsLtd	Malvern	A	0,4
 Westbridge Renewable Energy Asset Management Limited	London	A	0
 Westbrook Europe (UK) LLP	London	A	0,4
-Westbrook Healthcare LLP (T/A Westbrook Care)	Caterham	B	0
+Westbrook Healthcare LLP (T/A Westbrook Care)	Caterham	A	0
 Westbrook Law LTD	London	A	0
 Westbrook Medical Centre	Warrington	A	0
 WESTBROOK RETAIL LTD T/A FLAMSTEAD VILLAGE STORE & POST OFFICE	St Albans	A	0
@@ -5487,7 +5473,7 @@ Westco Trading Ltd	London	A	0
 Westcoast Ltd	Reading	A	0
 Westcombe Construction Limited	Harrow	A	0
 Westcon Group European Operations Ltd	Cirencester	A	0,4
-Westcore UK LLP	Surrey	A	0
+Westcore UK LLP	London	A	0
 WESTCOUNTRY FIRE PROTECTION LIMITED	Torquay	A	0
 Westcountry Schools Trust	Ivybridge	A	0,9
 Westcourt Medical Centre	Littlehampton	A	0
@@ -5519,7 +5505,7 @@ Western Health & Social Care Trust	Londonderry	A	0
 Western Health Care Limited	Petersfield	A	0
 Western House Academy	Slough	A	0
 WESTERN INSULATION SERVICES LIMITED	Glasgow, Scotland,	A	0
-Western International Group (UK) Ltd	Smethick	A	0
+Western International Group (UK) Ltd	Wolverhampton	A	0
 Western Jewellers	Tooting Broadway	A	0
 WESTERN LINK LIMITED	Suffolk	A	0
 Western Link Traders	Leicester	A	0
@@ -5568,7 +5554,6 @@ WESTGATE HEALTHCARE (HEMEL HEMPSTEAD) LTD	Borehamwood	A	0
 Westgate Healthcare (Wanstead) Limited	Borehamwood	A	0
 Westgate Healthcare Limited	Borehamwood	A	0
 WESTGATE HOUSE NE LTD	Newcastle Upon Tyne	A	0
-WESTGATE INVESTMENT & BUSINESS DEVELOPMENT LTD	London	A	0
 WESTGATE LONDIS LIMITED	Westgate-On-Sea	A	0
 Westgate Solicitors	Ilford	A	0
 WestGlen Consult Ltd	Paisley	A	0
@@ -5664,7 +5649,6 @@ Westwood Care Homes Limited T/A Woodlands Nursing Home	Ripley	A	0
 Westwood Clinic	Peterborough	A	0
 Westwood Global Energy Limited	Aberdeen	A	0,4
 Westwood Homecare (NORTHWEST) LIMITED	Manchester	A	0
-WESTWOOD JOINERY & CONSTRUCTION LIMITED	Sheffield	A	0
 WESTWOOD LODGE CARE HOME	Newcastle upon Tyne	A	0
 Westwood Medical Health Centre	Coventry	A	0
 WESTWOOD MOT LIMITED	Oldham	A	0
@@ -5726,6 +5710,7 @@ WH 459 Limited	Matlock	A	0
 WH Investments T/A Victoria house care home	Warrington	A	0
 WH Ireland Ltd	London	A	0
 WH Metals Ltd	Preston	A	0
+WH Nutt & Son Ltd	Londonderry	A	0
 WH Pubs Ltd	Tonbridge	A	0
 WH Smith Travel Limited	Swindon	A	0
 WH TRADING UKCT LTD	London	A	4
@@ -5760,6 +5745,7 @@ Wheel Freedom Limited	Chessington	A	0
 WHEEL FUSION LTD	Glasgow	A	0
 Wheel Get You There Limited	Hayes	A	0
 Wheel Lane store Ltd	Birmingham	A	0
+Wheel of Fate	Edinburgh	A	0
 Wheelabrator Group Limited	Altrincham	A	0,4
 WheelRight Ltd	Oxford	A	0
 Wheels Auto Limited	Slough	A	0
@@ -5786,7 +5772,6 @@ Whinhall Minimarket	Airdrie	A	0
 Whippendell Healthcare Ltd	Watford	A	0
 Whippet UK Limited	London	A	0
 Whipps Cross Garage (London) Ltd	London	A	0
-WHIPPY ICE'S LTD	Crawley	A	0
 Whirlwind Elite Ltd. T/As Subway	Edgware	A	0
 Whiskey and Wealth Club	Richmond	A	0
 Whiskey Villa Ltd	Manchester	A	0
@@ -5802,7 +5787,6 @@ Whistleworth Ltd	Wakefield	A	0
 WHISTON HEALTHCARE UK LTD	Rotherham	A	0
 Whiston Parish Church Cricket Club (non postal address)	Rotherham	A	11
 Whitbread Group Plc	Dunstable	A	0,4
-Whitburn Food Store Limited	Bathgate	A	0
 Whitby Group Practice	Whitby	A	0
 Whitby Passage to India Limited	Whitby	A	0
 Whitby Wood Limited	London	A	0
@@ -6085,12 +6069,14 @@ Wild Acres Rest Home Limited	Wokingham	A	0
 WILD AT HEART SILVER	Doncaster	A	0
 Wild Bioscience Limited	Abingdon	A	0
 Wild Brain Family International Limited	London	A	0,4
+Wild Bunch & Co limited	London	A	0
 WILD BUSH LIMITED	Richmond	A	0
 Wild Cosmetics Limited	London	A	0
 WILD DOSE LTD	London	A	0
 WILD EMBER GROUP LIMITED	London	A	0
 Wild Futures	Looe	A	9
 Wild Island Films	London	A	0
+Wild Lives Earth Limited	Cambridge	A	0
 Wild Nutrition Ltd	Lewes	A	0
 WILD PEACOCK LIMITED	London	A	0
 Wild Recruitment Limited	London	A	0
@@ -6103,6 +6089,7 @@ Wildanet Ltd	Cornwall	A	0
 Wildax Conversions Ltd	Elland	A	0
 Wildcat Law Ltd	Southampton	A	0
 WILDCATS COMBAT LTD	Harrow	A	0
+Wilde Consultants Limited	Stockport	A	0
 WILDER LOGISTICS LIMITED	Berkshire	A	0
 Wildfire Entertainment Ltd t/a Oblix	London	A	0
 Wildfire Strategies UK Limited	London	A	0
@@ -6144,6 +6131,7 @@ Will It Make The Boat Go Faster? Ltd	Coalville	A	0
 will jones agri services	Carmarthen	A	0
 Will Powder Ltd	Clitheroe	A	0
 Will Rudd Davidson (Edinburgh) Ltd	Edinburgh	A	0
+Will Rudd Davidson (Glasgow) Limited	Glasgow	A	0
 Willan House (Stainfield) Limited	Lincoln	A	0
 WILLAND SERVICES LIMITED	Exeter	A	0
 Willaston Physiotherapy Ltd	Bromborough	A	0
@@ -6246,6 +6234,7 @@ Willow Tree Family Doctors	London	A	0
 Willow Tree Nursing Home	Rugby	A	0
 Willow Tree Support Limited	Oldham	A	0
 Willow Tree Support Services Ltd	Reading	A	0
+Willow View Care Home	Stockton-on-Tees	A	0
 Willow View Care LTD	Stockton	A	0
 Willowbank Care Ltd	Bristol	A	0
 Willowbank Rest Home	Clayton Le Woods	A	0
@@ -6264,7 +6253,6 @@ Willows Pre-School Limited	London	A	0
 Willows Residential Care Ltd t/a The Brambles Care Home	Stourbridge	A	0
 Wills & Masson Partnership	Ardglass	A	0
 Wills Bros Civil Engineering Ltd	Motherwell	A	0
-Wills Enterprises limited	Ayrshire	A	0
 Wills Fish & Grill Limited TA Will's Fish & Grill	Rochester	A	0
 Wills Security Ltd	Reading	A	0
 WILLSTAC HEALTHCARE LIMITED	Scotland	A	0
@@ -6299,7 +6287,6 @@ Wilson House Dental Practice	Milton Keynes	A	0
 Wilson James Ltd	Westcliff-On-Sea	A	0,8
 Wilson Leitch LLP	Glasgow	A	0
 Wilson Lodgings Limited	Maidenhead	A	0
-Wilson Partners Limited	Maidenhead	A	0
 WILSON POWER SOLUTIONS LIMITED	Leeds	A	0
 Wilson Retail Scarborough Ltd	Scarborough	A	0
 Wilson Sonsini Goodrich & Rosati (UK) LLP	London	A	0,4
@@ -6350,7 +6337,6 @@ Win Healthcare Limited	Telford	A	0
 WIN-DOORS INT LTD	Southall	A	0
 WINATUTORS LTD	Kent	A	0
 Winbro Group Technologies	Shepshed	A	0,4
-Wincanton Creative Print Ltd	Wincanton	A	0
 Wincent Services (UK) Limited	London	A	0,4
 Winch Design Limited	London	A	0
 Winch Lane GP Surgery	Haverfordwest	A	0
@@ -6441,6 +6427,7 @@ WINEFINCH LTD	London	A	0
 Wineify Ltd	Watford	A	0
 Wines of World Ltd	Feltham	A	0
 Winesom Ltd	London	A	0
+WINETRADERS (UK) LIMITED	Witney	A	0
 Winfo Solutions UK Limited	London	A	0,4
 WING AVIATION UK LIMITED	London	A	0,4
 Wing Energy Ltd	West Bridgford, Nottingham	A	0
@@ -6625,6 +6612,7 @@ Wiserfunding Limited	London	A	0
 WISESupport Ltd	New Malden	A	0
 Wisetax Accountants	Slough	A	0
 WiseTech Global UK Limited	London	A	0,4
+Wisfy Ltd	Danbury	A	0
 Wish Max Commodities Ltd	Harrow	A	0
 Wish Oriental Cooperation Ltd	London	A	0
 Wish Tours Ltd	Manchester	A	0
@@ -6742,7 +6730,6 @@ WMS Group (UK) Ltd	Thame	A	0
 WMS Recruitment	Wisbech	A	0
 WN VTech Ltd	Bolton	A	0
 WNA Gems and Jewels Ltd	London	A	0
-WNB Trading Ltd	Hamilton	A	0
 WNC UK Limited	Slough	A	0,4
 WNGZ E3 LTD t/a WNGZ	London	A	0
 WNGZ E5 LTD	London	A	0
@@ -6777,7 +6764,6 @@ Woking Football Club Limited	Woking	A	0
 WOKING LOCAL PVT LTD	Woking	A	0
 WOKING SPECSAVERS LIMITED	Surrey	A	0
 Wokingham Borough Council	Wokingham	A	0
-Wokingham Car Centre Ltd	Hook	A	0
 WOKINGHAM CARS LTD	Berkshire	A	0
 Wokingham Cricket Club	Wokingham	A	11
 Wokingham Motors Limited	Wokingham	A	0
@@ -6860,7 +6846,6 @@ Wonderful Care Services Ltd	Peterborough	A	0
 Wonderful Days Limited	Chatham	A	0
 WONDERFUL GOSPEL MINISTRIES	Rowley Regis	A	9
 Wonderfully Made Woman	Manchester	A	0
-Wonderhatch Ltd	London	A	0
 Wonderhood Limited	London	A	0
 Wonderland Agency	London	A	0
 Wonderland Nursery Limited	Hayes	A	0
@@ -7072,7 +7057,6 @@ Worcester Care Services Ltd	Worcester	A	0
 Worcester Carsales Ltd T/A Ludlow Motors	Ludlow	A	0
 Worcester Cricket Club	Worcester	A	11
 Worcester Elite Travel Ltd	Worcester	A	0
-Worcester Fleet Management Ltd	Bromsgrove	A	0
 WORCESTER FOOD & BEVERAGES LIMITED	England	A	0
 Worcester Garden No1 Ltd	Clevedon	A	0
 Worcester Lettings and Devlopments Limited	Worcester	A	0
@@ -7113,7 +7097,6 @@ Work Stress Management LTD (Trading as Wellbeing Solutions)	London	A	0
 Work Work Ltd	London	A	0
 Work Zone Construction (UK) Ltd	London	A	0
 Work.Life Holdings Limited	London	A	0
-Work2gether Limited	Southall	A	0
 Workable Software Limited	London	A	0,4
 Workato UK Ltd	London	A	0,4
 WorkBoard UK	London	A	2
@@ -7363,6 +7346,7 @@ Wright Brothers Oyster House Limited	London	A	0
 Wright Creative Ltd	London	A	0
 Wright Dental Care Ltd	Worksop	A	0
 WRIGHT JUSTICE SOLICITORS	Birmingham	A	0
+Wright Pastoral Wagyu Team LTD	Winkfield	A	11
 Wright Tiles LTD T/A Just Tiles	Harpenden	A	0
 Wright Vigar Limited	Lincoln	A	0
 WRIGHT WEARS LIMITED	Milton Keynes	A	0
@@ -7384,7 +7368,7 @@ Wrose Pizza Limited	Bradford	A	0
 Wrose Village Cars Limited	Bradford	A	0
 Wrotham School Academy	Sevenoaks	A	0
 Wrought Iron Worx Limited	London	A	0
-WRT Technologies Limited	London	A	0
+WRT Technologies Limited	Warwick	A	0
 WRU Gwent Rugby Limited	Newport	A	11
 WRYTHE LANE CONVENIENCE STORE	Carshalton	A	0
 WS BUTCHERS LTD	Birmingham	A	0
@@ -7502,7 +7486,6 @@ WYRLEY FISH BAR LIMITED	Walsall	A	0
 Wyse Care Ltd	Liverpool	A	0
 Wyse Food Ltd	Liverpool	A	0
 WYSING ARTS CHARITY	Cambridge	A	3
-Wyson Limited	Sutton Coldfield,	A	0
 Wythall Residential Home	Wythall	A	0
 Wyvern College	Botley	A	0
 Wyvern Partners Group Limited	London	A	0
@@ -7553,6 +7536,7 @@ Youth With A Mission (NI) ltd	Rostrevor	A	1,9,10
 Youth With A Mission Harpenden Ltd	Harpenden	A	1,9,10
 Youth With A Mission Ltd	Nuneaton	A	1,9,10
 Youth With a Mission Scotland Ltd	West Kilbride	A	1,9,10
+Youth Works Northamptonshire	Kettering	A	0
 Youthstar (W) Ltd	Bury	A	0
 Yparho Ltd T/A Best Western London Highbury Hotel	London	A	0
 YUMMY ZAIKA LTD T/A KARAHI WOK	Salford	A	0

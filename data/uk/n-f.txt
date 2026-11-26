@@ -206,6 +206,7 @@ Active Friendly Support Ltd	Walkley	A	0
 Acton Finishing Limited	Coventry	A	0
 Acu-Flow Limited (t/a Nebu~Flow)	Glasgow	A	0
 Acumen Field Limited	Stockport	A	0
+Acute Hoarding and Fencing Ltd	Watford	A	0
 AD FOOD & BEVERAGES LTD	London	A	0
 AD-DUHA FOUNDATION	Birmingham	A	0,9
 ADA FOOD AND BEVERAGE LTD	London	A	0
@@ -230,6 +231,7 @@ ADH Prime Foods Limited	Worthing	A	0
 ADHAV LIMITED t/a Morrisons fuel station	Norfolk	A	0
 ADI Facilities Engineering	Birmingham	A	0
 ADMIN & FINANCIAL CONTROLS LTD	Huddersfield	A	0
+ADNFC Financial Consultants Ltd	York	A	0
 Adonis Smart Foods Ltd	London	A	0,4,7
 Advanced Fabrications (London) Ltd	Hanwell, London	A	0
 ADVANCED FLOURISH CARE LIMITED	Chatham	A	0
@@ -238,7 +240,6 @@ ADVANCED TECHNOLOGY FOR INFORMATION SYSTEMS SOLUTIONS UK LIMITED (15373821)	Engl
 Advent Estates Ltd t/a Field Farm House Residential Home	Herefordshire	A	0
 ADVENT FINANCIAL SERVICES LTD	Harrow	A	0
 Advertising Principles Holdings ltd t/a Fusion Unlimited	Headingley	A	0
-Advita Ltd T/As Smart food and wine	Hampshire	A	0
 ADZ Food Distribution Ltd	Bolton	A	0
 AEG Fuels UK Limited	Crawley	A	0,4
 AEGEAN FOOD & DRINK LIMITED	London	A	0
@@ -489,7 +490,6 @@ AMBER FORT (BECKENHAM) LTD	Beckenham	A	0
 Ambika Falcon Limited T/A Koyal Restaurant	Surbiton	A	0
 Ambin Ltd t/as Friary Pharmacy	Old Windsor	A	0
 Amcor Flexibles Swansea Limited	Swansea	A	0,4
-AMELIE FLAMMEKUECHE RESTAURANTS LTD	Cambridge	A	0
 AMERICAN DINING FRANCHISE LTD	Walsall	A	0
 American Institute for Foreign Study (UK) Limited	London	A	0
 Americano Fusion Limited T/A Americano	Hounslow	A	0
@@ -517,7 +517,6 @@ Anasa Ventures Limited T/A Fireaway	Birmingham	A	0
 Ancho Fareham Limited	Fareham	A	0
 Anchor Financial Advisory Limited	Southampton	A	0
 Anchor Foster Care Services Limited	Kent	A	0
-Andaria Financial Services UK Limited	London	A	0
 Anderson Pig Farms Limited	Cookstown	A	0
 Andrea &Adrian Food & Wine	Beckenham	A	0
 Andretti Formula E Ltd	Banbury	A	0
@@ -548,7 +547,6 @@ ANK Motor Fuel Ltd	Worthing	A	0
 ANM Foods Ltd	Kilmarnock	A	0
 Anna French Associates Ltd	Bedfordshire	A	0
 Annai Food & Wine Ltd	London	A	0
-ANNAPOORANA FOODS LIMITED	Wolverhampton	A	0
 Annapurna Private Ltd t/a Tikka Flame	Bristol	A	0
 ANNO FOODS LTD T/A Dessert Heaven	London	A	0
 ANOTHER FILM COMPANY LIMITED	London	A	3
@@ -636,7 +634,7 @@ ARRAN FOODS LIMITED	Oldham	A	0
 ARS FOOD LTD	Rainham	A	0
 ARS UK FOOD LIMITED	Northampton	A	0
 Arsenal Football Club	London	A	0,4,11
-Arsenal Women Football Club Limited	London	A	11
+Arsenal Women Football Club Limited	London	A	0,11
 Artec Fire Ltd	Manchester	A	0
 Artisan Furniture Ltd	Manchester	A	0
 Artisan Furniture Ltd T/A BED4US	Leeds	A	0
@@ -683,6 +681,7 @@ Asiana Foods Limited	Nottingham	A	0
 ASIANA FUSION (SUNDERLAND) LTD	Sunderland	A	0
 ASK FINITE LIMITED	Shirley	A	0
 ASK FOR CAR LTD	Nuneaton	A	0
+ASKO FOODS LTD	Barking	A	0
 ASLAMS FLOORING LTD	Blackburn	A	0
 ASM Limited T/A West Nine Food & Wine	London	A	0
 ASMAIRA FOOD LTD	Northern Ireland	A	0
@@ -733,7 +732,6 @@ Auchleach Farm	Stranraer	A	0
 Aura Financial LLP	London	A	0
 Aura Fire Ltd	London	A	0
 Aurora Future Technologies Limited	London	A	0,4
-Austin Friars	Carlisle	A	0
 Austin Friars & St Monica's Preparatory School Ltd	Carlisle	A	9
 AUTHENTIC AFRICAN FOOD STORE LTD	Hull	A	0
 Authentic foods Distribution Ltd	Wolverhampton	A	0
@@ -760,7 +758,6 @@ AW Floors Ltd	Smethwick	A	0
 AW FOOD HALL	London	A	0
 AWAN FOODS LTD	Barry,	A	0
 Awans Food Limited t/a The Curry Man	Nottingham	A	0
-Awesome Fastfood Ltd	London	A	0
 Axi Financial Services (UK) Limited	London	A	0
 AYAAN FISH BAZAAR LTD	Southall	A	0
 AYAANAH & CO LTD T/A FORTE KITCHEN & INTERIOR	Surrey	A	0
@@ -828,7 +825,6 @@ BANQUE BANORIENT FRANCE	London	A	0
 BANSI FOOD AND BEVERAGES LIMITED	Feltham	A	0
 Banya Family Ltd	London	A	0
 Bap Foods Limited	London	A	0
-BAR B QUE BASE FOODS LIMITED	Manchester	A	0
 BARAKA MIX FOODS LTD	Ilford	A	0
 Barakah Chaii Delights Ltd T/A Chaiiwala Feltham	Feltham	A	0
 BARAKAH FUSION LIMITED	Ilford	A	0
@@ -862,7 +858,6 @@ Baslow Hall Ltd T/A Fischers	Baslow	A	0
 Bassaleg Food & Wine Ltd	Newport	A	0
 BAT FUEL & SHOP LTD	Bridgewater	A	0
 Bath and West Finance Ltd	Bristol	A	0
-Bath Best Food Ltd	Bath	A	0
 BATH FLOW (UK) LIMITED	Hillingdon	A	0
 Battersea Fields Practice	Battersea	A	0
 Bavanmore Farm Ltd	Newry	A	0
@@ -1350,7 +1345,6 @@ Capuchin Franciscan Province of Great Britain	Erith	A	1,10
 Caravel Foods (UK) Ltd	London	A	0
 CARBON FUTURE LIMITED	Luton	A	0
 Carbon Futures (Consultancy) Ltd	Glasgow	A	0
-Cardea Financial Services UK Limited	London	A	0
 Cardiff City Football Club Limited	Cardiff	A	0,11
 Cardiff Rugby Football Club Limited	Cardiff	A	0,11
 Care Facilities & Management Ltd	Cookstown	A	0
@@ -1364,7 +1358,7 @@ Care for Children	Norwich	A	0
 Care for Independence Ltd	Burnham	A	0
 Care for Veterans	Worthing	A	0
 Care for your life Ltd	Skegness	A	0
-Care Force Limited	Bromsgrove	A	0
+Care Force Limited	Bromsgrove	B	0
 CARGO FORCE LIMITED	Wembley	A	0
 CARIBEAN FOODS LTD	London	A	0
 CARING FEATHERS LTD	London	A	0
@@ -1619,7 +1613,6 @@ Claylands Farmers	Glasgow	A	0
 CLEAN & FRESH SERVICES LTD	Lichfield	A	0
 Clean Air Fund	London	A	0
 Clean Food Group Limited	London	A	0
-Cleaning Fairies Bristol Ltd	Bristol	A	0
 CLEARCOURSE PARTNERSHIP ACQUIRECO FINANCE LIMITED	London	A	0
 Clearpay Finance Ltd	London	A	0
 Clearwater Corporate Finance LLP	Birmingham	A	0,4
@@ -1722,7 +1715,6 @@ Coopers Fire	Waterlooville	A	0
 Coram's Fields and the Harmsworth Memorial Playground	London	A	0
 Core Finity Limited	Leeds	A	0
 Core Five Consulting Limited	Wolverhampton	A	0
-Coreline Fibre Limited	Middleton	A	0
 Corndolly Foods Limited	Newry	A	0
 Cornerstone (North East) Adoption and Fostering Service	Mattersey	A	0
 Cornerstone Family Practice	Manchester	A	0
@@ -1803,7 +1795,6 @@ CROSSBEAM FINANCIAL SERVICES LTD	Birmingham	A	0
 Crossbow Fashions Limited	London	A	0
 Crosskeys Foodie Limited	Newport	A	0
 Crossroads Caring for Life Ltd	Hitchin	A	0
-Crown Foods (Bradford) LTD	Bradford	A	0
 CROWN FOODS (HAYES) LTD	Hayes	A	0
 CROWN FRESH LIMITED T/A Bondor Bazar Cash and Carry	London	A	0
 Crown Office and Procurator Fiscal Service	Edinburgh	A	0
@@ -1817,7 +1808,6 @@ CRYSTAL BALTI FOOD AND CATERING LTD	Stourbridge	A	0
 Crystal Facilities Management Limited	London	A	0
 Crystal Palace Football Club Limited	London	A	0,11
 Ct Global Freight Audit Ltd	Birmingham	A	0
-Cuckoo Fibre Limited	Exeter	A	0
 Culquha Farm Ltd	Castle Douglas	A	0
 Culworth Grounds Farm Partnership	Thorpe Mandeville	A	0
 Cumali Arslan t/a Deniz Foods	Cumbria	A	0
@@ -1848,7 +1838,7 @@ D S Property Finance Ltd	London	A	0
 D Y Food Limited	Workington	A	0
 D Z FOOD STORE LIMITED	Sheffield	A	0
 D&H Fashions Ltd	Gants Hill	A	0
-D&I FOODS LTD	Slough	A	0
+D&I FOODS LTD	Hounslow	A	0
 D'MODISH FINGERFOODS AND BAKES LTD	Gateshead	A	0
 D.McKay (Fruiterers) Limited	London	A	0
 D2D Foods Ltd	Hounslow	A	0
@@ -1867,6 +1857,7 @@ Dairygold Food Ingredients UK Ltd	Crewe	A	0
 DAISY GREEN FOOD LIMITED	London	A	0
 Daiwa Anglo-Japanese Foundation	London	A	0
 Dal Fiorentino Ltd	London	A	0
+Dale Farm Cooperative Limited	Belfast	A	0
 Dale Farming Limited	Holmes Chapel	A	0
 Dallys Food Limited	Coalville	A	0
 Dalton Food Stores	Huddersfield	A	0
@@ -2083,6 +2074,7 @@ Dr Finlay's Private Practice	Birmingham	A	0
 Dr Foot LTD	Birmingham	A	0
 Dr Michael Frain Ltd	Bristol	A	0
 Dr Q's Grill and Pizza Limited T/A Dr Q's Food Factory	Sunderland	A	0
+Dr's McVerry, McGee & Farnon	Newry	A	0
 Dr. Fee Practice	Crossmaglen	A	0
 DR. FRIGZ LTD	Staines	A	2
 DRAGGONIX LIMITED T/A XING FU TANG	London	A	0
@@ -2155,12 +2147,10 @@ E W Foods Limited	Hounslow	A	0
 E-Minerva Furnishing Ltd	London	A	0
 E. U. FABRICS LTD	Birmingham	A	0
 E1 Printing Limited t/a Faith Design & Print	London	A	0
-E1 Printing Limited T/A Faith Design & Print.	London	A	0
 EAC MANAGEMENT LTD T/A FROM HERE ON	London	A	0
 EAGLE FOODS LTD	Peterborough	A	0
 Eagle for Metal Machinning UK Limited 15386164	England	P	2
 Eagle Freights Ltd	Luton	A	0
-EAGLE'S FLIGHT INTERNATIONAL CENTRE (EFIGOC)	Edinburgh	A	1
 Earls court food limited	London	A	0
 Early Years - the organisation for young children	Belfast	A	9
 EARTH FRESH LTD	Eastcote	A	0
@@ -2256,7 +2246,6 @@ Elevate Business Formation Limited	Liverpool	A	0
 ELIA-GREEK STREET FOOD	London	A	0
 Elim Foursquare Gospel Alliance	West Malvern	A	0,1,9,10
 Elim Foursquare Gospel Alliance (Nursing Homes Group)	Armagh	A	0
-Elite Cleaning and Facility Services Limited	Hounslow	A	0
 Elite Construction Force Ltd	London	A	0
 ELITE FINANCIAL CONSULTANTS LTD	Birmingham	A	0
 ELITE FLOW CONTROL UK LIMITED	Stoke on Trent	A	0
@@ -2328,6 +2317,7 @@ Equinox Fitness Holdings UK Limited	London	A	0,4
 ERE OKO FOODS UK LTD	Romford	A	0
 Ergon Foods Limited	London	A	0
 Eric Food Express Ltd	Gainsborough	A	0
+EROGLU FOOD GROUP LTD	Blackpool	A	0
 ES Francais Limited	London	A	0
 Esak Food Ltd	Rochdale	A	0
 Escape Freaks Limited	London	A	0,4
@@ -2378,7 +2368,6 @@ European Leveraged Finance Association Limited	London	A	0
 European Rugby League Federation Ltd	Harrogate	A	0
 EV Sea Foods LTD	Bedfordshire	A	0
 Eve After Dark Food Concepts UK Ltd	London	A	0
-Evening Star FR LLP	Fraserburgh	A	0
 EVENT TROOP FOR EXHIBITIONS AND CONFERENCES LIMITED	Preston	A	0
 Ever Fresh Dairy Ltd	Croydon	A	0
 Ever Green Fresh Produce Ltd	London	A	0
@@ -2395,7 +2384,6 @@ Evington Food Ltd t/a Steakhouse	Leicester	A	0
 Evo Fitness & Sports Ltd	Slough	A	0
 EVOLUTION FARMING LIMITED	Dewsbury	A	0
 Evron Foods Limited trading as Easibake Foods	Pontypool	A	0,4
-EVRY FINANCIAL SERVICE UK LTD	London	A	0
 EXALT FI UK LIMITED	London	A	0
 EXCELLENCE FOOD LIMITED t/a Bhaji Fresh	Luton	A	0
 EXCELLENT FINANCIAL SERVICES LTD	Coventry	A	0
@@ -2502,13 +2490,13 @@ F18 LTD	London	A	0
 F2iT Ltd	London	A	0
 F2X GROUP LIMITED	London	A	0
 F3 Architects LLP	London	A	0
-F37 Foundry Ltd	Bolton	A	0
+F37 Foundry Ltd	Northwich	A	0
 F3DM LTD	Southend-On-Sea	A	0
 F4 Auto Repairs Ltd	Scunthorpe	A	0
 F4 CONSULTANCY LTD	London	A	0
 F4VRT UK LTD	Slough	A	0
 F5 Networks Limited	Addlestone	A	0,4
-F50 League GB Ltd	London	A	0,4
+F50 League GB Ltd	London	A	0,3,4
 F8 IT Solutions Limited	Aylesbury	A	0
 F8 Networks Limited	Bedford	A	0
 FA (CKAF) LIMITED T/A SUBWAY	Maidenhead	A	0
@@ -2749,7 +2737,6 @@ Fairview Medical Centre	London	A	0
 Fairvue Partners Ltd	London	A	0
 Fairway Capital Ltd	London	A	0
 Fairway Of Course Limited	Stanmore	A	0
-FAIRWAY TRADING LTD	Epsom	A	0
 Fairway Wholesale Ltd	Bradford	A	0
 Fairways Accommodation Support Trust	Chatham	A	9
 Fairways Care Limited	Addlestone	A	0
@@ -2765,7 +2752,6 @@ Fairytale Forest Day Nursery ltd	Pulborough	A	0
 Fairywater Farms LTD	Omagh	A	0
 FAISAL ALBAKRI LTD	London	A	0
 FAISAL BUILDING SOLUTION LTD	Dewsbury	A	0
-FAISAL CURRY HOUSE & PIZZA BAR LIMITED	Barnsley	A	0
 Faisal Hairdressers Limited	London	A	0
 Faisal Khan t/a Midlands Whippy	Nottingham	A	0
 Faisal Pervez T/A	Walsall	A	0
@@ -2933,7 +2919,7 @@ Family History Films Ltd	London	A	0
 Family Homecare Ltd	Chelmsford	A	0
 Family Kids and Youth LLP	London	A	0
 Family medical centre	Kirkby In Ashfield	A	0
-Family Office Tax Services LLP	London	A	0
+Family Office Tax LLP	London	A	0
 Family Pathway LTD	Cardiff	A	0
 Family Practice	Strabane	A	0
 Family Property Solutions Ltd	Romford	A	0
@@ -3048,6 +3034,7 @@ FARMHOUSE PIZZA DIDCOT LTD	Didcot	A	0
 FARMHOUSE PIZZA IR LTD	Watford	A	0
 FARMHOUSE WEMBLEY LTD	Wembley	A	0
 Farming Partners Arbigland Limited	Dumfires	A	0
+Farming Partners Holdings LLP	Dumfries	A	0
 Farmison Ltd	Ripon	A	0
 Farmland Reserve (UK) Limited	Huntingdon	A	4,9
 FARMLEAF FOODS LTD	Harrow	A	0
@@ -3138,7 +3125,6 @@ FASHVIART LTD	London	A	0
 Fasken Martineau LLP	London	A	0,4
 FASQUE CASTLE LIMITED	Laurencekirk	A	0
 FAST ACCOUNTANCY SOLUTIONS LTD	East Ham	A	0
-FAST ACTION SERVICES LIMITED	Farnborough	A	0
 Fast And Fresh Food Ltd	Hove	A	0
 Fast and Furious Services Ltd	Ilford	A	0
 FAST AUTOS	Manchester	A	0
@@ -3340,7 +3326,6 @@ FDJ Gaming Solutions UK Limited	London	A	0
 FDLDN Limited	London	A	0
 FDM Group Limited	Brighton	A	0
 FDMUK Ltd.	London	A	0
-FDR Social Care Ltd	Northampton	A	0
 FDS Building Services Consultancy Limited	Greenhithe	A	0
 FDS CORPORATION LIMITED	Great Blakenham	A	0
 FDT Construction Services Limited	London	A	0,4
@@ -3366,6 +3351,7 @@ Featherstone High School	Southall	A	0
 Featherstone Newsagent Ltd Trading As Byram Park Stores	Byram	A	0
 Featuristic group (breathe Deep) Limited	London	A	3
 FEB BROS LTD TA USA FRIED & peri peri chicken	Didcot	A	0
+FEBDOL CORPORATE SERVICES LTD	London	A	0
 FEBE GROUP LTD	London	A	0
 Fecund Care Providers Ltd	Hull	A	0
 Fecund Care Providers Ltd	Kingston upon Hull	A	0
@@ -3490,7 +3476,6 @@ Fensco Ltd	Langley	A	0
 Fentics Technology Limited	London	A	0
 fenton + reece Ltd	Chester	A	0
 Fenton Holloway Ltd	Bristol	A	0
-Fenton Pharmaceuticals Limited	1A Frognal	A	0
 Fenton Property Limited	Portsmouth	A	0
 Fenton Veterinary Practice Limited	Haverfordwest	A	0
 FENWAYXN LTD	London	A	0
@@ -3639,6 +3624,7 @@ Fibre Technology Limited	Pinxton, Nottingham.	A	7
 Fibre-Tech Industries (UK) Limited	Melbourn	A	0
 Fibrelite Composites Ltd	Skipton	A	0
 Fibretrace Technologies Limited	London	A	0,4
+Fibretx Limited	Dewsbury	A	0
 Fibrisol Service Limited	London	A	0,4
 Fibron BX Limited	Hoddesdon	A	0
 Fibrus Networks Ltd.	Belfast	A	0
@@ -3691,7 +3677,6 @@ Field Systems Designs Limited	Surrey	A	0
 Field View Care Home Ltd	Redditch	A	0
 FIELD.io Limited	London	A	0,3
 FIELDBASE SERVICES LTD	London	A	0
-Fieldbay Management Limited	Bristol	A	0
 Fieldfisher LLP	London	A	0,4
 FIELDHOUSE ASSOCIATES LIMITED	London	A	0
 Fieldhouse Care Ltd (T/A The Chestnuts Care Home)	Normanton	A	0
@@ -3797,6 +3782,7 @@ Finalto Financial Services Ltd	London	A	0
 Finan Formworks Ltd	Bristol	A	0
 Finance a Vehicle Ltd	Fareham	A	0
 Finance Advice Helpline Limited	London,	A	0
+Finance and Business Academy Limited	Birmingham	A	0
 Finance Car Shop Ltd	Leicester	A	0
 Finance For Enterprise Limited	Doncaster	A	0
 FINANCE HUB LTD	Ilford	A	0
@@ -4348,7 +4334,6 @@ Five Fifty Five Productions Limited	London	A	0
 Five Fingers Aroma Ltd T/A Five Fingers Finest Indian Cuisine	London	A	0
 Five Guys JV LTD	London	A	0,4
 Five Health Group Limited	Pinner,	A	0
-Five Lads Goodmayes	London	A	0
 Five Mile Films Limited	Bristol	A	3
 Five Oak Green Pet Surgery Limited	Five Oak Green (Tonbridge)	A	0
 Five Oceans Spaces Ltd	Doncaster	A	0
@@ -4379,7 +4364,6 @@ Five Ways Convenience Store	Rotherham	A	0
 FIVE WAYS DRY CLEANER	Birmingham	A	0
 Five ways Private LTD	Livingston	A	0
 Five9, Inc UK Limited	London	A	0,4
-Fivefold Studios Limited	Pencoed	A	3
 Fiver London Limited	Basildon	A	0,4
 FiveRivers Environmental Contracting Ltd	Andover	A	0
 Fives and Heronians Cricket Club	Chigwell	A	11
@@ -4417,6 +4401,7 @@ FIZZ CONSULTANCY LTD	Ipswich	A	0
 FIZZ INVESTMENTS LTD	Worcester	A	0
 FIZZA ELECTRONICS LIMITED	Manchester	A	0
 Fizzy Moon Limited	Leamington Spa	A	0
+Fizzzbee Limited	Liverpool	A	0
 FJ Corvan Limited	Southall	A	0
 FJ&B LTD	London	A	0
 fjaka Limited	Wolverhampton	A	0
@@ -4502,6 +4487,7 @@ Flatcircle Limited	Bridge of Weir	A	0
 FLATFAIR LIMITED	London	A	0
 Flatiron Health UK Ltd	St Albans	A	0,4
 Flatirons Solutions Ltd	Derby	A	0,4
+FLATLEY CONSTRUCTION LTD	Elstree	A	0
 Flatmead Ltd	Clacton on Sea	A	0
 FLATPAY APS	London	A	0,4
 Flats4All Ltd	Enfield	A	0
@@ -4722,7 +4708,6 @@ Florian James Limited	London	A	0
 Florian Leonhard Fine Violins Limited	London	A	0
 Florida State University International Programs Association UK	London	A	0,4
 FLORIENTAL LTD	Manchester	A	0
-Florin Court Capital LLP	London	A	0
 FLOS UK LIMITED	Harrogate	A	0,4
 Floso Limited	London	A	0
 Floss and Bond Limited	Girvan	A	0
@@ -4835,6 +4820,7 @@ Flynn Hodkinson Ltd	London	A	0
 Flynn Interiors Limited	London	A	0
 Flynn Management & Contractors (UK) Ltd	London	A	0
 Flyp Homes Ltd	London	A	0
+FLYPHARM LIMITED	Leyton	A	0
 Flypop	Stansted	A	0
 FLYTEC LTD	Derby	A	0
 Flytex Ltd	Romford	A	0
@@ -4860,7 +4846,7 @@ FMC Technologies Ltd	Dunfermline	A	0,4,7
 FMCC Enterprise Ltd	Isleworth	A	0
 FMCG Ltd T/A Mount Cash & Carry	Suffolk	A	0
 FMCG SUPPLY LIMITED	Rainham	A	0
-FMCG TRADING LTD	Alton	A	0
+FMCG TRADING LTD	Northampton	A	0
 FMDC Ltd	Hertford	A	0
 FMDM Foundation CIO	Godalming	A	0,1,10
 FMJ Solutions Ltd	Twyford	A	0
@@ -5141,6 +5127,7 @@ FORBES PROPERTY SERVICES LTD T/A SALIK AND CO	London	A	0
 Forbo Siegling (UK) Ltd	Dukinfield	A	0
 Forbury Gardens Day Nursery	Readng	A	0
 Forcast Limited	London	A	0,3
+Force Contracting Services Limited	Worksop	A	0
 Force Engineering Ltd	Shepshed	A	0
 FORCE HIRE EQUIPMENT UK LTD	England	A	2
 Force Maintenance Team Limited	London	A	0
@@ -5205,6 +5192,7 @@ Forest Contracts	Witham	A	0
 Forest Corporate LTD	London	A	0
 Forest Court Care Ltd	Northwood Hills	A	0
 Forest Dispensing Chemists	London	A	0
+Forest Edge Practice	Chigwell	A	0
 FOREST GARDEN LIMITED	Kidderminster	A	0
 FOREST GATE CENTRAL MASJID	Forest Gate	A	9
 Forest Gate Property Services Ltd	Borehamwood	A	0
@@ -5466,6 +5454,7 @@ Forward Movement Limited	Westcliff-On-Sea	A	0
 Forward Pharmacy Ltd	London	A	0
 Forward Plus West Midlands Limited	Birmingham	A	0
 Forward3D Ltd trading as Assembly	London	A	0
+ForwardPlus Limited	Manchester	A	0
 Forwessun International Limited	Speke	A	0,4
 Fospha Limited	London	A	0
 Fosroc International Ltd	Tamworth	A	0
@@ -5543,7 +5532,6 @@ Four Aces Trading Limited	Southall	A	0
 Four Acre Health Centre	St Helens	A	0
 Four Agency Worldwide Limited	London	A	0,4
 FOUR BLUE RECRUITMENT LTD	Colchester	A	0
-Four Capital Limited	Mitcham	A	0
 Four Counties Restaurant Ltd / Four Counties Spice	Tamworth	A	0
 Four Crest Care (Watton) Ltd	Chigwell	A	0
 Four Crest Care (Wisbech) Ltd	Wisbech	A	0
@@ -5683,7 +5671,6 @@ Framatome UK Limited	Avonmouth	A	0,4
 Frame Creative PR Limited	Glasgow	A	0
 Frameclad Limited	Kingswinford	A	0
 Framestore	London	A	0,3
-Framework (Edinburgh) Limited	Edinburgh	A	0
 Framework Housing Association	Nottingham	A	0
 FRAMING SUCCESS LIMITED	Salfords	A	0
 Framlingham College	Framlingham	A	0,9
@@ -5855,6 +5842,7 @@ FREEJ SWAILEH KUWAITI FOODS LIMITED	London	A	0
 Freejackpot Limited	London	A	0
 Freejam Ltd	Portsmouth	A	0
 FREEKI LTD	London	A	0
+Freelance Consultancy Pvt Ltd	Glasgow	A	0
 Freelancer Outsourcing UK Limited	London	A	0,4
 Freelands Group Limited	London	A	0
 Freeman Catering Butchers Ltd	Gateshead	A	0
@@ -6350,6 +6338,7 @@ Fund for Global Human Rights UK	London	A	0
 Fundamental Media Limited	London	A	0
 Fundamental Textiles Ltd	Manchester	A	0
 FundApps Ltd	London	A	0,4
+Funders Together	London	A	0
 FUNDING CIRCLE LTD	London	A	0,4,7
 FUNDINGXCHANGE LIMITED	London	A	0
 FundOnion Limited	London	A	0
@@ -6365,6 +6354,7 @@ Funko UK, Ltd	London	A	0,4
 Funky Fones Ltd	Nottingham	A	0
 Funlas Freights and Logistics Limited	London	A	0
 Funtabee Limited	London	A	0
+FUNTAZIA SOFT PLAY LTD	Blackburn	A	0
 Funtura Ltd	Luton	A	0
 Fuocos Pizza Franchising Limited	Cuffley	A	0
 Fuoriporto Limited	Guildford	A	0
@@ -6506,6 +6496,7 @@ Future International Education UK Ltd	Nottingham	A	0
 Future IT Consultancy Limited	Manchester	A	0
 FUTURE LEADERS DAY NURSERY LIMITED	Mitcham	A	0
 Future Leap ES	Bristol	A	0
+Future Leap Holdings Ltd.	Bristol	A	0
 Future leisure Limited	London	A	0
 Future LinksMobile Ltd	Leeds	A	0
 Future London Academy Limited	London	A	0
@@ -6547,7 +6538,6 @@ Futuremax Ltd	Kidlington	A	0
 Futuremax Ltd T/A The Marquess of Exeter	Oakham	A	0
 Futuremaxx Ltd T/A 1947 London	London	A	0
 Futurenet Publishing Limited	Greenhithe	A	0
-FUTUREON LIMITED	Winchester	A	0
 FUTUREPROOFAI LTD	London	A	0
 Futures Care Limited	Quedgeley	B	0
 Futures First (UK) Limited	London	A	0
@@ -6560,7 +6550,6 @@ FUTURETECH CONSULTANCY SOLUTIONS LTD	Leicester	A	0
 FUTURETRACK ADVISORS LTD	Manchester	A	0
 Futurice Ltd.	London	A	0
 Futuristic Limited	London	A	0
-Futuristic Technologies Ltd	Hounslow	A	0,6
 Futuristic Technology Limited	London	A	0
 FuturMaster - UK	Birmingham	A	0
 Fuuse Limited	Lancaster	A	0
@@ -6833,7 +6822,7 @@ Gosolo Financial Limited	London	A	0
 Gospel Fellowship Association UK	Abergele	A	1,10
 Gospel Standard Bethesda Fund	Hove	A	0
 Governance House for Consulting Training and Development Limited	London	A	0,4
-GP BULLHOUND CORPORATE FINANCE LTD	London	A	0,4
+GP Bullhound Corporate Finance Ltd	London	A	0,4
 GP Fund Solutions UK Ltd	Brighton	A	4
 GPS Food Group (UK) Limited	Waltham Cross	A	0
 GQ FIFE LTD	Dunfermline	A	0
@@ -6952,7 +6941,7 @@ Gus Fibre Solutions Ltd	Coventry	A	0
 Guy's and St Thomas' Foundation	London	A	0
 Guy's and St. Thomas' NHS Foundation Trust	London	A	0
 GVS Filter Technology UK Ltd	Lancaster	A	0
-GW Fashions Ltd	Manchester	A	0
+GW FASHIONS LTD	Manchester	A	0
 GWP Software Solutions Limited t/a FormusPro	Hereford	A	0
 H & F LOGISTICS LTD	Manchester	A	0
 H & Friends GTL (UK) Ltd.	Colnbrook	A	0
@@ -7005,7 +6994,7 @@ HAMILTON FISH AND CHIPS LTD	Felixstowe	A	0
 HAMMERSMITH AND FULHAM ASSOCIATION FOR MENTAL HEALTH	London	A	0
 Hammersmith and Fulham Central PCN Limited	London	A	0
 Hammersmith and fulham mencap	London	A	0
-Hammersmith and Fulham Partnership	London	B	0
+Hammersmith and Fulham Partnership	London	A	0
 Hampshire & Isle of Wight Fire and Rescue Service	Eastleigh	A	0
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust	Southampton	A	0
 Hampshire Hospitals NHS Foundation Trust	Basingstoke	A	0
@@ -7118,6 +7107,7 @@ Hembury Fort House	Honiton	A	0
 Hemel Foods Ltd	Hemel Hempstead	A	0
 Hemesh Filings UK LTD	Horsham	A	0
 Hemesh Food and Wine UK Ltd	Northolt	A	0
+HEMISPHERE FREIGHT SERVICES LTD	Ipswich	A	0
 Hemnit Ltd T/A Food & Wine at Newlands	London	A	0
 Hemsley Fraser Group	Plymouth	A	0
 Hengst Filtration UK Limited	Morecambe	A	0,4
@@ -7190,6 +7180,7 @@ Hir Foods LTD T/A Jashir	Oakham	A	0
 Hirose Financial UK Ltd.	London	A	0,4
 HIRRA FORECOURTS LTD	Blackburn	A	0
 Historic Buildings and Monuments Commission for England (Historic England)	Swindon	A	0
+Hive Kensington LTD T/A The Folio Collection	London	A	0
 HKD Food Services Limited	Cardiff	A	0
 HKM Foods LTD	Cardiff	A	0
 HLHP Oriental Food Limited T/A Happy Lamb Hot Pot Restaurant	London	A	0,4
@@ -7718,6 +7709,7 @@ JUPITER FINCORP LIMITED	Northampton	A	0
 JUST FAST FOOD LTD t/a Primo's	Middlesbrough	A	0
 Just Financial Group Ltd	Glasgow	A	0
 JUST HELP FOUNDATION	Hyde	A	0,9
+Justt Fintech UK Ltd	London	A	0
 JW Froehlich UK Limited	Laindon	A	0
 JZ FURNITURE LTD	Dagenham	A	0
 K & J STAINES LTD T/A K & J Food & Wine	Staines-upon-Thames,	A	0
@@ -7953,6 +7945,7 @@ KURIAN'S FINANCIAL CONSULTANTS LIMITED	Peterborough	A	0
 KUWAIT FINANCE HOUSE PLC	London	A	0,4
 KVJ FOOD AND WINE LTD T/A BEST ONE	Bedford	A	0
 KVS TRADERS LTD T/A STAR NEWS FOODSTORE	Coventry	A	0
+Kwality Vegetables & Fruit Ltd	Birmingham	A	0
 KWICKSAVE LTD TRADING AS FAMILY CHOICE	Hamilton	A	0
 Kwik Film Limited	London	A	0
 Kwik Fix Auto Care	Birmingham	A	0
@@ -8086,6 +8079,7 @@ Liberty Finance Limited	Warsash	A	0
 Liberty Frozen Foods Limited	Leicester	B	0
 Lichfield Diocesan Board of Finance	Lichfield	A	1,10
 Life Enhancement And Fitness Ltd	Llandudno	A	0
+life for a kid	Hull	A	9
 Life Health Foods UK Ltd	London	A	0
 LIFELINE FIRE AND SAFETY SYSTEMS LIMITED	Coventry	A	0
 LIFESTYLE FLOORING LIMITED	Manchester	A	0
@@ -8149,6 +8143,7 @@ LLCW LIMITED T/A 3Levels Asian Fusion	Belfast	A	0
 Llwyn Farm LTD	Lampeter	A	0
 LM FOOD AND WINES LTD	Lydney	A	0
 LMA Floor Screeding Limited	Staines	A	0
+LN-MADINA FOODS STORE LIMITED	Lincoln	A	0
 LNR FOODS LTD T/A BEST FOODS	Reading,	A	0
 LNS FOOD LIMITED	Peterborough	A	0
 LOCAL FOOD & WINE LTD	Middlesex	A	0
@@ -8188,7 +8183,6 @@ London Forfaiting Company Ltd	London	A	0
 London Fox Limited TA Cacao Route	Walton-on-Thames	A	0
 LONDON FREIGHT & LOGISTICS LTD	Barking	A	0
 LONDON FULL GOSPEL CENTRAL CHURCH	London	A	1,9,10
-London Funders	London	A	0
 London International Festival of Theatre	London	A	0,3
 London International Mime Festival Limited	London	A	3
 LONDON LIN FOODS HOUSE LTD	London	A	0
@@ -8378,6 +8372,7 @@ Makkah International Foods Ltd	27-29 Hull Road York	A	0
 Makkah Oriental Food Stores Limited	Bournemouth	A	0
 MAKSONS FUELS RETAIL LTD	Tring	A	0
 Malabar Foods Ltd	Slough	A	0
+Malhotra Family Holdings Limited	Newcastle upon Tyne	A	0
 Malhotra Fin (UK) Limited	Newcastle Upon Tyne	A	0
 Malik Foodstore	Bristol	A	0
 Mallow Tree Limited T/A Rita Farhi and Mallow Tree	London	A	0
@@ -8532,6 +8527,7 @@ Medical Aesthetic Solutions Ltd t/a Fitzrovia Clinic	London	A	0
 Medical Aid for Palestinians	London	A	0
 Medical Human Factors Ltd	London	A	0
 Medicine Buddha Foundation	Dartford	A	0,1,9,10
+MEDICINE FIRST LTD	Birmingham	A	0
 Medicines Plus LTD T/A Loves Farm Pharmacy	St. Neots	A	0
 Medina Food Group Limited	Bradford	A	0
 MEDINA FOOD STORE & HALAL MEAT LTD	Watford	A	0
@@ -8696,6 +8692,7 @@ MOBILES FIX LTD	Warrington	A	0
 Mobilynx Foods Limited	Gravesend	A	0
 MODELS FO (UK) LTD	Manchester	A	0,2
 Modern Films Entertainment Ltd	London	A	0
+MODERN FLEXIBLE PACKAGING LTD	Nottingham	A	0
 Modern Indian Foods Limited t/a The Tiffin Truck	Cambridge	A	0
 Modish Fashion Ltd	London	A	0
 Modulr Finance	Edinburgh	A	0
@@ -8776,14 +8773,12 @@ Mr Chris Fagan	London	A	11
 Mr Dhirendra Patel and Mrs Seemaben Patel trading as Fifth Road Stores	Newbury	A	0
 Mr F Arbabi/ Dental Care Centre Limited T/A Dental Care Centre	London	A	0
 Mr Facilties and Management L	Thornaby	A	0
-MR FAST FOOD LTD	Romford	A	0
 Mr Floors Limited	Warrington	A	0
 MR FONES LTD	Belfast	A	0
 Mr Fonetastic Limited T/A JD Phones	Sunderland	A	0
 MR GATES FABRICATION SPECIALISTS LIMITED	Hertfordshire	A	0
 Mr Gurjeet Singh & Mrs Prabhjot Kaur T/A Winlaton Food & Wine	Winlaton	A	0
 Mr J Sloan and Mrs E Sloan t/a Sycamore Horse Farm	Ballyclare	A	0,11
-Mr Jean Francois Decaux	London	A	11
 Mr K and Mrs R H Bhanji T/A Fernbank Nursing Home	London	A	0
 Mr K Bhanji and Mrs R H Bhanji T/A Clair Francis Retirement Home	Peterborough	A	0
 MR KAVITHAINATHAN KANDIAH T/A WHITEGATE DRIVE FOOD & WINE	Blackpool	A	0
@@ -8914,7 +8909,6 @@ National Foundation for Educational Research in England & Wales	Berkshire	A	0
 National Institute for Health and Care Excellence	Manchester	A	0
 National Star Foundation	Cheltenham	A	0
 National Wealth Fund Limited	Leeds	A	0
-Nationwide Care (Finchley) Limited	Whetstone	A	0
 Nationwide Fostering Limited	Uxbridge	A	0
 NATIVE FINANCIAL SERVICES LTD	Hayes	A	0
 Natraj Food (Rayners lane) Ltd	Harrow	A	0
@@ -9084,7 +9078,6 @@ North East Fuel Group Ltd	Hartlepoo, Englandl	A	0
 North East London NHS Foundation Trust	Illford	A	0
 North Ferriby Nursing Home	North Ferriby	A	0
 North Finchley Specsavers Hearcare Limited	London	A	0
-North Fortune LTD	London	A	0
 NORTH LANE SEA FOOD LIMITED	Aldershot	A	0
 North London NHS Foundation Trust (NLFT)	London	A	0
 North Somerset People First	North Somerset	A	0
@@ -9678,7 +9671,7 @@ Prolog Fulfilment Ltd	Nottingham	A	0
 PROMO FINANCE LTD	Hassocks	A	0
 Propel Finance Plc	Newport	A	0
 Propensio Finance limited	Rotherham	A	0
-Property Finders Real Estate Limited	Mayfair, London	A	0
+Property Finders Real Estate Limited	Oxfordshire	A	0
 PROPERTY INVESTMENT FOR LIFE LTD	London	A	0
 Prospect Farming	Exeter	A	0
 Prospect Fire Limited	Dunmow	A	0
@@ -9802,7 +9795,7 @@ RADAMIS FLOATING HOTELS LTD	Manchester	A	0,2
 RADAR LEISURE TECH LIMITED (native fm)	London	A	0
 RADHA FRUIT AND VEG LTD	Harrow	A	0
 Radhe Foods LTD T/A Barsana Indian restaurant	Birmingham	A	0
-Radical Forge Ltd	Middlesbrough	A	0
+Radical Forge Ltd	Manchester	A	0
 Radius Business Solutions (UK), a trading name of UK Fuels Limited	Emperor Way	A	0
 RADIUS TECH FASHION SERVICES LTD	Gloucester	A	0
 Ragatheepan Rasalingam T/A RRV Food & Wine- Go Local	Spennymoor	A	0
@@ -9892,7 +9885,6 @@ RECO FAMILY CHIROPRACTIC CENTRE	Bristol	A	0
 Recom Farmhouse Holdings Ltd	London	A	0,3
 Recorded Future UK Limited	London	A	0,4
 Recruitment For You Limited	Lancashire	A	0
-RECTORY FARM SUPERMARKET	Northampton	A	0
 RECYCLE FOR FUTURE LTD	Peterborough	A	0,6
 RECYCLE FORCE LIMITED	Corby	A	0
 Red and Greens Africana Food Store LTD	Bradford	A	0
@@ -9956,6 +9948,7 @@ Reward Finance Group Limited	Leeds	A	0
 Rey Food Group Ltd	Worthing	A	0
 REYNA FURNITURE LTD	London	A	0
 RGM Foods Ltd T/A Sams Chicken	Ealing	A	0
+RGS FORFAR LTD	Forfar	A	0
 RH Foods	Luton	A	0
 Rhea Foods Ltd	Norwich	A	0
 Rhea Foods Ltd T/A Waaghoba	Norwich	A	0
@@ -9975,6 +9968,7 @@ Right Formula Ltd	London	A	0
 Right Hand Foundation	Ashton-under-lyne	A	9
 Rightcard Payment Services Limited t/a Lemonade Finance	London	A	0
 RIJ Food Ltd	Wembley	A	0
+Rima Food Ltd	Chelmsford	A	0
 RISE FOR CHRIST INTERNATIONAL	Dudley	A	1
 RISE FX GB Ltd	London	A	0
 Rise Up Fashion Ltd	London	A	0
@@ -9990,6 +9984,7 @@ RIZ FOODS LIMITED	Iilford	A	0
 RJ FOODS LTD	London	A	0
 RJ Fuels Ltd	Edinburgh	A	0
 RJ Godwin & Mrs FNA Godwin t/a Homecare Services	Waterfoot	A	0
+RJ McKee & M McKee T/a FV Achilles	Newry	A	0
 RK Associates Ltd T/A Traditional European Food & Wine	Harrow	A	0
 RK FOOD LIMITED T/A THE BURGERZZZ	Airdrie	A	0
 RKB FRUIT & VEG LTD	Southall	A	0
@@ -10160,13 +10155,12 @@ Saghir & Sons Food Limited	Southampton	A	0
 SAGITH FOOD LIMITED T/A DHILLON WINES	Leytonstone	A	0
 SAGITTARIUS FISHING COMPANY LTD	Portavogie	A	0
 Sagman Ltd T/A PC and Fonetech UK	Sunderland	A	0
-Sahana Foods Limited	Ilford	A	0
+Sahana Foods Limited	Romford	A	0
 Sahar Fried & Grill Chicken Ashton Ltd	Ashton Under Lyne	A	0
 Sahara Fried & Grilled Chicken Ltd	Blackburn	A	0
 Sahib Fish and Chips Limited	Swadlincote	A	0
 Sahil Food Consultancy Limited T/A Great Indian Kitchen	Altrincham	A	0
 SAHO FINANCIAL SERVICES LTD	London	A	0
-SAHOTA GROUNDWORK & FORMWORK LTD	Kent	A	0
 SAHRA FJ LTD	London	A	0
 Sai Fashions (UK) Limited	Manchester	A	0
 Sai Food Bolton Limited t/a Sai Spice	Bolton	A	0
@@ -10312,7 +10306,6 @@ Seaspace International Forwarders Limited	Widnes	A	0
 Second Front Systems Limited	Maidenhead	A	0,2,4
 Secure FM Ltd	Bolton	A	0
 Secure Future Consultants Ltd	Uxbridge	A	0
-SECURE FUTURE RESEARCH LTD	London	A	0
 See-Ability Ltd t/aThe Royal School For The Bllind	Leatherhead	A	0
 See-Saw Films Ltd	London	A	0
 SEFF- South East Fermanagh Foundation	Lisnaskea	A	0
@@ -10385,6 +10378,7 @@ Sharman Fielding , Chartered Accountants	Leicester	A	0
 Sharmas Food Ltd T/A Subway	Oxfordshire	A	0
 Sharyn Louise Fishing Company Ltd	Lerwick	A	0
 SHASMIGA FOODS LTD	Bristol	A	0
+SHASTA FOODS LIMITED t/a SUBWAY	Kent	A	0
 Shawsholm Farming Partners Limited	Dumfries	A	0
 SHAYAN FOOD STORE LTD	Ormskirk	A	0
 Shazan Foods Limited	Suffolk	A	0
@@ -10500,6 +10494,7 @@ Sir Henry Floyd Grammar School	Aylesbury	A	0
 SIRIUS FIBER LTD	London	A	0,4
 Sirwan Food Centre Limited	Edmonton	A	0
 Sisco Foods Limited	Radlett	A	0
+Sisters For Life (SFL) Healthcare Ltd	Chester	A	0
 Sisters of the Holy Family of Bordeaux	London	A	0,1,9,10
 Site and Field UK Limited	London	A	0
 SITE FIX SOLUTION LTD	Slough	A	0
@@ -10521,6 +10516,7 @@ SK BROTHERS CARPETS AND FURNITURE LTD	Birmingham	A	0
 SK CHILLED FOODS	Billingham	A	0
 SK Fish Bar Ltd T/A Emilia's Fish Bar	Swansea	A	0
 SK Foods	Stoke-On-Trent	A	0
+SK Foods and Catering Limited	Leicester	A	0
 SK Foods and Drinks Limited	Birmingham	A	0
 SK FOODS GROUP LTD	Leicester	A	0
 SK Foods LTD	Middlesex	A	0
@@ -10807,11 +10803,11 @@ Sterling Corporate Finance Ltd	Newbury	A	0
 Stevenage FA Limited t/a Fireaway Pizza	Stevenage	A	0
 Stevenage Football Club Limited	Stevenage	A	0,11
 Stewart Farms Ltd	Perth	A	0
-STEWARTS (SCOTLAND) LIMITED T/A GLENCARSE FOODS	Perth	A	0
 STG Fabrications Ltd	Woking	A	0
 Stichting Climate-KIC International Foundation	London	A	0,4
 STICK-MIG-WELDING FABRICATION LTD	Chatham	A	0
 Stiftung fuer Effektiven Altruismus	London	A	0
+Stobart Premium Pet Food Ltd	Bradford	A	0
 Stockport County Football Club	Stockport	A	0,11
 Stockport NHS Foundation Trust	Stockport	A	0,12
 Stoke Carpets and Furniture Limited T/A Unique Carpets	Stoke-on-Trent	A	0
@@ -11157,6 +11153,7 @@ The Coalition for a Digital Economy (Coadec) Ltd t/a The Startup Coalition	Londo
 The Common Good Foundation	London	A	9
 The Community of the Franciscan Friars of the Renewal	Canning Town	A	1,10
 The ComplEAT Food Group	Redhill	A	0
+The Compleat Food Group (Holdings) Limited	Nottingham	A	0
 The Congregation of the Franciscan Sisters of St. Mary of the Angels	Fareham	A	1
 The Corner Shop - Rectory Farm Ltd	Northampton	A	0
 The Cottage Family Centre	Kirkcaldy	A	0,9
@@ -11313,7 +11310,6 @@ The Freemount	Manchester	A	0
 The Freethinking Group	Manchester	A	0
 The French Corner Shop Limited T/A Marilou	London	A	0
 The French Horn (West End) Limited	Glasgow	A	0
-The French Kitchen Ltd	London	A	0
 THE FRENCH PARTRIDGE HORTON LTD	Kensington	A	0
 The French Protestant Church	London	A	1
 The French Table Limited	Surbiton	A	0
@@ -11336,6 +11332,7 @@ The Fund Incubator Limited	London	A	0
 The Furniture Bazaar	Dewsbury	A	0
 The Furniture Practice Ltd	London	A	0
 The Fusion Restaurant & Takeout Ltd	Burntisland, Fife	A	0
+The Future Governance Forum Limited	London	A	0
 The Future Vehicles Company Ltd	London	A	0
 The Futures Trust	Coventry	A	0
 The Fuzzy Duck Cocktail Bar & Gastro Kitchen	Nuneaton	A	0
@@ -11472,7 +11469,6 @@ The Reach Free School	Rickmansworth	A	0
 The Reading Football Club Limited	Reading	A	0,11
 The Real Good Dental Company Limited T/A Breeze Family Dental Care	Fife	A	0
 The Real Good Dental Company Ltd. T/A Fergus & Glover Dental Practice	Aberdeen	A	0
-The Real greek food company LTD	London	A	0
 The Reality of Faith and Love Ministry	Nottingham	A	9
 The Really Fit Company Limited	Reading	A	0
 The Redeemed Christian Church of God Christ Chapel For All Nations	London	A	10
@@ -11514,7 +11510,6 @@ The St Gabriel Schools Foundation	Newbury	A	0
 The St Mirren Football Club Limited	Paisley	A	11
 The Stable Family Home Trust	Ringwood	A	0
 The Steeple Fish Bar	Dundee	A	0
-The Stephen Perse Foundation	Cambridge	A	0
 The Stickleback Fish Company Ltd	Welham Green, Hatfield	A	0
 The Stores And Filling Station	Spalding	A	0
 The Street Food Chef Limited	Sheffield	A	0
@@ -11631,6 +11626,7 @@ Too Phat Too Fly	Trafford	A	0
 Tools For Brokers Limited	London	A	0
 Tools for Self Reliance	Southampton	A	9
 Tools For Solidarity	Belfast	A	9
+Tooth Fairy Healthcare Limited	Walsall	A	0
 TOOTING FOOD CENTRE LIMITED T/A ARENA FOODS MARKET	London	A	0
 TOP CHEF FIVE LAMPS LIMITED	Derby	A	0
 TOP FASHION HAIR AND BEAUTY COSMETICS LTD	Mitcham	A	0
@@ -11711,7 +11707,6 @@ Tristone Flowtech UK Limited	Nottingham	A	0
 TRISUL FOODS LIMITED	London	A	0
 Trive Financial Services UK Limited	London	A	0,4
 TROFI F&B LTD	London	A	0
-TROPHIES FRAMES & SCREEN PRINTING LTD	Glasgow	A	0
 Tropical Ices-Ayesha Foods	Bradford	A	0
 TROPIKAL FOOD LIMITED	Bradford	A	0
 Troston Farms Limited	Bury St Edmunds	A	0
@@ -11757,7 +11752,6 @@ TWG CADILLAC FORMULA 1 TEAM LIMITED	Silverstone	A	0,4,11
 Twickenham Film Studios Limited	Greater London	A	0
 TWICKENHAM FOOD LTD	Twickenham	A	0
 Twisted Fish Limited	Twickenham	A	0
-Two Fifty Four Limited	Woking	B	0
 Two Mile Ash Food & Wine Limited	Milton Keynes	A	0
 TY DANJUMA FAMILY OFFICE LIMITED	Esher	A	0
 TYMZ FOOD LTD	Guildford	A	0
@@ -11802,6 +11796,7 @@ UK Fresh Halal Meats Ltd	London	A	0
 UK FRESH VEGETABLES LIMITED	London	A	0
 UK Fried Chicken	Bradford	A	0
 UK Fruit & Veg Supplies Ltd	London	A	0
+UK FUEL LTD	Rochdale	A	0
 UK GUAN YIN CITTA DHARMA DOOR BUDDHIST CHARITY FOUNDATION	London	A	9
 UK HALAL FOODS LTD	Birmingham	A	0
 UK HEALTH FOCUS LTD	Fitzwilliam	A	0
@@ -11899,7 +11894,6 @@ URBAN FOOD GROUP LTD	Hayes	A	0
 URBAN FOOD STREET LIMITED	Slough	A	0
 Urban Foresight	Newcastle upon Tyne	A	0
 Urban Front Ltd	Chesham	A	0
-URBAN LOOK FASHION LTD	Manchester	A	0
 Urban Trade Frames Ltd	Birmingham	A	0
 US BEDWORTH FOOD & WINE PET CITY LTD	Bedworth	A	0
 US Food Ltd t/a Smoky Boys	Wakefield	A	0
@@ -11949,7 +11943,6 @@ Venus Foods Ltd	Manchester	A	0
 Verafrank AJI LTD T/A Bluebird Care Newmarket, Fenland, Kings Lynn & West Norfolk	Ely	A	0
 Vertase FLI Limited	Portishead	A	0
 VERTEX FM UK LTD	Liverpool	A	0,6
-Vertical Future Ltd	London	A	0
 VERY FINE FOOD LTD T/A SAFFRON COTTAGE	Shrewsbury	A	0
 Vestey Foods UK Ltd	Surrey	A	0
 VEZWAYS LIMITED t/a Vezways Furnishing Stores	Harrow	A	0
@@ -11989,6 +11982,7 @@ Virdi Fashions LTD	Egham	A	0
 Virdi Fashions Ltd	Surrey	A	0
 Viridian FX Limited	York	A	0
 Virtual Foods Ltd	Leamington Spa	A	0
+VIRTUS FINANCIAL PLANNING LIMITED	London	A	0
 Visacrem International LTD t/as Fracino	Birmingham	A	0
 VISHNU FOOD AND WINE LTD	Newcastle Upon Tyne	A	0
 Vision Fabrications Limited	Lisburn	A	0
@@ -12043,7 +12037,6 @@ WALDON FRUIT LIMITED	Leyton	A	0
 Walker Family Law	Exeter	A	0
 Walker Filtration	Sunderland	A	0
 WALL FRAMES & MOULDING LTD	Glasgow	A	0
-wall2wall carpets and flooring	Bolton	A	0
 WALL2WALL CARPETS AND FLOORING LIMITED	Bolton	A	0
 Waltham Forest College	London	A	0
 Waltham Forest Muslim Burial Trust	London	A	9
@@ -12071,7 +12064,6 @@ Watts Farms Packers Ltd	Dartford	A	0
 Wave Fashion Limited T/a Krisp London	Willesden, London	A	0
 Wavereley Education Foundation Trust	Birmingham	A	0
 Wawa Fertility Limited	London	A	0
-Ways to Wellness Foundation	Newcastle upon Tyne	A	0
 Wayss & Freytag UK	London	A	0,4
 WAZIR FOOD AND WINE LTD	London	A	0
 WB Chambers Farms ltd	Maidstone	A	0
@@ -12145,10 +12137,10 @@ Whalebone Fastfood T/A Kings Flavour	Essex	A	0
 WHEATCROFT FOOD STORE	Birmingham	A	0
 Wheel Freedom Limited	Chessington	A	0
 WHEEL FUSION LTD	Glasgow	A	0
+Wheel of Fate	Edinburgh	A	0
 Wheels For Less Limited	Staines-Upon-Thames	A	0
 WHISPER FILMS LIMITED	Surrey	A	0,3
 Whisper Films Ltd	London	A	0,3
-Whitburn Food Store Limited	Bathgate	A	0
 White Box Financial Limited	Norwich	A	0
 White Falcon 11 Ltd	Leyland	A	0
 White Feather Trading Ltd	Derby	A	0
@@ -12216,7 +12208,6 @@ Woodenways Timber Frames Ltd	Wellington	A	0
 WOODLAND FURNITURE GROUP LTD	Ballymoney	A	0
 Woodlands Family Medical Centre	Stockton-on-Tees	A	0
 WOOLROW FARM LTD	Huddersfield	A	0
-Worcester Fleet Management Ltd	Bromsgrove	A	0
 WORCESTER FOOD & BEVERAGES LIMITED	England	A	0
 Words First Limited	Kenley	A	0
 WORK FROM HOME GLOBAL LTD	Radlett	A	0
@@ -12291,6 +12282,7 @@ YMR Fuel Limited	Devon	A	0
 Yonder Financial Technology Limited	London	A	0
 YORI F&B Ltd	London	A	0
 York & Scarborough Teaching Hospitals NHS Foundation Trust	York	A	0
+York City Football Club Ltd	York	A	11
 YORK FOOD STREET LIMITED	Oldham	A	0
 Yorton Farm Stud	Welshpool	A	0
 You First Support Services	Langport	A	0
@@ -12351,6 +12343,7 @@ Zensho Foods UK LIMITED	London	A	0,4
 ZERO FADES LTD	Carshalton	A	0
 Zesty Flavours Ltd	Wokingham	A	0
 ZETA PIZZA COMPANY LTD t/a FIREAWAY CUMBERNAULD	Cumbernauld	A	0
+Zeus Faber Ltd.	London	A	0
 ZFE Food Ltd	London	A	0
 ZH FOODS LTD	Leeds	A	0
 ZHANGJI ORIENTAL FOOD LIMITED	Oxford	A	0

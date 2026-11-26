@@ -19,7 +19,6 @@ AA Catering Services Ltd t/a Stirchley Curry Co	Telford	A	0
 AA PANTILES SERVICE LTD	Tunbridge Wells	A	0
 Aafee Barbers Tividale Limited	Tipton	A	0
 AAH ACCOUNTING LIMITED	Trowbridge	A	0
-AARAV PROPERTIES LIMITED	Twickenham	A	0
 Aashirvad Ltd T/A HP Off Licence & Go Local	Todmorden	A	0
 AAY Hospitality Ltd	Treorci	A	0
 AAYS Technologies UK Limited	Townfield	A	0
@@ -35,7 +34,6 @@ Absolute Care Services Ltd	Teddington	A	0
 AC & AA Limited t/a Betterclean Services	Tunbridge Wells	A	0
 Acacia Number 1 Ltd T/A Acacia House	Tenterden	A	0
 Accelleron UK Ltd	Telford	A	0
-Achieve together Limited	Twerton	A	0
 Achieving for Children	Twickenham	A	0
 Acorn Taxis Thetford Ltd	Thetford	A	0
 Active Moves Limited	Tonbridge	A	0
@@ -207,7 +205,6 @@ BISHOPSHOUSERCG	Teignmouth	A	0
 BITS IN GLASS UK LTD	Tunbridge Wells	A	0,4
 Blakesley Convenience Store	Towcester	A	0
 Blanc Brasseries LTD	Teddington	A	0
-Blend and Brew Ltd	Toomebridge	A	0
 BLISS CARE TORQUAY LIMITED	Torquay	A	0
 BloomIQ Limited	Tunbridge Wells	A	0,4
 Blossom Home Care Cornwall	Truro	A	0
@@ -236,7 +233,6 @@ Brad Enterprise Limited T/A Phone Junkies	Taunton	A	0
 Bradbury Stell	Teddington	A	0
 Bredon Hill Surgery	Tewkesbury	A	0
 Brew Pub Ltd	Tunbridge Wells	A	0
-Briarcroft Care Home	Teignmouth	A	0
 Briars Homecare Services Ltd	Thornton Cleveleys	A	0
 Bridge Dental Care	Tranent	A	0
 BRIDGE DENTAL PRACTICE LIMITED	Telford	A	0
@@ -335,8 +331,10 @@ Chromatic Productions Limited	Teddington	A	3
 Ciao Amore Pvt Ltd t/a Ciao Amore Ristorante	Taunton	A	0
 CIAR Property Services Ltd	Teddington	A	0
 Circus Ginnett	Tilney St Lawrance	A	3
+Citizens Advice in North & Kent	Tonbridge	A	0
 CITY WINDOWS AND GLASS LTD	Thornton Heath	A	0
 CIVIL AND STRUCTURAL ENGINEERING SHETLAND LIMITED	Tingwall	A	0
+Clare Healthcare Ltd t/a Tamworth Pharmacy	Tamworth	A	0
 Clarity Wealth Management LLP	Totnes	A	0
 Classic Care Homes (Devon) Limited	Teignmouth	A	0
 Clear View Imaging Ltd	Thame	A	0
@@ -424,7 +422,6 @@ Davis Pemberton & Sarwar Limited	Teeside	A	0
 DAYI LTD	Tottenham	A	0
 Dayspring Care Ltd	Tilbury	A	0
 DCI Care Ltd	Torquay	A	0
-DDTECK LTD	Telford	A	0
 DE GOURNAY LIMITED REGISTERED ADDRESS	Tonbridge	A	0
 DE WINTON FIELD PRACTICE	Tonypandy	A	0
 Dedigama Holdings Limited	Twickenham	A	0
@@ -520,6 +517,7 @@ Energy Developments (UK) Limited	Towcester	A	4
 ENERGYFORCE LIMITED	Tickton	A	0
 Enex Hoizon Ltd	Tankersley	A	0
 ENGAGED LTD	Towcester	A	0
+Engineering and Development Solutions Limited	Truro	A	0
 Enliva Homecare Taunton	Taunton	A	0
 Enreach UK Limited	Telford	A	0
 ENTECH CATERING ENGINEERS (LONDON) LTD	Tenterden	A	0
@@ -902,6 +900,7 @@ Little Oldway Limited	Torbay	A	0
 little shining light	Thornton Heath	A	0
 Live Streamers Company Limited	Teddington	A	0
 Lively Minds	Totnes	A	0
+LiveStockEx Limited	Tunbridge Wells	A	0
 Living Light Christian Church	Taunton	A	1,9,10
 LIZ BUSH ART LTD T/A ARTWOW	Thornwood	A	0
 LKQ Group (UK) Limited	Tamworth	A	0
@@ -929,7 +928,6 @@ LUMEN ELECTRONICS	Toomebridge	A	0
 Lumentum Technology UK Limited	Towcester	A	0
 Lush Salon Supplies Telford Ltd	Telford	A	0
 Luxsmi Ltd	Tadworth	A	0
-M & D Careplus Limited T/A Bluebird Care Tamworth, Lichfield, Nuneaton & North Warwickshire	Tamworth	A	0
 M&I Materials Ltd	Trafford Park	A	0
 M4 Recruitment	Thatcham	A	0
 MA Home Improvements Ltd	Tipton	A	0
@@ -941,6 +939,7 @@ MAGNUS CARE LTD	Tyne and Wear	A	0
 MAJOR CURRY AFFAIR LTD	Tipton	A	0
 Makita Manufacturing Europe Ltd	Telford	A	4
 MAKSONS FUELS RETAIL LTD	Tring	A	0
+Mammoet (UK) Ltd	Thornaby	A	0,4
 Mams Shop LTD	Todmodern	A	0
 Man and Machine Ltd	Thame	A	0
 MANGO WORLD UK LTD	Teddington	A	0
@@ -1149,7 +1148,6 @@ Phone 4 All Limited	Twickenham	A	0
 PHONE CARE LTD	Thurso	A	0
 Pickstock Telford	Telford	A	0
 Pine Close Ltd	Thetford	A	0
-Pink Diamond Limited	Tarporley	A	0
 PIZZA ZIO TELFORD LTD	Telford	A	0
 PK SHERWOOD LTD	Tunbridgewells	A	0
 Place UK Ltd	Tunstead	A	0
@@ -1473,6 +1471,7 @@ Supercede Technology Ltd	Telford	A	0
 Supreme Home Care Limited	Telford	A	0
 Surfers Against Sewage Limited	Truro	A	9
 Survey Stream Ltd	Thornton Heath	A	0
+Susan Harter Studios Limited	Totnes	A	2
 Sutherland Associates Ltd	Tunbridge Wells	A	0
 SV SPICE WORLD LTD	Twickenham	A	0
 SW TOOTING LIMITED T/A COFFEEMAX	Tooting	A	0
@@ -1565,7 +1564,6 @@ The Birches Nursing Home	Totton	A	0
 THE BROADWAY STORES	Twickenham,	A	0
 The Charity Bank Limited	Tonbridge	A	0
 The Children's Trust	Tadworth	A	0,9
-The Cotswold Nursing Home Co Ltd	Tetbury	A	0
 The cottage bakery thame LTD	Thame	A	0
 The Crescent Surgery	Thornton-Cleveleys	A	0
 THE CYRENIANS LTD	Team Valley	A	0
@@ -1574,7 +1572,6 @@ The Espresso Lounge Limited T/A The Espresso Lounge	Tring	A	0
 The Fairy Falls Hotel	Trefriw	A	0
 THE FERRY	Thames Ditton	A	0
 The Foot and Gait Clinic Limited	Taunton	A	0
-THE GANGES RESTAURANT	Tavistock	A	0
 The Good Economy Partnership Ltd.	Twickenham	A	0
 The Good Wine Shop Ltd	Teddington	A	0
 The Greenwich MK Limited	Twickenham	A	0
@@ -1640,12 +1637,14 @@ Three Islands Limited	Toomebridge	A	0
 THREE ROCKS LTD	Thame	A	0
 Tic Toc Nursery School	Twickenham	A	0
 ticehurst pharmacy ltd	Ticehurst	A	0
+Tidworth Dental Clinic	Tidworth	A	0
 Tiger Tavern Pub & Grill Ltd	Tipton	A	0
 Tilbury Avr Ltd	Tilbury	A	0
 Tisarana Vihara Association	Twickenham	A	1,10
 Tiverton High School	Tiverton	A	0
 TJ Fish & Chips Limited	Tenterden	A	0
 Tlam Limited	Tewkesbury	A	0
+TLC Care (UK) Limited t/a Briarcroft Care Home	Teignmouth	A	0
 TM Care Limited T/A Bluebird Care	Twyford	A	0
 TMG Capital Ltd	Tamworth	A	0
 TMotions Global Limited	Twickenham	A	0
@@ -1674,7 +1673,6 @@ Totnes Progressive School	Totnes	A	0
 TOTTON PHONE TECH LTD	Totton	A	0
 Totton Visionplus Limited T/A Specsavers Opticians	Totton	A	0
 TOWCESTER CONVENIENCE STORE	Towcester	A	0
-Towyn Capel Residential Home	Trearddur Bay	A	0
 TP MANUFACTURING LIMITED T/T PENDOCK	Telford	A	0
 TPH Global LTD	Twickenham	A	0
 Track Demons Racing	Truro	A	11
@@ -1686,7 +1684,6 @@ Treasury Wine Estates EMEA Limited	Twickenham	A	0,4
 Trelleborg Sealing Solutions UK Ltd	Tewkesbury	A	0,4
 Trench Lock Service Station Ltd	Telford	A	0
 TRICORDER CARE SERVICES LIMITED	Thame	A	0
-Tridev Hospitality Limited TA The Old Bush Bar & Grill	Tipton	A	0
 Tring News	Tring	A	0
 Tring Park School for the Performing Arts	Tring	A	0
 Tring Specsavers Limited	Tring	A	0
@@ -1841,7 +1838,6 @@ YANKEES TAKEAWAY	Torquay	A	0
 YASIN AND RUMAN LTD	Tyne And Wear	A	0
 YBM International Ltd	Tunbridge Wells	A	0
 YES CHEF JESMOND LIMITED / DABBAWAL JESMOND	Tyne	A	0
-Yoomi Ltd	Thamesmead	A	0
 Your Own Home Care Limited	Tring	A	0
 Yousaf HMC Limited	Thornton Heath	A	0
 YUNFEI LIMITED	Tiptree	A	0,4

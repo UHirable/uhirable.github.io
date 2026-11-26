@@ -163,7 +163,7 @@ Academy of Medical Royal Colleges	London	A	12
 Academy of Robotics Ltd	Cardff	A	0
 Academy Restaurants LTD	Inverness	A	0
 Accent Marketing and Research Limited	London	A	0
-Access Retail Limited	Inverness	A	0
+Access Retail Limited	Moffat	A	0
 Accident Express Rugby Limited	Rugby	A	0
 ACCIDENT REPAIR CENTER	Letchworth	A	0
 Accio Research Ltd	Southampton	A	0
@@ -378,6 +378,7 @@ Alum Rock Medical Centre	Birmingham	A	0
 Alzheimer's Research UK	Cambridge	A	0
 AM BODY REPAIRS LIMITED	Birmingham	A	0
 AM Coffee Retail Limited	Wembley	A	0
+AM Coffee Retail Limited T/A Starbucks	Pinner	A	0
 AM VINTAGE RETAIL UK LIMITED	London	A	7
 AMAN'S (NW) LTD TA Amans Restaurant & Takeaway	Bramhall	A	0
 AMBA TRADERS LTD T/A BAAR BAAR RESTAURANT	Harrow	A	0
@@ -390,7 +391,6 @@ Ambrey Risk Limited	Hereford	A	0
 Amco Recruits Ltd	Ruislip	A	0
 Ameena Restaurant Ltd	Halesowen	A	0
 Amelia House Residential House	Exeter	A	0
-AMELIE FLAMMEKUECHE RESTAURANTS LTD	Cambridge	A	0
 American International Relocation Solutions UK Limited	London	A	0,4
 Amigos Retail Limited	Carlisle	A	0
 Amin Restaurant Limited T/A Fazeley Park Contemporary	Tamworth	A	0
@@ -571,6 +571,7 @@ Assisted Reproduction & Gynaecology Centre	London	A	0
 Assure Residential Care Ltd	Leicester	A	0
 ASW Repairs Limited	High Wycombe	A	0
 Asylum Retail Limited t/as Damaged Society	Derby	A	0
+AT&T RENTALS LTD	Newtownabbey	A	0
 ATARIYA FOODS RETAIL (UK) LIMITED	Hove	A	0,4
 Atariya Restaurant London Limited	London	A	0,4,7
 ATC REPAIR CENTRE LIMITED	Rotheram	A	0
@@ -648,7 +649,6 @@ B&O Restaurants Group Limited	London	A	0
 B&T RECRUITMENT LIMITED	London	A	0
 B. R. Pharmaceuticals Limited	Leeds	A	0
 BAB CAFE AND RESTAURANT LTD	London	A	0
-Baba Raiya Ltd T/a Taste of Belgium	Belfast	A	0
 Babel Public Relations Limited	London	A	0
 Badenoch and Clark Limited T/A LHH Recruitment Solutions	London	A	0,4
 Bagot Refractory Limited	Rickmansworth	A	4
@@ -682,7 +682,6 @@ Barrow RLFC LTD	Barrow in Furness	A	11
 Barry Road Mini Market	South Glamorgan	A	0
 Barton and Redman ltd	Manchester	A	0
 Basecamp Research	London	A	0
-Bash Grill Kingsbury Road Ltd	Birmingham	A	0
 BASIL SHEILS BAR & RESTAURANT LTD	Tassagh	A	0
 Basis Research Limited	London	A	0
 BASLOW ROAD SURGERY - PEAK EDGE PCN	Sheffielld	A	0
@@ -847,7 +846,6 @@ Blanco Restaurants Ltd	Glossop	A	0
 Blancomet Recycling UK Limited	Stone	A	0
 BLAZE PIZZA SLOUGH LTD TA ROCCO'S PIZZA	Greenford	A	0
 Blick Rothenberg Limited	London	A	0
-BLISS ROUTE COURIER LTD	Salford	A	0
 Bloom Regulatory Ltd	London	A	0
 BLOOMINGDALE RESIDENTIAL LIMITED	Stratford	A	0
 BLOOMSBURY REALTY MANAGEMENT LTD	Wembley	A	0
@@ -1116,7 +1114,7 @@ CAR REPAIRS LTD	London	A	0
 CAR SALES AND REPAIR LTD	Smethwick	A	0
 Caramel Rock	London	A	0,9
 Carbon Responsible Ltd	London	A	0
-Carbon Rewind	Wokingham	A	0
+Carbon Rewind	Watford	A	0
 Cardiac Risk in the Young	Leatherhead	A	0
 CARDIFF RUGBY CLUB LIMITED	Cardiff	A	0,11
 Cardiff Rugby Football Club Limited	Cardiff	A	0,11
@@ -1129,6 +1127,7 @@ Care First (UK) Limited T/As Offmore Residential Home	Worcestershire	A	0
 Care Home Consultancy Services Ltd T/A Rushey Mead Manor	Leicester	A	0
 Care Pharma (Romford) Ltd T/A Clockhouse Pharmacy	Romford	A	0
 Care Precious Limited t/as Caremark {East Riding }	East Riding of Yorkshire	A	0
+Care Provision Healthcare Limited t/as Philia Lodge Rest Home	Peterborough	A	0
 CARE REHAB LTD	Manchester	A	0
 Care Resolution Ltd	London	A	0
 Care Resource Bureau Ltd	Penn	A	0
@@ -1352,11 +1351,10 @@ Classic ResourcesUK	Stockton-on-Tees	A	0
 CLdN Ro Ro Agencies Ltd	Purfleet-On-Thames	A	0
 CLdN RoRo Ltd	London	A	0
 ClearView Research	London	A	0
-CLES Resources Limited	Richmond	A	0,4
+CLES Resources Limited	London	A	0,4
 Clifford House Residential Care Home	Andover	A	0
 Clifford Road Surgery (NHS)	Hounslow	A	0
 Clifton Road Surgery	Rugby	A	0
-CLIIKK ACCIDENT REPAIR CENTRE LTD	Derby	A	0
 Climate Risk Services Limited	London	A	0
 Clinical Prevention and Rehabilitation Ltd	London	A	0
 CLIVE COX RACING LTD.	Lambourn	A	0
@@ -1412,7 +1410,6 @@ Community Led Regenerartion UK CIC	Middlesbrough	A	0
 Community of the Resurrection	Mirfield	A	1
 Community of the Risen Christ	Glasgow	A	9,10
 Community relief foundation	Birmingham	A	9
-Community Renewal Trust	Glasgow	A	0
 Community Revival UK Limited	Manchester	A	0
 Compass Group UK & Ireland Limited Registered Office	Chertsey	A	0,4
 CompassRock Real Estate Ltd	London	A	0
@@ -1470,6 +1467,7 @@ COST CUTTER RUGBY LIMITED	Rugby	A	0
 Cost Saver Ridgewood Ltd	St Helens	A	0
 Cote Restaurant Group Ltd	London	A	0
 Cotswold Classic Car Restorations	Cirencester	A	0
+COTSWOLD MEDICAL CLINICS LTD Trading As The Cotswold Physio Rooms	Witney	A	0
 Cotswold Restaurant Group Ltd t/a Muse Brasserie	Cheltenham	A	0
 Council of Local Authorities for International Relations, London	London	A	0,4,5
 COUNTRY HOUSE RESTAURANTS LIMITED T/A SECRET ALLEY	Portsmouth	A	0
@@ -1492,8 +1490,8 @@ CRD Restaurant Ltd	Bognor Regis	A	0
 Cream Residential Care Limited	Taunton	A	0
 Creative Restaurant Group Ltd	London	A	0,4
 Creative Restaurant Holdings Limited	London	A	0
-Credit Data Research Ltd	London	A	0,4,7
 Credit Resource Solutions Limited	Halifax	A	0
+CREE RESTAURANTS LTD	Great Rissington	A	0
 Crescent Partners Limited T/A Roosters PIRI PIRI	Nottingham	A	0
 Cressall Resistors Limited	Leicester	A	0
 Creta Traditional Greek Restaurant	Kent	A	0
@@ -1511,7 +1509,6 @@ Crown Ranet Limited	Sheffield	A	0
 Crown Resourcing Limited	Houslow	A	0
 Crown Retail Limited	Manchester	A	0
 Crown Roofing and Cladding UK Ltd	Hammersmith	A	0
-Crowne Plaza Reading East	Wokingham	A	0
 CROWNEDASTAR RECRUTIMENT LTD	London	A	0
 Croydon Accident Repair Centre UK Limited	Croydon	A	0
 CRUCIAL REMOVALS LTD	Wednesbury	A	0
@@ -1545,6 +1542,7 @@ D &T Refrigeration Limited	London	A	0
 D Mccain Racing Ltd	Malpas	A	0
 D R INVESTMENT GROUP LIMITED	Welshpool	A	0
 D R JONES YEOVIL LTD	Yeovil	A	0
+D ROCKS RESTAURANT & TAKEAWAY LTD	Leeds	A	0
 D ROY LIMITED	Swindon	A	0
 D& D Restaurant LTD	London	A	0
 D&A RETAILS LTD T/A PREMIER LONGRIDGE	Preston	A	0
@@ -1792,6 +1790,7 @@ Dudley Road Dental Practice	Wolverhampton	A	0
 DUDLEY ROAD HALAL MEAT LTD	Birmingham	A	0
 Dudley Road Limited	Sandbach	A	0
 Duetto Research Limited	London	A	0,4
+DULWICH THERAPY ROOMS LTD	London	A	0
 Dunbar Road Design Limited	London	A	2
 Dundee Rep and Scottish Dance Theatre Limited	Dundee	A	0,3
 Dundoran Nursing &amp; Residential Home	Noctorum	A	0
@@ -1807,7 +1806,6 @@ DURJA RETAIL LIMITED T/A Day Today	Tranent	A	0
 DVP Sai Ltd T/A Southwark Park Road Post Office	London	A	0
 DwD Renewables Ltd	London	A	0
 DXB PERFUME RETAIL LIMITED	Bradford	A	0
-DXB RETAIL LIMITED	Gloucester	A	0
 DYLAN'S RESTAURANT LTD	Llangefni	A	0
 Dynamic Restaurants Limited	Leicester	A	0
 E R A Consulting (UK) Ltd	London	A	0
@@ -1866,6 +1864,7 @@ EDEN TRIBE RESIDENTIAL HOME LIMITED	Grays	A	0
 Edenbridge Accident Repair Centre Limited	Edenbridge	A	0
 Edenhurst Rest Home	Nottingham	A	0
 edg restore ltd	Glasgow	A	0
+Edge Retail Limited	Leicester	A	0
 Edgware Road Supermarket Limited t/a Edgware Road Supermarket and Off Licence	London	A	0
 Edinburgh Remakery	Edinburgh	A	0
 EDINBURGH RESTAURANT (EDINBURGH) LTD Trading as Timberyard	Edinburgh	A	0
@@ -1921,7 +1920,6 @@ ELITE ROOMS PORTSMOUTH LTD	Southsea	A	0
 ELITE RT SERVICES LTD	London	A	0
 EliteNurse Research Nurse Consultancy	York	A	0
 Elizabeth Court Rest Home Limited	Bexhill On Sea	A	0
-Elizabeth House Rest Home Limited	Stoke On Trent	A	0
 Elle R Leisure Limited	Manchester	A	0
 Ellern Mede Ridgeway	London	A	0
 Elliott Scott HR Recruitment Limited	Lambeth	A	0,4,7
@@ -1932,7 +1930,6 @@ ELM LODGE RESIDENTIAL LIMITED	Southend-On-Sea	A	0
 ELM ROW POST OFFICE & NEWSAGENTS LIMITED T/A ELM ROW POST OFFICE	Edinburgh	A	0
 Elm Tree House Residential Home	Taunton	A	0
 Elmfield Rudolf Steiner School Limited	Stourbridge	A	0
-Elmglade Residential Care Home	Sutton	B	0
 Elmhurst Ballet School in Association with Birmingham Royal Ballet	Birmingham	A	0
 Elmrose Ltd T/A Lorne Restaurant	London	A	0
 Elmwood Residential Home Ltd	Colyton	A	0
@@ -2037,6 +2034,7 @@ EVAAN ROOFING AND STRUCTURE LTD	Essex	A	0
 Evangelical Reformed Church	London	A	1
 Evans Randall Advisors Limited	London	A	0
 Evanshaw Ltd (Registered Address)	Cheadle	A	0
+Eve Johnson Houghton Racing Limited	Blewbury	A	0
 EVERBRIGHT RESTAURANT LTD	Solihull	A	0
 Evercare Recruitment Ltd	Preston	A	0
 Everest Recruitment and Services Ltd	Preston	A	0
@@ -2284,6 +2282,7 @@ G N R DESIGN AND BUILD LTD	Hounslow	A	0
 G R Food Limited	London	A	0
 G Rao construction Ltd	London	A	0
 G Rose Care Ltd T/A Lavender Lodge Care home	Blackpool	A	0
+G& D Retailers Ltd	Durham	A	0
 G&G Retail Ltd	Coventry	A	0
 G&M. ROBERTS FISHING (NEFYN) LIMITED	Pwllheli,	A	0
 G2V Recruitment Group Limited	London	A	0,4
@@ -2683,6 +2682,7 @@ Heaven Revolution CIC	London	A	0
 Heavy Haul Rail Group Limited	Birmingham	A	0,4
 Hector Fabio Osorio Rios	London	A	0
 Hector Scot Ltd T/A Black Rooster Stirling	Stirling	A	0
+HELIOS RENEWABLE ENERGY SOLUTIONS LIMITED	London	A	0
 Hellenic Restaurants Ltd	Guildford	A	0
 HELSTON SPICE LIMITED T/A INDIA RESTAURANT	Helston	A	0
 HEMESH RETAILERS LTD	Dorking	A	0
@@ -2691,6 +2691,7 @@ Henderson Royce Accountants Ltd	Leytonstone	A	0
 Hengeler Mueller Partnerschaft von Rechtsanwaelten mbB	London	A	0,4,7
 Henley Retail CD Limited	Bristol	A	0
 Henley Retail GC Limited	Brockworth	A	0
+Henley Retail Group Limited	West Bromwich	A	0
 HENLEY RETAIL MG LIMITED	Coventry	A	0
 Henley Retail RL Limited	Rugeley	A	0
 Henlly Robert-Atputhanathan t /a Jet Petrol Station	Woking	A	0
@@ -2702,6 +2703,7 @@ HERATH RETAIL MANAGEMENT LTD	Bolton	A	0
 Here Domestic Repairs Limited	Romford	A	0
 HEREFORD MOBILE REPAIR LIMITED	Hereford	A	0
 Hereford Retail Ltd	Manchester	A	0
+Heritage Research Limited	London	A	0
 Hermanos Colombian Coffee Roasters Ltd	Worthing	A	0
 Hermitage residential home	Welshpool	A	0
 Herringbone Retail Ltd	London	A	0
@@ -2746,7 +2748,6 @@ Himalayan Spice Nepalese Restaurant and Bar	Formby	A	0
 Hindu Centre (East London) Radha Krishna Temple	London	A	1,10
 Hindu Cultural Resource Centre	Telford	A	0,10
 Hindu Religious and Cultural Society Leicester	Leicester	A	10
-Hindu Religious Association	Leamington Spa	A	1,10
 Hines Europe Real Estate Investments Limited	London	A	0,4
 HIRANI RAX LTD	Sutton	A	0
 Hire cars Ltd T/A Hertz Car Rental	Reading	A	0
@@ -2756,6 +2757,7 @@ Hit The Road Ltd	Gosport	A	0
 Hitachi Rail Limited	Ashford	A	0,4
 HIVIK Retail Ltd	Epsom	A	0
 HK DINNING LTD T/A RIVERSIDE SPICE	Colchester	A	0
+HKES RED LIMITED T/A SUBWAY	Redditch	A	0
 HLH RAPID LIMITED	Leeds	A	0
 HLHP Oriental Food Limited T/A Happy Lamb Hot Pot Restaurant	London	A	0,4
 HM Land Registry	Croydon	A	0
@@ -2938,7 +2940,6 @@ IMMNS Ltd T/A Royal Tandoori	Alloa	A	0
 Imone Korean Restaurant Ltd	New Malden	A	0
 Impact Radius Ltd	London	A	0,4
 Impact social value reporting Ltd	Kingston Upon Hull	A	0
-Impact Social Value Reporting Ltd	Manchester	A	0
 IMPERIAL EMPLOYMENT RESOURCES LTD	London	A	0
 Imperial Midlands Ltd T/A Ashefields Residential Home	Derby	A	0
 Imperial Recruitment Agency Ltd	London	A	0
@@ -2977,6 +2978,7 @@ Infiniti Research Limited	London	A	0
 Infinity Reliance Limited	Northampton	A	0
 Infinity Renewables Group Ltd	Crawley	A	0
 Info-Tech Research Group Ltd	London	A	0
+Injury Rehabilitation Care Centre Limited	Doncaster	A	0
 Ink Retouch Ltd	London	A	0
 Inmeals Ltd T/A Rossi's Original	Swansea	A	0
 INN-ASIA DINING LTD T/A DIYA ROYAL	Kempston	A	0
@@ -3055,7 +3057,6 @@ Italian Treasures Ltd T/A Roberto Authentic Italian Gelato	York	A	0
 ITECH REPAIR AND EXCHANGE LTD	Walsall	A	0
 ITIHAAS RESTAURANT	Dalkeith	A	0
 Ivory Group Real Estate LTD	London	A	0
-Ivory Rose Care	Brentwood	A	0
 Ivy Lodge Retirement Home	York	A	0
 IVYBANK HEALTH CARE LIMITED T/A IVY BANK RESIDENTIAL CARE HOME	Dover	A	0
 Izaan Retail Ltd	Edinburgh	A	0
@@ -3440,7 +3441,6 @@ Krishna Mohan Reddy	Bromyard	A	0
 KRISHNA PURE VEGETARIAN RESTAURANT AND CATERERS LTD	Wembley	A	0
 Krishnaswamy Ramkumar T/A Manorbier Stores & Post Office	Tenby	A	0
 Kritik Retail Ltd T/A Kritik Convenience	Birmingham	A	0
-KRO Hotels Manchester M2 Ltd t/a Asha's Restaurant	Manchester	A	0
 Kroll Bond Rating Agency UK Limited	London	A	0,4
 KS RETAIL CONNECT LTD	Bedford	A	0
 KS RETAIL LTD	Neath	A	0
@@ -3510,7 +3510,6 @@ LAL BAGAN LTD T/A TAMARIND RESTAURANT	Norwich	A	0
 Lala's Restaurant Huddersfield Limited	Huddersfield	A	0
 Lalbagh restaurant	Lichfield	A	0
 Lam Research Limited	Almondsbury	A	0,4
-LAM Research Limited (UK)	Edinburgh	A	0
 LAMAYA RESTAURANT BRISTOL LTD	Bristol	A	0
 Lanark Spice Ltd T/A Spice House Indian Restaurant and Takeaway	Lanark	A	0
 Lanbeth Resolutions Ltd	Kidderminster	A	0
@@ -3698,7 +3697,6 @@ Loyalty & Reward Co Ltd	London	A	0
 LQNB LIMITED t/a Rios Piri Piri	West Midlands	A	0
 LS Beech Road Ltd	Manchester	A	0
 LSA RECRUIT LTD	Harrow on the Hills	A	0
-LSA Retail Ltd	London	A	0
 Lucchini Unipart Rail Limited	Manchester	A	0
 Lucky Red 936 Ltd T/A Rain Flower	Crook	A	0
 LUCKY RETAILS UK LIMITED T/A MIABELLA	London	A	0
@@ -3719,6 +3717,7 @@ Lyme Regis Care Home Limited	Lyme Regis	A	0
 Lynch4 Care Services Limited t/a Right at Home Medway	Gillingham	A	0
 Lyndhurst Park Nursing & Residential Care Home	Weston Super Mare	A	0
 Lyndhurst Rest Home	Whitstable	A	0
+LYNNE CHAPMAN REPRODUCTIVE HEALTH (LCRH) LTD	London	A	0
 Lyric Hotels Ltd T/A Ringwood Hall Hotel & Spa	Sutton Coldfield	A	0
 Lytham Road Surgery	Preston	A	0
 Lâ??Aquila Restaurant	Manchester	A	0
@@ -3891,6 +3890,7 @@ Mathi Retail Limited	Ipswich	A	0
 Mathi Seed UK LTD T/A Indian Room	London	A	0
 MATHU RETAIL LTD	Darenth	A	0
 MATRIX RENEWABLES UK LIMITED	London	A	0,4
+MATS Research UK Ltd	London	A	0
 Matter Real Estate LLP	London	A	0
 Mattison Public Relations LLP	London	A	0
 Maurice Sedwell (Savile Row) Ltd	London	A	0
@@ -4011,6 +4011,7 @@ MIDLANDS RECYCLING LTD	Birmingham	A	0
 MIDLANDS RESIDENTIAL CARE LTD	Walsall	A	0
 Midsummer House Restaurants LLP	Cambridge	A	0
 Mifadelo Global Religion Law and Health Found Ltd	London	A	0,1,9,10
+MIG House residential care home Limited	London	B	0
 Mighty Recruitment Ltd	Hatfield	A	0
 Mihai Dumitru Raul LTD	Grays	A	0
 Mika R G Ltd	London	A	0
@@ -4066,7 +4067,6 @@ MMK REPAIRS LTD TA T Autos	Oldham	A	0
 MMN RESTAURANT LTD T/A AKHI INDIAN RESTAURANT	Grange Over Sands	A	0
 MMR MIDLANDS LTD T/a Mela Indian Restaurant	Birmingham	A	0
 MNI RESTAURANTS LTD	Liverpool	A	0
-MNK RE Limited	London	A	0
 MNK Retail Ltd	Northampton	A	0
 MNS LEEDS LIMITED T/A BUKHARA RESTAURANT	Leeds	A	0
 Mo's Restaurant NQY Limited	Newquay	A	0
@@ -4111,12 +4111,14 @@ Moorcroft Residential Care Home Ltd	Llandudno	A	0
 Moores Refrigeration Controlled Transport Limited	Eye	A	0
 MOORLANDS REST HOME	Reading	A	0
 Moorleigh Residential Care Home Limited	Torquay	A	0
+MORAN'S RETAIL LTD	Londonderry	A	0
 Morasiya Group Ltd T/As The Real Pizza Company	Worthing	A	0
 Morgan Reach Accountancy Limited	Birmingham	A	0
 Morgans Brasserie & Bar Limited t/a Kuku Sushi Bar and Robata	Plymouth	A	0
 Morgarten Restaurants Lakeside Ltd	Thurrock	A	0
 Morley Accident Repair	Derby	A	0
 Morrisons Daily Margam Road	Margam, Port Talbot	A	0
+Mosaic Rooms	London	A	0,3
 MOSTOSTAL ZABRZE REALIZACJE PRZEMYSLOWE S.A.	Salford	A	0,4
 Motion Robotics Limited	Southampton	A	0
 Motiur Rahman T/A Bay Leaf Fine Indian Cuisine	Huntingdon	A	0
@@ -4129,7 +4131,6 @@ Mount Everest Restaurant Limited	Bromley	A	0
 Mount Road Practice	Stoke-On-Trent	A	0
 MOUNT VERNON TERRACE RESIDENTIAL CARE HOME LIMITED	Nottingham	A	0
 Mountever Restaurants Limited	London	A	0
-Mountever Restaurants Ltd	London	A	0
 MOV8 REAL ESTATE LIMITED	Edinburgh	A	0
 MOVE RIGHT EXPRESS BIRMINGHAM LTD	Birmingham	A	0
 MOWGLI'S RESTAURANTS LTD T/A MOWGLI'S	Cardiff	A	0
@@ -4239,7 +4240,6 @@ MSV Restaurants Ltd T/A Tattva Indian Kitchen	Farnborough	A	0
 MSV Retail Limited T/A MFG Belmont	Sowerby Bridge	A	0
 MTR RETAIL LTD	Cardiff	A	0
 Mudappa Managooli T/A College Road Dental Care	Rotherham	A	0
-MUDUK RESTAURANT LTD	Mitcham	A	0
 MUGHALS RESTAURANT & SWEET CENTRE	Bradford	A	0
 Muhammad Asif T/A Bismillah Roti House	Halifax	A	0
 MUHAMMAD RAYYAN LTD	London	A	0
@@ -4337,7 +4337,6 @@ Navaratna South Indian Restaurant Limited	Croydon	A	0
 Naveed Retail Ltd t/a Spar Store	Perth	A	0
 Navigate Response Limited	London	A	0
 Navkar Solutions Ltd T/A Evington Road Post Office	Leicester	A	0
-NAWAABKITCHEN LIMITED T/A NAWAAB INDIAN RESTAURANT	Camborne	A	0
 NAWAAZ INDIAN RESTAURANT LTD	Leicester	A	0
 Naxos Real Estate Ltd	London	A	0
 NAYYAR STORES LIMITED T/A ROCKINGHAM CONVENIENCE STORE	Uxbridge	A	0
@@ -4510,7 +4509,7 @@ NOTTINGHAM ROMAN CATHOLIC DIOCESAN TRUSTEES	Nottingham	A	1,10
 NOTTINGHAM RUGBY LIMITED	Nottingham	A	11
 Nottingham Trent University - Human Resources	Nottingham	A	0,12
 Nova Rides Ltd	Nottingham	A	0
-Novo Nordisk Research and Development UK Limited	Oxford	A	0,4
+Novo Nordisk Research and Development UK Limited	Oxford	A	0,4,7
 Novotech Clinical Research UK Ltd	London	A	0
 NOY BHAI RESTAURANT LTD	Leyland	A	0
 NPR & V3 RETAIL LTD t/A Family shopper	Colsterworth	A	0
@@ -4612,7 +4611,6 @@ On Running UK Ltd	London	A	0
 Oncall Retail Ltd	Renfrew	A	0
 Ondine Restaurants Ltd	Edinburgh	A	0
 ONE FLEET REALTY LTD	London	A	0,4
-One Life Health Support Ltd t/a Caremark Surrey Heath & Rushmoor	Farnborough	A	0
 One Little Independent Ltd T/A One Little Independent Records	London	A	0
 One Love Caribbean Restaurant Limited	Romford	A	0
 One Plus Restaurant Limited	Manchester	A	0
@@ -4655,6 +4653,7 @@ Origin Recruitment Ltd	Lancaster	A	0
 Original RM Ltd	Belfast	A	0
 Original Third Eye Restaurant Ltd	Manchester	A	0
 Orion Resources Partners (UK) LLP	London	A	0
+Orla Homes Ltd t/a St Brelades Retirement Homes	Herne Bay, Kent	A	0
 Orlando Refrigeration & Air Conditioning Ltd	Hemel Hempstead	A	0
 Ormiston Rivers Academy	Burnham-on-Crouch	A	0
 ORMSKIRK ROAD PETROL STATION LIMITED	Skelmersdale	A	0
@@ -4750,7 +4749,6 @@ Park Avenue Recruitment	London	A	0
 Park Day Nursery (Reading) Ltd	Reading	A	0
 PARK GROVE RESIDENTIAL HOME LIMITED	Burscough	A	0
 Park Lodge Residential Care Home	Broadstone	A	0
-Park Restaurant Trading Limited	London	A	0
 Park Road Fish & Chips Shop	Dyfed	A	0
 Park Road Garage Ltd	Bedford	A	0
 Park Road Off Licence	Mexborough	A	0
@@ -4918,7 +4916,6 @@ PP Recruitment Ltd	Farnborough	A	0
 PPRV LIMITED t/a Vanda Restaurant	Crawley	A	0
 PPS Metal Recycling Limited	Scunthorpe	A	0
 PPS REAL ESTATE LTD	Nottingham	A	0
-PRAAN (BELPER) LTD t/a Praan Restaurant	Belper	A	0
 Practice Plus Group Health and Rehabilitation Services Limited	Theale	A	0
 Prada Retail UK Ltd	London	A	0,4
 PRAMUKH LTD T/A HEADLEY RAD PREMIER	Liphook	A	0
@@ -4959,7 +4956,7 @@ PRIMROSE RETAIL LTD	Seaton	A	0
 Prince Cutting Room and Beauty	Bradford	A	0
 Prince Real Estate International Limited T/A Prince Real Estate Group	London	A	0
 Prince Regent Hotel LTD	London	A	0
-Principles Recruitment Care Agency	Cirnecester	A	0
+Principles Recruitment Care Agency	Cheltenham	A	0
 Pringle Richards Sharratt Limited	London	A	0
 PRINT LOGIC REPROGRAPHICS LTD	Birkenhead	A	0
 PriorcareHomes Limited / Fernlea Residential Home	Stoke-On-Trent	A	0
@@ -4985,7 +4982,7 @@ Project REM Limited	Derby	A	0
 Proman Recruitment limited	London	A	0
 Promittere Recruitment LTD	London	A	0
 PROMORTEK RETAILS LTD	Ipswich	A	0
-Property Finders Real Estate Limited	Mayfair, London	A	0
+Property Finders Real Estate Limited	Oxfordshire	A	0
 Proposition Rthapoe Ltd T/A Proposition	London	A	0
 Propshop Ltd T/A Aircraft Restoration Company	Duxford	A	0
 Proskauer Rose (London) LLP	London	A	0,4
@@ -5005,7 +5002,6 @@ Punch Records DJ Workshops LTD	Birmingham	A	3
 Punjab Rivers Ltd	Coatbridge	A	0
 Punjabi Kesar Limited T/A Kesar Punjabi Restaurant	London	A	0
 Punjabi Rasoi London Limited	Ilford	A	0
-Punto Italian Restaurant	London	A	0
 Pure energy (REGen) Ltd	Dundee	A	0
 PuRe Public Relations Ltd	London	A	0
 Pure Recruitment Group	London	A	0,4
@@ -5031,6 +5027,7 @@ QH (Rosewood) Ltd	Lowestoft	A	0
 QM Recycled Energy Ltd	Rochester	A	0
 QNT RETAIL LTD	Ilford	A	0
 QRC Quality Reliable Care Ltd	Hailsham	A	0
+QuadReal Residential Properties UK Limited	London	A	0
 Quadrum Real Estate LLP	London	A	0,4
 Quakers in Britain also known as the Religious Society of Friends	London	A	0
 Quality by Randomization Limited	Salford	A	0
@@ -5111,9 +5108,7 @@ R A S Limited	Wirral	A	0
 R and D Reclaims Ltd	St Helens	A	0
 R AND J TRANSPORT LTD	Derby	A	0
 R AND K STORES LIMITED	Cheltenham	A	0
-R AND S (SOUTH EAST) DEVELOPMENTS LIMITED	Maidstone	A	0
 R and S Medical and Allied Services Limited	Harrow	A	0
-R B A Limited	Colwyn Bay	A	0
 R B GRILL LTD	Southsea	A	0
 R B Plastering	Nottingham	A	0
 R Brown & K Jones Ltd	Southport	A	0
@@ -5261,7 +5256,6 @@ R&R CARS LTD	Slough	A	0
 R&R Commercial (UK) Limited	Winscombe	A	0
 R&R Global Ltd	Crewkerne	A	0
 R&R Local Ltd T/A Moreys	Exmouth	A	0
-R&S Convenience Store Ltd T/A The Local	Walton-On-Thames	A	0
 R&S Pharma Limited	London	A	0
 R&S SUPERMARKET LTD	Kent	A	0
 R&T (LEE) CLINIC LIMITED	London	A	0
@@ -5294,6 +5288,7 @@ R.M Indian Limited	Essex	A	0
 R.M.D ENTERPRISES LTD	Watford	A	0
 R.M.Williams (UK) Limited	London	A	0,4
 R.P.G SIGNHIRE LIMITED	Middlesex	A	0
+R.P.M. Installations (Kent) Limited	West Malling	A	0
 R.R SUPPLY & CO LTD	Birmingham	A	0
 R.S SIDHU LTD	Leeds	A	0
 R.S. Aqua Limited	Farnahm	A	0
@@ -5453,7 +5448,7 @@ Radiant Medicare Limited T/A Rj's Pharmacy	Middlesex,	A	0
 RADIANT WORLD CORPORATION (UK) LIMITED	London	A	0
 RADIANTLIFE LTD	Rainham	A	0
 Radical Departures Ltd	London	A	0
-Radical Forge Ltd	Middlesbrough	A	0
+Radical Forge Ltd	Manchester	A	0
 Radical Media Limited	London	A	0,3,4
 Radicon Transmission UK Limited	Elland	A	0,4
 Radii Partitioning Limited	London	A	0
@@ -5506,7 +5501,7 @@ RAEDAS CONSULTING LIMITED	London	A	0
 Raei Alvin & Co Ltd	London	A	0
 Raeside Chisholm Solicitors Limited	Glasgow	A	0
 Rafael International Limited	Winnersh	A	0
-RAFAH INTERNATIONAL	Batley	A	9
+RAFAH INTERNATIONAL	London	A	9
 RAFAY COMMUNICATIONS LTD	Ruislip	A	0
 RAFFET PASHA T/A HIGHTOWN PRE-SCHOOL	Luton	A	0
 Raffolux Ltd	Watford	A	0
@@ -5580,6 +5575,7 @@ RAI SAAB LTD	Nottingham	A	0
 Raia Health Limited	Altrincham	A	0
 RAICO PROPERTIES LTD	Slough	A	0
 RAIDA CARE LONDON LTD	London	A	0
+RAIDEN INDUSTRIES LIMITED	Birmingham	A	0
 RAIDEN TRADING LTD T/a Chilli Flames	Aberdeen	A	0
 Raiders IHC Limited	Leigh on Sea	A	11
 Raidiam Services Limited	London	A	0
@@ -5779,7 +5775,6 @@ RAJKEL LIMITED T/A GREENCHEM	Croydon	A	0
 Rajku Construction LTD	New Malden	A	0
 Rajnagar Tandoori Restaurant LTD	Solihull	A	0
 Rajoka Limited T/A Verity Partners	Birmingham	A	0
-RAJPOOT (ILMINSTER) LTD	Manchester	A	0
 Rajpoot Indian Ltd	Melksham	A	0
 Rajpoot Restaurant	Shipley	A	0
 RAJPRA JEWELLERS LTD	Leicester	A	0
@@ -5788,6 +5783,7 @@ Rajput Restaurant Limited	Sheffield	A	0
 Rajput Sutton Ltd	Boldmere	A	0
 Rajram Stores	Swansea	A	0
 Rajshree Catering Limited	Maidstone	A	0
+RAJSPICE ILMINSTER LTD	Ilminster	A	0
 Raju Goraniya T/a Onestop Herlington	Peterborough	A	0
 Rajvar Supplies Limited	London	A	0
 Rajveer Ltd	Bracknell	A	0
@@ -5918,7 +5914,6 @@ Ramsey Health Centre Partnership	Ramsey	A	0
 RAMSEY SERVICES LTD	London	A	0
 Ramsey Step Down & Care Centre	Harwich	A	0
 Ramsgate Specsavers Limited	Ramsgate	A	0
-RAMSGATE SPICE LIMITED T/A SECRET SPICES	Kent	A	0
 Ramsha Private Ltd	Glasgow	A	0
 Ramshackle Productions Limited	Hastings	A	0
 RAMSY BARBER'S CLUB LTD	Wales	A	0
@@ -5941,6 +5936,7 @@ RANA SUPER STORE LTD	Kilmarnock	A	0
 Rana Technologies Limited	London	A	0
 Rana Traders 1 Ltd t/a Nafees Bakers & Sweets	Derby	A	0
 Rana Traders 2 Ltd t/a Nafees Bakers & Sweets	Bedford	A	0
+Rana Transport Ltd	Wolverhampton	A	0
 Rana Waqas Trading Limited	Glasgow	A	0
 Rana's Bakery & Brasserie Limited	London	A	0
 RANAIN LOGISTICS LTD	Rochdale	A	0
@@ -5950,6 +5946,7 @@ RANAVAYA RETAIL LTD	Mansfield	A	0
 RANAZ SERVICES 4 LIMITED	Bristol	A	0
 Rancan Ltd	Manchester	A	0
 Rance Healthcare Services Ltd	Wolverhampton	A	0
+RANCHO CLUB LTD	Portsmouth	A	0
 Rancho Express Portsmouth Limited	Portsmouth	A	0
 RANCO ( LONDON ) LTD	Perivale	A	0
 Rand Brothers	Royston	A	0
@@ -6139,7 +6136,6 @@ Rasul Restaurant And Desserts LTD	Bathgate	A	0
 Ratan Care Homes Limited	Coventry	A	0
 RATATYPE LTD	Ramsgate	A	0
 Ratcliffe College	Leicester	A	0
-Rate Masters Ltd	Manchester	A	0
 Rated Labs Ltd	London	A	0
 Rated People Ltd	London	A	0
 RateGain Technologies Limited	London	A	0,4
@@ -6151,16 +6147,14 @@ RATHEEPAN ANANTHARAJAH	Stourbridge	A	0
 RATHER HOME LTD	London	A	0
 Rathern Ltd T/A DoubleTree by Hilton London ? Marble Arch	London	A	0
 Rathgar Care Home Ltd	Milton Keynes	A	0
-Rathi Ltd	Bognor Regis	A	0
+Rathi Ltd	Southampton	A	0
 Rathlin Energy (UK Limited)	Beverley	A	0
 Rathmore Clinic	Belleek	A	0
 Rathna UK Ltd	Hessle	A	0
 Rathnakumar Rathinajothy T/A Frindsbury Fried Chicken & Grills	Rochester	A	0
-Rathplace Developments Limited	Marlborough	A	11
 RATHSIDE RESIDENTIAL CARE HOME LIMITED	Grimsby, North East Lincs	A	0
 Ratia Ltd	Leicester	A	0
 Ratio Digital Marketing Limited	London	A	0
-Rational Labelling and Marking Systems Ltd	Brackley	A	0
 Rational UK Limited	Luton	A	0,4
 Ratna & Co Solicitors	London	A	0
 Ratna Investment LTD	Northfleet	A	0
@@ -6308,7 +6302,7 @@ Rayyan Air Conditioning and Refrigeration Ltd	Ilford	A	0
 RAYYAN CARES LIMITED	Manchester	A	0
 RAYYAN FRESH FISH LTD	Luton	A	0
 Rayyan International Ltd	London	A	0
-Rayyan Renovations Ltd	Birmingham	A	0
+Rayyan Renovations Ltd	Blackburn	A	0
 RAYYAN SUPERMARKET LTD	Luton	A	0
 Rayyan Traders Ltd T/A Quickpickdeals	Glasgow	A	0
 Rayyantech Limited	London	A	0
@@ -6329,7 +6323,7 @@ Razorblue Group Ltd	Stockton-on-Tees	A	0
 Razorleaf Ltd	Daventry	A	0
 RAZZAK LIMITED	Shoreham-by-sea	A	0
 RB British Marine UK Limited	London	A	0
-RB CHEF LTD	Nottingham	A	0
+RB CHEF LTD	Macclesfield	A	0
 RB DRY CLEANERS LTD	Kingston upon Thames	A	0
 RB ECLIPSE LTD	Woburn	A	0
 RB Halal Food London Limited	Tooting	A	0
@@ -6407,6 +6401,7 @@ RCCG Life Start Connections	Kent	A	0
 RCCG LIGHT HOUSE ASSEMBLY HACKNEY	Hackney London	A	1,10
 RCCG Living Faith Assembly	Crawley	A	0,1,9,10
 RCCG Living Faith, South Shields	Tyne and Wear	A	1,9,10
+RCCG MOUNT ZION LIVERPOOL LTD	Liverpool	A	1,9,10
 RCCG OLDBURY ON THE ROCK	Tivadale	A	0,1,9,10
 RCCG OPEN HEAVENS SANCTUARY	Dagenham	A	1
 Rccg Place Of Victory For All Nations, Belfast	Belfast	A	10
@@ -6641,11 +6636,9 @@ Really Secure Company Limited	Redditch	A	0
 Reallyenglish.com Ltd	London	A	0
 Realm Fire & Security Ltd	Aberdeen	A	0
 Realm Investment House UK Ltd	London	A	0
-Realm Staffing Solutions Ltd	Stevenage	A	0
 REALMPARK HEALTH CARE (PETWORTH) LIMITED	New Barnet	A	0
 Realocate Limited	London	A	0
 REALREDCLICK LTD	Hampshire	A	0
-REALSTAR MANAGEMENT (UK) LIMITED	London	A	0
 Realterm Europe Management UK Ltd	London	A	0,4
 REALTIME CIVIL ENGINEERING LIMITED	Potters Bar	A	0
 Realtime Tech Ltd	Chawston	A	0
@@ -6669,6 +6662,7 @@ REBANK TECHNOLOGIES LIMITED	London	A	0
 Rebear Properties Ltd	Kilburn	A	0
 Rebecca Abigail PR Ltd	London	A	0
 REBECCA JENEEN LIMITED	Mallaig	A	0
+Rebecca Menzies Racing	Sedgefield	A	0
 Rebekah's Restoration Ltd	London	A	0
 Rebel & Love Ltd	Oxford	A	0
 Rebel Clothing Company Limited	Nottingham	A	0
@@ -6686,7 +6680,7 @@ Rebound Physiotherapy Services Ltd	Chester	A	0
 Reboxed Ltd	London	A	0
 Rebuilding Christian Foundation Church CIO	London	A	1,9,10
 Rebuildy Ltd	London	A	0
-Rebuyer Limited	Sunderland	A	0
+Rebuyer Limited	Houghton Le Spring	A	0
 REC STUDIOS LIMITED	London	A	0,3
 Receiptco Manufacturing (UK) Ltd.	Peterborough	A	0
 Recent Spaces Ltd	London	A	0
@@ -6732,6 +6726,7 @@ Recruit Genie (Europe) Ltd	Leeds	A	0
 Recruit in Care Ltd	Nottingham	A	0
 Recruit Workforce Ltd	Ilford	A	0
 RECRUIT WORLDWIDE LIMITED.T/A Zebra Multimedia	London	A	0,3
+RECRUITACHEF LTD	London	A	0
 Recruiter Insider Limited	London	A	0
 RecruitHub Platform	London	A	0
 Recruiting Hub International Ltd	Peterborough	A	0
@@ -6741,12 +6736,10 @@ Recruitment For You Limited	Lancashire	A	0
 RECRUITMENT PRECISION LIMITED	Sunderland	A	0
 Recruitment Smart Technologies Ltd	London	A	0
 Rectory Care Limited	Wolverhampton	A	0
-RECTORY FARM SUPERMARKET	Northampton	A	0
 RECTORY HOUSE CARE LIMITED t/as Rectory House Nursing Home	Lancing	A	0
 RECURE BIOTECHNOLOGY & COSMETICS LIMITED	London	A	0
 Recurly UK Limited	Manchester	A	0,4
 Recurrent Energy Power Services UK	Colchester	A	0
-Recursion London Ltd	London	A	0,4
 Recursive Superintelligence Ltd	London	A	0
 Recy Traders (UK) Limited	Cambridgeshire	A	0
 Recyber Opco Ltd	Warminster	A	0
@@ -6757,14 +6750,12 @@ Recycled Plastics UK Ltd	Wolverhampton	A	0
 Recycleye	London	A	0
 Recycling Lives Compliance Services	Preston	A	0
 RECYCLING SERVICES LTD	Erith	A	0
-RECYCLING SOLUTIONS (PLASTICS) LTD	Birmingham	A	0
 Recycling With skips Limited T/A Quick Skip Hire	West Drayton	A	0
 Recyco Limiited	Omagh	A	0
 Recyplas Limited	Wimblington	A	0,4
 Red (EU) Limited	Luton	A	0
 Red Alert Telecare	Ashford	A	0
 Red and Greens Africana Food Store LTD	Bradford	A	0
-RED ANGEL CATERING LIMITED T/a Shahs Secreto	Guildford	A	0
 Red Ant Digital Ltd	London	A	0
 RED APPLE FOOD LTD	Stoke-On Trent	A	0
 Red Arrow Electrical Limited	Barnsley	A	0
@@ -6793,7 +6784,6 @@ RED CHILLY LIMITED	Stratford-Upon-Avon	A	0
 RED CIRCLE SECURITY SERVICES LIMITED	London	A	0
 Red Commerce Ltd	London	A	0
 Red Construction Group Limited	Bedford	A	0
-Red Construction Ltd	Solihull	A	0
 RED COYOTE GUARDING LTD	London	A	0
 Red Deer Herbs Limited	Pershore	A	0
 Red Diamond Executive Head Hunters Ltd	Barnsley	A	0
@@ -6870,7 +6860,6 @@ Red Rose Food and Wine	Greater Manchester	A	0
 RED ROSE FURNISHINGS LTD	Blackburn	A	0
 RED ROSE GARMENTS LTD	Blackburn	A	0
 Red Rose Of Chessington	Chessington	A	0
-Red Rose Travel Ltd	Buckinghamshire	A	0
 Red Rover Interactive UK Limited	Newcastle upon Tyne	A	0
 Red Sanctuary Limited	Birmingham	A	0
 RED SANDALWOODS LIMITED	Orpington	A	0
@@ -6924,6 +6913,7 @@ REDCLIFF MGT LTD	Hemel Hempstead	A	3
 Redcliffe Hill Pharma Limited T/A Redcliffe Hill Pharmacy	Bristol	A	0
 Redcliffe Square Limited	London	A	0
 RedCloud Technologies Ltd	London	A	0,4
+Redcoat Express Limited	Crawley	A	0
 Redcompass Limited	London	A	0
 REDCORN LTD	Essex	A	0
 Redcroft Care Homes LTD	Edinburgh	A	0
@@ -7045,6 +7035,7 @@ Redstone Insurance Brokers Ltd	Crawley	A	0
 Redstor Limited	Reading	A	0
 REDTAIL TELEMATICS LIMITED	Saffron Walden	A	0
 RedTitan Limited	High Wycombe	A	0
+Redtorch Ltd	London	A	0
 REDVERTEX Ltd	London	A	0
 Redwan and Sons Ltd	Luton	A	0
 Redwell Medical Centre	Wellingborough	A	0
@@ -7183,7 +7174,6 @@ Regency Grove Ltd	Chessington	A	0
 Regency House Dental Practice	Bridgnorth	A	0
 Regency house dental Practice	Brighton	A	0
 Regency House Residential Home	Pontypool	A	0
-REGENCY LEISURE LIMITED	Birmingham	A	0
 Regency Medicine Ltd	Dunfermline	A	0
 Regency Nursing Home	Southsea	A	0
 Regency Retirement Home	Stonehouse	A	0
@@ -7226,7 +7216,7 @@ REGINALD STORE LTD	Dagenham	A	0
 Regine Limited	London	A	0
 Reginson Engineering Limited	Nuneaton	A	0
 region security guarding ltd	Wolverhampton	A	0
-Regional Care Cambridge	Peterborough	A	0
+Regional Care Peterborough	Peterborough	A	0
 Regional Contractors Ltd	Leicester	A	0
 Regional Home From Home	Northampton	A	0
 Regione Della Campania Limited	Swindon	A	0
@@ -7235,7 +7225,6 @@ Regis Entertainment Limited	Essex	A	0
 Regis Group Services Limited	Southend-On-Sea	A	0
 Regis Healthcare Ltd	Ebbw Vale	A	0
 REGIS HOTEL (OPCO) UK S.A.	London	A	0
-REGIS SPICE LTD	Birmingham	A	0
 Register's of Scotland	Edinburgh	A	0
 Registry Surgery Limited	Scunthorpe	A	0
 Registry Surgery Limited t/a Old Registry Vets	Scunthorpe	A	0
@@ -7297,9 +7286,9 @@ Reigate Grammar School	Reigate	A	0
 Reigate Priory Cricket Club	Reigate	A	11
 Reigate Traders UK Ltd t/a New Gurkha Kitchen	Surrey	A	0
 Reimagine Robotics Limited	London	A	0
+Reimagined Textiles Ltd	Brentwood	A	0
 Reimagining General Practice GPMS Services Ltd	Crawcrook	A	0
 Reimagining General Practice Health Support Service Ltd	Leeds	A	0
-REINA BE LTD	London	A	0
 Reina Polo Ltd	Midhurst	A	11
 Reincubate Limited	London	A	0
 Reincy Medicare Ltd	Wokingham	A	0
@@ -7398,7 +7387,6 @@ Relief Chiropractic Limited	Pampisford	A	0
 Relief International UK	London	A	0
 RELIEF NATION	Nelson	A	9
 RELIFE PHYSIOTHERAPY UK LTD	Slough	A	0
-RELIFETECH RECYCLING LIMITED	Harlow	A	0
 Relight Church SCIO	Dundee	A	1
 Religious of Mary Immaculate	London	A	1,10
 Religious of St Andrew	London	A	9,10
@@ -7478,7 +7466,6 @@ Renaissance Care (Scotland) Ltd	Musselburgh	A	0
 RENAISSANCE COMMUNITY CARE SERVICES Ltd t/as ASHWOOD RESIDENTIAL CARE HOME	Wigan	A	0
 RENAISSANCE INFOTECH LIMITED	Wallington	A	0
 Renaissance Learning UK Limited	Swindon	A	0,4
-Renaissance Learning UK Ltd	London	A	0,4
 Renaissance Nurseries Leeds Ltd	Leeds	A	0
 Renaissance Pathway Care limited	Northampton	A	0
 Renaissance Philanthropy UK Limited	London	A	0
@@ -7649,7 +7636,6 @@ Resicare Alliance Limited	London	A	0
 Reside Support Limited	Rawtenstall	A	0
 Residence One (London) Ltd	Richmond	A	0
 Resident Architects Limited	London	A	0
-Resident Hotels Limited	London	A	0
 Residential Care Providers Ltd	Pinner	A	0
 RESIDENTIAL CARE SERVICES LIMITED t/a Franklyn Lodge	Wembley	A	0
 Residenza Properties Ltd	London	A	0
@@ -7666,7 +7652,6 @@ Resillion UK Limited	Bristol	A	0
 Resin Products Ltd	Lichfield	A	0
 RESINEX UK LIMITED	Buckinghamshire	A	4,7
 Resistant AI Limited	Warwick	A	4
-Resman Wireless Reservoir Surveillance UK Ltd	Westhill	A	0
 ResMed (UK) Limited	Didcot	A	0,4
 Reso Ltd t/a QDOS	Worplesdon	A	0
 Resodyn Europe Limited	Aylesbury	A	0
@@ -7724,7 +7709,6 @@ Response Physiotherapy Limited	Nottingahm	A	0
 Response Recruitment Ltd	Park Royal	A	0
 RESPONSE UK GROUP LIMITED	Peterborough,	A	0
 Response24 Ltd	Reading	A	0
-Response360 Ltd	London	A	0
 Responsible Home Carers Limited	London	A	0
 Responsible Leadership Foundation Limited t/a Forward Institute	London	A	0
 Responsible Power Systems Limited	Stirling	A	0
@@ -7786,7 +7770,6 @@ Resurrect Bio Ltd	London	A	0,12
 RESURRECTION POWER AND LIVING BREAD MINISTRIES BIRMINGHAM	West Bromwich	A	1,9
 RESV Enterprise Ltd t/a Woburn Sands Convenience Store	Milton Keynes	A	0
 Retail & Financial Services Limited	Basingstoke	A	0
-Retail Assist Ltd	Nottingham	A	0
 RETAIL BRISTOL LIMITED T/A BACKWELL STORES & POST OFFICE	Bristol	A	0
 Retail Capital (UK) Ltd	London	A	0
 Retail Economics Ltd	Bromley	A	0
@@ -7840,6 +7823,7 @@ Retro Control Limited	Bolton	A	0
 RETRO HOUSING LIMITED	Hounslow	A	0
 Retro Labs Ltd T/A TILT	London	A	0
 Retro Track & Air (UK) Ltd	Dursley	A	0
+Retrofit Clicks Ltd	Slough	A	0
 RETROFIT-UK INSTALLATIONS LTD	Birmingham	A	0
 RetrofitWorks	London	A	0
 Retrotech Home Installations Ltd	High Wycombe	A	0
@@ -7923,7 +7907,6 @@ Revolve Group Limited	Northampton	A	0
 REVOLVER OUTFITTERS LIMITED	Bradford	A	0
 Revolving Doors Housing Trust	Manchester	A	0
 Revoro Limited	Birmingham	A	0
-RevoTech Systems Limited	Warwick	A	0
 RevQore Consulting Limited	London	A	0
 Revvity (UK) Holdings Limited	Llantrisant	A	0,4
 Revvity Discovery Limited	Cambridge	A	0
@@ -7956,6 +7939,7 @@ Reyl & Co (UK) LLP	London	A	0
 Reylink Ltd T/A The Dysart Petersham	London	A	0
 REYMC 247 (PVT) LIMITED t/a Royal Care Health Recruitment & Training	Worksop	A	0
 REYNA FURNITURE LTD	London	A	0
+Reynard High Voltage Solutions	Cheltenham	A	0
 Reynolds Catering Supplies Limited	Waltham Cross	A	0
 Reynolds news	Essex	A	0
 Reynolds Porter Chamberlain LLP	London	A	0,4,7
@@ -8009,6 +7993,7 @@ RGKP EXPRESS LTD	Liverpool	A	0
 RGL Capital LLP	London	A	0
 RGM Foods Ltd T/A Sams Chicken	Ealing	A	0
 RGM Service Company Limited T/A Home Instead (Doncaster)	Doncaster	A	0
+RGS FORFAR LTD	Forfar	A	0
 RGS IT Development Ltd	Mobberley	A	0
 RGS KHALSA COMPANY LIMITED T/A RAINBERG	Hemel Hempstead	A	0
 RGV Aviation Limited	Cheltenham	A	0
@@ -8379,15 +8364,15 @@ Rik's One Stop	Gillingham	A	0
 RIKA GLOBAL LTD	Sutton Coldfield	A	0
 Rika Group UK Ltd	London	A	0
 RIKKYO SCHOOL IN ENGLAND	Horsham	A	0,1
-Riley & Riley T/A The Queens Head	Farnham	A	0
 Riley Square Limited T/A Nisa Local	Coventry	A	0
+Rima Food Ltd	Chelmsford	A	0
 Rimac Energy R&D UK Ltd	Witney	A	0
 Rimaya Ltd	Romford	A	0
 Rimbal Ltd	London	A	0
 Rimell Racing	Leafield	A	0
 Rimes Technologies Limited	London	A	0,4
 Rimi Renovations Building Services Ltd	Romford	A	0
-RIMI SURGE LTD	Langley	A	0
+RIMI SURGE LTD	Denham	A	0
 Rimjhim Wimbourne Ltd	Wimborne	A	0
 Rimkus Consulting UK Limited	London	A	0
 RIMM SUSTAINABILITY LIMITED	London	A	0
@@ -8601,13 +8586,13 @@ River Island Clothing Co. Limited	London	A	0
 River Learning Trust	Kidlington	A	0
 River Oakfield	Solihull	A	0
 River of Care LTD	Great Barr	A	0
-River of Life Church	Dumfries	A	1,10
+River of Life Church (Dumfries)	Dumfries	A	1,10
 River of Life City Church	London	A	1,9,10
 RIVER READING LIMITED T/A RIVER SPICE	Reading	A	0
 River Rouge Ltd	Towcester	A	0
 RIVER SPICE LTD	Fareham	A	0
 River Stone (UK) Limited	Sittingbourne	A	0
-River Thame Conservation Trust	Oxford	A	0
+River Thame Conservation Trust	Nuneham Courtenay	A	0
 RIVER UK LIMITED	Burton Upon Trent	A	0
 River Veterinary Care	Newcastle Upon Tyne	A	0
 River Woodwork Ltd.	Surrey	A	0
@@ -8765,6 +8750,7 @@ RJ Godwin & Mrs FNA Godwin t/a Homecare Services	Waterfoot	A	0
 RJ Hospitality Ltd	Halifax	A	0
 RJ Inc LTD	Coventry	A	0
 RJ JK and TJ Vaux	South Petherton	A	11
+RJ McKee & M McKee T/a FV Achilles	Newry	A	0
 RJ McLeod (Contractors) Limited	Glasgow	A	0
 RJ Medical Consultants Ltd	East Hyde	A	0
 RJ Power Group Limited	Chorley	A	0
@@ -8983,10 +8969,10 @@ RNV Construction Limited	Watford	A	0
 RNZ EQUEPET UK LTD	London	A	0
 RO Engineeria Ltd	Manchester	A	0
 RO Evesham Limited T/A The Royal Oak	Evesham	A	0
+Ro Ho London Limited	Ipswich	A	0
 Ro&Zo Limited	London	A	0
 ROAD BUDDY LIMITED	London	A	0
 ROAD JET PRIVATE HIRE LTD	St. Ives	A	0
-Road Life Health Care Limited	Rotherham	A	0
 Road Management Services (A13) Operations Limited	London	A	0
 ROAD RUNNER COURIER SERVICE LIMITED	Swindon	A	0
 Road Runner Trucking Ltd	London	A	0
@@ -9269,6 +9255,7 @@ Rodenvine (Nottingham) Limited	Nottingham	A	0
 Rodeo Goods Ltd	Reading	A	0
 Rodeo Productions	London	A	3
 Rodeo The Agency LTD	London	A	3
+Rodeos BBQ (Birmingham) LTD	Birmingham	A	0
 Rodericks Dental Partners Limited	Northampton	A	0
 RODEW LTD	Edinburgh	A	0
 Rodgers Leask Ltd	Birmingham	A	0
@@ -9464,7 +9451,7 @@ Room Board Ltd	London	A	0
 Room to Read UK Limited	London	A	0
 ROOMNETTV Ltd	Wantage	A	0
 ROOMS 4 YOU LIMITED	Acton	A	0
-Rooms Group Limited	Warrington	A	0
+Rooms Group Limited	Winsford	A	0
 ROONEY FISH	Kilkeel	A	0
 ROONEY METALS LTD	Cookstown	A	0
 Roop Boutique Ltd	Tipton	A	0
@@ -9498,7 +9485,6 @@ Rooted Health and Social Care Ltd	Bromley	A	0
 Rootfloe Ltd	Croydon	A	0
 ROOTLI LTD	Tonbridge	A	0
 Roots & Heritage Ltd	Belvedere	A	0
-ROOTS KITCHEN LTD	Salford	A	0
 Roots Law Limited	London	A	0
 Roots Staffing Solutions Ltd	Norwich	A	0
 Roots Systems Limited	Stonehouse	A	0
@@ -9516,7 +9502,6 @@ Ropetech Access Solutions Ltd	York	A	0
 Roq Limited	Chorley	A	0
 Roq.ad UK Limited	Bristol	A	0
 Rorcon Limited	West Midlands	A	0
-ROS AND MOS HOUSE SUPPORT LTD	Pitsea Basildon	A	0
 Rosa Care Ltd	Bedford	A	0
 Rosa De La Cruz Ltd	London	A	0
 Rosa's London Limited	London	A	0
@@ -9538,7 +9523,6 @@ ROSE BEAUTY HUB LIMITED	Bexleyheath	A	0
 ROSE BEAUTY LASER LIMITED	Leicester	A	0
 Rose Bruford College	Kent	A	0,3
 Rose Care Group	Exeter	A	0
-ROSE CARE SERVICES LIMITED	Catford	A	0
 Rose clinic performance physiotherapy	London	A	0
 Rose Corner Ltd T/A Lea Cross Tandoori Restaurant	Birmingham	A	0
 Rose Cottage	Bradford	A	0
@@ -9547,11 +9531,9 @@ Rose Garden Dental Practice	Kingsbury	A	0
 Rose Gold Health Fulwood Limited	Preston	A	0
 ROSE GOLF LIMITED	Richmond	A	0
 Rose Grocers LTD. T/A Rose Grocers	Watford	A	0
-Rose Healthcare Services Ltd Ltd	Oldham	A	0
 Rose Indienne Ltd	Swansea	A	0
 ROSE KAHN CAR REPAIR	Nelson	A	0
 Rose Lane Technology	Liverpool	A	0
-Rose Lodge Care Home (Lisburn) Ltd	Lisburn	A	0
 Rose Mount Supported Living Ltd	Derby	A	0
 ROSE NI LTD	Belfast	A	0
 ROSE OF YORK LIMITED	London	A	0
@@ -9618,7 +9600,7 @@ Rosevilla Care Home Stafford Limited	Stafford	A	0
 Rosevilla Surgery	Basildon	A	0
 ROSEWALK TEYNHAM LTD	Sheffield	A	0
 Rosewich Engineering UK Ltd	Rosyth	A	0
-Rosewood & Brook House Ltd	Somerset	A	0
+Rosewood & Brook House Ltd	Somerset	B	0
 Rosewood Consultants Ltd	Carlisle	A	0
 Rosewood Family Care	London	A	0
 Rosewood Foods Ltd	Bognor Regis	A	0
@@ -9664,7 +9646,6 @@ Rossall School	Fleetwood	A	0
 Rossdale & Partners	Newmarket	A	0
 Rossefield Nursing Homes Ltd	Bradford	A	0
 Rossharbour Resort Ltd	Enniskillen	A	0
-Rossi (Southend on Sea) Ltd	South Woodham Ferrers	A	0
 Rossi Cafe Limited t/a Molen's	Essex	A	0
 Rossi UK Limited t/a MBP Surfaces	Full Sutton	A	0
 Rossie Secure Accommodation Services	Montrose	A	0
@@ -9794,6 +9775,7 @@ Rowlands Road surgery	Birmingham	A	0
 Rowlandson Terrace Ltd	Sunderland	A	0
 Rowles House Limited	Luton	A	0
 ROWLEY AUTO SERVICES LIMITED	Coventry	A	0
+Rowlinson Constructions Ltd	Gatley	A	0
 Rowm Ltd	London	A	0
 Rowse Holdings Ltd	Penzance	A	0
 Rowse Honey Ltd	Wallingford	A	0
@@ -9976,11 +9958,10 @@ RPC COATINGS LTD	Heckmondwike	A	0
 RPC Containers Limited	Corby,	A	0,4,7
 RPG DISTRIBUTORS LTD	Birmingham	A	0
 RPG Healthcare Ltd T/A Hillsborough Pharmacy	Sheffield	A	0
-RPG Strategy Partners Ltd	London	A	0
 RPGCC	London	A	0
 RPH Pharma Ltd	Cheadle	A	0
 RPJ Energy Solutions Ltd	Glasgow	A	0
-RPK Technologies Ltd	London	A	0
+RPK Technologies Ltd	Ilford	A	0
 Rplus Analytics Solutions Limited	Preston	A	0
 RPM Europe UK Limited	Bristol	A	0
 RPM London Ltd	London	A	0
@@ -10076,7 +10057,7 @@ RSA Insurance Group Limited	London	A	0,4
 RSA LEISURE LTD T/A INDIA GATE	Dunblane	A	0
 RSA MOTORS LTD	Radcliffe	A	0
 RSA Plant and Aggregates Limited	Bradford	A	0
-RSA Security UK Ltd	London	A	0,4
+RSA Security UK Ltd	Manchester, Greater Manchester	A	0,4
 RSA Structural Design Ltd	Buckhurst Hill	A	0
 RSA SURGICAL CENTRE LIMITED	Milton Keynes	A	0
 RSB Furniture Ltd	Dewsbury	A	0
@@ -10240,6 +10221,7 @@ Ruckus Wireless UK Limited	London	A	0,4
 Rud Pedersen UK Ltd	London	A	0
 RUDAN LIMITED	London	A	0
 Rudding Park Ltd	Harrogate	A	0
+Ruddy Joinery Limited	Flitwick	A	0
 Ruder Finn UK Ltd	London	A	0,4
 Rudgwick Healthcare Limited	Rudgwick	A	0
 RUDH LIMITED T/A PEPE'S PIRI PIRI	London	A	0
@@ -10291,7 +10273,6 @@ Ruislip Specsavers Hearcare Ltd	Ruislip	A	0
 RUJAL NEWS T/A BHARATKUMAR BHOGILAL PATEL	Calcton - On - Sea	A	0
 Rukhsar Khaliq T/as Money Save Store	Nelson	A	0
 Rukhshaana Properties Ltd	Sheffield	A	0
-RUKY LTD	Birmingham	A	0
 Rula Homecare Limited	Ipswich	A	0
 Rule Finance Limited	London	A	0
 Rule Ltd	High Wycombe	A	0
@@ -10412,6 +10393,7 @@ Rutland House Care Home	Sutton	A	0
 Rutland House Community Trust	Oakham	A	0
 Rutland Inn Company Limited	Clipsham	A	0
 Rutland Manor Limited	Ilkeston	A	0
+Rutland Plastics Limited	Oakham	A	0
 Rutledge Training Ltd	Coleraine	A	0
 Rutronik UK Limited	Bolton	A	0
 RutterKey Solutions Ltd	Bolton	A	0
@@ -10589,6 +10571,7 @@ Sadhya Restaurant	Wellingborough	A	0
 Safe Recruits Limited	Tunbridge Wells	A	0
 Safe Response Gas & Plumbing Ltd	Dudley	A	0
 SAFE RIDES ESSEX LTD	Colchester	A	0
+Safehands Recruitment Ltd	Cheltenham	A	0
 Saffron Indian Restaurant	Abroath	A	0
 Saffron Restaurant & Bar Ltd	Shetland	A	0
 Saffron Restaurant (Merseyside) LTD T/a Fort of India	Newton-Le-Willows	A	0
@@ -10703,6 +10686,7 @@ SBS Glasgow Ltd t/a Kebabish Grill Restaurant	Glasgow,	A	0
 Scarlet O2 Ltd t/a Scarlet Rasoi, IThai and Naan Wrap	London	A	0
 Schlumberger Cambridge Research Limited	Cambridge	A	0,4
 SCHMITZ ROTARY ENGINEERING LTD	Birmingham	A	0
+School of Rock	London	A	0
 School Run Ltd	London	A	0
 Science Recruitment Group Ltd	Luton	A	0
 Scientific Age Research and Testing Lab Ltd	Ilford	A	0
@@ -10732,7 +10716,6 @@ SEAVIEW RESIDENTIAL HOME LIMITED	Sothsea	A	0
 Seaview Restaurant Ltd	Tenby	A	0
 SEC Recruitment Limited	London	A	0
 Secret World Wildlife Rescue	Highbridge	A	0
-SECURE FUTURE RESEARCH LTD	London	A	0
 Secure Risk Management Limited	Birmingham	A	0
 SECURITY RISK SPECIALISTS LTD	Clerkenwell	A	0
 See-Ability Ltd t/aThe Royal School For The Bllind	Leatherhead	A	0
@@ -10796,6 +10779,7 @@ Shanghai Me Restaurant Limited	London	A	0
 SHANGRI LA CHINESE RESTAURANT LTD	Nottinghamshire	A	0
 Shanshayan Rasaiah T/A Best one	Worthing	A	0
 Shanthi Ravikumar T/A Wigmore & Hempstead Newsagent	Gillingham	A	0
+Shapero Rare Books	London	A	0
 Shapla Restaurant (GB) Ltd T/A Shapla white	Letchworth Garden City	A	0
 SharedPads Renting LLP	London	A	0
 Shaun Muir Racing Limited	Guisborough	A	0,11
@@ -10908,7 +10892,6 @@ SK RECRUITMENTS (LONDON) LTD	London	A	0
 SK WINE AND FOOD LIMITED T/A REENA'S	West Drayton	A	0
 SKAL Restaurants LTD TA SKAL Nordic Dining	London	A	0
 SKC Rock Ltd	Liskeard	A	0
-SKH Restaurants Ltd	Helensburgh	A	0
 SKH Restaurants Ltd trading as Masala Twist	Helenburgh	A	0
 Skin Research Ltd	Surrey	A	0
 Skin Reviv Ltd	Birmingham	A	0
@@ -11079,7 +11062,6 @@ SS Ram Ltd T/A Muddy Puddles Nursery	Harrow	A	0
 SSA Retail Group Ltd.	Edinburgh	A	0
 SSN RETAILERS UK LTD	Stanley	A	0
 SSP Recruitment Solutions Limited	Stirling	A	0
-SSR London Enterprises Ltd t/a Raj of Kensington	London	A	0
 SSV Property Group Ltd T/A PROPERTY RESTORATION GURUS UK	Milton Keynes	A	0
 SSV Retail Limited	Lincoln	A	0
 St Abbs Marine Research Ltd	Eyemouth	A	0
@@ -11096,7 +11078,6 @@ ST GEORGE RETAIL LTD	Egham	A	0
 St Helens Rugby Club Ltd	St Helens	A	11
 St James House Residential Care	Darwen	A	0
 St Johns Retail Group T/A St Johns Superstore	Isleworth	A	0
-St Joseph's College Reading	Reading	A	0
 St Joseph's RC Primary School	Barking	A	0
 St Joseph's RC Primary School	Manchester	A	0
 St Joseph's Retreat (Highgate)	London	A	1,10
@@ -11361,6 +11342,7 @@ TECH SQUARE REPAIRS LTD	Leicester	A	0
 TECHCOM COMPUTER REPAIRS LIMITED T/A BROADWAY MOBILES & COMPUTERS	Surrey	A	0
 Techcrown Ltd T/A Hollywynd Rest Home	Worthing	A	0
 Technology Risk Limited	Guildford	A	0
+TECHNOLOGY STRATEGY ROLEPLAY	London	A	0
 Teck Resources (UK) Ltd	London	A	0,4
 Tectum Roofing and Maintenance Ltd	Birmingham	A	0
 Teen Ranch Scotland	Inchture	A	9
@@ -11482,7 +11464,6 @@ The Five Fields Restaurant Ltd	London	A	0
 The Fusion Restaurant & Takeout Ltd	Burntisland, Fife	A	0
 The Gables Bar and Restaurant	Dungannon	A	0
 The Gables Residential Home	Derby	A	0
-THE GANGES RESTAURANT	Tavistock	A	0
 The George Hotel(Reading )Ltd	Reading	A	0
 The Global Returns Project Limited	London	A	0
 The Governors of the Charity for the Relief of the Poor Widows and Children of Clergymen	London	A	0
@@ -11638,7 +11619,6 @@ The Real Good Dental Company T/A Lorne House Dental Practice	Fife	A	0
 The Real Good Dental Company T/A Moray Orthodontics	Elgin	A	0
 The Real Good Dental Company T/A The Cross Dental	Edinburgh	A	0
 The Real Good Dental T/A Park Road Dental Practice	Kirkcaldy	A	0
-The Real greek food company LTD	London	A	0
 The Real Italian Pizza Company Limited	Bath	A	0
 The Real Pizza Company (Copthorne) Ltd TA The Real Pizza Company	Crawley	A	0
 The Real Real Good Dental Company T/A Union Street Dental	Argyll	A	0
@@ -11912,6 +11892,7 @@ Tiger Recruitment Ltd	London	A	0
 TIGER ROCK CITY	Liverpool	A	0
 TIGER ROCK RENSHAW LTD	Liverpool	A	0
 Tim Ronalds Architects Ltd	London	A	0
+TIME CONTROL RECRUITMENT SERVICES LIMITED	Birmingham	A	0
 Time Rediscovered Ltd	Royal Tunbridge Wells	A	0
 Timeless Recruitment Ltd	Strood	A	0
 Tin Roof	Dundee	A	3
@@ -11945,7 +11926,6 @@ Top Talent Recruitment Limited	Southall	A	0
 Top Team Resources & Recruitment Ltd	Wolverhampton	A	0
 Topos Research UK	Oxford	A	0
 TOPRAK RS LTD	London	A	0
-TOPS PIZZA (RAYNERS LANE) LIMITED	Harrow	A	0
 Toro Risk Solutions - Global Limited	London	A	0
 Toros Restaurant LTD T/A Hatay Brasserie	Kingston	A	0
 Torry Retail Limited	Aberdeen	A	0
@@ -11964,8 +11944,7 @@ Towers Health and Racquets Club	Bedford	A	0
 TOWN SHOP RETAIL LTD	Ilford	A	0
 TOWNHEAD RETAIL LTD T/A Shop Smart	Glasgow	A	0
 Townville Recreation & Sports Club	Castleford	A	11
-Towyn Capel Residential Home	Trearddur Bay	A	0
-Toyota Racing GmbH UK Branch	Epsom	A	0,4
+Toyota Racing GmbH UK Branch	Epsom	A	0,4,11
 Track Demons Racing	Truro	A	11
 Track Record Global Ltd	London	A	0
 Trade Remedies Authority	Reading	A	0
@@ -11999,7 +11978,6 @@ TRNC LONDON REPRESENTATIVE OFFICE	London	A	0,4
 Troia (UK) Restaurants	London	A	0
 True Refrigeration UK Limited	Rotherham	A	0,4
 TRUELANCE RECRUITMENT LTD	Leeds	A	0
-Trusko Residential Ltd	Chelmsford	A	0
 TSA Homecare Ltd t/a Right at Home Hemel Hempstead	Hemel Hempstead	A	0
 TSA RETAIL LIMITED T/A Lucky Star News	Birmingham	A	0
 TSA Riley Limited	London	A	0,4
@@ -12148,6 +12126,7 @@ VEEZED RESIDENTIAL SALES & LETTINGS LIMITED	Northwood	A	0
 Veg Chennai Srilaitha Restaurant	London	A	0
 VEG CHENNAI SRILALITHA RESTAURANT	London	A	0
 Vel Mart Retail Limited	Tyne & Wear	A	0
+Vel Mart Retail Ltd	Washington	A	0
 VELVET LOUNGE LIMITED TA Velvet Lounge Indian Restaurant	Mirfield	A	0
 Venesky-Brown Recruitment Ltd.	Edinburgh	A	0
 VENN FARM RACING LTD	Sherborne	A	0
@@ -12164,7 +12143,6 @@ VG ONE RETAIL LTD	Coventry	A	0
 VIANA Ltd t/a GANGES RESTAURANT	Exeter	A	0
 Vibe Teacher Recruitment Limited	London	A	0
 VICARAGE RESIDENTIAL CARE HOME LTD	Kent	A	0
-VICEROY (BOLLINGTON) RESTAURANT LTD	Macclesfield	A	0
 VICTORIA ROAD FILLING STATION LTD	Tyne & Wear	A	0
 Victoria Road Practice Ltd	Exmouth	A	0
 Victoria Road Surgery	Lowestoft	A	0
@@ -12209,7 +12187,6 @@ Vitalise Retail Ltd. t/a Esso MFG Milady	Glasgow	A	0
 VK RETAIL LTD T/A Esso	Wiltshire	A	0
 VKF Renzel (UK) Limited	Bromsgrove	A	0
 VKS Retail Ltd	Edzell	A	0
-VMA Global Resourcing Group Limited	Aylesbury	A	0
 VMA Global Resourcing Group Limited	London	A	0
 VMart Retail Limited	Edinburgh	A	0
 VNS RETAIL LTD	Edgware	A	0
@@ -12350,6 +12327,7 @@ Wikborg Rein LLP	London	A	0,4
 Wild Acres Rest Home Limited	Wokingham	A	0
 Wild Recruitment Limited	London	A	0
 Will Rudd Davidson (Edinburgh) Ltd	Edinburgh	A	0
+Will Rudd Davidson (Glasgow) Limited	Glasgow	A	0
 William Cook Rail Limited	Sheffield	A	0
 William Knight Racing Ltd	Newmarket	A	0
 William Reed Ltd	Crawley	A	0

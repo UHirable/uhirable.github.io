@@ -13,6 +13,7 @@
 13 TRAVEL LTD	Binley	A	0
 15Below Ltd	Brighton	A	0
 15GIFTS LTD	Brighton	A	0
+16 SIGNS LTD	Birmingham	A	0
 17TAOUK TRADE LIMITED	Birmingham	A	0
 17th Century Health Food Limited	Birmingham	A	0
 19 BY K & R CATERING LTD T/A 19 BY KATHERINE CARR	Ballycastle	A	0
@@ -26,7 +27,6 @@
 2020 Innovation Training Limited	Birmingham	A	0
 214 Limited T/A Chai Naasto	Beckenham	A	0
 238JG Ltd	Britsol	A	0
-24/7 MY MART LIMITED	Brierly Hill,	A	0
 247 ALLIANCE LTD	Birmingham	A	0
 247 Commerce Ltd	Brentford	A	0
 29 Spices	Bournemouth	A	0
@@ -63,6 +63,7 @@
 4 Test Limited	Bexleyheath	A	0
 47 KITCHEN & CATERING LTD	Bury	A	0
 4C Research Group Limited	Bloxham, Banbury	A	0
+4EI Limited	Bristol	A	0
 4Ever Care UK Ltd	Blackburn	A	0
 4PS Construction Solutions Limited	Birmingham	A	0
 4SSG UK Limited	Birmingham	A	0
@@ -246,6 +247,7 @@ ABBEYFIELD NEIGHBOURHOOD STORE	Bedford	A	0
 Abbeyfield Strathgryffe Society Ltd	Bridge of Weir	A	0
 Abbott Lyon Ltd	Bath	A	0
 Abby Services Ltd	Boston	A	0
+ABC WORLDWIDE LTD	Belfast	A	0
 Abdullah & Sons Company Ltd	Birmingham	A	0
 ABDY LTD	Brentford	A	0
 ABEEHA'S FASHION & BEAUTY LTD	Bolton	A	0
@@ -255,6 +257,7 @@ ABEXON LTD	Bristol	A	0
 ABHINAV CONSTRUCTIONS LTD	Bedworth	A	0
 ABIB PLUMBING AND BUILDING MANAGEMENT LIMITED	Barking	A	0
 Abide Home Care Limited	Brixham	A	0
+ABIJAN LTD T/A Selekt Chicken	Bedfont	A	0
 Ablecross Care Services	Brentwood	A	0
 ABM Academy Limited	Blackpool	A	0
 Abney & Baker (Bath) Ltd	Bath	A	0
@@ -265,6 +268,7 @@ ABQ Hospitality & Property Management UK Ltd	Bournemouth	A	0
 Abraham Accountants LTD	Bradford	A	0
 Abraham Baron Solicitors Limited	Birmingham	A	0
 Abrashem Limited	Birmingham	A	0
+Abrigo Homes	Brierfield	A	0
 Abril Industrial Waxes	Bridgend	A	0
 ABS FURNITURE LIMITED TA ABS Headboard Link	Birmingham	A	0
 ABS TAUNTON LTD trading as India Gate	Bridgwater	A	0
@@ -357,6 +361,7 @@ Adeel Ahmed trading as Sky Energy	Blackburn	A	0
 Adel Express LTD	Bath	A	0
 Adelaide Family Practice	Blackpool	A	0
 Adelaide Nursing Home Ltd	Brighton	A	0
+Adem's Hair & Beauty Ltd	Belgravia	A	0
 Ademco 1 Limited	Berks	A	0,4
 Aden Engineering & Consultancy Ltd	Birmingham	A	0
 Adept Care Homes Ltd	Burbage	A	0
@@ -377,7 +382,6 @@ Admiral Care Solutions	Bury	A	0
 ADNAN COLLECTION LTD	Birmingham	A	0
 Adonai Care Services Ltd	Bournemouth	A	0
 Adore Church	Birmingham	A	1,10
-ADORE DESIGNS YORKSHIRE LIMITED	Batley	A	0
 Adoreboard Limited	Belfast	A	0
 ADS COMPONENTS LIMITED	Barking	A	0
 adthera bio Ltd	Birmingham	A	0
@@ -548,7 +552,6 @@ AKV Services Ltd	Boston	A	0
 AKZ HAULAGE LTD	Birmingham	A	0
 AL AMIN DISTRIBUTORS LTD	Birmingham	A	0
 AL AMIN PROPERTY GROUP LTD	Birmingham	A	0
-AL AQSA TRAVEL & TOUR LTD	Birmingham	A	0
 AL BADER LOUNGE LTD T/A AL BADER LOUNGE	Birmingham	A	0
 Al Balagh Academy	Bradford	A	0
 AL BARKA FOODS LIMITED Trading as Caprinos Pizza Banbury	Banbury	A	0
@@ -810,7 +813,6 @@ AMNA PROPERTIES LTD	Blackburn	A	0
 AMORA BLINDS LIMITED	Bradford	A	0
 AMOT UK Holdings Limited	Bury St Edmunds	A	0,4
 AMPA Holdings LLP	Birmingham	A	0
-Amphora Technologies Limited	Belfast	A	0
 Ample Foods Ltd	Birmingham	A	0
 Ample Harvest 555 Group Ltd t/as The Real Pizza Company(Sutton Coldfield)	Birmingham	A	0
 Amplicon Liveline Ltd	Brighton	A	0
@@ -926,7 +928,6 @@ Apex Care Homes Limited	Bedford	A	0
 Apex Fintech Solutions UK Ltd	Belfast	A	0
 Apex Furniture Ltd	Batley	A	0
 Apex I.C.T UK Ltd	Batley	A	0
-Apex Innovations London Limited	Brentford	A	0
 APEX JEWELLERS LTD T/A ASPIRE, DIAMOND HEAVEN AND DIAMOND QUARTER	Birmingham	A	0
 Apex Lift and Escalator Engineers Limited	Bexleyheath	A	0
 APEX LITIGATION FINANCE LIMITED	Bourne	A	0
@@ -1028,7 +1029,6 @@ Ark Mission Church Bradford (Revival Centre)	Bradford	A	1,10
 Ark Nursing and Care Agency	Bideford	A	0
 Ark Sweets Ltd	Bradford	A	0
 ARKADE FOOD LTD	Bristol	A	0
-Arkdeal Ltd T/A Kaspa's Desserts	Bracknell	A	0
 Arke Agency Ltd	Brighton	A	0
 ARKWRIGHT INSURANCE BROKERS LIMITED	Bolton	A	0
 ARKWRIGHT LONDON LTD	Brentford	A	0
@@ -1137,6 +1137,7 @@ ASK Properties Bristol Ltd	Bristol	A	0
 ASK Solutions London Limited	Brentford	A	0
 Askerton Castle Organic Estate	Brampton	A	0
 ASKN LTD	Birmingham	A	0
+ASKO FOODS LTD	Barking	A	0
 ASLAMS FLOORING LTD	Blackburn	A	0
 ASMA & CO LTD	Birkenhead	A	0
 Asma Kebab Limited	Bristol	A	0
@@ -1176,6 +1177,7 @@ Assurity Systems Ltd	Bath	A	0
 Assystem Energy & Infrastructure Limited	Bolton	A	0,4
 Astbury Hall Operations Limited	Bridgnorth	A	0
 Astemo UK Ltd	Bolton	A	0,4
+Astemo UK, Ltd.	Bolton	A	0,4
 ASTIR HUB LTD	Batley	A	0
 ASTK LTD	Bristol	A	0
 Astley Bridge Cricket Club	Bolton	A	11
@@ -1199,6 +1201,7 @@ AT Dent Limited	Boston	A	0
 At Your Side Care Ltd t/a GoodOaks Homecare - Bedford	Bedford	A	0
 Atex Media Limited	Bristol	A	0
 Athans International	Brentwood	A	0
+Athena Care (Ormskirk) Limited	Boston	A	0
 Athla Capital Management Ltd	Bath	A	0
 ATIF SWEETS LTD	Birmingham,	A	0
 Atkins Walters and Webster Limited	Bristol	A	0
@@ -1211,6 +1214,7 @@ Atlantic Travel (GB) Limited	Bolton	A	0
 Atlantis Medicare (Bridgeness) Limited	Bo'ness	A	0
 Atlas Converting Equipment Limited	Bedford	A	4
 Atlas Cranes UK Limited	Bradford	A	0
+Atlas Geoquest UK Ltd	Borehamwood	P	2
 ATLAS GLAZING LTD	Birmingham	A	0
 Atlas Services Group Energy Ltd	Bristol	A	0,4
 ATM Family Ltd	Barnsley	A	0
@@ -1226,11 +1230,13 @@ Attain Health Management Services Ltd	Buckinghamshire	A	0
 Attend IT Limited	Brentford	A	0
 Attentive Housing Ltd	Birmingham	A	0
 Attock Community Sports and Cricket Club	Birmingham	A	11
+Attraction World Limited	Birmingham	A	0
 Auchrannie Leisure Limited	Brodick	A	0
 Auckland Medical Group	Bishop Auckland	A	0
 Auckland Youth and Community Centre Ltd	Bishop Auckland	A	0
 Aucklands Care	Bournemouth	A	0
 Auctionz LTD	Bradford	A	0
+Audi Motorsport Technology Centre UK Limited	Bicester	A	0
 Audinate Ltd	Bedford	A	0
 Audio Inventions Ltd	Brighton	A	0
 Audley Chippy Ltd	Blackburn	A	0
@@ -1361,6 +1367,7 @@ B S AND SONS LTD	Bruwell	A	0
 B SAHDRA BUILDING SERVICES LIMITED	Belvedere	A	0
 B Z Express LTD	Barking	A	0
 B&GT Limited	Bristol	A	0
+B&H CALL LIMITED	Bristol	A	0
 B&K Restaurants Limited	Birmingham	A	0
 B&M Exotic Fruits & Veg LTD	Birmingham	A	0
 B&N TRADING LIMITED	Brighton	A	0
@@ -1380,7 +1387,6 @@ BAAN THAI(ANTRIM) LIMITED	Belfast	A	0
 Baan Thitiya (Bishop) Ltd T/A Baan Thitiya	Bishop's Stordford	A	0
 BAAZVEER CONSTRUCTION LTD	Bexleyheath	A	0
 BABA (BRISTOL) LIMITED	Bristol	A	0
-Baba Raiya Ltd T/a Taste of Belgium	Belfast	A	0
 BABA TASTY FOODS LTD T/A TASTY CHICKEN PERI PERI	Bedford	A	0
 Babama Enterprise Limited T/A Subway	Brackley	A	0
 BABBER JEWELLERS LIMITED	Birmingham	A	0
@@ -1443,6 +1449,7 @@ Balti Catering Ltd	Bristol	A	0
 BALTI SPICE (BIRMINGHAM) LTD T/a Balti Spice	Birmingham	A	0
 Baltimore Consulting Limited	Bristol	A	0
 Bam NI LTD.	Belfast	A	0
+Bambi Air Limited	Birmingham	A	0
 Bamboo Rose Ltd	Belfast	A	0,4
 Bamford Bus Company Limited Trading as Wrightbus	Ballymena	A	0
 Bampton Healthcare Ltd	Bampton	A	0
@@ -1541,7 +1548,6 @@ Barwell and Hollycroft Medical Centre	Barwell	A	0
 BAS (School) Ltd	Battle	A	0,5
 Bascom Ltd	Bristol	A	0
 BaseKit Platform Ltd.	Bristol	A	0
-Bash Grill Kingsbury Road Ltd	Birmingham	A	0
 BASHIR AA & SONS LTD	Bristol	A	0
 Basil Corner Limited T/A Chicago Pizza	Birmingham	A	0
 Basildon Borough Council	Basildon	A	0
@@ -1563,7 +1569,6 @@ BATH AND BEDDING LIMITED	Bolton	A	0
 Bath and North East Somerset Council	Bath	A	0
 Bath And North East Somerset Third Sector Group CIO	Bath	A	0
 Bath and West Finance Ltd	Bristol	A	0
-Bath Best Food Ltd	Bath	A	0
 Bath College	Bath	A	0
 Bath Cricket Club	Bath	A	11
 Bath Investment and Building Society	Bath	A	0
@@ -1602,6 +1607,7 @@ BCH Care Limited	Bristol	A	0
 BCK (BIRMINGHAM) LTD	Birmingham	A	0
 BCW Repair Centre Ltd	Brackley	A	0
 BDA PIZZA LYD	Boston	A	0
+BDM Care	Blairgowrie	A	0
 Be Creative Design LTD	Barrow-in-Furness	A	0
 BE ON TV UK LIMITED	Birmingham	A	0
 BE SMART INTERNATIONAL LTD	Bradford	A	0
@@ -1696,6 +1702,7 @@ Belfast International Airport Limited	Belfast	A	0
 Belfast International Watersports Limited	Belfast	A	0
 Belfast Islamic Centre	Belfast	A	1
 Belfast Lodgings Ltd Trading as Botanic Rest	Belfast	A	0
+Belfast Pilates & Physiotherapy LTD	Belfast	A	0
 Belfast School of Theology	Belfast	A	0,1,9,10
 Belfast Skin Clinic	Belfast	A	0
 Belfast Waterfront & Ulster Hall Ltd	Belfast	A	0
@@ -1762,6 +1769,7 @@ BESPOKE EVENTS SPECIALISTS LIMITED	Bolton	A	0
 BESPOKE JOINERY MANUFACTURES LTD	Bradford	A	0
 Bespoke Support Solutions Ltd	Barnsley	A	0
 Best at home adult care private limited	Broadheath,Altrincham	A	0
+BEST BARGAIN SEWING SUPPLIES LTD	Bolton	A	0
 Best Choice Accountancy Ltd	Bromley	A	0
 Best Choice Homes Ltd	Burnley	A	0
 Best Experience Limited	Bath	A	0
@@ -2033,7 +2041,7 @@ Blessings Daycare and Nursery LTD	Bradford	A	0
 BLEUBOLT LIMITED	Blackburn	A	0
 Blinds 4 Decor Ltd	Bradford	A	0
 Blissful Care Limited	Bournemouth	A	0
-BLISSHEALTH CONCEPTS LTD	Bedford	A	0
+BLISSHEALTH CARE LTD	Bedford	A	0
 Blitz Bolton	Bolton	A	0
 Blitz Gooday Ltd	Buckhurst Hill	A	0
 Bloomfield Medical Centre	Blackpool	A	0
@@ -2111,8 +2119,6 @@ BOGNOR REGIS DENTAL LTD	Bognor Regis	A	0
 Bognor Regis Golf Club	Bognor Regis	A	0
 Bognor Regis Specsavers Hearcare Limited	Bognor Regis	A	0
 Bognor Regis Visionplus Limited T/A Specsavers Opticians	Bognor Regis	A	0
-BOING INTERNATIONAL TEA LIMITED	Birmingham	A	0
-Boing International Trading Limited	Birmingham	A	0
 Boldon Picture Framing Limited	Boldon	A	0
 Boleros Pizzeria Limited	Berkshire	A	0
 Bolters Corner Nursing Home	Banstead	A	0
@@ -2243,6 +2249,7 @@ BRAIN BRIDGE TECHNOLOGY LIMITED	Brentwood	A	0
 Brainch Brothers	Birmingham	A	0
 Braintree Dental Studio	Braintree	A	0
 Braintree District Council	Braintree	A	0
+Braintree PCN Limited	Braintree	A	0
 Braintree Specsavers Limited T/A Specsavers Opticians	Braintree	A	0
 Bramble Cottage Retirement Home	Brighton	A	0
 Brampton Medical Practice	Brampton	A	0
@@ -2461,6 +2468,7 @@ BROW ART AND BEAUTY LTD	Bradford	A	0
 Brown & Carroll(london) Ltd	Basildon	A	0
 Brown Street Grocers Ltd	Bathgate	A	0
 BROWNHILL CORPORATE HIRE LTD	Blackburn	A	0
+Brownhill Surgery	Blackburn	A	0
 Browntree Properties Ltd	Bedford	A	0
 Brows & Beauty by Sayna	Bolton	A	0
 Broxbourne Food & Wine Ltd	Broxbourne, Hertfordshire	A	0
@@ -2522,6 +2530,7 @@ Bullring Bakers Ltd	Birmingham	A	0
 Bulrush Fine Dining Limited	Bristol	A	0
 BULRUSH HORTICULTURE LIMITED	Bellaghy	A	0
 Bumble Hole Foods Ltd	Bromsgrove	A	0
+BUNBOO LTD	Bicester	A	0
 Buntingford Healthcare Limited T/A Buntingford Pharmacy	Buntingford	A	0
 BUON APPETITO LIMITED	Barking	A	0
 BUOYANCY AEROSPACE V1 LIMITED	Barnoldswick	A	0
@@ -2625,7 +2634,6 @@ CAF Rail UK Limited	Belfast	A	0,4
 CAFE COFFEA LTD	Birmingham	A	0
 CAFE GAZETTE LIMITED	Birmingham	A	0
 Cafe Mauds LTD	Belfast	A	0
-Cafe Sia Limited	Broadford	A	0
 Cafe13 Ltd	Bathgate	A	0
 Caiman Software Development Limited	Banchory	A	0
 CAINIAO (UK) LIMITED	Birmingham	A	0
@@ -2714,7 +2722,7 @@ Care First 24 Ltd	Brasted	A	0
 Care First Class (UK) Ltd	Birmingham	A	0
 Care First Services Limited	Birmingham	A	0
 Care for Independence Ltd	Burnham	A	0
-Care Force Limited	Bromsgrove	A	0
+Care Force Limited	Bromsgrove	B	0
 Care Mode Ltd	Bexhill on Sea	A	0
 CARE NAVIGATION LTD	Bristol	A	0
 Care Opportunities	Basingstoke	A	0
@@ -2754,6 +2762,7 @@ Caring Professional Solutions Limited	Bagshot	A	0
 Caring Souls Ltd t/a Fuchsia Homecare BSE	Bury St Edmunds	A	0
 Caring Spirit Group Ltd	Bathgate	A	0
 Carinos Pizza and Grill Limited	Birmingham	A	0
+CARISS LOGISTICS LIMITED	Bristol	A	0
 Carlisle Fluid Technologies UK Lttd	Bournemouth	A	0
 CARLTON LUXURY BEDS LIMITED	Batley	A	0
 Caronne Care	Basildon	A	0
@@ -2919,7 +2928,6 @@ chempar limited	Belfast	A	0
 Chenab Foods ltd	Bolton	A	0
 Chennai Express Limited	Basingstoke	A	0
 CHEQUERS HEALTH GROUP LTD	Bolton	A	0
-Cherish Able Care Ltd	Bristol	A	0
 Cherish Support Services Ltd	Bolton	A	0
 Cherish UK Limited	Blackpool	A	0
 CHERISH VAPOR LTD	Birmingham	A	0
@@ -2958,7 +2966,6 @@ Chinite Resourcing Limited (trading as Chinite Home Care)	Braintree	A	0
 Chiron Healthcare At Home Limited	Buntingford	A	0
 Chit Chaat Limited	Barnet	A	0
 CHLOE'S BOOZE LIMITED	Bristol	A	0
-Chocoberry (Bolton) Ltd T/A Chocoberry	Bolton	A	0
 CHOCOLATE DELIGHT LIMITED	Bournemouth	A	0
 Choice Health Care Limited	Birmingham	A	0
 CHOICE HOLDINGS LIMITED	Bracknell	A	0
@@ -2980,6 +2987,7 @@ Choudhary Ltd T/A Subhan Halal Meat Centre	Birmingham	A	0
 Choudhury Company Limited, T/A The Bengal Raj	Bristol	A	0
 CHRIS MICHAEL SHELTERS LIMITED	Barking	A	0
 CHRIST APOSTOLIC CHURCH (VINEYARD OF COMFORT) EAST LONDON ASSEMBLY	Bow, London	A	1
+CHRIST APOSTOLIC CHURCH DOMINION OUTREACH	Bolton	A	1,10
 Christ Apostolic Church Word of His Grace	Bedfordshire	A	1,9,10
 Christ Church Barnet	Barnet	A	1
 Christ Church Birmingham	Birmingham	A	1,9,10
@@ -3042,7 +3050,8 @@ CITY POINT CONVENIENCE STORE LTD	Biggleswade	A	0
 City Quays Hotel Limited	Belfast	A	0
 City Road Medical Centre	Birmingham	A	0
 City Vets Ltd	Belfast	A	0
-CityCoast Church (CityCoast Trust)	Brighton	A	1
+CityAthlete Gym Ltd	Birmingham	A	0
+CityCoast Church (CityCoast Trust)	Brighton	A	1,10
 Citygate Church	Bournemouth	A	0
 CITYLIFE RECRUITMENT LTD	Birmingham	A	0
 Civic Marketing Limited	Bury	A	0
@@ -3072,7 +3081,6 @@ Clarkson Controls Limited	Belbroughton	A	0
 Classic Persian Restaurant (Bradford) Ltd	Bradford	A	0
 Claud Investments Ltd	Bromley	A	0
 CLEAN WORLD BIRMINGHAM LTD	Birmingham	A	0
-Cleaning Fairies Bristol Ltd	Bristol	A	0
 Clear Pathway Care Ltd	Bournemouth	A	0
 CLEARABEE LIMITED	Birmingham	A	0
 Cleartax Solutions Ltd.	Birmingham	A	0
@@ -3130,7 +3138,6 @@ CNI NEWS NETWORK LTD	Birmingham	A	0,3
 CNU BARBERS LTD	Barking	A	0
 Co-operation Ireland	Belfast	A	0
 Coastal Accessories Ltd	Bournemouth	A	0
-Coastlands	Barry	A	9
 Coastline Vineyard Church	Bournemouth	A	1,9
 Cobalt Energy Limited	Buxton	A	0
 Cobble Lane Cured Ltd	Bicester	A	0
@@ -3158,7 +3165,6 @@ Coity Road Stores T/As Premier	Bridgend	A	0
 Colas Limited	Birmingham	A	0,4,7
 Coleman & Company Ltd	Birmingham	A	0
 Coleridge (U.K) Ltd	Birmingham	A	0
-Colian UK Limited	Bristol	A	0
 Collaborative Health Care Ltd	Burnham	A	0
 College of Dentistry Limited	Birmingham	A	0
 College Road Dental Practice	Birmingham	A	0
@@ -3357,7 +3363,7 @@ Crawfordsburn Scout Centre	Bangor	A	9
 Crayside Consulting Ltd	Basingstoke	A	0,4
 CRD Restaurant Ltd	Bognor Regis	A	0
 CREAMLOVERS LTD	Bristol	A	0
-CreateSHIFT Ltd	Brighton	A	0
+CreateShift Ltd	Brighton	A	0
 Creative Asian Ltd T/A Sumo Pan Asian	Beverley	A	0
 Creative Foods Europe Limited	Burton-on-Trent	A	0,4,7
 CREATIVE IDEAZ (UK) LTD	Birmingham	A	0
@@ -3401,7 +3407,6 @@ Crowder & Co Ltd	Birkenhead	A	0
 Crown Cars Solihull Ltd	Birmingham	A	0
 Crown Cash & Carry Ltd	Barking	A	0
 CROWN COMFORTS LTD	Bradford	A	0
-Crown Foods (Bradford) LTD	Bradford	A	0
 Crown Gas & Power Limited	Bury	A	0
 Crown Heights Medical Centre	Basingstoke	A	0
 Crown Hotel Blockley Limited	Brackley	A	0
@@ -3509,6 +3514,7 @@ Daisy Media Ltd	Bristol	A	0
 Daisy's Nail Company Ltd	Brighton	A	0
 Daisybank Day Nursery Ltd	Bramhall	A	0
 Daktronics UK Limited	Bristol	A	0
+Dale Farm Cooperative Limited	Belfast	A	0
 Dale Topco Limited	Burton on TRent	A	0
 Dale Topco Limited	Burton-On-Trent	A	0
 Dalen Limited	Birmingham	A	0
@@ -3662,7 +3668,6 @@ Desai Care Homes	Bristol	A	0
 Descare Ltd	Bristol	A	0
 DESERT HARBOUR UK LTD	Birmingham	A	0
 DESI DERA RESTAURANT LIMITED	Birmingham	A	0
-Desi Spice	Bradford	A	0
 Designability Charity Limited	Bath	A	0
 Designers at Zoya's	Birmingham	A	0
 DESIGNLOGIC LIMITED	Basingstoke	A	0
@@ -3670,7 +3675,6 @@ DESIRE BEDS & UPHOLSTERY LTD	Bradford	A	0
 DESIRE DECO LTD	Bradford	A	0
 Desire Fashion	Bolton	A	0
 Desired Care 4 U limited	Birmingham	A	0
-Desirefirm Consulting Group Limited	Barking	A	0
 Desiretech Ltd	Brentford	A	0
 Desirol Limited	Bedford	A	0
 Desmond Kelly t/a Des Kelly Farm	Ballygawley	A	0
@@ -3917,7 +3921,6 @@ Duke Street Surgery	Barrow in Furness	A	0
 Dukeberry Limited	Bromborough	A	0
 Dulogix Ltd	Bardon	A	0
 Dumpling Library	Belfast	A	0
-Dunbai International Ltd	Bicester	A	0
 Duncairn Medical Practice	Belfast	A	0
 DUNKLEY & CO LIMITED	Bristol South Glos	A	0
 Dunlady House Ltd	Belfast	A	0
@@ -3929,12 +3932,11 @@ Dunsland House Limited	Berkhamsted	A	0
 DUNSTABLE ROAD BAKES LIMITED T/A CAKES & BAKES LUTON	Bedfordshire	A	0
 Dunstall Cricket Club	Burton-upon-Trent	A	11
 Dunville Health Centre	Belfast	A	0
-DURA Automotive Body & Glass Systems UK Ltd	Birmingham	A	0
 DURA BEDS LTD	Batley	A	0
 DURABLE BUILDERS LTD	Bradford	A	0
 Durani Foods Ltd	Burnley	A	0
 Durban Curry Club	Brighton	A	0
-Duress UK Limited	Beaconsfield	A	2
+Duress UK Limited	Beaconsfield	A	0,2
 Durham Dales Health Federation	Bishop Auckland	A	0
 DURRANI BROTHERS LTD	Bradford	A	0
 DURRANT HOTEL LIMITED	Bideford	A	0
@@ -4179,7 +4181,6 @@ ELEMENTZ LIMITED	Bridge of Don	A	0,4
 Elenor Consulting Limited	Bristol	A	0
 Elephant Crew Limited	Blaydon-on-Tyne	A	0
 Elevate Property Group Limited	Birmingham	A	0
-Elevatebuild Construction Services Ltd	Basingstoke	A	0
 Eli Lilly and Company Limited	Basingstoke	A	0,4
 Eliassen Group (NI)	Belfast	A	0,4
 Elimpus Limited	Bellshill	A	0
@@ -4228,7 +4229,6 @@ Emerald Technology Recruitment Limited	Birmingham	A	0
 EMERALD UPHOLSTERY LIMITED	Blackburn	A	0
 EMJ QUALITY HOMECARE (DORSET) LTD	Bournemouth	A	0
 Emma Sleep UK Limited	Borwick	A	0,4
-emotii LTD	Basildon	A	0
 Empathica UK Limited	Bristol	A	4
 Empire (Birmingham) Ltd	Birmingham	A	0
 Empire Engineering Limited	Bristol	A	0
@@ -4249,7 +4249,6 @@ Endo (UK) Consultancy Ltd	Brighouse	A	0
 Endo (UK) Ltd	Brighouse	A	0
 Endoline Machinery Ltd	Biggleswade	A	0
 ENDURA ROSES (BR2) LTD	Birmingham	A	0
-Energex Eco Limited	Barnsley	A	0
 Energia Group Holdings Limited	Belfast	A	0
 Energise Sussex Coast	Bexhill	A	0
 Energizer Group Limited	Bucks	A	0,4
@@ -4312,6 +4311,7 @@ Eriden Ltd	Bracknell	A	0
 ERIEZ MAGNETICS EUROPE LIMITED	Bedwas	A	0
 ERITHROAD OFF LICENCE LTD	Bexleyheath	A	0
 Erleigh & Co Ltd	Bishop's Stortford	A	0
+EROGLU FOOD GROUP LTD	Blackpool	A	0
 ERSG Limited	Bromley	A	0
 Erudite Technologies Limited	Bletchley	A	0
 Ervine Plant Ltd	Banbridge	A	0
@@ -4389,6 +4389,7 @@ EV Sea Foods LTD	Bedfordshire	A	0
 Evangelical Church Winning All (ECWA) Chapel of Investment	Birmingham	A	1,9
 Eve & Adam Consultancy Ltd	Basingstoke	A	0
 Eve Johnson Houghton	Blewbury	A	0
+Eve Johnson Houghton Racing Limited	Blewbury	A	0
 Eventa Ltd	Birmingham	A	0
 EventMAP LTD	Belfast	A	0
 Evenwood Cricket Club	Bishop Auckland	A	11
@@ -4421,8 +4422,9 @@ Exaltare Investment Group Limited	Blackpool	A	0
 Exceed Academies Trust	Bradford	A	0
 EXCEL APARTMENTS CORPORATE LTD	Bromley	A	0
 Excel Pumps And Motors Ltd	Berkshire	A	0
+Excelcare Holdings	Bromley	A	0
 Excell Care Services Limited	Bedford	A	0
-EXCELLENCE CARE LTD	Basildon	B	0
+EXCELLENCE CARE LTD	Basildon	A	0
 Excellence Healthcare	Birmingham	A	0
 Excellence In Care Ltd	Berkeley	A	0
 Exclusive Trips Limited	Barking	A	0
@@ -4467,7 +4469,6 @@ F Redfern and Sons Ltd	Buxton	A	0
 F&H Enterprise (Colmore) Limited	Birmingham	A	0
 F&S COMMUNICATION LTD	Bradford	A	0
 F.Morelli Ltd	Bedfordshire	A	0
-F37 Foundry Ltd	Bolton	A	0
 F8 Networks Limited	Bedford	A	0
 Fab Signs	Bradford	A	0
 FAB SNACKS LTD t/a Auntie Anne's	Brighton	A	0
@@ -4497,7 +4498,6 @@ Fairmont Residential Limited	Bishops Stortford	A	0
 Fairview Beaconhurst Ltd	Bridge of Allan	A	4
 Fairway Wholesale Ltd	Bradford	A	0
 Fairyland (UK) Ltd	Brighton	A	0
-FAISAL CURRY HOUSE & PIZZA BAR LIMITED	Barnsley	A	0
 Faith & Hope healthcare	Birmingham	A	0
 Faith House Eventide Home	Belfast	A	0
 FAITH IN COMMUNITIES CIC	Bradford	A	0
@@ -4606,7 +4606,6 @@ Fido Tech	Bicester	A	0
 FIEGE LOGISTICS DIRFT LIMITED	Birmingham	A	0,4
 Field and Lawn Ltd	Broxburn	A	0
 FIELD EQUINE VETS LIMITED	Blakedown, Nr Kidderminster	A	0
-Fieldbay Management Limited	Bristol	A	0
 Fierce (Festival) Ltd	Birmingham	A	0,3
 FIFE HARDWARE LTD T/A Totally Hardware	Burntisland	A	0
 Fife Lodge Hotel	Banff	A	0
@@ -4616,6 +4615,7 @@ FILCARE LTD	Braintree	B	0
 Fillets Fish and Chips Limited	Brighton	A	0
 Finaghy South Ltd	Belfast	A	0
 Finan Formworks Ltd	Bristol	A	0
+Finance and Business Academy Limited	Birmingham	A	0
 FINANCIAL ACCOUNTING (UK) LIMITED	Bolton	A	0
 Financial Management (U.K.) Ltd T/a Commercial Direct	Beckenham	A	0
 Financials Direct Limited	Birmingham	A	0
@@ -4872,6 +4872,7 @@ Full Circle Generation Ltd	Belfast	A	0
 Full Fat Commerce Ltd	Birmingham	A	0
 Fullness Of Christ For All Nations	Birmingham	A	9
 Funds-Axis Limited	Belfast	A	0
+FUNTAZIA SOFT PLAY LTD	Blackburn	A	0
 Furleigh Estate (Winery) Ltd	Bridport	A	0
 Furness Controls Ltd	Bexhill On Sea	A	0
 FURNESS CRICKET CLUB	Barrow-in-Furness	A	11
@@ -4891,6 +4892,7 @@ Future Garments Limited	Birmingham	A	0
 Future Glazing Ltd	Bradford	A	0
 Future Health and Social Care Association CIC	Birmingham	A	0
 Future Leap ES	Bristol	A	0
+Future Leap Holdings Ltd.	Bristol	A	0
 Future Stack Limited	Birmingham	A	0
 FUTURE TECH INFO LIMITED	Barnet	A	0
 Futurescool Ltd	Bedford	A	0
@@ -4940,6 +4942,7 @@ Gai-Tronics UK	Burton on Trent	A	0
 Gainsborough Hotel (Bath) Ltd	Bath	A	0,4
 Galaxy 91 Ltd	Bourne	A	0
 Galaxy Foods (PVT) Ltd	Bournemouth	A	0
+GALAXY MANAGEMENT SOLUTIONS LIMITED	Birmingham	A	0
 GALAXY SHOPFITTER LTD	Barking	A	0
 GALAXY SKILLS AND TRAINING LTD	Bromley	A	0
 Galgorm Manor Hotel Limited	Ballymena	A	0
@@ -5391,7 +5394,7 @@ GUJJAR LOGISTICS SERVICE LTD	Birmingham	A	0
 GULF PLASTICS LIMITED	Bolton	A	0
 GULKARI STYLES LTD	Birmingham	A	0
 Gultek Limited	Barking	A	0
-GULZAR HALAL POULTRY LTD	Birmingham	A	0
+GUN-SU GROUP LTD	Birmingham	A	0
 Gunner& Co Ltd	Bristol	A	0
 GUP SHUP LTD	Birmingham	A	0
 Gurdwara Amrit Parchar Dharmik Diwan (UK) Bradford	Bradford	A	1,10
@@ -5420,7 +5423,6 @@ H & U Cake Limited	Bradford	A	0
 H & Y (B'HAM) LIMITED	Birmingham	A	0
 H &E Marketing LTD	Bean	A	0
 H AND M ENTERPRISE LIMITED	Bolton	A	0
-H S Health Group Limited	Boston	A	0
 H S SHOPFRONTS AND SHUTTERS LTD	Bradford	A	0
 H&C Whitehead Ltd	Brighouse West Yorkshire	A	0
 H&E Engineering Limited	Bridgwater	A	0,4,7
@@ -5509,6 +5511,7 @@ Hang Sing Hong Birmingham Ltd	Birmingham	A	0
 HANGAR 13 UK LIMITED	Brighton	A	0,4
 Hanging Heaton Cricket Club	Batley	A	11
 Hank Trading Ltd	Barnet	A	0
+HANK ZARIHS ASSOCIATES LIMITED	Broxbourne	A	0
 Hanland Capital Limited	Birmingham	A	0
 Hannah Sweet House & Spice Grocery Food Store	Blackburn	A	0
 HANOTO TECHNOLOGY LTD	Barcombe	A	0
@@ -5726,7 +5729,6 @@ HI-TECH RESOURCING LIMITED	Bridport	A	0
 Hiatt Hardware (UK) Ltd	Birmingham	A	0
 HIBBAH'S ACCOUNTANCY SERVICES LTD	Birmingham	A	0
 Hickam Healthcare Ltd	Birmingham	A	0
-Hicom Technology Limited	Brookwood, woking	A	0
 HiETA Technologies Limited	Bristol	A	0
 HiFX Europe Limited	Bracknell	A	0,4
 HIGH GARRETT PROPERTIES LIMITED	Braintree	A	0
@@ -5740,6 +5742,7 @@ HIGHER TRANMERE EXPRESS	Birkenhead	A	0
 Highercroft News Limited	Blackburn	A	0
 Highfield Clinic Ltd	Birmingham	A	0
 Highgate Care Services (2025) LTD	Bridlington	A	0
+HIGHGATE CARE SERVICES (NORTH) LTD	Bridlington	A	0
 HIGHGATE CARE SERVICES LTD	Bridlington	A	0
 HIGHGATE MARKET LTD	Birmingham	A	0
 Highgate Poultry Products Ltd	Birmingham	A	0
@@ -5857,6 +5860,7 @@ HONDA MOTOR EUROPE LTD	Bracknell	A	0,4,11
 Honddu Veterinary Practice	Brecon	A	0
 HONEYBEE DISTRIBUTION LIMITED	Birmingham	A	0
 HONEYPOT AFRICAN FOODS LTD	Bromley	A	0
+Honeywell Aerospace UK Co Limited	Berkshire	A	0,4
 Honeywell Limited	Bracknell	A	0,4
 HOP PADEL LTD	Belfast	A	0
 Hope and May	Buntingford	A	0
@@ -5912,6 +5916,7 @@ HRB Hotel Company Ltd T/A Hyatt Regency Birmingham	Birmingham	A	0
 HRM INTERNATIONAL LIMITED T/A SPECSCART	Bury	A	0
 HS CARS (YORKSHIRE) LTD	Bradford	A	0
 HS DESIGN LONDON LTD	Brighton	A	0
+HS Health Group Limited	Boston	A	0
 HSA Bolton Ltd	Bolton	A	0
 HSA BUILDINGS LTD	Bilston	A	0
 HSS Homes Ltd	Bradford	A	0
@@ -5981,7 +5986,6 @@ I LOVE FOOD	Berkhamsted	A	0
 I Motor Cars Limited t/a Nigel Langs Garage	Bolton	A	0
 I Tech Accessories LTD	Bishop Stortford	A	0
 I&I ENTERPRISES LTD	Birmingham	A	0
-I&S GLOBAL LTD	Birmingham	A	0
 i-Flow Autotec Ltd	Birmingham	A	0
 I-Link Solutions UK Limited	Bolton	A	0
 I.A AUTO REPAIRS LTD	Bradford	A	0
@@ -6169,6 +6173,7 @@ Innate Telecoms Ltd	Basingstoke	A	0
 INNDEX LIMITED	Beaumaris	A	0
 INNO-BI SERVICES LTD	Buckinghamshire	A	0
 INNOTECH DIGITAL & DISPLAY LTD	Bardon,	A	0
+innov8 Workshops	Bury St Edmunds	A	0
 Innova Care Limited	Braintree	A	0
 INNOVATION 13 LIMITED	Birmingham	A	0
 INNOVATION CONSULTING AND SOLUTIONS LTD	Birmingham	A	0
@@ -6309,6 +6314,7 @@ ISUBC DIVING EQUIPMENT LTD	Blackpool	A	0
 ISUPERIOR CONSULTING LTD T/A Mooboo Bubble Tea	Bristol	A	0
 IT ACCESS LTD	Bolton	A	0
 IT Autos Ltd	Birmingham	A	0
+IT Blackbelt Ltd	Bradford	A	0
 IT CATERS LIMITED	Bath	A	0
 IT Europa Media & Intelligence Limited	Bucks	A	0
 IT Helpdesk Burton Ltd	Burton on trent	A	0
@@ -6335,7 +6341,6 @@ IVF Laboratory Solutions	Bromley	A	0
 IVF London Ltd	Borehamwood	A	0
 IVI Motorway Services Limited T/A German Doner Kebab	Boxworth	A	0
 Ivnaas Limited	Berkshire	A	0
-Ivory Rose Care	Brentwood	A	0
 Ivy Church Bristol	Bristol	A	1
 Ivy Legal Limited	Bromley	A	0
 Iyengar Yoga (UK) Ltd	Bristol	A	11
@@ -6458,6 +6463,7 @@ JB Construction 1 Limited	Birmingham	A	0
 JB Foods Yorkshire Ltd	Bradford	A	0
 JBB Belfast Limited	Belfast	A	0
 JBD Group Ltd	Bristol	A	0
+JBL Living Ltd	Birmingham	A	0
 JBP Associates Limited	Bristol	A	0
 JC Lister Farms Ltd	Boroughbridge	A	0
 JCDecaux UK Ltd	Brentford	A	0
@@ -6578,7 +6584,7 @@ Josh's Care Company Ltd	Barlborough	A	0
 Joshma Ltd	Beverly	A	0
 JOSHUA WINE LIMITED	Burgess Hill	A	0
 Joss Engineering (Barrow) Ltd	Barrow-in-Furness	A	0
-Joy Global (UK) Limited	Bolton	A	0,4
+Joy Brands Limited T/A Pret A Manger	Buckinghamshire	A	0
 Joy Global (UK) Ltd	Bolton	A	0,4
 Joyes Chicken Limited	Bedford	A	0
 JP Air-Conditioning Services Limited	Bromley	A	0
@@ -6598,7 +6604,7 @@ JTR (UK) Limited	Bedford	A	11
 Jude & Co Manufacturing Ltd	Bracknell	A	0
 JUDE'S JOLLY CAFE LTD	Bedworth	A	0
 Judge & Priestley LLP	Bromley	A	0
-Juga Homes Ltd	Bromley	B	0
+Juga Homes Ltd	Bromley	A	0
 Juicebros Ltd	Bury St. Edmund	A	0
 Julian House	Bath	A	0
 Julienest Catering Services Ltd	Barking	A	0
@@ -6697,6 +6703,7 @@ Kannegiesser UK Limited	Banbury	A	0,4,7
 Kanz ul Huda	Birmingham	A	10
 Kapish Ltd T/A The Local	Bacup	A	0
 kaprabazaar ltd	Birmingham	A	0
+Kaprix Powerhouse Logistics Limited	Bushey	A	0
 KARACHIST'S FOODS AND SERVICES LIMITED	Bolton	A	0
 KARAHI KINGH LTD	Birmingham	A	0
 KARAHI KINS VILLAGE LTD	Birmingham	A	0
@@ -6775,6 +6782,7 @@ Kenmore Care Holding Ltd	Bridport	A	0
 Kensington HC Ltd	Birmingham	A	0
 Kensington Partnership	Bradford	A	0
 Kensulate Corporation Ltd T/A Crepslocker	Blackburn	A	0
+Kent Group Ltd	Bromley	A	0
 Kent House Off Licence	Beckenham	A	0
 KERA SOUTH INDIAN FOODS LTD T/A THE COCHIN	Bedford	A	0
 KERALA AYURVEDA SPA CLINIC	Birmingham	A	0
@@ -6936,7 +6944,6 @@ Knoxlink Ltd	Belfast	A	0
 KOBIR EMPLOYMENT AGENCY LTD	Birmingham	A	0
 KOH GURKHA	Blandford Forum	A	0
 Koinonia John the Baptist Ireland Ltd	Ballymena	A	1,9,10
-KOLA DESIGN LTD	Birmingham	A	0
 KOLAK SERVICES LTD	Barking	A	0
 Komaleshwari Sivaharan T/A Stanley Street Food and Wine	Bedford	A	0
 KONARK INSTRUMENTS & CONTROL SYSTEM LTD	Barnet	A	0
@@ -6945,6 +6952,7 @@ Konica Minolta Business Solutions (UK) Ltd	Basildon	A	0,4,7
 Koolmax Group Ltd	Bolton	A	0
 KOONER SHOP FITERS LIMITED	Bilston	A	0
 Korean Zip Ltd	Brighton and Hove	A	0
+Kortext Limited	Bournemouth	A	0
 Koru Care UK Ltd	Barlborough, Chesterfield	A	0
 KORU SERVICES LIMITED	Borehamwood	A	0
 KOSLI LIMITED	Brentford	A	0
@@ -6997,6 +7005,7 @@ Kurumilagu Indian Kitchen	Bradford	A	0
 KURY UK Ltd	Bristol	A	0,4
 KVJ FOOD AND WINE LTD T/A BEST ONE	Bedford	A	0
 KVR Enterprises Limited	Broadclyst	A	0
+Kwality Vegetables & Fruit Ltd	Birmingham	A	0
 Kwik Fix Auto Care	Birmingham	A	0
 Kwikstart Ltd	Barking	A	0
 KY9 SERVICES LIMITED	Barking	A	0
@@ -7118,7 +7127,6 @@ LCE	Brighton	A	0
 LCMB Building Performance Ltd	Banbury	A	0
 LCMB Therahealth Homecare Ltd	Bourne	A	0
 LDN AUTO SERVICES LTD	Braintree	A	0
-LDN Horticulture Ltd	Braintree	A	0
 LE MYSTIC RESTAURANT LTD	Birmingham	A	0
 Le Poer Polo Limited	Binfield	A	11
 Lead2 Consulting Limited	Brighton	A	0
@@ -7174,6 +7182,7 @@ LH TRADING (SW) LIMITED	Bristol	A	0
 LHH Investments Ltd	Bolton	A	0
 LHOIST UK LTD	Buxton	A	0,4
 Liaquat Ali t/a Madina Roti House	Bradford	A	0
+Liberay Legal Limited	Bolton	A	0
 LIBERTA RESTAURANT LTD	Bathgate	A	0
 Liberty Church Wirral	Birkenhead	A	9
 LIBERTY DESIGN AND BUILD LIMITED	Bingley	A	0
@@ -7199,7 +7208,6 @@ Light Fantastic Production Services Ltd	Borehamwood	A	0
 Light Health Care Ltd	Barnsley	A	0
 Lightbug Ltd	Bristol	A	0
 Lightsky Group Operations Limited	Bristol	A	0
-Lilies Home Care	Bradford	A	0
 Lillibet Healthcare Limited	Bedford	A	0
 Lillibet Healthcare2 Limited	Bedford	A	0
 LIMAR TRADING LTD	Bolton	A	0
@@ -7208,7 +7216,7 @@ Lime Tree Court Limited	Buckingham	A	0
 Limetree Residential Limited	Belfast	A	0
 Limitless Futures CIC	Bury St Edmunds	A	0
 Limitless Travel Ltd	Birmingham	A	0
-LIMITOWEB TECHNOLOGIES LTD	Birmingham	A	0
+LIMITOWEB TECHNOLOGIES LTD	Brentford	A	0
 Lina Nails & Beauty	Birmingham	A	0
 Linamar Light Metals Belfast Limited	Belfast	A	0,4
 Lindale Homes	Birmingham	A	0
@@ -7283,6 +7291,7 @@ LNB BUILDING SOLUTIONS LTD	Brentford	A	0
 LNS Turbo UK Limited	Barnsley	A	0
 Lo-Fi Games Ltd	Bristol	A	0
 LOBO SEAFOOD MIDLAND LIMITED	Birmingham	A	0
+LOBSTER SMACK LIMITED	Braintree	A	0
 LOCAL ACCESS CENTRE (LAC)	Birmingham	A	9
 Local DIY Building & Plumbing Supplies Limited	Bradford	A	0
 LOCAL GAS ENGINEER LIMITED	Berkshire	A	0
@@ -7443,7 +7452,6 @@ M P Smith and Co Limited	Brighouse	A	0
 M R SERVICE STATION LIMITED	Brierley Hill	A	0
 M S Business Engineering LTD (T/A as Manzeera Solutions)	Bracknell	A	0
 M S Spiices Limited	Birmingham	A	0
-M SECURITY SERVICES LIMITED	Birmingham	A	0
 M U S H O O T D LTD	Birmingham	A	0
 M ZAHID TRAVEL LTD	Blackburn	A	0
 M&A Food Distribution Ltd	Birkenhead	A	0
@@ -7519,7 +7527,6 @@ MADINA CARS LTD	Bedford	A	0
 MADINA FOOD SERVICES LIMITED	Birmingham	A	0
 MADINA KITCHENS LTD	Birmingham	A	0
 Madina Mobile Limited	Birmingham	A	0
-MADIOX LIMITED	Bolton	A	0
 MADNI EXPRESS LTD	Birmingham	A	0
 Madras Junction Ltd	Bristol	A	0
 MAG Games Limited	Brighton	A	0
@@ -7542,6 +7549,7 @@ Mahamevnawa International Meditation Centre	Basildon	A	1,9,10
 MAHAQ FOODS LIMITED	Batley	A	0
 Maharaj Foods Limited	Bourne End	A	0
 MAHARJAN FOODS LIMITED	Belfast	A	0
+Mahason Limited	Belper	A	0
 Mahdi Travel & Tours LTD	Birmingham	A	0
 Mahendra Khimji Raja	Bolton	A	0
 MAHERS DRINKS LTD	Birmingham	A	0
@@ -7802,6 +7810,7 @@ MediaNerd Ltd	Bracknell	A	0
 Medical Defence Shield	Bedford	A	0
 MediCare Pharmacy Group	Belfast	A	0
 Medichem (Wibsey) Limited T/A Medichem Pharmacy	Bradford	A	0
+MEDICINE FIRST LTD	Birmingham	A	0
 Medico Partners Ltd	Birmingham	A	0
 MEDICS-UK LIMITED, t/a Premier Private GP	Bagshot	A	0
 Medina Dairy Bolton Ltd	Bolton	A	0
@@ -7859,13 +7868,13 @@ MERIDIAN IT SERVICES LIMITED	Barking	A	0
 MERIDIAN MARLOW LIMITED	Buckinghamshire	A	0
 MERIDIAN READING LIMITED T/A CROWN PLAZA READING	Berkshire	A	0
 Meridian Utilities	Belfast	A	0
-Merit Homes Ltd	Bangor	A	0
 Merit Intergrated Services	Bedford	A	0
 Mervyn Stewart Limited	Belfast	A	0
 MES Financial Services Limited	Bath	A	0
 Mesh Marketing Limited	Billingham	A	0
 MESOX LTD	Birmingham	A	0
 Message House	Berkhamsted	A	0
+Messagepoint Ltd	Bristol	A	0
 Messrs M, G & Mrs M Smyth	Ballymena	A	0
 Metal Agencies Limited	Byfleet	A	0
 Metal Solutions Ltd	Bolton	A	0
@@ -7924,7 +7933,6 @@ Miculi Construction Ltd	Brentford	A	0
 Mid Antrim Vineyard	Ballymena	A	10
 Mid-Sussex Super Cream	Burgess Hill	A	0
 MID-VIEW HEALTHCARE LTD	Birmingham	A	0
-MIDAS (Euro) Limited	Bolton	A	0
 Midcare Services Ltd	Brierley Hill	A	0
 MIDDLEPATCH LTD T/A COLLEGE FIELDS NURSING HOME	Barry	A	0
 Middlesex Fire Stopping Limited	Bourne End	A	0
@@ -8015,7 +8023,6 @@ MINORO LIMITED	Bedford	A	0
 Mint Room	Bath	A	0
 Mintec Limited	Bourne End	A	0,4
 MINU GROUP LTD	Bournemouth	A	0
-MIRACLE INTERNATIONAL CONTRACTING & TRADING CO. LTD	Bristol	A	0,4
 Miro Technologies Limited	Bristol	A	0,4
 MIRONS NEWSAGENTS LTD	Bexleyheath	A	0
 Mirza Associates Ltd	Birmingham	A	0
@@ -8070,6 +8077,7 @@ MNS (MY NEW SOFA) LTD	Burnley	A	0
 MO Connections LTD	Burnley	A	0
 Mo Quality Cars Ltd T/A Mo Car Sales	Blaydon-on-Tyne	A	0
 MOBI TEC (MK) LTD	Bolton	A	0
+Mobi-hub Ireland Ltd	Belfast	A	0
 Mobico Group PLC	Birmingham	A	0,4,7
 MOBIFIXER LIMITED	Bexleyheath	A	0
 Mobile Emporium Ltd	Birmingham	A	0
@@ -8265,7 +8273,6 @@ MSD Midlands Ltd	Birmingham	A	0
 MSE LOGISTICS LTD	Bradford	A	0
 MSG Birmingham Ltd T/A Pepe's Piri Piri	Birmingham	A	0
 MSH CLOTHING UK LTD	Barking	A	0
-MSH Healthcare LTD	Barrow In Furness	A	0
 MSJ SONS LTD	Birmingham	A	0
 MSL Parts LTD	Birmingham	A	0
 MSM Supermarket Ltd	Birmingham	A	0
@@ -8445,6 +8452,7 @@ NATIONAL SUPPLY CHAIN NETWORKS UK LTD	Birmingham	A	0
 National Unplanned Pregnancy Advisory Service Limited	Birmingham	A	0
 National Youth Advocacy Service	Birkenhead	A	0
 Nations Pride Limited	Bradford	A	0
+NATIONWIDE CARE PHARAMACY LTD	Birmingham	A	0
 Nationwide Care Services (Birmingham Central) Ltd	Birmingham	A	0
 Nationwide Care Services (Birmingham South) Ltd	Birmingham	A	0
 Nationwide Care Services Ltd	Birminham	A	0
@@ -8463,11 +8471,9 @@ NAV SECURE LIMITED	Burnley	A	0
 NAV SECURITY LIMITED	Barking	A	0
 Naveed Akhtar T/A Nav'z Barber	Bury	A	0
 Navigate Agency Limited	Bristol	A	0
-Navigator Tissue UK Ltd	Blackburn	A	0,8
 NaviNet Ltd	Belfast	A	0,4
 NAWAAB CUISINE LIMITED	Blackburn	A	0
 NAWAB TASTE LTD	Birmingham	A	0
-Naya Medicals limited	Bury	A	0
 NAYAK PROPERTIES LTD	Blackpool	A	0
 Nayuki Ltd	Bradford	A	0
 Nayyir Associates Limited	Birmingham	A	0
@@ -8661,7 +8667,6 @@ NOORIA MISSION	Bedford	A	0,9
 Nordic Semiconductor UK Ltd	Bristol	A	0
 Nordomatic UK Ltd	Birmingham	A	0
 norelem Ltd	Birmingham	A	0
-Norfolk Park Store Ltd	Berkshire	A	0
 Norfolk Square Dental Practice	Brighton	A	0
 Normanhurst	Bexhill On Sea	A	0
 Normanton Lodge Care Ltd t/as Normanton Lodge Care Home	Bognor Regis	B	0
@@ -8702,7 +8707,6 @@ Northslope Technologies Limited	Bristol	A	0,4
 NORTHSTREET NEWS LTD	Bristol	A	0
 Northumbria Optical Coatings Limited	Boldon	A	0
 Northwest Care Providers Ltd	Bolton	A	0
-NORTHWOOD COMPLEX CARE LTD	Blackburn	A	0
 Northwood Law Practice T/A Burnham Law Practice	Burnham	A	0
 Norton Hydraulics (Midland) Ltd	Birmingham	A	0
 Norton Kitchen and Bedrooms ltd	Birmingham	A	0
@@ -8877,6 +8881,7 @@ One Bright Dot	Brighouse	A	0
 One Church Brighton	Brighton	A	0,10
 One Components Ltd	Bishop's Stortford	A	0
 ONE HOLDING NORTH LIMITED TA BEDMASTER	Batley	A	0
+One London City Limited	Barnet	A	0
 One Mission Society	Belfast	A	1,10
 One Nation	Batley	A	0
 One Scientific Ltd	Bristol	A	0
@@ -8899,6 +8904,7 @@ ONNU LTD	Bury St Edmunds	A	0
 ONOSOM DISTRIBUTION LIMITED	Barnsley	A	0
 ONPOINT TRADING LTD	Bolton	A	0
 ONSECURITY TECHNOLOGY LIMITED	Bristol	A	0
+OnSide Youth Zones	Bolton	A	0
 ONTIME BUSINESS SOLUTIONS LTD	Bradford	A	0
 Ontime Gas and Heating Limited	Birmingham	A	0
 ONTIME HEATING AND PLUMBING LTD	Birmingham	A	0
@@ -8909,6 +8915,7 @@ Ooni Limited	Broxburn	A	0
 Oort Energy Ltd	Bristol	A	0
 OP Dental Ltd	Bretton	A	0
 OPA BATH LTD	Bath	A	0
+OPA Group Limited	Bradford	A	0
 Opal Care Homes Limited	Birmingham	A	0
 OPAL CONSULTANCY LTD	Brentwood	A	0
 OpalTec International Limited	Bristol	A	0
@@ -9132,7 +9139,6 @@ PATEL INDIAN FOOD LTD T/A PATEL INDIAN FOOD	Birmingham	A	0
 Patel News	Bognor Regis	A	0
 Patersonsimons & Co (Africa) Ltd	Brighton	A	0
 PATHAAN'S COLLECTION LTD	Birmingham	A	0
-Pathfinder Clean Energy (PACE) UKDev Ltd	Bristol	A	0
 Pathstone Limited	Birmingham	A	0
 Pathway First Limited	Birmingham	A	0
 Patience Company Limited	Bristol	A	0
@@ -9197,7 +9203,6 @@ PENNY BLACK TATTOO PARLOUR LIMITED	Brentwood	A	0
 Pensnett Fish Bar Ltd	Birmingham	A	0
 PENTAGON TECHNICAL SERVICES LTD	Beaconsfield	A	0
 People and their Brilliance Ltd	Brighton	A	0
-People Panels Ltd	Basingstoke	A	0
 People's Choice UK Ltd	Bedford	A	0
 PEPES PIRI PIRI	Bristol	A	0
 Pepler Lee Group	Burgess Hill	A	0
@@ -9247,7 +9252,6 @@ Phil Jones Associates Ltd	Birmingham	A	0
 Philadelphia Scientific UK Limited	Bolton	A	0
 Philoxenia catering services Ltd	Bromley	A	0
 PHL (UK) Limited	Basingstoke	A	0
-PHL Canterbury Ltd	Bexhill-On-Sea	A	0
 Phlorum Limited	Brighton	A	0
 Pho n go RW Ltd	Birmingham	A	0
 Phoenix and Fire Ltd	Bristol	A	0
@@ -9434,7 +9438,6 @@ Power Electrics (Bristol) Ltd	Bristol	A	0
 POWER INSIGHT LTD	Brentwood	A	0
 Power Solutions 18 Limited	Bognor Regis	A	0
 Powering Services Limited	Brighton,	A	0
-Powerplus Group (PPG) Ltd	Bingham	A	0
 Powersystems UK Ltd	Bristol	A	0
 Powerteam Electrical Services (UK) Ltd	Belfast	A	0,4
 Powervamp Limited	Bedford	A	0
@@ -9445,7 +9448,6 @@ PP Tech Solutions Ltd	Bristol	A	0
 PPK Group UK Ltd	Birmingham	A	0
 PR EVENTS (NW) LTD	Blackburn	A	0
 PR PROPERTY MAINTENANCE (UK) LTD	Birmingham	A	0
-PRAAN (BELPER) LTD t/a Praan Restaurant	Belper	A	0
 Prabins Limited T/a Prabin's Store	Bradford	A	0
 Practice Plus Group Hospitals Limited	Bristol	A	0
 PracticeLink Ltd	Beedon	A	0
@@ -9459,7 +9461,6 @@ Prashant A Hadani T/A Hadleighs Chartered Accountants	Bushey	A	0
 Praxis Care	Belfast	A	0
 PRAYOSHA & CO LIMITED T/A SHENLEY NEWS AND CONVENIENCE	Borehamwood	A	0
 PRECIOUS GEMS	Bolton	A	9
-PRECIOUS LONDON LIMITED	Buckinghamshire,	A	0
 PRECISION CERAMICS LIMITED	Birmingham	A	0
 Precision Polymer Engineering Ltd	Blackburn	A	0,4
 Precision Profiles	Bristol	A	0
@@ -9525,7 +9526,6 @@ Primecare Health Ltd	Broxburn	A	0
 Primecare Support Limited	Bedfordshire	A	0
 Primera Accountants Limited	Borehamwood	A	0
 Primera Assisted Living Limited	Birmingham	A	0
-PRIMEX TRADING SERVICES Ltd	Bedford	A	0
 Prince Cutting Room and Beauty	Bradford	A	0
 Principal Medical Limited	Bicester	A	0
 Principle Care Homes (Chelmsford) Limited	Billericay	A	0
@@ -9583,12 +9583,13 @@ Project Better Energy Limited	Burton-On-Trent	A	0
 Project Better Energy Ltd	Burton upon Trent	A	0
 Project Business Solutions Ltd	Boldon Colliery	A	0
 Project Eidos Limited	Bedford	A	0
+PROJECT NEWCASTLE PRIVATE LIMITED TRADING AS PAPA JOHNS	Binley Woods,Coventry	A	0
 Project People Limited	Bristol	A	0,3,4
 Project Seagrass	Bridgend	A	0
 PROJECT TRANSFORM LTD	Brierfield	A	0
 Projects Abroad (UK) Ltd	Brighton	A	0
 Projex Cellular Infrastructure UK Limited	Bristol	A	0
-Prolibertas Care Solutions Limited	Burnley	A	0
+Projex Solutions Ltd	Brighouse,	A	0
 Prolifics Testing UK Limited	Borehamwood	A	0
 Proline Care Limited	Birmingham	A	0
 PROLITE ENTERPRISES LTD	Barking	A	0
@@ -9639,6 +9640,7 @@ Public Welfare Trust	Birmingham	A	0,9
 PUG1OFF LIMITED	Brackley	A	0
 Pugh and Sanders Limited	Burton on Trent	A	0
 PULSE CARS LIMITED	Birmingham	A	0
+Pulse Insurance Limited	Brackley	A	0
 Pulse Printing Products Limited	Bristol	A	0
 Puma Couriers Ltd	Birmingham	A	0
 Pumptec Services Group Ltd	Bromborough	A	0
@@ -9647,12 +9649,10 @@ Puppet Labs Limited	Bracknell	A	0,4
 Puratos Limited	Buckingham	A	0
 Pure Business Law Limited	Bedford	A	0
 Pure Meat and Poultry (SW) Limited	Bristol	A	0
-PURE N SURE LIMITED	Birmingham	A	0
 Pure Renewables Commercial Ltd	Brough	A	0
 Pure Thermal	Blackpool	A	0
 Pure Veg Ltd t/a Mr Singh's	Birmingham	A	0
 Pure Wellness Centre Limited	Bournemouth	A	0
-pure white lines	Brooks Lane	A	0
 PurePromoter Ltd (trading as Pure360)	Brighton	A	0
 PureVegi Ltd	Birmingham	A	0
 PureView Scans Ltd (trading as Pulse and Clarity Clinic)	Bradford	A	0
@@ -9670,7 +9670,6 @@ Pyarasita LTD	Buxton	A	0
 PYD PACKAGING LIMITED	Birmingham	A	0
 Pyramid Healthcare Limited	Beaconsfield	A	0
 PyroGenesys LTD	Birmingham	A	0
-Q C POLYMER LIMITED	Bilston	A	0
 Q River Limited T/A Mum and You	Brentford	A	0
 Q STONE CO U.K LTD	Birmingham	A	0
 Q Tech Private Ltd	Bromley	A	0
@@ -9690,7 +9689,6 @@ QH Consulting Limited	Birmingham	A	0
 QH Kathleen Chambers Ltd	Burnham- on -sea	A	0
 QK9 Services Limited	Blackburn	A	0
 QLIKZ LTD	Birmingham	A	0
-QLOGIC INC LTD	Bristol	A	0
 QMPROPERTYSOLUTION LTD	Bradford	A	0
 QMTJ LIMITED t/a Mill Superstore	Bathgate	A	0
 Qontrol Ltd.	Bristol	A	0
@@ -9793,13 +9791,13 @@ RADISYS UK LIMITED	Bracknell	A	0,4
 Radley Supermarket Ltd	Birmingham	A	0
 Radnor House	Birmingham	A	0
 Radpharm Ltd T/A Laycock Pharmacy	Bexhill	A	0
-RAFAH INTERNATIONAL	Batley	A	9
 RAGAVAN AND CO LTD	Birmingham	A	0
 RAH FOOD TRADERS LTD	Bradford	A	0
 RAHANU LIMITED	Birmingham	A	0
 RAHIL INDIAN CUISINE LTD t/a Rahil Restaurant	Barry	A	0
 RAHMAH BUILDING SERVICES LIMITED	Birmingham	A	0
 RAI BROTHERS ESSEX LIMITED	Barking	A	0
+RAIDEN INDUSTRIES LIMITED	Birmingham	A	0
 Railway Medical Group	Blyth	A	0
 RAINBOW GROUP LIMITED	Basildon	A	0
 Rainbow Staffing Services	Birmingham	A	0
@@ -9869,10 +9867,8 @@ Rass UK Enterprises Ltd T/A Rafia	Birmingham	A	0
 Rastrick Cricket & Athletic Club	Brighouse	A	11
 Rasul Restaurant And Desserts LTD	Bathgate	A	0
 Ratha Limited	Blackburn	A	0
-Rathi Ltd	Bognor Regis	A	0
 Rathlin Energy (UK Limited)	Beverley	A	0
 Rathmore Clinic	Belleek	A	0
-Rational Labelling and Marking Systems Ltd	Brackley	A	0
 Rattu Development Ltd	Birmingham	A	0
 Rattu Transport Ltd	Birmingham	A	0
 Ravela Ltd	Bolton	A	0
@@ -9889,7 +9885,7 @@ Raylane Ltd	Bilston	A	0
 Raymac Hardware & Hire	Banbridge	A	0
 RAYNAYA LAW LTD trading as FELIX LEGAL	Bolton	A	0
 Rayson Pharma Co. Ltd	Brentwood	A	0
-Rayyan Renovations Ltd	Birmingham	A	0
+Rayyan Renovations Ltd	Blackburn	A	0
 Raza Islamic Educational Cultural Centre Markaz-E-Ahle Sunnat	Birmingham	A	0
 Razi Logistics Ltd	Birmingham	A	0
 RBC Dodge Industrial Limited	Brierley Hill	A	0
@@ -9927,7 +9923,6 @@ Receptional Ltd	Bedford	A	0
 Reclamet Repair and Refinish Ltd	Birchington	A	0
 RECO FAMILY CHIROPRACTIC CENTRE	Bristol	A	0
 Recovery Support Limited	Bolton	A	0
-RECYCLING SOLUTIONS (PLASTICS) LTD	Birmingham	A	0
 Red and Greens Africana Food Store LTD	Bradford	A	0
 Red Arrow Electrical Limited	Barnsley	A	0
 RED CHILLI TW LTD	Basildon	A	0
@@ -9940,7 +9935,6 @@ Red Orange Arts Agency	Barnet	A	3
 Red Rock Estate and Property Management Limited	Beaumont	A	0
 RED ROSE FURNISHINGS LTD	Blackburn	A	0
 RED ROSE GARMENTS LTD	Blackburn	A	0
-Red Rose Travel Ltd	Buckinghamshire	A	0
 Red Sanctuary Limited	Birmingham	A	0
 Redbrain Limited	Birmingham	A	0
 Redburn Innovations Ltd	Bury St Edmunds	A	0
@@ -9971,9 +9965,7 @@ Regency Car Sales Limited	Buckie	A	0
 Regency Carpet Manufacturing Limited	Bangor	A	0
 Regency House Dental Practice	Bridgnorth	A	0
 Regency house dental Practice	Brighton	A	0
-REGENCY LEISURE LIMITED	Birmingham	A	0
 Regent Hall Limited	Bolton	A	0
-REGIS SPICE LTD	Birmingham	A	0
 Rehability UK Community Ltd	Birmingham	A	0
 REHABILITY UK SUPPORT SERVICES LTD	Birmingham West Midlands	A	0
 REHBAR COURIER SERVICES LIMITED	Bridgwater	A	0
@@ -9982,6 +9974,7 @@ REHMAT TEX LTD	Barking	A	0
 Rehoboth Resource Services Limited	Burt St Edmunds	A	0
 Rehoboth Supported Services Ltd	Bedford	A	0
 REHONE LIMITED	Birmingham	A	0
+Reimagined Textiles Ltd	Brentwood	A	0
 Relatives for Justice	Belfast	A	0
 Relax Care Limited	Birmingham	A	0
 RELCO SOFTWARE LTD	Bristol	A	0
@@ -10180,6 +10173,7 @@ ROCKFORT ENGINEERING LIMITED	Banbury	A	0
 ROCKHOLD PROPERTIES LIMITED	Birmingham	A	0
 Rockingham Colliery Cricket Club	Barnsley	A	11
 Rockwool Ltd	Bridgend	A	0,4
+Rodeos BBQ (Birmingham) LTD	Birmingham	A	0
 Rodgers Leask Ltd	Birmingham	A	0
 Rodizio Rico Birmingham Limited	Birmingham	A	0
 Rodl & Partner Limited	Birmingham	A	0
@@ -10279,7 +10273,6 @@ Rubberatkins	Bridge of Don	A	0
 Rubie's Masquerade Company (UK) Limited	Bristol	A	0,4
 Rubix MEP	Birmingham	A	0
 RUFF SPORTS LIMITED	Bury	A	0
-RUKY LTD	Birmingham	A	0
 Rumax Limited	Basildon	A	0
 Rumbl Ltd	Banbury	A	0
 Running Hare Investment Management LLP	Birmingham	A	0
@@ -10430,7 +10423,6 @@ SAI ENGINEERING SERVICES LTD	Bristol	A	0
 Sai Food Bolton Limited t/a Sai Spice	Bolton	A	0
 SaI Ram VS LTD T/A Newspot food and wine	Battersea	A	0
 SAI SHAKTI GROUP LTD	Barry	A	0
-Sai Subha Limited	Birmingham	A	0
 Saif Linen Hire Ltd	Bradford	A	0
 Saini Pharmacy	Birmingham	A	0
 SAINT JOHN JACOB	Borehamwood	A	1
@@ -10662,7 +10654,6 @@ Seeking Answer Ltd	Barnet	A	0
 Seerbytes Limited	Bushey	A	0
 Seeta Patel Dance Ltd	Bristol	A	3
 Seetru Ltd	Bristol	A	0
-Sefas Innovation Ltd	Bristol	A	0
 Seir Ltd	Birmingham	A	0
 Seivwright Brothers Limited	Banff	A	0
 Selco Builders Warehouse	Birmingham	A	0
@@ -10720,7 +10711,6 @@ Sesame-UK Limited	Basingstoke	A	0
 Sestini & Co Ltd	Bristol	A	0
 Setec Consulting Engineers Ltd	Birmingham	A	0,4
 SEUPB	Belfast	A	0
-Seure Glaze UK Home Improvements LTD T/A Secure Glaze Group UK	Birmingham	A	0
 SEVA LINE LTD	Bolton	A	0
 Sevaline Carehomes Limited t/a Heaton House Care Home	Bolton	A	0
 SEVDOGG LTD	Birmingham	A	0
@@ -10781,6 +10771,7 @@ Shanghai Ye Limited	Birmingham	A	0
 Shanishah Limited	Bury	A	0
 Shannon Court Care Home Limited	Bolton	A	0
 Shanta Cake LTD	Bolton	A	0
+Shanthy Ltd	Bristol	A	0
 Shanti Medi-Care Limited	Bolton	A	0
 SHANU TRADING LTD	Birmingham	A	0
 SHANZ SERVICES LIMITED T/A Mushtaqs Asda	Birmingham	A	0
@@ -11142,7 +11133,6 @@ Solar Roofing Specialists (UK) Ltd T/A Ecogen Energy	Bristol	A	0
 SOLAR WARRIOR LTD	Berkshire	A	0
 Solarport Systems Limited	Bridport	A	0
 Solarsense UK Ltd	Bristol	A	0
-Solent Healthcare Ltd T/A Poplars care home	Bassett, Southampton	A	0
 SOLHEBON LTD	Birmingham	A	0
 Solicitors Regulation Authority Limited	Birmingham	A	0
 Solid Woods Limited	Birmingham	A	0
@@ -11255,6 +11245,7 @@ SPEEDY ROCK LTD	Birmingham	A	0
 Speedy Service 2000 ltd	Bury	A	0
 Spencer Private Hospitals Ltd	Betteshanger, Deal	A	0
 Sphere Global Limited trading as Sphere Global Solutions	Bearwood	A	0
+Sphere25 LLP	Brentwood	A	0
 Spherica Business Solutions Ltd	Birmingham	A	0
 Spica Technologies Ltd	Birmingham	A	0
 Spice Burntisland Limited t/a Kingswood Hotel	Burntisland	A	0
@@ -11265,7 +11256,6 @@ SPICE FLAVOUR BROMELY LTD	Bromley	A	0
 Spice Hut Braintree Ltd T/A The Ruby	Braintree	A	0
 Spice Island	Bolton	A	0
 SPICE OF INDIA (BRIDGEWATER) LTD T/A Cinnamon Takeaway	Bridgewater	A	0
-Spice of Life (Southwest Midlands Limited)	Birmingham	A	0
 Spice Society	Buckinghamshire, Old Town	A	0
 Spicer Consulting Ltd	Bedford	A	0
 Spices & Rices Ltd	Batley	A	0
@@ -11484,6 +11474,7 @@ Stitch Effect (UK) Ltd	Bolton	A	0
 STIX & STONES (NI) LTD T/A STIX AND STONES	Belfast	A	0
 STL Tech Limited	Bristol	A	0
 STN Supermarket	Balby	A	0
+Stobart Premium Pet Food Ltd	Bradford	A	0
 Stockwood Pharm Ltd	Bristol	A	0
 Stokes Medical Group	Bristol	A	0
 Stolle EMS Group Limited	Burnley	A	0,4
@@ -11492,7 +11483,6 @@ Stone & Ceramic Limited	Belvedere	A	0
 Stone Affairs Ltd	Birmingham	A	0
 Stone House Hotel Blackpool Ltd	Blackpool	A	0
 Stone Key (Blackburn) Ltd	Blackburn	A	0
-Stone Leisure & Hotels Limited	Bournemouth	A	0
 Stone Surface Limited	Barking	A	0
 STONEAGE BUILDING CONTRACTORS LIMITED	Birmingham	A	0
 Stonebarn Holdings Limited	Bath	A	0
@@ -11502,6 +11492,7 @@ Stoney Knolls Children's Home Ltd.	Buxton	A	0
 Stoney Lane Convenience Store	Birmingham	A	0
 Stoneylane Windows and Plastic Centre Ltd	Birmingham	A	0
 Stonyhill Medical Practice	Blackpool	A	0
+Stora Enso UK Ltd	Birmingham	A	0,4
 Storage and Fulfilment Services Limited	Burntwood	A	0
 Storck UK Limited	Basingstoke	A	0,4,7
 Store Box Midco Limited	Bolton	A	0
@@ -11597,6 +11588,7 @@ Sun Chemical Ltd	Bath	A	0,4,7
 Sun Enterprises Limited	Bracknell	A	0
 Sun Generation (UK) Limited	Bath	A	0
 Sun Harvest Ltd	Brighton	A	0
+Sun Healthcare Ltd	Barnsley	A	0
 Sunbird Catering LTD	Brighton	A	0
 Sundari Foods Limited	Brighton	A	0
 Sundial Clinics Limited	Brighton	A	0
@@ -11659,7 +11651,6 @@ Surya Ganapathi Ltd	Birmingham	A	0
 SUSASH Sheffield Ltd	Bramley	A	0
 SUSHI & BENTO HOUSE LTD	Basildon	A	0
 Sushi Haven Chikchak Noodles	Borehamwood	A	0
-Sushi Home Town Limited	Bradford	A	0
 Sussex Community NHS FoundationTrust	Brighton	A	0
 Sussex Homecare Support Limited T/A Good Oaks Home Care (Mid-Sussex)	Burgess Hill	A	0
 SUSSEX INNOVATION CENTRE	Brighton	A	0
@@ -11783,7 +11774,6 @@ Takara Belmont (UK) Limited	Bow	A	0,4
 Takbeer Poultry and Products Ltd	Bradford	A	0
 Talandracas Polo Team	Brook	A	11
 Talbot Medical Centre	Bournemouth	A	0
-Talbot Woods Lodge	Bournemouth	A	0
 Tale of Spice (NI) Ltd t/a Tale of Spice	Belfast	A	0
 Talent Artistic Group Ltd	Bedford	A	0,3
 TALENT CARE EDUCATION LTD	Barking	A	0
@@ -11899,10 +11889,12 @@ Technogym U.K. Limited	Bracknell	A	0,4
 Technologium Ltd	Birmingham	A	0
 TECHNONOVAL LIMITED	Birmingham	A	0
 Technopolis Limited	Brighton	A	0
+Techouse UK Ltd	Blantyre	A	0
 Techrete U.K. Limited	Brigg	A	0
 TECHSPHERE SOLUTIONS LTD	Bolton	A	0
 TechTradeUK	Birmingham	A	0
 TECHUARIUM LTD	Bristol	A	0
+Techv Limited	Burton-On-Trent	A	0
 TECK IMPEX UK LTD	Birmingham	A	0
 Tecno International Ltd	Birchwood	A	0
 TECOSIM Ltd	Basildon	A	0
@@ -12028,7 +12020,6 @@ The Bristol Montessori School	Bristol	A	0
 The Bristol Port Company	Bristol	A	0
 The Brockmoor Foundry Co Ltd	Brierley Hill	A	0
 The Brow Place LTD	Bath	A	0
-THE BUG AND BARREL LIMITED	Birmingham	A	0
 The Building Safety Regulator	Bootle	A	0
 The Bullion Store Ltd	Birmingham	A	0
 The Bulls Head (Moseley) Limited	Birmingham	A	3
@@ -12066,7 +12057,6 @@ THE CRASTER ARMS	Beadnell	A	0
 The Croft inn	Ballindalloch	A	0
 The Curry Lover	Bradford	A	0
 The DanceXchange Ltd	Birmingham	A	3
-The Data Company Group Limited	Birmingham	A	0
 The Deeside Water Company Limited	Ballater	A	0
 The Dental Centre Limited	Bracknell	A	0
 The Dental Management Partners	Bedhampton	A	0
@@ -12171,7 +12161,7 @@ The Midlands Buddhist Association	Birmingham	A	10
 The Midlands International Buddhist Association in the United Kingdom	Birmingham	A	1,9,10
 The Mission Mexican Grill Ltd T/A Mission Burrito and Silcox Coffee	Bath	A	0
 THE MOBILE WORLD TRADERS LTD T/A THE MOBILE WORLD	Bolton	A	0
-The Modality Partnership	Birmingham	A	0
+The Modality Partnership	Birmingham	B	0
 The Model (Ireland) Limited	Ballymoney	A	0
 The Modern Rugs Pvt Limited	Bradford	A	0
 The Monkeys Grill ltd	Blackpool	A	0
@@ -12366,13 +12356,13 @@ Ticketek UK Limited	Bristol	A	0
 TICKTON POST OFFICE	Beverley	A	0
 Ticon UK Limited t/a Spend Network	Bognor Regis	A	0
 Tiedot Digital Ltd	Belfast	A	0
-Tiffin Indian kitchen & Bar	Barnstaple	A	0
 Tiffin Sandwiches Ltd	Bradford	A	0
 TIGER'S COURIER SERVICES LIMITED	Birmingham	A	0
 TIKKA MEALA LIMITED	Birmingham	A	0
 TILE DEMAND LTD	Birmingham	A	0
 TILLS PLUS LTD	Brighton	A	0
 TIM'S TEXTILES LIMITED	Bolton	A	0
+TIME CONTROL RECRUITMENT SERVICES LIMITED	Birmingham	A	0
 Time Factors Ltd	Bradford	A	0
 Time2care (Southwest) Limited	Bideford	A	0
 TIMES APPAREL UK LIMITED	Blackburn	A	0
@@ -12404,6 +12394,7 @@ TMP Public C.I.C.	Bicester	A	0
 TMSG LTD t/a Tucare	Bromley	A	0
 TNBL UK Limited	Birmingham	A	0
 TNJ Care Ltd T/A Homelands	Bognor Regis	A	0
+TNK Trading Limited	Bedfordshire	A	0
 TNM FASHION LTD	Barking	A	0
 To Be Properties Ltd	Bicester	A	0
 TOBBYTOX LIMITED	Belvedere,	A	0
@@ -12456,6 +12447,7 @@ Total Quality Care Services Ltd	Birmingham	A	0
 Total Security and Cleaning Services Limited	Barnet	A	0
 TOTAL TECH REPAIR LTD	Bexleyheath	A	0
 Total Ticketing Limited	Brighton	A	0
+Totalfit Personal Training	Burgess Hill	A	0
 Touchdown PR Limited	Basingstoke	A	0,4,7
 Touchheart Healthcare Ltd	Birmingham	A	0
 Touchstone Advisory Limited	Birminham	A	0
@@ -12671,6 +12663,7 @@ UK PRIVATE HIRE (LANCS) LTD	Blackburn	A	0
 UK Qawwali Concerts LTD	Bradford	A	0,3
 UK SHALIMAR 1 LIMITED	Bourne	A	0
 UK Shop Fronts Ltd	Birmingham	A	0
+UK Sitehoarding Ltd	Bramley	A	0
 UK Storage Company (SW) Limited	Bridgwater	A	0
 UK TRAVEL BIRMINGHAM LTD	Birmingham	A	0
 UK TREASURE LIMITED	Barking	A	0
@@ -12756,7 +12749,6 @@ University of Chichester (Multi) Academy Trust	Bognor Regis	A	0
 University of Sussex	Brighton	A	0,12
 University of the West of England	Bristol	A	0,12
 Unosquare Limited	Belfast	A	0,4
-UNSA LIMITED	Brighton	A	0
 Unseen (UK)	Bristol	A	0
 UNSY LIMITED	Brentwood	A	0
 Unusual Technologies Ltd	Brighton	A	0
@@ -12965,7 +12957,6 @@ Virtue 12 Limited	Birmingham	A	0
 Virtuous Business Solutions Ltd	Bicester	A	0
 Visacrem International LTD t/as Fracino	Birmingham	A	0
 Viscount	Bicester	A	0
-Vish Ltd	Bristol	A	0
 Vishwa Hindu Parishad (UK)	Bolton	A	10
 Vision Care Services (UK) Limited	Bradford	B	0
 VISION DESIGN AND PRINT LTD	Birmingham	A	0
@@ -13064,7 +13055,6 @@ Walker & Smith Limited	Batley	A	0
 Walker & Watts Limited	Burgess Hill	A	0
 Walker B Ltd ta Signs Express Bristol	Bristol	A	0
 Walkers Chocolates Limited	Birmingham	A	0
-wall2wall carpets and flooring	Bolton	A	0
 WALL2WALL CARPETS AND FLOORING LIMITED	Bolton	A	0
 Wallace Vets Ltd	Broughty Ferry	A	0
 Walls of Salvation Brentwood Tamil Church	Brentwood	A	1,9,10
@@ -13232,7 +13222,6 @@ Wherry And Sons Limited	Bourne	A	0
 WHETLEY PLUMBING UK LTD	Bradford	A	0
 Whetstone Medical Centre	Birkenhead	A	0
 WHISKY EXPRESS LTD.	Bicester	A	0
-Whitburn Food Store Limited	Bathgate	A	0
 WHITE COLLAR SECURITY LTD	Bradford	A	0
 White Cook Chef LTD	Brighton and Hove	A	0
 White Dew Ltd	Birmingham	A	0
@@ -13367,7 +13356,6 @@ WOODSTYLE LTD	Barking	A	0
 Woodvale Cricket Club	Belfast	A	11
 Woolpit Health Centre	Bury St Edmunds	A	0
 Wootton Academy Trust	Bedford	A	0
-Worcester Fleet Management Ltd	Bromsgrove	A	0
 Word Practitioners Ministry	Basildon	A	1,9,10
 Worfield Cricket Club	Bridgnorth	A	11
 Workflow Doctor Ltd	Bath	A	0
@@ -13494,6 +13482,7 @@ Your Care (UK) Limited	Bolton	A	0
 YOUR CARE PROVIDER LTD	Barnsley	A	0
 Your Care Services Brain Injury	Birmingham	A	0
 Your Career Ltd	Birmingham	A	0
+YOUR CHILDCARE SOLUTIONS LIMITED	Bexleyheath, Kent	A	0
 YOUR CHOICE CONVENIENCE STORE	Bury	A	0
 Your Daily Needs Limited	Barking, Essex	A	0
 Your dream car ltd	Buckinghamshire	A	0
@@ -13603,7 +13592,6 @@ Zitex Ltd	Birmingham	A	0
 ZK ACCOUNTING SOLUTIONS LTD	Brierley Hill	A	0
 ZK Tech Ltd	Belfast	A	0
 ZKTECO UK LTD	Birmingham	A	0
-ZMAJ I.T. SOLUTIONS LIMITED	Barking	A	0
 ZMZM Spice Ltd	Blackburn	A	0
 ZNOX TECHNOLOGIES LTD	Belfast	A	0
 Zoo Restaurants Ltd	Birmingham	A	0

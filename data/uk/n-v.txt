@@ -13,7 +13,6 @@ A & V TAKE AWAY LTD	Borehamwood	A	0
 A & V Transitional Homes Ltd	Leeds	A	0
 A A Rahman t/a Visage Dental Laboratory	Glasgow	A	0
 A J Mobile & Vape Limited	Harrow Wealdstone	A	0
-A Park View Hotel	Wolverhampton	A	0
 A Park View Hotel (Wolverhampton) Ltd	Wolverhampton	A	0
 A R V Tamil Ltd	Southall	A	0
 A R VISION LIMITED	London	A	0
@@ -222,6 +221,7 @@ Belsize Village Nursery Ltd	London	A	0
 Belt Studio Limited T/A Village Leathers	London	A	0
 BENGAL VILLAGE RESTAURANT LIMITED	Barton-upon-Humber	A	0
 Benjn. R. Vickers & Sons Ltd	Leeds	A	0
+Bennachie Equine Vets Limited	Aberdeen	A	0
 Bentley Road Veterinary Practice Ltd.	Doncaster	A	0
 Berjaya Vacation Club (UK) Limited	London	A	0
 Berwick House Ventures Ltd	Shrewsbury	A	0
@@ -254,7 +254,6 @@ Bishops Stortford Veterinary Hospital Limited	Bishops Stortford	A	0
 Bishops Stortford Visionplus t/a Specsavers Limited	Bishops Stortford	A	0
 Bishopton Veterinary Group Ltd (BVGC Ltd)	Ripon	A	0
 BISMILLAH JOINT VENTURE LTD	London	A	0
-Bizbell Ventures Limited	Harrow	A	0
 Black & Veatch (U.K.) Limited	London	A	0,4
 Black Rock Vets Ltd	Burnham on Sea	A	0
 Black Volta Ventures (UK) Limited	London	A	0
@@ -332,6 +331,7 @@ Cambridge Visionplus Limited	Cambridge	A	0
 Camino Healthcare Limited T/A Vestige Healthcare	Berkshire	A	0
 Campus Living Villages UK Ltd	Manchester	A	0,4
 CANIM FRUIT & VEG LIMITED	Leyton	A	0
+Canterbury Visionplus Limited t/a Specsavers	Canterbury	A	0
 Cantronik Ltd TA Veethree Technologies	Poole	A	0
 Capital Food Ventures Ltd T/As Subway	London	A	0
 CAPITAL VEHICLE MAINTENANCE LIMITED	Isleworth	A	0
@@ -449,6 +449,7 @@ Creative Video Production	Brentford	A	0
 CREO VISION LTD	London	A	0
 Cresthall Ventures Limited	London	A	0
 Cross Valley T/A Dwbi's	Llanelli	A	0
+Crown View Care Ltd	Ipswich	A	0
 Crowns Venues Ltd	Henfield	A	0
 Croydon Voluntary Association for the Blind	London	A	0
 CRUCIAL VISUAL COMMUNICATIONS CONSULTANCY LIMITED	Dundee	A	0
@@ -725,7 +726,6 @@ Glo Audio Visual Ltd	London	A	0
 Global Satellite Vu Ltd	London	A	0
 Global Vision Education Consulting Ltd	London	A	0
 Global Voices Ltd	Stirling	A	0
-GLYME VALLEY SERVICES LTD	Chipping Norton	A	0
 GM Speciality Vehicles UK Limited	Leamington Spa	A	0,4
 GO-COOL INDIAN PURE VEGETARIAN FOOD LIMITED	Birmingham	A	0
 God's Vineyard Ministries	Nottingham	A	1
@@ -787,7 +787,6 @@ Haden Vale Medical Practice	Cradley Heath	A	0
 Haden Vale Pharmacy	Cradley Heath	A	0
 Hafren Veterinary Group Limited	Newtown	A	0
 Hair and Beauty Palace Ventures Limited	Bracknell	A	0
-HAKKA VILLAGE LIMITED	London	A	0
 Hale Hamilton Valves Ltd	Uxbridge	A	0
 Hale Village Ltd	St Helens	A	0
 Halifax Sheet Metal & Ventilation Limited	Halifax	A	0
@@ -894,7 +893,6 @@ Igloo Vision Ltd	Craven Arms	A	0
 Ihle Violins Ltd	London	A	0
 IJZ Virdee Limited T/A Swinford Pharmacy	Stourbridge	A	0
 Impact social value reporting Ltd	Kingston Upon Hull	A	0
-Impact Social Value Reporting Ltd	Manchester	A	0
 In App Video Services UK LTD	Stratford upon Avon	A	0
 Inchcolm Veterinary Services Limited	Dunfermline	A	0
 Independent Cafe Ventures Ltd	Edwalton	A	0
@@ -953,7 +951,7 @@ Jamm Visual Limited	London	A	0
 Jan & Sach hotels Ltd trading as Villare Leicester City Centre Hotel	Leicester	A	0
 Japanese Imported Vehicles Ltd	Birmingham	A	0
 Jardin Des Violettes Ltd	Solihull	A	0
-JASH VENTURES LIMITED	London	A	0
+JASH VENTURES LIMITED	Rickmansworth	A	0
 Jasmin Vardimon Company	Ashford	A	0,3
 JASON VEG UK LIMITED	Croydon	A	0
 Jasper Vincent Solicitors	Southampton	A	0
@@ -1037,11 +1035,13 @@ Krystal Ventures Limited	Gillingham	A	0
 KSN VEGETABLE LTD	London	A	0
 Kultur Vibes Limited	Manchester	A	3
 Kunaratnam Leelananthan & Kalaivany Leelananthan TA Village Convenience Store	London	A	0
+Kwality Vegetables & Fruit Ltd	Birmingham	A	0
 L3Harris Autonomous Surface Vehicles Limited	Portchester	A	0
 La Bella Vista Limited	St Leonards on sea	A	0
 La dolce vita kent limited	Weald /Sevenoaks	A	0
 La vie en Rose Ltd	Tewkesbury	A	0
 La Villa Ltd T/A Bella Vita Folkestone	Folkestone- KENT	A	0
+LA VITA (SCOTLAND) LIMITED	Glasgow	A	0
 LA VITA GEORGE SQUARE LIMITED	Glasgow	A	0
 LA VIVA LIMITED	Preston	A	0
 Ladies European Golf Venture Limited	Denham	A	0,4
@@ -1181,7 +1181,6 @@ Mendip Vale Medical Group	Langford	A	0
 Meopham Veterinary Hopsital	Meopham	A	0
 MERIDIAN FRUIT & VEG LIMITED	London	A	0
 Meridian Health Ventures Management LLP	London	A	0
-Meritor Heavy Vehicle Braking Systems (UK) Limited	Cwmbran	A	0,4
 Merthyr Tydfil 2006 Visionplus Limited	Mid Glamorgan	A	0
 Mid Antrim Vineyard	Ballymena	A	10
 Midas VFX Ltd	London	A	0
@@ -1398,7 +1397,6 @@ Old Vicarage Registered Care Home Ltd	Llangollen	A	0
 Old Vicarage School Trust	Richmond upon Thames	A	0
 Old Village Wine Shop	Manchester	A	0
 Olive Tree Veterinary Surgery	Charing	A	0
-Om Mobile Ventures (UK) Limited	London	A	0
 OM Ventures Capital Limited	London	A	0
 One Source Virtual (UK) Limited	Derry	A	0,4
 One Voice Consulting Limited	Wokingham	A	0
@@ -1609,6 +1607,7 @@ Renaissance Ventures Limited	London	A	0
 Renovar Ventures Ltd	London	A	0
 Restalrig Village Shop Ltd	Edinburgh	A	0
 Revolution Viewing Limited	Leeds	A	0
+Reynard High Voltage Solutions	Cheltenham	A	0
 RGB HiFi & Video Ltd	Basildon	A	0
 RH COMMERCIAL VEHICLES	Nottingham	A	0
 Rheinmetall MAN Military Vehicles UK Limited	Bristol	A	0
@@ -1799,7 +1798,7 @@ Sky Vigil Care Ltd.	Gloucester	A	0
 SL Venture Investments Ltd t/a Mughal-e-Azam Restaurant & Banqueting	Birmingham	A	0
 SM Voice Advocacy Limited	Basingstoke	A	0
 Small World Vet Centre	Liphook	A	0
-Smart Home Visits Ltd	Harrogate	A	0
+Smart Home Visits Ltd	Rotherham	A	0
 SMART VAT AND TAX SERVICES LTD	Preston	A	0
 Smart Vet Ltd T/A Pet People Vets	London	A	0
 SMART Veterinary Clinic Ltd	Carmarthen	A	0
@@ -1819,6 +1818,7 @@ Somer VAlley Medical Group	Midsomer Norton	A	0
 Sore Paws Veterinary Clinic Ltd	Newton Aycliffe	A	0
 South Harrow Visionplus Limited t/a Specsavers	South Harrow	A	0
 South Indian Vision Limited T/A Chettinad Restaurant	Leicester	A	0
+South Moor Ltd TA South Moor Vets	Kingsbridge	A	0
 South Shields Visionplus Limited t/a Specsavers	South Shields	A	0
 South Wales Industrial Valves Services Limited	Swansea	A	0
 Southampton Visionplus Ltd T/A Specsavers Opticians	Southampton	A	0
@@ -1951,6 +1951,7 @@ TA VAPE HUT LIMITED	London	A	0
 Tajwar Fruits and Vegetables Limited	London	A	0
 Tamar Valley Health	Callington	A	0
 Tamar Vets Limited	Bude	A	0
+Tapestry Venture Capital LLP	London	A	0
 Taprobane Ventures UK Limited	Southampton	A	0
 Tari Vets Ltd	Shenfield	A	0
 Taste of India Pure Vegetarian Ltd	London	A	0
@@ -2130,7 +2131,6 @@ TOOR GADGET VILLAGE LTD	London	A	0
 Tooting Visionplus Limited t/a Specsavers	London	A	0
 Top Dog Veterinary Services Limited t/a Parley Cross Veterinary Centre	Ferndown	A	0
 TOP VEG WHOLESALE LTD	London	A	0
-TOP VIEW LONDON LIMITED	London	A	0
 Tor Equine Vets Ltd	Newton Abbot	A	0
 TOTAL FOOD LTD T/A SPICE VALLEY	Norwich	A	0
 Total Motion Limited T/A Total Motion Vehicle Management & Pink Vehicle Leasing	Leicester	A	0
@@ -2295,7 +2295,7 @@ V1CE LTD	Preston	A	0
 V2 Brothers Ltd T/A The Spice Merchant	Newtownabbey	A	0
 V2 RYE HARBOUR LIMITED T/A RYE HARBOUR STORES	Romford	A	0
 V2 Studios Limited	London	A	0
-V3 BUSINESS SOLUTIONS LTD T/AS SOUTH ESK SERVICE STATION SHELL	Montrose	A	0
+V3 BUSINESS SOLUTIONS LTD	Inverurie	A	0
 V3 CONSTRUCTION CO LIMITED	London	A	0
 V3 HOSPITALITY SERVICES	Sidcup	A	0
 V4 Architects Ltd	Milton Keynes	A	0
@@ -2409,6 +2409,7 @@ Valero Operations Support Limited	London	A	0,4
 Valeur Capital Ltd	London	A	0
 Valhalla Fishing Company Limited	Lerwick	A	0
 Vali Analytics Limited	London	A	0
+Valia Ventures	London	A	0
 VALIANT ENGINEERING CONSULTING SERVICES LTD	Huntingdon	A	0
 Valiantys Limited	London	A	0
 Valid Productions Limited	Haywards Heath	A	3
@@ -2685,6 +2686,7 @@ VARSITY AV & EVENTS LIMITED	London	A	0
 Varsity Town Planning Limited	Leighton Buzzard	A	0
 VARTA CREATIVE STUDIO LIMITED	Watford	A	0
 Varuna Bagno Ltd T/A Varuna Bagno & Tiles	Kingsbury	A	0
+VARYNIA EUROPE LTD	London	A	0,4
 Vas Associates Ltd	Slough	A	0
 VAS GLOBAL LIMITED	Swindon	A	0
 VAS Infotech Limited	Ashford	A	0
@@ -2753,7 +2755,6 @@ VB VINYHO TRADES LTD	Trowbridge	A	0
 VB Wholesale (UK) Ltd	Greenford	A	0
 VBA RETAIL LTD	Bristol	A	0
 VBH Limited	Droitwich	A	0
-VBL Hospitality Limited	Holybourne	A	0
 VBN EXPRESS LTD	Barnsley	A	0
 VBS LOGISTICS LTD	Aylesbury	A	0
 VBSC Limited	London	A	0
@@ -2904,6 +2905,7 @@ Vekta Group Energy Division Ltd	Edinburgh	A	0
 Vel & Samy Ltd t/a Near By	Belfast	A	0
 Vel Mart Morrison Limited T/A Morrisons Daily	Consett	A	0
 Vel Mart Retail Limited	Tyne & Wear	A	0
+Vel Mart Retail Ltd	Washington	A	0
 VEL MURUGAN ENTERPRISES LTD	East Ham	A	0
 Vel Surgery	Sheerness	A	0
 Vel's Express Limited	Bexleyheath	A	0
@@ -3165,6 +3167,7 @@ Vertali	Bromsgrove	A	0
 Vertas Group Limited	Ipswich	A	0
 Vertase FLI Limited	Portishead	A	0
 Verte Ltd	Hove	A	0
+Vertek Metalworks Limited	Andover	A	0
 Verteks Associates Limited	Derby	A	0
 Vertemax Ltd	Sandwich	A	0
 VERTERE LIMITED	London	A	0
@@ -3183,7 +3186,6 @@ VERTIC	London	A	0
 Vertical Advantage Limited	London	A	0
 Vertical Aerospace Group Ltd	Bristol	A	0,4,8
 Vertical Dot Ltd	Slough	A	0
-Vertical Future Ltd	London	A	0
 Vertical Integration Architects (V.I.A) Ltd	London	A	0
 Vertical Pharma Resources Ltd T/A IPS Pharma	West Molesey	A	0
 VERTICAL9 LIMITED	London	A	0
@@ -3226,6 +3228,7 @@ VesselsValue Limited	London	A	0
 Vesta Consulting Limited	Birmingham	A	0
 VESTA EXPRESS AND ST STEPHENS SUB POST OFFICE	St. Albans	A	0
 Vesta Software Group Limited	Wallingford	A	0
+Vestadent Limited	London	A	0
 Vestas Offshore Wind Ltd	Warrington	A	0,4
 Vestas Technology UK Limited	Newport	A	0,4,7
 Vestd Ltd	London	A	0
@@ -3366,7 +3369,6 @@ VICARAGE RESIDENTIAL CARE HOME LTD	Kent	A	0
 VicAsset Advisors UK Limited	London	A	0
 Vice UK Limited	London	A	0,3,4
 Vicente & Partners Ltd	London	A	0,4
-VICEROY (BOLLINGTON) RESTAURANT LTD	Macclesfield	A	0
 Viceroy Cars Limited	Epsom	A	0
 Viceroy Takeaway	Carlisle	A	0
 VICHAG LIMITED	Birmingham	A	0
@@ -3598,7 +3600,6 @@ VILLAGE NEWS TOWNGATE LTD	Halifax	A	0
 Village Newsagents (Gorebridge) Limited T/a as Village store	Gorebridge	A	0
 VILLAGE QUALITY PRODUCTS LIMITED	Loughton	A	0
 Village Restaurants London Ltd	London	A	0
-Village Security Solutions Limited	Milton Keynes	A	0
 VILLAGE SOCIAL LTD	London	A	0
 Village Software Engineering Limited	Liverpool	A	0
 Village Street Pharmacy Limited T/A Village Pharmacy	Derby	A	0
@@ -3622,7 +3623,6 @@ Vinarchy UK Limited	Bristol	A	0,4
 Vinayak Pharma Ltd T/A Maendy Square Pharmacy	Cwmbran	A	0
 Vinayak Transport	Rowley Regis	A	0
 Vinayaka Enterprises Ltd	Sheffield	A	0
-Vinayaka Private Limited	Chesterfield	A	0
 VINCENT B. MCMORROW CONSTRUCTION SERVICES LIMITED	Luton	A	0
 Vincent Dance Theatre	Brighton	A	3
 Vincent Hannon + Associates Limited	Belfast	A	0
@@ -3645,7 +3645,6 @@ Vine Church	Swindon	A	1,9,10
 Vine Home Care Ltd	Accrington	A	0
 Vine Hotels Ltd	Sheffield	A	0
 Vine House Care Ltd	St Leonards On Sea	A	0
-VINE SOCIAL CARE AGENCY LIMITED	Farnborough	A	0
 Vine Surgery Partnership	Street	A	0
 Vine Thai Ltd	Norwich	A	0
 Vine Works Ltd	Plumpton Green	A	0
@@ -3751,7 +3750,6 @@ Viridian Solar Ltd	Papworth	A	0
 ViridiCO2 Ltd.	Southampton	A	0
 Viridis Building Services Ltd	Collingham	A	0
 Viridor Waste Limited	Bicester	A	0
-Viritech Ltd	Nuneaton	A	0
 Viritopia Limited	Chichester	A	0
 VIRK BUILDERS LTD	Birmingham	A	0
 Virk Construction Limited	Croydon	A	0
@@ -3796,6 +3794,7 @@ Virtuous Business Solutions Ltd	Bicester	A	0
 VIRTUOUS RETAIL LTD	Dudley	A	0
 Virture Choices Limited	London	A	0
 Virtus Care Ltd	London	A	0
+VIRTUS FINANCIAL PLANNING LIMITED	London	A	0
 Virtus Holdco Limited	London	A	0
 Virtus International Services Limited	London	A	0
 Virtus UK Capital Ltd	Leeds	A	0
@@ -3825,7 +3824,6 @@ Visdom Consulting Limited	Solihull	A	0
 Vish Convenience Ltd	London	A	0
 Vish DM Service	Cornwall	A	0
 Vish IT Consulting Limited	Slough	A	0
-Vish Ltd	Bristol	A	0
 Vishal IT Solutions Limited	Peterborough	A	0
 VISHAL JAIN	Wirral	A	0
 VISHAL NEWS	Reading	A	0
@@ -3968,7 +3966,6 @@ Viswa Lab UK Limited	Wynyard	A	0,4
 VIT - TECH LTD	Harrow	A	0
 VIT HIT UK Ltd	London	A	0
 VIT REMIT LTD	London	A	0
-VITA AND EAGLES EVENTS LTD	London	A	3
 Vita Architecture Ltd - Registered Address	Croydon	A	0
 Vita Health Group Limited	London	A	0
 Vita Mojo International Ltd.	London	A	0
@@ -3990,6 +3987,7 @@ Vital Innovations Ltd	Hatfield	A	0
 VITAL INTERIORS LTD	Bromley	A	0
 VITAL LIMITED	Norwich	A	0
 VITAL MAKE UP LTD	London	A	0
+Vital Prototypes Ltd	Coventry	A	0
 Vital Security Services ltd	London	A	0
 Vital Signs Accountants Ltd	Manchester	A	0
 Vital Signs Solutions Ltd	Cambridge	A	0
@@ -4003,7 +4001,7 @@ VITALITY HOME HEALTH (SEVENOAKS) LTD	Sevenoaks	A	0
 Vitality Home Health Ltd	Harrow	A	0
 Vitality Living Care Ltd	Dalkeith	A	0
 Vitality Living Ltd	Bradford	A	0
-VITALITY PHARMA LIMITED	Aylesbury	A	0
+VITALITY PHARMA LIMITED	Shenley	A	0
 Vitality Plus Care Ltd	Trowbridge	A	0
 VITALITY TRADING LIMITED	London	A	0
 Vitality Ventures Limited	Banchory	A	0
@@ -4117,7 +4115,7 @@ VK Broâ??s Limited T/A The Ceylon Lounge	Swansea	A	0
 VK CLUSTER UK LTD	Chichester	A	0
 VK Convenience Store	Cardiff	A	0
 VK Express Ltd	Birmingham	A	0
-VK International Limited	Newark	A	0
+VK International Limited	London	A	0
 VK Map Limited	Tyne & Wear	A	0
 VK RETAIL LTD T/A Esso	Wiltshire	A	0
 VK SIZZLE LTD	Aberdeen	A	0
@@ -4159,7 +4157,6 @@ VM International Legal Services LTD	London	A	0
 VM Private Limited	Cheam	A	0
 VM2R Services LTD	Bristol	A	0
 VMA FOOD SERVICES LTD	Pinner	A	0
-VMA Global Resourcing Group Limited	Aylesbury	A	0
 VMA Global Resourcing Group Limited	London	A	0
 VMA HEALTHCARE SERVICES LIMITED	Hull	A	0
 VMA Midlands LTD	South Cave	A	0,4
@@ -4230,6 +4227,7 @@ Voisin Consulting Life Sciences UK Ltd	Cambridge	A	0
 Voith Paper Limited	Manchester	A	0
 Voith Turbo Ltd	Croydon	A	0,4
 VOJON Swansea Limited	Swansea	A	0
+Vok Bikes Ltd	London	A	0
 Vol Group Limited	Kensington,	A	0
 Volac International Ltd	Orwell, nr Royston	A	0
 Volac Milk Replacers Limited	Royston	A	0,4
@@ -4591,6 +4589,7 @@ Wild Side Vets	Barrow in Furness	A	0
 Willett House Vets Limited	Staines	A	0
 WILLIANSHOP LTD T/A SHILLINGTON VILLAGE STORES	Beds	A	0
 Willington Care Village	Willington	A	0
+Willow View Care Home	Stockton-on-Tees	A	0
 Willow View Care LTD	Stockton	A	0
 Wilmslow Ventures Ltd	Wilmslow	A	0
 Wiloks African Village Ltd	Nottingham	A	0
@@ -4635,7 +4634,6 @@ Yate Visionplus Limited t/a Specsavers	Yate	A	0
 Yellowave Beach Sports Venue	Brighton	A	11
 Yes Ventures Ltd	Harrow	A	0
 YETTI VIP SERVICES LTD	London	A	0
-YN MOBILE AND VAPE LTD	Liverpool	A	0
 YOGI EYECARE LTD TRADING AS 20-TWENTY VISION	Chichester	A	0
 Yotta Volt UK LTD	Reading	A	0
 Young Veterinary Partnership	Ealing	A	0

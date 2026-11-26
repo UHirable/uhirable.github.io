@@ -15,7 +15,6 @@
 247 IT SERVICES LIMITED	Hamshire	A	0
 289 Imaging Ltd, Trading as 'The Ultrasound Clinic'	Silsoe	A	0
 2nd Wind IT Limited	London	A	0,2
-2R Capital Investment Management Limited	London	A	0
 3 F International Limited	Haywards Heath	A	0
 365 IT PRO LIMITED	London	A	0
 36T Hub Intl Limited	West Drayton	A	0
@@ -235,9 +234,7 @@ Aikya Investment Management Limited	London	A	0
 AIMA INTERIORS (UK) LTD	London	A	0
 Aioi Nissay Dowa Insurance Management Limited	London	A	0,4
 Air India	Brentford	A	0,4
-Air IT Ltd	Sandiacre	A	0
 airbridge international agencies ltd	Crawley	A	0
-AIRCOM International Ltd	Leatherhead	A	0,4
 AIRCOM International Ltd	Surrey	A	0
 Airedale International Air Conditioning Ltd	Leeds	A	0,4
 AirPlus International Limited	London	A	0
@@ -252,6 +249,7 @@ AJE INFRASTRUCTURE SERVICES LIMITED	London	A	0
 AK IMMIGRATION SERVICES LTD	Manchester	A	0
 AK Infrasoft LTD	Slough	A	0
 AK INNOVATIVE DESIGN SOLUTION LTD	Derby	A	0
+AKA INNOVATIONS POWER & ELECTRICAL ENGINEERING LTD	Aberdeen	A	0
 Akash Infosystems Ltd	Livingston	A	0
 AKBAR ENTERPRISES INTL LIMITED	Nottingham	A	0
 AKFA Group Investment Ltd	London	A	0
@@ -425,7 +423,6 @@ Aperture Investors UK, Ltd	London	A	0
 Apex Engage Limited t/a The Insights Family	Manchester	A	0
 Apex I.C.T UK Ltd	Batley	A	0
 Apex Innovation Labs Ltd	Liverpool	A	0
-Apex Innovations London Limited	Brentford	A	0
 Apex Insulation (North West) Ltd	Manchester	A	0
 APEX INTERNATIONAL PROPERTY SOLUTIONS LIMITED	London	A	0
 Apex International UK Limited	Retford	A	0
@@ -758,7 +755,7 @@ BECONTREE HEATH ISLAMIC SOCIETY (DAGENHAM CENTRAL MASJID) LTD	Dagenham	A	0,1,9,1
 Becton Dickinson Infusion Therapy	Swindon	A	0
 BED INNOVATION LIMITED	Dewsbury	A	0
 Bedford Greenacre Independent School	Bedford	A	0
-BEDFORD SQUARE GROUP INTERNATIONAL LTD	London	A	0
+BEDFORD SQUARE GROUP INTERNATIONAL LTD	London	A	0,4
 Bees Ice Hockey Club	Slough	A	11
 BEGUM INDIAN TAKEAWAY LTD T/A Llanberis Tandoori	Llanberis	A	0
 Behaviour Interactive UK Limited	Middlesbrough	A	0,4
@@ -791,6 +788,7 @@ Bengal 91 Ltd T/A Bayleaf Indian Takeaway	Newport	A	0
 BENGAL MASSALLA LTD TA Bengal Massalla Indian takeaway	Tamworth	A	0
 Bengal Tiger Indian Takeaway	Stockton-on-Tees	A	0
 BENJAMIN & ISAAC TAX CONSULTANTS LTD	Glasgow	A	0
+Benjamin Solicitors Limited t/as Integrity Law	Preston	A	0
 Bennetts International	Tooting	A	0
 Bentham Instruments Limited	Reading	A	0
 Bergman Interiors Limited	London	A	0
@@ -915,8 +913,6 @@ Bobst UK & Ireland Ltd	Redditch	A	0
 BOCAN INTERNATIONAL LTD	London	A	0
 Body in Motion	Bournemouth	A	0
 Boehringer Ingelheim LTD	Wokingham	A	0,4,8
-BOING INTERNATIONAL TEA LIMITED	Birmingham	A	0
-Boing International Trading Limited	Birmingham	A	0
 Bolashak International Limited	Farnborough	A	0,4
 BOLD INNOVATE LTD	Richmond	A	0
 Bold Investment Limited	London	A	0
@@ -955,7 +951,7 @@ Brand Energy & Infrastructure Services UK, Ltd	Leatherhead	A	0
 Brand Ice Ltd	London	A	0
 Brand Machine International Limited	London	A	0
 BRANDALLEY INTERNATIONAL LIMITED	Greenford	A	0
-Brands In Limited	London	A	0
+BRANDS IN LIMITED	London	A	0
 Brands International T/A Copper Fox Grill	Birmingham	A	0
 Brave Hearts International Limited	Ilford	A	0
 Braziers Park School of Integrative Social Research	Ipsden	A	1
@@ -1026,7 +1022,7 @@ Building Management Solutions Integrators Ltd.	White Waltham	A	0
 Bukhara Culture Imports Limited	London	A	0
 Bullhorn International, Limited	London	A	0,4
 Bumblebee IT Solutions Ltd	Edenbridge	A	0
-Bumper International Limited	London	A	0
+Bumper International Limited	Sheffield	A	0
 BUPANG INTERNATIONAL LTD	Manchester	A	0
 Burbeck Interiors Ltd	Twickenham	A	0
 Burda Principal Investments Limited	London	A	0,4
@@ -1292,6 +1288,7 @@ Cirdan Imaging Limited	Lisburn	A	0
 Cirrus Logic International Semiconductor Limited	Edinburgh	A	0,4
 Cisco International Limited	Cardiff	A	0,4
 Citisoft, Inc. UK	London	A	0,4
+Citizens Advice in North & Kent	Tonbridge	A	0
 Citrefine International Limited	Leeds	A	0
 CITY COLLEGE STRATFORD COMMUNITY INTEREST COMPANY	London	A	0
 City Group Inter Rent Limited	London	A	0
@@ -1429,7 +1426,6 @@ Comtech IT Services Limited	Northampton	A	0
 COMUS INN LTD	Camblesforth	A	0
 Concept Life Sciences, Integrated Discovery and Development Services Ltd.	High Peak	A	0,4
 Concordis International Trust	London	A	0,9
-Confederation of Indian Industry (CII)	London	A	0
 CONGREGATION OF THE SISTERS OF THE IMMACULATE HEART OF MARY, MOTHER OF CHRIST	Walsall	A	1,10
 Connect In Cloud Ltd	Tilbury	A	0
 Connect Into Care Limited	Willerby	A	0
@@ -1663,6 +1659,7 @@ Delian Alliance Industries UK Ltd	London	A	0
 Delicious Indian Cuisine Ltd	Fleckney	A	0
 DELIGHT INDIAN CUISINE LIMITED	Worthing	A	0
 Delta Air Lines Inc	Hammersmith	A	0,4
+DELTA CARAVANS INTERNATIONAL LTD	Hull	A	0
 Delta Rubber Imports Limited	Kidderminster	A	0
 Delta Strategies Global Investors Limited	London	A	0
 Deltec International Couriers Ltd	Hounslow	A	0,4
@@ -1738,7 +1735,6 @@ Digital Insight Technologies Limited trading as Xapien	London	A	0
 DIGITAL INSIGHTS CONSULTANCY LIMITED	Milton Keynes	A	0
 Digital Isle Limited	Newry	A	0
 Digital Media Innovations UK LTD	Gloucester	A	0
-Digital Mobile Innovations Limited	London	A	0,4
 Digitally Inspired Limited	Guildford	A	0,4
 DigitalQ UK IT Solutions Ltd	Slough	A	0
 Dignity and Choice in Dying	London	A	0
@@ -1759,6 +1755,7 @@ DIRECT SHIPPING INTERNATIONAL LIMITED	Colchester	A	0
 Director First Insolvency Limited	Kirkham	A	0
 Dirty Ice Cream Limited	London	A	0
 Disability Sheffield Centre for Independent Living	Sheffield	A	0
+Disaronno International UK Limited	London	A	4
 Discover People International Ltd	London	A	0
 Distell International Limited	East Kilbride	A	0,4
 Diversity and Integration Initiative	Belfast	A	0
@@ -1817,7 +1814,6 @@ Dr. Izza Saqib t/a Grace Dental Care Skinnergate	Darlington	A	0
 Dragon Information Systems Limited	Strixton	A	0
 DRAGON INN (LONDON) LTD	London	A	0
 DragonPass International	Cheshire	A	0
-Dragonwood Investment UK Ltd	Caridff	A	0
 Drallim Industries Limited	St Leonards On Sea	A	0
 drb Ignite Multi Academy Trust	Birmingham	A	0
 Dream It Get IT Limited	London	A	0
@@ -1852,7 +1848,6 @@ DTS Trading Inc Ltd	London	A	0
 Du Pont (U.K.) Industrial Limited	Derry	A	0
 DUAL LAYER IT SOLUTIONS (UK) LTD	London	A	0
 DUGGAL PROPERTIES & INVESTMENTS LTD	Gosforth	A	0
-Dunbai International Ltd	Bicester	A	0
 Dundas Partners LLP t/a Dundas Global Investors	Edinburgh	A	0
 Dundee Capital Investment Limited	Aberdeen	A	0
 Dundee Islamic Society	Dundee	A	1
@@ -1882,7 +1877,6 @@ Eagle Ideas Ltd	Morecambe	A	0
 EAGLE INTERIORS LTD	Basildon	A	0
 Eagle International Limited	Winchester	A	0
 EAGLE POWER MINISTRIES INTERNATIONAL	Carshalton	A	1
-EAGLE'S FLIGHT INTERNATIONAL CENTRE (EFIGOC)	Edinburgh	A	1
 EagleBurgmann Industries UK LP	Warwick	A	0,4
 Ealing Independent College	Ealing	A	0
 Earlham Institute	Norwich	A	0,12
@@ -1921,7 +1915,6 @@ Econet Investments Limited	London	A	0
 Economic Development Incorporated Ltd	London	A	0
 Economic Insight	London	A	0
 Economic, Social and Cultural Rights in the U.K	London	A	0
-ECOSAVE INSTALLATION LTD	Glasgow	A	0
 ECP Investments LLP	London	A	0
 Edanpower Installations Limited	Coventry	A	0
 Eden International Co. Ltd	Kent	A	0
@@ -2034,6 +2027,7 @@ Enable Inclusive Support Limited	Leicester	A	0
 Enable International Ltd	Stratford upon Avon	A	0,4
 Enable Investment Holdings Limited	London	A	0
 Encom International Ltd	Glasgow	A	0
+Encora Innovations UK Limited	London	A	0,4
 Energetika Industries LTD	London	P	2
 ENERGETIKA INDUSTRY SOLUTIONS LIMITED	West Yorkshire	A	0
 Energy Institute	London	A	0
@@ -2632,6 +2626,7 @@ GUL INSURANCE SOLUTIONS LTD	Preston	A	0
 Gulf International Bank UK Limited	London	A	0,4
 Gulzare Madina Islamic Welfare Trust	Northampton	A	0,1,9,10
 Gunjon Education (Int) Limited	London	A	0
+GUNTER & CO INTERIORS LIMITED	London	A	0
 Gurdwara Sachkhand Isher Darbar Society	West Bromwich	A	1,10
 GURKHA INN 17 LTD	Winchester	A	0
 Guru Nanak Gurdwara Irvine	Irvine	A	1,10
@@ -2670,7 +2665,6 @@ Hammerhead Interactive Ltd	London	A	0
 HAMMERSMITH ISLAMIC ASSOCIATION	London	A	9
 Hampshire & Isle of Wight Fire and Rescue Service	Eastleigh	A	0
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust	Southampton	A	0
-Hampton Group International Ltd	London	A	0,4
 Hamsa IT Services Limited	Nottingham	A	0
 Han Tong International Limited	London	A	0
 HANAN IT SOLUTIONS LIMITED	Leicester	A	0
@@ -2802,7 +2796,7 @@ HNS Infotech Limited	Harrow	A	0
 Hobart UK , a division of ITW Ltd	Peterborough	A	0,4
 Hodimo Info Tech Ltd	London	A	0
 Hoesh International Ltd	Leicester	A	0
-Hogan Lovells International LLP	London	A	0,4,7
+Hogan Lovells Cadwalader International LLP	London	A	0,4,7
 HOK International Limited	London	A	0,4
 HOLLY POINT LTD T/A INDIA VILLAGE TANDOORI	Sandwich	A	0
 Holovis International Limited	Hinckley	A	0
@@ -2840,6 +2834,7 @@ House of Favour International Church {Restoration Centre)	Wolverhampton	A	1
 HOUSE OF GLORY MINISTRY INTERNATIONAL	London	A	10
 HOUSE ON THE ROCK INTERNATIONAL CHURCH	London	A	1,10
 HOUSE TARGARYEN LTD T/A Old Infirmary	Worcester	A	0
+Hover, Inc Ltd	Cambridge	A	0,6
 Howe Baker International Ltd	London	A	0
 HP Inc UK Limited	Reading	A	0,4
 HP INTERNATIONAL LIMITED	Coventry	A	0
@@ -2913,6 +2908,7 @@ I G ARENA LTD	London	A	0
 I Grunwerg Ltd	Chesterfield	A	0
 I H Foods Limited	Southall, Middlesex	A	0
 I HUB TRADING LIMITED	Clevedon	A	0
+I Hussain & Associates	Nuneaton	A	0
 I K FAST FOOD LTD	London	A	0
 I Levitan Services Limited	Romford	A	0
 I Like Food Ltd T/A Cube Desserts	Bolton	A	0
@@ -2949,7 +2945,7 @@ I&J Drinks LTD	Louth	A	0
 I&L Biosystems UK LTD	Woking	A	0
 I&R Enterprises Limited	Derbyshire	A	0
 I&S Construction Limited	Dartford	A	0
-I&S GLOBAL LTD	Birmingham	A	0
+I&S GLOBAL LTD	Great Wyrley	A	0
 I&S Services Ltd	London	A	0
 I&S TRANSPORT LTD	Stockport	A	0
 I&T SERVICES LIMITED	London	A	0
@@ -3023,12 +3019,13 @@ IAC ONE LTD	Leicester	A	0
 IACADEMY INTERNATIONAL LTD	Reading	A	0
 IAE Global UK and Europe Ltd	London	A	0
 IAG Limited	Huntingdon	A	0,4
+IAG UK & EUROPE LTD	Caerphilly	A	1,10
 IAGTO Ltd	Borehamwood	A	0
 Iain McKenzie EP Ltd	Ascot	A	0
 IAM Capital Group LTD	London	A	0
 IAM Finance Limited	Watford	A	0
 IAM TECH LIMITED	Essex	A	0
-IAM Technology Group Limited	Huddersfield	A	0
+IAM Technology Group Limited	Sheffield	A	0
 IAME Ltd	London	A	0
 IAMPHD LIMITED	Nottingham	A	0
 IAN BARRETT ROOFING LTD	Fife	A	0
@@ -3057,7 +3054,6 @@ IBBI FOODS LTD t/a Pepe's Piri Piri	Cardiff	A	0
 Ibbu Kart Ltd	Newcastle Upon Tyne	A	0
 IBBY BUILDERS LTD	Oldham	A	0
 IBBY Restaurant Ltd	Glasgow	A	0
-IBC QUALITY SOLUTIONS LIMITED	London	A	0
 IBC TV Ltd.	Hmamersmith	A	4
 IBC Vehicles Limited	Luton	A	0,4
 IBCOS COMPUTERS LTD	Poole	A	0
@@ -3093,7 +3089,6 @@ Ibonshourne Ltd	London	A	0
 IBOSA PROPERTIES UK LTD	London	A	0
 Iboski African Shop Ltd	Hartlepool	A	0
 IBOX Healthcare Ltd	Leeds	A	0
-IBR PROPERTY SERVICES LTD.	Harrow	A	0
 Ibra's Pizza & Grill AKA I & I Pizza & Grill Ltd	Sheffield	A	0
 IBRAHIM & RAYAN TECHNOLOGIES LTD	Didcot	A	0
 IBRAHIM 15 LTD	Edinburgh	A	0
@@ -3148,11 +3143,10 @@ iCare Services Agency Limited	West Midlans	A	0
 Icare Solutions Global Ltd	Manchester	A	0
 iCare Solutions Stockport	Stockport	A	0
 iCare Solutions Wirral Ltd	Wallasey	A	0
-ICAREER CONSULTANCY UK LTD	London	A	0
 Icarus Online SCIO	Edinburgh	A	0
 ICASE LTD T/A FonePlanet	Preston	A	0
 ICAX Limited	London	A	0
-ICBC (London) plc	London	A	4
+ICBC (London) plc	London	A	0,4
 ICBC Standard Bank PLC	London	A	0,4
 ICBS Synergy Private Limited	London	A	0
 ICC Missions	Buckhurst Hill	A	1,9,10
@@ -3394,6 +3388,7 @@ IDUNA OMA LIMITED	Manchester	A	0
 Idverde Limited	Coventry	A	0,4,7
 Idx Corporation London Ltd	Swindon	A	4
 IDX Technology Europe Ltd	Slough	A	0
+IE EVENTING LTD	Godalming	A	11
 IE SERVICES LTD	Norbury	A	0
 IEA Environmental Projects Ltd	Cheltenham	A	0
 IEC LIMITED	Poole	A	0
@@ -3607,6 +3602,7 @@ IL PESCATORE TRADING LIMITED	Paisley,	A	0
 IL SAPORE ITALIAN LTD	Wigan	A	0
 Il TRICOLORE Ramsgate ltd	Ramsgate	A	0
 ILAPAK LIMITED	Cowley	A	0
+iLaw Solicitors Limited t/a Culbert Ellis	London	A	0
 Ilchester Estates	Dorchester	A	0
 Ilco Limited	Birmingham	A	0
 ILCON LIMITED	London	A	0
@@ -3846,7 +3842,7 @@ Impact and Growth Advisors Ltd	London	A	0
 Impact Care Limited	Harold Hill	A	0
 IMPACT CARE-UK LIMITED	Hornchurch	A	0
 Impact Childcare and Education Ltd	Newcastle Upon Tyne	A	0
-IMPACT CONTROL SYSTEMS LTD	Liverpool	A	0
+Impact Control Systems Ltd	Liverpool	A	0
 Impact Cubed Data Analytics Limited	London	A	0
 Impact Cubed Limited	London	A	0
 Impact Cubed LLP	London	A	0
@@ -3866,7 +3862,6 @@ IMPACT PROJECT SOLUTIONS	Bexleyheath	A	0
 Impact Radius Ltd	London	A	0,4
 Impact Services	St Helens	A	0
 Impact social value reporting Ltd	Kingston Upon Hull	A	0
-Impact Social Value Reporting Ltd	Manchester	A	0
 Impact Subsea Ltd	Aberdeen	A	0
 Impact Women Network CIC	Bradford	A	0
 Impact XM Europe Limited	Leatherhead	A	0
@@ -3923,6 +3918,7 @@ IMPERIAL FORECOURTS NW LTD	Bolton	A	0
 IMPERIAL GRACE LTD	London	A	0
 IMPERIAL HOME IMPROVEMENT LTD	Newark	A	0
 IMPERIAL HOMEWARE LONDON LIMITED	Birmingham	A	0
+Imperial Hospitality Management Limited	Milton Keynes	A	0
 IMPERIAL HOUSE BANQUETING LTD	Croydon	A	0
 Imperial IT Business Solutions Ltd	Chester	A	0
 Imperial Lance Limited	Coventry	A	0
@@ -4216,7 +4212,6 @@ INDIA ZONES	Gloucester, Gloucestershire	A	0
 IndiaCast UK Ltd	Harrow	A	0,3,4
 Indian Affair Limited	Birmingham	A	0
 INDIAN ARK KENILWORTH LTD TA Indian Ark	Kenilworth	A	0
-Indian Aroma Cuisine Limited	Ilford	A	0
 Indian Basmati Lmited	Edinburgh	A	0
 Indian Brasserie NE Ltd	Seahouses	A	0
 Indian Buffet Restaurant Ltd t/a Princess of India	Morden	A	0
@@ -4480,6 +4475,7 @@ Infinity Technology Solutions	Tunbridge Wells	A	0
 Infinity Worx LTD	Weston-Super-Mare	A	0
 Infinityblu Dental Care & Implant Clinic	Aberdeen	A	0
 INFINITYRIDE LTD	Aylesbury	A	0
+Infinitystay Ltd t/a Manor Hotel	Exmouth	A	0
 INFINIVO LTD T/A FILTA BLACKPOOL	Manchester	A	0
 Infinox capital Limited	London	A	0
 Infinox Ltd	London	A	0
@@ -4507,6 +4503,7 @@ Infobric Limited	Liverpool	A	0
 Infocat Limited	London	A	0
 Infocepts Limited	London	A	0
 INFOCOM IT (UK) LTD	London	A	0
+INFOCORPERP LTD	London	A	0
 InFocus Charity	Exeter	A	0
 INFOCUS CONSULTANTS LIMITED	Ilford	A	0
 infogr8 limited	London	A	0
@@ -4532,7 +4529,6 @@ Informa UK Limited	London	A	0,4
 Informatica Software Ltd	Maidenhead	A	0,4
 Information Asset Management Solutions Ltd	Colchester	A	0
 Information Catalyst for Enterprise Limited (Information Catalyst / ICE)	Rhyl	A	0
-Information Commissioners Office	Wilmslow	A	0
 Information Control and Planning Ltd	Milton Keynes	A	0
 Information Development Co., Ltd. London Branch	London	A	0,4
 Information Edge Limited	Windlesham	A	0
@@ -4594,6 +4590,7 @@ InfraVia Partners UK Limited	London	A	0,4
 INFRONT SPORTS & MEDIA UK LIMITED	London	A	0
 Inftek Ltd	Solihull	A	0
 Infuse Consulting Limited	Leicester	A	0,4
+Infuse Consulting Limited	London	A	0,4
 INFUSION HABERDASHERY LTD	London	A	0
 Infusion Newcastle Ltd	Newcastle upon Tyne	A	0
 INFY ASSETS LIMITED	Northfleet	A	0
@@ -4607,6 +4604,7 @@ INGARAN & BROTHER LTD	South Croydon	A	0
 INGENA UK LTD	London	A	0
 INGENI SOLUTIONS LIMITED	Maidenhead	A	0
 Ingenico UK Ltd	Dalgety Bay	A	0,4
+INGENIERIA DEL ANDAMIO Y SERVICIOS AQUA UK	London	A	0,4
 Ingenious Capital Management Services Limited	London	A	0
 Ingenious Power Engineering Ltd	Reading	A	0
 Ingenious Solutions Limited	Bournemouth	A	0
@@ -4641,7 +4639,6 @@ Inheriting Earth Limited	Bristol	A	0
 INHUS Limited	Leeds	A	0,4
 Inicio Educational Trust	Chislehurst	A	0
 INICIO TECH Limited	Birmingham	A	0
-Inigo Limited	London	A	0
 Inigo Ltd	London	A	0
 Inislyn Limited T/A Voco Belfast	Belfast	A	0
 Initiate Consultancy Limited	Alderton	A	0
@@ -4654,6 +4651,7 @@ Iniya Clinic Limited	Stanmore	A	0
 Inizio Evoke Europe Limited	London	A	0,4
 Inizio Services UK Limited	London	A	0,4
 INJECTION SPECIALIST LTD	Ilford	A	0
+Injury Rehabilitation Care Centre Limited	Doncaster	A	0
 Injurytime physiotherapy LTD	Aberdeen	A	0
 Ink (Clothing) Limited	Watford	A	0
 Ink Associates Limited	London	A	0
@@ -4726,6 +4724,7 @@ INNOTECH DIGITAL & DISPLAY LTD	Bardon,	A	0
 Innoture	Oxford	A	0
 Innov8 Development Solutions	Manchester	A	0
 Innov8 Technology Ltd	Stockport	A	0
+innov8 Workshops	Bury St Edmunds	A	0
 Innova Care Concepts Limited	Wetherby	A	0
 Innova Care Limited	Braintree	A	0
 Innova Consultancy Limited	Watford	A	0
@@ -4763,7 +4762,6 @@ INNOVATION FRESH UK PVT LIMITED	Middlesex	A	0
 INNOVATION IT CONSULTING LIMITED	London	A	0
 Innovation Pod Limited	Warwickshire	A	0
 Innovation Tax Specialists Limited	Welwyn Garden City	A	0
-Innovation Technology and Business Solutions Limited	London	A	0,4
 INNOVATIONS BUILDING SERVICES LTD	Slough	A	0
 Innovations Consulting Ltd	Bedford	A	0
 Innovations Wiltshire Ltd	Marlborough	A	0
@@ -4803,11 +4801,13 @@ Innoviex Limited	London	A	0
 Innovis Consulting Limited	London	A	0,4
 INNOVISION GLOBAL CONSULTING LTD	Chelmsford	A	0
 Innovisk Services Limited	London	A	0
+Innovius Capital Management UK Limited	Chelsea, London	A	0
 Innovix IT Solutions Limited	Reading	A	0
 INNOVIZ Limited	Cranfield	A	0
 Innovo Holding Limited	London	A	0,4
 InnoWave-Tech Limited	Newbury	A	0
 INNOWISE SOLUTIONS LIMITED	Leicester	A	0
+Innowise Works Ltd	Garforth	A	0
 Innowood Limited	St.Leonards-On-Sea	A	0
 Innroom Ltd T/A The Blue Boar Inn	Alcester	A	0
 Innroom Ltd TA The Blue Boar Inn	Alcester	A	0
@@ -4836,7 +4836,6 @@ INOVATI Limited	Belfast	A	0
 INOVENTIVE SERVICES LIMITED	Northampton	A	0
 Inovex Systems Limited	Kettering	A	0
 Inovia Capital (UK) Limited	London	A	0,4
-Inoxilos UK Ltd.	London	A	0,4
 INPAAS UK LTD	Wrexham	A	0
 Inpach Solutions Limited	Newcastle upon Tyne	A	0
 Inpans Two Limited T/A Bridge Convenience	Beckenham	A	0
@@ -5516,6 +5515,7 @@ Interpart (U.K.) Limited	Manchester	A	0
 Interpath Limited	London	A	0
 Interpid Care & Support Limited	Kettering	A	0
 Interplas Recycling Limited	Camberley	A	0
+Interpower Induction Ltd	Walsall	A	0
 Interprint Documents Limited	Knaresborough	A	0
 Interpub Plc	London	A	0
 Interpublic GIS UK Ltd	London	A	0,4
@@ -5541,6 +5541,7 @@ Intesa Sanpaolo SpA London Branch	London	A	0,4
 Inteum International Ltd	Edinburgh	A	0
 Intex Solutions Europe Limited	London	A	0,4
 Intexco Design Ltd	Romford	A	0
+Intigriti Ltd	London	A	0
 Intimacy in Arts Ltd	Glasgow	A	0
 Intix Ticketing Limited T/A Intix	London	A	0
 Into Care Limited	Milton Keynes	A	0
@@ -5556,7 +5557,7 @@ Intrad Group Ltd	Bolton	A	0
 Intrade Consultant UK Limited	London	A	0
 Intradiem UK Limited	Bristol	A	0,4
 Intrado Solutions Limited	Gloucester	A	0,4
-Intraedge Limited	Solihull	A	0
+Intraedge Limited	London	A	0
 Intragen Limited	Chelmsford	A	0
 Intrahealth Liimited	Peterlee	A	0
 Intralink Limited	Abingdon	A	0
@@ -5579,7 +5580,6 @@ INTRINSIC FINANCIAL LTD	Wolverhampton	A	0
 Intrinsic Group Limited	Allendale	A	0
 Intrinsic Semiconductor Technologies Limited	Brill	A	0
 Intriva Services Limited	London	A	0,4
-Intrix systems Limited	Rickmansworth	A	0
 Introba Consulting Limited	London	A	0,4
 Introe Limited	London	A	0
 Introhive UK Limited	London	A	0
@@ -5654,11 +5654,13 @@ INVERNESS BUSINESS LTD	Banchory	A	0
 Inverness Caledonian Thistle Football Club	Inverness	A	0,11
 INVERNESS MASJID ASSOCIATION	Inverness	A	0
 INVERNESS PAVING LTD	Inverness	A	0
+Inverness Smile Centre Ltd	Inverness	A	0
 Inverness Visionplus Ltd	Inverness	A	0
 INVERROY CRISIS MANAGEMENT LIMITED	Edinburgh	A	0
 Inverse Lighting Design Ltd	London	A	0
 Inversity LTD	London	A	0
 Inverskilavulin Estate	Fort William	A	0
+INVERT DEVELOPMENTS LIMITED	London,	A	0
 Inverted:Circus and Pole Fitness Limited	Aberdeen	A	0
 Invertek Drives Limited	Welshpool	A	0,4
 Inverter Drive Repair Limited	Aldershot	A	0
@@ -5680,8 +5682,8 @@ INVESTENGINE (UK) LIMITED	London	A	0
 Investgrow Financial Services Ltd	Sutton Coldfield	A	0
 Investigo Limited	London	A	0,4
 Investindustrial Advisors Limited	London	A	0
+INVESTINDUSTRIAL ADVISORY SERVICES LIMITED	London	A	0,4
 Investindustrial Corporate Services Limited	London	A	0,4
-Investindustrial Management Limited	London	A	0,4
 Investis Digital Limited	London	A	0,4
 INVESTMATRIX INVESTMENTS LTD	London	A	0
 Investment Association	London	A	0
@@ -5906,7 +5908,6 @@ IQE (Europe) Limited	St Mellons	A	0,4
 IQEQ DIGITAL LTD	Birmingham	A	0
 IQF (Integrated Qualification Framework) Ltd.	Forest Gate, London	A	0
 IQGeo UK Limited	Cambridge	A	0
-IQLIK LTD	Manchester	A	0
 IQM Medical LTD	Birmingham	A	0
 IQPC Limited	London	A	0,4
 IQPLUS CHILDCARE AND EDUCATIONAL SERVICES LIMITED	Hemel Hempstead	A	0
@@ -5933,8 +5934,8 @@ IRAKORA LIMITED	London	A	0
 Iran Air, The Airline of the Islamic Republic of Iran	London	A	4
 Iranian Oil Company (UK) Ltd	Aberdeen	A	0,4
 IRARA Services Ltd	Sheffield	A	0,12
+IRAVYA INFRASTRUCTURE LTD	London	A	0
 Iraye group Limited	Luton	A	0
-Irbis Capital Ltd.	London	A	0
 IRC Care Services	Oxted	A	0
 IRCA Manufacturing UK Limited	York	A	0,4
 IRECRUIT NOW LTD	London	A	0
@@ -5982,8 +5983,8 @@ iRobot UK Limited	London	A	0,4
 Iroko Securities Limited	London	A	0
 IRON SOLUTIONS LIMITED	Norton	A	0
 Iron Wealth Management Limited	Milton Keynes	A	0
-Ironbridge Holdings Limited	London	A	0
 Ironbridge Medical Practice	Telford	A	0
+Ironbridge Tech Limited	London	A	0
 Ironclad Contracting UK Limited	London	A	0,4
 Irongate Ltd	Winstone	A	11
 Ironhall Hospitality (Bradford)	Preston	A	0
@@ -6156,8 +6157,8 @@ ISN Europe Limited	Huntingdon	A	0
 ISN Software UK Ltd	London	A	0,4
 ISO BUILD LTD	Bolton	A	0
 ISO Design	Glasgow	A	0
-ISO Sushi (Chapel Ash) Limited	Wolverhampton	A	0
 ISO Sushi (Cheadle) Ltd	Stockport	A	0
+ISO Sushi CA Limited	Wolverhampton	A	0
 ISO SUSHI STOURBRIDGE LTD	Stourbridge	A	0
 Isobel Advertising Ltd	London	A	0
 Isochem Polyurethanes UK Limited	Newcastle upon Tyne	A	0
@@ -6181,6 +6182,7 @@ Isonets limited	Gatley	A	0
 Isopol Consulting Limited	St Albans. Herts	A	0
 Isotest Limited	Daventry	A	0
 iSource Ltd	Watford	A	0
+ISP Global Advisory	London	A	0
 ISP MARKETING LTD	London	A	0
 ISPSL 2031 LIMITED	London	A	0
 Isquare Tech Solutions Ltd	Dartford	A	0
@@ -6223,6 +6225,7 @@ iszwh Limited	Camberley	A	0
 IT ACCESS LTD	Bolton	A	0
 IT Autos Ltd	Birmingham	A	0
 IT Big Bang Limited	Peterborough	A	0
+IT Blackbelt Ltd	Bradford	A	0
 IT CATERS LIMITED	Bath	A	0
 IT CONNECTS LONDON LTD	Slough	A	0
 IT CORPORATE LTD	Essex	A	0
@@ -6427,10 +6430,8 @@ Ivolve Care Holdings Limited	Chesterfield	A	0
 Ivonbrook Properties	Matlock	A	0
 Ivor King (C.E.C.) Limited	Nuneaton	A	0
 Ivors Academy Trust	London	A	0
-Ivory & Ledoux Limited	London	A	0
 Ivory Group Real Estate LTD	London	A	0
 Ivory Interiors Limited	London	A	0
-Ivory Rose Care	Brentwood	A	0
 Ivory Seasons limited	London	A	0
 IVORYBOND LIMITED	Wembley	A	0
 Ivry Street Medical Practice	Ipswich	A	0
@@ -6501,7 +6502,6 @@ IZone Driver Performance Ltd	Silverstone	A	0
 Izra Cuisine Ltd	Kent	A	0
 Izumi Products UK Ltd	Bishop Auckland	A	0
 IZVG LLP	Keighley	A	0
-Izyan Ltd	Glasgow	A	0
 Izzie & Ollie LTD	London	A	0
 IZZY DRYLINING LIMITED	Gravesend	A	0
 Izzy Home Furnishing Ltd T/A Izzy Home Store	London	A	0
@@ -6548,6 +6548,7 @@ James Mae Industries Limited	Bradford	A	0
 James Park Associates International Limited	Hackney	A	0
 James Robinson Speciality Ingredients Ltd	Huddersfield	A	0
 Jamia Islamia (Islamic & Community Centre) Trust	Glasgow	A	9
+JAMIA ISLAMIA (ISLAMIC STUDIES CENTRE) TRUST	Nuneaton	A	9
 Jamia Islamia Ghousia Trust	Luton	A	1,9,10
 Jamia Masjid Kanzul Iman	Heckmondwike	A	1
 Jamiat Ittihad-Ul-Muslimin t/a Glasgow Central Mosque	Glasgow,	A	1
@@ -6581,7 +6582,6 @@ JDP INTERNATIONAL LIMITED	Bournemouth	A	0
 Jean Allen Care Services Limited T/A Home Instead - Clacton Frinton and Walton	Colchester	A	0
 Jefferies International Limited	London	A	0,4
 Jenkins IP Limited	London	A	0
-Jensin Ltd t/as Castello Italia	Carrickfergus	A	0
 Jentry (International) Limited	London	A	0
 Jessika Kitchen Ltd. T/As 29 States the Indian Kitchen	York	A	0
 Jesuits in Britain CIO	London	A	0,1,10
@@ -7154,7 +7154,6 @@ MANAGED IT SOLUTIONS & SUPPORT LIMITED	Oldham	A	0
 Manav Seva Community Centre Community Interest Company	Leicester	A	0
 MANCHESTER IMPORT AND EXPORT TRADING LTD	Manchester	A	0
 Manchester International Festival	Manchester	A	0,3
-Manchester Islamic Institute t/a Manchester Islamic Centre	Manchester	A	1,9,10
 Manchester naat association Comunity Interest CompanyT/A The Alliance Of Muslim Artists	Manchester	A	10
 Manchester Storm IHC	Altrincham	A	11
 Manda International Logistics Ltd	Cardiff	A	0
@@ -7261,7 +7260,6 @@ MC International Haulage Limited	Ashford	A	0
 McAlpine Grant Ilco Ltd	Oxford	A	0
 McCloskey International Ltd	Coalisland	A	0,4
 McCulla (Ireland) Limited	Lisburn	A	0
-McCulla Ireland Limited	Lisburn	A	0
 McKenzie Intelligence Services	London	A	0
 McKinsey & Company Inc. United Kingdom	London	A	0,4,7
 Md Mohon Ahmed TA Surma Indian Takeway	Belfast	A	0
@@ -7315,6 +7313,7 @@ Mercurius IT Limited	Milton Keynes	A	0,4
 MERGEN IT LTD	Colchester	A	0
 Meridian Impact CIC	Cambridge	A	0
 Meridian Investment Group Limited t/a Invicta Hotel	Plymouth	A	0
+Meridian IT Ltd	Henley-in-Arden	A	0
 MERIDIAN IT SERVICES LIMITED	Barking	A	0
 Meridian Marketing International Ltd	Sunbury on Thames	A	0
 MERIDYENS INVESTMENT LTD	Herfordshire	A	0
@@ -7382,7 +7381,7 @@ Mint Leaf Indian Ltd	Sheffield	A	0
 Minx Clothing (International) Ltd	Manchester	A	0
 MIRA INTERIORS LTD	Romford	A	0
 Miracle Inside UK Ltd	Leeds	A	0
-MIRACLE INTERNATIONAL CONTRACTING & TRADING CO. LTD	Bristol	A	0,4
+MIRACLE INTERNATIONAL CONTRACTING & TRADING CO. LTD	Milton Keynes, Buckinghamshire,	A	0,4
 Miracle IT System Ltd	Chertsey	A	0
 Miragon Investments Ltd	Altrincham	A	0
 MIRAL International Limited	London	A	0
@@ -7412,8 +7411,10 @@ MMN RESTAURANT LTD T/A AKHI INDIAN RESTAURANT	Grange Over Sands	A	0
 MMR MIDLANDS LTD T/a Mela Indian Restaurant	Birmingham	A	0
 Mmv Fibre Infinity Ltd	Watford	A	0
 MN BD IT SOLUTIONS LTD	Chelmsford	A	0
+MNK International Limited	London	A	0
 MNM IT Services Limited	Blackburn	A	0
 Mobi Hub International Limited	Middlesex	A	0
+Mobi-hub Ireland Ltd	Belfast	A	0
 Mobile Cottage Ltd T/A iRepair	York	A	0
 Mobile Systems International Consultancy Ltd	London	A	0
 MOBILE TECH INTL LIMITED	Derby	A	0
@@ -7566,7 +7567,6 @@ Nandaâ??s Capital And Investments Pvt Ltd	Aylesbury	A	0
 Napa Interiors Limited	Reading	A	0
 NAS International Ltd	London	A	0
 Nas Investments UK Ltd	Surrey	A	0
-NASI ISDA LTD	Essex	A	0
 Nasi Isda Woodford Ltd	London	A	0
 NASIR IFTEKHAR & CO LIMITED	London	A	0
 NASKAM COMMUNITY INTEREST COMPANY	Nottingham	A	0
@@ -7588,7 +7588,6 @@ Navaratna South Indian Restaurant Limited	Croydon	A	0
 Navera Investment Management Ltd	London	A	0
 Navigator Insight Limited	Leicester	A	0
 NAVSA INTERNATIONAL LIMITED	Milton Keynes	A	0
-NAWAABKITCHEN LIMITED T/A NAWAAB INDIAN RESTAURANT	Camborne	A	0
 NAWAAZ INDIAN RESTAURANT LTD	Leicester	A	0
 Nawabi Indian Take Away	Oxford	A	0
 Nawafeth Majestic International Aluminium & Glass Work UK Ltd	Slough	A	0
@@ -7720,6 +7719,7 @@ Noor ul Huda International	London	A	9
 Noora Foods Limited T/A Mango Tree Indian Takeaway	Maidstone	A	0
 Nordic Capital Investment Advisory LLP	London	A	0,4
 Norm It Ltd	London	A	0
+NORTH ATLANTIC INTERNATIONAL TRADING CO LTD	London	A	0
 North Cumbria Integrated Care NHS Foundation Trust	Carlisle	A	0
 North Haven Infrastructure III Holdings Limited	London	A	0
 North West Surrey Integrated Care Services (NICS) Ltd	Staines-Upon-Thames	A	0
@@ -7883,7 +7883,7 @@ Origin Education UK International Cultural Exchange Ltd	London	A	0
 Origin Import and Export Limited	Bradford	A	0
 Original Business IT Solutions LTD	Barry	A	0
 Orion Incorporation Ltd T/A halalworld	Birmingham	A	0
-Orion Innovation Solutions UK Limited	Stevenage	A	0
+Orion Innovation Solutions UK Limited	London	A	0
 Orkney Islands Council	Kirkwall	A	0
 Ornami Imports Limited	Long Eaton	A	0
 Ornate I Limited	London	A	0
@@ -7905,9 +7905,11 @@ Ove Arup and Partners International Ltd	London	A	0,4
 Overseas Immigration LTD	Hounslow	A	0
 Overseas Immigration Services UK Ltd	Southall	A	0
 Overseas Interpreting Ltd	London	A	0
+Overseas Interpreting Ltd	Pinner	A	0
 Oxbridge International Education Ltd	High Wycombe	A	0
 Oxford Centre for Islamic Studies	Oxford	A	0
 Oxford Gene Technology IP Limited	Kidlington	A	0,4
+Oxford Human Capital Incorporated Ltd	Faringdon	A	0
 Oxford Immune Algorithmics Ltd	Reading	A	0
 Oxford Immunotec Limited T/A Revvity	Abingdon	A	0,4
 Oxford Indices Ltd	High Wycombe	A	0
@@ -7970,7 +7972,6 @@ Parsons Group International limited	London	A	0,4
 PARTH CAPITAL LIMITED T/A PARTH INSIGHT PARTNERS	London	A	0
 Partnering in Property Management Limited	Carlisle	A	0
 Partners in Change Consulting Limited	Manchester	A	0
-Partners in Performance UK Limited	London	A	0,4
 Partners in Support	Stevenage	A	0
 Pascoe International Limited	Southampton	A	0
 PASHA IT CONTRACTORS LTD	Bradford	A	0
@@ -7984,7 +7985,6 @@ Patrons International	Kilkeel	A	1,9,10
 Paul Andrew International Limited	Birmingham,	A	0
 Paul Mellon Centre for Studies in British Art	London	A	0,4
 Paul's Fruit & Veg (Western International) Ltd	Southall	A	0
-Pay IO Limited	36-38 Cornhill	A	0
 Payment Services Integrators Limited	Bexley	A	0
 Payments Innovation Forum Ltd	London	A	0
 PB International Travel Limited	London	A	0,11
@@ -8092,7 +8092,7 @@ Plan I.T. European Limited T/A The Sun Hotel	Cumbria	A	0
 Planit IE Ltd	Altrincham	A	0
 Plant Integrity Management Ltd	Woodburn House	A	0
 Plant-Ex Ingredients LTD	Bristol	A	0
-Platinum Equity Advisors International (UK) Limited	London	B	0,4
+Platinum Equity Advisors International (UK) Limited	London	A	0,4
 PLATINUM INFRASTRUCTURE LIMITED	Coventry	A	0
 Platinum International Brands Limited	Leicester	A	0
 Playbook Investments Limited	London	A	0
@@ -8261,9 +8261,9 @@ Pub Invest Group Limited	Liverpool	A	0
 PUBLIC Group International Limited	London	A	0,4
 Public Interest Incorporated Association The Japan Association of Marine Safety London Office	London	A	0,4
 Public Solutions inc. Limited	Oldham	A	0
+Pulse Insurance Limited	Brackley	A	0
 Puma Investment Management Limited	London	A	0
 PUNJAB NATIONAL BANK (INTERNATIONAL) LIMITED	London	A	0,4
-Punto Italian Restaurant	London	A	0
 PURBELI INCORPORATION LIMITED	Camberley	A	0
 Pure Fine Indian Food Limited T/A Pure Indian Cooking	London	A	0
 PURE IP Limited	London	A	0
@@ -8281,7 +8281,6 @@ QED Investors UK Limited	London	A	0,4
 QFEX International Ltd.	London	A	0
 QH IP Ltd	Crawley	A	0
 QIC European Investment Services Limited	London	A	0,4
-QLOGIC INC LTD	Bristol	A	0
 QQ INCORPORATION LIMITED	Dagenham	A	0
 QSC UK & Ireland Ltd	Egham	A	0
 Quadram Institute Bioscience	Norwich	A	0,12
@@ -8318,6 +8317,7 @@ R H Independent Healthcare Ltd	Airdrie	A	0
 R Squared Investments Ltd	Grantown on Spey	A	0
 R SYSTEMS COMPUTARIS INTERNATIONAL LIMITED	Waterlooville	A	0,4
 R.M Indian Limited	Essex	A	0
+R.P.M. Installations (Kent) Limited	West Malling	A	0
 R2 Investments Ltd	Leeds	A	0
 Rabb Di Awaaz Ministries International Ltd	West Bromwich	A	1,9,10
 RABBANIAH ISLAMIC CULTURAL CENTRE	Cardiff	A	0,9
@@ -8329,9 +8329,10 @@ Radhuni 2 Ltd T/A Agra Indian Cuisine	Belfast	A	0
 Radiant Infrastructure 1 Ltd	London	A	0
 Radwell International UK Ltd	Newcastle Under Lyme	A	0,4
 Rafael International Limited	Winnersh	A	0
-RAFAH INTERNATIONAL	Batley	A	9
+RAFAH INTERNATIONAL	London	A	9
 RAGA OIL INDUSTRY UK LTD	London	P	2
 RAHIL INDIAN CUISINE LTD t/a Rahil Restaurant	Barry	A	0
+RAIDEN INDUSTRIES LIMITED	Birmingham	A	0
 Raiders IHC Limited	Leigh on Sea	A	11
 Raiffeisen Bank International AG	London	A	0,4
 RAINBOW INDIAN STREET FOOD LTD	Harrow	A	0
@@ -8340,8 +8341,8 @@ Rainmaking Innovation Limited	London	A	0
 Raised in Bristol Community Interest Company	Bristol	A	0
 Raitech It Servces/trainings Ltd	Ipswich	A	0
 Rajbhog Indian Grocery Limited	London	A	0
-RAJPOOT (ILMINSTER) LTD	Manchester	A	0
 Rajpoot Indian Ltd	Melksham	A	0
+RAJSPICE ILMINSTER LTD	Ilminster	A	0
 Rakuten Insight UK Limited	London	A	0,4
 Ralph Appelbaum Associates Inc	London	A	0
 Ralph Coleman International Limited	Coventry	A	0
@@ -8742,7 +8743,6 @@ Securis Investments Limited	London	A	0,4
 Sedex Information Exchange Limited	London	A	0,4,7
 Sedgwick International UK	London	A	0,4
 seen interiors ltd	Notting Hill	A	0
-Sefas Innovation Ltd	Bristol	A	0
 Sega International Limited	West Bromwich	A	0
 SEI Investments (Europe) Ltd	London	A	0,4
 Seibu Prince Hotels Worldwide, Inc.	London	A	0,4
@@ -8779,7 +8779,6 @@ Serveo Industria UK Ltd	Ellesmere Port	A	0,4
 Service Management Integrations Ltd	London	A	0
 SERVION IT RESOURCING LTD	London	A	0
 Setna iO Ltd	Watford	A	0
-Seure Glaze UK Home Improvements LTD T/A Secure Glaze Group UK	Birmingham	A	0
 Seven Star I Limited	Exeter	A	0
 SEVENHILLS INFOTECH LIMITED	Southend-On-Sea	A	0
 Severfield Commercial & Industrial (NI) Ltd	Ballinamallard	A	0
@@ -8817,7 +8816,6 @@ Sharon E Booth T/a Incentive II	Portavogie	A	0
 Sharp IT Services (UK) Limited	High Wycombe	A	0
 Sharq Immigration Legal Services	Birmingham	A	0
 Shawston International	Denton	A	0
-Sheep Included Ltd	London	A	0
 Sheffield Forgemasters International Limited	Sheffield	A	0,14
 Sheffield Industrial Saws Limited	Sheffield	A	0
 Sheldon International Ltd	Leicester	A	0
@@ -8833,7 +8831,6 @@ Shiamak Davar International Limited	London	A	0
 SHIELD INTERNATIONAL CONTRACTING LTD	London	A	0
 SHIHEJI LIMITED T/A ISLANDS NEWS	London	A	0
 Shikara Indian Restaurant Ltd	Whitley Bay	A	0
-Shikumen Investment (W12) Ltd	London	A	0
 Shilpa Indian Restaurant Ltd	London	A	0
 Shine International UK	London	A	1,9,10
 Shinkin International Ltd	London	A	0,4
@@ -8851,6 +8848,7 @@ SHOP INC LTD	Leicester	A	0
 SHOPIFACTOR INTERNATIONAL LTD	Oldham	A	0
 Shopperholic International Limited	Stoke-On-Trent	A	0
 Shorts International Limited	London	A	0
+SHOTTS DENTAL AND IMPLANT CENTRE LTD	Glenrothes	A	0
 Shree Bharatiya Mandal (Indian Association-Tameside),Indian Community Centre	Ashton U Lyne	A	10
 Shree Hariji Limited T/A Cake Inn	Norwich	A	0
 Shree Infotech Limited	Rugby	A	0
@@ -8907,6 +8905,7 @@ Sinochem International Oil (London) Co Limited	London	A	0,4
 Sinomax International Limited	Hampton	A	0
 Sinomax International Ltd	London	A	0
 Sinopec Century Bright Capital Investment (UK) Limited	London	A	0,4
+SIP (INDUSTRIAL PRODUCTS) LIMITED	Loughborough	A	0
 SiriusPoint International Insurance Corporation	London	A	0,4
 SISL INFOTECH UK LTD	Watford	A	0,4,7
 SITA Information Networking Computing UK Ltd	Hayes	A	0,4
@@ -8974,6 +8973,7 @@ SNJ PARTNERSHIP LTD t/a InstaFix	Loughborough	A	0
 Snowball Investment and Management Consultant Ltd trading as The Live Inn Whitbourne	Worcester	A	0
 SNR INC LTD	Colwick	A	0
 SNR INTERNATIONAL LIMITED	Uxbridge, Middlesex	A	0
+SNS International LTD	Mitcham	A	0
 SNS IT Limited	London	A	0
 SNS PROPERTIES & INVESTMENTS (UK) LTD	Stanmore	A	0
 Snyder UK Investments Limited	London	A	0
@@ -9055,7 +9055,6 @@ SPICE HUT EXPRESS (ILFORD) LTD	Ilford	A	0
 SPICE I AM LTD	Worthing	A	0
 SPICE INDIAN CUISINE LTD	Saltburn-By-The-Sea	A	0
 Spice Island	Bolton	A	0
-Spice Island (Shropshire) Ltd	Newport	A	0
 SPICE ISLAND TAKEAWAY DARLINGTON LTD	Darlington	A	0
 Spice Lounge (Devon) Limited T/A Spice Lounge Indian Cuisine	Ilfracombe	A	0
 SPICE OF INDIA (BRIDGEWATER) LTD T/A Cinnamon Takeaway	Bridgewater	A	0
@@ -9071,7 +9070,6 @@ Spinway International Limited	London	A	0
 Spirit It Services Ltd	Ilford	A	0
 Spitfire Inbound Ltd	London	A	0
 Splash Business Intelligence UK Ltd	Brighton	A	0,4
-Spliced Inc Limited	Altrincham	A	0
 SPM Plastics Limited t/a UPG International	Mid Glamorgan	A	0
 Spooner Industries Limited	Ilkley	A	0
 Sporting Index Ltd	London	A	0,4
@@ -9132,6 +9130,7 @@ STAREUROPE TOURS IN UK (PVT) LTD	Sutton	A	0
 STARIUS INCORPORATION LIMITED	London	A	0
 Stark International Inc T/A Stark Carpet	London	A	0
 Stark Software International Ltd.	Horley	A	0
+STARLIGHT LABS, INC LTD	London	A	0
 Starr in the Community CIC	Congleton	A	3
 Starr International Services (UK) Limited	London	A	0
 State Bank of India	London	A	4
@@ -9316,7 +9315,7 @@ Tavistock Investments Plc	Ascot	A	0
 Tax Innovations Limited	Winchester	A	0
 Taziker Industrial Limited	Chorley	A	0
 TBS London (Tokyo Broadcasting System Inc.)	London	A	4
-TDG INTERNATIONAL LTD	London	A	0
+TDG INTERNATIONAL LTD	Hounslow	A	0
 TDI Innovations Ltd	Stratford Upon Avon	A	0
 TDS INVESTMENTS LTD	Sheffield	A	0
 Teacher Retirement Investment Company of Texas Limited	London	A	0,4
@@ -9413,7 +9412,6 @@ The Baidoo Interiors Ltd	London	A	0
 The Bart Ingredients Co Ltd	Bristol	A	0,7
 The Basic Ingredients Ltd	London	A	0
 The Beatson Institute for Cancer Research	Glasgow	A	0
-The Beauty Alliance International Ltd	Stanmore	A	0
 The Bell Inn	Lechlade	A	0
 The Body Shop International Limited	Littlehampton	A	0
 The Bridge Indian Ltd	Malmesbury	A	0
@@ -9506,6 +9504,7 @@ The Indians Next Door	Ealing	A	0
 THE INDUS RESTAURANT & BAR LTD	Doncaster	A	0
 The Industrial Maintenance Group	Tamworth	A	0
 The Infinite Kind, Limited	Edinburgh	A	0
+The Information Commission	Manchester	A	0
 THE INFORMATION LAB LIMITED	London	A	0
 The Infra Red Heater Company	Bolton	A	0
 The Ingham Practice	Lincoln	A	0
@@ -9620,7 +9619,6 @@ The Peldon Rose Inn	Colchester	A	0
 The Pheasant Inn	Brampton	A	0
 THE PHEASANT INN	Hexham	A	0
 The Pirbright Institute	Surrey	A	0,9,12
-The Plough Inn	Southall	A	0
 THE POP IN STORE	Hastings	A	0
 THE POWERWORD INT	Andover	A	1,10
 The President and Fellows of Murray Edwards College, founded as New Hall, in the University of Cambridge	Cambridge	A	0
@@ -9675,7 +9673,6 @@ The Urban Chocolatier Ilford Limited	Essex	A	0
 The Vine Inter Church School	Cambourne	A	0
 THE VISION IT DEVELOPMENT LIMITED	London	A	0
 The Water Industry Commission for Scotland	Stirling	A	0
-THE WATLING INN LIMITED	Nuneaton	A	0
 The Way International UK Limited	London	A	0,4
 The Wedding Boutique Italy	Stonham Aspal	A	0
 The Wesleyan Holiness Church - British Isles District	Birmingham	A	1
@@ -9696,7 +9693,6 @@ THI Investments UK Limited	London	A	0,4
 Think Academy International Education Limited	London	A	0
 THINK INSIDE LTD	London	A	0
 THINK INVESTMENTS EUROPE LLP	London	A	0,4
-Thinks Insight and Strategy (Britain Thinks) Limited	London	A	0
 Thinks Insight and Strategy (Britain Thinks) Limited	Looe	A	0
 Third Wave Identity	London	A	0
 This is Beyond Limited	Shepherds Bush, London	A	0
@@ -9724,7 +9720,6 @@ Thuyan Investments limited	Surrey	A	0
 TIAN YU ASSOCIATION INTERNATIONAL	Cambridge	A	3
 Tideway Investment Management Limited	London	A	0
 Tierney IT Solutions Ltd	Edgware	A	0
-Tiffin Indian kitchen & Bar	Barnstaple	A	0
 Tiger ICT Limited	London	A	0
 Tiger International Education Limited	Middlesex	A	0
 TIGI International Limited (Trading As Elida Beauty)	London	A	0,4
@@ -9745,7 +9740,7 @@ Tlogy Infotech Limited	Harrow	A	0
 TM Impact Ltd	Slough	A	0
 TM Information Systems Ltd	Cardiff	A	0
 TM Insulation Ltd	Milton Keynes	A	0
-TMF IMMIGRATION LAWYERS LTD	Salford, Manchester	A	0
+TMF IMMIGRATION LAWYERS LTD	Manchester	A	0
 TNSAO LTD, T/A, TAJ INDIAN KITCHEN	Eastbourne	A	0
 Together In Care Forensic Ltd	Birstall	A	0
 Tokio Marine Kiln Insurance Services Ltd	London	A	0,4,7
@@ -9937,7 +9932,6 @@ United Food Ingredients Ltd	Bury St. Edmunds	A	0
 United Infrastructure Management Limited	Warrington	A	0
 United Insurance Brokers Limited	London	A	0,4
 United International Piping UK Limited	Coventry	A	0
-United IT and Consultancy Limited	London	A	0
 United Jewish Israel Appeal	London	A	0,3
 United Kingdom Sotheby's International Realty Limited	London	A	0
 United Pentecostal Church of Great Britain & Ireland	London	A	1,10
@@ -10093,7 +10087,7 @@ Vivek House Investments Limited T/A Holiday Inn London - Watford Junction	Watfor
 Vivid Imaginations Limited	Guildford	A	0,4
 VIXEN INTERNATIONAL TRADING AND CONTRACTING LTD	Liverpool	A	0
 VJ INTERNATIONAL LONDON LTD	Middlesex	A	0
-VK International Limited	Newark	A	0
+VK International Limited	London	A	0
 VKJ International UK Ltd	Manchester	A	0
 VLS IT Consulting Limited	Hemel Hempstead,	A	0
 VM International Legal Services LTD	London	A	0
@@ -10172,10 +10166,9 @@ West Wales Islamic Cultural Association	Carmarthen	A	1
 WestBridge Business Immigration Ltd	London	A	0
 Westcliffe Health Innovations Limited	Eccleshill	A	0
 WESTERN INSULATION SERVICES LIMITED	Glasgow, Scotland,	A	0
-Western International Group (UK) Ltd	Smethick	A	0
+Western International Group (UK) Ltd	Wolverhampton	A	0
 Western Union Payment Services Ireland Limited	London	A	0,4
 Westfalia Fruit International Limited	West Malling	A	0,4
-WESTGATE INVESTMENT & BUSINESS DEVELOPMENT LTD	London	A	0
 Weston Importers Ltd	Huntingdon	A	0,4
 WeWork International Limited	London	A	0,4
 WG Installations Limited	Northampton	A	0
@@ -10183,7 +10176,6 @@ WH Investments T/A Victoria house care home	Warrington	A	0
 WH Ireland Ltd	London	A	0
 When in Rome Wine Ltd	Stroud, Glos	A	0
 WHICH INDEPENDENT SCHOOLS LTD	London	A	0
-WHIPPY ICE'S LTD	Crawley	A	0
 Whitby Passage to India Limited	Whitby	A	0
 WHITE CHILLI LTD TA INDIAN VILLA	Motherwell	A	0
 White Rabbit Ink Ltd	Bromley	A	0
@@ -10350,7 +10342,7 @@ Zilany Intertrade Ltd	London	A	0
 ZIVELLA U.K. & IRELAND LTD	Watford	A	0
 ZL SPORTS INFINITY LTD	Abingdon	A	0
 ZM IT TECHNOLOGIES LTD	Harrow	A	0
-ZMAJ I.T. SOLUTIONS LIMITED	Barking	A	0
+ZMAJ I.T. SOLUTIONS LIMITED	Chadwell Heath	A	0
 ZOOM IN PRIVATE LTD	Camber	A	0
 ZS Associates International Inc.	London	A	0,4
 Zudek International Limited	London	A	0

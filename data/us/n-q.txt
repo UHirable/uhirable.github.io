@@ -1,385 +1,474 @@
 AG Quant Labs LLC	Dallas	TX	1	Financial Quantitative Analysts		TX
+Air Quality Innovative Solutions, LLC	Orlando	FL	1	Mechanical Engineers		FL
+American Dairy Queen Corp.	Bloomington	MN	2	Database Architects; Software Quality Assurance Analysts and Testers		WI,MN
 American Quartz Granite LLC	Alexandria	VA	1	Management Analysts		VA
+Anchor QEA, Inc.	Seattle	WA	2	Civil Engineers; Environmental Scientists and Specialists, Including Health		WA,NJ
 Anton Paar QuantaTec, Inc.	Boynton Beach	FL	2	Computer and Information Systems Managers; Sales Engineers		FL
-Applause App Quality, Inc.	Framingham	MA	1	Information Technology Project Managers		CA
-Arizona Department of Environmental Quality	Phoenix	AZ	2	Database Administrators		AZ
+Applause App Quality, Inc.	Framingham	MA	4	Computer Systems Analysts; Software Quality Assurance Analysts and Testers; Operations Research Analysts	119600	CA,MO,TX
+Arizona Department of Environmental Quality	Phoenix	AZ	3	Information Technology Project Managers; Database Administrators; Environmental Engineers	129000	AZ
+ATP Quant Inc	Jersey City	NJ	1	Software Developers		NJ
 Austin Quality Foods, Inc.	Chicago	IL	1	Industrial Production Managers		NC
-Axiom Quant, Inc.	Palo Alto	CA	2	Software Developers		CA
+Axiom Quant, Inc.	Palo Alto	CA	6	Data Scientists; Computer and Information Research Scientists; Software Developers	268900	CA,OR
 Bay Area Air Quality Management District	San Francisco	CA	2	Environmental Engineers		CA
 Bimbo QSR Ohio, LLC	Zanesville	OH	1	Food Scientists and Technologists		OH
+Bimbo QSR US, LLC	Zanesville	OH	1	Financial Managers		OH
+Blue Mountain Quality Resources LLC	State College	PA	1	Software Quality Assurance Analysts and Testers		PA
 Burrate Quant Research INC	Jersey City	NJ	1	Operations Research Analysts		NJ
-Carl Zeiss Industrial Quality Solutions, LLC	White Plains	NY	1	Mechanical Engineers		MI
-CIS Quality Assurance Inc	Stockton	CA	1	Computer Programmers		MD
+Career Quench Technologies LLC	Irving	TX	11	Software Developers	106600	TX,IL,CA
+Carl Zeiss Industrial Quality Solutions, LLC	White Plains	NY	2	Mechatronics Engineers; Mechanical Engineers		MI
 Concept QA Labs Inc	Elkridge	MD	1	Quality Control Systems Managers		MD
 Dental Professionals of Washington, Quirt, Mongrain, Gibree, PC	Effingham	IL	4	Dentists, General	145000	WA
 Digiso Qcm Inc	Elmhurst	NY	1	Graphic Designers		NY
 Dragon Q Energy LLC	Santa Barbara	CA	1	Accountants and Auditors		CA
-E Comm Quest LLC	Sandy Springs	GA	15	Computer Programmers; Software Developers; Software Quality Assurance Analysts and Testers	108100	WA,IN,IL
-Enterprise QA Labs Inc	Durham	NC	2	Software Developers; Industrial Engineers		MI,OH
-First Quality Enterprises LLC	Great Neck	NY	1	Software Developers		PA
+E Comm Quest LLC	Sandy Springs	GA	32	Computer Programmers; Software Developers; Software Quality Assurance Analysts and Testers	102600	TX,IL,IN
+Enterprise qa labs inc	Durham	NC	3	Software Developers; Industrial Engineers	112900	TX,OH,NC
+Ex Quanta Inc.	New York	NY	1	Software Developers		NY
+First Quality Enterprises LLC	Great Neck	NY	4	Software Developers	163400	PA,IL
+First Quality Home Care Products LLC	Trumbull	CT	2	Mechanical Engineers		NY,CT
+Flexrack By Q Cells, LLC	Cleveland	OH	1	Industrial Engineers		OH
 Florida Quality Truss Inc.	Pompano Beach	FL	2	Civil Engineers		FL
 Global Quantum Intelligence, LLC	Miami Beach	FL	1	Computer and Information Research Scientists		CA
-Golden Qi Holdings LLC	Allen	TX	3	Software Developers; Web Developers		CA,TX
+Golden Qi Holdings LLC	Allen	TX	2	Market Research Analysts and Marketing Specialists; Software Developers		TX
 Golden Qi Holdings,llc	Allen	TX	1	Mental Health Counselors		TX
 H Quest Vanguard, Inc.	Pittsburgh	PA	1	Materials Engineers		PA
 H4 Plastics QOZB LLC	American Fork	UT	1	Industrial Engineers		UT
-Hanwha Q Cells America, Inc.	Irvine	CA	9	Business Operations Specialists, All Other; Software Developers; Computer and Information Systems Managers	120300	CA,NJ,TX
-Hanwha Q Cells Georgia, Inc.	White	GA	14	Materials Engineers; Operations Research Analysts; Purchasing Agents, Except Wholesale, Retail, and Farm Products	65100	GA
-Hanwha Q Cells Technologies, Inc.	San Francisco	CA	4	Electrical Engineers; Software Developers	197500	OR,CA,TX
-Hanwha Q Cells Usa, Inc.	Dalton	GA	10	Industrial Engineers; Logisticians; Logistics Analysts	63000	GA
+Hanwha Q Cells America, Inc.	Irvine	CA	14	Business Operations Specialists, All Other; Software Developers; Solar Energy Systems Engineers	133300	CA,NJ,TX
+Hanwha Q Cells Ecorecycle, Inc.	White	GA	1	Logisticians		GA
+Hanwha Q Cells Georgia, Inc.	White	GA	26	Materials Engineers; Purchasing Agents, Except Wholesale, Retail, and Farm Products; Accountants and Auditors	65100	GA
+Hanwha Q Cells Technologies, Inc.	San Francisco	CA	1	Software Developers		TX
+Hanwha Q Cells Usa, Inc.	Dalton	GA	11	Industrial Engineers; Logisticians; Logistics Analysts	63500	GA
+Hawthorne Quality Pet Care, A Veterinary Corporation	Lawndale	CA	2	Veterinarians		CA
 Hayward Quartz Technology, Inc.	Fremont	CA	4	Accountants and Auditors; Building Cleaning Workers, All Other; Market Research Analysts and Marketing Specialists	66900	CA
 Health Qualytics LLC	Houston	TX	1	Computer Occupations, All Other		TX
 Higgins Quasebarth & Partners, LLC	New York	NY	1	Historians		NY
-High Q, Inc.	Reston	VA	1	Software Developers		VA
-High Quartile, LLC	St Louis	MO	7	Software Developers	102000	MO,PA
-Insurance Quantified, LLC	Dover	DE	1	Operations Research Analysts		VA
-International Quality Homecare Corporation	Rochester	MN	5	Training and Development Specialists; Life, Physical, and Social Science Technicians, All Other	59200	MN
-IonQ Quantum, Inc.	College Park	MD	12	Physicists; Mechanical Engineers; Photonics Engineers	145000	MD,MA,WA
+High Quartile, LLC	Chesterfield	MO	15	Software Developers	114000	MO,MA,TX
+Image Quality Labs, Inc.	Durham	NC	1	Software Developers		NC
+Indo American Quartz Surfaces LLC	Kearny	NJ	1	Market Research Analysts and Marketing Specialists		NJ
+Insurance Quantified, LLC	Dover	DE	1	Software Developers		GA
+International Quality Homecare Corporation	Rochester	MN	4	Training and Development Specialists	64800	MN
+IonQ Quantum, Inc.	College Park	MD	10	Physicists; Mechanical Engineers; Software Developers	145000	CA,MA,WA
 Korea-US Quantum Technology Cooperation Center	Vienna	VA	1	Physicists		VA
 Le Pere Quartier Incorporated	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
-Living Quest Real Estate, Inc.	New York	NY	2	Sales Managers; Market Research Analysts and Marketing Specialists		NY
+Link Q Logistics LLC	Rancho Cucamonga	CA	1	Logisticians		CA
+Living Quest Real Estate Inc.	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
 Malesardi, Quackenbush, Swift & Company LLC	Englewood	NJ	1	Accountants and Auditors		NJ
 Marco Q. Rossi & Associati PLLC	Los Angeles	CA	1	Judicial Law Clerks		FL
-Maybell Quantum Industries, Inc.	Denver	CO	1	Electrical Engineers		CO
-MCM Quality Systems, Inc.	Novi	MI	2	Software Developers		NC,TX
+Maybell Quantum Industries, Inc.	Denver	CO	2	Management Analysts; Electrical Engineers		CO
+MCM Quality Systems, Inc.	Novi	MI	1	Software Developers		TX
 Mesa Quantum Systems, Inc.	Boulder	CO	1	Physicists		CO
-Momentive Performance Materials Quartz, Inc.	Strongsville	OH	2	Computer Systems Analysts; Materials Engineers		OH
+Momentive Performance Materials Quartz, Inc.	Strongsville	OH	3	Materials Scientists; Computer Systems Analysts; Materials Engineers	119300	OH
 Mongrain, Quirt, Gibree Professional Services, PC	Effingham	IL	1	Dentists, General		WA
-MR Quality International Inc	Arcadia	CA	1	Public Relations Specialists		CA
-Nanofiber Quantum Technologies, Inc.	Palo Alto	CA	1	Computer and Information Research Scientists		NJ
-National Minority Quality Forum Inc.	Washington	DC	1	Software Developers		DC
+National Minority Quality Forum Inc.	Washington	DC	2	Software Developers; Search Marketing Strategists		DC,TX
 National Quality Systems, Inc.	Winter Park	FL	1	Software Developers		TX
-New York-Presbyterian Queens	Flushing	NY	1	Healthcare Diagnosing or Treating Practitioners, All Other		NY
-Nobl Q, LLC	Plano	TX	7	Computer Systems Engineers/Architects; Computer and Information Systems Managers; Accountants and Auditors	110000	TN,TX,GA
-o Quad Industries Inc.	Warren	MI	1	Mechanical Engineers		MI
-Open Queue LLC	Mesa	AZ	4	Software Developers; Information Technology Project Managers	156800	TX,AZ
-PGIM Quantitative Solutions LLC	Newark	NJ	5	Financial Quantitative Analysts; Financial and Investment Analysts	135000	NJ
-Practice Queens LLC	Mountain View	CA	1	Music Directors and Composers		CA
+Neuberger, Quinn, Gielen, Rubin & Gibber, P.A.	Baltimore	MD	1	Lawyers		MD
+Nobl Q, LLC	Plano	TX	13	Computer Systems Engineers/Architects; Computer Systems Analysts; Information Technology Project Managers	96400	TN,GA,TX
+Open Queue LLC	Mesa	AZ	3	Software Developers; Information Technology Project Managers	179000	TX
+PAK Quality Foods, LLC	Euless	TX	1	Human Resources Specialists		TX
+Palm Delivery Innovations QOZB, LLC	Austin	TX	2	Market Research Analysts and Marketing Specialists; Chief Executives		TX
+PGIM Quantitative Solutions LLC	Newark	NJ	4	Financial Quantitative Analysts; Financial and Investment Analysts	155000	NJ
+Practice Queens LLC	Mountain View	CA	2	Music Directors and Composers; Teachers and Instructors, All Other		CA
 Pro QC International North America Inc.	McHenry	IL	1	Mechanical Engineers		IL
 PTI Quality Containment Solutions, LLC	Detroit	MI	2	Industrial Production Managers; Mechanical Engineers		MI
+Q Bio, Inc.	San Carlos	CA	1	Bioengineers and Biomedical Engineers		CA
 Q Development, LLC	Fort Worth	TX	1	Architects, Except Landscape and Naval		TX
 Q Menu Inc	Atlanta	GA	1	Software Developers		GA
-Q Squared Solutions LLC	Durham	NC	1	Accountants and Auditors		CA
-Q Trade International Corp	Brookshire	TX	1	Food Scientists and Technologists		TX
-Q&T Commerce Inc	New York	NY	2	Data Scientists; Online Merchants		MO
+Q Smile Dental Spa	Randolph	MA	2	General Dentists		MA
+Q Software Development LLC	Houston	TX	1	Software Developers		TX
+Q Solutions, LLC	Sandy Spring	MD	1	Software Developers		TX
+Q&T Commerce Inc	New York	NY	3	Market Research Analysts and Marketing Specialists; Data Scientists; Online Merchants		MO
 Q-Arch Design, Inc.	San Francisco	CA	2	Architectural and Civil Drafters		CA
-Q-CTRL, Inc	Santa Monica	CA	1	Physicists		CA
-Q-Edge Corporation	Houston	TX	12	Mechanical Engineers; Logistics Analysts; Business Intelligence Analysts	69000	TX,IN
+Q-CTRL, Inc	Santa Monica	CA	2	Computer and Information Research Scientists; Physicists		CA
+Q-Edge Corporation	Houston	TX	12	Logistics Analysts; Business Intelligence Analysts; Project Management Specialists	69000	TX,IN,CA
 Q-Free America Inc.	Chesapeake	VA	1	Sales Engineers		TX
 Q-mation, LLC	Horsham	PA	1	Data Scientists		IN
-Q-PAC Systems, Inc.	Elkton	FL	2	Electrical Engineers; Software Developers		FL
+Q-PAC Systems, Inc.	Elkton	FL	1	Software Developers		FL
 Q-Si Operations Inc.	Branford	CT	1	Data Scientists		CA
-Q-square Business Intelligence, Corp.	Boxborough	MA	2	Computer Programmers		MA
 Q-Tips Technologies LLC	Clive	IA	1	Software Developers		IA
 Q-Tran Inc.	Milford	CT	6	Electronics Engineers, Except Computer; Electrical Engineers; Market Research Analysts and Marketing Specialists	130300	CT
 Q-tx LLC	Houston	TX	1	Financial Quantitative Analysts		TX
-Q2 Software, Inc.	Austin	TX	15	Software Developers; Database Architects; Business Intelligence Analysts	147700	TX,NE,CA
-Q2BI, Corp.	Boxborough	MA	1	Computer Programmers		MA
-Q3 Contracting, Inc.	Little Canada	MN	1	Information Technology Project Managers		GA
-Q4D, LLC	New York	NY	1	Fashion Designers		NY
-Q9 Software LLC	Germantown	MD	7	Software Developers; Information Security Analysts	108000	NY,FL,GA
+Q2 Software, Inc.	Austin	TX	28	Software Developers; Information Technology Project Managers; Business Intelligence Analysts	150600	TX,CA,FL
+Q2BI, Corp.	Boxborough	MA	2	Computer Programmers		MA
+Q4D, LLC	New York	NY	2	Fashion Designers; Accountants and Auditors		NY
+Q9 Software LLC	Germantown	MD	9	Software Developers	113000	MI,PA,TX
 QA Constructors Inc.	San Francisco	CA	1	Industrial Engineers		CA
-QAD Inc.	Miami	FL	1	Accountants and Auditors		CA
+QAD Inc.	Santa Barbara	CA	2	Database Administrators; Accountants and Auditors		NJ,CA
 Qamise INC	Falls Church	VA	1	Political Scientists		VA
-Qatalyst Partners LP	San Francisco	CA	3	Financial and Investment Analysts	200000	CA
+Qantas Airways Ltd.	Los Angeles	CA	1	General and Operations Managers		CA
+Qatalyst Partners LP	San Francisco	CA	6	Financial and Investment Analysts	162500	CA
 Qatar Investment Authority Advisory (USA) Inc.	New York	NY	1	Financial and Investment Analysts		NY
-Qatos LLC	San Ramon	CA	3	Information Technology Project Managers; Software Developers; Software Quality Assurance Analysts and Testers	112900	TX,CA
-Qaurs Techno Systems LLC	Cumming	GA	2	Software Developers; Software Quality Assurance Analysts and Testers		GA
-Qazi Makhija & Barney LLP dba Nevada Nephrology Consultants	Las Vegas	NV	3	Physicians, All Other	250000	NV
+Qatos LLC	San Ramon	CA	6	Information Technology Project Managers; Software Developers; Computer Occupations, All Other	114800	CA,TX
+Qaurs Techno Systems LLC	Cumming	GA	1	Software Quality Assurance Analysts and Testers		GA
 QB House USA Inc.	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
-QBE Insurance Corporation	New York	NY	8	Actuaries; Software Developers; Data Scientists	112600	NY,WI,MI
-Qbigs, Inc.	Orange	CA	1	Software Developers		TX
-QBIX Systems LLC	Alpharetta	GA	2	Software Developers		NE,GA
-Qbotica Inc	Phoenix	AZ	8	Computer Programmers; Computer and Information Systems Managers; Data Scientists	119000	GA,TX,AZ
-QBrainX Inc	Bentonville	AR	2	Database Architects; Software Developers		AR
+QBE Insurance Corporation	New York	NY	11	Actuaries; Software Developers; Computer Systems Analysts	125100	NY,WI,GA
+Qbigs, Inc.	Orange	CA	2	Computer Systems Engineers/Architects; Software Developers		TX
+QBit Semiconductor USA INC.	Littleton	MA	1	Electrical Engineers		MA
+QBIX Systems LLC	Alpharetta	GA	3	Software Developers	100000	TX,NE,GA
+Qbotica Inc	Phoenix	AZ	11	Software Developers; Computer Programmers; Data Scientists	113700	AZ,GA,NC
 QC Capital and Consulting LLC	Los Angeles	CA	1	Financial and Investment Analysts		CA
+QC82 Inc.	College Park	MD	1	Electrical Engineers		MD
 Qcentrio Technologies LLC	Frisco	TX	5	Software Developers	109800	DE,TX
-Qcentrio, Inc	Denton	TX	2	Database Administrators; Data Scientists		TX,CA
+Qcentrio, Inc	Denton	TX	3	Data Scientists; Software Developers	73200	TX,CA
 QCM, Inc	Falls Church	VA	1	Civil Engineers		VA
 Qdg Incorporated	Los Angeles	CA	1	Architectural and Civil Drafters		CA
 QE Securities LLP	New York	NY	2	Software Developers; Financial Quantitative Analysts		NY
-Qeexo, Co.	San Jose	CA	3	Database Architects; Computer and Information Research Scientists; Software Developers	135000	PA
+Qeexo, Co.	San Jose	CA	2	Computer and Information Research Scientists; Software Developers		AZ,PA
+Qellus, LLC	Mount Laurel	NJ	1	Network and Computer Systems Administrators		TX
 Qems Inc	Rock Hill	SC	1	Logistics Analysts		SC
 Qen Labs Inc.	Eden Prairie	MN	1	Computer and Information Research Scientists		MO
-QennectIT LLC	Charlotte	NC	5	Information Technology Project Managers; Software Quality Assurance Analysts and Testers; Software Developers	121000	NC,VA
-Qentelli LLC	Dallas	TX	17	Software Developers; Software Quality Assurance Analysts and Testers; Operations Research Analysts	114800	TX,TN
-Qernel Inc.	San Jose	CA	2	Information Technology Project Managers		CA
-Qflex Inc.	Fullerton	CA	1	Computer Systems Engineers/Architects		CA
-Qfocus Technologies LLC	Dover	DE	1	Software Developers		CA
-Qiagen LLC	Germantown	MD	2	Bioinformatics Scientists; Software Developers		MD
+QennectIT LLC	Charlotte	NC	3	Software Quality Assurance Analysts and Testers; Information Technology Project Managers	128500	NC,VA
+Qentelli LLC	Dallas	TX	78	Software Developers; Software Quality Assurance Analysts and Testers; Computer and Information Systems Managers	116900	TX,FL,GA
+Qernel, Inc.	Palo Alto	CA	1	Computer and Information Systems Managers		TX
+QFC Corporation Inc	Peachtree City	GA	1	Accountants and Auditors		GA
+Qfocus Technologies LLC	Dover	DE	3	Software Developers	226100	CA
+QI Quality Improvement Inc	Santee	CA	1	Accountants and Auditors		CA
+Qi Tech Inc.	Dallas	TX	3	Information Technology Project Managers	64400	GA
+Qiagen LLC	Germantown	MD	1	Software Developers		MD
 QIAGEN Redwood City, Inc.	Redwood City	CA	3	Software Developers; Bioinformatics Scientists	144300	CA,NC
-QIAGEN Sciences, LLC	Germantown	MD	1	Software Developers		MD
+QIAGEN Sciences, LLC	Germantown	MD	2	Software Developers; Validation Engineers		MD
 Qian Feng Shou Investment, LLC	Bellevue	WA	1	Self-Enrichment Teachers		WA
 QIC US Investment Services Inc.	New York	NY	1	Financial and Investment Analysts		NY
+Qifan Logistics Inc.	City of Industry	CA	1	Management Analysts		CA
 Qikconnex LLC	Bristol	PA	2	Software Developers		PA,NJ
-Qin & Associates PLLC	Long Island City	NY	1	Judicial Law Clerks		NY
+Qilin Bio Inc.	Brookline	MA	1	Bioengineers and Biomedical Engineers		MA
+Qin & Associates PLLC	Long Island City	NY	2	Lawyers; Judicial Law Clerks		NY
 Qin's Buffalo LLC	Kansas City	KS	1	Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products		KS
 Qingning Plaza LLC	Lafayette	LA	2	Data Scientists; Financial and Investment Analysts		LA
 QIQMSB Inc	North Hills	CA	1	Software Developers		CA
-Qlarant Integrity Solutions, Inc.	Easton	MD	1	Epidemiologists		CA
-QLD Biotherapeutics Inc.	Boston	MA	3	Molecular and Cellular Biologists; Biological Technicians; Regulatory Affairs Specialists	87000	MA
+QLAdmin Solutions, Inc.	Austin	TX	1	Software Developers		TX
+Qlarant Integrity Solutions, Inc.	Easton	MD	1	Epidemiologists		MD
+QLD Biotherapeutics Inc.	Boston	MA	4	Molecular and Cellular Biologists; Biological Technicians; Regulatory Affairs Specialists	103500	MA
 Qless Inc.	Pasadena	CA	1	General and Operations Managers		CO
-QlikTech Inc.	King of Prussia	PA	4	Database Administrators; Software Developers; Database Architects	128000	SC,NC,WI
-Qlm, Inc	San Jose	CA	1	Civil Engineers		CA
-Qlytix, Inc.	Miami	FL	4	Software Developers; Computer Systems Analysts; Data Scientists		GA,TX,VA
-Qmpm LLC	Savannah	TX	3	Data Scientists; Database Administrators		TX
+QlikTech Inc.	King of Prussia	PA	5	Database Administrators; Software Developers; Database Architects	132000	SC,TX,WI
+Qlytix, Inc.	Miami	FL	1	Data Scientists		CT
+QMM&C New York Corp	Pearl River	NY	1	Market Research Analysts and Marketing Specialists		NY
+Qmpm LLC	Savannah	TX	2	Data Scientists		TX
 QMS Capital Management LP	Durham	NC	3	Statisticians	130000	NC
 QMS2GO Corp.	Ruston	LA	1	Software Developers		LA
 QNAP Inc.	Pomona	CA	1	Market Research Analysts and Marketing Specialists		CA
-Qnovo, Inc.	Milpitas	CA	2	Mechanical Engineers; Computer Systems Engineers/Architects		CA
+Qnovo Inc.	Milpitas	CA	1	Computer Systems Engineers/Architects		CA
 QNY Creative Corp	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
-Qolab, Inc	Los Angeles	CA	2	Electrical Engineers; Computer and Information Research Scientists		WI
-Qolo Inc.	Fort Lauderdale	FL	2	Software Developers; Software Quality Assurance Analysts and Testers		TX,PA
-Qomo LLC	Wixom	MI	1	Market Research Analysts and Marketing Specialists		MI
-Qordata, Inc.	Princeton	NJ	3	Financial and Investment Analysts	90200	NJ
+Qolab, Inc	Los Angeles	CA	2	Physicists; Computer and Information Research Scientists		WI
+Qolo Inc.	Fort Lauderdale	FL	1	Software Quality Assurance Analysts and Testers		FL
+Qomo LLC	Wixom	MI	2	Market Research Analysts and Marketing Specialists; Electrical Engineers		MI
 Qorvo Texas, LLC	Dallas	TX	1	Electrical Engineers		TX
-Qorvo US, INC.	Dallas	TX	43	Electrical Engineers; Electronics Engineers, Except Computer; Software Developers	116000	NC,FL,CA
-QPharma, Inc.	Morristown	NJ	3	General and Operations Managers; Engineers, All Other; Operations Research Analysts	108200	NJ
+Qorvo US, INC.	Dallas	TX	51	Electrical Engineers; Electronics Engineers, Except Computer; Computer Systems Analysts	116000	NC,FL,OR
+QPharma, Inc.	Morristown	NJ	1	Information Technology Project Managers		PA
 QPO Energy, Inc	Tualatin	OR	2	Accountants and Auditors; Cost Estimators		OR
-QPoint Health, LLC	Scottsdale	AZ	1	Software Developers		AZ
-Qps, LLC	Newark	DE	3	Biochemists and Biophysicists	95100	DE
-QQ Max Services LLC	Ypsilanti	MI	1	Mechanical Engineers		MI
+Qps, LLC	Newark	DE	15	Biochemists and Biophysicists; Bioengineers and Biomedical Engineers; Biostatisticians	91500	DE
 QRAL Group LLC	Great Neck	NY	1	Operations Research Analysts		CA
 QRD Pharma LLC	Warrington	PA	2	Chemists		PA
 Qronus8 Corporation			1	Electrical Engineers		
-Qrt US Services LLC	New York	NY	1	Computer Network Architects		NY
-Qsc, LLC	Costa Mesa	CA	3	Software Quality Assurance Analysts and Testers; Data Scientists; Business Intelligence Analysts	109000	CA,PA
-Qscription Technologies, LLC	Jackson	WI	2	Computer and Information Systems Managers; Information Technology Project Managers		WI
+Qrt US Services LLC	New York	NY	3	Software Developers; Computer Network Architects	230000	NY
+QSC Admin LLC	Dublin	OH	2	General and Operations Managers; Chief Executives		NY,IL
+Qscription Technologies, LLC	Jackson	WI	3	Computer and Information Systems Managers; Information Technology Project Managers	138000	WI
+QSE7, LLC	Center Valley	PA	3	Data Scientists; Information Technology Project Managers	121000	PA,NJ
+Qsemble Capital Management, LP	New York	NY	1	Statisticians		NY
+Qsi Services Inc	Glen Allen	VA	1	Software Developers		NC
+QSIC Inc.	Dallas	TX	1	Software Developers		OH
 QSIP Law, P.C.	Los Banos	CA	1	Lawyers		CA
-Qsource Group Inc	Cypress	TX	2	Software Developers; Information Technology Project Managers		TX
-QSPEC Solutions, Incorporated	Lenexa	KS	1	Mechanical Engineers		KS
+Qsource Group Inc	Cypress	TX	1	Software Developers		TX
+QSPEC Solutions, Incorporated	Lenexa	KS	2	Mechanical Engineers		KS
+QSquared Capital LLC	New York	NY	1	Mathematicians		NY
 QT Medical, Inc.	Diamond Bar	CA	1	Market Research Analysts and Marketing Specialists		CA
+QT2 Systems, LLC	South Easton	MA	1	Coaches and Scouts		NC
 Qtalk Publishing LLC	New York	NY	1	Editors		NY
-Qtech Consulting Group, Inc.	San Diego	CA	2	Software Developers		VA
-QTech US Inc.	Plano	TX	6	Computer Programmers	96500	TX,NC
+QTC Management, Inc.	Glendora	CA	1	Computer and Information Systems Managers		CA
+Qtech Consulting Group, Inc.	San Diego	CA	8	Software Developers; Software Quality Assurance Analysts and Testers	118800	VA,TX,MO
+QTech US Inc.	Plano	TX	11	Computer Programmers; Business Intelligence Analysts; Software Developers	98300	TX,NJ,SC
 QTrade Management LLC	Westfield	NJ	1	Investment Fund Managers		NY
+Qtron Investments LLC	Boston	MA	1	Financial Quantitative Analysts		MA
 Qu POS, Inc.	Arlington	VA	1	Computer Systems Analysts		NJ
-Quad IT, Inc.	Irving	TX	1	Software Developers		TX
+Quad Graphics, Inc.	Sussex	WI	1	Data Scientists		TX
+Quad IT, Inc.	Irving	TX	1	Software Developers		SC
+Quad K Technologies LLC	Peoria	IL	2	Software Developers; Computer Systems Analysts		TX,CA
+Quad Packaging, Inc.	Sussex	WI	1	Food Scientists and Technologists		SC
 Quad Plus LLC	New Lenox	IL	1	Operations Research Analysts		IL
-Quad Realty Investments, Inc.	Boca Raton	FL	1	Financial Managers		FL
-Quadient, Inc.	Milford	CT	1	Software Quality Assurance Analysts and Testers		CT
-Quadrant Economics LLC	Washington	DC	1	Economists		NC
+Quadax Inc.	Middleburg Heights	OH	2	Software Developers		TX
+Quadient, Inc.	Milford	CT	5	Software Developers; Database Administrators; Software Quality Assurance Analysts and Testers	123600	TX,CT,IN
+Quadpro IT Inc	Piscataway	NJ	1	Software Developers		IL
+Quadrant Economics LLC	Washington	DC	2	Economists; Operations Research Analysts		NC,DC
 Quadrant IQ Solutions LLC	Alpharetta	GA	1	Database Architects		MI
-Quadrant Resource LLC	Redmond	WA	1	Software Developers		WA
 Quadrant Solutions Incorporated	San Jose	CA	1	Electrical Engineers		CA
-Quadrant Technologies LLC	Redmond	WA	210	Computer Systems Analysts; Software Developers; Database Administrators	111600	WA,TX,GA
-Quadrature US Inc	New York	NY	4	Financial Quantitative Analysts; Software Developers	150000	NY
-QuadReal USA Services LLC	New York	NY	1	Financial and Investment Analysts		CA
-Quadric IT, LLC	Land O’Lakes	FL	3	Software Developers; Information Technology Project Managers	103200	NJ,FL
-Quadric, Inc.	Burlingame	CA	1	Software Developers		CA
+Quadrant Technologies LLC	Redmond	WA	292	Computer Systems Analysts; Software Developers; Database Administrators	110400	WA,TX,CA
+Quadric IT, LLC	Land O’Lakes	FL	5	Software Developers; Regulatory Affairs Specialists; Information Technology Project Managers	98900	FL,NJ,VA
+Quadric, Inc.	Burlingame	CA	2	Software Developers		CA
 Quadsci.ai, Inc.	Garden City	NY	1	Software Developers		CA
-Quadyster	Bettendorf	IA	1	Information Technology Project Managers		IL
-Quaestor Technologies Inc.	San Francisco	CA	1	Data Scientists		CA
-Quagen Pharmaceuticals LLC	West Caldwell	NJ	3	Chemists; Regulatory Affairs Managers	96900	NJ
-Quail Lake Holdings, LLC	Stockton	CA	1	Speech-Language Pathologists		CA
-QUAL IT Resources LLC	Cincinnati	OH	1	Software Developers		OH
-Qualcomm Atheros, Inc.	San Diego	CA	23	Software Developers; Electronics Engineers, Except Computer	152500	CA,NJ,TX
-Qualcomm Incorporated	San Diego	CA	20	Software Developers; Computer Systems Analysts; Data Scientists	140800	CA,MO,NC
-Qualcomm Innovation Center, Inc.	San Diego	CA	17	Software Developers	157600	CA,TX,CO
-Qualcomm Technologies, Inc.	San Diego	CA	390	Electronics Engineers, Except Computer; Software Developers; Industrial Production Managers	156900	CA,TX,CO
-Qualia Labs, Inc.	San Francisco	CA	6	Software Quality Assurance Analysts and Testers; Software Developers; Financial and Investment Analysts	147500	CA,MI
-Qualified Health PBC	Palo Alto	CA	12	Software Developers; Web and Digital Interface Designers; Data Scientists	188000	CA,GA
-Qualified.com, Inc.	San Francisco	CA	3	Software Developers	161600	MA,CA
-Qualinfotech Solutions Inc	Frisco	TX	3	Business Intelligence Analysts; Software Quality Assurance Analysts and Testers		AZ,CA
-Qualiquest, Llc.	Dallas	TX	1	Software Developers		NV
-Qualisoft Corporation	Latham	NY	3	Software Developers	99500	OH,MI,NY
-Qualitas Consulting Group, LLC	Overland Park	KS	4	Computer Systems Analysts; Information Security Analysts	92800	GA
-Qualitrol Company LLC	Fairport	NY	7	Electrical Engineers; Industrial Engineers; Software Developers	85000	NY
-Quality 360 Healthcare Alliance	Carmel	IN	1	Mental Health and Substance Abuse Social Workers		IN
-Quality Consulting, Inc.	W. Des Moines	IA	12	Software Developers; Data Scientists	83000	IA
-Quality Control Laboratories LLC	Westbury	NY	3	Civil Engineering Technologists and Technicians		NY
-Quality Design Services, Inc.	Okemos	MI	8	Electronics Engineers, Except Computer; Electrical Engineers; Mechatronics Engineers	102000	MI,TX
+Quagen Pharmaceuticals LLC	West Caldwell	NJ	4	Chemists; Quality Control Systems Managers	94800	NJ
+Quaise Energy, Inc.	Houston	TX	1	Software Developers		TX
+Qual Pro Corporation	Gardena	CA	1	Human Resources Managers		VA
+Qualcomm Atheros, Inc.	San Diego	CA	89	Software Developers; Electronics Engineers, Except Computer; Architectural and Engineering Managers	155300	CA,TX,CO
+Qualcomm Incorporated	San Diego	CA	45	Software Developers; Computer Systems Analysts; Financial and Investment Analysts	140800	CA,FL
+Qualcomm Innovation Center, Inc.	San Diego	CA	58	Software Developers; Electronics Engineers, Except Computer	138100	CA,TX
+Qualcomm Technologies, Inc.	San Diego	CA	908	Electronics Engineers, Except Computer; Software Developers; Industrial Production Managers	154000	CA,TX,CO
+Qualex Consulting Services, Inc.	Bay Harbor Islands	FL	1	Software Developers		FL
+Qualia Labs, Inc.	San Francisco	CA	8	Software Developers; Computer and Information Systems Managers; Art Directors	175000	CA,TX,AZ
+Qualifi, LLC	Broomall	PA	2	Software Developers		OK
+Qualified Digital, LLC	Reno	NV	1	Chief Executives		TX
+Qualified Health PBC	Palo Alto	CA	25	Software Developers; Web and Digital Interface Designers; Data Scientists	188000	CA,WA,VA
+Qualified.com, Inc.	San Francisco	CA	2	Software Developers		CA,MA
+Qualinfotech Solutions Inc	Little Elm	TX	3	Software Developers; Software Quality Assurance Analysts and Testers		CA,AZ,DE
+Qualiquest, Llc.	Dallas	TX	2	Software Developers		NV
+Qualis 1 Inc.	Houston	TX	1	Information Technology Project Managers		WA
+Qualis1 Inc.	Houston	TX	1	Computer Programmers		CA
+Qualisoft Corporation	Latham	NY	5	Software Developers; Business Intelligence Analysts	99500	FL,MA,OH
+Qualitas Consulting Group, LLC	Overland Park	KS	3	Computer Systems Analysts	93000	GA
+Qualitea, Inc.	Sunnyvale	CA	1	Graphic Designers		CA
+Qualitree, Inc.	Wilmington	DE	5	Network and Computer Systems Administrators; Software Quality Assurance Analysts and Testers; Software Developers	108000	DE,NC,KS
+Qualitrol Company LLC	Fairport	NY	8	Electrical Engineers; Industrial Engineers; Mechanical Engineers	96500	NY
+Quality 1ST Produce Inc.	Commerce	CA	1	Management Analysts		CA
+Quality Agents, LLC	Wilmington	NC	1	Validation Engineers		MD
+Quality Care Pediatrics LLC	Atlanta	GA	1	Pediatricians, General		GA
+Quality Care Physical Therapy, Inc.	Bothell	WA	1	Physical Therapists		WA
+Quality Care Rehab, Inc.	Homosassa	FL	1	Database Architects		TX
+Quality Consulting, Inc.	W. Des Moines	IA	20	Software Developers; Data Scientists	83000	IA,TX,CO
+Quality Control Laboratories LLC	Westbury	NY	4	Civil Engineering Technologists and Technicians		NY
+Quality Counts, LLC	Tigard	OR	3	Software Developers		FL
+Quality Design Services, Inc.	Okemos	MI	10	Electronics Engineers, Except Computer; Electrical Engineers; Mechanical Engineers	100000	MI,KS,TX
+Quality Door & Hardware Inc.	West Babylon	NY	1	Market Research Analysts and Marketing Specialists		NY
 Quality Door and Hardware Inc	West Babylon	NY	2	Market Research Analysts and Marketing Specialists		NY
-Quality Education Academy	Winston-Salem	NC	6	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Middle School Teachers, Except Special and Career/Technical Education	53800	NC
-Quality Electrical Systems Inc.	West Jordan	UT	2	Electrical Engineers		UT
+Quality Education Academy	Winston-Salem	NC	8	Secondary School Teachers, Except Special and Career/Technical Education; Elementary School Teachers, Except Special Education; Special Education Teachers, Elementary School	59400	NC
+Quality Electrical Systems Inc.	West Jordan	UT	3	Electrical Engineers		UT
 Quality Family Health Care Clinics PLLC	Mckinney	TX	2	Health Information Technologists and Medical Registrars		TX
-Quality Food Group LLC	Richmond	VA	1	General and Operations Managers		VA
 Quality Gold, Inc.	Fairfield	OH	2	Business Intelligence Analysts; Financial and Investment Analysts		OH
-Quality Home Care Providers Inc.	Leonia	NJ	1	Software Quality Assurance Analysts and Testers		NJ
 Quality Institute of America, Inc.	Houston	TX	1	Software Developers		TX
-Quality IT Source, LLC	East Brunswick	NJ	8	Software Developers; Computer Systems Analysts	104100	NJ
-Quality Matrix Inc	Westborough	MA	13	Software Developers; Information Technology Project Managers; Business Intelligence Analysts	109800	TX,CA,AL
-Quality Packaging, Inc.	Fond du Lac	WI	1	Software Developers		WI
+Quality IT Source, LLC	East Brunswick	NJ	5	Computer Systems Analysts; Software Developers	93500	NJ
+Quality Manufacturing Services Inc.	La Vergne	TN	1	Software Developers		TN
+Quality Matrix Inc	Westborough	MA	26	Software Developers; Computer Systems Analysts; Information Security Analysts	110700	TX,MA,NJ
+Quality One Wireless, LLC	Orlando	FL	1	Computer Network Architects		NJ
+Quality Packaging, Inc.	Fond du Lac	WI	2	Software Developers; Architectural and Engineering Managers		WI
+Quality Production Services, Inc.	Rancho Dominguez	CA	1	Construction Managers		CA
 Quality Supply Chain Co-op, Inc.	Dublin	OH	1	Financial Risk Specialists		OH
-Quality Systems Integrators, Inc.	Minneapolis	MN	1	Software Developers		MN
-Quality Theorem Llc.	Plainsboro	NJ	1	Electrical Engineers		TX
+Quality Surplus, Inc.	Lake Balboa	CA	1	Market Research Analysts and Marketing Specialists		NJ
+Quality Systems Integrators, Inc.	Minneapolis	MN	2	Software Developers		MN
+Quality Theorem Llc.	Plainsboro	NJ	3	Validation Engineers; Electrical Engineers; Computer Systems Analysts		NY,TX,GA
 Quality Welding LLC	Bristol	CT	1	Cost Estimators		CT
-Qualityze Inc.	Tampa	FL	1	Industrial Engineer		FL
-Qualizeal	Irving	TX	11	Software Quality Assurance Analysts and Testers; Software Developers; Information Technology Project Managers	113600	TX,CA,MO
-Qualrec Solutions LLC	St. Petersburg	FL	1	Software Developers		MA
-QualSoft Inc	Ashburn	VA	3	Software Developers	86100	IN,FL
+Qualityze Inc.	Tampa	FL	2	Industrial Engineers; Industrial Engineer		FL
+Qualizeal	Irving	TX	13	Software Quality Assurance Analysts and Testers; Information Technology Project Managers; Software Developers	125000	CA,TX,OH
+Qualrec Solutions LLC	St. Petersburg	FL	2	Software Developers		MA,CA
+QualSoft Inc	Ashburn	VA	5	Computer Programmers; Information Technology Project Managers; Software Developers	89500	GA,FL,NJ
 Qualtech America Inc.	Petaluma	CA	2	Project Management Specialists		CA
 QualTex Laboratories	San Antonio	TX	1	Medical and Clinical Laboratory Technologists		TX
-Qualtrics, LLC	Provo	UT	44	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	158500	WA,VA,UT
-Qualus, LLC	Lake Mary	FL	8	Electrical Engineers; Project Management Specialists; Software Developers	130300	TN,NJ,VA
-Qualys, Inc.	Foster City	CA	33	Software Developers; Network and Computer Systems Administrators; Information Technology Project Managers	137300	CA,NC
-Quanata, LLC	San Francisco	CA	4	Computer Systems Analysts; Graphic Designers; Software Developers	201800	CA
+Qualtie Technologies LLC	Doylestown	PA	1	Computer Network Architects		PA
+Qualtrics, LLC	Provo	UT	42	Software Developers; Data Scientists; Information Technology Project Managers	183200	WA,VA,UT
+Qualtrix Professional Services and Consulting Inc	Schaumburg	IL	5	Software Developers; Computer Systems Analysts	108100	IL
+Qualtryx, LLC	Fulton	MD	1	Software Developers		MD
+Qualus, LLC	Lake Mary	FL	13	Electrical Engineers; Project Management Specialists; Software Developers	134200	TN,CA,FL
+Qualys, Inc.	Foster City	CA	61	Software Developers; Computer and Information Systems Managers; Software Quality Assurance Analysts and Testers	144700	CA,NC
+Quan Law Group, PLLC	Houston	TX	1	Judicial Law Clerks		TX
+Quanata, LLC	San Francisco	CA	3	Software Quality Assurance Analysts and Testers; Data Scientists; Software Developers	265900	CA,NJ
+Quandary Peak Research, Inc.	Los Angeles	CA	2	Computer and Information Research Scientists		CA,TX
 Quander Technologies, Inc.	San Francisco	CA	1	Software Developers		CA
-Quant Dynamics Solutions Inc	Memphis	TN	15	Data Scientists; Network and Computer Systems Administrators; Computer Systems Analysts	89500	TX,IL,TN
+Quant Dynamics Solutions Inc	Memphis	TN	19	Data Scientists; Software Developers; Network and Computer Systems Administrators	89500	AR,TX,IL
 Quant Global Capital Advisors LLC	New York	NY	2	Operations Research Analysts		NY
-Quanta Cloud Technology USA, LLC	San Jose	CA	1	Sales Engineers		CA
-Quanta Health Inc.	Omaha	NE	1	Industrial Engineers		NE
-Quanta Manufacturing Nashville, LLC	La Vergne	TN	38	Industrial Engineers; Computer Hardware Engineers; Validation Engineers	94100	TN,CA
-Quanta Services Management Partnership, L.P.	Houston	TX	1	Software Developers		TX
-Quanta Technology LLC	Raleigh	NC	18	Electrical Engineers; Architectural and Engineering Managers; Project Management Specialists	138200	IL,CA,NC
+Quant Inc.	New York	NY	2	Financial Managers; Project Management Specialists		NY
+Quant Infrastructure Company LLC	New York	NY	2	Financial Quantitative Analysts; Electrical Engineers		NY
+Quanta Infrastructure Solutions Group, LLC	Houston	TX	1	Lawyers		TX
+Quanta Manufacturing Nashville, LLC	La Vergne	TN	39	Industrial Engineers; Computer Hardware Engineers; Validation Engineers	95000	TN,CA
+Quanta Power Solutions, LLC	Birmingham	AL	1	Database Architects		AL
+Quanta Technlogy LLC	Raleigh	NC	1	Electrical Engineers		CA
+Quanta Technology LLC	Raleigh	NC	27	Electrical Engineers; Architectural and Engineering Managers; Management Analysts	139000	NC,IL,MN
+Quantadigit Llc.	Austin	TX	3	Software Quality Assurance Analysts and Testers	106500	VA
+Quantal Labs LLC	Ashburn	VA	1	Software Developers		VA
 QuantalRF	San Diego	CA	1	Mechanical Engineers		CA
+Quantam Solutions LLC	Southfield	MI	7	Software Developers; Computer Systems Engineers/Architects; Database Administrators		KY
 Quantatum Inc.	Piscataway	NJ	1	Computer Network Architects		NJ
-Quantbase Investments, Inc.	New York	NY	1	Financial Managers		NY
-Quantbot Technologies, LP	New York	NY	7	Operations Research Analysts; Financial and Investment Analysts; Financial Quantitative Analysts	180000	NY
-Quantcast Corporation	San Francisco	CA	4	Computer and Information Systems Managers; Architectural and Engineering Managers; Software Developers	196800	CA,NY
-QuantCo, Inc.	Cambridge	MA	2	Data Scientists		CA
-Quanteam North America Inc	New York	NY	7	Software Developers; Data Scientists; Computer Systems Engineers/Architects	130000	TX,NY
-Quantel AI, Inc.	New York	NY	2	Financial Quantitative Analysts		NY
-Quanterian, LLC	Irving	TX	7	Information Technology Project Managers; Industrial Engineers; Computer Programmers	82300	TX,MA,PA
-Quantexa Inc.	New York	NY	3	Data Scientists	137900	MA
+Quantbase Investments, Inc.	New York	NY	4	Web and Digital Interface Designers; Software Developers; Financial Managers	165000	NY
+Quantbot Technologies, LP	New York	NY	7	Operations Research Analysts; Financial and Investment Analysts; Data Scientists	175000	NY
+Quantcast Corporation	San Francisco	CA	6	Software Developers; Database Architects; Lawyers	156400	WA,CA,TX
+QuantCo, Inc.	Cambridge	MA	3	Data Scientists; Regulatory Affairs Managers	200000	CA,MA
+Quanteam North America Inc	New York	NY	7	Software Developers; Data Scientists; Management Analysts	130000	TX,NY
+Quantel AI, Inc.	New York	NY	1	Financial Quantitative Analysts		NY
+Quantellic Inc.	Laguna Niguel	CA	2	Financial and Investment Analysts; Economists		CA
+Quanterian, LLC	Irving	TX	7	Industrial Engineers; Software Quality Assurance Analysts and Testers; Software Developers	80900	TX,PA
+Quanterix Corporation	Billerica	MA	3	Marketing Managers; Computer and Information Research Scientists; Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products	195000	CA,MA,NY
+Quantexa Inc.	New York	NY	4	Data Scientists	126000	MA,NY
 QuantFood US Holdings LLC	Sunnyvale	CA	3	Statisticians	180000	CA
+Quantico Energy Solutions, Inc	Houston	TX	1	Data Scientists		TX
 Quantics LLC	Naperville	IL	1	Computer Systems Analysts		GA
-Quantifi, Inc.	New York	NY	4	Software Developers; Financial Quantitative Analysts	126500	NY
-Quantifind, Inc.	Palo Alto	CA	3	Information Technology Project Managers	135000	NY,NJ,GA
+Quantifi, Inc.	New York	NY	4	Software Developers; Financial and Investment Analysts; Financial Quantitative Analysts	142500	NY
+Quantifind, Inc.	Palo Alto	CA	5	Data Scientists; Software Developers; Information Technology Project Managers	125000	CA,GA
 quantilope, Inc.	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
-Quantinno Capital Management LP	New York	NY	3	Financial and Investment Analysts; Software Developers	150000	NY
+Quantinno Capital Management LP	New York	NY	3	Software Developers; Financial Quantitative Analysts	175000	NY
 QuantiPerm LLC	Chandler	AZ	1	Mechanical Engineers		AZ
-Quantiphi, Inc.	Marlborough	MA	42	Software Developers; Data Scientists; Information Technology Project Managers	121800	MA,NJ,TX
+Quantiphi, Inc.	Marlborough	MA	56	Software Developers; Information Technology Project Managers; Data Scientists	138600	MA,NJ,TX
+Quantis, Inc.	Boston	MA	1	Sustainability Specialists		MA
 Quantitative Biosciences, Inc.	San Diego	CA	1	Microbiologists		CA
 Quantitative Economic Solutions, LLC	Boston	MA	1	Economists		MA
-Quantitix LLC	Plano	TX	1	Data Scientists		TX
-Quantlab Financial, LLC	Houston	TX	2	Financial Quantitative Analysts; Financial Risk Specialists		TX
-Quantlab U.S. Inc.	Houston	TX	1	Mathematicians		OH
-Quantom Tech LLC	Flower Mound	TX	5	Software Developers; Computer Systems Analysts; Computer Systems Engineers/Architects	114800	TX,CA,NJ
+Quantitative Risk Management, Inc	Chicago	IL	1	Software Developers		IL
+Quantitix LLC	Plano	TX	3	Information Security Analysts; Software Developers; Data Scientists		TX
+Quantlab Financial, LLC	Houston	TX	3	Mathematicians; Financial Quantitative Analysts; Financial Risk Specialists	120000	TX,OH
+Quantlab U.S. Inc.	Houston	TX	3	Mathematicians; Statisticians	84900	OH,NV
+Quantom Tech LLC	Flower Mound	TX	14	Software Developers; Computer Systems Engineers/Architects; Computer Systems Analysts	96000	TX,NJ,CA
 Quantronix, Inc	Ogden	UT	3	Software Developers	107600	UT
 QuantTech Company	Boston	MA	2	Financial and Investment Analysts		MA
 Quantum BioTek Inc.	Newark	NJ	2	Project Management Specialists		NJ
 Quantum Code Consultancy Services LLC	Kissimmee	FL	4	Software Developers; Logistics Analysts	97200	OH,WI,TX
-Quantum Diamond Technologies Inc.	Waltham	MA	3	Biochemists and Biophysicists; Software Developers	123000	MA
-Quantum Emergency Physicians, P.A.	Knoxville	TN	1	Physicians, All Other		TX
+Quantum Computing Inc.	Hoboken	NJ	3	Photonics Engineers; Electrical Engineers	130000	NJ
+Quantum Diamond Technologies Inc.	Waltham	MA	2	Biochemists and Biophysicists		MA
+Quantum Emergency Physicians, P.A.	Knoxville	TN	2	Hospitalists; Physicians, All Other		TX
 Quantum Emergency Physicians, P.A., DBA Quantum Hospitalist Physicians, P.A.	Knoxville	TN	1	Physicians, All Other		TX
 Quantum Energy Partners (2020), LLC	Houston	TX	2	Data Scientists		TX
+Quantum Energy Technologies LLC	Houston	TX	1	Mechanical Engineers		TX
 Quantum Financial Advisors, Inc.	Rockville	MD	2	Financial and Investment Analysts		MD
-Quantum Fuel Systems LLC	Lake Forest	CA	1	Materials Scientists		CA
+Quantum formula Diagnostics, LLC	Dallas	TX	1	Medical and Health Services Managers		TX
+Quantum Fuel Systems LLC	Lake Forest	CA	2	Mechanical Engineers; Materials Scientists		CA
 Quantum Fulfillment and Support, LLC	Cedar Creek	TX	1	Document Management Specialists		TX
 Quantum Hotels LLC	Sumter	SC	1	Data Scientists		SC
-Quantum Integrators Group LLC	West Windsor	NJ	25	Software Developers; Computer Systems Analysts; Business Intelligence Analysts	106000	NJ,TX,PA
-Quantum Ops Inc.	Prosper	TX	1	Software Developers		TX
+Quantum Integrators Group LLC	West Windsor	NJ	47	Software Developers; Computer Systems Analysts; Business Intelligence Analysts	113000	NJ,TX,GA
+Quantum Lending Solutions, Inc.	Reston	VA	2	Computer and Information Systems Managers; Data Scientists		CA,VA
+Quantum Market Research, Inc.	Omaha	NE	3	Computer and Information Systems Managers; Software Quality Assurance Analysts and Testers	207000	MN,NC,NE
+Quantum Nova Labs LLC	West palm Beach	FL	2	Information Technology Project Managers; Software Developers		VA,TX
 Quantum Physical Therapy & Chiropractic Care, PLLC	North Baldwin	NY	5	Exercise Physiologists		NY
-Quantum Systems Group, Inc.	Somerset	NJ	4	Database Architects; Information Technology Project Managers; Software Developers	143000	IL,KS,FL
-Quantum Technologies LLC	Duncanville	TX	23	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	84300	TX,NY,MA
+Quantum Systems Group, Inc.	Somerset	NJ	11	Software Developers; Data Scientists; Database Architects	109800	NJ,IL,WA
+Quantum Technologies, Inc.	Falls Church	VA	15	Computer Programmers; Software Developers; Information Technology Project Managers	97400	NY,TX,MO
 Quantum Vision Holdings Inc (USA)	Miami Beach	FL	1	Computer and Information Research Scientists		FL
-Quantum-Si, Incorporated	Branford	CT	1	Biochemists and Biophysicists		CA
+Quantum Vision, LLC	Gaithersburg	MD	4	Software Developers; Network and Computer Systems Administrators	127500	VA,DC,AZ
 Quantumai Solutions	Princeton	NJ	6	Software Developers; Data Scientists	91500	TX,MI,OH
+QuantumClaims Inc.	New York	NY	2	Operations Research Analysts		TX
 QuantumEdge Consulting LLC	Lilburn	GA	2	Computer Occupations, All Other; Life, Physical, and Social Science Technicians, All Other		NJ,NY
+QuantumID Technologies	Cambridge	MA	5	Software Developers; Information Technology Project Managers; Computer Systems Analysts	154600	MA
 Quantumlytix, LLC	West Baden Springs	IN	1	Industrial Engineers		IN
-QuantumScape Battery, Inc.	San Jose	CA	8	Mechatronics Engineers; Materials Engineers; Financial and Investment Analysts	154800	CA,TX
-Quantumsoft Solutions Inc	Fremont	CA	6	Software Developers; Software Quality Assurance Analysts and Testers		TX,CA,NC
+QuantumRev LLC	Atlanta	GA	1	Computer Programmers		CO
+QuantumScape Battery, Inc.	San Jose	CA	16	Materials Engineers; Mechatronics Engineers; Chemical Engineers	155300	CA,TX
+Quantumsoft Solutions Inc	Fremont	CA	10	Software Developers; Software Quality Assurance Analysts and Testers; Computer and Information Systems Managers		TX,CT,GA
+Quantumtech Inc	Denton	TX	3	Computer Systems Analysts; Business Intelligence Analysts; Web Developers	80700	TX,NC
 Quantumvest, Inc.	Scottsdale	AZ	1	Financial Quantitative Analysts		FL
-Quantyzd Inc	Bellevue	WA	2	Computer and Information Research Scientists; Computer Programmers		TX
-Quarks Technosoft LLC	Raleigh	NC	1	Data Scientists		CA
+Quantyzd Inc	Bellevue	WA	3	Computer and Information Research Scientists; Computer Programmers; Software Quality Assurance Analysts and Testers	99000	TX,WA
+Quarks Technosoft LLC	Raleigh	NC	2	Data Scientists		NJ,CA
+Quarks VFX LLC	Sunnyvale	CA	1	Financial Quantitative Analysts		CA
 Quarra Stone Company LLC	Sun Prairie	WI	1	Architects, Except Landscape and Naval		WI
-Quartermaster AI, Inc	Alexandria	VA	2	Software Developers		VA
-Quartet Financial Systems, Inc.	New York	NY	1	Software Developers		NY
-Quartet LLC	Fort Mill	SC	12	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	102200	TX,NC,NJ
-Quasistatics Inc.	West Lafayette	IN	4	Computer Programmers; Software Developers; Computer Hardware Engineers	91300	IN
+QuarryHouse, Inc.	San Anselmo	CA	1	Civil Engineers		CA
+Quartermaster AI, Inc	Arlington	VA	1	Software Developers		VA
+Quartet Financial Systems, Inc.	New York	NY	2	Software Developers		NY
+Quartet LLC	Fort Mill	SC	17	Software Developers; Computer Programmers; Software Quality Assurance Analysts and Testers	101400	TX,NC,NJ
+Quartile, LLC	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
+Quasistatics Inc.	West Lafayette	IN	6	Software Developers; Computer Programmers; Computer and Information Systems Managers	104400	IN
 QuaverEd, Inc.	Nashville	TN	1	Software Developers		TN
-Quavo, Inc.	Wilmington	DE	1	Software Developers		TX
-QuaXigma	Schaumburg	IL	3	Data Scientists	96900	IL,TX
-Quber, Inc.	Columbia	MD	8	Software Developers; Information Technology Project Managers		MD,VA,TX
+Quavo, Inc.	Wilmington	DE	2	Business Intelligence Analysts; Software Developers		MN,TX
+Quber, Inc.	Columbia	MD	13	Software Developers; Information Technology Project Managers		TX,MD,VA
 QubicaAMF Worldwide, LLC	Mechanicsvlle	VA	1	Construction Managers		VA
 Qubiqle Inc.	Oakland	CA	1	Computer and Information Systems Managers		WA
 Qubit Solutions, Inc.	Addison	TX	3	Software Developers	140000	OH
 QubitSolve Inc.	Morgantown	WV	1	Software Developers		WV
 Qubitsys LLC	Dallas	TX	1	Software Quality Assurance Analysts and Testers		AZ
-Qubitz Tech Sysytems LLC	Frisco	TX	1	Software Developers		PA
-Quebec Solutions Inc	Frisco	TX	16	Software Developers; Data Scientists; Database Administrators	103300	TX,TN,IL
+Quebec Solutions Inc	Frisco	TX	24	Software Quality Assurance Analysts and Testers; Software Developers; Data Scientists	94000	TX,MS,NH
+Quectel Wireless Solutions USA, Inc.	San Diego	CA	1	Sales Managers		CA
 Queen Max Services Inc.	Saginaw	MI	2	Marketing Managers		MI
 Queen of Peace Center	St. Louis	MO	1	Substance Abuse and Behavioral Disorder Counselors		MO
+Queen's University Medical Group	Honolulu	HI	8	Hospitalists; Physicians, All Other; Cardiologists	299400	HI
+Queens Borough Public Library	Jamaica	NY	1	Software Developers		NY
 Queens Boulevard Extended Care Facility Management LLC	Woodside	NY	1	Dietitians and Nutritionists		NY
-Queens Capital, Inc.	New York	NY	2	Financial and Investment Analysts; Project Management Specialists		NY
-Queens College of the City University of New York	Flushing	NY	3	Psychology Teachers, Postsecondary; Environmental Science Teachers, Postsecondary; Computer Science Teachers, Postsecondary	95900	NY
-Quench USA, Inc.	King of Prussia	PA	1	Operations Research Analysts		PA
+Queens Capital, Inc.	New York	NY	1	Project Management Specialists		NY
+Queens College of the City University of New York	Flushing	NY	5	Computer Science Teachers, Postsecondary; Philosophy and Religion Teachers, Postsecondary; Anthropology and Archeology Teachers, Postsecondary	99000	NY
+Queens Diamond & Jewelry Inc	Jackson Heights	NY	2	Management Analysts; Software Developers		NY
 Quennell Rothschild & Partners Landscape Architects, LLP	New York	NY	2	Landscape Architects		NY
-QuEra Computing Incorporated	Boston	MA	6	Software Developers; Physicists; Chemists	179000	MA
-Quest Diagnostics Incorporated	Tampa	FL	27	Medical and Clinical Laboratory Technologists; Software Developers; Biochemists and Biophysicists	109800	CA,PA,NV
-Quest Educational Services	Houston	TX	1	Fundraisers		TX
-Quest Global Alpha Numero Inc.,	Windsor	CT	2	Electronics Engineers, Except Computer		NY
-Quest Global Services- N.a., Inc.	Windsor	CT	64	Software Developers; Software Quality Assurance Analysts and Testers; Mechanical Engineers	102500	CA,TX,WI
-Quest IT Solutions Inc	Houston	TX	44	Computer Programmers; Software Developers; Software Quality Assurance Analysts and Testers	101400	TX,OH,NC
+QuEra Computing Incorporated	Boston	MA	9	Physicists; Software Developers; Chemists	177000	MA
+Quesos La Ricura, LTD.	Hicksville	NY	1	Food Scientists and Technologists		NY
+Quest Diagnostics Incorporated	Tampa	FL	48	Medical and Clinical Laboratory Technologists; Software Developers; Information Technology Project Managers	139600	CA,MI,OH
+Quest Educational Services	Houston	TX	2	Fundraisers		TX
+Quest Global Alpha Numero Inc.,	Windsor	CT	1	Electronics Engineers, Except Computer		NY
+Quest Global Services- N.a., Inc.	Windsor	CT	93	Software Developers; Mechanical Engineers; Software Quality Assurance Analysts and Testers	106800	CA,TX,WI
+Quest IT Solutions Inc	Houston	TX	80	Computer Programmers; Software Developers; Software Quality Assurance Analysts and Testers	93300	TX,CA,FL
 Quest Project Controls Inc	Monrovia	CA	2	Civil Engineers		CA
-Quest Scholars Program, Inc.	Palo Alto	CA	2	Data Scientists		VA
-Quest Software Inc.	Aliso Viejo	CA	1	Software Developers		GA
+Quest Resource Management Group, LLC	Irving	TX	1	Computer and Information Systems Managers		TX
+Quest Software Inc.	Aliso Viejo	CA	2	Sales Engineers		FL,NJ
 Questa Capital Management, LLC	San Francisco	CA	1	Financial and Investment Analysts		DC
+QuesTek Innovations LLC	Evanston	IL	1	Materials Engineers		IL
 Questivity Inc.	Santa Clara	CA	1	Network and Computer Systems Administrators		CA
-Questkart Inc	Plainsboro	NJ	3	Software Developers; Information Technology Project Managers	180000	NJ
-Questpay Inc DBA V2 Technologies Inc	North Brunswick	NJ	3	Software Developers	125000	GA,NC
-Questpay, Inc.	North Brunswick	NJ	2	Computer Systems Engineers/Architects; Software Developers		NJ,CA
-Questsoft Solutions, Inc.	Matawan	NJ	4	Software Developers	121500	TX,CA,NJ
+Questkart Inc	Plainsboro	NJ	5	Information Technology Project Managers; Software Developers	180000	NJ
+Questpay Inc DBA V2 Technologies Inc	North Brunswick	NJ	5	Software Developers	127100	GA,NC,TX
+Questpay, Inc.	North Brunswick	NJ	4	Software Developers; Computer Systems Engineers/Architects	131100	TN,NJ,CA
+Questsoft Solutions, Inc.	Matawan	NJ	6	Software Developers	113000	TX,FL,CA
 Questy Academy LLC	Seattle	WA	2	Instructional Coordinators		WA
 Quetico Arizona LLC	Goodyear	AZ	3	Operations Research Analysts	72800	AZ
 Queue Associates, Inc.	New York	NY	1	Accountants and Auditors		NY
-Queue Build LLC	San Antonio	TX	3	Manufacturing Engineers; Mechanical Engineers	150000	TX
-QuickBase, Inc.	Boston	MA	3	Software Developers	131100	MA,VT
-Quicken, Inc.	Menlo Park	CA	4	Web and Digital Interface Designers; Software Developers	211800	CA
+Quick Turn Engine Center, LLC	New York	NY	1	Aerospace Engineers		FL
+QuickBase, Inc.	Boston	MA	7	Software Developers; Software Quality Assurance Analysts and Testers	136100	MA,CO,NY
+Quicken, Inc.	Menlo Park	CA	2	Software Developers		CA
+Quicklert Inc.	Carmel	IN	2	Computer Programmers; Software Developers		IN
+Quicklly, Inc.	Chicago	IL	3	Computer and Information Systems Managers; Supply Chain Managers	150000	IL,NJ
 QuickLogic Corporation	San Jose	CA	1	Electronics Engineers, Except Computer		UT
-Quickmart Pharmacy And Convenience LLC	Milltown	NJ	1	Database Architects		NJ
-QuickRX LLC	Brewster	WA	3	Health Education Specialists; Compliance Officers; Pharmacy Technicians		WA,NJ
+Quickmart Pharmacy And Convenience LLC	Milltown	NJ	2	Database Architects; Business Intelligence Analysts		NJ
+QuickMD LLC	Peachtree Corners	GA	1	Software Developers		GA
+Quicknotix LLC	Santa Fe	NM	14	Accountants and Auditors; Software Developers; Database Administrators	105000	IL
+QuickRX LLC	Brewster	WA	1	Pharmacists		WA
 QuickSilver IT Solutions LLC	Okemos	MI	2	Computer Systems Analysts; Information Technology Project Managers		MI
-Quicktron Automation USA Inc	Grapevine	TX	3	Robotics Engineers; Civil Engineers; Logistics Analysts		TX
-Quiddity Infotech, LLC	Little Elm	TX	15	Software Developers; Management Analysts; Data Scientists	112900	TX,NJ,NY
-Quiet Capital Management LP	San Francisco	CA	1	Financial Quantitative Analysts		NY
+Quicktron Automation USA Inc	Grapevine	TX	5	Software Developers; Robotics Engineers; Civil Engineers	107500	TX
+Quiddity Infotech, LLC	Little Elm	TX	16	Software Developers; Software Quality Assurance Analysts and Testers; Information Technology Project Managers	105000	TX,OH,DC
+Quidient, LLC	Columbia	MD	2	Software Developers		MD
+Quiet Capital Management LP	San Francisco	CA	2	Financial Quantitative Analysts		NY
+Quigley-Simpson & Heppelwhite, Inc.	Los Angeles	CA	1	Business Intelligence Analysts		TX
 Quiknode Inc.	Hallandale Beach	FL	1	Software Developers		NY
 Quikrete Construction Materials, LLC	Atlanta	GA	2	Industrial Engineers; Construction Managers		WV
-Quikrete International, Inc.	Atlanta	GA	1	Industrial Engineers		GA
-Quikrete International, Inc. (Quikrete Entity)	Atlanta	GA	1	Purchasing Managers		GA
-Quikserve Enterprises, Inc.	Lodi	CA	1	Network and Computer Systems Administrators		CA
-Quility Insurance LLC	Swannanoa	NC	2	Software Quality Assurance Analysts and Testers; Accountants and Auditors		NC
-Quill & Arrow LLP	Los Angeles	CA	2	Lawyers		CA
+Quikrete International, Inc.	Atlanta	GA	5	Industrial Engineers; Computer Network Architects; Business Intelligence Analysts	125000	GA
+Quiktrip Corporation	Tulsa	OK	1	Data Warehousing Specialists		OK
+Quility Insurance LLC	Swannanoa	NC	1	Accountants and Auditors		NC
+Quill & Arrow LLP	Los Angeles	CA	5	Lawyers	140000	CA
 Quill Notes, Inc.	San Francisco	CA	1	Web and Digital Interface Designers		CA
-Quilr Inc.	Austin	TX	1	Software Developers		TX
-Quincy Asian Resources, Inc.	Quincy	MA	1	Child, Family, and School Social Workers		MA
+Quilt Systems, Inc	Redwood City	CA	1	Software Developers		CA
+Quincy Asian Resources, Inc.	Quincy	MA	2	Health Education Specialists; Child, Family, and School Social Workers		MA
 Quincy Physicians & Surgeons Clinic, PLLC	Quincy	IL	2	General Internal Medicine Physicians		IL
+Quincy University Corporation	Quincy	IL	3	Mathematical Science Teachers, Postsecondary; Engineering Teachers, Postsecondary; Business Teachers, Postsecondary	78000	IL
 Quincy Wells Group, LLC FKA Great Point Aligned Companies, LLC	Chicago	IL	1	Financial and Investment Analysts		IL
-Quinn David & Associates, LLC	Milwaukee	WI	5	Software Developers		VA,MO
-Quinn Emanuel Urquhart & Sullivan	Los Angeles	CA	15	Lawyers	225000	CA,NY,DE
+Quinn & Dworakowski, LLP	Irvine	CA	2	Lawyers		CA
+Quinn David & Associates, LLC	Milwaukee	WI	5	Software Developers	132000	MA,MO,AR
+Quinn Emanuel Urquhart & Sullivan	Los Angeles	CA	17	Lawyers	225000	CA,NY,DC
 Quinn Engineering, LLC	Overland Park	KS	2	Civil Engineers		KS
-Quinn Evans Architects, Inc.	Ann Arbor	MI	1	Architects, Except Landscape and Naval		DC
-Quinnipiac University	Hamden	CT	1	Business Teachers, Postsecondary		CT
-Quinnox, Inc.	Chicago	IL	15	Software Developers; Computer Systems Analysts; Sales Engineers	121700	TX,IL,TN
+Quinn Evans Architects, Inc.	Ann Arbor	MI	2	Architects, Except Landscape and Naval		DC
+Quinn Group, Inc	City of Industry	CA	1	Business Intelligence Analysts		CA
+Quinncia Inc.	Cambridge	MA	1	Software Developers		NJ
+Quinnipiac University	Hamden	CT	2	Communications Teachers, Postsecondary; Business Teachers, Postsecondary		CT
+Quinnox, Inc.	Chicago	IL	28	Software Developers; Software Quality Assurance Analysts and Testers; Information Technology Project Managers	124000	TX,IL,TN
 Quino Energy, Inc.	San Leandro	CA	1	Chemical Engineers		CA
-Quinsigamond Community College	Worcester	MA	1	Physics Teachers, Postsecondary		MA
-QuinStreet, Inc.	Foster City	CA	14	Software Developers; Computer Systems Analysts; Operations Research Analysts	136600	CA,IN,WA
-Quintairos, Prieto, Wood & Boyer, P.A.	Miami	FL	1	Lawyers		NY
+Quinsigamond Community College	Worcester	MA	1	Educational, Guidance, and Career Counselors and Advisors		MA
+QuinStreet, Inc.	Foster City	CA	24	Software Developers; Data Scientists; Operations Research Analysts	142700	CA,TX,CO
+Quintairos, Prieto, Wood & Boyer, P.A.	Miami	FL	3	Lawyers	115700	CA,NY
+Quintar, Inc.	Santa Clara	CA	2	Software Developers		CA
 Quintara Biosciences Inc.	San Diego	CA	2	Marketing Managers		CA
+Quintess AI, Inc.	San Francisco	CA	1	Software Developers		CA
 Quintessenal Hospitality Group LLC	St. Charles	MO	1	Market Research Analysts and Marketing Specialists		MO
 Quintessent Inc.	Goleta	CA	1	Materials Engineers		CA
+QuintEvents, LLC	Charlotte	NC	1	General and Operations Managers		NC
+Quisitive LLC	Irving	TX	1	Software Developers		IL
 Quiver Bioscience, Inc.	Cambridge	MA	1	Molecular and Cellular Biologists		MA
-QuiverAI, Inc.	Dover	DE	2	General and Operations Managers; Human Resources Managers		CA
-Quizlet, Inc.	San Francisco	CA	3	Computer and Information Systems Managers; Data Scientists; Software Developers	213500	CA
+QuiverAI, Inc.	Dover	DE	6	Computer and Information Research Scientists; Computer and Information Systems Managers; General and Operations Managers	172500	MA,NC,CA
+Quizlet, Inc.	San Francisco	CA	6	Software Developers; Data Scientists	210700	CA,WA
 Qumpus Inc.	Mishawaka	IN	2	Operations Research Analysts		IN
-Qumulo, Inc.	Seattle	WA	2	Computer Occupations, All Other; Software Developers		PA,WA
+Qumulo, Inc.	Seattle	WA	1	Computer Systems Engineers/Architects		WA
 Quona Capital Management LLC	Washington	DC	1	Financial Specialists, All Other		DC
-Quora, Inc.	Mountain View	CA	6	Software Developers; Data Scientists; Computer Systems Engineers/Architects	178700	WA,CA
-Quorum Private Wealth, LLC	Danville	CA	1	Financial and Investment Analysts		CA
+Quora, Inc.	Mountain View	CA	13	Software Developers; Architectural and Engineering Managers; Data Scientists	189500	CA,WA,VA
+Quorum Business Solutions (U.S.A.) Inc.	Houston	TX	3	Chief Executives; Computer and Information Systems Managers; Database Administrators	156600	TX
 Quote2Cash	Newark	NJ	1	Software Developers		NJ
-Quotelab, LLC	Los Angeles	CA	1	Data Scientists		CA
-QuoteWizard.com, LLC	Charlotte	NC	4	Software Developers; Data Scientists	159000	NC,WA
-Quotient Sciences - Philadelphia, LLC	Boothwyn	PA	2	Natural Sciences Managers; Chemists		PA
-Qurrent, Inc.	San Francisco	CA	4	Management Analysts; Software Developers	140500	CA
-QvalFocus Inc.	Plainsboro	NJ	34	Validation Engineers; Software Quality Assurance Analysts and Testers; Industrial Engineers	97600	NJ,NY,NC
-QVC Group	West Chester	PA	2	Software Quality Assurance Analysts and Testers; Software Developers		PA
-QVC, Inc.	West Chester	PA	5	Software Developers; Software Quality Assurance Analysts and Testers; Web and Digital Interface Designers	149000	PA,NC
+Quotelab, LLC	Los Angeles	CA	1	Software Developers		WA
+QuoteWizard.com, LLC	Charlotte	NC	8	Software Developers; Data Scientists; Computer and Information Systems Managers	159000	WA,NC,TX
+Quotient Sciences - Philadelphia, LLC	Boothwyn	PA	3	Chemists; Natural Sciences Managers	92000	PA
+Qurrent, Inc.	San Francisco	CA	7	Software Developers; Management Analysts	160000	CA
+Quzara LLC	Great Falls	VA	3	Operations Research Analysts; Information Security Analysts	110300	NJ,NC
+QvalFocus Inc.	Plainsboro	NJ	55	Validation Engineers; Software Quality Assurance Analysts and Testers; Microbiologists	97500	NJ,NY,NC
+QVC Group, Inc.	West Chester	PA	1	Computer Systems Analysts		NJ
+QVC, Inc.	West Chester	PA	7	Software Developers; Information Security Analysts; Web and Digital Interface Designers	139000	PA,FL
 Qventus Inc.	San Francisco	CA	5	Software Developers; Sales Engineers	157900	AZ,TX,CA
-QVerge LLC	Alpharetta	GA	3	Software Developers	95700	GA,KS,PA
-Qvest.US, LLC	Manhattan Beach	CA	3	Management Analysts; Software Developers	118300	TX
+QVerge LLC	Alpharetta	GA	2	Software Developers		OH,NJ
+Qvest.US, LLC	Manhattan Beach	CA	4	Management Analysts; Software Developers	126700	TX,NJ
 Qwest Air Parts, LLC	Doral	FL	1	Logisticians		TX
-Qwest Corporation	Monroe	LA	13	Software Developers; Computer Occupations, All Other; Data Scientists	125700	CO,TX,LA
-Qwest Corporation d/b/a CenturyLink QC	Monroe	LA	1	Information Security Analysts		CO
-Qwest Corporation d/b/a Lumen Technologies, Inc.	Monroe	LA	1	Software Developers		TX
-Qwiktechy Llc.	Sunnyvale	CA	1	Information Technology Project Managers		TX
-QXO, Inc.	Greenwich	CT	6	Software Developers; Purchasing Managers; Logisticians	192500	WA,CT,GA
+Qwest Corporation	Monroe	LA	19	Software Developers; Computer Occupations, All Other; Architectural and Engineering Managers	133200	CO,TX,MN
+Qwest Corporation d/b/a CenturyLink QC	Monroe	LA	1	Software Developers		TX
+Qwest Corporation d/b/a Lumen Technologies, Inc.	Monroe	LA	1	Information Technology Project Managers		TX
+Qwiktechy Llc.	Sunnyvale	CA	2	Information Technology Project Managers		GA,TX
+QXO, Inc.	Greenwich	CT	22	Software Developers; Project Management Specialists; Logisticians	207500	WA,VA,GA
+Qymune Inc	San Francisco	CA	1	Biochemists and Biophysicists		CA
 Qyou USA Inc	Los Angeles	CA	1	Market Research Analysts and Marketing Specialists		CA
+Ramsey Quantitative Systems, Inc.	Louisville	KY	1	Financial Quantitative Analysts		NJ
+Red Queen Bio, PBC Inc.	Boston	MA	3	Molecular and Cellular Biologists	114000	MA
 South Coast Air Quality Management District	Diamond Bar	CA	1	Quality Control Systems Managers		CA
-Star Quest Life Science Inc	Piscataway	NJ	3	Database Administrators; Computer Systems Analysts; Software Developers	132000	NJ
+Star Quest Life Science Inc	Piscataway	NJ	6	Computer Systems Analysts; Computer Programmers; Database Administrators	102300	NJ,NY,FL
 Stb Quarters LLC	Newton	NJ	1	Computer and Information Systems Managers		NJ
+Sx Qels L Suwecm - Ksulilmumal Akalmukwaits Incorporated	Polson	MT	1	Financial Quantitative Analysts		NY
+The Best Qualifier	Walnut	CA	1	Business Intelligence Analysts		CA
 The Q StudioLab LLC	Sunnyside	NY	1	Preschool Teachers, Except Special Education		NY
-The Queen's Medical Center	Honolulu	HI	1	Chemists		HI
 Top Quest Inc	Chino	CA	1	Cost Estimators		CA
-Total Quality Logistics, LLC	Cincinnati	OH	5	Software Developers; Software Quality Assurance Analysts and Testers; Market Research Analysts and Marketing Specialists	112400	NC,OH,FL
+Total Quality Logistics, LLC	Cincinnati	OH	7	Software Developers; Database Architects; Market Research Analysts and Marketing Specialists	139000	OH,TX,FL
 Valley Queen Cheese Factory, Inc.	Milbank	SD	4	Operations Research Analysts; Software Developers; Food Scientists and Technologists	73200	SD
+Xanadu Quantum Technologies Inc	Wilmington	DE	2	Nanosystems Engineers; Materials Engineers		CA,OR
+Yang Qiao LLC	Syosset	NY	1	Mathematical Science Occupations, All Other		NY
+Zenith Quest Corporation	Afton	VA	2	Manufacturing Engineers; Mechanical Engineers		VA

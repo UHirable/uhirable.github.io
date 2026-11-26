@@ -28,6 +28,7 @@ A&K CHOPRA LTD	Doncaster	A	0
 A&M Dundee Ltd	Dundee	A	0
 A&M QUALITY FOOD LTD	Dudley	A	0
 A. N. Irwin Feeds Ltd	Dungannon	A	0
+A.BERRY SUPPORT SERVICES LIMITED	Denby	A	0
 A.K Medical Consultancy Ltd. T/A Cockerton Pharmacy	Darlington	A	0
 A1 BUILDERS (MIDLANDS) LIMITED	Derby	A	0
 A1 Chiro LTD	Dundee	A	0
@@ -46,7 +47,6 @@ Aaysha Limited t/a Nice and Spicy	Dunbar	A	0
 ABB Limited	Daresbury	A	0,4,7
 Abbey House Medical Practice	Daventry	A	0
 Abbey Private Nursing Home Ltd	Dungannon	A	0
-Abbeywood House Care Limited	Devon	A	0
 ABC PROJECT CONSULTANCY LTD	Doncaster	A	0
 Abe Zamzam Ltd Trading As Pepes piri piri	Dunstable	A	0
 Aberfoyle Medical practice	Derry	A	0
@@ -59,7 +59,6 @@ ABSOLUTE CABS LIMITED	Doncaster	A	0
 Abuz Food Ltd t/a Taza	Dundee	A	0
 ABV HAIR & BEAUTY LTD	Dartford	A	0
 Abyaan Ltd t/a Saline Store	Dunfermline	A	0
-AC and JA Brodie	Dorking	A	11
 ACACIA CREATIVE STUDIO LTD	Doncaster	A	0
 Access Care Solutions Limited	Derby	A	0
 Accounting and Taxation Advisory Firm Ltd	Derby	A	0
@@ -91,7 +90,6 @@ AESTHETICS INT- BEAUTY FOR ALL LTD	Derby	A	0
 AF ENTERPRISES LTD TA SAVILE TOWN SERVICE STATION	Dewsbury	A	0
 AFC Dunstable Limited	Dunstable	A	0
 Affinity Sports Academy Ltd	Derby	A	0,11
-AFON GOCH CHILDREN'S HOMES LTD	Deiniolen	A	0
 African Octopus Ltd	Deeside	A	0
 AG Building and Fencing Ltd	Derby	A	0
 Aghni Cafe and Restaurant	Devon	A	0
@@ -150,6 +148,7 @@ Alstom Engineering and Services Limited	Derby	A	0,4
 Alvaston Medical Centre	Derby	A	0
 ALVORI LTD	Dorset	A	0
 ALYALAIS PROTECTED FALCON LIMITED	Dumfries	A	0
+AM Surveying & Block Management	Ditton	A	0
 AM-R-AZ LLP	Daventry	A	0
 Amachyck Care and Beauty Salon	Dagenham	A	0
 AMAZING GRACE CHRISTIAN SANCTUARY	Dagenham	A	1
@@ -191,6 +190,7 @@ Applied Microengineering Limited	Didcot	A	0
 APS Autocare Limited	Dewsbury	A	0
 Apsley Care Ltd	Derby	A	0
 AR First Ltd T/A Forde Dental	Dunbar	A	0
+AR TELEVISION NETWORK LTD	Dagenham	A	0
 ARALICONSULTS LIMITED	Dartford	A	0
 Arboretum Hotels Ltd	Derby	A	0
 Ardboe Coldstore Ltd	Dungannon	A	0
@@ -294,7 +294,6 @@ Ballysugagh Limited T/A The Barn Bar and Country Kitchen	Downpatrick	A	0
 Balmoral Surgery	Deal	A	0
 Balro Limited	Dunmow	A	0
 BANDRUM NURSING HOME LIMITED	Dunfermline	A	0
-BANNER HOUSE SUPPORT SERVICES LIMITED	Dartford	A	0
 Baptist Missionary Society	Didcot	A	9
 Baptist Union of Great Britain	Didcot	A	0
 Barley Studio Ltd	Dunnington	A	0
@@ -374,7 +373,7 @@ Bloc Digital Ltd	Derby	A	0
 Bloodgang Studioz UK Ltd	Dagenham	A	0,3
 Blooloop Limited	Devon	A	0
 Blooms Nurseries Limited	Diss	A	0
-Bloomscare Ltd	Dagenham	A	0
+Bloomscare Ltd	Dagenham	B	0
 Blossom Forth Multi Concept Limited	Dartford	A	0
 Blue Bird Care (Doncaster)	Doncaster	A	0
 BLUE DOLPHIN CARE LTD	Derby	A	0
@@ -442,7 +441,6 @@ BUDDY BEAR TRUST CONDUCTIVE EDUCATION SCHOOL	Dungannon	A	0
 BUI LTD	Derby	A	0,4
 Bulkhead Limited	Derby	A	0
 Bun & Base Ltd	Doncaster	A	0
-Burak Transport & Solutions Ltd	Doncaster	A	0
 Burnell Controls (Kent) Ltd	Dartford	A	0
 Burningfold Limited	Dunsfold	A	0,11
 Butt & Hobbs Limited t/a Hobbs Pharmacy	Dartford	A	0
@@ -591,7 +589,6 @@ Clean360 U.K Ltd	Derby	A	0
 CLEARCO INSURE LIMITED	Denton	A	0
 Cleveland-Northern Ireland International Basketball Academy	Downpatrick	A	11
 Clifton Court Medical Practice	Darlington	A	0
-CLIIKK ACCIDENT REPAIR CENTRE LTD	Derby	A	0
 Clinical Care Ltd T/A Medicine Drop	Derby	A	0
 CLINPHARM PLUS LTD	Dudley	A	0
 Clive Owen LLP	Darlington	A	0
@@ -607,6 +604,7 @@ Cobb Farming Limited	Dorchester	A	0
 COCHIN PALACE LTD	Dunstable Road	A	0
 Cocoa Vanille Ltd	Dagenham	A	0
 COFTON COUNTRY HOLIDAYS LIMITED	Dawlish	A	0
+COGENT BYTES LTD	Datchet	A	0
 Cogent Healthcare Ltd	Dalkeith	A	0
 Coldside Medical Practice	Dundee	A	0
 Collegeland Nursing Home	Dungannon	A	0
@@ -649,7 +647,6 @@ CORPORATE TAXIS DUNFERMLINE LTD	Dunfermline	A	0
 Corroless Eastern Ltd	Dereham	A	0
 Cortex Engineering Solutions Ltd	Dungannon	A	0
 Cosmic Living Ltd	Dewsbury	A	0
-Cosmo Buy Ltd	Droylsden	A	0
 Costain Care Dover Limited	Deal	A	0
 Coster Group UK	Derby	A	0,4
 Costworth	Dunstable	A	0
@@ -696,6 +693,7 @@ CW DUNDEE LTD T/As Chaiiwala	Dundee	A	0
 Cygnus Instruments Limited	Dorchester	A	0
 D Q Boats Limited	Devon	A	0
 D S A Drinks LTD	Dudley	A	0
+D&M Cakes Limited	Dromore	A	0
 D'LUX SALON	Dungannon	A	0
 D. I. Harries Ltd	Durham	A	0
 Daataa Ltd	Dudley	A	0
@@ -770,6 +768,7 @@ Denmet Limited T/A Milas Turkish Kitchen & Bar	Dundee	A	0
 DENS SUPER STORE LIMITED	Dundee	A	0
 Denton Go Local	Denton	A	0
 Denton St Lawrence Cricket Club	Denton	A	11
+DENTON-POWELL LIMITED	Dorset	A	0
 DERA PARTNERSHIP LTD	Dagenham	A	0
 Derby Care Home Ltd t/a Westside Nursing Home	Derby	A	0
 Derby City Dental Care	Derby	A	0
@@ -1029,7 +1028,7 @@ ENERTECH LIMITED	Droitwich	A	0
 Enevate Homes Limited	Dartford	A	0
 ENGINEERING CONSULTANCY SERVICES LIMITED	Derby	A	0
 Engineering Support Group Ltd	Doncaster	A	0
-Eniro Care Limited	Didcot	A	0
+Eniro Care Limited	Didcot	B	0
 Enjoy Verse LTD	Dartford	A	3
 Ennogen Healthcare International Limited	Dartford	A	0
 ENNOGEN HEALTHCARE LTD	Dartford	A	0
@@ -1057,7 +1056,6 @@ ESTS GB Ltd	Daventry	A	0
 Etcembly Ltd	Didcot	A	0
 Ether Worldwide Ltd	Dunstable	A	0
 Ethicare (Durham) Ltd	Durham	A	0
-Ethiks Site Services	Doncaster	A	0
 Eton House Residential Home	Datchet	A	0
 Eurocell Group Limited	Derbyshire	A	0
 EUROEQUIP LTD	Dudley,	A	0
@@ -1080,7 +1078,6 @@ Excel Care (Pvt) Ltd T/A Excel Care Services	Dunfermline	A	0
 Excel Care Pvt Ltd T/A EXCEL CARE SERVICES	Dunfermline	A	0
 Excelcare Holdings	Dover Court	A	0
 EXLABESA EXTRUSIONS (DONCASTER) LTD	Doncaster	A	0
-Exonea Health Ltd	Dudley	A	0
 EXPERT SHOPFRONTS LTD	Dagenham	A	0
 EXPERT TINTS & WRAPS LTD	Dunstable	A	0
 EXQUISITE BEDS LTD	Dewsbury	A	0
@@ -1100,6 +1097,7 @@ FARHAM LIMITED	Dartford	A	0
 Farid Hillend Engineering	Dunfermline	A	0
 FARMHOUSE PIZZA DIDCOT LTD	Didcot	A	0
 Farming Partners Arbigland Limited	Dumfires	A	0
+Farming Partners Holdings LLP	Dumfries	A	0
 FARNDON TRADE LIMITED	Dunstable	A	0
 Farooq Mart Limited	Dartford	A	0
 Farrans Limited	Dunmurry	A	0
@@ -1113,6 +1111,7 @@ Federation of Family Practices Derry CIC	Derry/LDerry	A	0
 Felbury House LImited	Dorking	A	0
 Felsted School	Dunmow	A	0
 Fenland Group Practice	Doddington	A	0
+Fibretx Limited	Dewsbury	A	0
 Field International Limited	Dorset	A	0
 FIFE BUSINESS CONSULTANTS LTD	Dunermline	A	0
 FIFE CURRY HOUSE LTD	Dunfermline, Scotland	A	0
@@ -1184,6 +1183,8 @@ FUTURE OF TRANSPORT EXPERIENCE LIMITED	Dorking	A	0
 FYRE DIGITAL LTD T/A YUZE	Darlington	A	0
 G & A DELIGHTS LTD	Dudley	A	0
 G B E Services Ltd	Dartford	A	0
+G Bhandal Transport Ltd	Dudley	A	0
+G& D Retailers Ltd	Durham	A	0
 G-Tech Motor-Works Ltd	Derby	A	0
 G. T. Bunning & Sons Ltd	Dereham	A	0
 G111RLS LTD	Derby	A	0
@@ -1467,6 +1468,7 @@ Industrial Outsourcing Limited	Dudley	A	0
 Infinity Elevator Limited	Dagenham	A	0
 INFINITY SPRINGS LTD	Dewsbury	A	0
 Ingenico UK Ltd	Dalgety Bay	A	0,4
+Injury Rehabilitation Care Centre Limited	Doncaster	A	0
 inni Ltd	Derby	A	0
 Insights Learning & Development Limited	Dundee	A	0
 Inspire Building Supplies Ltd	Derby	A	0
@@ -1498,6 +1500,7 @@ IYAN LTD	Derby	A	0
 J & E Hall Limited	Dartford	A	0,4
 J & H Hauliers LTD	Derby	A	0
 J & N Gold Traders Ltd	Dewsbury	A	0
+J A COYLE MANUFACTURING LIMITED	Derry	A	0
 J L and G J Tweddle	Darlington	A	0
 J Pao and Company Ltd	Dunstable	A	0
 J R Bodman Ltd	Devizes	A	0
@@ -1656,6 +1659,7 @@ Landau Forte Charitable Trust	Derby	A	0
 Lane7 Ltd	Darlington	A	0
 Langdale Heights Care Home	Derby	A	0
 Langfields Limited	Dunfermline	A	0
+LANGHAM AND LANGLEY LIMITED	Dagenham	A	0
 Langland Dental Practice	Dudley	A	0
 Langley Moor Convenience Store	Durham	A	0
 Larex Ventures Limited	Dagenham	A	0
@@ -1701,6 +1705,7 @@ Little Farthingloe Farm	Dover	A	0
 Little Forest Folk Limited	Derby	A	0
 LITTLE WONDERS (EARLY YEARS) LIMITED	Dewsbury	A	0
 LITTLEOVER CURRY HOUSE LIMITED T/A RED CHILLI	Derbyshire	A	0
+Littleover Group Plc	Derby	A	0
 LK Metrology Ltd	Derby	A	0
 LMD Vacuum Excavation Ltd	Duckmanton	A	0
 Loch Arthur Camphill Community Ltd.	Dumfries	A	0,9
@@ -1736,7 +1741,6 @@ LP SD THIRTY SIX LTD	Dudley	A	0
 LRS Solutions Limited	Derby	A	0
 LSQ CONSTRUCTION LTD	Dagenham	A	0
 Lubrizol Limited	Derby	A	0,4
-LUC Group Limited	Derbyshire	A	0
 Luna De Pak 2017 Ltd	Dewsbury	A	0
 Lundie Farming Limited	Dumfries	A	0
 Lycosa Web Services Ltd	Driffield	A	0
@@ -1993,7 +1997,6 @@ Mulgrew Haulage Limited	Dromore	A	0
 Mullaco (Dewsbury) Ltd	Dewsbury	A	0
 Mullaghboy Limited T/A Mullaghboy Nursing Home	Donaghadee	A	0
 Multiple Care Solutions Ltd	Dagenham	A	0
-Munchez Tasty Point Ltd	Doncaster	A	0
 Munshi's Halal (Dewsbury) Limited	Dewsbury	A	0
 Musa Fast Food Ltd	Darlington	A	0
 MUSHTAQ AND SONS HEALTHCARE LIMITED T/A Beeston Manor Pharmacy	Dudley	A	0
@@ -2021,6 +2024,8 @@ NATIONAL AUTO SOLUTIONS LTD	Derby	A	0
 NATIONAL CARE PROVIDERS LTD	Derby	A	0
 National Energy Solutions Ltd	Derby	A	0
 Nationwide Care Services (Derby) Ltd	Derby	A	0
+Nationwide Care Services (Dudley) Ltd	Dudley	A	0
+NATURA CARE SOLUTIONS LIMITED	Dorset	A	0
 Navith Brothers Limited T/A Premier	Deal	A	0
 Nazareth Lodge Limited	Dorset	A	0
 NBG Healthcare Limited T/A Chestnut Rise Nursing Home	Doncaster	A	0
@@ -2109,7 +2114,6 @@ NQA Certification Limited	Dunstable	A	0
 NTUK Trading Co. Limited	Doncaster	A	0
 Nugent Coachworks Ltd	Dungannon	A	0
 NUGENT TRAILERS LIMITED	Dungannon	A	0
-NUMI SCAN (DERBY) LTD	Derby	A	0
 Nuvo Accountancy Limited t/a ADS Accountancy Limited	Derby	A	0
 NXT Infotech Limited	Dartford	A	0
 NYALAPOGULA CONSULTANCY SERVICES LIMITED	Derby	A	0
@@ -2143,7 +2147,6 @@ ONE Academy Trust	Derbyshire	A	0
 One Call Insurance Services Limited	Doncaster	A	0
 One Source Virtual (UK) Limited	Derry	A	0,4
 One Stop Darfield	Darfield Barnsley	A	0
-Online Art School Ltd	Danbury	A	0
 Ontology Partners Limited	Dalkeith	A	0
 Open Cosmos Limited	Didcot	A	0,4
 OPENSOLAR UK LTD	Devon	A	0
@@ -2242,6 +2245,7 @@ Phones Care Ltd	Darwen	A	0
 Phonez 4 You LTD	Darlington	A	0
 PICA Chillis (PC) Ltd	Dewsbury	A	0
 PICO SOLUTIONS SERVICE LTD	Derby	A	0
+PINNACLE PROSTHETICS LIMITED	Dudley	A	0
 Pioneers UK Ministries	Doncaster	A	1,9,10
 PIRATHYS CONSTANTINE MANUALPILLAI T/As Booze Express	Derbyshire	A	0
 Pizza Palace (Dewsbury) Ltd	Dewsbury	A	0
@@ -2258,7 +2262,6 @@ Poppy Cottage Limited	Denham	A	0
 POPX LTD	Dartford	A	0
 Porterbrook Leasing Co Ltd	Derby	A	0
 Ports Facilities Projects Nig Ltd	Dartford	A	0
-POSEIDON SECURITY SPECIAL SERVICES LTD	Dartford	A	0
 Posture Flex Ltd	Dewsbury	A	0
 POTTERNE CRICKET CLUB	Devizes	A	11
 POUND KINGDOM	Dagenham	A	0
@@ -2310,6 +2313,7 @@ Property Vission Limited	Dorset	A	0
 Propshop Ltd T/A Aircraft Restoration Company	Duxford	A	0
 Prospect Diagnostics Ltd	Dronfield	A	0
 Prospect Fire Limited	Dunmow	A	0
+Protolan Limited	Desford	A	0
 Prototype Electronics Ltd	Dorchester	A	0
 Prowess Security Solutions Ltd	Dundee	A	0
 PRYORS CORPORATE TRAVEL LIMITED	Didcot	A	0
@@ -2428,6 +2432,7 @@ Right Care Services Ltd	Derby	A	0
 Right Carpet and Flooring Ltd	Dunstable	A	0
 Right Medicare Limited	Dunstable	A	0
 RIGHT TO CARE LTD	Dudley	A	0
+RIMI SURGE LTD	Denham	A	0
 Ring Dufferin Care (NI) Limited	Downpatrick,	A	0
 RIO TRANSPORT LTD	Dukinfield	A	0
 RISE FOR CHRIST INTERNATIONAL	Dudley	A	1
@@ -2435,7 +2440,7 @@ Rishi Food Stores Limited	Dyce	A	0
 Risley 1 Limited t/a Risley Hall Hotel	Derby	A	0
 Ritherdon & Co Limited	Darwen	A	0
 RIVER DIRECT LIMITED	Dunstable	A	0
-River of Life Church	Dumfries	A	1,10
+River of Life Church (Dumfries)	Dumfries	A	1,10
 Riversdale Surgery	Derby	A	0
 Riverview Kitchen 56 Ltd	Durham	A	0
 RJHArchitecture Ltd	Dorking	A	0
@@ -2575,6 +2580,7 @@ Sentry Fire Safety Group Doncaster Limited	Doncaster	A	0
 Seon Consultancy Limited	Dundee	A	0
 Serenity (Derby) Ltd	Derby	A	0
 SESSION FOOD UK LTD	Dundee	A	0
+Seth Homes Ltd T/as Stoneacre Lodge Care Home	Doncaster	A	0
 Seven (Derby) Limited	Derby	A	0
 Seven (Derby) Ltd	Derby	A	0
 SF Equine Limited	Dorking	A	0
@@ -2613,6 +2619,7 @@ Shield Accident Management Limited	Dungannon	A	0
 Shima Seiki Europe Ltd	Derby	A	4
 SHINING STAR DOUBLE GLAZING LTD T/A THOMASHYNES DOUBLE GLAZING	Dagenham	A	0
 Shinn Thon UK Ltd	Darwen	A	0
+Shire Beds	Dewsbury	A	0
 Shirin Mahal Sweets and Bakers Ltd	Dagenham	A	0
 Shiva Aum Ltd T/As News Box	Dagenham	A	0
 Shiva Retail Limited t/a White Roses Services	Doncaster	A	0
@@ -2842,7 +2849,6 @@ Taxi Cars Limited	Derby	A	0
 Tay Hotel Limited	Dundee	A	0
 Tay Therapeutics Limited	Dundee	A	0
 TB Equine Ltd	Dorking	A	11
-TBTT Direct Limited	Dudley	A	0
 TC Beattie & Co T/A Dalfibble Farming Partners	Dumfries	A	0
 TC Morris Ltd	Dudley	A	0
 TCD Durham Ltd	Durham	A	0
@@ -3197,6 +3203,7 @@ Wiloth Limited	Dagenham	A	0
 Wimborne Nursing Agency Limited	Dorset	A	0
 Winkleigh Timber Limited	Devon	A	0
 Wise Home Care Limited	Derby	A	0
+Wisfy Ltd	Danbury	A	0
 WLH Food Ltd	Durham	A	0
 Wolfeton Manor Healthcare Ltd	Dorchester	A	0
 Woodfalls Care Limited	Downton	A	0

@@ -75,7 +75,6 @@ ABSOLUTE ALL INCLUSIVE CARE LTD T/a AAICARE	Portland	A	0
 Acacia Systems Pty Ltd	Putney	A	2
 ACCOUNTINGWAYS LIMITED	Peterborough	A	0
 Ace Tech Repairs Limited	Pudsey	A	0
-ACER PROPERTIES NORTH LTD	Preston	A	0
 ACH Partners Limited	Perivale	A	0
 Achievement through Collaboration	Preston	A	0
 Ackworth Cricket Club	Pontefract	A	11
@@ -155,6 +154,7 @@ Altilium Metals LTD	Plymouth	A	0
 Altta Group Limited	Peterborough	A	0
 Aluminium & Glass Facades Ltd	Peterborough	A	0
 Alves iCare Ltd	Peterborough	A	0
+AM Coffee Retail Limited T/A Starbucks	Pinner	A	0
 AM FRESH UK Ltd	Peterborough	A	0,4,7
 AMB Financial Ltd	Peterborough	A	0
 Ambourne House Limited T/A Ambourne House Day Nursery & Pre School	Patchway	A	0
@@ -309,7 +309,6 @@ Bamya Limited T/A Izgara	Pinner	A	0
 Bangla Spice Ltd	Prudhoe	A	0
 BAP Medical UK Limited	Peterborough	A	0
 BARBERPOD LIMITED	Peterborough	A	0
-BARHAM STORES LIMITED	Portland	A	0
 BARKAT FOODSTORE PRESTON LTD	Preston	A	0
 Barreast Limited	Purley	A	0
 BARTON MANOR HOTEL & SPA LTD	Preston	A	0
@@ -335,6 +334,7 @@ Belmont Farms Ltd	Pickwell	A	0
 Belmont Lansdown Limited	Plymouth	A	0
 Ben Care Solutions Limited	Portsmouth	A	0
 BENAMOR LTD	Poole	A	0
+Benjamin Solicitors Limited t/as Integrity Law	Preston	A	0
 Bennetts Motorcycling Services Limited	Peterborough	A	0
 Beqom UK Limited	Purley	A	0
 Bespoke 4 Business Marketing Ltd	Poole	A	0
@@ -379,7 +379,6 @@ BLUE LINE FOODS LTD	Plymouth	A	0
 Blue Sea Food Ltd	Paignton	A	0
 Blue Sky Portsmouth Limited	Portsmouth	A	0
 BLUECO HEALTHCARE LIMITED	Preston	A	0
-BLUEGRID TECHNOLOGY LTD	Peterborough	A	0
 BobatM Limited T/A Bobat Pharmacy	Portsmouth	A	0
 Boca Bar Group Ltd T/A The Tipsy Cow	Poulton Le Fylde	A	0
 Boca Restaurants Ltd	Poulton Le Fylde	A	0
@@ -399,7 +398,6 @@ Bowles and wyer Limited	Pitstone	A	0
 BR PITLOCHRY LTD	Pitlochry	A	0
 Braemar RCH Ltd	Portsmouth	A	0
 Brainwave Business Consultants Ltd	Portsmouth	A	0
-Branksome Park Care Centre Limited	Poole	A	0
 BRAVO MOTORS LTD	Pudsey	A	0
 Bretton Health Centre	Peterborough	A	0
 BREW WISE LTD	Preston	A	0
@@ -461,6 +459,7 @@ Captios Limited t/a	Peterborough	A	0
 Caramel Express Perth Limited	Perth	A	0
 Care Esteem Limited	Preston	A	0
 Care Homes of Distinction (Wray Park) Limited	Poole	A	0
+Care Provision Healthcare Limited t/as Philia Lodge Rest Home	Peterborough	A	0
 Care Resource Bureau Ltd	Penn	A	0
 Care South	Poole	A	0
 Caredo Ltd	Preston	A	0
@@ -490,7 +489,6 @@ CATHEDRAL SQUARE LTD T/A SUBWAY	Peterborough	A	0
 Catholic Diocese of Portsmouth	Portsmouth	A	1,10
 Catholic Syro-Malabar Eparchy of Great Britain	Preston	A	1,10
 CB SERVICES (PRESTON) LTD	Preston	A	0
-CB Services (Preston) ltd T/A Eggfree Cake Box Preston	Preston	A	0
 CC GLOBAL CONSULTANCY t/a CC IMMIGRATION	Potters Bar	A	0
 CCP HVAC Ltd	Potters Bar	A	0
 CCR Motor Co. Ltd.	Pontypridd	A	0,4
@@ -648,7 +646,6 @@ Curry Southsea Limited	Portsmouth	A	0
 Curtains & Linens ltd	Princes Risborough	A	0
 Cwm Cartref Care Home	Pontardawe	A	0
 CWT UK Group Ltd	Potters Bar	A	0,4
-Cyber Strategies Ltd	Potters Bar	A	0
 Cyclops Marine Ltd	Portsmouth	A	0
 Cyfannol Woman's Aid	Pontypool	A	0
 D DINING LTD T/A PUBALI BROTHERS TANDOORI	Potters Bar	A	0
@@ -672,7 +669,7 @@ Dean Cross Surgery	Plymouth	A	0
 Deepdale Tyres & Auto Centre Limited	Preston	A	0
 Deepnet Security Ltd	Potters Bar	A	0
 Delt Shared Services	PLymouth	A	0
-DELTA CARE LTD	Preston	A	0
+Delta Care Ltd	Preston	A	0
 Delta Fire Engineering Ltd	Preston	A	0
 Delta HV Limited	Polegate	A	0
 Deltashor Limited	Purfleet	A	0
@@ -749,11 +746,13 @@ Dunya Restaurants Ltd	Plymouth	A	0
 Duua Ltd	Portsmouth	A	0
 DYNAMIC BLENDS LIMITED,TA ShakeTastic Pinner	Pinner	A	0
 E-Leather Ltd	Peterborough	A	0
+E-Service (Europe) Ltd	Potters Bar	A	0
 E2IMPORT LTD	Portsmouth	A	0
 EAGLE FOODS LTD	Peterborough	A	0
 East Shore Partnership	Portsmouth	A	0
 East West Connect Limited	Perivale	A	0
 East West Plymouth Ltd	Plymouth	A	0
+Eastbane Limited	Pinner	A	0
 Easter Circus Ltd	Paddock Wood	A	3
 EASTERN EYE (NEWTON ABBOT) LIMITED	Plymouth	A	0
 EASTERN STORES CHINESE SUPERMARKET LIMITED	Portsmouth	A	0
@@ -777,6 +776,7 @@ Efes Pizza (NW) Limited	Prestatyn	A	0
 EFROC LIMITED	Potters Bar	A	0
 EGAN CONVENIENCE LTD	Preston	A	0
 EGGFREE CAKE INN PETERBOROUGH LTD	Peterborough	A	0
+EGREMONT NICE STORE LTD	Preston	A	0
 Eikon Peters Technology Consulting Ltd	Preston	A	0
 EK DENTAL AND AESTHETICS LTD	Peterborough	A	0
 Elder and Paton (Perth) Ltd	Perth	A	0
@@ -794,6 +794,7 @@ Eltek Systems Limited	Peterborough	A	0
 EMA FRYER LTD	Poole	A	0
 EMAAN SUPERSTORE LTD	Preston	A	0
 EMARI Group Ltd	Portsmouth	A	3
+Embassy Site Services UK Limited	Purfleet	A	0
 Emmi UK Ltd	Putney, London	A	0,4,7
 EMPORIUM DESIGN LTD	Pinnerr	A	0
 Empower Global T/A Family Church	Portsmouth	A	1,9,10
@@ -804,7 +805,6 @@ English Riviera Hotels Limited T/A Beachfield Hotel	Penzance	A	0
 Enhance Dynamics Ltd	Potters Bar	A	0
 Enimed Limited	Pinner	A	0
 Enjoy Church	Portishead	A	10
-Enlightenment Care Services Ltd	Peterborough	A	0
 ENVIRO CLEAN PRESTON LTD	Preston	A	0
 ENVIRONMENTAL COMPLIANCE LIMITED	Pontypridd	A	0
 EPAA (2016) LIMITED	Portsmouth	A	0
@@ -881,7 +881,6 @@ First In Care Services Ltd	Portsmouth	A	0
 FitzRoy Support	Petersfield	A	0
 Five Health Group Limited	Pinner,	A	0
 Five Star Convenience Limited	Poole	A	0
-Fivefold Studios Limited	Pencoed	A	3
 FKP Scorpio Entertainment Ltd	Potters Bar	A	0,3
 Flame & Stone Pizza Limited	Princes Risborough	A	0
 Flavouroo Limited	Portsmouth	A	0
@@ -953,6 +952,7 @@ Giddani Health Group Ltd	Plymouth	A	0
 Gilford Van Hire Limited	Portadown	A	0
 Gill Akaster LLP Solicitors T/A GA Solicitors	Plymouth	A	0
 GJ TEMPLEMAN SOLICITORS LIMITED	Pinner	A	0
+GKW SUPPLIES LIMITED	Peterlee	A	0
 Glades Constructions Limited	Pinner	A	0
 GLAS Business Solutions Ltd	Pontypridd	A	0
 Glasgow Wines & Spirits Ltd	Pitlochry	A	0
@@ -1064,6 +1064,7 @@ Haskoning UK Ltd	Peterborough	A	0,4,7
 HASSAN EASTERN FASHIONS LTD	Peterborough	A	0
 Havanatour UK Limited	Potters Bar	A	4
 Havencare Homes & Support Limited	Plymouth	A	0
+Havesters care ltd	Portsmouth	A	0
 Haydon School	Pinner	A	0
 Hazell and Jefferies Ltd	Pangbourne	A	0
 HBVB	Peterborough	A	0,4
@@ -1075,6 +1076,7 @@ HEALTHY-HALAL ONLINE LTD	Peterborough	A	0
 HEATHERWOOD NURSING HOME	Purley	A	0
 Heler Foods Packing	Penrhyndaedraeth	A	0
 Hello Ella Limited	Poundbury	A	0
+Helm Care Services	Padiham	A	0
 Hemsley Fraser Group	Plymouth	A	0
 Hetties Tearoom	Pitlochry	A	0
 HFH Transports Ltd	Pudsey	A	0
@@ -1120,6 +1122,7 @@ HUDSON (HARBOUR RESIDENTIAL) LIMITED	Portishead	B	0
 Hugh Symons Exchange LTD	Poole	A	0
 HUNAR PROPERTY LTD	Peterborough	A	0
 Husaini Islamic Centre	Peterborough	A	1,10
+HVL Solutions Limited	Pinxton	A	0
 HYDERABAD BIRYANI HOUSE LTD T/A FLAVOURS OF HYDERABAD	Preston	A	0
 Hydreco Hydraulics Ltd	Poole	A	0
 Hydrowing Ltd	Penryn	A	0
@@ -1392,6 +1395,7 @@ LEMONGRASS FOODS LIMITED	Poole	A	0
 LET'S EDUCATE THEM	Preston	A	9
 LETHAM SHOP LTD t/a Shop Local	Perth	A	0
 Levetron Limited	Preston	A	0
+Lewis Pension Admin Limited	Poole	A	0
 Leyland Primary Care Network Limited	Preston	A	0
 Leyland Surgery	Preston	A	0
 LHOIRS LIMITED	Portsmouth	A	0
@@ -1414,7 +1418,6 @@ Little Owl Dental	Powys	A	0
 Little Petra Ltd	Papworth Everard	A	0
 Littlewood Manor Ltd	Preston	A	0
 LiuGong Machinery UK Ltd	Portsmouth	A	0,4
-LiveStockEx Limited	Pershore	A	0
 Livewell Southwest (CIC)	Plymouth	A	0
 LIVINGCARE SOUTH WEST LTD t/as Caremark (Plymouth)	Plympton, Plymouth	A	0
 Llangoedmor Properties Limited T/A Parkside House Care Home	Penarth	A	0
@@ -1734,7 +1737,7 @@ Old Fletton Surgery	Peterborough	A	0
 Old Owens Cricket Club	Potters Bar	A	11
 OLD RECTORY CARE LTD	Pinner	A	0
 OLDWAY HEIGHTS LTD	Paignton	A	0
-OLIVE CARE SOLUTIONS LTD	Peterborough	A	0
+OLIVE CARE SOLUTIONS LTD	Peterborough	B	0
 Olive of Sinai (Preston) Ltd	Preston	A	0
 Oliver Connell & Son Ltd	Perivale	A	0
 Olympus Automation Limited	Peterborough	A	0
@@ -1750,6 +1753,7 @@ Optimyzd Ltd	Peterborough	A	0
 Or Skye	Portree	A	0
 Orange Care - Grange Lea Limited	Paignton	A	0
 ORDERE UK LIMITED	Portsmouth	A	0
+ORIENTAL CUSINE LIMITED T/A ORIENTAL CUSINE	Plaistow	A	0
 Origin Coffee	Porthleven	A	0
 Origin Control Solutions Limited	Preston	A	0
 Ortho-Clinical Diagnostics	Pencoed,Bridgend	A	0,4
@@ -1758,6 +1762,7 @@ Oundle School	Peterborough	A	0,3,9
 Oundle Town Cricket Club	Peterborough	A	11
 Our Lady of Bethlehem Abbey Trust	Portglenone	A	1
 OUTLOOK (UK) LIMITED	Portsmouth	A	0
+Overseas Interpreting Ltd	Pinner	A	0
 Owey Enterprises	Portrush	A	0
 P & B Shadwell Ltd t/a PBS Care	Peterborough	A	0
 P & S TRADERS LTD	Port Glasgow	A	0
@@ -1780,7 +1785,6 @@ Panthera Biopartners Limited	Preston	A	0
 PARADISE BALTI LTD	Petersfield	A	0
 Paragon Healthcare York Limited	Pocklington	A	0
 Paramount Care (Easington) LTD	Peterlee	A	0
-Parchow Groundworks Ltd	Portsmouth	A	0
 Park Air Systems Limited	Peterborough	A	0
 Park House Medical Centre	Prescot	A	0
 Park Lifts Ltd	Perivale	A	0
@@ -1957,7 +1961,6 @@ PREMIER HAVEN LTD	Peterborough	A	0
 Premier Pencoed Mini Market	Pencoed	A	0
 PREMIER PROPERTIES (NW) LTD	Preston	A	0
 Premier Ship Models	Potters Bar	A	0
-Premier UK Business LLP	Petersfield	A	0
 Prestatyn Cricket Club	Prestatyn	A	11
 PRESTATYN GENERAL STORES LTD	Prestatyn	A	0
 Prestige Homecare Services Limited	Perivale, Greenford	A	0
@@ -2040,6 +2043,7 @@ Raju Goraniya T/a Onestop Herlington	Peterborough	A	0
 RAMPART SECURITY & FM LTD	Peterborough	A	0
 RANA BUSINESS LIMITED T/A SUBWAY	Paisley	A	0
 Rana Convenience Store	Penkridge	A	0
+RANCHO CLUB LTD	Portsmouth	A	0
 Rancho Express Portsmouth Limited	Portsmouth	A	0
 RANCO ( LONDON ) LTD	Perivale	A	0
 Randeva Group Ltd	Pontyclun	A	0
@@ -2067,7 +2071,7 @@ RED ROSE CUISINE LTD	Portsmouth	A	0
 Red Star Growers Limited	Pershore	A	0
 Redefyn Dental & Aesthetics Ltd	Plymouth	A	0
 Regency House Residential Home	Pontypool	A	0
-Regional Care Cambridge	Peterborough	A	0
+Regional Care Peterborough	Peterborough	A	0
 REHMAN'S SHOP-FRONT LTD	Preston,	A	0
 REHMAT SPICE LTD	Pontypool	A	0
 RELIABLE CARS BEDFORD LTD	Peterborough	A	0
@@ -2124,7 +2128,6 @@ ROCKCLIFFE GROUP INT LIMITED	Preston	A	0
 Rockwood Composites Limited	Paignton	A	0
 Rokith Retail Ltd	Pinner	A	0
 Ronnie Catering Ltd	Portsmouth	A	0
-ROS AND MOS HOUSE SUPPORT LTD	Pitsea Basildon	A	0
 Rose Gold Health Fulwood Limited	Preston	A	0
 Rosetta Nail Oundle	Peterborough	A	0
 Roslea Surgery	Preston	A	0
@@ -2178,6 +2181,7 @@ Sancak Cafe Ltd T/A Farm Kitchen	Portsmouth	A	0
 Sandown Motors Limited	Poole	A	0
 Sano Physiotherapy Ltd	Pudsey	A	0
 Sanrizz Academy Limited	Potters Bar	A	0
+Sant Couriers Limited	Poyle	A	0
 SANU Local Shop T/A Today's Local	Princes Risborough	A	0
 Saorsa Group Limited	Pitlochry	A	0
 Sapphire Streams Ltd	Prestatyn	A	0
@@ -2368,7 +2372,6 @@ Sterling Care Home t/a Nightingale House	Paisley	A	0
 STERLING OAK UK LTD	Peterborough	A	0
 Steve Bulter Dental Ceramics Ltd	Peterborough	A	0
 Stewart Farms Ltd	Perth	A	0
-STEWARTS (SCOTLAND) LIMITED T/A GLENCARSE FOODS	Perth	A	0
 Stewarts of Tayside Ltd	Perth	A	0
 Stirling Maynard	Peterborough	A	0
 Stone Cross Surgery	Pevensey	A	0
@@ -2379,6 +2382,7 @@ STOP N SHOP EXPRESS LTD	Paisley	A	0
 STP Developers LTD	Poole	A	0
 Strathallan School	Perth	A	0
 Street Harvest Limited	Portsmouth	A	0
+Strengthdive Limited	Pinner	A	0
 StructureIT Limited	Pinner	A	0
 Stuart Road Surgery	Pontefract	A	0
 Study First group limited	Portslade	A	0
@@ -2435,7 +2439,6 @@ Tall Ships Youth Trust	Portsmouth	A	0
 TAM FOODS LTD	Paisley	A	0
 Tamar Care Services Southwest Ltd	Plymouth	A	0
 Tams Packaging Limited	Potters Bar	A	0
-Tandem Set and Scenery Ltd	Paddock Wood	A	0
 Tarlu Ltd	Poole	A	0
 Taseen Cuisine Limited T/A School of Spice	Plymouth	A	0
 TASMINE CATERING LTD	Portsmouth	A	0
@@ -2596,7 +2599,6 @@ Trigify.io Limited	Petersfield	A	0
 TRINITY ARCHITECTURE LTD	Poole	A	0
 Triple M Healthcare Limited	Portsmouth	A	0
 Triratna Sarana	Powys	A	1,10
-Trueinvivo Limited	Portsmouth	A	0
 Truevale Care Ltd	Portsmouth	A	0
 Trustmark Care Limited	Portsmouth	A	0
 TSA SPALDING LTD	Peterborough	A	0
@@ -2618,7 +2620,6 @@ TYS RETAIL LTD T/A Nisa Local	Peterborough	A	0
 U.K. Carline Limited	Preston	A	0
 UK CAR PARK MANAGEMENT LIMITED	Polegate	A	0
 UK Centre of Excellence Ltd	Paignton	A	0
-UK Good Deals Limited T/A Black	Preston	A	0
 UK IMMIGRATION AND VISA SERVICES LTD	Peterborough	A	0
 UK PAKIZA HALAL FOODS LIMITED	Preston	A	0
 UK Professional Guarding Limited	Park Royal	A	0,6
@@ -2725,7 +2726,6 @@ Wenmai Dry Cleaners Ltd	Pinner	A	0
 West Kent Primary Care Community Interest Company	Pembury	A	0
 West Lancashire Group Ltd	Poulton-Le-Fylde	A	0
 West Leeds PCN Ltd	Pudsey	A	0
-West NAH Professionals LLP	Paisley	A	0
 Westbourne School	Penarth	A	0
 Westburn Fishing Company Limited	Peterhead	A	0
 Westco Resources Limited	Paignton	A	0
@@ -2772,6 +2772,7 @@ WW Giles (Smithfield) Ltd	Pangbourne	A	0
 Wycliffe Surgery	Plymouth	A	0
 Wye Tech Ltd	Port Talbot	A	0
 Xaviers Accountants Ltd	Preston	A	0
+Xilinx XDC	Penicuik	A	0
 XL Displays Ltd	Peterborough	A	0
 XL Electrical Excellence LTD	Poole	A	0
 XP PLC	Pangbourne	A	0

@@ -30,7 +30,7 @@ ALPHA SOLAR LTD	Uxbridge	A	0
 Ambient Green Limited	Uxbridge	A	0
 Amira's Kitchen Limited	Uckfield	A	0
 AMMOZ LTD	Uxbridge	A	0
-Amnomics Services Limited	Uxbridge	A	0
+AMNOMICS SERVICES LIMITED	Uxbridge	A	0
 Anandam (London)	Upminster	A	10
 Another Place Lakes Limited TA Another Place The Lake	Ullswater	A	0
 Antelope Inn	Upavon	A	0
@@ -261,6 +261,7 @@ Kinseed Limited	Uxbridge	A	0,4
 KMB CATERERS LTD	Uxbridge	A	0
 Knauf Ceiling Solutions Ltd	Uxbridge	A	0
 KOKORO HANA LTD	Uxbridge	A	0
+KOLA DESIGN LTD	Upminster	A	0
 KONDAS TRADE LTD	Urmston	A	0
 KS Emporium Limited	Uxbridge	A	0
 Kubler Racing Ltd	Upper Lambourn	A	11
@@ -320,6 +321,7 @@ Morgans of Usk Ltd	Usk	A	0
 MPE Electronic Assembly Specialists	Uckfield	A	0
 MR B CONTRACTORS 1 LTD	Uxbridge	A	0
 MSC Cruise Management (UK) Ltd	Uxbridge	A	0,4
+MSH Healthcare LTD	Ulverston	A	0
 Multi Home Improvement Limited	Uxbridge	A	0
 MW CARE UK LTD	Uxbridge	A	0
 MYCARE HOME SERVICES LTD	Uxbridge	A	0
@@ -331,6 +333,7 @@ NATURAL NATURAL LTD	Uxbridge Road	A	0
 NAYYAR STORES LIMITED T/A ROCKINGHAM CONVENIENCE STORE	Uxbridge	A	0
 NEC Europe Ltd	Uxbridge	A	0,4
 Nesscare Ltd	Ulverston	A	0
+NEW HORIZON CARE HOME LTD	Uxbridge	A	0
 New Kadampa Tradition - International Kadampa Buddhist Union	Ulverston	A	1,10
 NEXT DLP LIMITED	Uxbridge	A	0
 Nika Global Ltd T/A Nika Care	Uxbridge	A	0
@@ -466,7 +469,6 @@ TARAK PVT LTD T/A CAPRINOS PIZZA	Uckfield	A	0
 Tax Solution Accountants Ltd	Uxbridge	A	0
 TECHNOCRATES CONSTRUCTION LTD	Uxbridge	A	0
 TECHNOLOGY INNOVATORS LIMITED	Uxbridge	A	0
-TEMPLE CENTRAL LTD	Uxbridge	A	0
 Tempur Sealy International Ltd.	Uxbridge	A	0,4
 Tennis Scotland Limited	University of Stirling	A	0,11
 Tenon FM Limited	Uxbridge	A	0,4
@@ -532,7 +534,6 @@ VIVO SPORTS GYM LTD	United Kingdom	A	11
 Waremoss Ltd	Uckfield	A	0
 WEB GEO SERVICES LTD	United Kingdom,	A	0
 West Lothian Chiropractic	Uphall	A	0
-WEST MOTORS LONDON LTD	Uxbridge	A	0
 Whichrate Consulting LTD	Uttoxeter	A	0
 WILMOTT SERVICES LTD	Upminster	A	0
 Wisecars LTD	Uxbridge	A	0

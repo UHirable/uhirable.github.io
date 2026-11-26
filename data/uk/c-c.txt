@@ -15,7 +15,7 @@
 1ST LOOK FIRE & SECURITY SOLUTIONS LTD	Colne	A	0
 21 Six ltd	Curdridge	A	0
 23MD Medical Services Ltd	Canterbury	A	0
-24X7 CHESTER LIMITED	Crewe	A	0
+24X7 CHESTER LIMITED T/A MORRISON DAILY	Crewe	A	0
 2:30 Limited	Corby	A	0
 3 HA Limited	Colchester	A	0
 3 KAURS LIMITED	Coventry	A	0
@@ -252,6 +252,7 @@ Advanced Sensors Limited	Carrickfergus	A	0
 Advansys Engineering Services and Consultancy Limited	Camberley	A	0,4
 Advantage NRG Ltd.	Chorely	A	0
 Advent Bioservices	Cambridge	A	0
+Advent BioServices Ltd	Cambridge	A	0
 AEA SUPPLY LTD	Cambridge	A	0,2
 AEG Fuels UK Limited	Crawley	A	0,4
 aegyptus ltd t/a Kaya	Cardiff	A	0
@@ -278,7 +279,6 @@ Afs Fashion Ltd	Canvey Island	A	0
 AFS Logistics Ltd	Cumbernauld	A	0
 AG GROUP (2026) LTD T/A The Royal Hotel	Cookstown	A	0
 Agasco Limited	Cheltenham	A	0
-AgeCare MG2 Ltd	Colchester	A	0
 AGEMA ENGINEERING LTD	Coventry	A	0
 Agemco Limited	Canterbury	A	0
 AGEMO AI LTD	Cheshire	A	0
@@ -301,6 +301,7 @@ AHANA FOOD LTD	Croydon	A	0
 AHC ENTERPRISES UK LIMITED	Coventry	A	0
 Ahren Innovation Capital LLP	Cambridge	A	0
 AHSAN ASSOCIATES LTD	Cardiff	A	0
+AI Technology Consulting ltd	Cheltenham	A	0
 AIE FOODS LTD	Coatbridge	A	0
 AIIM RESEARCH AND TRAINING LTD	Canterbury,	A	0
 AIISAR LTD	Croydon	A	0
@@ -434,7 +435,6 @@ Ambia Takeaway Ltd	Clwyd	A	0
 Ambreck LLP t/a Ballater House	Croydon	A	0
 Ambrose Avenue Group Practice	Colchester	A	0
 Amdhan limited	Chelmsford	A	0
-AMELIE FLAMMEKUECHE RESTAURANTS LTD	Cambridge	A	0
 Amer Sports UK Limited	Camberley	A	0,4
 American Chillies Ltd	Coatbridge	A	0
 AMERICAN TECHNO CONTROLS LTD	Cheadle	A	0,4
@@ -475,7 +475,6 @@ Andrew Oliver	Caledon	A	0
 Andrews Associates Engineers Ltd	Croydon	A	0
 ANDRUSIDA CARE LIMITED	Coventry	A	0
 Anduril Industries UK Limited	Cheltenham	A	0,4
-Anel Engineering & Contracting Limited	Chester	A	0,4
 Aneurin Bevan University Health Board	Cwmbran	A	0
 Angel Plus Homes Ltd	Clayton-Le-Woods	A	0
 Angel Support Living (UK) Ltd	Cuffley	A	0
@@ -620,7 +619,6 @@ ASCOT INTERNATIONAL (1996) LIMITED	Cheshire	A	0
 ASD Build	Cardiff	A	0
 ASDB Ltd	Croydon	A	0
 AsFigo Technologies Limited	Chelmsford	A	0
-Asgard Estates Ltd	Cambridge	A	0
 Ash Surgery	Canterbury	A	0
 Ashaaz Ltd	Coventry	A	0
 Ashbrook Care Home	Coalisland	A	0
@@ -655,7 +653,6 @@ Aspirez Limited	Chesire	A	0
 Associated Care Centres	Canterbury	A	0
 Associated Construction Services Ltd	Cookstown	A	0
 Associated Stone Group Ltd	Charlton	A	0
-ASSOS CATERING LIMITED	Cardiff	A	0
 Astar Homecare Ltd	Colchester	A	0
 Astell House	Cheltenham	A	0
 Astex Therapeutics Limited	Cambridge	A	0,4
@@ -697,7 +694,6 @@ Auka Productions Limited	Croydon	A	3
 AUM TRADING LTD	Charlton	A	0
 AUMKARA LTD	Camberley	A	0
 AUREOS ENERGY LIMITED	Cheshire	A	0
-Austin Friars	Carlisle	A	0
 Austin Friars & St Monica's Preparatory School Ltd	Carlisle	A	9
 Austin Partnership Limited	Cardiff	A	0
 Australasian Recruitment Company Limited	Chester	A	0
@@ -728,7 +724,6 @@ Avos Technology Ltd	Cambridge	A	0
 Avove Ltd	Chorley	A	0
 AW Cathays Ltd. T/As Chicken Lads	Cardiff	A	0
 Awen Collective Limited	Caerphilly	A	0
-Awesome Construction Ltd	Croydon	A	0
 AWP Assistance UK Ltd.	Croydon	A	0,4
 Axcel Hospitality (Management) Limited	Croydon	A	0
 Axiom Rectory Ltd	Canterbury	A	0
@@ -830,7 +825,6 @@ Batten & Allen	Cirencester	A	0
 Baufritz (UK) Ltd	Cambridge	A	0,4,7
 Baya Systems Limited	Cambridge	A	0,4
 BAYLEAF WALES LIMITED	Cardiff	A	0
-Baywater Healthcare	Crewe	A	0
 Baywater Healthcare Limited	Crewe	A	0,4
 BB FOOD & WINE LTD	Crowthorne	A	0
 BB7 Consulting Limited	Chatham	A	0
@@ -881,6 +875,7 @@ BELLA BE LTD	Cirencester	A	0
 Bella Roma Europe Ltd	Cobham	A	0
 Belleza Beauty & Spa Ltd T/A Belleza Beauty	Colchester	A	0
 Belmont Corp Ltd	Chatham	A	0
+Belong Learning CiC	Cheltenham	A	0
 Below280 Limited	Cramlington	A	0
 Belvoir Home Care Ltd	Car Colston	A	0
 Ben Baldwin-A Limited	Coventry	A	0
@@ -957,6 +952,7 @@ BIOS Health Ltd	Cambridge	A	0
 Biosil Ltd	Cumbernauld	A	0
 Bipsync UK Ltd	Cardiff	A	0
 Birch Airfield Composting Services Ltd	Colchester	A	0
+BIRCHFIELD HOTEL LTD	Catford	A	0
 BIRCHLEY SUPPLIES LTD	Coventry	A	0
 BIRDLIFE INTERNATIONAL	Cambridge	A	0,4,9
 Birdquest Ltd	Clitheroe	A	0
@@ -989,6 +985,7 @@ BLOSSOM ENTERPRISES LTD T/A NISA LOCAL	Christchurch	A	0
 Blossomwood	Colchester	A	0
 BLUE 6 SERVICEES LIMITED	Chigwell	A	0
 Blue Dental Laboratory Limited	Crowborough	A	0
+Blue Leaf Composites Ltd	Cowes	A	0
 Blue Leone LTD	Cambridge	A	0
 Blue Ocean Seafoods Ltd	Coventry	A	0
 Blue Sky Dental	Chelmsford	A	0
@@ -1021,7 +1018,6 @@ Bombay Palace Coventry Limited	Coventry	A	0
 Bombaylicious Limited	Coulsdon	A	0
 BONA DESIGN & CONSULTANCY LTD	Coventry	A	0
 Bonds of Shirley Ltd	Croydon	A	0
-BONG EVENT LTD	Cambridge	A	0
 Bonus Eventus Maintenance Ltd.	Camberley	A	0
 BookNow Software Ltd	Camberley	A	0
 Books To Africa International	Canterbury	A	9
@@ -1084,7 +1080,6 @@ Bridor UK Limited	Camberley	A	0,4
 Briercliffe Lodge	Colne	A	0
 Brierley Care Ltd	Clitheroe	A	0
 Briggs Amasco Limited	Cradley Heath	A	0
-BRIGHT ASSOCIATES LIMITED	Croydon	A	0
 BRIGHT BRAINS GLOBAL LIMITED	Chatham	A	0
 Bright Care 4U Ltd	Camberley	A	0
 BRIGHTER HORIZON HOMES LIMITED	Coulsdon	A	0
@@ -1288,7 +1283,6 @@ Cambridge Specsavers Hearcare Limited	Cambridge	A	0
 Cambridge Sports Medicine Centre Ltd	Comberton	A	0
 Cambridge Star College Ltd	Cambridge	A	0
 Cambridge Steiner School Project	Cambridge	A	0
-Cambridge Touch Technologies Limited	Cambridge	A	0
 Cambridge Tutors College	Croydon	A	0
 Cambridge Union Society Enterprises Ltd	Cambridge	A	0
 Cambridge United Football Club Limited	Cambridge	A	0,11
@@ -1333,6 +1327,7 @@ Canterbury Christ Church University	Canterbury	A	0,1,12
 Canterbury Diocesan Board of Finance	Canterbury	A	1,10
 Canterbury Medical Practice	Canterbury	A	0
 Canterbury Theatre & Festival Trust	Canterbury	A	3
+Canterbury Visionplus Limited t/a Specsavers	Canterbury	A	0
 CANTON DISCOUNT LIMITED	Canton	A	0
 Canton Mobiles Dealer limited	Cardiff	A	0
 Cap Coder Limited	Chalgrove	A	0
@@ -1617,7 +1612,6 @@ Chichester Visionplus Ltd T/A Specsavers Opticians	Chichester	A	0
 Chicken Cottage Limited	Croydon	A	0
 CHICKMATE LTD	Chelmsford	A	0
 Chigwell School	Chigwell	A	0
-chilli spice Limited	Camberley	A	0
 Chilli Zone Limited	Colchester	A	0
 Chilterns Conservation Board	Chinnor	A	0
 Chinese State Circus Limited	Congleton	A	3
@@ -1640,6 +1634,7 @@ Chorley Borough Council	Chorley	A	0
 Chorley Cricket Club	Chorley	A	11
 CHORLEY HOTELS LTD	Chorley	A	0
 Chorley Pizza & Grill Ltd	Chorley	A	0
+CHRIST APOSTOLIC CHURCH - OUTREACH COVENTRY	Coventry	A	1,9
 CHRIST APOSTOLIC CHURCH RIVER OF LIFE	Conentry	A	1
 CHRIST APOSTOLIC CHURCH-HOUSE OF GLORY MISSION INTERNATIONAL	Croydon	A	1,9,10
 Christ's College	Cambridge	A	0
@@ -1902,6 +1897,7 @@ COSMOPOLITAN RESTAURANTS (UK) LIMITED	Croydon, England	A	0
 Costello Medical Consulting Limited	Cambridge	A	0
 Coster Aerosols Limited	Chesterfield	A	0
 Cosworth Electronics Ltd	Cambridge	A	0
+Cosyseal (Double Glazing) Limited	Croydon	A	0
 Cotswold Classic Car Restorations	Cirencester	A	0
 Cotswold Medical Practice	Cheltenham	A	0
 Cotswold Restaurant Group Ltd t/a Muse Brasserie	Cheltenham	A	0
@@ -2071,7 +2067,6 @@ CUSTORIS LTD	Coventry	A	0
 CUTRIGHT LTD	Colchester	A	0
 Cutthorpe Cricket Club	Chesterfield	A	11
 Cutting Edge Podiatry Ltd	Cambridge	A	0
-CV1 HOSPITALITY LIMITED	Coventry	A	0
 CW Subs Ltd T/A Subway	Chelmsley Wood	A	0
 CWF & Partners Ltd	Croydon	A	0
 Cwmbran Village Surgery	Cwmbran	A	0
@@ -2088,7 +2083,6 @@ Cydar Limited	Cambridge	A	0
 Cynosure UK Ltd	Cookham	A	0,4
 Cypress Court Care Home	Crewe	A	0
 Cyted Ltd.	Cambridge	A	0
-CytoSwim Ltd	Coventry	A	0
 CYVEN POETRY 2 LIMITED t/a T4 Bubble Tea Shop	Coventry	A	0
 D & G Driving Limited	Corby	A	0
 D & G Italia Limited	Crewkerne	A	0
@@ -2224,6 +2218,7 @@ deVOL Kitchens	Cotes	A	0
 DEYA Brewing Company	Cheltenham	A	0
 DF 99 Ltd	Cardiff	A	0
 DFD Care and Support Services Ltd	Corby	A	0
+DFI.Com Ltd	Coalisland	A	0
 DG Glass Designs Limited	Croydon	A	0
 DG Global Forwarding (UK) LTD	Colnbrook	A	0
 DGT Services Ltd	Chelmsford	A	0
@@ -2291,6 +2286,7 @@ DIVYA DELIGHTS LTD t/a Ben Lui Restaurant	Crianlarich	A	0
 Dixon International Logistics	Coventry	A	0
 Diya Trading LTD TA Kleenest Dry Cleaners	Crawley	A	0
 DK Leisure Ltd	Coleraine	A	0
+DKM Healthcare limited	Coventry	A	0
 DLS Solicitors	Cheshire	A	0
 DM Dehgani Ltd Trading as SMiles by the River	Cheshire	A	0
 DMG Mori UK Limited	Coventry	A	0,4
@@ -2350,7 +2346,6 @@ Drac Consulting LTD	Cardiff	A	0
 DRAGON CONSTRUCTION LIMITED	Cardiff	A	0
 Dragonfly Thai Massage Ltd	Chichester	A	0
 DragonPass International	Cheshire	A	0
-Dragonwood Investment UK Ltd	Caridff	A	0
 Drawish Consultancy Group Ltd	Chesterfield	A	0
 Dreams Care Homes (Cherry Tree) Limited T/As Cherry Tree??????????????? Care??????????????? Home	Caldicot	A	0
 Dreams-Ai-Cambridge Ltd	Cambridge	A	0
@@ -2399,6 +2394,7 @@ Eagle automotive coventry limited	Coventry	A	0
 EAGLE LODGE LTD T/A MAHAL RESTAURANT	Cheltenham	A	0
 EAGLE POWER MINISTRIES INTERNATIONAL	Carshalton	A	1
 Eakin Healthcare Group Limited	Comber	A	0
+EAP	Colchester	A	0
 Earle & Gomes Limited	Crawley	A	0
 Earlsdon Pharmacy	Coventry	A	0
 Earnswood Medical Centre	Crewe	A	0
@@ -2446,7 +2442,6 @@ ECCTIS LTD	Cheltenham	A	0
 ECH Colwyn Bay Limited	Colwyn Bay	A	0
 Echo Packaging Ltd	Corby	A	0
 EchoBlue Ltd	Christchurch	A	0
-Echosec Systems UK Ltd	Cardiff	A	0,4
 ECL Trading Ltd	Chelmsford	A	0
 Eco Homes Direct Ltd	Cardiff	A	0
 ECO-AQUA SERVICES LTD	Corby	A	0
@@ -2568,6 +2563,7 @@ Entomics Biosystems Limited	Cambridge	A	0
 Entrust Security UK Limited	Cambridge	A	0,4
 ENTRYMASTER LIMITED	Crewe	A	0
 ENVEA UK LTD	Cambridge	A	0,4
+Environmental Protection Strategies Limited	Cambourne	A	0
 Envisage Group Limited	Coventry	A	0
 Ep Traffic Services Ltd	Crick	A	0
 EPC FAST FOOD LIMITED T/A Emparo Pizza Crawley	Crawley,	A	0
@@ -2612,7 +2608,6 @@ Essex Community Foundation	Chelmsford	A	0
 Essex County Council	Chelmsford	A	0,12
 Essex County Cricket Club	Chelmsford	A	11
 Essex Ultrasound & Medical Services Limited	Canvey Island	A	0
-ESSURE TECHNOLOGIES LTD	Coventry	A	0
 Estetical Oral Ltd	Chertsey	A	0
 ESTHETICHEM LIMITED	Cradley Heath	A	0
 ET CHERRY LIMITED	Cardiff	A	0
@@ -2867,6 +2862,7 @@ Ford Retail Limited	Colchester	A	0
 Ford Rhodes Accountants Limited	Cheshunt	A	0
 FORECOURT & RETAIL LTD	Colchester	A	0
 Forefront RF Ltd	Cambridge	A	0
+Forest Edge Practice	Chigwell	A	0
 Forest of Dean Crossroads - Caring for Carers Limited	Cinderford	A	0
 Forest Whole Foods Ltd	Christchurch	A	0
 Foretell Digital Limited	Chelmsford	A	0
@@ -3081,7 +3077,6 @@ GLORIOUS ESTATES LTD	Coventry	A	0
 Glory House	Chelmsford	A	1
 Gloucestershire College	Cheltenham	A	0
 Glow Music Ltd	Coventry	A	3
-GLYME VALLEY SERVICES LTD	Chipping Norton	A	0
 GLYN HOPKIN LIMITED	Clifton	A	0
 GMA Grouping LTD	Cheadle Hulme	A	0
 GMPriority Pharma Ltd	Colchester	A	0
@@ -3146,7 +3141,6 @@ Grange Rd ltd	Cambridge	A	0
 Grant Walker Engineering Ltd	Chichester	A	0
 Granta Medical Practices	Cambridge	A	0
 Grantabridge Research Limited	Cambridge	A	0
-Grants Convenience Store	Colchester	A	0
 Grapelli Limited	Cobham	A	0
 Gratton House Dental Surgery	Cheltenham	A	0
 Gravity Civil and Structural Engineering Ltd	Chelmsford	A	0
@@ -3239,7 +3233,6 @@ HackerOne UK Limited	Cheltenham	A	0
 Haden Vale Medical Practice	Cradley Heath	A	0
 Haden Vale Pharmacy	Cradley Heath	A	0
 Hadet Healthcare	Cannock	A	0
-HADET HEALTHCARE	Cannock,	A	0
 Hadfelda Convenience Store	Chelmsford	A	0
 Hadi International Limited	Colne	A	0
 Hafod Housing Association Limited	Cardiff	A	0
@@ -3484,6 +3477,7 @@ House of Secrets Limited	Canterbury	A	0
 Housesimple Limited t/a Strike	Colchester	A	0
 Houseyin Ozerin T/A Top Stop Takeaway	Carlisle	A	0
 HOUSING DILEMMAS C.I.C.	Chelmsford	A	0
+Hover, Inc Ltd	Cambridge	A	0,6
 HOWARD COURT CARE HOME LIMITED	Carlisle	A	0
 Howarths HR and Employment Law Limited	Cleckheaton	A	0
 Howell Doyle Contracts Ltd	Croydon	A	0
@@ -3496,6 +3490,7 @@ HS Legal Solicitors LTD	Colchester	A	0
 HSH2 LTD	Croydon	A	0
 HSIT LIMITED	Chatham	A	0
 HSS The Hire Service Company	Cranford	A	0
+HSVP LTD	Cleckheaton	A	0
 HT SOFTWARE UK LTD	Chadwell Heath	A	0
 Huawei Technologies Research & Development (UK) Limited	Cambridge	A	0,4
 HUBER+SUHNER Polatis	Cambridge	A	0,4
@@ -3531,6 +3526,7 @@ I REPAIR SERVICE CENTRE LTD	Cirencester	A	0
 I Teach Wales Limited	Cardiff	A	0
 i3ntegrate	Cambridge	A	0
 IAA INTERIOR DESIGN AND LANDSCAPING SERVICES LTD	Coventry	A	0
+IAG UK & EUROPE LTD	Caerphilly	A	1,10
 IAS GROUP HOLDINGS LIMITED	Coventry	A	0
 IBASE SOFTWARE SOLUTIONS PVT LIMITED	Cheshire	A	0
 IBBI FOODS LTD t/a Pepe's Piri Piri	Cardiff	A	0
@@ -3626,6 +3622,7 @@ Innovate Cambridge Ltd	Cambridge	A	0
 Innovative Food Concepts Ltd TA Vivo Latino	Cardiff	A	0
 Innovia Technology Ltd	Cambridge	A	0
 INNOVISION GLOBAL CONSULTING LTD	Chelmsford	A	0
+Innovius Capital Management UK Limited	Chelsea, London	A	0
 INNOVIZ Limited	Cranfield	A	0
 Inotec AMD Limited	Cambridge	A	0
 Inova Parts Ltd	Cheadle	A	0
@@ -3792,7 +3789,6 @@ JAYOVAL LIMITED	Coventry	A	0
 Jaywick Dental Surgery	Clacton-on-Sea	A	0
 JBD Distributions Ltd	Chaddock Lane	A	0
 JBM Law Ltd	Campbeltown	A	0
-JBS NEXUS TECH LTD	Crewe	A	0
 JCK Ltd	Colnbrook	A	0,4
 JCLH Ltd	Croydon	A	0
 JD Excavations Tyrone Ltd	Cookstown	A	0
@@ -3807,7 +3803,6 @@ JEM CARE HOME SERVICES LIMITED	Clacton On Sea	A	0
 JEN & JAMIE LTD	Cleveland	A	0
 Jenab Limited	Croydon	A	0
 Jenoptik UK Ltd	Camberley	A	0
-Jensin Ltd t/as Castello Italia	Carrickfergus	A	0
 Jeremy Moore Associates Ltd	Cheltenham	A	0
 Jessica May Design	Chinley	A	0
 Jesus College	Cambridge	A	0,12
@@ -3991,6 +3986,7 @@ Kerala Ayurveda Pain Relief Centre Ltd	Coventry	A	0
 Kerala Cuisine Ltd	Coventry	A	0
 Kerief Catering Limited	Cambridge	A	0
 Kernow Curry Limited	Cornwall	A	0
+KESHAV ENTERPRISES LIMITED	Crawley	A	0
 Keswick Flooring Ltd	Coventry	A	0
 Kettle Produce Ltd	Cupar	A	0
 Key Organics Limited	Camelford	A	0
@@ -4002,6 +3998,7 @@ KHEHRA STORE LTD	Caerphilly	A	0
 Khushi Holding Ltd	Coventry	A	0
 KI POWERFUEL PVT LIMITED	Carmarthen,	A	0
 KIBOU restaurants ltd	Cheltenham	A	0
+Kids Capers Limited	Crawley	A	0
 Kigen (UK) Limited	Cambridge	A	0
 KIGG Ltd	Cardiff	A	0
 KIKS- CHINGFORD LIMITED	Chingford	A	0
@@ -4061,6 +4058,7 @@ KOAN ADVENTURES LTD	Chalford	A	0
 Kochak Ltd	Coventry	A	0
 Kocho Group Ltd	Cardiff	A	0
 KODEV INFOTECH LTD	Chichester	A	0
+Kodiaq Technologies Ltd	Cambridge	A	0
 Kohler Mira Limited	Cheltenham	A	0,4,7
 Koi Sushi Ltd	Camberley	A	0
 KOKI.UK2022 LTD	Colchester	A	0
@@ -4071,7 +4069,6 @@ Kong International (UK) Limited	Cheltenham	A	0
 KOPCEL CATERING LIMITED	Chichester	A	0
 Korabandi Consulting Ltd	Cannock	A	0
 KOREA AEROSPACE INDUSTRIES UK OFFICE	Chester	A	2,4
-Kortext Limited	Christchurch	A	0
 Koryu Limited	Colchester	A	0
 KOSI CARE LIMITED	Croydon London	A	0
 KPEC Limited	Coventry	A	0
@@ -4176,11 +4173,13 @@ LaundRe Holdings Ltd	Canning Town	A	0
 Laurelle London Ltd	Canvey Island	A	0
 Laversdale Timber Co. Ltd.	Carlisle	A	0
 Lavish Concepts Limited	Chiswick	A	0
+Lawton Tube Company Limited (The)	Coventry	A	0
 LB Croydon	Croydon	A	0
 LCC Group Limited	Cookstown	A	0
 LCSV Limited	Chorley	A	0
 LCUK CROYDON LTD	Croydon	A	0
 LDF OPERATIONS LIMITED (t/a White Oak UK)	Chester	A	0,4
+LDN Horticulture Ltd	Croydon	A	0
 Le Champigon Sauvage	Cheltenham	A	0
 LE Mandela Limited	Cardiff	A	0
 Leadon Timber Frame Ltd	Cookstown	A	0
@@ -4240,6 +4239,7 @@ Lifesaver Power Ltd	Colchester	A	0
 Lifestyle Express(Cardiff) Ltd T/A Lifestyle Express	Cardiff	A	0
 Lifestyles Services Group Limited	Crewe	A	0,4
 Lighcast Discovery Limited	Cambridge	A	0
+Light Tone Studios Ltd	Canterbury	A	0
 LIGHTHOUSE PVT LTD	Chatham	A	0
 Like Care Limited	Coventry	A	0
 Likewize Services UK Limited	Crewe	A	0,4
@@ -4469,9 +4469,9 @@ Manor House Country Hotel Limited	Co.Fermanagh	A	0
 Manor House Hotel	Cullompton	A	0
 Manor Road Store LTD	Chigwell	A	0
 Manorfield Residential Care Home	Chichester,	A	0
-MANS TRADING LIMITED T/A The Ladz	Cardiff	A	0
 MANS TRADING LIMITED T/A The Ladz	Cardiff,	A	0
 Mansoon Limited	Cheshunt	A	0
+MAP ACCOUNTING LIMITED	Colindeep Lane	A	0
 MAP Patient Access Limited	Cambridge	A	0
 MAPA Trading Limited	Canterbury	A	0
 Maple Health UK limited	Colchester	A	0
@@ -4486,6 +4486,7 @@ MARCOM DIGITAL SOLUTIONS LTD	Coventry	A	0
 Marcus Care Homes Ltd T/A Enstone House	Chipping Norton	A	0
 Marel Limited	Colchester	A	0
 Margaret Beaufort Institute of Theology	Cambridge	A	9
+Marigold MG2 Ltd	Colchester	A	0
 Marjoram Trading Ltd	Chelmsford	A	0
 Marjorie McClure School	Chislehurst	A	0
 MARK IDENTITIES LIMITED	Chelmsford	A	0
@@ -4546,6 +4547,7 @@ MAXAM UK LIMITED	Chesterfield	A	0
 MAXCOVER FINANCIAL SERVICES LTD	Crawley	A	0
 MAXFLOW POWER PRODUCTS LIMITED	Cookstown	A	0
 Maxilux Systems Ltd	Coventry	A	0
+Maximillian & Co	Chelsea Harbour	A	0
 Maximum Solution Consulting (UK) Ltd.	Cottingham	A	0
 Maximus Accountants	Cardiff	A	0
 Maxion Therapeutics Limited	Cambridge	A	0
@@ -4614,7 +4616,6 @@ MERGEN IT LTD	Colchester	A	0
 Meridian Impact CIC	Cambridge	A	0
 Meridian Restaurants Limited T/A Riverside Cantonese Restaurant	Cardiff	A	0
 MERIL UK LIMITED	Crawley	A	0,4
-Meritor Heavy Vehicle Braking Systems (UK) Limited	Cwmbran	A	0,4
 MERTON CARS LTD	Croydon	A	0
 Messrs Armstrong	Carlisle	A	0
 Messrs Fisher	Carlisle	A	0
@@ -4690,7 +4691,6 @@ MING YANG UK RENEWABLE ENERGY COMPANY LIMITED	Cheshire	A	2
 Mingley Camberley Ltd	Camberley	A	0
 Mini Mart Store	Cardiff	A	0
 MINISTRIES WITHOUT BORDERS INTERNATIONAL	Cardiff	A	1,9,10
-MINNU SOFTWARE SOLUTIONS PRIVATE LIMITED	Coventry	A	0
 Minster Enterprises Ltd	Cirencester	A	0
 Mint Consulting (CRM) Ltd	Chesterfield	A	0
 Mint Curry	Cardiff	A	0
@@ -4916,6 +4916,7 @@ MY FABULOSA LTD	Cheshire	A	0
 MY HALAL BUTCHERS LIMITED	Cardiff	A	0
 MY HOME CHOICE (ESSEX) LIMITED	Colchester	A	0
 My Hope Trading Limited	Caerphilly	A	0
+My Latte UK Limited (T/As My Latte Cafe)	Coventry	A	0
 MY TECH WORLD LTD	Cheshire	A	0
 My Tribe Homes Ltd	Chislehurst	A	0
 MY WAY LONDON LTD	Canary Wharf	A	0
@@ -4978,7 +4979,6 @@ Navaratna South Indian Restaurant Limited	Croydon	A	0
 Naviam Global Limited	Carlisle	A	0
 Navitas Digital Safety Ltd	Coalville	A	0
 Navratri Festival Association Manchester	Cheadle Hulme	A	3,9
-NAWAABKITCHEN LIMITED T/A NAWAAB INDIAN RESTAURANT	Camborne	A	0
 Naz & Bob Ltd	Cardiff	A	0
 NBC Trading Limited	Canvey Island	A	0
 NC SUSHI LIMITED	Cwmbran	A	0
@@ -5041,6 +5041,7 @@ NEWCHELTENHAMSUSHI LTD	Cheltenham	A	0
 Newdon Health Care Limited	Chesterfield	A	0
 NEWFIELDS LAW LIMITED	Cardiff	A	0
 Newgrange of Cheshunt Ltd	Cheshunt	A	0
+Newgrange of Cheshunt Ltd	Cheshunt, Waltham Cross	A	0
 Newhall Associates Limited	Coventry	A	0
 NEWMARKET AUTOS LTD	Cambridge	A	0
 Newnham College	Cambridge	A	0,12
@@ -5190,6 +5191,7 @@ o2h Ltd	Cambridge, London	A	0
 Oak House Care Ltd t/a Oak House Care Home	Cardiff	A	0
 OAK INITIATIVE UK CIC	City of Bradford	A	3
 OAK&KAPOK LIMITED	Colchester	A	0
+Oakenwoods Group Ltd	Colchester	A	0
 Oakfield House Care Limited	Canterbury	A	0
 Oakfield Quality Homecare Limited t/a Right at Home Colchester and District	Colchester	A	0
 Oakhaven Residential Care Home Limited	Cheltenham	A	0
@@ -5278,7 +5280,6 @@ OPTIfarm	Chesterfield	A	0
 OPTIFARM LTD	Chesterfield	A	0
 Optima Accountants Ltd	Cardiff	A	0
 Optimal Chiropractic & Wellness Centre LTD	Cardiff	A	0
-Optimhouse Limited	Coventry	A	0
 Optimism Supported Housing	Croydon	A	0
 Optimity Ltd	Chippenham	A	0
 OPTIMUMCARE 4U LIMITED	Crawley	A	0
@@ -5515,6 +5516,7 @@ Picture Blast Limited	Coventry	A	0
 Piggy Genius Ltd	Cambridge	A	0
 Pigment Global Limited	Cheshire	A	0,4
 Pilcrow ltd	Canterbury	A	0
+Pilgrim Canterbury Ltd	Canterbury	A	0
 Pilgrims Hospices in East Kent	Canterbury	A	0
 Pili and Kiki Ltd	Chichester	A	0
 Piller UK Limited	Cirencester	A	0
@@ -5604,6 +5606,7 @@ Praesidio Safeguarding Limited	Cowbridge	A	0
 PRAGMATIC DESIGN SOLUTIONS LIMITED	Coventry	A	0
 Pragmatic Semiconductor Ltd	Cambridge	A	0
 Pragmatix Advisory Limited	Chelmsford	A	0
+PRAMUKH CONVENIENCE LTD	Chelmsford	A	0
 PRANU STORES LIMITED T/A Gunnislake Stores	Cornwall	A	0
 Prasath Limited	Chesterfield	A	0
 PRASATH SAMY KANNAN T/A SK SERVICE STATION - BP	Cardiff	A	0
@@ -5626,7 +5629,7 @@ Prestige International U.K. Limited	Croydon	A	0,4
 Pretoria Energy Company (Services) Ltd	Cambridge	A	0
 Prettygate Ltd t/a Ambrose Pharmacy	Colchester	A	0
 Price Building Solutions Limited	Croydon	A	0
-Pride Developments	Cwmbran	A	0
+Pride Developments Group Ltd	Cwmbran	A	0
 Priest House Hotel	Castle Donington	A	0
 PrimacyCare Ltd	Cardiff	A	0
 Prime Care Domiciliary Ltd	Colchester	A	0
@@ -5643,7 +5646,7 @@ Primexal Ltd	Crawley	A	0
 Primo Point Services Ltd	Corby	A	0
 Prince Hotels Ltd	Coventry	A	0
 PRINCES STREET DENTAL PRACTICE LIMITED	Corbridge,	A	0
-Principles Recruitment Care Agency	Cirnecester	A	0
+Principles Recruitment Care Agency	Cheltenham	A	0
 Printech Circuit Laboratories Limited	Chelmsford	A	0
 Priority Plus Limited	Coventry	A	0
 Prism Business Developments Ltd	Congleton	A	0
@@ -5678,7 +5681,6 @@ ProQuest Information and Learning Limited	Cambridge	A	0,4
 ProRehab Physio LTD	Crawley	A	0
 PROSPERITY CONSULTANTS LIMITED	Crawley	A	0
 ProStock Vets Ltd	Carmarthen	A	0
-Protea Care Homes (Kent) Ltd	Coventry	A	0
 Proteotype Diagnostics Ltd	Cambridge	A	0
 Protonera	Cambridge	A	0
 Provide Community Interest Company	Colchester	A	0
@@ -5707,7 +5709,6 @@ Puretech Environmental Ltd	Cranleigh	A	0
 Purifire Labs Limited	Cambridge	A	0
 Purlieus Consulting Limited	Cheltenham	A	0
 Puro Dining Ltd	Clevedon	A	0
-Purple Garden SQ Entertainment Ltd	Canterbury	A	0
 Purple Square Consulting Limited TA Purple Square CX	Crawley	A	0
 PURPOSE SECURITY AND FACILITIES SUPPORT LTD	Coventry	A	0
 Purvi Limited T/A The Cafe	Canning Town	A	0
@@ -5761,7 +5762,6 @@ R & K Mobile Ltd	Coventry	A	0
 R & R SOUL LTD T/A TREMORFA SUPERSTORE	Cardiff	A	0
 R - Tech Global Construction & Properties Limited	Crawley	A	0
 R AND K STORES LIMITED	Cheltenham	A	0
-R B A Limited	Colwyn Bay	A	0
 R H Partnership Architects Limited	Cambridge	A	0
 R J Convenience Limited	Croydon	A	0
 r k aggarwal limited	Cardiff	A	0
@@ -5878,6 +5878,7 @@ Red Rose Of Chessington	Chessington	A	0
 Red Sea (Coventry) Limited TA Le Raj Balti	Coventry	A	0
 Red Watch Security	Clevedon	A	0
 Redbridge Associates Limited	Cheshire	A	0
+Redcoat Express Limited	Crawley	A	0
 REDDY GROUPS LTD	Cardiff,	A	0
 Reddy Pai Metals Ltd	Cardiff	A	0
 REDDY RETAIL LTD	Cambridge	A	0
@@ -5943,6 +5944,7 @@ Retain Healthcare	Cheltenham	A	0
 Revvity Discovery Limited	Cambridge	A	0
 Rewayyat Ltd	Cardiff	A	0
 REY LONDON LIMITED T/A CHISLEHURST PHARMACY	Chislehurst	A	0
+Reynard High Voltage Solutions	Cheltenham	A	0
 RG16 Management Ltd	Colchester	A	0
 RGE Services Limited	Chigwell	A	0
 RGV Aviation Limited	Cheltenham	A	0
@@ -5964,6 +5966,7 @@ Right Choice Recruitment Solutions	Camberley	A	0
 Right Temp Control Ltd	Croydon	A	0
 RIGHTEOUS BRANCH LIMITED	Coalville	A	0
 Riley Square Limited T/A Nisa Local	Coventry	A	0
+Rima Food Ltd	Chelmsford	A	0
 RingMasterUK Ltd	Cardiff	A	0
 RINGWOOD CHICKEN LTD T/A CHICKEN PLUS	Coventry	A	0
 Rio Architects Limited	Cardiff	A	0
@@ -6030,7 +6033,6 @@ ROOT2GROWTH LIMITED	Chudleigh	A	0
 Rootfloe Ltd	Croydon	A	0
 Rope Green Medical Centre	Crewe	A	0
 Roq Limited	Chorley	A	0
-ROSE CARE SERVICES LIMITED	Catford	A	0
 Rosecare Chesterfield Limited T/A Brookholme Care Home	Chesterfield	A	0
 Rosedale Care Home Limited	Coalville	A	0
 ROSEHILL FOOD LIMITED T/A Rose Hill Food & Wine (COSTCUTTER)	Carshalton	A	0
@@ -6130,6 +6132,7 @@ Safe hands professional care limited	Coventry	A	0
 Safe Haven Training Ltd	Cannock	A	0
 SAFE RIDES ESSEX LTD	Colchester	A	0
 Safeguard World International Limited	Congleton	A	0
+Safehands Recruitment Ltd	Cheltenham	A	0
 Saffron Apothecaries Ltd	Countesthorpe	A	0
 Saffronland Homes 2 Limited	Chandlers Ford	A	0
 Saffronland Homes 3 Limited	Chandlers Ford	A	0
@@ -6434,7 +6437,6 @@ SIMERA LIMITED	Croydon	A	0
 Simman Solicitors	Croydon	A	0
 Simmons (Mouldings) Limited	Coventry	A	0
 SIMNET OUTREACH MINISTRIES	Croydon	A	1,9,10
-SIMON BUILDERS LTD	Croydon	A	0
 Simona Peak Pipe Systems Ltd	Chesterfield	A	7
 SIMPLY BARGAINS LTD t/a Bargain World	Cheadle Hulme	A	0
 SIMPLY LUNCH LTD	Croydon	A	0
@@ -6454,6 +6456,7 @@ SIRE Technology Ltd	Crowthorne	A	0
 SIRG UK Ltd	Corby	A	0
 Siri Guru Singh Sabha	Crawley	A	1,10
 SIRI GURU SINGH SABHA, CROYDON	Croydon	A	10
+Sisters For Life (SFL) Healthcare Ltd	Chester	A	0
 Sisters of Charity of Our Lady of Good & Perpetual Succour	Consett	A	1,10
 Sitala Bio Ltd	Cambridge	A	0
 Siva And Sons Ltd	Cullompton	A	0
@@ -6489,7 +6492,6 @@ Slow Boat Limited	Chester	A	0
 SLR ASSOCIATES LIMITED T/A SLR IT SOLUTIONS	Coventry	A	0
 SLURRYKAT LTD	Craigavon	A	0
 SM Dental Care Ltd	Cannock	A	0
-SM Homecare Services Ltd	Coventry	A	0
 SM Retailer Ltd	Chatham	A	0
 SM SHEPSHED LTD	Cardiff	A	0
 SM2 LONDON LTD	Croydon	A	0
@@ -6500,7 +6502,6 @@ SMART HAIR INTL LIMITED	Chadwelll St Mary,	A	0
 SMART LEGAL CONSULTANTS LTD	Croydon	A	0
 Smart Projex Ltd	Crmlington	A	0
 SMART SALES AND HIRE LTD	Coventry	A	0
-SMART Tool Group Global Ltd	Chelmsford	A	0
 SMART Veterinary Clinic Ltd	Carmarthen	A	0
 Smartap Limited	Coventry	A	0
 Smartbiz Consultants Limited	Crawley	A	0
@@ -6748,6 +6749,7 @@ STEMLIFE INTERNATIONAL LTD	Coventry	A	0
 Step Exchange Limited	Crookham Village	A	0
 Step8up Limited	Camberley	A	0
 Stephen House Dental Practice	Christchurch	A	0
+Stephen Perse Cambridge	Cambridge	A	0
 Stephen Ross Accountancy Services Ltd	Coatbridge	A	0
 Sterling Pharma Solutions Ltd	Cramlington	A	0
 Sterlingworth Surveyors Ltd	Chessington	A	0
@@ -6770,6 +6772,7 @@ Strand Holdings Limited t/a McDonald's	Castlerock	A	0
 Stratasys Solutions Limited	Cambridge	A	0
 STRATEGY AND PROJECTS CONSULTANTS LTD	Chatham	A	0
 Strathmore Road Fish Bar Limited	Coventry	A	0
+Strathos Energy Ltd	Chorley	A	0
 Straumann UK	Crawley	A	0
 Street Child United	Cambridge	A	0,9
 StreetlightUK	Crawley	A	0
@@ -6809,7 +6812,6 @@ Sunfixings Ltd	Cheltenham	A	0
 Sunflowers Care Limited	Cambridgeshire	A	0
 Sung Services Ltd	Chigwell	A	0
 SUNNERG LTD	Croydon	A	0,4
-SUNNY CARE HOMES LTD	Charlton	A	0
 Sunny Ice Ltd	Coatbridge	A	0
 SUNRISE CONVENIENCE STORE LTD	Coventry	A	0
 Sunrise Systems Limited	Cambridge	A	0
@@ -6925,7 +6927,6 @@ Talarmade Ltd	Chesterfield	A	0
 Talawa Theatre Company	Croydon	A	0
 Talga Technologies Limited	Cambridge	A	0
 TALYA FOODS LTD	Coventry	A	0
-Tamago Ltd.	Canterbury	A	0
 Tamar Healthcare Ltd	Cromer	A	0
 Tamar Valley Health	Callington	A	0
 TAMARIND SPICE LTD	Cambridge	A	0
@@ -6970,7 +6971,6 @@ TEAM INSTALLATION LTD	Cumbernauld	A	0
 TeamHaven Ltd	Corsham	A	0
 Tech Manage Limited	Carterton	A	0
 TECHFLOW MARINE LTD	Cramlington	A	0
-TECHMARK SOLUTIONS LTD.	Coventry,	A	0
 Technicool Air Conditioning Ltd	Coulsdon	A	0
 Technimove Limited	Croydon	A	0
 Technobiz Limited Managing	Camberwell	A	0
@@ -7091,7 +7091,6 @@ The Community of the Franciscan Friars of the Renewal	Canning Town	A	1,10
 The Community Of The Many Names Of God	Carmarthenshire	A	1,10
 THE COMPANY OF BIOLOGISTS, LIMITED	Cambridge	A	0
 The Copper Mark Ltd	Cheltenham	A	0
-The Court Care Group Limited	Cockermouth	A	0
 The Court Care home ltd	Cardiff	A	0
 The Court Hotel Group	Cockermouth	A	0
 The Coventry & Warwhickshire Centre For Advanced Dentistry	Coventry	A	0
@@ -7175,7 +7174,6 @@ The Mayne Veterinary Clinic Ltd.	Colchester	A	0
 The Merchant's Choice Ltd	Cheltenham	A	0
 The Mersea Road Clinic Ltd	Colchester	A	0
 The Minster Fellowship	Chalfont St Peter	A	9
-The Moorings Care Ltd	Cowes	A	0
 The Mouthfull Trading Company	Colnbrook	A	0
 The Muslim Shia Ithna Asheri Jamaat of Essex	Chelmsford	A	1,10
 The National Mathematics & Science College	Coventry	A	0
@@ -7193,7 +7191,6 @@ The Old Rectory Retirement Home	Canterbury	A	0
 The Old Thatch Inn Ltd	Castledawson	A	0
 The Orange Dough Company Limited	Caterham	A	0
 The Oratory Of St. Philip Neri At Cardiff	Cardiff	A	1
-The Orchard Media & Events Group	Cardiff	A	0
 THE OUDS WAREHOUSE LTD	Cardiff, Wales,	A	0
 The Park Lane Healthcare Group Ltd.	Cottingham	A	0
 The Parochial Church Council of Christ Church Turnham Green	Chiswick	A	0,10
@@ -7208,7 +7205,6 @@ The Perse School	Cambridge	A	0
 The Phone Zone	Coventry	A	0
 THE PHONESHOP SOUTHPORT LIMITED	Chester	A	0
 The Pixel Agency	Cheadle Point,	A	0
-THE POLAR BEARS GROUP LTD	Cambridge	A	0
 The President and Fellows of Murray Edwards College, founded as New Hall, in the University of Cambridge	Cambridge	A	0
 The Progressive Farming Trust Ltd	Cirencester	A	0
 The Property Market (Cranford) Ltd. T/A TPM Estate Agent	Cranford	A	0
@@ -7227,7 +7223,7 @@ THE SPICE (COVENTRY) LTD	Coventry	A	0
 The Sporting Chance	Carmarthenshire	A	0
 The Springs Medical Partnership	Chesterfield	A	0
 The Stable Bar & Restaurants Limited T/A The Stable	Cobham	A	0
-The Stephen Perse Foundation	Cambridge	A	0
+THE STUDY NETWORK LTD	Chertsey	A	0
 The Summer Berry Company	Chichester	A	0
 The Sun and Moon International Ltd	Cambridge	A	0
 The Surgery	Comber	A	0
@@ -7445,7 +7441,6 @@ True Vine Fishing LTD	Conon Bridge	A	0
 Truecut Diamond Drilling Limited	Canterbury	A	0
 Truestone Construction Ltd	Croydon	A	0
 Trumpington St Medical Practice	Cambridge	A	0
-Trusko Residential Ltd	Chelmsford	A	0
 Trustack Limited	Cramlington	A	0
 Trutex Ltd	Clitheroe	A	0,4
 TRYCARE LIMITED	Clayton, Bradford	A	0
@@ -7494,6 +7489,7 @@ Uchimura UK. Ltd	Co. Durham	A	0,4,7
 UDELIVER LTD	Chatham	A	0
 UE Group Ltd	Corby	A	0
 UGANDA CROYDON CATHOLIC COMMUNITY (UCCC)	Croydon	A	1,9,10
+Uhlmann U.K. Limited	Camberley	A	0,4
 UK ACCOUNTS & TAX LTD	Crawley	A	0
 UK Ambassadors for Christ Ltd	Coventry	A	1,9
 UK Auto Motors Ltd	Colchester	A	0
@@ -7511,7 +7507,6 @@ UK Mortgage Specialists Ltd	Coventry	A	0
 UK Offer International Education Limited	Coventry	A	0
 UK SAFETY MANAGEMENT LTD	Colton	A	0
 UK Search Limited	Chesterfield	A	0
-UK Sitehoarding Ltd	Chertsey	A	0
 UK TOOTING LIMITED T/A SUBWAY	Carshalton	A	0
 UK UNCOUNTABLE LIMITED	Cheltenham	A	0,4
 UKEC International Ltd	Crowthorne	A	0
@@ -7686,7 +7681,6 @@ Village Indian LTD	Cheshire	A	0
 VIMITHAA ENTERPRISES LTD T/A Coundon News & Wine	Coventry	A	0
 Vinalchemy Ltd	Coggeshall	A	0
 Vinayak Pharma Ltd T/A Maendy Square Pharmacy	Cwmbran	A	0
-Vinayaka Private Limited	Chesterfield	A	0
 Vinoth Srivignaraja T/A Arle Stores	Cheltenham	A	0
 Vintage Tea & Coffee Co Ltd	Cardiff	A	0
 VIOLET LANE MEDICAL PRACTICE	Croydon	A	0
@@ -7707,6 +7701,7 @@ Visionplus (Carmarthen) Ltd t/a Specsavers	Carmarthen	A	0
 Visionplus (Cornwall) Limited T/A Specsavers Opticians	Camborne	A	0
 Visteon Engineering Services Ltd.	Chelmsford	A	0,4
 Vita Architecture Ltd - Registered Address	Croydon	A	0
+Vital Prototypes Ltd	Coventry	A	0
 Vital Signs Solutions Ltd	Cambridge	A	0
 VIVACARE LIMITED	Cornwall	A	0
 VIX TECHNOLOGY UK LIMITED	Cambridge	A	0,4
@@ -7838,7 +7833,7 @@ West Wales Dental Implant Clinic Limited	Carmarthen	A	0
 West Wales Islamic Cultural Association	Carmarthen	A	1
 WESTBASE TECHNOLOGY LIMITED	Caldicot	A	0
 Westbourne House School	Chichester	A	9
-Westbrook Healthcare LLP (T/A Westbrook Care)	Caterham	B	0
+Westbrook Healthcare LLP (T/A Westbrook Care)	Caterham	A	0
 Westcon Group European Operations Ltd	Cirencester	A	0,4
 Westcroft Park Polo Club Ltd	Chobham	A	11
 Westec Engineering Ltd	Christchurch	A	0
@@ -7859,7 +7854,6 @@ Whaddon Road Evangelical Presbyterian Church	Cheltenham	A	1
 What's On Tickets Ltd	Congleton	A	3
 Wheatsheaf (Sandbach) Ltd	Cheshire	A	0
 Wheel Freedom Limited	Chessington	A	0
-WHIPPY ICE'S LTD	Crawley	A	0
 Whitchurch Medical Centre	Cardiff	A	0
 White Bullet Solutions Limited	Cheam	A	0
 White Knight Accountancy Limited	Corby	A	0
@@ -7879,6 +7873,7 @@ Wickman Coventry Ltd	Coventry	A	0
 WIE LTD	Cardiff	A	0
 Wienerberger Ltd	Cheadle	A	0
 Wiggin LLP	Cheltenham	A	0
+Wild Lives Earth Limited	Cambridge	A	0
 Wildanet Ltd	Cornwall	A	0
 Wildix UK Limited	Coventry	A	0
 Wildlife Conservation Society	Cambridge	A	0
@@ -8082,8 +8077,8 @@ Zion Baptist Church	Cambridge	A	1
 Zipporah Ltd	Cardiff	A	0
 ZIPWAY EXPRESS LTD	Coventry	A	0
 Zircon Retail Ltd	Crowborough	A	0
-ZM Brands Ltd t/a Oodles N'Oodles Coventry	Coventry	A	0
 ZM ELECTRICIAN LTD	Cardiff,	A	0
+ZMAJ I.T. SOLUTIONS LIMITED	Chadwell Heath	A	0
 Zmax CM Limited	Chelmsford	A	0
 Zoe domcare limited	Cambuslang	A	0
 ZOLL Medical UK Limited	Cheshire	A	0,4

@@ -13,7 +13,8 @@
 1st Central Care Limited	Stanford-le-Hope	A	0
 1st Cloud Accountants	Sunderland	A	0
 1st Grade Care Ltd	St Mellons	A	0
-2 CARERS LTD	Stafford	A	0
+1stCurve Limited	Southend	A	0
+2 CARERS LTD	Stoke-on-Trent	A	0
 200OK Solutions Ltd	Stanmore	A	0
 2035 LTD	Staines-Upon-Thames	A	0
 24 7 Manpower Limited	Stanwell	A	0
@@ -54,7 +55,6 @@
 5S Construction Services Ltd	Slough	A	0
 7 Acorns Day Nursery	Sevenoaks	A	0
 7 Oaks News & Wine Store	Sevenoaks	A	0
-7 Star Consultancy Limited	Southall	A	0
 7711 IOW Limited	Seaview	A	0
 7Bone Holdings Limited	Southampton	A	0
 85 Secret Garden	Staffs	A	0
@@ -131,7 +131,6 @@ AA ONLINE TRADING LTD	Salford	A	0
 AA Painting and Decorators ltd	Stoke On Trent	A	0
 AA Service Station Ltd	Salisbury	A	0
 AA Transport	Springfield	A	0
-AAA EAGLES LTD	Stockport	A	0
 AAA PROPERTIES GROUP LTD	Surrey	A	0
 AAA RRR LIMITED T/A Arrahman	Swindon	A	0
 AAA SHOP LIMITED T/A AAA SUPERMARKET	Swindon	A	0
@@ -141,7 +140,7 @@ Aadmi Private Limited	Sherborne	A	0
 AAHAR VEGETARIAN LIMITED	Southall	A	0
 Aaka Services Limited T/A Bournesgreen Services Station	Southend On Sea,Essex	A	0
 Aalagii Limited	Scotland	A	0
-AARAV COURIER LTD	Stoke-On-Trent	A	0
+AARAV TRANSPORT LTD	Stoke-On-Trent	A	0
 Aarjen Enterprise Limited	Sunderland	A	0
 Aarna Brasserie Ltd	Sutton-In-Ashfield	A	0
 AARNA CONNECT TECH SERVICES LTD T/A AARNA CONNECT	Slough	A	0
@@ -349,8 +348,8 @@ Air and Dusk Ltd t/a The Millstone at Barnack	Stamford	A	0
 Air Art Ltd	St. Albans	A	0
 Air Charter Service Plc	Surbiton	A	0,4
 Air Handlers Northern Limited	Salford	A	0
-Air IT Ltd	Sandiacre	A	0
 AIR SS LTD	Staines-upon-Thames	A	0
+Air Utilities Ltd	Stockport, England	A	0
 Aira Home UK Ltd	Stretford	A	0
 AIRCOM International Ltd	Surrey	A	0
 Aircraft Engineering Services Limited	Stansted	A	0
@@ -687,7 +686,6 @@ Arbaa Limited	Southall	A	0
 ARBOURTHORNE LIMITED	South Yorkshire	A	0
 ARC CARE LTD	Swindon	A	0
 Arc Pharma (UK) Limited	St Albans	A	0
-ARC PHARMA UK LIMITED	St Albans	A	0
 Arcadia Pharma Ltd	Swansea	A	0
 Arcare Boscobel Holdings Limited	Southport	A	0
 Arcare Woodlands Limited	Southport	A	0
@@ -697,6 +695,7 @@ ARCLID FARM LTD	Sandbach, Bereton	A	0
 Arcola Products Limited	Sittingbourne	A	0
 Arcomedical Infusion Ltd	Stafford	A	0
 Arcs Retail Ltd T/A Queens Road Stores - Premier	Shropshire	A	0
+ARD PAVING STONES LIMITED	Surrey	A	0
 ARDAS TRANSPORT LTD	Stoke-On-Trent	A	0
 Arden Photonics Limited	Solihull	A	0
 Ardmore Veterinary Group Ltd	Sudbury	A	0
@@ -758,7 +757,6 @@ As-Sure Physio Ltd	Stevenage	A	0
 ASA EXPRESS LIMITED	Solihull	A	0
 ASB HAULAGE LTD	Slough	A	0
 Ascend Technologies Limited	Southampton	A	0
-Ascent Performance Group Limited	Sheffield	A	0
 Asco Engineering Ltd	Skelmersdale	A	0
 Ascot Berks Ltd	South Ascot	A	0
 Ascot Lodge Ltd	Southport	A	0
@@ -932,6 +930,7 @@ Ayton and Snainton Medical Practice	Scarborough	A	0
 AYU Health Ltd	Southampton	A	0
 Ayush Ayurveda And Yoga Therapy Center Ltd	Southall	A	0
 AZ RADIO CARS LTD	Smethwick	A	0
+AZA HOMEIMPROVEMENT LIMITED	Southall	A	0
 AZARIO LONDON LIMITED	Slough	A	0
 AZED & CO	Surrey	A	0
 AZG Logistics Ltd	Slough	A	0
@@ -941,7 +940,6 @@ Aztec Consult LTD	Southall	A	0
 B & B son Limited	Surrey	A	0
 B A FITCH LIMITED	Sheerness	A	0
 B and M Crick and Sons Ltd	Saxmundham	A	0
-B&H CALL LIMITED	Salisbury	A	0
 B&W United healthcare Ltd	Solihull	A	0
 B&Y CARGO AND SHIPPING SERVICES LTD	Salford	A	0
 B. Braun Medical UK Ltd	Sheffield	A	0,4
@@ -1086,6 +1084,7 @@ Bees Foodservice Ltd	Southall	A	0
 Bees Ice Hockey Club	Slough	A	11
 BEESOCIALIZE LTD	St. Albans	A	0
 BEIRUTTRADES LIMITED	Scotland	A	0
+BEIS MENACHEM CHABAD LUBAVITCH	Salford	A	1
 Bel UK Limited	Sevenoaks	A	0,4
 Belgrave Medical Centre	Stoke on Trent	A	0
 Belgravia Care Home Limited	St Anne's on Sea	A	0
@@ -1129,7 +1128,6 @@ Berwick House Ventures Ltd	Shrewsbury	A	0
 BESPOKE HOME PRODUCTS LIMITED	South Ruislip	A	0
 BESS SERVICE LTD	Sutton	A	0
 Best & Brilliant Limited	Southampton	A	0
-BEST BARGAIN SEWING SUPPLIES LTD	Salford	A	0
 BEST BRAND FOOD & DRINKS (BBFD) LIMITED T/A BRITISH TIGER	Stockton	A	0
 Best Care 4 U Ltd	Stanmore	A	0
 Best Care Liverpool Limited	St Helens	A	0
@@ -1147,7 +1145,6 @@ Beta Shoes Ltd	Slough	A	0
 Beta Technology Limited	Sheffield	A	0
 Betarandom Ltd	Swanley	A	0
 Bethphage	Shrewsbury	A	0
-Better Decision Groups Ltd	Spalding	A	0
 Better Vision Care Ltd	Sheffield	A	0
 Better World Charity Ltd	Stanmore	A	0
 Beulah-Deetee International Limited	Sunderland	A	0
@@ -1197,7 +1194,6 @@ BiologIC Technologies	Soham	A	0
 Bionema Limited	Swansea	A	0
 Bipa Limited	Seaton	A	0
 Birch Assist Ltd t/a Bluebird Care	Slough	A	0
-Birch Care Ltd	Stockport	A	0
 Birches Head Medical Centre	Stoke-on-Trent	A	0
 Birchgrove Mini Market & Post Office	Swansea	A	0
 Birkdale Park Nursing Home	Southport	A	0
@@ -1240,7 +1236,6 @@ Blink Charging UK Ltd	St Albans	A	0
 Blink Medical Limited t/a Corza Medical	Solihull	A	0,4
 BLISS BEAUTY LIMITED	Swindon	A	0
 BLISS CONVENIENCE STORE LTD	Sawbridgeworth	A	0
-BLISS ROUTE COURIER LTD	Salford	A	0
 BLOCKCHAIN TECH LTD	Southend-On-Sea	A	0
 Bloom Solihull Ltd	Solihull	A	0
 Bloomfoods Limited T/A Heavenly Desserts Southampton	Southampton	A	0
@@ -1266,7 +1261,6 @@ BlueSky Relocation Limited	Slough	A	0
 BluJay Solutions Ltd	Salford	A	0,4
 BLUSPEC GROUP LIMITED	Staines Upon Thames	A	0
 Blythe Cricket Club	Stoke-on-Trent	A	11
-BM Dynamic Ltd	Stoke-on-Trent	A	0
 BM MOBILE CARE LTD	Slough	A	0
 BMAS Accountants Ltd	Slough	A	0
 BMS AND ELECTRICAL SERVICES LTD	Sutton	A	0
@@ -1307,11 +1301,11 @@ Bottle Butler Limited	Solihull	A	0
 Boubker Delights Limited T/A Treatz	South Ruislip	A	0
 BOUNTIFUL CARE & SUPPORT SERVICES LIMITED	Southampton	A	0
 Bourne Stores	Swindon	A	0
+Bourneside Services	Shepperton	A	0
 Boverton Post office and Stores	South Wales	A	0
 Bowbridge Stroud Limited	Stroud	A	0
 BOWL BUTLER LIMITED	Surrey	A	0
 BOWLZ LTD	Slough	A	0
-Bowman Power Group Limited	Southampton	A	0
 Bowman Riley Architects Ltd	Skipton	A	0
 Boxomatic Limited	Stockport	A	0
 Boyden Stores	Southwold	A	0
@@ -1323,7 +1317,6 @@ Brabyns House Limited	Stockport	A	0
 Braceborough Hall Care Home LTD LTD	Stamford	A	0
 Braceborough Hall Retirement Home	Stamford	A	0
 BracStan Installations Ltd	Stafford	A	0
-Bradcare Ltd	Swadlincote	A	0
 Brady Bags Ltd	Streetly	A	0
 Brae Stores Limited	Shetland	A	0
 BRAHAM GLAZING LTD	Slough	A	0
@@ -1370,6 +1363,7 @@ Brighter Star Services Ltd	Southall, England,	A	3
 Brightkidz Preschool Ltd	Stanmore	A	0
 BRIGHTLINK POWER TESTING LIMITED	Stafford	A	0
 BRIGSTOCK LIMITED T/A BRIGSTOCK PHARMACY	Surrey	A	0
+Brilliant Culinary Group Ltd	Southall	A	0
 BRILLIANT IN EXCELLENCE (UK) LIMITED	Silverstone	A	0,4
 Brilliant Restaurant	Southall	A	0
 Brindhavan Limited	Slough	A	0
@@ -1454,6 +1448,7 @@ Building Services Products Ltd	Stockport	A	0
 Bulgaro Ltd	Sittingbourne	A	0
 Bulk Tainer Logistics Limited	Stokesley	A	0
 Bullseye Awards and Garments Ltd	Slough	A	0
+Bumper International Limited	Sheffield	A	0
 BURGER ZONE LIMITED	Staines-Upon-Thames,	A	0
 BURGER8 LIMITED	Sunderland	A	0
 Burgess Road Dental Practice	Southampton	A	0
@@ -1624,7 +1619,6 @@ CARGO EXPERT LTD	Southall	A	0
 CARGO MOVERS LIMITED	Samlesbury	A	0
 Caring Consultancy Ltd	Southall	A	0
 CARING FOR CARE LIMITED	Stoke On Trent	A	0
-Caring Hands (Wiltshire)	Swindon	A	0
 caring@Home Ltd	Swindon	A	0
 CaringHearts Support Services Ltd	Somerset	A	0
 Caritas Diocese of Salford	Salford	A	0
@@ -1668,6 +1662,7 @@ CB Opportunities 2 Ltd	Stadhampton	A	0
 CB Retail Limited	Stanmore	A	0
 CBS HEATING & ELECTRICALS LTD	Stanmore	A	0
 CC Health Care Limited	Southend - On - Sea,	A	0
+CCCAMELON LIMITED	Scotland	A	0
 CCL LABEL (ASHFORD) LIMITED	Sevington	A	0
 CCL-Forensics Limited	Stratford-upon-Avon	A	0
 CCM NH Limited	Slough	A	0
@@ -1708,7 +1703,6 @@ CEYLON SILKS LTD t/a CEYLON SILKS	Surbiton	A	0
 CEYLON TEA SHOP (UK) LTD	Sheffield	P	2
 CFA Accountants Ltd	Salford	A	0
 CFN Packaging Group Ltd	Skegness	A	0
-CG Partnership	Southampton	A	0
 Chalkie AI Ltd	Sheffield	A	0
 Chamarel Ltd	Stockport	A	0
 Chamberlains Aqua and Energy Systems Limited	Southampton	A	0
@@ -1733,6 +1727,7 @@ Charlton Somerset Hospitality Ltd	Shepton Mallet	A	0
 CHARMING CHIC LTD	South Shields	A	0
 Charworth Limited	South Ockendon	A	0
 Chase Software Solutions Ltd	Surbiton	A	0,4
+Chatresh Consultants Limited	Sevenoaks	A	0
 Chattpatta Bazar Ltd	Southall	A	0
 Chawton Global Investors LLP	Shere	A	0
 Cheadle (Kingsway) Sports Club Ltd	Stockport	A	11
@@ -1769,13 +1764,13 @@ CHILLED EVENTS LIMITED	Swindon	A	0
 Chilli Bar N Restaurant	St Albans	A	0
 CHILLI LTD	Stockport	A	0
 CHILLI NIGHTS LIMITED	Surrey	A	0
-CHILLI SPICE (SPRING GARDEN) LTD	Shrewsbury	A	0
 Chiltern Residential Homes Limited	Stoke On Trent	A	0
 Chime Software Limited	Staines-upon-Thames	A	0
 China Cargo Airlines Limited	Stansted	A	0,4
 CHINATOWN 888 LTD	Sheffield	A	0
 Chinese Chequers Ltd	Stowmarket	A	0
 Chiro Works (UK) Limited	Sheffield	A	0
+Chirpy Heat Ltd	Southwell	A	0
 Chislehurst & Sidcup Grammar School	Sidcup	A	0
 Chloe Drury Limited T/A Caremark Sutton	Surrey	A	0
 Chobham Store Limited	Stratford	A	0
@@ -1829,7 +1824,6 @@ CITIBOND TRAVEL (LONDON) LTD	Stanmore	A	0
 Citizens Advice 1066	St Leonards-on-Sea	A	0
 Citizens Advice Mid Mercia	Swadlincote	A	0
 Citizenship First Ltd	Sheffield	A	0
-City 1st Ltd	Slough	A	0
 City and County of Swansea	Swansea	A	0
 City Cargo Services	Salford, Manchester	A	0
 CITY CARPETS & FURNITURE LTD	Slough	A	0
@@ -1954,7 +1948,6 @@ Comfy Care Homes Limited	Scarborough	A	0
 Comhairle nan Eilean Siar	Stornoway	A	0
 ComIT Consulting Ltd	Slough	A	0
 Commend UK Limited	Stansted	A	0
-CommissionBEIS MENACHEM CHABAD LUBAVITCH	Salford	A	1
 COMMITTED CARE SERVICES LIMITED	Slough	A	0
 COMMUNITEKS LTD	Slough	A	0
 Community Care Experts Ltd	Surbiton	A	0
@@ -2052,7 +2045,6 @@ Cosey Homes ltd	St Helens	A	0
 Cosi Living Limited	Slough	A	0
 COSMOS PAK LIMITED	Salford	A	0
 Cost Saver Ridgewood Ltd	St Helens	A	0
-Cosyseal (Double Glazing) Limited	Surrey	A	0
 Cosz Enterprise UK Ltd	Sunderland	A	0
 Cot Valley Collective Limited	St Just	A	0
 Cotswold Energy Group Ltd	Stonehouse	A	0
@@ -2141,6 +2133,7 @@ CRYSTAL CASH AND CARRY LIMITED	Swansea	A	0
 CRYSTALLINE BUSINESS SOLUTIONS LTD	Surrey	A	0
 CS Modern Workforce UK Ltd	Stirling	A	0
 CS One Design Ltd	Sittingbourne	A	0
+CSH -HVAC Ltd	Sheffield	A	0
 CSI LEASING UK LIMITED	Sheffield	A	0
 CSM CONSULTING SERVICES LTD	Slough	A	0
 CSS Contracts Ltd	Surbiton	A	0
@@ -2193,7 +2186,6 @@ D ROY LIMITED	Swindon	A	0
 D Z FOOD STORE LIMITED	Sheffield	A	0
 d&b audiotechnik GB Limited	Stroud	A	0,4
 D&G Property and Investment Ltd	Slough	A	0
-D&I FOODS LTD	Slough	A	0
 D'Marble Limited	Swansea	A	0
 D,CENT CUTZ LTD	Southampton	A	0
 D-SKY LTD	Sale	A	0
@@ -2211,7 +2203,6 @@ DAFFODILS CARE AND SUPPORT SERVICES	South Croydon	A	0
 DAFFODILS HOMES LIMITED	Stanmore	A	0
 Daido Industrial Bearings Europe Limited	Somerset	A	4
 Daikoku Ramen Ltd	Stroud	A	0
-Daish's Esplanade Hotel	Scarborough	A	0
 Daisymill Technologies Limited	Salford	A	0
 Dalmeny House	Sheringham	A	0
 DandelionUK Limited	St Albans	A	0
@@ -2276,7 +2267,6 @@ DEALAMILLION LIMITED	Shipley	A	0
 Deals Bazaar Ltd	Salisbury	A	0
 Dearnsdale Fruit	Stafford	A	0
 Dechra Limited	Skipton	A	0
-DECORATIVE CONCEPTS UK LTD	Slough	A	0
 Dee Set Logistics Ltd	Stoke on Trent	A	0
 DEEPA 86 LTD	Swindon	A	0
 Deepdale Trees Limited	Sandy	A	0
@@ -2485,7 +2475,7 @@ DS UK CONSTRUCTION LIMITED	Southall	A	0
 dscout UK LTD	Slough	A	0,4
 DSK Environmental Ltd	Sittingbourne	A	0
 Dsquared Ltd	Stamford	A	0
-DSR MOTORS LTD	Staines	A	0
+DSR MOTORS LTD	Shepperton	A	0
 DSR UK LTD	Southall	A	0
 DT FOODS LTD	Sunderland	A	0
 DTDC Courier & Cargo (UK) Limited	Slough	A	0
@@ -2575,7 +2565,6 @@ Echelon Artists Ltd	Salford	A	3
 Echion Technologies LTD	Sawston	A	0
 Echo Studios Limited	Surbiton	A	0
 Echogenicity Limited	St agnes	A	0
-ECO 247 LTD	St Asaph	A	0
 Eco Build Group Ltd	Slough	A	0
 Eco Carz Ltd	Slough	A	0
 Eco Compliance And Solutions Limited	Sheffield,	A	0
@@ -2587,7 +2576,6 @@ Eco Sourcing Hub LTD	Sale	A	0
 Eco Travel Private Hire Ltd	Stoke On Trent	A	0
 Eco Tyres Global	Southampton	A	0
 ECOGENIUS LIMITED	Surrey	A	0
-ECOINSULATIONPOINT LIMITED	Slough,	A	0
 Ecommerce Supply Chain Ltd	Southampton	A	0
 ECONNECTIVITY LIMITED	Sheffield	A	0
 ECONOMIC DATA SCIENCES LTD	Slough	A	0
@@ -2659,7 +2647,6 @@ Elite Ice Sports Ltd	Sheffield	A	11
 Elite Motorsport Ltd	Shipdham	A	0
 ELITE ROOMS PORTSMOUTH LTD	Southsea	A	0
 Elitegate International LTD	Sutton	A	0
-Elizabeth House Rest Home Limited	Stoke On Trent	A	0
 Ellerbeck Jerseys Ltd	Standish	A	0
 ELLIOT SCIENTIFIC LTD	St Albans	A	0
 Elliott Home Care Limited	Saintfield	A	0
@@ -2671,7 +2658,6 @@ Elm Tree Surgery /Medical Centre	Stockton-on-tees	A	0
 Elmfield Rudolf Steiner School Limited	Stourbridge	A	0
 Elmfield Trading Ltd	South shields	A	0
 ELMFIELD WINES LIMITED	South Croydon	A	0
-Elmglade Residential Care Home	Sutton	B	0
 ELMSLEIGH STORES LTD	Swadlincote	A	0
 Elogbooks Facilities Management	St Ives	A	0
 Elworth Cricket Club	Sandbach	A	11
@@ -2742,6 +2728,7 @@ Enzen Global Limited	Solihull	A	0,4,7
 EOT Staines Ltd t/a eggham on toast	Staines	A	0
 Epicare Health Ltd T/A Epicare Health Pharmacy	Swindon	A	0
 Epion Technologies Ltd	Stirling	A	2
+Epoch AI Ltd	St Albans	A	0
 Eppendorf UK Limited	Stevenage	A	0,4
 eQ Technologic (UK) Limited	Solihull	A	0,4
 EQUAL FORCE SECURITY SERVICES LIMITED	Sheffield	A	0
@@ -2757,6 +2744,7 @@ Eric Robinson Solicitors	Southampton	A	0
 EROS HOME CARE SERVICES LTD	Southport	A	0
 ERP Experts (Europe) Limited	Stafford	A	0
 ES&P IT SOLUTIONS LIMITED	Solihull	A	0
+ESG Security Limited	Solihull	A	0
 Esker Limited	Spondon	A	0
 ESME SALES LTD	Sheffield	A	0
 Espere Healthcare Ltd	Shefford	A	0
@@ -2869,7 +2857,6 @@ Exus UK&I Limited	Salford	A	0,4
 EYRIES GROUP LIMITED	Stourbridge	A	0
 EZCORP UK Limited	Salford	A	0
 Ezee Accountants LTD	Stanmore	A	0
-EZONECORNWALL LIMITED	St Austell	A	0
 F & F SURBITON LTN LTD	Surbiton	A	0
 F. KLUCZNIK & SON LIMITED	Stoke-on-Trent	A	0
 F.C.L. FROZENS MANCHESTER LIMITED	Salford	A	0
@@ -3236,7 +3223,6 @@ Gateway Church Swindon	Swindon	A	9
 Gateway Psychology Limited	Stoke-on-Trent	A	0
 Gattica Associates Limited	Southsea	A	0
 GAUR SERVICES LIMITED	Slough	A	0
-GB Burga Limited	Southampton	A	0
 GB Copier Systems Ltd	Stoke-on-Trent	A	0
 GB Healthcare Hull Ltd	Sutton on Hull	A	0
 GB SRS BRUNDAVAN	Slough	A	1,10
@@ -3477,6 +3463,7 @@ Greenco Group Ltd	Salford	A	0
 Greencote Limited	Southampton	A	0
 Greenfields Dental Surgery	Shrewsbury	A	0
 Greenford High School	Southall	A	0
+Greenhill Medical Centre	Swansea	A	0
 Greenleaf Accountancy Limited T/ A Greenleaf Accountants	Stratford	A	0
 GreenLeaf Imports & Exports Limited T/A Greenleaf Catering & Event	Southall	A	0
 Greenleaves Homecare Services Limited	Stevenage	A	0
@@ -3530,6 +3517,7 @@ Guerbet Laboratories Ltd	Solihull	A	0
 Gul Arshad T/A Fairfield and Fold Practices	Solihull	A	0
 Gulfstream Falcons Dubai Limited	Spalding	A	0
 Gulz Deli Ltd	Stockport	A	0
+GULZAR HALAL POULTRY LTD	Shrewsbury	A	0
 GUNAMSONENTERPRISE LTD	South Shields	A	0
 Gungah Care Limited T/A Seathorne Court Residential Home	Skegness	A	0
 Gunna s Dream Ltd	Sussex	A	0
@@ -3666,6 +3654,7 @@ Harrytyres Ltd	Slough	A	0
 Harsim Ltd T/A Plan Burrito	Shrewsbury	A	0
 Hartlands Care Home Limited	Shrewsbury	A	0
 Hartlepool and Stockton Health Ltd	Stockton-on-Tees	A	0
+Hartrose Associates ltd	Sheffield	A	0
 HARTS LONDON LTD	Surrey	A	0
 Haruns Southport LTD TA Haruns Charcoal Grill	Southport	A	0
 Harvey & Thompson Limited	Sutton	A	0
@@ -3690,6 +3679,7 @@ Hayat & Bros Ltd	Stratford	A	0
 Haybrook College Trust	Slough	A	0
 Hayday Securities Ltd	Shatterford	A	0
 Haydock Medical Centre	St Helens	A	0
+Haydon Power Ltd	Stourbridge	A	0
 HAYES COURT CARE HOME	Surrey	A	0
 Hayes Hygiene Limited	Surrey	A	0
 Hayne Solutions Limited	Stratford upon Avon	A	0
@@ -3878,6 +3868,7 @@ Honey Mountain IT Solutions LTD	Slough	A	0
 Honey Transport LTD	Southall	A	0
 Honeyman Water Limited	Shildon	A	0
 Honeypot Medical Centre	Stanmore	A	0
+Honeysuckle Home Care Limited	Swindon	A	0
 Honor Care Limited	Smethwick	A	0
 Honorable Care Ltd	Stoke-on-Trent	A	0
 HOOFPRINTS TECHNOLOGIES LTD T/A CHETTINAD MESS	Stirling	A	0
@@ -3963,6 +3954,7 @@ I6 Media LTD	Sunderland	A	0
 IA Consultancy Services Ltd	Slough	A	0
 IA RESTAURANTS LTD t/a Subway	Strathaven	A	0
 IAC Accountants Limited	Slough	A	0
+IAM Technology Group Limited	Sheffield	A	0
 Ian Forbes Architect Limited	South Queensferry	A	0
 IBLAZE VAPE SALE LTD	Sale	A	0
 IBO SUTTON LTD T/A TURKNAZ SUTTON COLDFIELD	Solihull	A	0
@@ -4154,7 +4146,6 @@ International Sports Federation for Athletes with an Intellectual Impairment	She
 International Tin Association Ltd	St Albans	A	0
 Internet Consultants and Associates Ltd	Southampton	A	0
 Interspan Europe Limited	Shepperton	A	0,4
-Intraedge Limited	Solihull	A	0
 Inventor-e Limited	Solihull	A	0
 Invest In Care Ltd	Shrewsbury	A	0
 Investgrow Financial Services Ltd	Sutton Coldfield	A	0
@@ -4567,7 +4558,6 @@ Kido Schools UK Limited	Streatham	A	0,4,6
 Kier Group plc	Salford	A	0,4
 Kier Highways Limited	Salford	A	0
 Kier Ltd	Salford	A	0
-Kier Services Limited	Salford	A	0
 KILI ARTS LTD	Slough,	A	0
 Killyclooney Cricket Club	Strabane	A	11
 Kin&Co Enterprises Limited	Shoreham-By-Sea	A	0,4
@@ -4629,6 +4619,7 @@ Kohinoor of Kerala (Southampton) Limited	Southampton	A	0
 KOHINOOR RESTAURANT	Sudbury	A	0
 Kohlico Brands UK Ltd	Stanmore	A	0
 Kollider Project Limited	Sheffield	A	0
+Kolo Social Ltd	Sunningwell	A	0
 Konform Uk Limited	Sawbridgeworth	A	0
 KOOLAIR HVAC LTD	Slough	A	0
 Koolmill Systems Limited	Solihull	A	0
@@ -4696,6 +4687,7 @@ La Bella Luna Ltd	Surrey	A	0
 La Bella Vista Limited	St Leonards on sea	A	0
 la casita restaurant limited	St Ives	A	0
 La Juliana Polo UK	Sunninghill	A	11
+LA PARRILLA TAPAS BAR AND GRILL LTD	Sheffield	A	0
 La Petite Concierge Ltd	Shifnal	A	0
 Label Apparel Ltd	Salford	A	0
 Labl.it Solutions Ltd	Southampton	A	0
@@ -4741,7 +4733,7 @@ Lasan Group Management Ltd	Solihull	A	0
 Last Orders Food and Wine Ltd t/a Premier	South Yorkshire,	A	0
 Lata Technologies Limited	South Croydon	A	0
 Lateral Naval Architects Ltd	Southampton	A	0
-Lateralize Ltd	Stonehouse	A	3
+Lateralize Ltd	Swanage	A	3
 Latino Leisure South Ltd	Southampton	A	0
 Lattimer Ltd	Southport	A	0
 Launchchange Operations Ltd	Solihull	A	0,4
@@ -4826,6 +4818,7 @@ Lil-Lets UK Limited	Solihull	A	0
 Lily Healthcare & Supported Living	Stevenage	A	0
 LILYROSE CARE GROUP LIMITED	Stoke on Trent	A	0
 LIMA Networks LTD	Salford	A	0
+LIME SHOWROOMS LIMITED	Surbiton	A	0
 Limedine Ltd	Swansea	A	0
 Limpet Technology Limited	Stirling	A	0
 LIMRA SERVICES LTD - T/A Amana Bazaar-	Sheffield	A	0
@@ -4843,7 +4836,6 @@ Link Marketing Limited	Slough	A	0
 Link-net Ltd	Swindon	A	0
 Linked Engineering Ltd	Spalding	A	0
 LINKS B2B ENTERPRISE LTD	Southall	A	0
-LINKS SECURITY SERVICES LTD	Stockport	A	0
 Linktax Limited	Stoke on Trent	A	0
 LINKX AI LTD	Slough	A	0
 Linnaeus Group Bidco Limited	Shirley	A	0,4,7
@@ -4890,6 +4882,7 @@ Loadhog Limited	Sheffield	A	0,4
 Loading Center Logistics Ltd	Suffolk	A	0
 Loch Duart Plc	Scourie	A	0
 Loddon Healthcare Ltd	Slough	A	0
+LOG H NETWORK LIMITED	Southend-on-Sea	A	0
 LOGICMOVE STORAGE SOLUTIONS LIMITED	South Ockendon	A	0
 Logillistics Ltd	Sheffield	A	0
 LOGISTEED UK Limited	Sunderland	A	0
@@ -4942,6 +4935,7 @@ LR & EH YAPP & son	Shrewsbury	A	0
 LS & DAN INTERNATIONAL LTD	South Shields	A	0
 LSR Partners LLP	Stafford	A	0
 Lubkowski Saunders and Associates Limited	Sunbury on Thames	A	0
+LUC Group Limited	Swadlincote	A	0
 Lucideon Limited	Stone	A	0
 Lucidity London Limited	Slough	A	0
 LUCKY 7 STARS LTD	Sutton Coldfield	A	0
@@ -5012,6 +5006,7 @@ M R BROTHERS LIMITED T/A Brothers Peri Peri Hot And Sweet	Southend On Sea	A	0
 M R D SERVICE STATION LIMITED	Stourbridge	A	0
 M R S Supplies LTD	Stepney	A	0
 M SAAD'S LIMITED	Sheffield	A	0
+M SECURITY SERVICES LIMITED	Solihull	A	0
 M T SUPPORTED LIVING LTD	Swindon	A	0
 M TARIQ & SONS LTD	Stanmore	A	0
 M U Plant Hire Limited	Stoke On Trent	A	0
@@ -5103,9 +5098,7 @@ MAK SUB LTD	St Dials	A	0
 Makki Management Limited	Staines-Upon-Thames	A	0
 Malabar Foods Ltd	Slough	A	0
 MALABAR MAJLIS	Stoke-On-Trent	A	0
-Malaberg Ltd	Sheffield	A	0
 Malarville and Co Ltd	South Glamorgan	A	0
-Malay Home Limited t/a Malay Malay Home	Salford	A	0
 Malibu Manufacturing Ltd	St Albans	A	0
 MALIK RIAZ AND SONS LTD	Surrey	A	0
 Mallard Point Ltd	Stamford	A	0
@@ -5120,7 +5113,6 @@ Manchester Best Choice Ltd	Salford	A	0
 Manchester Neurotherapy Centre Limited	Salford	A	0
 Mandaloun Ltd	Shepherd Bush	A	0
 MANDEEP SINGH T/A PISCES	Shrewsbury	A	0
-MANI CONTRACTS LTD	Stanley	A	0
 MANJANIA & CO LTD T/A SanjeevJewellers	Southall	A	0
 Manjinder Kaur Khangura T/A Panjabi Meat Mart	Slough	A	0
 Manor and Park Group Practice	Sheffield	A	0
@@ -5184,7 +5176,6 @@ mary the great ltd	Scunthorpe	A	0
 MaryRuth Care Services Ltd	Sheffield	A	0
 MARYSVILLE MEDICAL PRACTICE	Shrewsbury	A	0
 MAS Logistics UK Ltd	Southall	A	0
-MASALA BAZAAR SWANSEA LTD	Swansea	A	0
 Masala Creations & Events Limited T/A Masala Creations	Southall	A	0
 MASALA INDIAN SPICE LTD T/A Aleeza's Finest Indian Cusine	Spennymoor	A	0
 Masala One Ltd	Southminster	A	0
@@ -5212,7 +5203,6 @@ Maxell Europe Limited	Slough	A	0,4
 MAXIGAIN LTD	Sussex	A	0
 MAXIM EYES (UK) LIMITED	Sutton	A	0
 Maximilian Italian Ltd	Swansea	A	0
-Maximillian & Co	Sharpthorne	A	0
 Maximum Impact Christian Centre (MICC)	Sunderland	A	1,9,10
 MAXIMUS SUPPORT SERVICES LTD	Shanklin	A	0
 MAXLIFE CARE LTD	Stoke-On-Trent	A	0
@@ -5244,7 +5234,6 @@ McCrone UK Limited	Southampton	A	0
 MCD Security Herts Limited	St Albans	A	0
 MCKIAN ENERGY SOLUTIONS LTD	Staines Upon Thames	A	0,2
 Mcmillan Leisure Ltd	Strathpeffer	A	0
-McMillan Woods	Sidcup	A	0
 MCP Consulting Group Ltd.	Solihull	A	0
 MCR 2022 LIMITED	Skelmersdale	A	0
 MCR VAPING LTD	Salford	A	0
@@ -5391,7 +5380,6 @@ Mirage Cigarettes Ltd	Sheffield	A	0
 MIRAGE DEVELOPMENTS LIMITED	Slough	A	0
 Miraj Retail Limited T/a Sam's Supersave	Sheffield	A	0
 Miranda Management and Accounting Services Limited	Southall	A	0
-MIRASANDKAILAH LTD	Salisbury	A	0
 Mirchi Indian Restaurant Ltd	Stoke on Trent	A	0
 Miri Design	St. Albans	A	0
 Mirrors & Glass (Stockport) Ltd	Stockport	A	0
@@ -5465,6 +5453,7 @@ Monitra Ltd	Salford, UK	A	0
 Monkey Puzzle Day Nursery, Surbiton	Surbiton	A	0
 Monkmoor Dental Practice Limited	Shrewsbury	A	0
 MONTANA BAKERY LTD	Slough	A	0
+Montel Group Ltd	Stockton-On-Tees	A	0
 MONTIREX LTD	Speke	A	0
 Monty's Bakehouse UK Limited	South Nutfield	A	0,4
 Monu Valley Ltd	Southsea	A	0
@@ -5557,6 +5546,7 @@ Mrs Gayathri Vigithran	Spennymoor	A	0
 Mrs Jamuna Brendra TA Alpine News and Food	Southampton	A	0
 Mrs K Thyaparan	St Albans	A	0
 Mrs Yogita Patel & Mr Sandipkumar Patel t/a Ferry Lane Mini Market	Stanley	A	0
+MRVKS LTD	Staines-Upon-Thames	A	0
 MS Accounting Services	Sheffield	A	0
 MS Bakery Workshop Ltd	Sheffield	A	0
 MS Handasah Consultants Limited	Swindon	A	0
@@ -5623,7 +5613,7 @@ Mystery Southampton Ltd	Southampton	A	0
 MYT Accounts Limited	Sutton	A	0
 Mytton Oak Surgery	Shrewsbury	A	0
 MZ RESTAURANT (STOKE) LTD	Stoke On Trent	A	0
-N & C Management Ltd t/a Joyato Sushi & Grill	Swansea	A	0
+N & C Management Ltd	Swansea	A	0
 N & S Retailers UK Ltd	Stanley	A	0
 N A KHERA LIMITED	Stratford Upon Avon	A	0
 N&B Foods Ltd	Swindon	A	0
@@ -5668,7 +5658,6 @@ NATIONAL VETERINARY SERVICES LIMITED	Stoke-on-Trent	A	0,4
 Nationwide Building Society	Swindon	A	0
 Nationwide Lifts & Escalators Ltd	Sunderland	A	0
 Nationwide Roofing (Southern) Limited	Shoreham-by-sea	A	0
-NATURA CARE SOLUTIONS LIMITED	Slough	A	0
 Natural Exotica Ltd	Sandy	A	0
 NATURAL SCIENCES MUSEUM RESEARCH LTD	Sheffield	A	0
 Naturecan Ltd	Stockport	A	0
@@ -5776,7 +5765,7 @@ NEXIK LIMITED	Slough	A	0
 NEXIM GLOBAL LIMITED	Stoke-on-Trent	A	0
 Nexperia UK Ltd	Stockport	A	0,4,7
 Nexsys Solutions Limited	Salford	A	0
-Next Generation Construction Ltd	Slough	A	0
+Next Generation Construction Ltd	Slough	B	0
 Next Reach Ltd	Slough	A	0
 Next Steps Mental Health Limited	Sale	A	0
 Next Stone UK Ltd	Southsea	A	0
@@ -5814,6 +5803,7 @@ Nightingale Care Support	Stourbridge	A	0
 Nightingale Cottage Limited	Sandhurst	A	0
 Nightingales Community Care Ltd	Stockton-on-tees	A	0
 NIH Clinics Limited	Sparsholt	A	0
+NIJJAR SWEET CENTRE & CATERING SERVICES LTD	Smethwick	A	0
 Nijjar Transport (Slough) Limited	Slough	A	0
 Niku Bar & Restaurant	Surbiton	A	0
 Nim's Fruit Ltd	Sittingbourne	A	0
@@ -5943,7 +5933,6 @@ O'Neills Irish International Sports Company Limited	Strabane	A	0
 Oak Tree Lodge	Southampton	A	0
 Oakamoor Cricket Club	Stoke-on-Trent	A	11
 Oakes ElectricalSolutionsLtd	Studley	A	0
-Oakfield Pharma Ltd	St Helens	A	0
 Oaklands College	St Albans	A	0,11
 Oaklands Manor Care Home Ltd T/A Oaklands Manor Nursing Home	Saltburn-by-the-sea	A	0
 Oaklands Rest Home	Southampton	A	0
@@ -5962,6 +5951,7 @@ Oasis Care Solutions Ltd.	St. Ives	A	0
 Oasis Land Development Ltd	Southport	A	0,4
 Oasis Stores	Sheerness	A	0
 Oat Services Ltd	Southampton	A	0
+Obee Ltd T/A Bliss Care Home	Southend-On-Sea	A	0
 Objective Care Ltd	Southall	B	0
 Observational and Pragmatic Research International Ltd	Sankence	A	0
 OBSERVATORY NEWS SLOUGH LIMITED	Slough	A	0
@@ -6037,7 +6027,6 @@ Op-tec Systems Ltd	Stockport	A	0
 Opal Banqueting Ltd	Smethwick	A	0
 Opal Food Processing Systems Limited	St Ives	A	0
 Opay Holding Limited	St Albans	A	0
-Open Cages Advocacy Ltd	Sutton	A	0
 Openwork Services Limited	Swindon	A	0
 Opteran Technologies Ltd	Sheffield	A	0
 Optical Metrology Services LTD	Stansted	A	0
@@ -6061,6 +6050,7 @@ Orchard Hill College Academy Trust	Sutton	A	0
 Orchard house (midlands) limited	Sutton Coldfield	A	0
 Orchard Surgery	Stoke on Trent	A	0
 Orci Trials Limited	Solihull	A	0
+Orcion Systems Limited	Slough	A	0
 Ordnance Survey Ltd	Southampton	A	0
 ORDU LIMITED	Southampton Hampshire	A	0
 Orege UK Limited	Stoke-on-Trent	A	0,4
@@ -6075,7 +6065,6 @@ Original Limited	Shrewsbury	A	0
 Origins Group Ltd	Shropshire	A	0
 Orion (GB) Limited	Southall	A	0,4
 Orion Care Services (MIDLANDS) LTD	Solihull	A	0
-Orion Innovation Solutions UK Limited	Stevenage	A	0
 Orkney Crab	Stromness	A	0
 ORLIGHT LIMITED	St Albans	A	0
 ORM Systems UK Ltd	Stanmore	A	0
@@ -6139,7 +6128,6 @@ P & V RETAIL LTD T/a One Stop	Sutton Bridge	A	0
 P J COMMERCIALS LIMITED	Smethwick	A	0
 P MULRINE AND SONS SALES (U.K.) LIMITED	Strabane	A	0
 P N A Trading LTD	Skegness	A	0
-P W Circuits Ltd	South Wigston	A	0
 P&K Distributors Ltd	St Albans	A	0
 P&V Trading Ltd	Staines-upon-Thames	A	0
 P3 Autos Limited	Slough	A	0
@@ -6262,6 +6250,7 @@ Paul Nicholls Racing Ltd	Somerset	A	0
 Paul's Fruit & Veg (Western International) Ltd	Southall	A	0
 Paulo's Soul&Heart, Ltd	Sutton	A	0
 PAV Haulage Limited	Stanford-Le-Hope	A	0
+Paxigate Healthcare Limited	St Neots	A	0
 PAXTON HALL CARE LTD T/A Paxton Hall Care Home	St Neots	A	0
 PB72 LIMITED	Sutton Coldfield	A	0
 PBS4 U.K. Limited	Southampton	A	0
@@ -6389,7 +6378,6 @@ Pipeshield International Ltd	Suffolk	A	0
 Pips Nursery Ltd	Saffron Walden	A	0
 PIRAJEETH RETAIL LIMITED	St Austell	A	0
 Pirelli UK Tyres Limited	Staffordshire	A	0,4
-Pirsook Limited	Sale	A	0
 Piteau Associates UK Ltd	Shrewsbury	A	0
 PITRUCHAYA LIMITED	Suffolk	A	0
 PITSTOP CAR & COMMERCIAL AUTOMOTIVE SERVICES LTD	Sheffied	A	0
@@ -6495,6 +6483,7 @@ PRAX ENGINEERING LTD	Saint Ives	A	0
 PRAYER MISSION EUROPE	Surrey	A	1
 Prayer Storm	Stockport	A	1,9,10
 Preci-Spark Limited	Syston	A	0
+PRECIOUS LONDON LIMITED	Shenley	A	0
 PRECISE BEAUTY & AESTHETICS LTD	Southampton	A	0
 Precise Brows & Beauty Limited	Southampton	A	0
 Precision Pharma Ltd	Slough	A	0
@@ -6644,6 +6633,7 @@ Pure Catering and Services Ltd t/a AN&	Southall	A	0
 Pure Energi Limited	Sheffield	A	0
 Pure Environs Ltd	Slough	A	0
 Pure first care services	Saltash	A	0
+PURE N SURE LIMITED	Sale	A	0
 Pure Physiotherapy	Sheffield	A	0
 Pure Storage UK Limited	Staines upon Thames	A	0,4
 Pure Vision Eye Care Limited	Sheffield	A	0
@@ -6662,6 +6652,7 @@ PVR & CO. LTD	Stanley	A	0
 PW&EK Harris Taxi Hire Ltd	Swansea	A	0
 PWM UK Limited	Sawbridgeworth	A	0
 Pynnacle Assets Ltd	Stanmore	A	0
+Pynnacle Properties Limited	Stanmore	A	0
 Pyramid Pharma 7 Ltd	Stockton-on-Tees	A	0
 Pyroban Limited	Shoreham-by-Sea	A	0
 Q Chi Limited	Swindon	A	0
@@ -6818,6 +6809,7 @@ Rascor UK Ltd.	Slough	A	0
 Rasheed Gold limited	Sheffield	A	0
 RASOI OF SANDY LTD	Sandy	A	0
 RATHEEPAN ANANTHARAJAH	Stourbridge	A	0
+Rathi Ltd	Southampton	A	0
 RATTIC PEST CONTROL LTD	Slough	A	0
 Rattlerow Farms Ltd	Stradbroke	A	0
 Rautela & Rathaurstornoway Limited t/a Masala Magic	Stornoway	A	0
@@ -6853,8 +6845,7 @@ Reading Foods Ltd	Slough	A	0
 Real Dreams Consultancy Services Limited	South Harrow	A	0
 Real Resource Ltd	Slough	A	0
 Real Village Feast Ltd	Surrey	A	0
-Realm Staffing Solutions Ltd	Stevenage	A	0
-Rebuyer Limited	Sunderland	A	0
+Rebecca Menzies Racing	Sedgefield	A	0
 Reckitt Benckiser Group Plc	Slough	A	0,4,7
 RECOM Solutions Ltd	Salford	A	0
 Record Packaging Systems Ltd	Stretford	A	0
@@ -6863,7 +6854,6 @@ RED APPLE FOOD LTD	Stoke-On Trent	A	0
 RED BRICK UK CONSTRUCTIONS LTD	Smethwick	A	0
 RED CHILLI FLAVOUR LTD	Surrey	A	0
 RED CHILLY LIMITED	Stratford-Upon-Avon	A	0
-Red Construction Ltd	Solihull	A	0
 RED DRAGON SERVICE STATION LTD	Southampton	A	0
 RED MIRACLE (SOUTHALL) LIMITED T/A Dominos	Southall	A	0
 RED MIRACLE T/A Dominos	Shrewsbury	A	0
@@ -6952,6 +6942,7 @@ Restful Homes Group Ltd	Stonnall	A	0
 RETAIL SOURCE LTD CHESTER LTD	Southport	A	0
 Rethink Rebuild Society	Stockport	A	0
 Reto Care Limited	Stoke-on-Trent	A	0
+Retrofit Clicks Ltd	Slough	A	0
 REV INFO SOLUTIONS LTD	Sonning	A	0
 Revix UK Limited	St Albans	A	0
 REXTECH UK PRIVATE LIMITED	Staines-Upon-Thames	A	0
@@ -7091,7 +7082,6 @@ ROOFING EXCELLENCE & BUILDING SERVICES LTD	Southall	A	0
 ROOSTER PIRI PIRI LTD	Southampton	A	0
 Rooster Shack	Surrey	A	0
 Root-Power Limited	Salford, Manchester	A	0
-ROOTS KITCHEN LTD	Salford	A	0
 Roots Systems Limited	Stonehouse	A	0
 Roots Systems Ltd	Stonehouse	A	0,4
 Rootstack Ltd	Surrey	A	0
@@ -7108,12 +7098,11 @@ Rosemont Care (Medway) Limited	Strood	A	0
 RosenManor Ltd	Streatham	A	0
 Rosevilla Care Home Stafford Limited	Stafford	A	0
 ROSEWALK TEYNHAM LTD	Sheffield	A	0
-Rosewood & Brook House Ltd	Somerset	A	0
+Rosewood & Brook House Ltd	Somerset	B	0
 rosguill Developments Ltd	Shenley	A	0
 Roshaal Limited T/A Subway	Surrey	A	0
 Roshini Care Home Ltd	Southall	A	0
 Ross-shire Diving Services Ltd	Strathcarron	A	0
-Rossi (Southend on Sea) Ltd	South Woodham Ferrers	A	0
 Rosy Hair & Beauty	Stourbridge	A	0
 Rother Valley South PCN LTD	Sheffield,	A	0
 ROTINAANWALA SLOUGH LTD	Slough	A	0
@@ -7240,7 +7229,6 @@ SAFETY, TECHNOLOGY & LEGISLATION LIMITED	Swindon	A	0
 SAFFRON BLUES CAFE LIMITED T/A SAFFRON BLUES CAFE	Salisbury	A	0
 Saffron Private Limited	Swindon	A	0
 Saffron Restaurant & Bar Ltd	Shetland	A	0
-Saffron Shropshire Ltd	Shropshire	A	0
 Saffron Walden Cricket Club	Saffron Walden	A	11
 Safi Auto Services Limited	Solihull	A	0
 Safintlon Limited	Stanmore	A	0,4
@@ -7262,6 +7250,7 @@ Sai Jyoti Limited T/A Dallas Food Stores	Southampton	A	0
 Sai Krupa Enterprise Ltd	Smethwick	A	0
 SAI STORES LIMITED T/A TEXACO NORWOOD SERVICE STATION	Sheffield	A	0
 SAI Structural Design Ltd	South Croydon	A	0
+Sai Subha Limited	Solihull	A	0
 Saicho Ltd	Solihull	A	0
 SAIFLINK GLOBAL LTD	Shotts	A	0
 SAINDAK CONSTRUCTION LTD	Stoke-On-Trent	A	0
@@ -7301,6 +7290,7 @@ Salto Systems Ltd	Southam	A	0
 Salus Care Wales ltd	Swansea	A	0
 Sam and Franco Manchester Limited	Salford	A	0
 SAM AND RAJ TRADING LIMITED	Southall	A	0
+Sam Solicitors Ltd t/a Sam Solicitors	Surrey	A	0
 SAMA Group Ltd	Southwark	A	0
 SAMA REAL ESTATE LTD	Solihull	A	0
 SAMAN NEWS	Stratford	A	0
@@ -7423,6 +7413,7 @@ SCHOONER WINES	St Helens	A	0
 Schreiber Foods UK Limited	Stonehouse	A	0,4
 Schwarzthal Tech Ltd	Stanmore	A	0
 Schweitzer Engineering Laboratories UK Limited	Stafford	A	0,4
+SCI Semiconductor Limited	Sheffield	A	0
 SCL Education & Training Limited	Sandhurst	A	0
 Scntrum Services Limited	Stanmore,	A	0
 Scoops Portswood Limited	Southampton	A	0
@@ -7481,6 +7472,7 @@ SEDAMYL UK LTD	Selby	A	0,4,7
 Sedbergh Hotel Enterprises Limited (The Black Bull)	Sedbergh	A	0
 Sedbergh Schools Group	Sedbergh	A	0,3
 SEDGEMOOR SERENITY SERVICES LTD	Stoke-On-Trent	A	0
+Sedrow Ltd	Stockport	A	0
 SEEMAS BEAUTY SALON LTD	Southampton	A	0
 Seer Green Baptist Church	Seer Green, Beaconsfield	A	10
 SeerBI	Stockton On Tees	A	0
@@ -7573,6 +7565,7 @@ SHARIEF HEALTHCARE LIMITED	St Helens	A	0
 Sharks basketball Ltd	Sheffield	A	11
 Sharp Brains Global Limited	Slough	A	0
 Sharp Brains Limited	Slough	A	0
+SHARPER LABS HR AND LEGAL CONSULTANCY LTD	St. Albans	A	0
 SHARVA TECHNOLOGY AND MANAGEMENT LIMITED	Slough	A	0
 SHARVESH ARUN LTD	Staffordshire Moorlands	A	0
 Shaws Cars Ltd	Shefford	A	0
@@ -7846,6 +7839,7 @@ SME INVESTMENTS LIMITED	South Ruislip	A	0
 Smethwick Bangladeshi Muslim Welfare Association	Smethwick	A	1
 SMG Builders and Developers Ltd	Slough	A	0
 SMH001 Limited	Sheffield	A	11
+SMI Grill Limited	Stourport On Severn	A	0
 SMIIT Ltd	Slough	A	0
 Smile Care Pocklington Limited	Slough	A	0
 Smile Care York Limited	Slough	A	0
@@ -7892,7 +7886,6 @@ Software Works For You Ltd	Sevenoaks	A	0
 sohail transport ltd	Stockport	A	0
 Soham Lodge	Soham	A	0
 Soham UK Corporation Ltd	Sale	A	0
-Sokol Petriti T/A Toms Kitchen LTD	Shepperton	A	0
 SOL4R ENERGY LTD	Sutton	A	0
 SOLACE COMFORTS LIMITED	Stockport	A	0
 Solace Prime Care LTD	Sheffield	A	0
@@ -8126,7 +8119,6 @@ SS Cloud Consulting Limited	Sheffield	A	0
 SS LOGISTICS LTD	Slough	A	0
 SS Sandhu Construction Ltd	Southall	A	0
 SSA Systems Limited	Sidcup	A	0
-SSC Bradford Ltd	Stockport	A	0
 SSDN Health Care Ltd	Swansea	A	0
 SSG NORTH EAST LIMITED	Southshields	A	0
 SSJB Contractors Ltd	Slough	A	0
@@ -8233,7 +8225,6 @@ STAR OF EAST MOLESEY LTD	Surrey	A	0
 Star of India	South Shields	A	0
 STAR OF MOLESEY LTD T/A Surbiton Charcoal Grill	Surbiton	A	0
 STAR ORIENTAL TRADING LTD	Southampton	A	0
-Star Private Hire Staffs Ltd	Stoke-on-Trent	A	0
 Star Sons Ltd	Smethwick	A	0
 STAR SRI UK LTD T/A Cumberland Court Care Home	St Leonards On Sea	A	0
 STAR STERLING (OUTSOURCING) LIMITED	Solihull	A	0
@@ -8250,6 +8241,7 @@ Startrade Ltd	Slough	A	0
 STATION CONVENIENCE STORE LIMITED	Southend On Sea	A	0
 Station Store	Southgate	A	0
 STATOYS LIMITED	Stoke On Trent	A	0
+Stay Plus Serviced Accommodation Ltd	Southampton	A	0
 Stayley Cricket Club	Stalybridge	A	11
 STB PIZZA LTD	St. Leonards-On-Sea	A	0
 STC TEAMWEAR LIMITED	Suffolk	A	0
@@ -8272,6 +8264,7 @@ Stepan UK Ltd	Stalybridge	A	0,4
 Stephen Joseph Theatre	Scarborough	A	0
 Steps Rehabilitation Limited	Sheffield	A	0
 Steps Together Rehab (St Helens) Ltd	St Helens	A	0
+STERLING CARE SOLUTIONS GROUP LIMITED	Sunderland	A	0
 Sterling Estates Management Limited	Stanmore	A	0
 STERLING STUDY LTD	South Woodford	A	0
 Stevenage Bangladeshi Cultural Center	Stevenage	A	1,10
@@ -8504,7 +8497,6 @@ Swansea University	Swansea	A	0,3,12
 Swansea Visionplus t/a Specsavers Limited	Swansea	A	0
 SWANSOFT LTD	Stotfold, Hitchin	A	0
 Swanzdale LTD	Scarborough	A	0
-SWAP Architects Limited	Shirley	A	0
 SWASTIK GROUP LIMITED	Sheffield	A	0
 Swaze Logistics Limited	Southall	A	0
 SWC RETAILER LTD T/A USave	Shotts	A	0
@@ -8669,6 +8661,7 @@ TECHCIRRUS LTD	Southall	A	0
 TECHCOM COMPUTER REPAIRS LIMITED T/A BROADWAY MOBILES & COMPUTERS	Surrey	A	0
 Techedia Ltd	Southport	A	0
 TECHLOGIC IT SERVICES LIMITED	Sutton	A	0
+TECHMARK SOLUTIONS LTD.	Southampton	A	0
 Technicut Ltd	Sheffield	A	0
 Technoace Limited	Sutton	A	0
 TECHNOFY LTD	Swindon	A	0
@@ -8713,6 +8706,7 @@ Terry Foods Ltd	Stoke-On-Trent	A	0
 TES Global Limited	Sheffield	A	0,4
 TESHO CONSTRUCTION LTD	Sutton	A	0
 Tessellate Bio Limited	Stevenage	A	0
+Testcard Limited	Scarborough	A	0
 Testwood School	Southampton	A	0
 TEXAS GRILL (SOUTHAMPTON) LTD	Southampton	A	0
 Texas Grill House Ltd	Slough	A	0
@@ -8720,7 +8714,6 @@ Texon Non Woven Ltd	Skelton	A	0,4
 TFC Chicken and Pizza Ltd	Southall	A	0
 TFF Group Limited	Sutton Coldfield	A	0
 TFix	Surrey	A	0
-TFU Ltd	Sheffield	A	0
 TFU Ltd t/a Go Local	Sheffield	A	0
 TGS AUTOMOTIVE LIMITED	Stoke on Trent	A	0
 TH Languages Ltd t/a Talking Heads	Sheffield	A	0
@@ -8739,7 +8732,6 @@ THAMESWOOD VETERINARY CLINIC	Swindon	A	0
 Thams Brothers Ltd	Stoke-on-Trent	A	0
 THANGA SEA FOOD AND GROCERY LTD	Southall	A	0
 Thanus Retail Ltd	Sevenoaks	A	0
-Tharai Ltd	Surrey	A	0
 Tharsiny Saykamalan T/A Fir Street Express	St Helens	A	0
 Thash Ltd	Spalding	A	0
 Thatchers (2017) Ltd t/a Fletchers & Dosani Accountants	Sutton	A	0
@@ -8763,7 +8755,6 @@ The Barber House (Stoke) Ltd	Stoke on Trent	A	0
 The Bark Book Ltd T/A Lords and Labradors	Stickney	A	0
 The Bay CE School	Sandown	A	0
 The Bay Medical Practice	Sandown	A	0
-The Beauty Alliance International Ltd	Stanmore	A	0
 The Bedford Hotel	Sidmouth	A	0
 The Beehive Enterprise Ltd	Southampton	A	0
 The Beenstock Home Management Co LTD.	Salford	A	0
@@ -8806,7 +8797,6 @@ The Data Capital Group	Stockport	A	0
 The Davan Group Limited	Saxilby	A	0
 THE DEN FIGHT CENTRE LIMITED	Spalding	A	0
 The Dental Suite	Southampton	A	0
-The Developer Academy	Sheffield	A	0
 The Dharma Trust	Saffron Walden	A	1,10
 The Diamond Learning Partnership Trust	St. Neots	A	0
 THE DIAMOND OF SHOTTS LIMITED t/a Koh I Noor	Shotts	A	0
@@ -8930,7 +8920,6 @@ The Performants Group Limited (Trading as T-minus)	St Albans	A	0
 The Physiotherapy Centre( Sittingbourne) Ltd	Sittingbourne	A	0
 The Pirbright Institute	Surrey	A	0,9,12
 The Place Up Hanley Limited	Stoke on Trent	A	0
-The Plough Inn	Southall	A	0
 The Plume of Roses Catering Ltd t/a The Plume of Feathers	Sherborne	A	0
 The Poppies Care Home Limited	South Humberside	A	0
 THE PRINT INN LIMITED	Slough	A	0
@@ -9049,6 +9038,7 @@ Threeways Petrol Station Ltd	Sutton	A	0
 Threeways Surgery	Stoke Poges	A	0
 Thrive Therapeutic Software Limited	Stratford Upon Avon	A	0
 Thumhara Centre	Stockton on Tees	A	0
+THURAYOGA LTD	Sudbury	A	0
 Thushya Inthirakumar T/A Four Seasons Supermarket	St Leonards-on-sea	A	0
 Thuyan Investments limited	Surrey	A	0
 Tidal and Co Limited	Southfields	A	0
@@ -9087,7 +9077,6 @@ TLR Ltd	St Albans	A	0
 TLV VIP Ltd	Stanmore	A	0
 TM Group (UK) Ltd	Swindon	A	0
 TM Impact Ltd	Slough	A	0
-TMF IMMIGRATION LAWYERS LTD	Salford, Manchester	A	0
 TMK DELIVERY SERVICE LTD	Stoke-On-Trent	A	0
 TMRK LTD	Stourbridge	A	0
 TMWI Limited	Stratford Upon Avon	A	0
@@ -9103,7 +9092,6 @@ Tom Walters Equine Vets	Somerford	A	0
 TOM YAMAN PUBS LTD	Southsea	A	0
 TOMASZDYL PR LTD	Southampton	A	0
 Tomberries Nursery	Southfields	A	0
-TOMSON CONSULTING LTD	Stocksbridge	A	0
 Tongham Curry House Ltd	Surrey	A	0
 TONGHAM TRADING LIMITED TRADING AS NISA LOCAL	Surrey	A	0
 Tonkotsu Limited	Sudbury	A	0
@@ -9141,6 +9129,7 @@ Total Homecare Professionals Ltd T/A Guardian Angel Carers Spelthorne, Elmbridge
 TOTAL MOTOR CARE UK LTD	Surrey	A	0
 Total Shred Limited	Stanmore	A	0
 TOTAL TOOLS LTD	Swaston	A	0
+Totally Living Care Limited	Salisbury	A	0
 TOTLEY PHARMACY LIMITED	Sheffield	A	0
 Totton and Eling Cricket Club	Southampton	A	11
 TOUCH OF YETTY LIMITED	Salford	A	0
@@ -9239,7 +9228,6 @@ Trustlink Care Services Ltd	Stoke on Trent	A	0
 TSHAANTH LIMITED	Sunderland	A	0
 TSHAN TRADE LTD	St. Leonards-On-Sea	A	0
 TSKD RETAIL LTD	Swansea	A	0
-TSN SOLUTIONS LTD	Staines Upon Thames	A	0
 Tsuki Global Limited	Sheffield	A	0
 TTF Racing Ltd	Sherborne	A	11
 TTONIC LIMITED	Sunderland	A	0
@@ -9253,6 +9241,7 @@ Tula Medical Negligence Experts Limited	Stafford	A	0
 TULIP MANAGEMENT LIMITED	Slough	A	0
 Tulsi Convenience Store Ltd	Southampton	A	0
 Tunstall Primary Care	Stoke on Trent	A	0
+TUPTON HEALTHCARE LIMITED	St. Helens	A	0
 Turkish Table Limited T/A Uni Kebab	Southampton	A	0
 Turrell Family Properties LTD	Swansea	A	0
 Turret Orthodontics Limited	Sale	A	0
@@ -9288,7 +9277,6 @@ Uday & Partap Enterprises Limited	Swansea	A	0
 UENS UK LIMITED	Staines Upon Thames	A	0
 UFA Distro Ltd	Salford	A	0
 Ufford Park Limited	Suffolk	A	0
-Uhlmann U.K. Limited	Sandhurst	A	0,4
 Uhmaar Limited	Sutton	A	0
 UHS Estates Limited	Southampton	A	0
 UK and Ireland SAP User Group Ltd	Stockton on Tees	A	0
@@ -9365,8 +9353,6 @@ Unity Homes Limited	Salford	B	0
 Unity Schools Trust	Staines	A	0
 UNITY'S A&R TRANSPORT LTD	Southall	A	0
 Univeristy of St Andrews Students' Association	St Andrews	A	0
-UNIVERSAL BARGAIN LTD	Salford	A	0
-Universal Distribution Ltd	Slough	A	0
 UNIVERSAL IMPORT EXPORT UK LTD	Southall	A	0
 Universal Services Trading Ltd	Sutton Coldfield	A	0
 UNIVERSAL SUPPORT SERVICES GROUP (USSG) LTD	Stockport	A	0
@@ -9394,8 +9380,8 @@ Uppal Convenience Stores Limited	Sandiway	A	0
 Upper Beeding Baptist Church: The Hub,Beeding	Steyning	A	1
 Upper Killay Congregational Church	Swansea	A	1,10
 Upper Shirley High School	Southampton	A	0
+Upperthorpe Medical Centre	Sheffield	A	0
 Upton Care Plus Ltd	Slough	A	0
-UPTON HOUSE	Sandwich	B	0
 UPTOWN STORES LTD	Stockport	A	0
 Upwell Street Surgery	Sheffield	A	0
 Urban Choola Limited TA Urban Choola	Sheffield	A	0
@@ -9564,6 +9550,7 @@ Visiting Angels Living Assistance Limited	Sheffield	A	0
 VISMA FOOD LTD	Stirling	A	0
 Visual Comfort Europe Limited	Shoreham-by-Sea	A	0
 VITALITY HOME HEALTH (SEVENOAKS) LTD	Sevenoaks	A	0
+VITALITY PHARMA LIMITED	Shenley	A	0
 Vitaplus UK Limited	Southall	A	0
 Vito's Osteria Ltd. T/A Vito's Osteria	Sunderland	A	0
 Viva La Visa Limited	Stowmarket	A	3
@@ -9633,7 +9620,6 @@ Walmley Cricket Club	Sutton Coldfield	A	11
 Walstead Roche Limited	St Austell	A	0
 Walter Heselwood Limited	Sheffield	A	0
 Walther Trowal Limited	Stoke on Trent	A	0
-Wan Plastering Limited	Slough	A	0
 WANTS & NEEDS LTD	Stourbridge	A	0
 Ward Power Limited	Sheffield	A	0,4
 Ward Williams Associates	Stonehouse	A	0
@@ -9681,6 +9667,7 @@ Wellbeing Residential Ltd	Sutton Coldfield	A	0
 Wellchime Ltd T/A April Court Care Home	Swansea	A	0
 Wellington Farm Shop Limited	Stratfield Saye	A	0
 Wellington Healthcare (Arden) Ltd	Southport	A	0
+WELLNESS CARE UK LTD	Stapeley	A	0
 Wells Street Corner Store	South Humberside	A	0
 Wellstern Gateways Limited	Southport	A	0
 WELS Church	Staines-Upon-Thames	A	1,10
@@ -9709,12 +9696,10 @@ WESTBROOK RETAIL LTD T/A FLAMSTEAD VILLAGE STORE & POST OFFICE	St Albans	A	0
 Westbury pizza ltd	Sailsbury	A	0
 Westbury Property Maintenance Ltd	Sidcup	A	0
 Westcliff Tyres Limited	Southend-On-Sea	A	0
-Westcore UK LLP	Surrey	A	0
 Westcroft Construction Services Ltd	Slough	A	0
 Western Auto Solutions Ltd	Slough	A	0
 Western Films Ltd	Southampton	A	3
 Western House Academy	Slough	A	0
-Western International Group (UK) Ltd	Smethick	A	0
 WESTERN LINK LIMITED	Suffolk	A	0
 Westfield Lodge Care Limited	Shropshire	A	0
 Westgate Communications Ltd	Sevenoaks	A	0
@@ -9724,7 +9709,6 @@ Westonvs Limited T/A Weston Village Stores & Post Office	Spalding	A	0
 westrop medical practice	Swindon	A	0
 Westville Limited	Shirebrook	A	0
 Westwire Harnessing Limited	Swindon	A	0
-WESTWOOD JOINERY & CONSTRUCTION LIMITED	Sheffield	A	0
 Westwoods Convenience Store Limited	Standon Ware	A	0
 Westwoodside Store Ltd T/A Westwoodside Store - Premier - Post Office	South Yorkshire	A	0
 Wetley Manor Care Home	Stoke-on-Trent	A	0
@@ -9759,6 +9743,7 @@ Wigen Coffee LTD	Southend On Sea	A	0
 Wika Instruments Limited	Sevenoaks	A	0,4
 Wilbraham Limited	Stoke on Trent	A	0
 Wildcat Law Ltd	Southampton	A	0
+Wilde Consultants Limited	Stockport	A	0
 Wildwood Church Stafford	Stafford	A	9
 Wilker UK Limited	Sandbach	A	0
 WILKS STREET MOT CENTRE LIMITED	Stoke On Trent	A	0
@@ -9774,6 +9759,7 @@ WILLOW CARE HOMES LTD T/A THE GRANGE	St. Leonards-On-Sea	A	0
 Willow Home Care Ltd	Shropshire	A	0
 WILLOW KLSD LIMITED, T/A Willow Pharmacy	Slough	A	0
 Willow Learning Trust	Sutton	A	0
+Willow View Care Home	Stockton-on-Tees	A	0
 Willow View Care LTD	Stockton	A	0
 Willowbrook Medical Practice	Sutton-in-Ashfield	A	0
 WILLOWMEAD RESIDENTIAL HOME LIMITED	Surrey	A	0
@@ -9833,7 +9819,6 @@ Woolley Brothers (Wholesale Meats) Ltd	Sheffield	A	0
 Woolmark International Pty Ltd	Surrey	A	0,4
 Woolston and Chartwell Partnership	Southampton	A	0
 Wordsley Spice Ltd	Stourbridge	A	0
-Work2gether Limited	Southall	A	0
 World By World UK Limited	Staines	A	0
 World of Clowns Ltd	Swindon	A	3
 World Trader Ltd	Sutton	A	0
@@ -9859,7 +9844,6 @@ Wychbury Medical Group	Stourbridge	A	0
 Wycliffe College (Incorporated)	Stonehouse	A	0
 WYL Enterprises Ltd	Sudbury	A	0
 Wyre Solutions Limited	Stourport On Severn	A	0
-Wyson Limited	Sutton Coldfield,	A	0
 WZW LIMITED	Sutton	A	0
 X D P Limited	Sutton Coldfield	A	0
 X Facilities Group Limited	Stanmore	A	0

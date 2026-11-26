@@ -12,6 +12,7 @@
 21D Bioengineering Ltd	Warrington	A	0
 21D Clinical Limited	Warrington	A	0
 24-7 Prayer	Woking	A	1
+24/7 MY MART LIMITED	Wolverhampton	A	0
 247 CARS (WILLENHALL) LIMITED	Willenhall	A	0
 2H Offshore Engineering Ltd	Woking	A	0,4
 2TECK LIMITED	Waterlooville	A	0
@@ -30,6 +31,7 @@
 3S Knowledge Limited	Warwick	A	0
 4 Stars Private Limited	Westcliff-on-Sea	A	0
 43 Harbour News Ltd t/a Harbour News	Whitstable	A	0
+45 Gleneagles Close , South Oxhey	Watford	A	0
 4g Joinery Ltd	Wetherby	A	0
 5 CARE SERVICES LIMITED	Walsall	A	0
 5 Rivers Transport Ltd	Willenhall	A	0
@@ -43,7 +45,6 @@
 8th Wonder Ltd.	Wigan	A	0
 @ Architect UK Ltd	West Horndon	A	0
 A & F NET SOLUTIONS LIMITED	West Drayton	A	0
-A & G SUPER STORE LTD	Wigan	A	0
 A & H PIRIPIRI LIMITED	Watford	A	0
 A & N Courier Ltd	Walsall	A	0
 A & S Supermarket Limited	West Bromwich	A	0
@@ -55,7 +56,6 @@ A J PIZZA WORCESTER LTD	Worcester	A	0
 A K HARDWARE & PLUMBING LIMITED	Walsall	A	0
 A P L CONSTRUCTION LTD	Wishaw	A	0
 A P TRAINING LTD	Wolverhampton	A	0
-A Park View Hotel	Wolverhampton	A	0
 A Park View Hotel (Wolverhampton) Ltd	Wolverhampton	A	0
 A Personal Mobile Ltd	West Drayton	A	0
 A Place to To taste	West Midlands	A	0
@@ -165,6 +165,7 @@ ACOM Aviation	Witney	A	0
 ACORN (WATFORD) LTD	Watford	A	0
 Acosta Dance Centre Limited	Woolwich	A	0,3
 ACRE CONTRACTORS (LONDON) LTD	Willesden	A	0
+ACRONOTICS LIMITED	Warlingham	A	0
 ACS Professionals in Construction Ltd	Wembley	A	0
 ACSI Europe Ltd	Watchfield	A	0
 Action 2 Care	Wellingborough	A	0
@@ -174,6 +175,7 @@ Active Friendly Support Ltd	Walkley	A	0
 Active Olive Healthcare Limited	Wellingborough	A	0
 Actonia Limited	Warwick	A	0
 Acumen Recruitment Limited	Winchester	A	0
+Acute Hoarding and Fencing Ltd	Watford	A	0
 AD OFF LICENCE	Warrington	A	0
 ADAJ LIMITED	Wembley	A	0
 ADAM Architecture Ltd	Winchester	A	0
@@ -419,7 +421,6 @@ Ankush Limited	Warlingham,	A	0
 Anmol Warrington Ltd	Warrington	A	0
 Ann Summers Ltd	Whyteleafe	A	0
 Anna's Aesthetics & Beauty Limited	Watford	A	0
-ANNAPOORANA FOODS LIMITED	Wolverhampton	A	0
 Annas Bar and Kitchen Limited	Whitehaven	A	0
 Anra Deals ltd	Windsor	A	0
 ANS Properties Constructions Limited	Watford	A	0
@@ -674,6 +675,7 @@ Barbuss (UK) Limited	Warwick	A	0
 BARGAIN BEERS	Wallasey	A	0
 Barhale Limited	Walsall	A	0
 Barham Global Limited	Watford	A	0
+BARHAM STORES LIMITED	Weymouth	A	0
 BARINDA (CHESHIRE) LTD T/A BARINDA	Wilmslow	A	0
 Barkham Village Store Ltd	Wokingham	A	0
 Barley Brook Care Home	Wigan	A	0
@@ -707,7 +709,6 @@ Beacon Cricket Club	Wombourne	A	11
 Beacon Haven Ltd	Weston-Super-Mare	A	0
 Beacon Hill School	Wallsend	A	0
 Beadlight Ltd	Witney	A	0
-Beamo Ltd	Willenhall	A	0
 BEATCHAIN LIMITED	Wadhurst	A	0
 BEAUTIZONE LTD	Wolverhampton	A	0
 BEAUTY BIRDIES LTD	Walsall	A	0
@@ -769,6 +770,7 @@ Beyond Support Limited	Wolverhampton	A	0
 BFC WOMBWELL LTD T/A BFC	Wombwell	A	0
 BGEN Ltd	Warrington	A	0
 BGF 4 Limited	Walsall	A	0
+BGF 4 Limited T/a German Doner Kebab	Walsall	A	0
 BH Productions and Management Ltd	Walsall	A	0
 BHAKTIVEDANTA MANOR LIMITED	Watford,	A	0
 Bhandal Care Group (1st Care UK) Ltd	Woodhall Spa	A	0
@@ -799,7 +801,6 @@ Bio-Rad Laboratories Ltd	Watford	A	0
 Biopak (UK) Ltd	Worcester	A	4
 Biopharma Process Systems	Winchester	A	0
 Bioptix Ltd	Witney	A	0
-BIRCHFIELD HOTEL LTD	Weston supre mare	A	0
 Birchfield School	Wolverhampton	A	0
 Birchills Health Centre	Walsall	A	0
 BIRCHWOOD CHILDRENS SERVICES LIMITED	Warrington	A	0
@@ -1044,7 +1045,7 @@ Car Deal Limited	Wokingham	A	0
 Car Hut Walsall Limited	Walsall	A	0
 Caram Ltd	Wolverhampton	A	0
 Carbon Magics Ltd	Wickwar	A	0
-Carbon Rewind	Wokingham	A	0
+Carbon Rewind	Watford	A	0
 CARE 2 U LIMITED	Walsall	A	0
 Care 4 Care Services Ltd	Wimbledon	A	0
 Care and Support Staff Limited	Worcester	A	0
@@ -1177,7 +1178,6 @@ CHECKOUT (WIMBLEDON) LIMITED	Wimbledon	A	0
 CHEEKY MONKEY LONDON LTD	Watford	A	0
 Chelsea Painters And Decorators Ltd	Wembley	A	0
 CHELSTON PARK NURSING & RESIDENTIAL HOME LTD	Wellington, Somerset	A	0
-CHEP UK Ltd	Weybridge	A	0,4
 CHERI PAREKH LIMITED	Wellingborough	A	0
 Cherry Care Services Oxfordshire Ltd	Witney	A	0
 Cherry Hill Children's Day Nursery Ltd	Wrexham	A	0
@@ -1253,6 +1253,7 @@ Clatterbridge Cancer Centre NHS Foundation Trust	Wirral	A	0
 Claverley Medical Practice	Wolverhampton	A	0
 Clean Earth Energy Limited	Wadebridge	A	0
 CLEANUX CHEMICALS LTD	Waltham Abbey	A	0
+Clearfield Envirotech	Winsford	A	0
 Clearwater Fine Foods (Europe) Limited	Windsor	A	0
 Click Solutions Limited	Wembley	A	0
 Clictic Consulting Ltd	Watford	A	0
@@ -1379,6 +1380,7 @@ Costcutter	Welling	A	0
 COSTCUTTER	Wolverhampton	A	0
 Coton Care Limited	Wolverhampton	A	0
 Cotswold Farm Hideaway Limited	Wotton-under-Edge	A	0
+COTSWOLD MEDICAL CLINICS LTD Trading As The Cotswold Physio Rooms	Witney	A	0
 Cottonmill linen Limited	Welwyn Garden City	A	0
 Cougar Automation Limited	Waterlooville	A	0
 Countfire Limited	Wimbledon	A	0
@@ -1412,7 +1414,6 @@ CREAT3D Ltd	Wokingham	A	0
 Creating New Beginnings Charity	Wembley	A	9
 Creation Fest Limited	Wadebridge	A	1,3,9
 Creative Design & Printing Limited	West Midlands	A	0
-Creative Support Solutions Ltd	Witham	A	0
 Creative Synergies Consulting Limited	Warwick	A	0,4
 CREDENCE CONNECTIONS UK LTD	Witham	A	0
 Crest Medical LTD	Warrington	A	0
@@ -1436,7 +1437,6 @@ Crossways Healthcare Limited T/A Crossways Care Home	West Sussex,	A	0
 Crown Packaging Manufacturing UK Ltd	Wantage	A	0,4
 Crown Pavilions Limited	Watlington	A	0
 Crown Polishing and Plating Company Limited	Wolverhampton	A	0
-Crowne Plaza Reading East	Wokingham	A	0
 Crowstone Dental Centre Ltd	Westcliff-on-sea	A	0
 Crowthorne Care Surrey LTD	Woking	A	0
 Croydon Granite Ltd	Warlingham	A	0
@@ -1470,6 +1470,7 @@ Cuzzies Properties Ltd	Worcester	A	0
 CVK INFOTECH LTD	Watford	A	0
 CX Studios Limited	Watford	A	0
 Cyclife UK Limited	Workington	A	4
+Cygnet Health Care Ltd	West Malling	A	0
 Cytec Engineered Materials Ltd	Wrexham	A	0,4
 Czech-Pol Ltd T/A Medical Dent	West Bromwich	A	0
 D & H LAMAMA LIMITED	Wigan	A	0
@@ -1761,7 +1762,6 @@ East Suffolk Services Limited	Woodbridge	A	0
 Eastern Spice (South West) Ltd	West on Super Mare	A	0
 Easthampstead Park Hotel	Wokingham	A	0
 Eastmoor Health Centre	Wakefield	A	0
-Eastwood Park Limited	Wotton-under-Edge	A	0
 EASYFLY TRAVEL LIMITED	Wembley	A	0
 EasyPrint T-Shirts Limited	Wickford	A	0
 Easysoft Ltd	Wetherby	A	0
@@ -1776,7 +1776,7 @@ EC Sports Physiotherapy Limited	Welwyn	A	0
 ECHO HEALTHCARE SERVICES LIMITED	Waltham Abbey	A	0
 ECHO SUPPORTED LIVING SERVICES LTD	Walsall	A	0
 ECHODIGITECH LTD	Wolverhampton	A	0
-Eclipse 26 - Trading as Piglets Pantry Ltd	Worthing	A	0
+Eclipse 26 Ltd - Trading as Piglets Pantry	Worthing	A	0
 ECO GREEN CANOPY LTD	Warrington	A	0
 ECO VIRAL LTD	Wallasey	A	0
 Ecolution Group Limited	West Malling	A	0
@@ -1805,7 +1805,6 @@ EFJ CONSULTING LTD	Welling	A	0
 EGG FREE CAKE INN WOLVERHAMPTON LTD	Wolverhampton	A	0
 Eggfree Cake Inn Ltd T/A Cake Inn	Wellingborough	A	0
 Eggwala ltd.	Wembley	A	0
-EGREMONT NICE STORE LTD	Wirral	A	0
 EHAWKS LIMITED	Watford	A	0
 EIGHT PEAKS DINE LTD	West Bromwich	A	0
 EK Facades Ltd	Welling	A	0
@@ -1855,7 +1854,6 @@ EMBY PRODUCTS LTD	Westlea	A	0,3
 EMKA CONSTRUCTION LTD	Woodford Green	A	0
 EMKAY TRADERS LTD	Wembley	A	0
 EMMA'S BEAUTY (EPSOM) LIMITED	Woking	A	0
-EMOCIAL LIMITED	West Ealing	A	0
 EMPAMIC CARE LIMITED	Wolverhampton	A	0
 EMPIRE FINE JEWELLERS LTD.	Wilmslow	A	0
 Empire Physiotherapy Ltd	Winnersh	A	0
@@ -1986,6 +1984,7 @@ EXECUTIVE SPORT LIMITED t/as Leaders UK	Wimbledon	A	0
 Exevion Limited	Woking	A	0
 Exheat Ltd	Watton	A	0
 exida UK	Warwick	A	0
+Exonea Health Ltd	Wolverhampton	A	0
 EXP UK SERVICES LTD	Walsall	A	0
 Experience Engine	Witham	A	0
 EXPERT CARE UK SERVICES LTD	Walton On Thames	A	0
@@ -2126,6 +2125,7 @@ Footsteps Ltd	Wallingford	A	0
 Footsure UK Limited	Wymondham	A	0
 For Everybody Limited	Wolverhampton	A	0
 FORAYN LTD	Walsall	A	0
+Force Contracting Services Limited	Worksop	A	0
 FORCES FINANCE LIMITED	Wiltshire	A	0
 Fordhouses Cricket Club	Wolverhampton	A	11
 Foregenix Limited	Wiltshire	A	0
@@ -2190,7 +2190,6 @@ Futcrunch Ltd	Worthing	A	0
 Future Care Limited	Weston- Super- Mare	A	0
 Future Stars Nursery Ltd/TA Future Stars Nursery	Wembley	A	0
 Future Work Force Limited	Weybridge	A	0
-FUTUREON LIMITED	Winchester	A	0
 FX CARTEL LTD	Warrington	A	0
 Fyling Hall School	Whitby	A	0
 G & B SUPERSTORE LTD	Wisbech	A	0
@@ -2263,6 +2262,7 @@ Gensafe Limited	Wilmslow	A	0
 Geobear Ltd	Wolverhampton	A	0
 Georges Plaice	Wrexham	A	0
 Geoscape Limited	Watford	A	0
+Geosec Ground Engineering Ltd	Welwyn Garden City	A	0,4
 Geotechnical Observations Limited	Weybridge	A	0
 Get Smart Hair & Beauty Ltd Get Smart Hair & Beauty Salon	West Drayton	A	0
 Gets Alliance Ltd	Wembley	A	0
@@ -2579,6 +2579,7 @@ HellermannTyton	Wythenshawe	A	0,4
 HELP @ HOME CARE LIMITED	Wallsend, Tyne And Wear	A	0
 Helping Hands Supported Living CIC	Watford	A	0
 Hendrickson UK Ltd	Wellingborough	A	0
+Henley Retail Group Limited	West Bromwich	A	0
 Henley Theatre Services Ltd.	Wallingford	A	0
 Henlly Robert-Atputhanathan t /a Jet Petrol Station	Woking	A	0
 Heraeus Conamic UK Ltd	Wallsend	A	0,4
@@ -2608,7 +2609,7 @@ HIGH STREET CONVENIENCE	Wiltshire	A	0
 High Street Dental Practice	Walsall	A	0
 High Street Smiles Ltd	Warrington	A	0
 Highbrow Logistics ltd	Whyteleafe	A	0
-Highcroft Care Home	Weston Super Mare	A	0
+Highcroft Nursing Home	Weston Super Mare	A	0
 HIGHFIELD CRICKET CLUB	Wigan	A	11
 Highgrove House Care Home Ltd	Worthing	A	0
 Highlands Properties Holdings Limited	Watford	A	0
@@ -2820,7 +2821,6 @@ Infinity Energy Organisation Ltd	Wembley	A	0
 Infinity Property Management Ltd	Wembley	A	0
 Infinity Solar UK Ltd	Wembley	A	0
 Infinity Worx LTD	Weston-Super-Mare	A	0
-Information Commissioners Office	Wilmslow	A	0
 Information Edge Limited	Windlesham	A	0
 Information Security Media Group UK LTD	Windsor	A	4
 Infrastruct CS Ltd	Witney	A	0
@@ -2880,6 +2880,7 @@ International Construction Design & Management Ltd	Worcester	A	4
 International Nuclear Services Ltd.	Warrington	A	0
 International Passenger Protection Limited	West Wickham	A	0
 International Procurement & Logistics Limited	Wakefield	A	0,4
+Interpower Induction Ltd	Walsall	A	0
 Intersurgical Ltd	Wokingham	A	0
 Intersystems	Windsor	A	0,4
 Intoku Holdings Ltd	Windsor	A	0
@@ -2912,7 +2913,7 @@ Irongate Ltd	Winstone	A	11
 Isabel Hospice	Welwyn Garden City	A	0
 ISHMEH LTD T/A MAMTAZ MAHAL	Westcliff -On-Sea	A	0
 Ismail Restaurants Ltd	Wallington	A	0
-ISO Sushi (Chapel Ash) Limited	Wolverhampton	A	0
+ISO Sushi CA Limited	Wolverhampton	A	0
 iSource Ltd	Watford	A	0
 ISS UK LIMITED	Weybridge	A	0,4
 ISTOBAL (UK) LTD	Worcestershire	A	0
@@ -3173,7 +3174,6 @@ KEMTEK LTD	Wallington	A	0
 Kendal & Carrott Ltd	Worthing	A	0
 KENJI (UK) LIMITED	Warrington	A	0
 Kenoch Asset Management Ltd	Windsor	A	0
-KENS WATERLOOVILLE LIMITED	Waterlooville	A	0
 Kensington INTL Ltd	Westcliff-On-Sea	A	0
 Kent Energies UK Ltd	Woking	A	0,4,7
 Kent House Select Limited	Wolverhampton	A	0
@@ -3215,6 +3215,7 @@ King Harold Academy	Waltham Abbey	A	0
 King Harolds Head	Waltham Abbey	A	0
 King's Church International	Windsor	A	0,1,9
 King's College School	Wimbledon	A	0,9
+KINGDOM CARE CHILDREN HOME LTD	Woodford Green	A	0
 Kingfisher Media Ltd	Whitley Bay	A	0
 Kings Fine Cooked Meats	Wigan	A	0
 Kings Healthcare Ltd T/A Star Pharmacy	Westminster	A	0
@@ -3329,6 +3330,7 @@ La Petite Brassiere Ltd	Watford	A	0
 La Storia Limited	West Bridgford, Nottingham	A	0
 Laadki	Wembley	A	0
 LABEL NATION LIMITED	Wembley	A	0
+LabMedExpert Biomedical Limited	West Midlands	A	0
 LabMedExpert Limited	Wolverhampton	A	0
 Labna Hameed	Woking	A	0
 Laboni Restaurants LTD	Walsall	A	0
@@ -3580,7 +3582,6 @@ M2H Hospitality Ltd T/A Station 31	Wembley	A	0
 M3 Communications Limited	Wolverhampton	A	0
 M3J SOLUTIONS LTD	Wembley	A	0
 M5 CABS LIMITED	Worcester	A	0
-MA ACADEMY LTD	Walsall	A	0
 MA FINANCIAL CONSULTANCY LIMITED	Watford	A	0
 MAA Cash And Carry	Worthing	A	0
 Maahi Fast Food Limited T/A Vrindavan Vatika	Wembley	A	0
@@ -3593,6 +3594,7 @@ Maayan Payments Ltd	Woodford Green	A	0
 Mably Dairies Limited	Wadebridge	A	0
 MacArthur Barstow and Gibbs Ltd	Worcestershire	A	0
 MACBRIT SOLUTION LIMITED LIMITED	Wembley	A	0
+MACBRIT SOLUTIONS LIMITED	Wembley	A	0
 MACCA Team Ltd	Wilmslow	A	0
 MacDermid Performance Solutions Services Ltd	Woking	A	0,4
 MACH RESOURCES UK LTD	Warrington	A	2
@@ -3609,7 +3611,6 @@ Magee Equine Ltd	Wiltshire	A	0
 Magellan Aerospace (UK) Ltd	Wrexham	A	0,4
 Maggs Day Centre	Worcester	A	0
 MAGICSPOON LTD	Watford	A	0
-Magnus Care Ltd	Wallsend	A	0
 MAHA & BHARAT LTD	Wigan	A	0
 Maha Shiv Shakti Mandir	Walsall	A	10
 MAHA SUPERSTORE LTD	Wirral	A	0
@@ -3620,6 +3621,7 @@ MAHARAJ SUPERSTORE LIMITED	Walmer	A	0
 Mahes Trading Ltd	Winscombe	A	0
 MAHI SWEETS AND BAKERS LTD	Walsall	A	0
 MAHOGANY HOUSE(NEWTOWN)LTD T/A MAHOGANY CARE HOME	Wigan	A	0
+MAILWAY PACKAGING SOLUTIONS LIMITED	West Bowling	A	0
 Majestic Skin Care Ltd	Walsall	A	0
 Majestic Wine Warehouses Limited	Watford	A	0
 MAJHAIL & SONS LIMITED T/A LONDIS	West Sussex	A	0
@@ -3637,7 +3639,6 @@ MALSSAN ENTERPRISES LTD	Walsall	A	0
 Malt Shovel (Wolverhampton) Limited	West Bromwich	A	0
 MAM RETAILERS LIMITED	Whitburn	A	0
 MamboCity	Wembley	A	3
-Mammoet (UK) Ltd	Wallsend	A	0,4
 Man & Co	Westcliff On Sea	A	0
 Man Power Connections Ltd	Walsall	A	0
 MANALI LTD	Windsor	A	0
@@ -3932,7 +3933,6 @@ Monterosso Polo Team	Windsor	A	11
 Montis Care Ltd	Waterlooville	A	0
 Montmartre (Whitby) Limited	Whitby	A	0
 Montu Pharmaceutical Ltd	Wokingham	A	0
-Moomenn Ltd	Walton on thames	A	0,4
 Moonraker Group Limited	Woburn Sands	A	0
 Moor and Coast Ltd	Whitby	A	0
 Moorclose Pharmacy	Workington	A	0
@@ -4048,10 +4048,10 @@ Naeem Foundation	Welwyn Garden City	A	9
 Nagra transportation limited	Willenhall	A	0
 Naim Foods Ltd	Wiltshire	A	0
 NAJ Ltd T/A Budgens Haywards Heath	West Sussex	A	0
+NAK Consulting Services Limited	Weedon	A	0
 NAKHRA BRIDALS LTD	Wolverhampton	A	0
 NAKKA CONSULTANCY LTD	Watford	A	0
 Naman Real Estate & Investor Ltd	Wolverhampton	A	0
-NAMASTE WOLVERHAMPTON LTD	Wolverhampton	A	0
 Namma Veedu Vasanta Bhavan Ltd T/A Vasanta Bhavan Restaurant	Wembley	A	0
 Namo Technologies Ltd	Watford	A	0
 Nanaksar Thath Isher Darbar	Wolverhampton	A	1,9,10
@@ -4065,7 +4065,6 @@ NARTI2021 LTD T/A THE NEST	Wembley	A	0
 National Boiler Specialist Ltd	Wembley	A	0
 National Gas Transmission plc	Warwick	A	0
 National Grid plc	Warwick	A	0,4
-Nationwide Care (Finchley) Limited	Whetstone	A	0
 Nationwide Care Services (Worcester) Ltd	Worcester	A	0
 NATIONWIDE ELECTRICAL & SECURITY WHOLESALERS LTD	Wolverhampton	A	0
 Nationwide Retail Solutions Limited	Warrington	A	0
@@ -4117,7 +4116,6 @@ Nevona Ltd T/D Esso Yarnbrook Service Station	Wiltshire	A	0
 NEW ALISHA (WALSALL) SUPERMARKET LTD	Walsall	A	0
 New Balance Athletic Shoes UK Limited	Warrington	A	0,4
 New Brighton Cricket and Bowling Club	Wallasey	A	11
-New College Worcester	Worcester	A	0
 NEW DILSHAD BIRMINGHAM LTD	Worchestershire	A	0
 New Home Improvement Group Limited	Wallingford	A	0
 New Leaf Healthcare Service Ltd	Willenhall	A	0
@@ -4177,6 +4175,7 @@ Nissin (U.K.) Ltd.	West Drayton	A	0,4
 Nitron Racing Systems	Witney	A	0
 Nivo Solutions Limited	Wilmslow	A	0
 Nixon Cathodic Protection Services Ltd	Whitley Bay	A	0
+Niyis Ltd	Wokingham	A	0
 NIZA FORECOURT LTD T/A TEXACO	Wickford	A	0
 NJ & SONS CONSTRUCTIONS LTD	Watford	A	0
 NJ SUPPLIERS LIMITED	Wirral	A	0
@@ -4331,11 +4330,10 @@ ORCHARD CARE GROUP LIMITED	Wrexham	A	0
 Orchard Learning Alliance	Woodley	A	0
 ORCHARDS PHARMACY	West Drayton	A	0
 Order of Friars Minor CIO	Woodford Green	A	1,10
-Oremus Accountants Limited	Wirral	A	0,4
+Oremus Group Limited	Wirral	A	0,4
 Organic Milk Suppliers Co-operative Limited	Weston-super-Mare	A	0
 Orica UK Ltd	Warrington	A	0,4,7
 Origin Co. and Ltd.	Welwyn Garden City	A	0
-Original Biryaniwala London Limited	Wembley	A	0
 Original BTC	Witney	A	0
 ORMOS TRADES LTD	Watford	A	0
 Orrell Red Triangle Cricket Club	Wigan	A	11
@@ -4370,7 +4368,6 @@ P & L RETAILS LTD	Watford	A	0
 P & P CHANDARANA LIMITED	Wigan	A	0
 P & P Distributors Ltd	Wembley	A	0
 P & TECH SOLUTION LTD	Walsall	A	0
-P Cars Ltd	Wednesbury	A	0
 P J Carey (Contractors) Ltd	Wembley	A	0
 P&R Engineering Midlands Limited	Wolverhampton	A	0
 P. Flannery Plant Hire (Oval) Limited	Wembley	A	0
@@ -4393,7 +4390,6 @@ PAL GROUP(OPERATIONS) LIMITED	Wednesbury	A	0
 PALAPHARM LIMITED T/A Knightsfield Pharmacy	Welwyn Garden City	A	0
 Pallet-Track Limited	Wolverhampton	A	0
 PAM CONSULTING SERVICES LTD	Watford	A	0
-Pancredit Systems Ltd	Worthing	A	0
 Pandrol Limited	Worksop	A	0
 Pangli Productions Limited	Willenhall	A	3
 PANJ TARA MOTION PICTURES LTD	Wolverhampton	A	3
@@ -4516,10 +4512,8 @@ PHARMACY INITIATIVE 3 LTD	Wallington	A	0
 Pharmaphorum Media Limited	West Byfleet	A	0
 PHAT BEAUTY LTD	Warrington	A	0
 PHC Health Care Ltd.	Waltham Cross	A	0
-PHI PROPERTY ACQUISITIONS LIMITED	Woking	A	0
 Philip Hughes Associates LLP	Wincanton	A	0
 Phillimon T & C Limited	Worthing	A	0
-PHILLIPS1924 HOMECARE SERVICES LTD	Woolwich	A	0
 PHINIA DELPHI UK LTD	Warwick	A	0,4
 Phixos Ltd	Worcester	A	0
 Phoenix Filling Station Ltd T/A Phoenix Filling Station (BP/Costcutter)	West Yorkshire	A	0
@@ -4540,7 +4534,6 @@ Picklelicious Food LTD T/a Picklelicious Curries	Wakefield	A	0
 Picture Perfect Data Ltd	Wetherby	A	0
 Pide.Biz Food Limited	Wellesbourne	A	0
 Pier Health Group	Weston Super Mare	A	0
-Piglets Pantry Ltd	Worthing	A	0
 Pilgrims Group Ltd	Woking	A	0
 Pilgrims Risk Management Group	Woking	A	0
 Pilgrims Shared Services Ltd	Warwick	A	0
@@ -4555,7 +4548,6 @@ Pinnacle Windows Ltd	Wellingborough	A	0
 PIONEER NETWORK UK LTD	Wolverhampton	A	0
 Piperfinn Limited	Washington	A	0
 Pipit Lane Investments Limited	Weybridge	A	0
-Pixel Direct Ltd	Walthamstow	A	0
 Pixeled Eggs Limited	Windsor	A	0
 Pizza Pan Winchester Ltd	Winchester	A	0
 Pizza presto (WTON) ltd	Wolverhampton	A	0
@@ -4583,7 +4575,6 @@ PNJ TRANSPORT LTD	Wolverhampton	A	0
 PNR INVESTMENT NW LTD t/a Paneer Restaurant	Wirral	A	0
 PO FAI INTERNATIONAL LTD	Walsall	A	0
 Pockla Limited	Wantage	A	0
-POD HAULAGE LIMITED	Wembley	A	0
 POD Sports Limited	Welwyn	A	11
 Podloc Limited	Windsor	A	0
 Poeticgem Limited	Watford	A	0,4
@@ -4672,6 +4663,7 @@ Priory Dental Practice (Leamore) Ltd	Walsall	A	0
 Priory Medical Centre (M84028)	Warwick	A	0
 Prism Fire Tech Limited	West Drayton	A	0
 PRISM TRAVEL LTD	Wembley	A	0
+Pritex Ltd	Wellington	A	0
 Prix Fixe limited	Wickford	A	0
 PRIYA FINE FOODS LIMITED	Wembley	A	0
 PRIYANKA-MAHENDRA FOOD LIMITED T/A HinGlish	Wigston	A	0
@@ -4686,6 +4678,7 @@ Probitas Enterprise Solutions Limited	West Haddon	A	0
 PROBUSINESS LTD	Wells	A	0
 Proclean Equipment and Services Ltd	Woking	A	0
 Procon Wind Energy Limited	Warwick	A	0,4
+Product Care Hub Limited	Wigan	A	0
 Professional Carers Wirral Ltd	Wallasey	A	0
 Professional Home Care Ltd	Woodstock	A	0
 Profuse Care Ltd	Welwyn Garden City	A	0
@@ -4758,7 +4751,6 @@ QlikTech UK Ltd	Winnersh	A	0,4
 QLIKTECH UK LTD	Wokingham	A	0
 Qmulus Solutions Limited	Worcestershire	A	0
 Qualco UK Limited	Weybridge	A	0
-Quality Bites Ltd	Walsall	A	0
 Quality Care Limited Company Limited	Woolwich	A	0
 QUALITY INSPECTION SERVICES INC JAP	Waltham Abbey	A	0
 Quality Marble Granite LTD	Wembley	A	0
@@ -4793,10 +4785,10 @@ R TINCKNELL & SON LTD	Wells	A	0
 R&D PHARMACEUTICALS LTD	Weston-Super-Mare	A	0
 R&D Yorkshire Limited TA Domino's Pizza	West Malling	A	0
 R&R Commercial (UK) Limited	Winscombe	A	0
-R&S Convenience Store Ltd T/A The Local	Walton-On-Thames	A	0
 R. L Matson & Son	Whitchurch	A	0
 R.F More Ltd T/A Riverside House care Home	Wick	A	0
 R.M.D ENTERPRISES LTD	Watford	A	0
+R.P.M. Installations (Kent) Limited	West Malling	A	0
 R2K HOMES LTD	Wolverhampton	A	0
 R4R Home Care Service Ltd	Watford	A	0
 R53 Engineering Limited	Warwick	A	0
@@ -4830,6 +4822,7 @@ Ramgarhia Board Sikh Temple	Wolverhampton	A	1,10
 Ramgharia Sabha	Wolverhampton	A	10
 Ramki Heating Ltd	West Ealing	A	0
 RAMSY BARBER'S CLUB LTD	Wales	A	0
+Rana Transport Ltd	Wolverhampton	A	0
 Rance Healthcare Services Ltd	Wolverhampton	A	0
 Rangdonu Spice Ltd T/A The Original CurryLand	Worthing	A	0
 RANGE DESSERTS LTD	Wythenshawe	A	0
@@ -4912,7 +4905,6 @@ Reproductive Health Group	Warrington	A	0,4
 Resect Limited	West Malling	A	0
 RESIDENTIAL CARE SERVICES LIMITED t/a Franklyn Lodge	Wembley	A	0
 Resistant AI Limited	Warwick	A	4
-Resman Wireless Reservoir Surveillance UK Ltd	Westhill	A	0
 Reso Ltd t/a QDOS	Worplesdon	A	0
 Resort Marketing International Limited	Witham	A	0
 RESOURCEWISE CONSULTANCY LTD	Watford	A	0
@@ -4926,7 +4918,6 @@ Retailing Enterprises UK Limited trading as Invicta Stores	Wembley	A	0
 REVA PVT LTD	Warminster	A	0
 Revelation 22 care Ltd	Wolverhampton	A	0
 Revive Living Waters CIC	Wincanton	A	1
-RevoTech Systems Limited	Warwick	A	0
 REXVILLE SOLUTIONS LIMITED	Walsall	A	0
 Rey Food Group Ltd	Worthing	A	0
 Rey Sub Limited t/a Subway	West Sussex	A	0
@@ -5011,7 +5002,7 @@ ROMIL Ltd	Waterbeach	A	0
 Rontec Watford Limited	Watford	A	0
 ROOF CARE (LONDON) LTD	West Drayton	A	0
 ROOMNETTV Ltd	Wantage	A	0
-Rooms Group Limited	Warrington	A	0
+Rooms Group Limited	Winsford	A	0
 Rooster Shack Franchising Ltd	Woking	A	0
 Rooster technology ltd	Winchester	A	0
 Rorcon Limited	West Midlands	A	0
@@ -5092,6 +5083,7 @@ S2K IT Solutions	Wokingham	A	0
 SA CAR SALES LTD	West Molesey	A	0
 Saad Ali Limited t/a Cream Curls	Washington	A	0
 Saaiyeeshwar Food & Wine and News	Wirral	A	0
+Saannie Medical Services Ltd	Wrexham	A	0
 SAAP RETAIL LTD	Wisbech	A	0
 SAB TEXTILES LIMITED	Willenhall	A	0
 SABAT ACCOUNTANTS LTD t/a Seymour King	Watford	A	0
@@ -5164,6 +5156,7 @@ SANDWELL AND WEST BIRMINGHAM HOSPITALS NHS TRUST	West Bromwich	A	0
 SANDWELL VALLEY SCHOOL LIMITED	West Bromwich	A	0
 Sano Supplies Ltd	Watford	A	0
 SANOUTFITS LTD	Wolverhampton	A	0
+Sanrub Store Limited t/a Subway	Wallsall	A	0
 Sans Construction Ltd	Willenhall	A	0
 Sant Ishar Singh Charitable Trust	Wolverhampton	A	1,9,10
 Santhos Limited	Wales	A	0
@@ -5401,6 +5394,7 @@ Singhs Convenience Store Ltd	Washington	A	0
 Singhs Haulage Ltd	West Bromwich	A	0
 Singhs Medical Ltd	Worksop	A	0
 SINGHSBURY LOCAL OFF LICENSE LTD	Wolverhampton	A	0
+Sintali Ltd	Watford	A	0
 SIPSON SUPERSTORE LTD	Westdrayton	A	0
 Sirdarji Couriers Limited	Walsall	A	0
 Sirus Automotiove	Wednesbury	A	0
@@ -5445,6 +5439,7 @@ SM Sons Grocers Ltd	Watford	A	0
 SMA WORLDWIDE LTD	Watford	A	0
 SMALL WORLD NURSERY(WATFORD) CIC	Watford	A	0
 SMART CELLS INTERNATIONAL LIMITED	West Drayton	A	0
+SMART CITY MK CIC	Woburn Sands	A	0
 Smart Electronics LTD	Wantage	A	0
 Smart Forecourt Limited	Wimblington	A	0
 Smart Glazing London Limited	Watlington	A	0
@@ -5452,7 +5447,6 @@ Smart IT Providers Limited	Wokingham	A	0
 Smart Manufacturing Technology Ltd	Wilford	A	0
 Smart Set Cleaners Ltd	Wandsworth	A	0
 Smart-Cover Direct Limited	Watford, Croxley	A	0
-Smarter Cover	Weybridge	A	0
 SMARTESTENERGY BUSINESS LIMITED	Worthing	A	0
 Smartguide Travel Limited	Wembley	A	0
 SmartRecruiters Ltd	Windsor	A	0
@@ -5460,7 +5454,6 @@ SMARTSTEPS PVT LTD	Wales	A	0
 SMBS HEALTHCARE LTD	Woodsetton	A	0
 SMC Pharma Services Ltd	Waterbeach	A	0
 SMG PARTS LTD	Wolverhampton	A	0
-SMI Grill Limited	Walsall	A	0
 SMI Operations Limited	West Sussex	A	0
 Smith & Nephew Plc	Watford	A	0,4
 SMK STORES LTD	Witcham Toll	A	0
@@ -5469,7 +5462,6 @@ Snacks & Sweets	Wolverhampton	A	0
 SNASIR LIMITED	Worcester Park	A	0
 Sneaton Castle Estate	Whitby	A	0
 Snowball Investment and Management Consultant Ltd trading as The Live Inn Whitbourne	Worcester	A	0
-Snowik Limited	Wimbledon	A	0
 SNR SERVICES (UK) LIMITED	Westbury-On-Severn	A	0
 SNS Softtech Limited	West Drayton	A	0
 Sobikka Inthrajith (Sole Trader)	Westcliff	A	0
@@ -5556,6 +5548,7 @@ Spectrum Community Health CIC	Wakefield	A	0
 Spectrum Group Services Limited	Wokingham	A	0
 Spectrum Media Sales Ltd	Watford	A	0
 SPEED OCTANE UK LTD	Warwick	A	0
+SPEED STITCH LIMITED	Walthamstow	A	0
 Speedway Limited	Watford	A	0
 Spence Refit Ltd	Watford	A	0
 Spencer's Value Mart Limited	Watford	A	0
@@ -5643,7 +5636,6 @@ St Johns House Medical Centre	Worcester	A	0
 St Lawrence Surgery	Worthing	A	0
 St Oswalds Care Home	Warrington	A	0
 St Patrick's Missionary Society	Weybridge	A	1,10
-St Philips Caledonia Care Ltd	Wednesfield	A	0
 St Philips Care Limited	Wednesfield	A	0
 St Richard's Hospice Foundation	Worcester	A	0
 St Swithun's School	Winchester	A	0
@@ -5680,6 +5672,7 @@ STARTUP STAGE LIMITED	Wokingham, United Kingdom	A	0
 Stassen Properties Limited	Wolverhampton	A	0
 Station Road Surgery	West Wickham	A	0
 Station Super Store	Westgate on sea, Kent	A	0
+Statom Group Limited	West Thurrock	A	0
 Stax Trade Centres Limited	Worsley	A	0
 Steady Care Solutions Limited	Walsall	A	0
 STEELCART UK LTD	Warrington	A	0
@@ -5703,7 +5696,6 @@ Stonesby House Ltd	Wigston	A	0
 Stonnall Care Ltd T/A Richmond Hall	Wa	A	0
 Storm Games Limited	Wolverhampton	A	0
 Storm Procurement Limited	Watford	A	0,4
-Storm Therapeutics Ltd	Waterbeach	A	0
 STORMGEO LIMITED	Westhill	A	0
 Strathmore medical Practice	Wrexham	A	0
 STRATWICKS LIMITED	Warwick	A	0
@@ -5755,6 +5747,7 @@ Suono Consultancy Limited	Weybridge	A	0
 Super Brother Trading Limited	Walsall	A	0,2
 SUPER POUND SAVER TRADING LIMITED	Walthamstow	A	0
 SUPER SECURITY LTD	Wolverhampton	A	0
+Supercharger North Ltd	Wembley	A	0
 Supercharger Restaurants Limited	Wembley	A	0
 SUPERHEALTHCARE	Westcliff On Sea	A	0
 Superior Grill Ltd	Welling	A	0
@@ -5764,6 +5757,7 @@ Support And Sustain Care Ltd	Wolverhampton	A	0
 Support at Home Ltd	Widnes	A	0
 Support Horizons Community Interest Company	Wokingham	A	0
 Support4U Ltd	Walsall	A	0
+Supra Products Limited	Willenhall	A	0
 SUPRBIT LIMITED	Wokingham	A	0
 Supreme Minimarket Limited	Wigan	A	0
 Supreme Workforce LTD	Welling	A	0
@@ -5899,6 +5893,7 @@ Tc Rec Limited	Wilmslow	A	0
 TCD Group Limited	Woking	A	0
 TCL Structures UK Limited	Willenhall	A	0
 TCP Pharma Limited	West Bromwich	A	0
+TCS TRADE CAR SALES (MIDLANDS) LTD	Walsall	A	0
 TDP SHOPFITTERS LIMITED	Walsall	A	0
 TDS Mayford Ltd TA The Drumming Snipe	Woking	A	0
 TDUK Wholesale Limited	Wembley	A	0
@@ -5977,6 +5972,7 @@ The Betsi Cadwaladr University Health Board	Wrexham	A	0
 The Boots Group Services Limited	Weybridge	A	0,4
 The Bornless Limited	Wokingham	A	0
 The Brendoncare Foundation	Winchester	A	0
+The Briars Group Limited	Warrington	A	0
 The Bridge Bakehouse	Whaley Bridge	A	0
 The Bridges Medical Practice	Weymouth	A	0
 The Bubb Sherwin Partnership Ltd	Whitstable	A	0
@@ -6021,7 +6017,6 @@ The Forest School Academy Trust	Wokingham	A	0
 The Fuel Hub (Wakefield) Ltd	Wakefield	A	0
 The Full Electrical Services Co Ltd	West Thurrock	A	0
 The Game Xchange Limited	Wembley	A	0
-The Garage Door Centre Ltd	Wellingborough	A	0
 THE GLEBE HOTEL	Warwick	A	0
 The GPT Law Practice Solicitors	Wembley	A	0
 The Green Room Foundation Ltd	Windsor	A	0
@@ -6029,12 +6024,10 @@ The Gurukula Trust	Watford	A	0
 THE HARRIS PARTNERSHIP LIMITED	West Yorkshire	A	0
 THE HAVEN HEIGHTS CARE HOME LTD	Waterlooville	A	0
 THE HELICOPTER GIRLS LIMITED	Winchester	A	0,3
-The Holt School	Wokingham	A	0
 The Italian Shop	Westerham	A	0
 The Jet Business (International) Limited	Weybridge	A	0
 The Kairos Initiative	Wirral	A	0,9
 The Kendon Rope and Twine Co. Limited	Wakefield	A	0
-The King Alfred Winchester Ltd	Winchester	A	0
 The King's CE School	Wolverhampton	A	0
 THE LANGSTON (KINGHAM) LIMITED	Weybridge	A	0
 The Laurels Care Home	Wickford,	A	0
@@ -6067,7 +6060,6 @@ The New Grange Care Home Ltd	Worthing	A	0
 The Nile Practice	West Midlands	A	0
 The Norwegian School in London Ltd	Wimbledon	A	0
 THE OAKS (NEWTOWN) LIMITED	Warrington	A	0
-THE OAKS CARE HOME LIMITED	Wigan	A	0
 The Old Dehi Artisans Ltd	Welland	A	0
 The Old Rectory Grappenhall Ltd	Warrington	A	0
 The Old Thatched Cottage Limited	Weston Super Mare	A	0
@@ -6151,6 +6143,7 @@ Think Green Land ltd	Wickford	A	0
 THINKWISE SOFTWARE LTD	Watford	A	0
 This Works Products Limited	Wimbledon	A	0
 Thomas Mills High School	Woodbridge	A	9
+Thomas Nagy Ltd	Watford	A	0
 Thomas Veterinary Ltd	Wangford	A	0
 THOMPSON AUDIO VISUAL COMMUNICATIONS LIM ITED	Wolverhampton	A	0
 Thompson Pinto Limited	Weybridge	A	0
@@ -6196,6 +6189,7 @@ TOM HARRIS DESIGN LIMITED	Weybridge	A	0
 TONGDA DISTRIBUTION LTD	Wellingborough	A	0
 Toni's Ltd	Wishaw	A	0
 TONINO ICE CREAM LTD	Watford	A	0
+Tooth Fairy Healthcare Limited	Walsall	A	0
 Top 1 Logistics Limited	Wolverhampton	A	0
 Top Beauty Centre Limited	Wellinborough	A	0
 Top Local Ltd	Whiteworth	A	0
@@ -6248,6 +6242,7 @@ Treetops Play and Party Cafe Limited	Warrington	A	0
 Treevale ltd	Wirral	A	0
 Trelleborg Westbury Limited	Westbury	A	0
 Tremco CPG UK Limited	Wigan	A	0
+Trend Tool Technology Ltd	Watford	A	0
 Trends2024 Limited	Wellingborough	A	0
 Trendy Carpets and Flooring Ltd	Wednesbury	A	0
 Trevibban Mill Ltd	Wadebridge	A	0
@@ -6299,7 +6294,6 @@ TVS INTERFLEET LIMITED	Wisbech	A	0
 Twilight Health & Homecare Services Ltd	Wolverhampton	A	0
 Twinfix Limited	Warrington	A	0
 Twinkle Stars Nursery School Ltd	Wembley	A	0
-Two Fifty Four Limited	Woking	B	0
 TWO LIONS WELSPHOOL LIMITED	Welshpool	A	0
 TwoTenOFour Investments Ltd	Weybridge	A	0
 Twyford Village Stores Limited	Winchester	A	0
@@ -6432,6 +6426,7 @@ Veer Investment Company Ltd	West Drayton	A	0
 VEGGIE FELLAS LTD	Walsall	A	0
 Veggie Supreme Pizza Ltd	Wolverhampton	A	0
 VEKADE PHARMA LIMITED	Watford	A	0
+Vel Mart Retail Ltd	Washington	A	0
 VELJI BHOVAN AND SONS (TRADING) LIMITED	Wembley	A	0
 Venba Limited	West Molesey	A	0
 Venkatesh Ankam T/A Church Street Dental Practice	Wigan	A	0
@@ -6597,6 +6592,7 @@ Watford Visionplus Ltd T/A Specsavers	Watford	A	0
 Watmos Community Homes	Walsall	A	0
 Wave Fashion Limited T/a Krisp London	Willesden, London	A	0
 Wayfarer Restaurant Limited	Wigan	A	0
+WAYNE TECHNOLOGY ENTERPRISES LTD	Walthamstow	A	0
 WCS CARE GROUP LIMITED	Warwickshire	A	0
 WE ARE GOOS LIMITED	West Sussex	A	0
 WE DEFINE LIMITED	Wealdstone	A	0
@@ -6683,6 +6679,7 @@ Westcliff Dental Practice Limited	Westcliff -on -Sea	A	0
 Westcliff High School for Boys	Westcliff-on-Sea	A	0
 Westcliff Supermarket	Westcliff-On-Sea	A	0
 WESTERN CARS PRIVATE HIRE LTD	West Sussex	A	0
+Western International Group (UK) Ltd	Wolverhampton	A	0
 WESTERN ORIENTALS UK LTD	West Midlands	A	0
 Westfalia Fruit International Limited	West Malling	A	0,4
 Westfield Academy	Watford	A	0
@@ -6769,7 +6766,6 @@ Wiltshire Aircraft Maintenance Ltd	Winchester	A	0
 Wimbledon Broadway Specsavers Ltd	Wimbledon	A	0
 wimbledon clinic	Wimbledon	A	0
 Wims Limited t/a Wessex Group	Winchester	A	0
-Wincanton Creative Print Ltd	Wincanton	A	0
 Winchester College	Winchester	A	0,9
 Winchester Procurement Limited	Winchester	A	0,4
 Winchester Steaks Ltd	Winchester,	A	0
@@ -6782,6 +6778,7 @@ Windrush Medical Practice	Witney	A	0
 Windsor Learning Partnership	Windsor	A	0
 WINE WELL LTD T/A PREMIER	Wivenhoe,	A	0
 Wineify Ltd	Watford	A	0
+WINETRADERS (UK) LIMITED	Witney	A	0
 Wing Energy Ltd	West Bridgford, Nottingham	A	0
 WINGATE CARE HOMES LTD	Westhoughton	A	0
 WINKS HAIR AND BEAUTY (WALSALL) LIMITED	Walsall	A	0
@@ -6889,8 +6886,10 @@ Wrexham University	Wrexham	A	0,12
 Wrexham Ventures Ltd	Wrexham	A	0
 Wrexham Visionplus Limited t/a Specsavers	Wrexham	A	0
 Wright Dental Care Ltd	Worksop	A	0
+Wright Pastoral Wagyu Team LTD	Winkfield	A	11
 Wrightington Wigan and Leigh Teaching Hospital NHS Foundation Trust	Wigan	A	0
 Wrights Estate Agents Trading as MB Wright	Welwyn Garden city	A	0
+WRT Technologies Limited	Warwick	A	0
 WS4 Dental Care Ltd	Walsall	A	0
 WSE Lounge & Restaurants Ltd T/A The Poachers Gastro Pub	Wokingham	A	0
 WSL FOOD SERVICES LTD	Walsall	A	0

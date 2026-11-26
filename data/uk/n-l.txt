@@ -363,7 +363,6 @@ Albatross Lending Ltd	London	A	0
 Albertine Lifestyle Ltd	London	A	0
 Albion House Lodges Limited	Tranent	A	0
 Albion Lodge limited	Hanley Swan	A	0
-ALC Supported Living	Liverpool	A	0
 Aldbourne Nursing Home Ltd.	Marlborough	A	0
 Aldeia Impact Advisory Ltd.	London	A	0
 Alderley Lighthouse Labs Ltd	Cheadle	A	0
@@ -395,7 +394,7 @@ Align Communications International Ltd.	London	A	0,4
 ALIGN LOGISTICS LTD	Southall	A	0
 ALIIZOR LTD T/A LIZOR CARE CONCEPT	Tidworth	A	0
 Alina & Jamila London Ltd	Havering	A	0
-Alison Education UK Ltd.	Houslow	A	0,2
+Alison Education UK Ltd.	London	A	0,2
 Alive Church Lincoln	Lincoln	A	0
 Alkhair Ltd. T/As Plaza News	Glasgow	A	0
 All about laptops Ltd	London	A	0
@@ -549,7 +548,6 @@ Apex Circuit Design Ltd.	Princes Risborough	A	0
 APEX ENGINES LIMTED	Preston	A	0
 Apex Group MCR Ltd T/A The Link	Manchester	A	0
 Apex Innovation Labs Ltd	Liverpool	A	0
-Apex Innovations London Limited	Brentford	A	0
 Apex Lift and Escalator Engineers Limited	Bexleyheath	A	0
 APEX LITIGATION FINANCE LIMITED	Bourne	A	0
 APL EUROPE (UK) LTD.	London	A	0,2
@@ -567,6 +565,7 @@ Applied Computing Technologies Ltd.	London	A	0
 Applied Dynamics International Ltd.	Derby	A	0,4
 Applied Information Group UK Limiited	London	A	0
 Applied Laser Engineering Ltd	Walton-on-Thames	A	0
+Applied Studio Architecture Ltd.	London	A	0
 Approach Lodge rehabilitation LLP	London	A	0
 APPSY LOGISTICS LIMITED	East Ham	A	0
 APPTION LABS LIMITED	Leicester	A	0
@@ -586,6 +585,7 @@ ARABIYA LONDON LTD	London	A	0
 Araf Coleshill Ltd T/A Indian Lounge	Birmingham	A	0
 Araki London Limited	London	A	0
 ARAMM LEGAL LTD	London	A	0
+Aras Legal Ltd	London	A	0
 ARAVINTHAN VADIVELU T/A LOCAL FOOD AND WINE	Birmingham	A	0
 Arbitration Chambers London Limited	London	A	0
 Arca Living Ltd	Birmingham	A	0
@@ -594,7 +594,7 @@ Arcadian Loungue Ltd	Middleton	A	0,3
 Arch Rivals Brewing Company Ltd.	Worcester	A	0
 Archangel Lightworks Ltd	Oxford	A	0
 Archax Holdings Ltd.	London	A	0
-Archdiocese of Liverpool	Liverpool	A	1,10
+Archdiocese of Liverpool	Liverpool	A	0,1,10
 Architectural Survey Consultants Ltd.	Basingstoke	A	0
 Architecture for London	London	A	0
 Archway Learning Trust	Nottingham	A	0
@@ -720,6 +720,7 @@ ASSURED INDEPENDENT SERVICES L	Liverpool	A	0
 ASSURED LIVING CARE LIMITED	Dartford	A	0
 Assurex Global London Limited	London	A	0
 Astanga Yoga London	London	A	11
+Astemo UK, Ltd.	Bolton	A	0,4
 ASTER TEXTILE LONDON LIMITED	London	A	0
 Asterley Bros, London Ltd	London	A	0
 Aston Bond Law Ltd	Slough	A	0
@@ -940,7 +941,6 @@ BaseKit Platform Ltd.	Bristol	A	0
 BASIC HOUSE LTD.	West Midlands	A	0
 BASMATI LOCKS HEATH LIMITED	Southampton	A	0
 Basrah Lounge LTD	Manchester	A	0
-Basta London Limited	London	A	0
 Bates Wells & Braithwaite London LLP	London	A	0
 Bath Islamic Society Ltd.	Bath	A	0,1,9
 Batt Laboratories Ltd	Coventry	A	0
@@ -972,7 +972,6 @@ BDA PIZZA LYD	Boston	A	0
 BDM Law LLP	London	A	0
 BDM Logistics and Management	London	A	0
 BDW Trading Limited (trading as Barratt London)	London	A	0
-Be Bold LC	London	A	0
 Be Fit London Ltd	London	A	0
 BEA LOGISTICS LTD	Grays	A	0
 BEA LOGISTICS LTD	London	A	0
@@ -1012,6 +1011,7 @@ Bees Electrical Supplies (London) Limited	London	A	0
 BEGUM INDIAN TAKEAWAY LTD T/A Llanberis Tandoori	Llanberis	A	0
 Beijing Ding'An London Branch Ltd.	London	A	0
 Beirut Mezze Lebanese Restaurant Limited	Bristol	A	0
+BEIS MENACHEM CHABAD LUBAVITCH	Salford	A	1
 BEL Valves Ltd.	Newcastle Upon Tyne	A	0,4
 Belderbos Landscapes Limited	London	A	0
 Belfast & Lisburn Women's Aid	Belfast	A	0
@@ -1027,6 +1027,7 @@ Bells of Lazonby Limited	Penrith	A	0
 Belmont International Ltd t/a First Class Learning- Aberdeen	Aberdeen	A	0
 Belmont Lansdown Limited	Plymouth	A	0
 Belmont Lavan LTD	Edinburgh	A	0
+Belong Learning CiC	Cheltenham	A	0
 Belt Studio Limited T/A Village Leathers	London	A	0
 Belyfted Limted	Dagenham	A	0
 Bench Walk Advisors LLC	London	A	0
@@ -1038,6 +1039,7 @@ BENGAL LOUNGE WETHERBY LIMITED	Wetherby	A	0
 BENGAL TIGER LILY	Macclesfield	A	0
 BENIPAL LOGISTICS LTD	Hayes	A	0
 Benjamin Hubert Ltd.	London	A	0
+Benjamin Solicitors Limited t/as Integrity Law	Preston	A	0
 Bennett Construction (London) Limited	London	A	0
 Bennett Hay Ltd.	London	A	0
 Bentley Lodge Care Home Ltd	Farnham	A	0
@@ -1162,6 +1164,7 @@ Blue Funnel Logistics Ltd	Harrow	A	0,4
 Blue Lagoon (Fish & Chip Shops) Ltd	Glasgow	A	0
 Blue Lake Solution Ltd	London	A	0
 BLUE LATAN LIMITED T/A FINT	Leeds	A	0
+Blue Leaf Composites Ltd	Cowes	A	0
 Blue Lemon Cleaning Services Ltd	Kent	A	0
 Blue Leone LTD	Cambridge	A	0
 Blue Lid Ltd	Reading	A	0
@@ -1275,6 +1278,7 @@ Bridgewater Loans Ltd	Preston	A	0
 Bridgitte Harley Hearing Care Lrd	Letchworth	A	0
 BRIEFS LAW LIMITED	Greater London	A	0
 Briercliffe Lodge	Colne	A	0
+Briffa Legal Limited	Islington	A	0
 Brigantia Learning Trust Limited	Sheffield	A	0
 BRIGHT COMMERCIAL LAUNDRY LTD	Derby	A	0
 BRIGHT COURTYARD LONDON LIMITED	London	A	0,4
@@ -1475,8 +1479,8 @@ Care Legacy Ltd	Lancaster	A	0
 CARE LINK PLUS LIMITED	Addlestone	A	0
 Care Plus Group (North East Lincolnshire) Ltd	Grimsby	A	0
 Care Plus London Ltd	Dudley	A	0
+Care Provision Healthcare Limited t/as Philia Lodge Rest Home	Peterborough	A	0
 Care Sante London Limited	London	A	0
-Care With Pride Leicester Ltd	Leicester	A	0
 CARELIAN LOG BUILDINGS LTD	Usk	A	0
 Careline Lifestyles (UK) Ltd	Newcastle Upon Tyne	A	0
 Carelytical Home Care Limted	Accrington	A	0
@@ -1492,6 +1496,7 @@ Caring Hearts (Essex) Ltd.	Colchester	A	0
 Caring Lane Limited	London	A	0
 Caring Locals	Grays	A	0
 Carisbrooke Dental Leicester Limited	Leicester	A	0
+CARISS LOGISTICS LIMITED	Bristol	A	0
 Carl Stuart Ltd.	Ossett	A	0
 Carlisle Fluid Technologies UK Lttd	Bournemouth	A	0
 Carlton Lounge UK Ltd	Kingsbury	A	0
@@ -1719,6 +1724,7 @@ Circadian Lighting Ltd	Stanley	A	0
 Circle Leaf Ltd	Coulsdon	A	0
 Circuit Link Electrical Ltd	Luton	A	0
 Cirrus Logic International Semiconductor Limited	Edinburgh	A	0,4
+CIS Equestrian Livery Limited	Hyde	A	0
 CIS London & Partners LLP	London	A	0,4
 Cisilion Ltd.	Leatherhead	A	0
 Citco London Ltd	London	A	0
@@ -1828,7 +1834,6 @@ Coco Labelle Ltd	Bracknell	A	0
 Coco Leisure Limited T/A Moka Dining	Northwood	A	0
 Coconut LDN Limited	London	A	0
 Coda Communications Ltd.	Poole	A	0
-Coda to Coda Ltd.	London	A	0
 Code Design Lab Ltd	London	A	0
 Code Experts Ltd.	Farnborough	A	0
 COFFEE CULTURE LERWICK	Shetland	A	0
@@ -1859,7 +1864,6 @@ Comfort24 Ltd.	Cleckheaton	A	0
 COMFORTS INDEPENDENT LIVING CARE LTD	North Finchley	A	0
 Commerce Pulse Ltd.	Milton Keynes	A	0
 Commercial & Industrial Lighting Solutions Ltd	Petersfield	A	0
-CommissionBEIS MENACHEM CHABAD LUBAVITCH	Salford	A	1
 Commonwealth Local Government Forum	London	A	0
 Communication and Learning Enterprises Limited	Ulverston	A	0
 COMMUNITY INDEPENDENT LIVING LTD	Liverpool	A	0
@@ -1973,7 +1977,6 @@ County Supplies (London) Limited	London	A	0
 Courmacs Legal Limited	Blackburn	A	0
 Court House Farms Ltd.	York	A	0
 Cove Leaseco Limited	Belfast	A	0
-COVENT GARDEN HARDWARE STORE LTD T/A The Lowdown	London	A	0
 Cozzy Lounge Ltd	Wantage	A	0
 CP Plus Ltd. T/A GroupNexus	London	A	0
 CPI SERVICES (UK) LTD.	London	A	0
@@ -2104,6 +2107,7 @@ D2 Legal Technology Ltd	London	A	0,4
 Dab Logistics Midland	West Bromwich	A	0
 Dabmoo Limited T/A Nisa Local	Birmingham	A	0
 DAC GROUP UK OPERATIONS LTD.	London	A	0
+DAE Aircraft Leasing Services (UK) Limited	London	A	0
 DAHNAY LOGISTICS (UK) LTD	Dagenham	A	0
 DAI-ICHI LIFE INTERNATIONAL (EUROPE) LIMITED	London	A	4
 Daido Metal Co., Ltd. European Technical Centre (UK)	Ilminster	A	0,4
@@ -2644,7 +2648,7 @@ Emperia Academy Ltd.	Luton	A	0
 EMPIRE FINE JEWELLERS LTD.	Wilmslow	A	0
 Empire Hotel (Llandudno) Ltd	Llandudno	A	0
 Empire Lettings and Property Management Limited	Birmingham	A	0
-Empire Logistics Transportation Ltd	Northamptonshire	A	0
+Empire Logistics Transportation Ltd	Reading	A	0
 Empower Learning Academy Trust	Upminster	A	0
 Empowered Living Ltd	Harrogate	A	0
 Empresa London Limited	London	A	0
@@ -2820,7 +2824,7 @@ F. List UK LTD.	Kent	A	0,4
 F/CE. LONDON LAB LTD	London	A	0,2,4
 F1 Laser Ltd	Nottingham	A	0
 F1 Laser Ltd	Shirebrook	A	0
-F50 League GB Ltd	London	A	0,4
+F50 League GB Ltd	London	A	0,3,4
 FA Active Logisitics Ltd	Reading	A	0
 Fabio Lavina	Lode	A	11
 Fabpreji ltdT/ASubway	Southend on sea	A	0
@@ -2948,7 +2952,6 @@ FISHNET (LONDON) LTD	London	A	0
 Fitter feet for Life	London	A	0
 FITZROY LODGE	Worthing	A	0
 Five Akhis Luton	Luton	A	0
-Five Lads Goodmayes	London	A	0
 FIVE RIVERS LEATHERHEAD LTD T/A FIVE RIVERS	Surrey	A	0
 Fiver London Limited	Basildon	A	0,4
 Fives Landis Limited	Keighley	A	0,4
@@ -3109,6 +3112,7 @@ Fusion Spice Leeds Ltd	Leeds	A	0
 Futura Leisure Limited	London	A	0
 FUTURE LEADERS DAY NURSERY LIMITED	Mitcham	A	0
 Future Leap ES	Bristol	A	0
+Future Leap Holdings Ltd.	Bristol	A	0
 Future leisure Limited	London	A	0
 Future LinksMobile Ltd	Leeds	A	0
 Future London Academy Limited	London	A	0
@@ -3324,7 +3328,6 @@ Golden Beach (Leicester) Limited	Leicester	A	0
 GOLDEN CARE LIVING LTD	Ilford	A	0
 Golden Construction Essex Ltd.	Dagenham	A	0
 Golden Eagle Luxury Trains Limited	Altrincham	A	0
-Golden Lay London Limited T/A OptiScale Consulting	London	A	0
 GOLDEN LEAF MIDHURST LIMITED	Midhurst	A	0
 Golden Link Care Services Limited	Llandrindod Wells	A	0
 GOLDEN LIVING CARE SERVICES LTD	Lichfield	A	0
@@ -3380,7 +3383,6 @@ Grafton Lodge	Rochester	A	0
 Graham Layton Trust	London	A	0
 Grail Insights Ltd.	London	A	0
 Grain LNG Limited	Rochester	A	0
-GRAINGER GLOBAL ONLINE BUSINESS LTD.	London	A	0,4
 Grainstone Lee Ltd	Sidcup	A	0
 Gran Lab Limited	Belfast	A	0
 Grand Indian Lounge (Restaurant) Ltd TA Grand Indian Lounge	Leeds	A	0
@@ -3455,6 +3457,7 @@ Greenstone Landscaping Ltd	London	A	0
 GREENVISTA DEVELOPMENTS LTD.	Brentford	A	0
 Greenwood Childcare (Twickenham) Ltd.	London	A	0
 Greenwoods Legal LLP	Peterborough	A	0
+Greenwoods Legal Services Limited	London	A	0
 GREENWORLD LOGISTICS LIMITED	London	A	0
 Greif UK Ltd.	Ellesmere Port	A	0
 Grenke Leasing Limited	Guildford	A	0
@@ -3669,6 +3672,7 @@ Hebrey Ltd. t/a Frankonia The Breadhouse	Surbiton	A	0
 Hectic Lifestyles Ltd	Rochester	A	0
 Hedgehog Lab Limited	Newcastle Upon Tyne	A	0
 Heitman Financial UK LLC	London	A	0,4
+Helix Learning Trust	New Malden	A	0
 Helixr Ltd.	Guildford	A	0
 Hellmann Worldwide Logistics Limited	Burton Upon Trent	A	0,4
 Helloklean Ltd.	London	A	0
@@ -3746,7 +3750,6 @@ Hirose Financial UK Ltd.	London	A	0,4
 Hirt and Carter London Limited	London	A	0
 His Church London	London	A	1
 Hisamitsu UK Ltd.	London	A	4
-HistoCyte Laboratories Ltd	Newcastle	A	0
 Historic Hotels & Properties Limted	Scarborough	A	0
 Hitachi Information Control Systems Europe Ltd.	Bradford on Avon	A	0,4
 Hitex (UK) Ltd.	Coventry	A	0
@@ -3768,7 +3771,7 @@ HNS LOGISTICS LIMITED	Walsall	A	0
 Hoa Sen Ltd.	Edinburgh	A	0
 Hoare Lea LLP	Bristol	A	0
 HOCKERILL ANGLO-EUROPEAN COLLEGE LTD.	Bishop's Stortford	A	0
-Hogan Lovells International LLP	London	A	0,4,7
+Hogan Lovells Cadwalader International LLP	London	A	0,4,7
 Holchem Laboratories Limited	Bury	A	0
 HOLISTIC HEALTHCARE LEEDS T/A HOLISTIC HEALTHCARE CAMBRIDGE LTD	Leeds	A	0
 Holistic Healthcare Lincoln Ltd	Lincoln	A	0
@@ -3837,7 +3840,7 @@ HRQ Brothers Ltd. T/As Pentre Convenience Stores	Pentre	A	0
 HS DESIGN LONDON LTD	Brighton	A	0
 HS Legal Solicitors LTD	Colchester	A	0
 HS LOTHIAN LTD	Livingston	A	0
-HSF LONDON LTD	London	A	0,4
+HSF LONDON LTD	London	A	0
 HSK Gardening and Leisure Ltd	Warwickshire	A	0
 HT LONDON E1 LTD T/A CANARY HOMES	London	A	0
 HTU LIFE LTD	Witney	A	0
@@ -3855,6 +3858,7 @@ HUDSON (LORNE) LIMITED	Hamilton	A	0
 Hudson Advisors UK Ltd.	London	A	0,4
 Hudson Boat Works UK Lt.d	Reading	A	0
 Hudson River Trading Europe Ltd.	London	A	0,4
+Hugh and Liam McQuaid T/A Humac Engineering	Omagh	A	0
 Huhtamaki (Lurgan) Ltd	Craigavon	A	0
 Hull Search International Ltd.	London	A	0
 Hull Serviced Apartments Ltd.	Hull	A	0
@@ -3901,11 +3905,10 @@ IBC TV Ltd.	Hmamersmith	A	4
 IBERIA LINEAS AEREAS DE ESPANA SA OPERADORA	Harmondsworth, West Drayton	A	0
 IBI INTERNATIONAL LOGISTICS LIMITED	London	A	0
 IBN LEICESTER LIMITED	Leicester	A	0
-IBR PROPERTY SERVICES LTD.	Harrow	A	0
 IBS (London) Ltd	London	A	0
 ICAKES LONDON LIMITED	Ilford	A	0
 ICARE LIVING LIMITED	Birmingham	A	0
-ICBC (London) plc	London	A	4
+ICBC (London) plc	London	A	0,4
 Iceni Labs Limited	London	A	0
 ICIC ASSOCIATES LONDON LTD	London	A	0
 iCIMS International LLC	London	A	0
@@ -4040,7 +4043,6 @@ Innovative Food Concepts Ltd TA Vivo Latino	Cardiff	A	0
 Innovative Property and Lettings Ltd	Sutton Coldfield	A	0
 Innovative Risk Labs Limited	London	A	0
 Innovent Leasing Limited	London	A	0,4
-Inoxilos UK Ltd.	London	A	0,4
 INSIDE JOB BY LELLOW LIMITED	London	A	0
 Insights Learning & Development Limited	Dundee	A	0
 Inspira Digital Ltd.	Barnstaple	A	0
@@ -4114,7 +4116,6 @@ IQF (Integrated Qualification Framework) Ltd.	Forest Gate, London	A	0
 Iqra Learning Centre	Glasgow	A	10
 iQuanti International Ltd.	London	A	0
 IQVIA Laboratories Ltd	Livingston	A	0,4
-Irbis Capital Ltd.	London	A	0
 iRemit Global Remittance Ltd.	London	A	0,4
 Irha & Inaya Ltd. T/ A Cyberlinks	Manchester	A	0
 IRONMAN Ltd.	Abingdon	A	0,4
@@ -4147,7 +4148,6 @@ IVapes London Limited	Ilford	A	0
 IVF Laboratory Solutions	Bromley	A	0
 IVF London Ltd	Borehamwood	A	0
 IVI London Wimpole Ltd	London	A	0
-Ivory & Ledoux Limited	London	A	0
 Ivy League Scholars Limited	Sidcup	A	0
 Ivy Learning Trust	London	A	0
 Ivy Legal Limited	Bromley	A	0
@@ -4204,7 +4204,6 @@ JAMES LEWIS LTD	Hampton	A	0
 James Patterson Architects Ltd.	Brighton	A	0
 James Sanderson LTD T/AS Caremark Bromley & Lewisham	Bromley	A	0
 Jameson Legal Limited	London	A	0
-JAMIA DARUS SUNNAH LONDON	London	A	0,9,10
 Jamyang Buddhist Centre Leeds	Leeds	A	1
 Jan & Sach hotels Ltd trading as Villare Leicester City Centre Hotel	Leicester	A	0
 Jan London Trade Limited	Birmingham	A	0
@@ -4230,7 +4229,7 @@ Jays London Limited	London	A	0
 Jays News Off Licence Limited	Ashton-Under-Lyne	A	0
 JAZBA ENTERTAINMENT LTD.	Birmingham	A	3
 JB Lightspeed Trading Ltd T/A Roy Liquor Store	Peacehaven	A	0
-JBL Living Ltd	Harpenden	A	0
+JBL Living Ltd	Birmingham	A	0
 JBM Law Ltd	Campbeltown	A	0
 JC Lister Farms Ltd	Boroughbridge	A	0
 JC of Lymington Ltd	Lymington	A	0
@@ -4345,7 +4344,6 @@ JUUL Labs UK Ltd	London	A	0
 JVM Group Ltd T/A LaundryUP	Watford	A	0
 JVS Leicester Limited	Leicester	A	0
 JWM Law Offices Limited	London	A	0,2
-K & K Stores Limited T/A Nisa Local	London	A	0
 K & L Healthcare Limited	Bristol	A	0
 K & L Infinity Ltd	Walton-On-Thames	A	0
 K & M ENTERPRISES LTD T/As Nisa Local	Pulborough	A	0
@@ -4406,6 +4404,7 @@ Kapital Media London Limited	London	A	0,4
 Kapoor and Sons Enterprises Ltd. T/As Hilton Food and wine	London	A	0
 KAPPA LAB LTD	London	A	0
 KAPPARIO LONDON LIMITED LTD	London	A	0
+Kaprix Powerhouse Logistics Limited	Bushey	A	0
 Karimah Tandoori Limited TA Whitley Lodge Tandoori	Whitley Bay	A	0
 KARKIN & YUKSEL LEGAL SERVICES LTD	London	A	0
 KARMA LIV - IN LIMITED	Ilford	A	0
@@ -4496,7 +4495,7 @@ King Lifting	Bristol	A	0
 King's Church London	London	A	10
 King's College London	London	A	0,12
 King's College London Business Limited	Newquay	A	0
-KINGDOM LAW LTD	Ilford	A	0
+KINGDOM LAW LTD	Rainham	A	0
 Kingdom Life Apostolic Chapel	Birmingham	A	1
 Kings Langley Costcutter	Kings Langley	A	0
 Kings Langley School	Kings Langley	A	0
@@ -4529,6 +4528,7 @@ Kitchen Theory Ltd.	London	A	0
 Kite Lake Capital Management (UK) LLP	London	A	0
 KJF LTD T/A LARKINS STORE	Arundel	A	0
 KKS Building Ltd.	London	A	0
+KLA Legal Ltd	London	A	0,4
 Klaus Bode Consultancy Ltd.	London	A	0
 KLEEMANN LIFTS UK LIMITED	Ashford	A	0
 KLN BARBECUE AND LOCAL LIMITED	Leicester	A	0
@@ -4780,7 +4780,7 @@ LA MOME KNIGHTSBRIDGE LIMITED	London	A	0
 LA NAILS 35 LTD	Eastbourne	A	0
 la nonna food group limited	London	A	0
 La Palmera Restaurant Limited	Leeds	A	0
-LA PARRILLA TAPAS BAR AND GRILL LTD	Gravesend	A	0
+LA PARRILLA TAPAS BAR AND GRILL LTD	Sheffield	A	0
 La Perla Clinic	Marlow	A	0
 La Petite Auberge	Barnet	A	0
 La Petite Brassiere Ltd	Watford	A	0
@@ -4815,6 +4815,7 @@ LA TRADING INTERNAL TAXI ADVERTSING	Bournemouth	A	0
 La Tua Pasta Ltd	London	A	0
 La vie en Rose Ltd	Tewkesbury	A	0
 La Villa Ltd T/A Bella Vita Folkestone	Folkestone- KENT	A	0
+LA VITA (SCOTLAND) LIMITED	Glasgow	A	0
 LA VITA GEORGE SQUARE LIMITED	Glasgow	A	0
 LA VIVA LIMITED	Preston	A	0
 LA YAANAT PROJECTS & RECRUITMENT LTD	Romford	A	0
@@ -4845,6 +4846,7 @@ Labelle Jade Limited T/A Labelle Nails & Beauty	Hertfordshire	A	0
 LabGenius Ltd	London	A	0
 Labl.it Solutions Ltd	Southampton	A	0
 Labman Automation Ltd.	Stokesley	A	0
+LabMedExpert Biomedical Limited	West Midlands	A	0
 LabMedExpert Limited	Wolverhampton	A	0
 Labna Hameed	Woking	A	0
 Laboba99	Ledbury	A	0
@@ -4906,7 +4908,6 @@ Lady Isle - Partnership	Kilkeel	A	0
 Lady J Limited	London	A	0
 Lady May Limited	London	A	0
 LADYB (UK) LIMITED	Barking,	A	0
-Ladybird Lane Nursery Limited	Isleworth	A	0
 Ladybird Montessori Nursery	Birmingham	A	0
 Ladybird Nurseries London Limited	Chislehurst	A	0
 Ladybird Nurseries Ltd	Chislehurst	A	0
@@ -4949,6 +4950,7 @@ lahori chai shai ltd	Manchester	A	0
 Lahori Flames Limited T/A Lahori Flames	Northwood	A	0
 Lahori Kulfi Limited	London	A	0
 LAHORI MASALA SOUTHALL LTD	Southall	A	0
+LAHORI SPICE GARDEN LTD T/A MY BAGH	Manchester	A	0
 LAHORI SPICY BIRYANI HOUSE LTD	London	A	0
 LAHORI TECH LTD	Swansea	A	0
 Lahori Xpress LTD	Preston	A	0
@@ -5033,6 +5035,7 @@ LAKSA 168 LIMITED	London	A	0
 LAKSA CAFE LIMITED	Southgate	A	0
 Laksa Solutions Ltd	Bristol	A	0
 LAKSHMI ENTERPRISES DIVINE HOME LTD	Eastham	A	0
+LAKSHMI MND LIMITED	Newport	A	0
 Lakshmi Narayana Trust	London	A	0,1,10
 LAKSHMI SAI INFO LIMITED	London	A	0
 Lakshmi Stores and Traders Limited	Derby	A	0
@@ -5071,7 +5074,6 @@ LALQILA MAGHULL LTD	Liverpool	A	0
 Laltex and Co Limited	Leigh	A	0
 Lalys Chemists	Portsmouth	A	0
 Lam Research Limited	Almondsbury	A	0,4
-LAM Research Limited (UK)	Edinburgh	A	0
 LAM UK HOLDINGS LIMITED	Derby	A	0
 Lama Jewellers Limited	Aldershot	A	0
 Lama Technology Group Limited	London	A	0
@@ -5254,6 +5256,7 @@ Langford Park Ltd	Exeter	A	0
 Langford Park Ltd	Langford	A	0
 Langford Spice Ltd T/A Spice Lounge	Bedfordshire	A	0
 Langford Veterinary Services Ltd	Bristol	A	0
+LANGHAM AND LANGLEY LIMITED	Dagenham	A	0
 Langham Arts Trust	London	A	0
 Langham Estate Management Limited	London	A	0
 LANGHAM FOODS LIMITED	London	A	0
@@ -5455,7 +5458,7 @@ LatentSpace AI Ltd	Altrincham	A	0
 Latentview Analytics UK Limited	London	A	0,4
 Lateral MGMT UK Ltd	London	A	0,3
 Lateral Naval Architects Ltd	Southampton	A	0
-Lateralize Ltd	Stonehouse	A	3
+Lateralize Ltd	Swanage	A	3
 Latestarter Limited T/A Oliver Plaza Hotel	London	A	0
 Lathagini Sivakumar T/A Milton Convenience Store - Premier	North Somerest	A	0
 Lathallan School	Montrose	A	0
@@ -5614,6 +5617,7 @@ Lawson West Solicitors	Leicester	A	0
 Lawtech Group	Gillingham	A	0
 Lawton Gallagher Limited	London	A	0
 LAWTON NORTHANTS LTD	Northampton	A	0
+Lawton Tube Company Limited (The)	Coventry	A	0
 Lawtons Ltd	Liverpool	A	0
 Lawtronic Limited	Kings Lynn	A	0
 Lawyerly Ltd	London	A	0
@@ -5711,7 +5715,7 @@ LDN Apprenticeships Ltd	London	A	0
 LDN AUTO SERVICES LTD	Braintree	A	0
 LDN CONTRACTORS LIMITED	London	A	0
 LDN CORPORATIONS LTD	London	A	0
-LDN Horticulture Ltd	Braintree	A	0
+LDN Horticulture Ltd	Croydon	A	0
 LDN NOOTS LTD	London	A	0
 LDN PHYSIO LIMITED	Harrow	A	0
 LDP KItchens Ltd	Glasgow	A	0
@@ -5931,7 +5935,6 @@ Lee Service station	London	A	0
 LEE VALLEY CARE SERVICES LTD	Wembley Park	A	0
 Lee's Mini Market	Oldham	A	0
 Lee-Well Catering Ltd	Poole	A	0
-LEEC Limited	Nottingham	A	0
 Leech Mechanical Services Limited	Latchingdon	A	0
 Leeds and Bradford Boiler Company Limited	West Yorkshire	A	0
 LEEDS AND CUBE RESOURCES UK LIMITED	Manchester	P	2
@@ -6264,7 +6267,6 @@ LESMAHAGOW MINI MARKET LTD t/a Spar	Lesmahagow	A	0
 Lesotho High Commission	London	A	5
 LESS COMMON METALS LTD	Ellesmere Port	A	0
 LESSEL LIMITED	London	A	0,6
-LESTARI LDN LTD	London	A	0
 Lester and Hamilton trading as Pandora	London	A	0
 Lester Cladding North West Ltd	Appley Bridge	A	0
 Lester Control Systems Limited	Croydon	A	0
@@ -6378,6 +6380,7 @@ Lewis Hamilton Ventures Limited	London	A	0
 Lewis Kingsnorth Limited	Eastbourne	A	0
 Lewis Mathys Emmerson LLP	London	A	0
 Lewis Moberly Ltd	London	A	0
+Lewis Pension Admin Limited	Poole	A	0
 LEWIS PROPERTY NW LTD TA LEWIS PROPERTY	Manchester	A	0
 Lewis Silkin LLP	London	A	0,3,4
 Lewis Trust Group Ltd	London	A	0,4
@@ -6471,6 +6474,7 @@ LGE FOODS LTD	Birmingham	A	0
 LGH Central Ltd	Atherton	A	0
 LGH Hotels Management Limited	West Drayton	A	0
 LGIU International Ltd	London	A	0
+LGM Engineering Limited	Epsom	A	0
 LGM Products Ltd	Farnham	A	0
 LGMG MACHINERY U.K. LIMITED	Liverpool	A	0,4
 LGND Online Services Ltd	London	A	0,4
@@ -6519,6 +6523,7 @@ Liberal International	London	A	0
 Liberal Judaism (ULPS)	London	A	1,10
 Liberatii Ltd	Chilworth	A	0
 Liberating Research Ltd	London	A	0
+Liberay Legal Limited	Bolton	A	0
 Liberis Ltd	London	A	0
 LIBERTA RESTAURANT LTD	Bathgate	A	0
 Libertas Care Ltd	Crewkerne	A	0
@@ -6597,6 +6602,7 @@ Life Destiny Church	Harrogate	A	10
 Life Education Trust	Romford	A	0
 Life Effect Chiropractic Ltd	Southampton	A	0
 Life Enhancement And Fitness Ltd	Llandudno	A	0
+life for a kid	Hull	A	9
 Life Health Foods UK Ltd	London	A	0
 LIFE INSURANCE CORPORATION OF INDIA	Watford	A	4
 Life is Japan (UK) ltd.	Brighton	A	0
@@ -6695,9 +6701,11 @@ Light Health Care Ltd	Barnsley	A	0
 LIGHT HOUSE SECURITY LIMITED	Rubery Birmingham	A	0
 Light Methods Limited	Sutton	A	0
 Light N Light UK Limited	Uxbridge	A	0,3
+LIGHT PRINT LTD t/a Light Print London	London	A	0
 Light Research Limited	London	A	0,4
 Light rise Consulting Ltd	Wimborne	A	0
 Light Science Technologies Ltd	Derby	A	0
+Light Tone Studios Ltd	Canterbury	A	0
 Light Upon Light Media Limited	London	A	0
 LIGHT UPON LIGHT TRADING LIMITED T/A GRILL HUT PERI PERI	Luton	A	0
 Light Visualisation Limited	Dorset	A	0
@@ -6705,7 +6713,6 @@ LightBaze Digital Services Limited	Gainsborough	A	0
 Lightbowne Road LTD	Manchester	A	0
 Lightbug Ltd	Bristol	A	0
 Lightcliffe & Halifax Cricket Club	Halifax	A	11
-LIGHTDALE TRADING LTD T/A MOTOVANS	Harrow	A	0
 LIGHTENING (SW) LTD	London	A	0
 lightening Logistics Ltd	Harrogate	A	0
 Lightening Ltd	Edgware	A	0
@@ -6775,7 +6782,6 @@ Lili Italia	Lancashire	A	0
 LILIA HEALTHCARE LIMITED	Ruislip	A	0
 Lilian Faithfull Care	Cheltenham	A	0
 Lilies Care Limited	Clydebank	A	0
-Lilies Home Care	Bradford	A	0
 LILIES24 HEALTHCARE LTD	Rotherham	A	0
 LILIMI LIMITED	London	A	0
 Lillibet Healthcare Limited	Bedford	A	0
@@ -6821,6 +6827,7 @@ Lime Lodge Care Ltd	Nottingham	A	0
 LIME LOUNGE (HIGH LANE) LIMITED	Manchester	A	0
 Lime Microsystems Ltd	London	A	0,4
 Lime Orange Ltd	Chessington	A	0
+LIME SHOWROOMS LIMITED	Surbiton	A	0
 Lime Street Management Services Limited	London	A	0
 Lime Technology Limited	London	A	0,4
 Lime Tree Bistro Ltd	Leeds	A	0
@@ -6855,7 +6862,7 @@ Limitless Care Ltd	Huddersfield,	A	0
 Limitless Futures CIC	Bury St Edmunds	A	0
 Limitless Polo Team	Reading	A	11
 Limitless Travel Ltd	Birmingham	A	0
-LIMITOWEB TECHNOLOGIES LTD	Birmingham	A	0
+LIMITOWEB TECHNOLOGIES LTD	Brentford	A	0
 Limms Skills Academy Limited	London	A	0
 Limoz Logli Hair ltd	London	A	0
 Limpet Technology Limited	Stirling	A	0
@@ -7032,7 +7039,6 @@ Links House Limited	Dornoch	A	0
 Links Medical Practice	Aberdeen	A	0
 Links Medical Practice	Dudley	A	0
 Links Nurseries Ltd	Edinburgh	A	0
-LINKS SECURITY SERVICES LTD	Stockport	A	0
 Linksmax Limited	Bristol	A	0
 LINKSTAR TECH LTD	London	A	0
 Linkswood Veterinary Centre	Halstead	A	0
@@ -7219,7 +7225,6 @@ Little Garden Nursery Limited	Harrow	A	0
 Little Gaynes Rest Home Limited	Upminster	A	0
 LITTLE GIANTS LIMITED	Manchester	A	0
 Little Giants Volleyball Club Limited	London	A	11
-Little Goose Ltd	Hassocks	A	0
 Little Harwood Health Centre	Blackburn	A	0
 Little Haven Childcare Limited	London	A	0
 Little Heath School	Romford	A	0
@@ -7312,6 +7317,7 @@ Littlemoor Minimarket Ltd (T/A Green Food and Wine)	Birmingham	A	0
 LITTLEMORE FOOD LTD	London	A	0
 Littlemore MiniMarket	Oxford	A	0
 LITTLEOVER CURRY HOUSE LIMITED T/A RED CHILLI	Derbyshire	A	0
+Littleover Group Plc	Derby	A	0
 Littlepay Limited	Epsom	A	0
 Littleton Convenience Store Ltd T/A Go Local - Littleton Convenience Store	Salford	A	0
 Littletown Cricket Club	Littletown	A	11
@@ -7400,7 +7406,7 @@ LiveScore Group Limited	London	A	0
 LIVESEY HEALTHCARE LTD	Blackburn	A	0
 LIVESHOP LIMITED	London	A	0
 Livestock Improvement Corporation (UK) Ltd	Salisbury	A	0,4
-LiveStockEx Limited	Pershore	A	0
+LiveStockEx Limited	Tunbridge Wells	A	0
 Livetec Systems Limited	Silsoe	A	0
 Livewell Nutrition Ltd	Kington	A	0
 Livewell Southwest (CIC)	Plymouth	A	0
@@ -7586,6 +7592,7 @@ LMS Recruitment Systems Ltd	Skipton	A	0
 LMS Sheridans Ltd	Uxbridge	A	0
 LMTD EMEA Ltd	London	A	0,4
 LN Beauty Ltd (T/A Beautique)	Maidstone	A	0
+LN-MADINA FOODS STORE LIMITED	Lincoln	A	0
 LNB BUILDING SOLUTIONS LTD	Brentford	A	0
 LND CONSTRUCTION SERVICES LIMITED	London	A	0
 LNR FOODS LTD T/A BEST FOODS	Reading,	A	0
@@ -7616,6 +7623,7 @@ LOBA GROUP LIMITED	London	A	0
 Lobaso Limited	London	A	0
 LOBO SEAFOOD MIDLAND LIMITED	Birmingham	A	0
 LOBON MOREES LTD	Aylesbury	A	0
+LOBSTER SMACK LIMITED	Braintree	A	0
 LOC TAX LTD	London	A	0
 Loca Hbh Ltd	Radlett	A	0
 LOCAL ACCESS CENTRE (LAC)	Birmingham	A	9
@@ -7667,6 +7675,7 @@ Loch Dunvegan Shellfish Ltd	Isle Of Skye	A	0
 Loch Employment Law Limited	Tunbridge Wells	A	0
 Loch Golf Limited	Berwickshire	A	0
 Loch Leven Equine Practice Ltd	Kinross	A	0
+Loch Leven Hotels Limited TAs Loch Leven Hotel	Inverness	A	0
 Loch Lomond Distillers Limited	Alexandria	A	0
 Loch Ness Coffee Company	Inverness-shire	A	0
 Loch Rannoch Estate Limited	Pitlochry	A	0
@@ -7679,6 +7688,7 @@ LOCHGILPHEAD CURRY HOUSE LTD	Argyll	A	0
 Lochgilphead Medical Centre	Lochgilphead	A	0
 Lochinver Consultancy Services Limited	London	A	0
 Lochlie Construction Limited	Glasgow	A	0
+Lochside Garages Limited	Enniskillen	A	0
 LOCHSIDE SMILE CENTRE LIMITED	Dumfries	A	0
 Lochview Medical Practice	Greenock	A	0
 Lochview Theme Park (Scotland) Ltd	Motherwell	A	0
@@ -7744,6 +7754,7 @@ LOFT 25 GROUP LTD	Birmingham	A	0
 Loft Rooms.co.uk Ltd	London	A	0
 LOFTI PROPTECH LTD	London	A	0
 LOFTME LTD	Ongar	A	0
+LOG H NETWORK LIMITED	Southend-on-Sea	A	0
 LOGAN & PARTNERS LAW LTD	London	A	0,2
 Logan Energy Limited	Wallyford	A	0
 Logan Property Ltd	Edinburgh	A	0
@@ -7801,6 +7812,7 @@ Logos Research Ltd	London	A	0
 LogPoint (UK) Limited	London	A	0,4
 LogRhythm Limited	Maidenhead	A	0,4
 Logwin Air + Ocean UK Ltd	Uxbridge	A	0
+Logwood Convenience Store Limited	Appley Bridge	A	0
 Lohani Limited	London	A	0
 LOHUR&CO LTD	Brighton	A	0
 LOIBAR EDUCATION CONSULTANCY LTD	Coventry	A	0
@@ -8031,7 +8043,6 @@ London Forfaiting Company Ltd	London	A	0
 London Fox Limited TA Cacao Route	Walton-on-Thames	A	0
 LONDON FREIGHT & LOGISTICS LTD	Barking	A	0
 LONDON FULL GOSPEL CENTRAL CHURCH	London	A	1,9,10
-London Funders	London	A	0
 LONDON G J SERVICES LTD	Ilford	A	0
 London Gas and Power Ltd	London	A	0
 LONDON GAS ENGINEERS LTD	Slough	A	0
@@ -8099,7 +8110,7 @@ London Lightworks Ltd	Watford	A	0
 LONDON LIN FOODS HOUSE LTD	London	A	0
 LONDON LOCAL G&H LIMITED	London	A	0
 London Luton Airport Operations Ltd	Luton	A	0
-LONDON LUXURY CHAUFFEURING LTD	Middlesex	A	0
+LONDON LUXURY CHAUFFEURING LTD	London	A	0
 London Luxury Products Ltd	Aylesbury	A	0
 London Marathon Events Limited	London	A	0
 LONDON MARINE CONSULTANTS	London	A	0
@@ -8164,6 +8175,7 @@ London Property Letting and Management Limited	Middlesex	A	0
 LONDON PROPERTY MANAGERS LIMITED	London	A	0
 London PT College Limited	London	A	0
 London Pulse	Epsom	A	11
+London Pulse t/a London Pulse Basketball Club	London	A	0
 London Quality Care Services Ltd	London	A	0
 London Quartz Stone Limited	Greenford	A	0
 London rapid response security services	London	A	0
@@ -8190,7 +8202,6 @@ London Scandinavian School	London	A	0
 London Scans Limited	London	A	0
 LONDON SCHOOL ADVICE LTD	London	A	0
 LONDON SCHOOL OF BUSINESS & COMPUTING LTD	London	A	0
-London School of Business Administration Ltd	London	A	0
 London School of Commerce (A Division of St.Piran's School (GB) Limited	London	A	0,4
 London School of Economics and Political Sciences Students' Union	London	A	0
 LONDON SCHOOL OF EXCELLENCE LTD	Hornchurch	A	0
@@ -8200,6 +8211,7 @@ London School of Management Education	Gants Hill	A	0
 London School of Mathematics and Programming Ltd.	London	A	0
 LONDON SCHOOL OF MEDICAL & HEALTH SCIENCES LIMITED	London	A	0
 London School of Science & Technology Limited	London	A	0
+LONDON SCHOOL OF SKILLS & ENTREPRENEURSHIP LTD	London	A	0
 London School of Social and Management Sciences	Ilford	A	0
 London School of Theology	Northwood	A	0
 LONDON SCHOOL OF TRAINING & EDUCATION LTD	London	A	0
@@ -8306,7 +8318,6 @@ LONE DESIGN CLUB LTD	London	A	0
 Lone Star Europe Acquisitions Limited	London	A	0,4
 Lonelyleap	Greenwich, London	A	0
 LONG & SON TRADING LIMITED	London	A	0
-LONG AND PARTNERS GROUP LIMITED	London	A	0
 LONG AND PARTNERS GROUP LTD	London	A	0
 Long Arm Investments Limited	Doncaster	A	0
 Long Buckby Trading Ltd	Long Buckby	A	0
@@ -8447,7 +8458,7 @@ Loring Hall Ltd	Sidcup	A	0
 LORISSE LTD	London	A	0
 LORNAR LTD	London	A	0
 LORNAT HEALTHCARE LTD	London	A	0
-Lorne Stewart Plc	London	A	0
+Lorne Stewart Plc	Harrow	A	0
 Loro Di Napoli Ealing Ltd	Ealing	A	0
 Loro Piana G.B. Limited	London	A	0
 Lorven Housing Ltd	Bromley	A	0
@@ -8517,6 +8528,7 @@ LOTUS UK Integrated Communications Ltd	London	A	0
 LOUD MOUTH MEDIA LTD	Belfast	A	0
 Louder Entertainment Limited	London	A	0
 Louder Productions Limited t/a Amplify	London	A	0,4
+LoudLocal Limited	Leamington Spa	A	0
 Loudons Ltd	Edinburgh	A	0
 Loudoun Veterinary Clinic Ltd	Darvel	A	0
 Lough Erne Resort Castle Hume Leisure Ltd	Fermanagh	A	0
@@ -8771,7 +8783,6 @@ LS Scientific Limited	Whitstable	A	0
 LS WHOLESALE LTD	Cardiff	A	0
 LS.Cakery	York	A	0
 LSA RECRUIT LTD	Harrow on the Hills	A	0
-LSA Retail Ltd	London	A	0
 LSAK LIMITED	Willenhall	A	0
 LSBM LIMITED	London	A	0
 LSC STANMORE LIMITED	Edgware	A	0
@@ -8828,7 +8839,7 @@ Lubrikem Limited	London	A	0
 Lubrizol Limited	Derby	A	0,4
 Lubron Uk Ltd	Colchester	A	0
 Lubz Telecom Ltd	Reading	A	0
-LUC Group Limited	Derbyshire	A	0
+LUC Group Limited	Swadlincote	A	0
 LUCA PACIOLI BUSINESS SOLUTIONS LTD	Welwyn Garden City	A	0
 LucaNet (UK) Limited	London	A	0,4
 Lucart Hygiene Limited	Worcestershire	A	0,4
@@ -9009,7 +9020,6 @@ Lumsden Design Ltd	London	A	0
 LUMYA LIVING UK LIMITED	London	A	0
 Lumyna Investments Limited	London	A	0
 Luna Care Services Ltd.	Potters Bar	A	0
-Luna Cleaning Solutions Limited	Grays	A	0
 Luna De Pak 2017 Ltd	Dewsbury	A	0
 Luna Group Holdings Ltd	London	A	0
 Luna Jack Ltd	Harrow	A	3
@@ -9036,6 +9046,7 @@ Lunfardo Ltd	London	A	0
 Lunit UK Limited	Stockport	A	0
 LUNO FASHION LIMITED	Sully	A	0
 Luno Money Limited	London	A	0
+Lup Events Ltd trading as Lup	London	A	0
 Lupa Pets LTD	London	A	0
 LUPIN HEALTHCARE (UK) LIMITED	Slough	A	0,4
 Lupine Canine Limited	Horsforth	A	0
@@ -9230,7 +9241,7 @@ LYFE TECHNOLOGY LIMITED	Bristol	A	0
 LYFPLAN LIMITED	London	A	0
 Lyfta Education Limited	Warwick	A	0
 LYH Limited	London	A	0
-LYKIAFASHION LIMITED	London	A	0
+LYKIAFASHION LIMITED	Ingatestone	A	0
 Lykos Academy Trust	Wolverhampton	A	0
 LYKRIS INNOVATION GLOBAL LTD	Clydebank	A	0
 Lyle & Scott ltd.	London	A	0
@@ -9265,6 +9276,7 @@ Lyngold Ltd T/A Sinclairs Pharmacy	London	A	0
 Lynn Care Service Limited	Enfield	A	0
 Lynn Macbain	Harrogate	A	0
 Lynn Shellfish	Kings Lynn	A	0
+LYNNE CHAPMAN REPRODUCTIVE HEALTH (LCRH) LTD	London	A	0
 Lynns Country Foods Limited	Downpatrick	A	0
 Lynott Partners Ltd	London	A	0
 LYNQ LIMITED	Fareham	A	0,4
@@ -9303,7 +9315,6 @@ Lyttle IT Limited	Swindon	A	0
 Lyx Logistics Ltd	Halifax	A	0
 LZZ Foods Ltd	Welling	A	0
 Lâ??Aquila Restaurant	Manchester	A	0
-M & D Careplus Limited T/A Bluebird Care Tamworth, Lichfield, Nuneaton & North Warwickshire	Tamworth	A	0
 M & I Off License Ltd	London	A	0
 M & L Kitchen	Stowmarket	A	0
 M & L Paper Limited	Chatham	A	0
@@ -9347,7 +9358,6 @@ Macguys Ltd.	London	A	0
 Machrie Golf Links and Hotel Limited T/A The Machrie Hotel & Golf Links	Isle of Islay	A	0
 MACKENZIE & EBERT LTD.	Chichester	A	0
 MACKS LOGISTICS LTD	Wolverhampton	A	0
-Macquarie Aircraft Leasing Services (UK) Limited	London	A	0
 Mad Lab Fitness LTD	London	A	0
 Maddaford Care Services Ltd trading as Lakeside Residential home	Okehampton	A	0
 MADE IN LONDON MEDIA LIMITED	London	A	0
@@ -9420,7 +9430,6 @@ Manor Homes Poulton Ltd. T/A Cleveleys Nursing Home	Thornton Cleveleys	A	0
 Manor House Drycleaners and Launderers Ltd T/A Manor House Drycleaners and Launderers	London	A	0
 Manor Lane Dry Cleaners	London	A	0
 Manor Longbridge School	Dagenham	A	0
-MANS TRADING LIMITED T/A The Ladz	Cardiff	A	0
 MANS TRADING LIMITED T/A The Ladz	Cardiff,	A	0
 Manta Ray Media Ltd.	London	A	0
 Mantra Learning	Middleton	A	0
@@ -9471,6 +9480,7 @@ MAS BAZAR LUTON LTD	Luton	A	0
 MAS Logistics UK Ltd	Southall	A	0
 Masala 910 Limtied	Ilford	A	0
 Mash Lift Installation LTD	London	A	0
+Mason Navarro Pledge Ltd.	Hitchin	A	0
 Masons Local	Birmingham	A	0
 Masq London Ltd	London	A	0
 Masraf London Ltd	London	A	0
@@ -9894,6 +9904,7 @@ MV RETAIL LEICESTER LTD T/A VAMA COLLECTIONS	Leicester	A	0
 MV SPORTS & LEISURE LIMITED	Birmingham	A	0
 MWM LURMS LTD	Hayes	A	0
 My Lalaland Ltd	London	A	0
+My Latte UK Limited (T/As My Latte Cafe)	Coventry	A	0
 My Learning Hub Limited	Twickenham	A	0
 My Legal Cashier Ltd	London	A	0
 MY LIVEN LIMITED	London	A	0
@@ -9977,6 +9988,7 @@ NBJ London Ltd	Husbands Bosworth, Lutterworth	A	0
 NCF Furnishings Limited T/A NCF Living	Coleshill	A	0
 ND & AN STORES LTD.	Preston	A	0
 Nebuli Ltd.	London	A	0
+Nebumi Technologies UK Ltd.	London	A	0
 Needoo Ltd.	London	A	0
 NEELCHEM LTDT/A GOLDHARTS PHARMACY	Bedford	A	0
 Neg Earth Lights Ltd	London	A	0,3
@@ -10311,9 +10323,8 @@ ONE FOOD (LONDON) LTD	London	A	0
 One Good Thing Ltd.	Hitchin	A	0
 One Group Solutions London Limited	London	A	0,4
 One LDN 360 Limited	London	A	0
-One Life Health Support Ltd t/a Caremark Surrey Heath & Rushmoor	Farnborough	A	0
 One Little Independent Ltd T/A One Little Independent Records	London	A	0
-One London City Limited	London	A	0
+One London City Limited	Barnet	A	0
 One Love Caribbean Restaurant Limited	Romford	A	0
 One Love Kitchen	London	A	0
 One Luxury Group Advisors LLP	London	A	0
@@ -10362,9 +10373,9 @@ Ordinary Lifestyles	Failsworth	A	0
 ORIENT CABLE (NBO UK) LTD.	London	A	0,4
 Oriental Thai Cuisine Ltd T/A. Tiger Lily	Osterley	A	0
 Origin Co. and Ltd.	Welwyn Garden City	A	0
-Original Biryaniwala London Limited	Wembley	A	0
 Orlen LNG Trading Limited	London	A	0,4
 Orluna LED Technologies Limited	Dunstable	A	0
+Oro Labs UK Limited	London	A	0,4
 Oru Space Ltd.	London	A	0
 Osborne & Little Ltd	London	A	0
 Oshino Lamps (UK) Limited	Nottingham	A	0
@@ -10386,8 +10397,8 @@ Our Place Group (Our Place Schools and Lakeside)	Malvern	A	0
 Our Voice Legal Ltd	Basildon	A	0
 Out of Hours West Lancshire CIC	Skelmersdale	A	0
 Outernet London Limited	Greater London	A	0
+OV Entertainment Ltd.	London	A	0
 Ovenden Off Licence Ltd	Halifax	A	0
-Ox Support Services Ltd.	Ascot	A	0
 OXFORD ACADEMY LONDON LTD	London	A	0
 Oxford Centre for Religion and Public Life	Oxford	A	0
 Oxford College of Education Lt	High Wycombe	A	0
@@ -10435,7 +10446,6 @@ Panjrang London Ltd	Slough	A	0
 Panmure Liberum Limited	London	A	0,4
 PANORAMA YACHT LONDON LIMITED	High Wycombe	A	0,4
 Pansy Hunter t/a Hunters Lodge	Surrey	A	0
-Pantechnicon London Limited	London	A	0
 Pantheon Hotels and Leisure Ltd	Ruislip	A	0
 Papa Luigi's (Lancashire) Ltd	Chorley	A	0
 PAPRIKA LOUNGE LTD	Kent	A	0
@@ -10470,7 +10480,6 @@ Park Lifts Ltd	Perivale	A	0
 Park Lodge Residential Care Home	Broadstone	A	0
 Park Road Off Licence	Mexborough	A	0
 Park Road Stores Ltd T/A Nisa Local	London	A	0
-Parker Lloyd Leisure Limited	London	A	0
 Parkinsons Master Thatchers Ltd.	Chipping Norton	A	0
 Parkol Marine Engineering Ltd.	Whitby	A	0
 Parkside Accessories Ltd.	London	A	0
@@ -10574,6 +10583,7 @@ Phelippeau London Limited	Southfields, London	A	0
 Phenome Longevity	London	A	0
 Phenomena Logistics Ltd	London	A	0
 Philip Jones Legal	Middlesex	A	0
+PHILIP NOLAN ACCOUNTANTS (LIVERPOOL) LIMITED	Liverpool	A	0
 PHILIP NOLAN ACCOUNTANTS (LUTON) LIMITED	Luton	A	0
 PHOENIX LAW ASSOCIATES LTD	London	A	0
 Phoenix Leisure Limited	Suffolk	A	0
@@ -10632,7 +10642,7 @@ PL LONDON LTD, T/A PANORAMIC LANDSCAPE CONTRACTORS	East Sussex	A	0
 Plant Lipids UK Limited	Corby	A	0,4
 Planty London Ltd	London	A	0
 Plas Bod Llwyd Care Home	Wrexham	A	0
-Plasma Labs UK Limited	London	A	0
+Plasma Labs UK Limited	London	A	0,4
 PLATINUM LIVING CARE LIMITED	Chatham	A	0
 Play and Learn Day Nursery	Barnet	A	0
 Playgolf London Limited	London	A	0
@@ -10693,7 +10703,7 @@ PPC Protect Limited T/A Lunio	Manchester	A	0
 PPM International (London), Ltd	London	A	0,4
 Praxis Real Estate Management Ltd.	Manchester	A	0
 Preciosa Lighting UK Ltd.	London	A	0
-PRECIOUS LONDON LIMITED	Buckinghamshire,	A	0
+PRECIOUS LONDON LIMITED	Shenley	A	0
 Precision Microdrives Ltd.	London	A	0
 Precision Ortho Labs Ltd (T/AS -Precision Full Service Dental / @pfsdental	Cardiff	A	0
 Preformed Line Products (Great Britain) Limited	Andover	A	0
@@ -10810,6 +10820,7 @@ Public Law Project	London	A	0
 PUCCINO'S M&M LEATHERHEAD LTD	Leatherhead	A	0
 Puckeridge Local Store Ltd TA Puckeridge Local Store	Puckeridge, Ware	A	0
 Pudsey St Lawrence Cricket Club	Leeds	A	11
+PULSE LIGHT CLINIC (UK) LTD	London	A	0
 PUNIA LOGISTICS LTD	Coventry	A	0
 Punitha Thiyakeswaren T/As Mountain Ash Local Store	Mid Glamorgan	A	0
 Punjabi Rasoi London Limited	Ilford	A	0
@@ -10818,7 +10829,6 @@ Purani Delhi Junction Ltd. T/A Delhi Junction	Maidenhead	A	0
 Purdie Pascoe Ltd.	London	A	0
 Pure Business Law Limited	Bedford	A	0
 PURE CONSTRUCTION LOGISTICS LTD	Amersham	A	0
-pure white lines	Brooks Lane	A	0
 purefoods of london ltd+	Middlesex	A	0
 Purifire Labs Limited	Cambridge	A	0
 Purity Care Ltd.	Swindon	A	0
@@ -10827,7 +10837,6 @@ Purple Lion Day Nurseries Buckhurst Hill Ltd	London	A	0
 Purple Patch London Ltd	London	A	0
 Purple Style Labs UK Limited	London	A	0
 Push Labs Limited	London	A	0
-Puspa & Laiba Ltd	Feltham	A	0
 PUSULA LTD.	Huntingdon	A	0
 Putney Local Ltd T/A Putney Food & Wine	London	A	0
 PUTNEY'S LOCAL LIMITED	Uxbridge	A	0
@@ -10912,7 +10921,6 @@ R&A LEE HOLDINGS LTD	Ec1N 8Le	A	0
 R&AK Law Firm Ltd	London	A	0
 R&F Partners Ltd T/A Elland Road Express - Go Local	Leeds	A	0
 R&R Local Ltd T/A Moreys	Exmouth	A	0
-R&S Convenience Store Ltd T/A The Local	Walton-On-Thames	A	0
 R&T (LEE) CLINIC LIMITED	London	A	0
 R. L Matson & Son	Whitchurch	A	0
 R3G LOGISTICS & OPERATIONS LTD	Edinburgh	A	0
@@ -10981,7 +10989,6 @@ Rashid Law Limited	Birmingham	A	0
 RASHID MALIK LONDON LTD	Ilford	A	0
 Rated Labs Ltd	London	A	0
 Rathern Ltd T/A DoubleTree by Hilton London ? Marble Arch	London	A	0
-Rational Labelling and Marking Systems Ltd	Brackley	A	0
 Rattling Stick LTD.	London	A	3
 Raunds Lodge Nursing Home Limited	Raunds	A	0
 RAV BUILDERS (LDN) LTD	Romford	A	0
@@ -11002,6 +11009,7 @@ RCCG Life Start Connections	Kent	A	0
 RCCG LIGHT HOUSE ASSEMBLY HACKNEY	Hackney London	A	1,10
 RCCG Living Faith Assembly	Crawley	A	0,1,9,10
 RCCG Living Faith, South Shields	Tyne and Wear	A	1,9,10
+RCCG MOUNT ZION LIVERPOOL LTD	Liverpool	A	1,9,10
 RCCG Saints in Light Assembly	Sunderland	A	1
 RCCG-LivingWord Liberation Centre (Holy Ghost Zone)	Southampton	A	1
 RCI (Luton) Ltd	Dunstable	A	0
@@ -11029,7 +11037,6 @@ Rebel & Love Ltd	Oxford	A	0
 Receiptco Manufacturing (UK) Ltd.	Peterborough	A	0
 Reconciling Leaders Network	London	A	0
 RECRUIT WORLDWIDE LIMITED.T/A Zebra Multimedia	London	A	0,3
-Recursion London Ltd	London	A	0,4
 Recycling Lives Compliance Services	Preston	A	0
 Recyco Limiited	Omagh	A	0
 Red Band Chemical Limited T/A Lindsay & Gilmour	Edinburgh	A	0
@@ -11064,7 +11071,6 @@ Reef London Limited	London	A	0,4
 REEMY MEDICARE LIMITED T/A Laurel Mount Nursing Home	Keighley	A	0
 Regal Garages Ltd.	Reading	A	0
 REGALQUAFF LIQUOR HUB LIMITED	London	A	0
-REGENCY LEISURE LIMITED	Birmingham	A	0
 Regent Letting and Property Management Ltd	London	A	0
 Regent's University London Limited	London	A	0
 Regina Limon Vega Limited	London	A	0
@@ -11078,7 +11084,6 @@ Reliance Locums Ltd	Sheffield	A	0
 Reliance Precision Ltd.	Huddersfield	A	0
 Remarcable Design Ltd.	Harlow	A	0
 Renaissance Learning UK Limited	Swindon	A	0,4
-Renaissance Learning UK Ltd	London	A	0,4
 Renaissance Nurseries Leeds Ltd	Leeds	A	0
 RENE CLINIC LONDON LIMITED	London	A	0
 Repeat Prescription Order Line Limited	Peterborough	A	0
@@ -11147,7 +11152,7 @@ Ritz Hotel (London) Limited	London	A	0
 Riva London Limited	London	A	0
 Rive Gauche London	London	A	0
 River Learning Trust	Kidlington	A	0
-River of Life Church	Dumfries	A	1,10
+River of Life Church (Dumfries)	Dumfries	A	1,10
 River of Life City Church	London	A	1,9,10
 River Woodwork Ltd.	Surrey	A	0
 Riverside Beach Hotel Ltd t/a Little Haven Hotel	Tyne and Wear	A	0
@@ -11171,7 +11176,7 @@ RN ClearPoint Learning Systems UK Ltd	London	A	0,4
 RN Laboratories UK Ltd	Egham	A	0
 RNP LIMITED T/A RNP Local Convenience Store and Off Licence	Kidderminster	A	0
 RNS Leisure Ltd	Dungannon	A	0
-Road Life Health Care Limited	Rotherham	A	0
+Ro Ho London Limited	Ipswich	A	0
 Road Traffic Accident Law (Scotland) LLP	Edinburgh	A	0
 Roadx Logistics Ltd	Iver, England	A	0
 Robert Lickley Holdings Limited	Dudley	A	0
@@ -11218,7 +11223,6 @@ ROSE BEAUTY LASER LIMITED	Leicester	A	0
 Rose Corner Ltd T/A Lea Cross Tandoori Restaurant	Birmingham	A	0
 Rose Grocers LTD. T/A Rose Grocers	Watford	A	0
 Rose Lane Technology	Liverpool	A	0
-Rose Lodge Care Home (Lisburn) Ltd	Lisburn	A	0
 Rose Mount Supported Living Ltd	Derby	A	0
 Rosebuds Supported Living Ltd	Essex	A	0
 ROSEDAN LOMO LIMITED	Harlow	A	0
@@ -11307,8 +11311,6 @@ S.Singh (nottingham) ltd.	Nottingham	A	0
 S2 Care Ltd.	Leicester	A	0
 S2 Lifestyle Management Limited	London	A	0
 S4 Labour Limited	Banbury	A	0
-S4S LONDON LTD	Edgware	A	0
-Saad London Ltd T/A Saad	Maidstone,	A	0
 Saage Labs Limited	London	A	0
 Saatchi Gallery London Limited	London	A	0
 Sabah International Leatherwear Limited	Manchester	A	0
@@ -11517,6 +11519,7 @@ Servicepower Ltd. T/A SEBA Developments	Keighley	A	0
 Services for Landlord Ltd	Ashford	A	0
 Servier Laboratories Limited	Stoke Poges	A	0,4
 Setfords Law Ltd	Guildford	A	0
+Seth Homes Ltd T/as Stoneacre Lodge Care Home	Doncaster	A	0
 SETHIA LONDON LIMITED	London	A	0
 Settla Legal Ltd	London	A	0
 SEVA LINE LTD	Bolton	A	0
@@ -11554,6 +11557,7 @@ Sharnbrook Care Home Limited T/A Sharnbrook Lodge	Dunstable	A	0
 Sharoot Limited T/A Orchard Lodge Nursing Home	Tilsworth	A	0
 Sharp Drive Heavy and Light Transport UK Ltd	Nelson	A	2
 Sharp Laboratories of Europe Ltd	Oxford	A	0,4
+SHARPER LABS HR AND LEGAL CONSULTANCY LTD	St. Albans	A	0
 Sharq Immigration Legal Services	Birmingham	A	0
 Sharyn Louise Fishing Company Ltd	Lerwick	A	0
 SHATTERED LIVES	Barking	A	9
@@ -11687,6 +11691,7 @@ Sinolingua London Limited	London	A	0,4,7
 Sir Frank Lowe	London	A	11
 Siri Lifestyle Limited	London	A	0,4
 Sister Jane UK Ltd.	London	A	0
+Sisters For Life (SFL) Healthcare Ltd	Chester	A	0
 Sisters of Charity of Our Lady of Good & Perpetual Succour	Consett	A	1,10
 Sitecore UK Ltd.	London	A	0,4
 SITHAMPARAM THIEVENTHIRAM T/A Derby Local Supermarket	Derby	A	0
@@ -11895,7 +11900,6 @@ Spice Lounge (Devon) Limited T/A Spice Lounge Indian Cuisine	Ilfracombe	A	0
 Spice Lounge (Scotland) t/a Spice Lounge Kitchen	Edinburgh	A	0
 SPICE LOUNGE (SHEPSHED) LIMITED t/a Spice Lounge	Loughborough	A	0
 Spice Merchant Leek Limited	Leek	A	0
-Spice of Life (Southwest Midlands Limited)	Birmingham	A	0
 Spice of Life 786 Ltd,	Hamilton	A	0
 Spice of Life CW Ltd. t/a Spice of Life	Glasgow	A	0
 Spice of Rye Limited/TA Mahdi Lounge	Rye	A	0
@@ -11965,7 +11969,6 @@ SSB Labs Limited	Milton Keynes	A	0
 SSBN Ltd. t/a Fathom	Bristol	A	0
 SSEF Services Ltd.	Ilford	A	0
 SSI LOGISTICS LTD	Birmingham	A	0
-SSR London Enterprises Ltd t/a Raj of Kensington	London	A	0
 SSS Group (UK) Ltd T/A Jet Stansted Londis	Stansted	A	0
 SSW Civils & Logistics Ltd.	Tipton	A	0
 ST ANDREWS CROSS LONDIS	Plymouth	A	0
@@ -11993,7 +11996,7 @@ St. Francis Private Care Home Ltd.	Portadown	A	0
 ST. GREGORY'S HOUSE LTD.	Milnthorpe	A	0
 St. james' Lodge	Ballymoney	A	0
 St. Lawrence University (USA) London Programme	London	A	0
-St. Luke's Oxford	Oxford	A	0
+St. Luke's Oxford	Oxford	B	0
 St. Luke's Trust Limited	Stroud	A	0,9
 St.Peter's Mar Thoma Church East Area,London-UK	Romford	A	1
 STA Legal Limited	Maidstone	A	0
@@ -12026,6 +12029,7 @@ Starfish Virtual Labs Limited	London	A	0
 STARGROUP LONDON LIMITED	London	A	0
 Stark Software International Ltd.	Horley	A	0
 Starkey Laboratories Limited	Milton Keynes	A	0
+STARLIGHT LABS, INC LTD	London	A	0
 STARLIGHT LINEN LTD	Wembley	A	0
 STARLIMS UK Ltd.	Sale	A	0,4
 Starling Leisures Ltd	Lancashire	A	0
@@ -12053,7 +12057,6 @@ Steward Holdings Ltd.	London	A	0,4
 Stibbe London B.V.	London	A	0,4
 Stockwell Lodge Medical Centre	Waltham Cross	A	0
 STOKELEIGH LODGE RETIREMENT HOME LTD	Avon	A	0
-Stone Leisure & Hotels Limited	Bournemouth	A	0
 Stone Soup Learns	Nottingham	A	0
 Stone World UK Ltd.	Daventry	A	0
 Stonebridge Legal Solutions Limited	London	A	0
@@ -12074,7 +12077,6 @@ Strathearn Leisure Parks Limited	Northumberland	A	0
 Strawberry Fields London Ltd	Bicester	A	0
 Stray (LDN) Limited	London	A	0
 Streatham Hill Off Licence Ltd	London	A	0
-Strength Central (Ldn) Pte Ltd	London	A	0,4
 Stretton Hills veterinary practice Ltd.	All stretton	A	0
 Strickland Ireland Ltd.	Dungannon	A	0
 Stride Treglown Ltd.	Bristol	A	0
@@ -12148,7 +12150,6 @@ SUPER LAUNDRY LONDON LIMITED	London	A	0
 Super League International Limited	London	A	0
 Supercharge London	London	A	0,4
 Supermart Local	Coventry	A	0
-Supersize Live Ltd	Long Ditton	A	0
 Supply Life Group Ltd	Swansea	A	0
 Support 4 Life Limited	Wolverhampton	A	0
 Support To Lead ltd	Oldham	A	0
@@ -12241,11 +12242,9 @@ Tailor Enterprise Limited T/A Lea Bridge Post Office & Newsagents	London	A	0
 Taj & Tara Ltd. T/As Peri Spot & pizza	Cheltenham	A	0
 TAKARA SHUZO INTERNATIONAL CO., LTD.	Inverness	A	4
 TALBOT FU LUN KWOK UHKpuragent	London	A	0
-Talbot Woods Lodge	Bournemouth	A	0
 Talbots Law Ltd	Stourbridge	A	0
 Talent Link Ltd	London	A	0
 Tam United Logistic Ltd	Nottingham	A	0
-Tamago Ltd.	Canterbury	A	0
 Tamar Care (London) Limited	Harrow	A	0
 Tamar Labour Agency Ltd	Landrake	A	0
 Tamara Lounge Limited T/A Tamara Lounge	Uxbridge	A	0
@@ -12304,14 +12303,14 @@ TECH LOGIC LONDON LIMITED	London	A	0
 Tech Repair Services Ltd. T/As Fone Case	Bodmin	A	0
 Tech Solutions Lanarkshire Ltd	Bellshill	A	0
 Techlabs London Ltd	High Wycombe	A	0,4,7
-TECHMARK SOLUTIONS LTD.	Coventry,	A	0
+TECHMARK SOLUTIONS LTD.	Southampton	A	0
 Technical Detail Ltd.	London	A	0
+Technical Professionals Limited (trading as LearnTech)	Manchester	A	0
 Techniform Dental Laboratory Limited	Birmingham	A	0
 TechTarget Ltd.	London	A	0,4
 Techwave Technologies UK Ltd.	Stanwell	A	0
 Tecosim Technical Simulation Ltd.	Basildon	A	0
 TEEBA LONDON LIMITED	London	A	0
-Teesside Care Services Ltd.	Middlesbrough	A	0
 TEGH LOGISTICS LTD	Bilston	A	0
 Tehxeeb London Limited	London	A	0
 Teirna Retail Ltd t/a Nisa Local	Portsmouth	A	0
@@ -12725,7 +12724,6 @@ THE PRIUS CENTRE LONDON LTD	London	A	0
 The Promised Land Project	Surrey	A	1
 The Property Company London Limited	London	A	0
 The Property Market (Cranford) Ltd. T/A TPM Estate Agent	Cranford	A	0
-THE PRP LAB	London	A	0
 The Queen Elizabeth Hospital Kings Lynn NHS Trust	King's Lynn	A	0
 THE RAJ JAMES LANE LTD	London	A	0
 The Ramgarhia Board, Leeds	Leeds	A	0,1,9,10
@@ -12862,7 +12860,7 @@ TK LOOK LIMITED	Bradford	A	0
 TLC The Lions Club Limited	London	A	0
 TLP RESTAURANT LTD T/A The Ladz Peterborough	Peterborough	A	0
 TM Leisure LDO Limited	Livingston	A	0
-TMF IMMIGRATION LAWYERS LTD	Salford, Manchester	A	0
+TMF IMMIGRATION LAWYERS LTD	Manchester	A	0
 TMI Associates London LLP	London	A	0,4
 TMRW London Limited	Putney	A	0
 TNG Technology Consulting UK Ltd.	Oxford	A	0,4
@@ -12902,17 +12900,16 @@ TOP JOE'S, LANDSKER CUISINE LTD	Narberth	A	0
 TOP LINE DRYLINING LTD	Thetford	A	0
 TOP LINEN (NW) LIMITED	Manchester	A	0
 Top Local Ltd	Whiteworth	A	0
-TOP VIEW LONDON LIMITED	London	A	0
 TOPBASE LTD T/A LALBAGH HALAL FOOD STORE	London	A	0
 Topcourses Leicester Ltd	Market Harborough	A	0
 Topo La Bamba Limited	Glasgow	A	0
 Toppan Digital Language Ltd	London	A	0
-TOPS PIZZA (RAYNERS LANE) LIMITED	Harrow	A	0
 Topview Healthcare Ltd.	Nottingham	A	0
 Total Foot Health Ltd.	Salisbury	A	0
 Total Link Ltd	London	A	0
 Total Motion Limited T/A Total Motion Vehicle Management & Pink Vehicle Leasing	Leicester	A	0
 Total Therapy London LTD	Ruislip	A	0
+Totally Living Care Limited	Salisbury	A	0
 TotallyMoney Ltd.	London	A	0
 Totem Learning Ltd	Warwick	A	0
 Totham Lodge Home for the Elderly	Maldon	A	0
@@ -13081,9 +13078,7 @@ UK American Football Live Ltd	Annfield Plain	A	0
 UK Creative Services Ltd.	London	A	0
 UK FOOD AND WINE (LONDON) LIMITED	South Croydon	A	0
 UK HIGH LEVEL SCAFFOLDING LTD	Stanford-le-Hope	A	0
-UK Launch Services Limited	London	A	0
 UK LAW ASSOCIATES	Ilford	A	0
-UK LAW BOOK SELLERS LTD	Halifax	A	0
 UK LEATHER GARMENTS LTD	London	A	0
 UK LEATHER HANDYCRAFT LIMITED	Derby	A	0
 UK LED LIGHTS LTD	Telford	A	0
@@ -13181,9 +13176,9 @@ Urban Key London	London	A	1,9,10
 Urban Leisure NW6 Ltd	London	A	0
 Urban Life Manchester Ltd	Warrington	A	0
 URBAN LINK ESTATES LIMITED T/A URBAN LINK	Walsall	A	0
-URBAN LOOK FASHION LTD	Manchester	A	0
 URBAN PROPERTY LOUNGE LTD	Sheffield	A	0
 Urban Science International Ltd.	Reading	A	0,4
+Urbanchain Enterprise Logistics Limited	Manchester	A	0
 Urbaser Ltd.	Cheltenham	A	0,4,7
 Urmston Spice Lounge Ltd	Manchester	A	0
 USAA International Services SARL London Branch	London	A	0,4
@@ -13417,7 +13412,6 @@ West London Speech and Language Therapy Limited	London	A	0
 West London Students' Union	Ealing	A	0
 West Lothian Chiropractic	Uphall	A	0
 West Lothian Council	Livingston	A	0
-WEST MOTORS LONDON LTD	Uxbridge	A	0
 WEST OAK JOINERY LTD.	Letchworth Garden City	A	0
 West of England Insurance Services (Lux) SA	London	A	0
 West Scottish Lamb Ltd	Carlisle	A	0
@@ -13474,6 +13468,7 @@ Wigan & Leigh College	Wigan	A	0
 Wigan and Leigh Hospice	Wigan	A	0
 WIGAN LEO'S LIMITED	Wigan	A	0
 Wigan Rugby League Club	Wigan	A	11
+Wild Lives Earth Limited	Cambridge	A	0
 Wildan Legal Solicitors Ltd	London	A	0
 Wildcat Law Ltd	Southampton	A	0
 WILDER LOGISTICS LIMITED	Berkshire	A	0
@@ -13615,7 +13610,7 @@ York Liberal Jewish Community	York	A	1
 York Student Lettings Limited	Walsall	A	0
 Yorkshire Light Commercials Ltd	Batley	A	0
 Yorktest Laboratories Limited	York	A	0
-Yoshino & Co., UK Ltd.	London	A	0,4
+Yoshino & Co., (UK) Ltd.	London	A	0,4
 Yotta Media Labs Limited	Pinner	A	0
 You & Me Supported Living Limited	Over Norton	A	0
 You Want Beef (Luton) Ltd	Luton	A	0
@@ -13675,10 +13670,12 @@ ZENITH LABS GROUP LTD	Leeds	A	0
 Zenith Lawyers LLP	Blackburn	A	0
 ZENITH LEATHER LTD	Southall	A	0
 Zereen Ltd. T/As Reksio	Worksop	A	0
+ZERO London LTD	London	A	0
 Zerofox UK Ltd.	London	A	0,4
 Zerran LTD T/A Lavash	Brighton	A	0
 ZEST LAUNDRY LTD	Bourne End	A	0
 Zest Route to Learning Ltd	Peterborough	A	0
+Zeus Faber Ltd.	London	A	0
 Zeus Labs Limited	London	A	0
 ZEXOZ LTD t/a The Lovat Hotel	Scotland,	A	0
 ZF Lemforder UK Ltd	Wednesbury	A	0

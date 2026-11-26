@@ -139,7 +139,6 @@ Alfred H Knight Holdings Ltd	Prescot	A	0,4
 ALI'S BANGLA KITCHEN LTD	Essex	A	0
 ALISON HOLDINGS LTD T/A KASPAS DESSERTS	Kent	A	0
 Alison Kay Fishing Company Limited	Lerwick	A	0
-ALL CUISINES CATERING LTD t/a KOKU SHI	Kirkcaldy	A	0
 All Starz kitchen Limited	London	A	0
 Alleppey Kitchen Ltd	Chesterfield	A	0
 Alum Care Ltd T/A Kings Lodge Nursing Home	Redhill	A	0
@@ -184,7 +183,6 @@ ArcelorMittal Kent Wire Ltd	Chatham	A	0
 Archangel Foods Limited T/A German Doner Kebab	London	A	0
 ARCM UK Ltd T/A Anand George's Indian Kitchen	Cardiff	A	0
 ARJUN'S ANGLO-INDIAN KITCHEN & BAR LIMITED	St Helens	A	0
-Arkdeal Ltd T/A Kaspa's Desserts	Bracknell	A	0
 Armundia United Kingdom Ltd	London	A	0,2
 Arney Fender Katsalidis Limited	London	A	0
 Arnold & Porter Kaye Scholer (UK) LLP	London	A	0,4
@@ -199,7 +197,6 @@ Ashfaq A Khan T/A Kitchen 7	Derby	A	0
 Ashford Kebab Ltd T/as Anatolia Barbecue Restaurant & Takeaway	Middlesex	A	0
 ASHLEY KING LIMITED	London	A	0
 ASHNA KEBAB LIMITED	Leicester,	A	0
-ASIAN KITCHEN HULL LIMITED	Hull	A	0
 Asif Khan Ltd	London	A	0
 Asma Kebab Limited	Bristol	A	0
 ASPA KST Architectural Urban Environmental Design Consulting And Management Ltd	London	A	0
@@ -253,7 +250,6 @@ Barkat Halal Meat Ltd t/a Kabul Bazar	London	A	0
 BARKINGSIDE KEBABISH LIMITED	Barkingside	A	0
 Barrie Knitwear Ltd	Hawick	A	0
 Barron Kirk Quality Care ltd	Hastings	A	0
-Bash Grill Kingsbury Road Ltd	Birmingham	A	0
 Basit Knitwear Limited	Manchester	A	0
 BATEMAN & KNIGHT LIMITED	London	A	0
 BAWA KITCHEN LIMITED T/A BAWARCHI RESTAURANT	Glasgow	A	0
@@ -288,6 +284,8 @@ Bethany Lodge Kent Limited	London	A	0
 BG COMPANIES LTD T/A COCO KITCHENS	London	A	0
 BG KALIKA LTD	Ilkeston	A	0
 BGF 3 LIMITED T/A German Doner Kebab	Birmingham	A	0
+BGF 4 Limited T/a German Doner Kebab	Walsall	A	0
+Bholenath Ltd T/a Chef's Kitchen	Kidderminster	A	0
 Bhupenra Kantibhai & Umesh Kantibhai Patel T/A Costcutter Convenience Store	London	A	0
 Big Karma Stores Ltd	London	A	0
 Big Kid Entertainment	Crewe	A	0,3
@@ -397,7 +395,6 @@ Checkland Kindleysides Ltd	London	A	0
 CHEETHAM KIDS ACADEMY LTD	Manchester	A	0
 CHENNAI MARINA RESTAURANT LTD T/A DOSA KADA	Croydon	A	0
 Chester Fresh Pasta Kitchen Limited	Manchester	A	0
-Chesterfield K Limited	London	A	0
 Chetana Kendra LTD T/A Moonlight Kitchen	Falkirk	A	0
 Cheung Kong Graduate School of Business (Europe) Limited	London	A	0
 ChicinoS Knustford Limited	Knutsford	A	0
@@ -417,6 +414,7 @@ CINNAMON KITCHEN	Sunderland	A	0
 Citi Group (Kent) Limited T/A Citi Terrace	Canterbury	A	0
 CITI KITCHEN LONDON LIMITED	Ilford	A	0
 Citizen Kids Ltd	London	A	0
+Citizens Advice in North & Kent	Tonbridge	A	0
 CJC Kent Limited	Dartford	A	0
 CK Kumar LTD	Leeds	A	0
 CKR CONSULTANTS LTD T/A CAMERON KENNEDY	London	A	0
@@ -591,7 +589,6 @@ EAST KILBRIDE SPECSAVERS HEARCARE	East Kilbride	A	0
 East Kilbride Spinal Care ltd	East Kilbride	A	0
 EASTERN CUISINE KITCHEN LTD T/A EASTERN PROMISE	Hailsham	A	0
 EASTERN FLAVOUR (SOUTHWEST) LIMITED T/A THE GURKHA KITCHEN	Exeter	A	0
-EAZY KITCHEN LTD	London	A	0
 EC Aylesbury Kingsbrooks Ltd TA Esquires Coffee	Aylesbury	A	0
 ECO DRINKS LTD T/A CANDY KINGDOM	Derby	A	0
 Edge View Homes Limited - Knoll House	Wolverhampton	A	0
@@ -610,7 +607,6 @@ Elite Kids Childcare	London	A	0
 Elite Kitchen & Bedroom Designs Limited	Northampton	A	0
 ELLA KANTHAN TRUST	Nuneaton	A	1,10
 Ella's Kitchen (Brands) Limited	Henley on Thames	A	0,4
-ELMET KITCHEN (SHERBURN) LTD TA Elmet Kitchen	Leeds	A	0
 EM3 KIDS CLUB LIMITED	Essex	A	0
 Email Kong Limited	London	A	0
 Embassy of Denmark in the United Kingdom	London	A	0,5,12
@@ -637,7 +633,6 @@ Euro-Rose Knitwear Limited	Leicester	A	0
 Euroeyes London Knightsbridge Limited	London	A	0,4
 EUROPE KO NEPALI PATRA LIMITED	London	A	0
 European Union Delegation to the United Kingdom	London	A	5
-Everest 1 Limited t/a K2 Balti House	Hemel Hempstead	A	0
 Everest Curry King	London	A	0
 Everest Kitchen Ltd T/A Gurkha Swindon	Swindon	A	0
 EVERYDAYZ KIRKBY LTD	Liverpool	A	0
@@ -844,6 +839,7 @@ Himalayan Curry House Ltd T/A KATHMANDU INN RESTAURANT	Ballyclare	A	0
 Hindu Centre (East London) Radha Krishna Temple	London	A	1,10
 HINDU CULTURAL SOCIETY NORTH WEST KENT	Gravesend	A	1
 Hira & Khalique Associates	London	A	0
+Hive Kensington LTD T/A The Folio Collection	London	A	0
 HK Kitchen and Bar Solutions Ltd	Sheffield	A	0
 Holborn Studios, T/A Studio Kitchen	London	A	0
 Holding the Keppel's Head Limited	Portsmouth	A	0
@@ -963,7 +959,6 @@ JEFFERYS (DEVON) LTD T/a JEFFERYS KASHMIRI CUISINE	Exeter	A	0
 JEON'S KITCHEN LTD	London	A	0
 Jessika Kitchen Ltd. T/As 29 States the Indian Kitchen	York	A	0
 Jeyakumar Kabildev t/a Shalu General Store	Kent	A	0
-Jfg Care Limited, T/A Mint Dental Care Kingseat	Aberdeenshire	A	0
 JG Cardiff Ltd t/a Kebab King	Newport	A	0
 JHEEL KENDAL LTD T/A Jheel	Cumbria	A	0
 JIYA & KANAV RETAIL LTD	Market Drayton	A	0
@@ -999,7 +994,6 @@ K & K CONVENIENCE STORE LTD	Manchester	A	0
 K & K FOODS LTD	Norfolk	A	0
 K & K SERVICES LTD	Milton Keynes	A	0
 K & K Store Birkenhead Limited	Birkenhead	A	0
-K & K Stores Limited T/A Nisa Local	London	A	0
 K & L Healthcare Limited	Bristol	A	0
 K & L Infinity Ltd	Walton-On-Thames	A	0
 K & M Dagenham Ltd	Rainham	A	0
@@ -1204,7 +1198,7 @@ K2 WINDOWS & DOORS (UK) LIMITED	Stoke-On-Trent,	A	0
 K23 Limited T/A K23.ai	Guildford	A	0
 K27 LTD T/A Nisa Local	Farnborough	A	0
 K2C INTERNATIONAL TRADE LTD	London	A	0
-K2K KASHMIR TO KANYAKUMARI LIMITED	Hounslow	A	0
+K2K KASHMIR TO KANYAKUMARI LIMITED	Luton	A	0
 K2K Limited (Allesley Post OFfice and Convenience Store)	Coventry	A	0
 K2K TRADING LTD T/A Jak's Stores	Llanelli	A	0
 K2P FOODS LIMITED	Leicester	A	0
@@ -1382,6 +1376,7 @@ KALAN MEAT AND CHICKEN LIMITED	London	A	0
 KALANA LTD T/A CRISPY DOSA HARROW	Harrow	A	0
 KALASH LIMITED T/A EVEREST TANDOORI	Farnborough	A	0
 Kalawati Ltd	Edinburgh	A	0
+Kalayaan	London	A	0
 Kaldi Financial Technology Ltd	London	A	0
 Kaldor Ltd	London	A	0
 Kaleidoscope Group Ltd	Stanmore	A	0
@@ -1611,6 +1606,7 @@ Kappture Ltd	Derby	A	0
 kaprabazaar ltd	Birmingham	A	0
 KAPRAN LTD	London	A	0
 Kaprico Limited	Gloucester	A	0
+Kaprix Powerhouse Logistics Limited	Bushey	A	0
 Kaptius Limited	Sevenoaks	A	0
 Kapur Family Care	Oldham	A	0
 KAPUR TELCO LIMITED	London	A	0
@@ -1734,7 +1730,6 @@ Kas Foods Ltd T/A Anmol Sweet House	Manchester	A	0
 KAS LONDON LTD	London	A	0
 KAS Paper Systems Limited	Dunstable	A	0
 KAS RETAIL LTD	Stansted	A	0
-Kasa and Kin Group UK Limited	London	A	0
 Kasa Chiropractic Ltd	Bristol	A	0
 KASAI UK LTD	Washington	A	0,4
 KasaKasa Ltd	London	A	0
@@ -1826,6 +1821,7 @@ Kaswa Trader Ltd t/a M&N Licenced Grocers	Falkirk	A	0
 Kat Creativ Ltd	Colchester	A	0
 KATABA Japanese Knives Limited	London	A	0
 Katalysys Ltd	London	A	0
+Katalyzt UK Enterprises Ltd	Accrington	A	0
 KATALYZT UK ENTERPRISES LTD	Preston	A	0
 KATAM TECHNOLOGIES LTD	Maidenhead	A	0
 Kataman UK Limited	Bristol	A	0,4
@@ -1945,7 +1941,6 @@ Kayoski Care Ltd	Chigwell	A	0
 KAYS SUPERMARKET (PL) LTD	Slough	A	0
 Kaystone Global Resources Limited	London	A	2
 KAYTONS LTD	Salford	A	0
-Kayu Bakehouse Limited	London	A	0
 Kaz Contractors Ltd	Cambridge	A	0
 KAZ Minerals Limited	London	A	0,4
 KAZ RESIDENTIALS LTD	Ilford	A	0
@@ -2214,6 +2209,7 @@ Keltic Traffic Management Limited	Middlesex	A	0
 Keltie LLP	London	A	0
 Kelton Engineering Limited	Aberdeen	A	0
 Keltone Limited	Northampton	A	0
+KELTONE LTD T/A MOULTON PHARMACY	Northampton	A	0
 Keltruck Ltd	West Bromwich	A	0
 Kelty Hearts Football Club Ltd	Kelty, Fife	A	0
 KELUAR UK TRADING LTD	Stratford	A	0
@@ -2306,7 +2302,6 @@ KENS CUBE LTD	London	A	0
 KENS ELECTRICAL & PROPERTY SERVICES LIMITED	Coulsdon	A	0
 KENS ESTATE LTD	London	A	0
 KENS GLOBAL SUPPORT LTD	London	A	0
-KENS WATERLOOVILLE LIMITED	Waterlooville	A	0
 Kensa Creative Ltd	Hortonwood West	A	0
 Kensa Health Home Care Ltd	Plymouth	A	0
 Kensal Food and Wine	London	A	0
@@ -2360,6 +2355,7 @@ Kent County Cricket Club	Canterbury	A	0,11
 Kent Energies UK Ltd	Woking	A	0,4,7
 Kent Equine Hospital	Maidstone	A	0
 Kent Foods Limited	Paisley	A	0
+Kent Group Ltd	Bromley	A	0
 Kent Home Care	Canterbury	A	0
 Kent House Off Licence	Beckenham	A	0
 Kent House Select Limited	Wolverhampton	A	0
@@ -2423,7 +2419,6 @@ Kera Enterprises Limited T/A Pages of Hendon	London	A	0
 KERA SOUTH INDIAN FOODS LTD T/A THE COCHIN	Bedford	A	0
 Kerakoll U.K. Limited	Leyland	A	0,4
 KERALA AYURVEDA CENTRE LIMITED	Leicester	A	0
-Kerala Ayurveda Clinic Limited	Leicester	A	0
 Kerala Ayurveda Pain Relief Centre Ltd	Coventry	A	0
 KERALA AYURVEDA SPA CLINIC	Birmingham	A	0
 Kerala Beauty Salon UK Ltd T/A Royal Hair and Beauty Salon	London	A	0
@@ -2476,6 +2471,7 @@ KESAVAN KUMARASAMY T/A EXPRESS NEWS & WINE	Ipswich	A	0
 KESAVUK LTD	Stamford	A	0
 KESEE LIMITED	Abertawe	A	0
 Kesglobal consultancy ltd	Hyde	A	0
+KESHAV ENTERPRISES LIMITED	Crawley	A	0
 Keshav IT Consultancy Limited	Milton Keynes	A	0
 KESHAV LTD T/A BARNES PHARMACY	London	A	0
 Keshav MSM Limited	Bognor Regis	A	0
@@ -2805,10 +2801,10 @@ KHYBER GRILL LONDON LTD	Ilford	A	0
 KHYBER MIX GRILL & PIZZA LTD	Stourbridge	A	0
 KHYBER SHINWARI & TAWA LTD	Manchester	A	0
 Khyeli LTD	London	A	0
+Ki 13 Ltd	London	A	0
 KI Associates Ltd T/A M I Jewellers	Bradford	A	0
 KI E-WORKS LTD	Glasgow	A	0
 Ki Group Services Limited	London	A	0
-Ki Hydrogen Ltd	London	A	0
 KI POWERFUEL PVT LIMITED	Carmarthen,	A	0
 Ki-cchin Sushi Bar ltd	Bournemouth	A	0
 KIA BUILDERS LTD	Manchester	A	0
@@ -2845,6 +2841,7 @@ KIDI EXPRESS LIMITED	Belfast	A	0
 Kidlington China Delight Limited	Kidlington	A	0
 Kido Schools UK Limited	Streatham	A	0,4,6
 Kido's Pantry Ltd	Essex	A	0
+Kids Capers Limited	Crawley	A	0
 KIDS CLUB LONDON LTD	London	A	0
 Kids Connection (Burnley) Ltd	Burnley	A	0
 Kids Connection Bolton Ltd	Bolton	A	0
@@ -2860,7 +2857,6 @@ Kidzsteps Kindergarten and Preschool Limited	East Ham	A	0
 Kier Group plc	Salford	A	0,4
 Kier Highways Limited	Salford	A	0
 Kier Ltd	Salford	A	0
-Kier Services Limited	Salford	A	0
 Kiernan Structural Steel (Wales) Ltd	Llandrindod Wells	A	0
 KIESH LTD	Buckinghamshire	A	0
 KIGAMI PROJECTS	West Lothian, Scotland	A	9
@@ -2915,6 +2911,7 @@ Kiln Technologies Limited	London	A	0,4
 Kiln Theatre Ltd	London	A	0,3
 Kilnbridge Construction Services Ltd	London	A	0
 Kiloh Associates Limited	Dunfermline	A	0
+Kilostate	London	A	0
 kilsannagh Mushrooms Ltd	Dungannon	A	0
 Kilsby & Williams LLP	Newport	A	0
 Kiltearn Medical Centre	Nantwich	A	0
@@ -3063,6 +3060,7 @@ King's School Bruton	Bruton	A	0,9
 King's School, Rochester	Rochester	A	0,9
 Kingdom Advance Network	Burton on Trent	A	9
 KINGDOM BROKERAGE RE (UK) LTD	London	A	0
+KINGDOM CARE CHILDREN HOME LTD	Woodford Green	A	0
 Kingdom Citizens International Church and Ministries	Manchester	A	1
 Kingdom College Limited	London	A	0
 Kingdom Education And Child Care Services Ltd for (Treasured Kids preschool and Afterschool Club)	London	A	0
@@ -3076,7 +3074,7 @@ Kingdom Health Limited	Shrewsbury	A	0
 Kingdom Healthcare Ltd	Downpatrick	A	0
 Kingdom Heritage Christian Fellowship	Croydon	A	1,9,10
 Kingdom Hotel Investments (UK) Ltd	London	A	0,4
-KINGDOM LAW LTD	Ilford	A	0
+KINGDOM LAW LTD	Rainham	A	0
 Kingdom Life Apostolic Chapel	Birmingham	A	1
 KINGDOM MANDATE CENTRE	Manchester	A	0,1,9,10
 Kingdom of Catering Ltd	Newcastle Upon Tyne	A	0
@@ -3325,7 +3323,6 @@ Kirkcaldy House Spice ltd	Kirkcaldy	A	0
 Kirkcaldy Islamic Centre	Kirkcaldy	A	1
 Kirkcaldy Specsavers Limited	Kirkcaldy	A	0
 Kirkdale Studios Ltd	London	A	0
-Kirkella Mansions Limited	Kirk Ella	A	0
 KIRKELLA MANSIONS LTD	Hull	A	0
 Kirkgate Off Licence & News Agent	Keighley	A	0
 Kirkham Grammar School	Preston	A	0
@@ -3493,6 +3490,7 @@ KL GARAGE PRIVATE LIMITED	Stoke-On-Trent	A	0
 KL Ventures Ltd	Camberley	A	0
 KL88 LTD	Halifax	A	0
 KLA Corporation UK Limited	Newport	A	0,4
+KLA Legal Ltd	London	A	0,4
 KLAFS UK Limited	Thame	A	0
 Klaire Carriers Limited	Wolverhampton	A	0
 Klar Investments Ltd	Edinburgh	A	0
@@ -3555,6 +3553,7 @@ KLV Software Solutions Ltd	Staines	A	0
 Klyn Stone Limited	London	A	0
 KM BIOSCIENCES LTD	London	A	0
 KM CATERING LIMITED	Bedfordshire	A	0
+KM Development Consultancy Limited	London	A	0
 KM FAST FOOD LTD	London	A	0
 KM Heating Services Ltd	Rochdale	A	0
 KM Kayani Limited	Deeside	A	0
@@ -3778,6 +3777,7 @@ Kode Media Ltd	London	A	0,3
 Kode Solutions Ltd	Walsall	A	0
 Kodelab Ltd	London	A	0
 KODEV INFOTECH LTD	Chichester	A	0
+Kodiaq Technologies Ltd	Cambridge	A	0
 KodyPay Ltd	Windsor	A	0
 Koei Tecmo Europe Ltd	Letchworth Garden City	A	0,4
 Koenig & Bauer (UK) Ltd	Watford	A	0
@@ -3852,7 +3852,7 @@ Kokoro Weybridge LTD	Walton-On-Thames	A	0
 Kokoro Young Ltd	Epsom	A	0
 Kokulabavan Jeyarasa	Dumfries	A	0
 KOLA CONSTRUCTION LTD	Poole	A	0
-KOLA DESIGN LTD	Birmingham	A	0
+KOLA DESIGN LTD	Upminster	A	0
 KOLAK SERVICES LTD	Barking	A	0
 KOLAK SNACK FOODS LTD	London	A	0,4
 KOLAMBA CARNABY LTD T/A KOLAMBA LTD	London	A	0
@@ -3864,6 +3864,7 @@ KOLKATI STREET FOOD LTD	Worcester	A	0
 Kolleno Limited	London	A	0
 Kollider Project Limited	Sheffield	A	0
 KOLO FOODS LTD	Lancing	A	0
+Kolo Social Ltd	Sunningwell	A	0
 Kolshi Restaurant Limited	Warwick	A	0
 Koltransport Ltd	Essex	A	0
 Kolys Foods Ltd T/A Mas Bazaar	Newport	A	0
@@ -3941,7 +3942,6 @@ Kool Cakes Bakery Limited	London	A	0
 Kool Group Ltd	London	A	0
 KOOLAIR HVAC LTD	Slough	A	0
 Koolatron International Limited	London	A	0
-Koolbitz Limited	London	A	0
 KOOLBITZ LIMITED	Northampton	A	0
 KOOLKIDZPLUS LTD	Dewsbury	A	0
 Koolmax Group Ltd	Bolton	A	0
@@ -3998,7 +3998,7 @@ Korol Limited	London	A	0
 Korotana Group Ltd	Essex	A	0
 Korotana Ltd. T/As TheOffy	High Wycombe	A	0
 Korozo UK Ltd	Edgware	A	0
-Kortext Limited	Christchurch	A	0
+Kortext Limited	Bournemouth	A	0
 Kortical Ltd	London	A	0
 Koru Care UK Ltd	Barlborough, Chesterfield	A	0
 Koru Kids	London	A	0
@@ -4160,6 +4160,7 @@ Kricket Ltd	London	A	0
 KRICKET SOHO LIMITED	London	A	0
 Krimah Ltd	Barking	A	0
 Krimas Ltd T/A In Parma	London	A	0
+Krimpterm Limited	Leeds	A	0
 Krina Beauty Limited	Harrow	A	0
 Krinvest Care Group Limited	Kenley	A	0
 Kripa Care Limited	Harrow	A	0
@@ -4229,7 +4230,6 @@ KRM SUTTON LTD TA Karma Lounge	Birmingham	A	0
 KRM TECHNICAL SUPERVISORY AND TRADE LIMITED	Manchester	A	0
 KRM22 Central Limited	London	A	0
 KRO DESIGN LTD	Barking	A	0
-KRO Hotels Manchester M2 Ltd t/a Asha's Restaurant	Manchester	A	0
 KRO HOTELS PRESTON LTD	Manchester	A	0
 Krobahn Ltd	London	A	0
 Krogh & Partners Limited	London	A	0
@@ -4545,6 +4545,7 @@ Kwackers West Quay Limited trading as Kwackers Kitchen and Sports Bar	Southampto
 Kwalee Ltd	Leamington Spa	A	0
 Kwality Hotel Limited	Manchester	A	0
 KWALITY LTD	Dagenham	A	0
+Kwality Vegetables & Fruit Ltd	Birmingham	A	0
 KWAME OWUSUOPPONG LIMITED	Dagenham	A	0
 Kwan Yick (UK) Ltd	Newport	A	0
 KWASA Invest Limited	London	A	0,4
@@ -4597,6 +4598,7 @@ KYN Manco Ltd	London	A	0
 Kynance Residential Home	East Cowes	A	0
 KYND Limited	London	A	0
 Kyndryl UK Limited	London	A	0,4
+Kyndryl UK LTD	London	A	0,4
 Kynetec UK Ltd	Newbury	A	0,4
 Kynisca Sports Management Limited	London	A	0
 KYOBO LIFE LONDON OFFICE	London	A	0,4
@@ -4655,6 +4657,7 @@ Lewis Kingsnorth Limited	Eastbourne	A	0
 Lexden Lodge Kindergarten	Colchester	A	0
 Leyden Kirby Associates Limited	Radcliffe	A	0
 Libby Perszyk Kathman Limited	London	A	0,4
+life for a kid	Hull	A	9
 LIFESTYLE UK KITCHENS AND BEDROOMS LIMITED	London	A	0
 Lightroom KX Limited	London	A	0
 LITTLE BELMILL LIMITED T/A Spice Of Kashmir	Bellshill	A	0
@@ -5085,6 +5088,7 @@ Paramount kitchens (midlands) ltd TA Simar Designs	West Bromwich	A	0
 Paras Knitting Ltd	Manchester	A	0
 Parkinson's Disease Society of the United Kingdom	London	A	0
 PASHAM KEBAB HOUSE LTD	Maesteg	A	0
+Pasta King Ltd	Newton Abbot	A	0
 PATEL JG & KG LLP	London	A	0
 Patients Know Best	Cambridge	A	0
 Paul James Knitwear Limited T/A Paul James	Leicester	A	0
@@ -5155,7 +5159,6 @@ Pretty Knitwear Ltd	Oldham	A	0
 Prime Education and Training Ltd t/a Kings Education	Hove	A	0
 Prity & Sristy Food Ltd. T/A Piri-Siri Mexican Kitchen	Moreton	A	0
 PROBASHI KOLLAN FOUNDATION PKF	London	A	9
-Protea Care Homes (Kent) Ltd	Coventry	A	0
 PUBHOUSE & KITCHEN LIMITED	Horsham	A	0
 PUMA UNITED KINGDOM LIMITED	Castleford	A	0,4
 Punjab Jewellers Kapurthala Wale Ltd	Leicester	A	0
@@ -5185,6 +5188,7 @@ R S & K STORES LTD	Gloucester	A	0
 R S KHINDA CONSTRUCTIONS LTD	Hayes	A	0
 R&E Kitchen Care Limited	Southampton	A	0
 R.J. & K.D. MCLEAN LIMITED	Shaftesbury	A	0
+R.P.M. Installations (Kent) Limited	West Malling	A	0
 Radha Krishna Healthcare Ltd	Chatham	A	0
 Radha Krishna Temple Shyama Ashram	Balham	A	0,1,10
 Radhe Krishana Construction Ltd	Stansted,	A	0
@@ -5236,7 +5240,6 @@ RMA Hospitality Ltd T/A Ruthvika Spices & Kitchen	North Ferriby	A	0
 RMD Kwikform Limited	Walsall	A	0,4
 Robert Kee and Hal Kee	Newtownstewart	A	0
 Rock Solid Knowledge Ltd	Bristol	A	0
-ROOTS KITCHEN LTD	Salford	A	0
 ROSE KAHN CAR REPAIR	Nelson	A	0
 Rosling King LLP	London	A	0
 Roti King Limited T/A Roti King	London	A	0
@@ -5416,7 +5419,6 @@ SMR Trading (Yorkshire) LTD T/A as Kipling?¢????s	Halifax	A	0
 Smurfit Kappa UK Limited	Liverpool	A	0,4,7
 SOHAL (UK) LIMITED T/A Kitsons Pharmacy	Worcester	A	0
 SOJU KITCHEN LTD	Wembley	A	0
-Sokol Petriti T/A Toms Kitchen LTD	Shepperton	A	0
 Solic Limited T/A Karahi King	London	A	0
 SONI KRISHVI PIZZA LTD T/A Pie O My Pizza	Livingston	A	0
 Soniqa Kaur Ltd	London	A	0
@@ -5447,7 +5449,6 @@ SRK Consulting (Kazakhstan) Limited	Cardiff	A	0,4
 SS & KS CONSULTING LTD	Aylesbury	A	0
 SS Care Ltd T/A Kingsley Cottage	Hednesford	A	0
 SSBM23 TA Kolae	London	A	0
-SSR London Enterprises Ltd t/a Raj of Kensington	London	A	0
 SSS AND K PVT LTD	Middlesex	A	0
 St Kitts Veterinary Group	Hartley Wintney, Hook	A	0
 ST MADOES LTD t/a Keystore More	Kilmarnock	A	0
@@ -5577,7 +5578,6 @@ The Embassy of the Kyrgyz Republic to the United Kingdom of Great Britain and No
 The Embassy of the Republic of Tajikistan to the United Kingdom of the Great Britain and Northern Ireland	London	A	5
 The Farnborough (War Memorial) Housing Society Limited T/A Knellwood Residential Care Home	Farnborough	A	0
 The Fox At Kirton Ltd	New Port	A	0
-The French Kitchen Ltd	London	A	0
 The Fuzzy Duck Cocktail Bar & Gastro Kitchen	Nuneaton	A	0
 The Gateshead Kehilla (G.H.C) Ltd	Gateshead	A	1
 THE HAJEE DESI KHANNA LTD	Birmingham	A	0
@@ -5618,7 +5618,6 @@ The Kidz Clean Kitchen Ltd	London	A	0
 The Kilmarnock Football Club Limited	Kilmarnock	A	11
 THE KINC AGENCY LTD	London	A	0
 The King Alfred School	Dudley	A	0
-The King Alfred Winchester Ltd	Winchester	A	0
 The King and Queen	Southampton	A	0
 The King's Castle Church	Newcastle upon Tyne	A	1,10
 The King's CE School	Wolverhampton	A	0
@@ -5698,7 +5697,6 @@ THOMAS KNIGHT CARE HOME LIMITED	Blyth,	A	0
 Thrayam Ltd Trading As Thrissur Pooram Authentic Indian Kitchen	Leeds	A	0
 Three Falcons W10 Limited T/A The Knight of Notting Hill	London	A	0
 Tibetan Kitchen	Manchester	A	0
-Tiffin Indian kitchen & Bar	Barnstaple	A	0
 Tile World Kent Limited	Dulwich	A	0
 Timothy Oulton United Kingdom Limited	London	A	0
 TINY EXPLORERS KIDS LTD	Barnehurst	A	0

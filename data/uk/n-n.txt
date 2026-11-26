@@ -49,7 +49,6 @@ A&B Traders (NW) Ltd	Bolton	A	0
 A&D News	London	A	0
 A&F TRANSPORT NW LTD	Bolton	A	0
 A&R MEATS (NW) Limited	Salford	A	0
-A&R National Street	Mussulburgh	A	0
 A&S NETWORK ENTERPRISES LTD	London	A	0
 A,N,G EXPORT AND IMPORT LTD	Coventry	A	0
 A-T Hair Nail & Beauty Limited Liability Partnership	Ashford	A	0
@@ -107,7 +106,6 @@ Accelerate NewCo Limited	Newcastle under Lyme	A	0
 Accelerate NewCo Limited	Newcastle- under - Lyme	A	0
 Access NRI Consultancy Pvt. Ltd.	Bristol	A	0
 ACEPAY LIMITED TRADING AS THE COTTAGE NURSING HOME	Walsall	A	0
-ACER PROPERTIES NORTH LTD	Preston	A	0
 Acorn Normanton	Normanton	A	0
 Acorn Nursing Home	Birmingham	A	0
 Acorn Park Nursery	Glasgow	A	0
@@ -120,6 +118,7 @@ Adelaide Nursing Home Ltd	Brighton	A	0
 Adi Nechasim Limited	London	A	4
 ADMISSION NETWORK LTD	London	A	0
 ADR NORTHWEST LIMITED	Northwich	A	0
+Adria News Network Sales UK Ltd	London	A	0
 Adriana Ltd t/a The Priory Nursing & Residential Care Home	Monmouth	A	0
 Adtran Networks (UK) Limited	York	A	0
 ADVANCE TASTE LTD T/A TANDOORI NIGHT	Essex	A	0
@@ -235,7 +234,6 @@ Anand Nand Ltd. T/A Mister Singh's India	Glasgow	A	0
 Anantharajah Nirosan T/A NIRO EXPRESS	Sidcup	A	0
 Anaya NF Ltd	Surbiton	A	0
 Anchor Nursing and Social Care Limited	Dunfermline	A	0
-Andrew Nolan Mortgages Ltd	Altrincham	A	0
 Andrew Nurnberg Associates Limited	London	A	0
 ANGEL CARE NORTH LIMITED	Whickham	A	0
 ANGEL HOUSE NURSERY	Stratford	A	0
@@ -264,7 +262,7 @@ Apples and Honey Nightingale CIC	London	A	0
 APPLETREE DAY NURSERIES (WALES) LIMITED	Caldicot	A	0
 Applied Network Solutions Limited	Basingstoke	A	0
 Applied Nuclear Physics LTD	Cockermouth	A	0
-AR TELEVISION NETWORK LTD	London	A	0
+AR TELEVISION NETWORK LTD	Dagenham	A	0
 ARAAV N LTD	Ealing Broadway	A	0
 Arab National Bank	London	A	0,4
 Arbor Networks UK Limited	London	A	0,4
@@ -344,6 +342,7 @@ AVK Foods Private Limited T/A Nelson Pub	Warwick	A	0
 AVM FISH N CHIPS LTD	Middlesbrough	A	0
 Avon and Wiltshire Mental Health NHS Partnership	Bath	A	0
 Avon Network Events	Bristol	A	0
+AVONDALE MOTORS NE LIMITED	Manchester	A	0
 AVS News LTD	Wrexham	A	0
 AVT Natural Europe Limited	London	A	0
 AWAKEN NORTH COAST LTD	Portstewart	A	0
@@ -771,6 +770,7 @@ CHURT NEWS	Surrey	A	0
 Circus Day Nursery	Cheltenham	A	0
 Cirrus Nexus Ltd	London	A	0,4
 Cistercian Monastery Nunraw	Haddington	A	1
+Citizens Advice in North & Kent	Tonbridge	A	0
 CITY CONSTRUCTION NETWORK LTD	Ilford	A	0
 City Nails U.K LTD	Birmingham	A	0
 Cityplus Network Ltd	London	A	0
@@ -946,7 +946,6 @@ DEEBEETOM VENTURES LTD T/A NEW LIVING	Bedford	A	0
 Delaware North Companies (UK) Ltd	Uxbridge	A	0,4
 Deluxe Nails London Ltd	London	A	0
 DENTIST NOW LIMITED T/A Epping Dental	Epping	A	0
-DENTSTONE LIMITED T/A NEWICK TANDOORI	East Sussex	A	0
 DENTSTONE LTD t/a Newick Village Tandoori	Newick	A	0
 DENUKAN NETWORK UK BR. LTD	Chelmsford	A	0
 DENYS NV UK	London	A	0
@@ -1037,7 +1036,6 @@ DSK Nottingham Limited	Nottingham	A	0
 DSL Care Ltd T/A Wellcross Grange Nursing Home	Horsham	A	0
 DSL Group (Nottingham) Limited	Nottingham	A	0
 DSM Nutritional Products (UK) Limited	Dalry	A	0,4
-DTE HOLDINGS (NORTH WEST) LTD	Runcorn	A	0
 Dudu N Girlie Limited	Bentalls	A	0
 Dundonald House Nursing Home Ltd	Dundonald, Kilmarnock	A	0
 Dundoran Nursing &amp; Residential Home	Noctorum	A	0
@@ -1095,8 +1093,7 @@ Edinburgh Nicolson Street Visionplus Limited t/a Specsavers	Newington	A	0
 Efes Pizza (NW) Limited	Prestatyn	A	0
 EGGFREE CAKE INN NORTHAMPTON LTD	Northampton	A	0
 EGIS NUCLEAIRE	Farnborough	A	0
-EGREMONT NICE STORE LTD	Wirral	A	0
-Eikoku News Digest Limited	London	A	0
+EGREMONT NICE STORE LTD	Preston	A	0
 EJ NAILS LIMITED	Bourne	A	0
 El Nada Solutions Ltd	London	A	0
 El Naturel Ltd	Luton	A	0
@@ -1585,7 +1582,9 @@ HIBA NOOR FILMS LTD	Watford	A	0,3
 HIFZA NEWS	Middlesbrough,	A	0
 High Commission of Namibia	London	A	5
 Highbury Community Nursery	London	A	0
+Highcroft Nursing Home	Weston Super Mare	A	0
 Highercroft News Limited	Blackburn	A	0
+HIGHGATE CARE SERVICES (NORTH) LTD	Bridlington	A	0
 Highroads NI Limited	Belfast	A	0,4
 Highwell House Nursing Home	Bromyard	A	0
 Hill House Nursing Home Limited	Kenley	A	0
@@ -1788,7 +1787,6 @@ Jay Two En Three Ltd T/a Gareth Rees Newsagents	Aberdare	A	0
 Jays News	Bedford	A	0
 Jays News Off Licence Limited	Ashton-Under-Lyne	A	0
 Jazz North	Brighouse	A	3
-JBS NEXUS TECH LTD	Crewe	A	0
 JC Campbell NI Ltd	Newry	A	0
 JD Northwest LTD	Manchester	A	0
 Jecky Soni and Aarti Soni T/As News Plus	Greenford,	A	0
@@ -1833,7 +1831,6 @@ Just Imagine Day Nursery	Canvey Island	A	0
 Just Move Nw Ltd	Manchester	A	0
 Jyoti Patel, Nimesh Patel and Pushpa Patel T/A M&P Newsagents	Preston	A	0
 K & B News Ltd	Uckfield	A	0
-K & K Stores Limited T/A Nisa Local	London	A	0
 K & M ENTERPRISES LTD T/As Nisa Local	Pulborough	A	0
 K & Z Newhaven Limited	London	A	0
 K B Natural Foods Limited	London	A	0
@@ -1967,7 +1964,6 @@ LABEL NATION LIMITED	Wembley	A	0
 Labelle Jade Limited T/A Labelle Nails & Beauty	Hertfordshire	A	0
 LAC Northampton Ltd	Northampton	A	0
 LACTALIS NESTLE CHILLED DAIRY LIMITED	Redhill	A	0
-Ladybird Lane Nursery Limited	Isleworth	A	0
 Ladybird Montessori Nursery	Birmingham	A	0
 Ladybird Nurseries London Limited	Chislehurst	A	0
 Ladybird Nurseries Ltd	Chislehurst	A	0
@@ -2084,6 +2080,7 @@ Llysfield Nursing Home	Oswestry	A	0
 Local News Food & Wine Ltd	Kettering	A	0
 LOCAL148 LTD T/A Naya Restaurant	Henley-In-Arden	A	0
 Loch Ness Coffee Company	Inverness-shire	A	0
+LOG H NETWORK LIMITED	Southend-on-Sea	A	0
 London & West Investments Limited t/a Brooklands Nursing and Residential Home	Norwich	A	0
 London Ambulance Service NHS Trust	London	A	0
 London Booking Network Ltd	London	A	0
@@ -2125,7 +2122,6 @@ Lyndell House Nursing Home	Swansea	A	0
 Lyndhurst Park Nursing & Residential Care Home	Weston Super Mare	A	0
 LyondellBasell Industries NV	Lonon	A	0,4
 Lytham St Annes Primary Care Network Limited	Lytham St Annes	A	0
-M & D Careplus Limited T/A Bluebird Care Tamworth, Lichfield, Nuneaton & North Warwickshire	Tamworth	A	0
 M & N (NE) Ltd	Middlesbrough	A	0
 M & N Cars	Milton Keynes	A	0
 M H (NW) LTD T/a Spice Lounge Restaurant	Manchester	A	0
@@ -2202,6 +2198,7 @@ Marwood Convenience Store Limited T/As Nisa Local	Leicester	A	0
 Mary Seacole Day Nursery & Family Support Unit	Town	A	9
 Maryam's Nursery Ltd	London	A	0
 Maryvale & News & Wine Limited	Birmingham	A	0
+Mason Navarro Pledge Ltd.	Hitchin	A	0
 Masref Ltd t/a Nsave	London	A	0
 MASTER TRADE NETWORK LTD T/A MFG	London	A	0
 MASUKH LTD T/A MABROOR BY NESATH	Upminster	A	0
@@ -2403,6 +2400,7 @@ Mr Senthan Kanthavanam TA Parnham News	Deal	A	0
 Mr Shiuakumar Nawarathinam t/a E-Shop	Surrey	A	0
 MR SIVANESAN KURUPARAN T/A NILAANI FOOD AND WINE	Birmingham	A	0
 MR SIVESANARAJ VELUPPILLAI TA GOOD NEWS	Kettering	A	0
+Mr Su s Nobel Ltd	Leeds	A	0
 Mr Sureskumar Aiyadurai T/ A Star News	Skelmersdale	A	0
 Mr Suseetharan Somasuntharam T/As News Rack	Eastbourne	A	0
 Mr Thayananthan Gunarathnam T/A Robert Avenue News Agent	Merthyr Tydfil	A	0
@@ -2471,7 +2469,7 @@ Myka Ltd T/A Bushmead News & Post Office	Luton	A	0
 MYURAN LTD T/A NISA LOCAL	Ashington	A	0
 N & A GHAFFAR LIMITED	Airdrie	A	0
 N & B Chemist Ltd	Gateshead	A	0
-N & C Management Ltd t/a Joyato Sushi & Grill	Swansea	A	0
+N & C Management Ltd	Swansea	A	0
 N & D STORES LTD	Crawley	A	0
 N & G BUSINESS CONSULTANCY AND MARKET RESEARCH SERVICES LTD	Warrington	A	0
 N & G Designs Limited	London	A	0
@@ -2512,7 +2510,7 @@ N MOBILE AND VAPE LTD	Bolton	A	0
 N N Clothing Limited	Manchester	A	0
 N N P FOODS LTD	Milton Keynes,	A	0
 N N Traders Ltd T/A Farncombe Fresh Food	Godalming	A	0
-N P Josan Dalston Ltd	Ilford	A	0
+N P Josan Dalston Ltd	London	A	0
 N P Josan Dover Ltd	Ilford	A	0
 N R PATEL CHEMIST	London	A	0
 N S D (UK) LTD	Newcastle Upon Tyne	A	0
@@ -2576,6 +2574,7 @@ N2HD LIMITED T/A FIREAWAY	Addlestone	A	0
 N2JB Limited	Croydon	A	0
 N3 Hospitality Management Ltd	Hampshire	A	0
 N3O LTD	Romford	A	0
+N5 Music Holdings Ltd	London	A	0
 N5 Security Ltd	London	A	0
 N5 Security Ltd	Romford	A	0
 N7K LIMITED	Wallasey	A	0
@@ -2599,6 +2598,7 @@ NAAGAAFUEL LTD	Bristol	A	0
 Naakus Construction & Cleaning Solution Ltd	Nottingham	A	0
 NAAN HOUSE LTD	London	A	0
 NAAN STAAP	Southall	A	0
+NAAN STAAP (HARROW) LTD	Harrow	A	0
 Naan Staap (Harrow) Ltd T/A Naan Staap	Harrow	A	0
 NAAN STAAP ILFORD LTD	Ilford	A	0
 NAAN STAAP LIMITED	London	A	0
@@ -2729,7 +2729,7 @@ Naive Coffee Ltd	London	A	0
 Naivis Limited T/A Subway	Oxted	A	0
 NAJ Ltd T/A Budgens Haywards Heath	West Sussex	A	0
 Najran Direct Building and Fencing Supplies Ltd	Oldbury Birmingham	A	0
-NAK Consulting Services Limited	Northampton	A	0
+NAK Consulting Services Limited	Weedon	A	0
 NAK RETAIL LTD	Halstead	A	0
 Nakano Asset Global Ltd	London	A	0,4,7
 Naked Energy Limited	Crawley	A	0
@@ -2774,7 +2774,6 @@ NAMASTE NEPAL LIMITED	Clay Cross	A	0
 NAMASTE NEPALESE CUISINE LTD	Maidstone	A	0
 Namaste Southport	Southport	A	0
 Namaste Village Norwich Ltd	Norwich	A	0
-NAMASTE WOLVERHAMPTON LTD	Wolverhampton	A	0
 NAMDHARI SIKH SANGAT UK	Southall	A	1,9,10
 Namdiv Ltd	Irlam	A	0
 NAME WHAT LTD	London	A	0
@@ -2946,7 +2945,6 @@ NASHLEY SOLUTIONS LTD	London	A	0
 NASHRA FASHION LIMITED	London	A	0
 NASHTAWALA LIMITED	Leicester	A	0
 NashTech Limited	London	A	0,4
-NASI ISDA LTD	Essex	A	0
 Nasi Isda Woodford Ltd	London	A	0
 Nasim & Co. Solicitors Limited	London	A	0
 Nasim Consulting Limited	Ebbw Vale	A	0
@@ -3074,10 +3072,11 @@ Nations Trust	Llanelli	A	1,9,10
 NATIONWIDE ACCOMODATION SERVICES LTD	London	A	0
 Nationwide Air Conditioning LTD	Edenbridge	A	0
 Nationwide Building Society	Swindon	A	0
-Nationwide Care (Finchley) Limited	Whetstone	A	0
+NATIONWIDE CARE PHARAMACY LTD	Birmingham	A	0
 Nationwide Care Services (Birmingham Central) Ltd	Birmingham	A	0
 Nationwide Care Services (Birmingham South) Ltd	Birmingham	A	0
 Nationwide Care Services (Derby) Ltd	Derby	A	0
+Nationwide Care Services (Dudley) Ltd	Dudley	A	0
 Nationwide Care Services (Worcester) Ltd	Worcester	A	0
 Nationwide Care Services Ltd	Birminham	A	0
 NATIONWIDE ELECTRICAL & SECURITY WHOLESALERS LTD	Wolverhampton	A	0
@@ -3125,7 +3124,7 @@ Natta Building Company Limited	Farnham	A	0
 Natter Ltd	Poole	A	0
 Nattergal Limited	Norwich	A	0
 Natura Bisse International Limited	London	A	0
-NATURA CARE SOLUTIONS LIMITED	Slough	A	0
+NATURA CARE SOLUTIONS LIMITED	Dorset	A	0
 Natural Ability	Hexham	A	0
 Natural Capital Research Limited	London	A	0
 Natural Capital Solutions Ltd	Towcester	A	0
@@ -3224,7 +3223,7 @@ Navigate Response Limited	London	A	0
 Navigator Gas	London	A	0,4,7
 Navigator Insight Limited	Leicester	A	0
 Navigator Paper UK Ltd	Newbury	A	0
-Navigator Tissue UK Ltd	Blackburn	A	0,8
+Navigator Tissue UK Ltd	Leyland	A	0,8
 NAViGO Health and Social Care CIC	Grimsby	A	0
 Navikenz UK Limited	Wokingham	A	0
 Navillus Print Gifts Limited	London	A	0
@@ -3243,7 +3242,6 @@ Navolio Limited	London	A	0
 Navonmesh Ltd	Sutton	A	0
 Navraj Hairstylist	Wolverhampton	A	0
 Navratri Festival Association Manchester	Cheadle Hulme	A	3,9
-Navrtar Ltd	London	A	0
 NAVSA INTERNATIONAL LIMITED	Milton Keynes	A	0
 Navv Associates Ltd	Ilford	A	0
 NAVYA SCHOOL OF DANCE LTD T/A NAVYA SCHOOL OF DANCE	Middx	A	0
@@ -3252,7 +3250,6 @@ Navyred Technology and Ecommerce Ltd	London	A	0
 Navys Technologies Limited	London	A	0
 NAWAAB CUISINE LIMITED	Blackburn	A	0
 Nawaab Limited	Sunderland	A	0
-NAWAABKITCHEN LIMITED T/A NAWAAB INDIAN RESTAURANT	Camborne	A	0
 NAWAAZ INDIAN RESTAURANT LTD	Leicester	A	0
 Nawab Gillingham Ltd	Gilingham	A	0
 NAWAB TASTE LTD	Birmingham	A	0
@@ -3265,7 +3262,6 @@ Nawwab Saab Nuthall Limited	Nottingham	A	0
 Naxos Real Estate Ltd	London	A	0
 NAYA BRIDGE LTD	Abergavenny	A	0
 Naya Capital Management UK Limited	London	A	0
-Naya Medicals limited	Bury	A	0
 NAYAK PROPERTIES LTD	Blackpool	A	0
 NAYANY SUPERMART LIMITED	Neath	A	0
 NayaOne Limited	London	A	0
@@ -3364,6 +3360,7 @@ ND & AN STORES LTD.	Preston	A	0
 ND Brown Ltd	Wolverhampton	A	0
 ND CONVENIENCE LTD	Brighton	A	0
 ND CRIEFF LIMITED t/a Nickel and Dime	Stirling	A	0
+ND DUNDEE LTD	Arbroath	A	0
 ND PAINTING SERVICES LTD	Leicester,	A	0
 ND SPECTRA LIMITED	Chelmsford	A	0
 NDA Media ltd	Gloucestershire	A	0
@@ -3380,7 +3377,7 @@ Ndima Healthcare	Peterborough	A	0
 NDK Europe Limited	Kingston-upon-Thames	A	0,4
 NDL Software Ltd	Wetherby	A	0
 NDP Studio	Sevenoaks	A	0
-NDPL MANAGEMENT LIMITED	Leeds	A	0
+NDPL MANAGEMENT LIMITED	Keighley	A	0
 nDreams Limited	Farnborough	A	0
 NDT Consultants Limited	Coventry	A	0
 NDT Global Services Limited	Stockton on Tees	A	0
@@ -3417,6 +3414,7 @@ NEBIHE CIHAN LTD	London	A	0
 Nebius UK Ltd	London	A	0
 Nebula X Gaming Limited (Trading Address)	London	A	0
 Nebuli Ltd.	London	A	0
+Nebumi Technologies UK Ltd.	London	A	0
 NEC ART & DESIGN LTD	London	A	0,2
 NEC Europe Ltd	Uxbridge	A	0,4
 NEC Software Solutions UK Ltd	Hemel Hempstead	A	0
@@ -3914,7 +3912,6 @@ NEW COLES & WALL LTD	London	A	0
 New College Capital Ltd	London	A	0
 New College Durham	Framwellgate Moor	A	0
 New College Swindon	Swindon	A	0
-New College Worcester	Worcester	A	0
 New Commercial Arts London Limited	London	A	0
 New Community Church SE London	Sidcup	A	9
 New Company Services Ltd	Tipton	A	0
@@ -3995,7 +3992,6 @@ NEW FRESH HALAL MEAT LTD	Manchester	A	0
 NEW FRYWAYS LTD T/A CLIFTON CHIPPY	Hinckley	A	0
 New Gana Restaurant Ltd	Harrow	A	0
 NEW GEN SCOT LTD	Glasgow	A	0
-New Gen Security Services Ltd	Leicester	A	0
 New Generation Church Trust	Sidcup	A	1
 New Generation Minerals Limited	London	A	0
 NEW GOLDEN COACH 2021 LTD T/A NEW GOLDEN COACH RESTAURANT	Shetland	A	0
@@ -4019,7 +4015,7 @@ NEW HOPE ACUPUNCTURE AND HERB MEDIC CENTRE LTD	London	A	0
 New Hope Christian Church	Sheffield	A	1,10
 NEW HOPE COMMUNITY HEALTHCARE LIMITED	Stevenage	A	0
 New Hope Fellowship Church Manchester	Manchester	A	1,9
-NEW HORIZON CARE HOME LTD	Hayes	A	0
+NEW HORIZON CARE HOME LTD	Uxbridge	A	0
 New Horizon Global Advisory Ltd	London	A	0
 New Horizon Homecare Limited	Croydon	A	0
 NEW HORIZON PLASTICS CO LTD	Birmingham	A	0
@@ -4118,6 +4114,7 @@ New MST Ltd	Swadlincote	A	0
 New Narrative Global UK Ltd	London	A	0
 New Nexus Limited	London	A	0
 NEW NOODLE HOUSE LTD T/A NOODLE HOUSE	Leeds	A	0
+New north health centre	London	A	0
 New North London Synagogue	London	A	1,10
 New Ocean Glazing Limited	Iver	A	0
 New Option Support Limited	Northfleet	A	0
@@ -4185,7 +4182,6 @@ New Street Car Centre Limited	Telford	A	0
 NEW SUNSHINE FRESH LTD	Birmingham	A	0
 NEW SYDNEY MARKET	North London	A	0
 NEW TASTE OF CEYLON LIMITED	Leicester	A	0
-New taste of China	Leeds	A	0
 NEW TEAM RECOVERY & REPAIRS LTD	Dagenham	A	0
 New Test of India (t/a Memories of India)	Gorebridge	A	0
 New Testament Christian Mission International	Chattam	A	1
@@ -4275,8 +4271,7 @@ Newby Foundries Limited	Wednesbury	A	0
 NEWCARE 24 LTD	Portsmouth	A	0
 NEWCARE HOMES LTD	Warninglid	A	0
 Newcastle & Hartshill Cricket Club	Newcastle-under-Lyme	A	11
-Newcastle Accountancy Limited	Newcastle upon Tyne	A	0
-NEWCASTLE BUILDING CONSTRUCTION LIMITED	Newcastle Upon Tyne	A	0
+Newcastle Accountancy Limited	Newcastle upon Tyne	B	0
 Newcastle Building Society	Newcastle Upon Tyne	A	0
 Newcastle Central Mosque-Masjid Al Tawhid	Newcastle Upon Tyne	A	1,9
 Newcastle Circus Arts CIC	Newcastle upon Tyne	A	3
@@ -4305,7 +4300,7 @@ NEWCASTLE UPON TYNE Y.M.C.A.	Newcastle Upon Tyne	A	0
 Newcastle Visionplus Ltd t/a Specsavers	Newcastle Upon Tyne	A	0
 Newchapters support and wellbeing LTD	Wedmore	A	0
 NEWCHELTENHAMSUSHI LTD	Cheltenham	A	0
-newcleo Generation (UK) Ltd	London	A	0,4
+newcleo Generation (UK) PLC	London	A	0,4
 Newclip Technics UK Ltd	Luton	A	0
 NewCold Ltd	Wakefield	A	0,4
 Newcombe Home Care Services Limited	Loughborough	A	0
@@ -4336,6 +4331,7 @@ Newgate Pubs & Bars Company Limited T/A The Mayfair Pub and Kitchen	Newcastle up
 NewGen Talent Limited	London	A	0
 NEWGLOBE EDUCATION SERVICES UK LIMITED	Forest Gate	A	0
 Newgrange of Cheshunt Ltd	Cheshunt	A	0
+Newgrange of Cheshunt Ltd	Cheshunt, Waltham Cross	A	0
 Newhall Associates Limited	Coventry	A	0
 Newhall Mains Partnership	Dingwall	A	0
 NEWHAM CARGO LTD	London	A	0
@@ -4540,7 +4536,7 @@ Next Gate Tech Limited	London	A	0,4
 Next Gear International Limited	Doncaster	A	0
 NEXT GEN DIAGNOSTICS UK LTD	Cambridge	A	0,4
 NEXT GEN MEDIA LIMITED	Farnborough	A	0
-Next Generation Construction Ltd	Slough	A	0
+Next Generation Construction Ltd	Slough	B	0
 Next Generation ICT LTD (TA Fractional Teams)	London	A	0
 Next Geosolutions UKCS Limited	Norwich	A	0
 Next Jump Limited	London	A	0,4
@@ -4896,6 +4892,7 @@ Niico Ltd	London	A	0
 NIIT Limited UK	London	A	0,4
 Nijjar Property Limited	Camberley	A	0
 Nijjar Supermarket Ltd T/A Nijjar's Supermarket	Wolverhampton	A	0
+NIJJAR SWEET CENTRE & CATERING SERVICES LTD	Smethwick	A	0
 Nijjar Transport (Slough) Limited	Slough	A	0
 Nijjer Accountants Limited	Longfield	A	0
 NIJJER SPAR OFFLICENCE LIMITED	Coventry	A	0
@@ -5168,7 +5165,7 @@ Nixxe Trader Limited	Birmingham	A	0
 Niya Network LTD	London	A	0
 Niyamo Capital UK Ltd	London	A	0
 Niyanth Media & Technology Limited	Southall	A	0
-Niyis Ltd	Reading	A	0
+Niyis Ltd	Wokingham	A	0
 NIYYAT ENTERPRISES LTD	Barking	A	0
 Niza Enterprises Ltd	Sutton	A	0
 NIZA FORECOURT LTD T/A TEXACO	Wickford	A	0
@@ -5303,7 +5300,6 @@ No.8 Sound and Vision Ltd	London	A	0
 NO1 LOUNGES (BHX) LTD	London	A	0
 NO1 LOUNGES (LHR) LTD	London	A	0
 NO17 THE PROMENADE LTD	Oban	A	0
-NO3.WYE Limited	Ross On wye	A	0
 No8 Manchester Ltd	Manchester	A	0
 Noa Girls	London	A	0
 Noadswood School	Southampton	A	0
@@ -5541,7 +5537,6 @@ Norfolk County Council	Norwich	A	0
 Norfolk Deaf Association (NDA)	Norwich	A	0
 Norfolk Mead Hotel	Coltishall	A	0
 Norfolk Newmedica Limited	Norwich	A	0
-Norfolk Park Store Ltd	Berkshire	A	0
 NORFOLK PASSPORT LIMITED	Norwich	A	0
 Norfolk Pharma Ltd	Norwich	A	0
 Norfolk Racing Team Ltd	Norfolk	A	0
@@ -5605,6 +5600,7 @@ Nortech Management Limited	Evesham	A	0
 North & South Labels Ltd	Thorton Heath	A	0
 North American Science Associated Ltd	Selby	A	0,4
 North Argyll Eventide Home Association Ltd	Oban	A	0
+NORTH ATLANTIC INTERNATIONAL TRADING CO LTD	London	A	0
 NORTH BAY (BEECHWOOD CARE HOME) LTD	Bridlington	A	0
 NORTH BAY CARE SERVICES LTD	Bridlington	A	0
 North Brink Practice	Wisbech	A	0
@@ -5642,7 +5638,6 @@ North End Baptist Church	Portsmouth	A	0
 North End Off Licence	King's Lynn	A	0
 North Ferriby Nursing Home	North Ferriby	A	0
 North Finchley Specsavers Hearcare Limited	London	A	0
-North Fortune LTD	London	A	0
 North Haven Infrastructure III Holdings Limited	London	A	0
 North Heath Care Home Ltd t/a Heathfield Court Care Home	Erith	A	0
 North Highland (UK) Limited	London	A	0,4
@@ -5853,6 +5848,7 @@ Northgate Healthcare Holdings Limited	Bridgnorth	A	0
 NORTHGATE HEALTHCARE LIMITED	Bridgnorth	A	0
 Northgate House Residential Care Home	Market Weighton	A	0
 Northgate Medical Practice G82060	Canterbury	A	0
+Northgate School Academy Trust	Northampton	A	0
 Northgate Surgery	Wakefield	A	0
 Northgate Vehicle Hire Ltd	Darlington	A	0
 NORTHHILL RESIDENTIAL CARE HOME - SOUTH YORKSHIRE LTD / NorthHill Care Home Ltd (Subsidiary)	Sheffield	A	0
@@ -5894,6 +5890,7 @@ Northumbria Healthcare NHS Foundation Trust	Newcastle upon Tyne	A	0
 Northumbria Optical Coatings Limited	Boldon	A	0
 Northumbria Pharma Limited	Sedgefield	A	0
 Northumbria University	Newcastle Upon Tyne	A	0,11,12
+NORTHUMBRIAN CITIZENS ADVICE BUREAU	Northumberland	A	0
 Northumbrian Water Limited	Durham	A	0
 Northvet Veterinary Group Ltd.	Kirkwall	A	0
 Northwards Ltd	Lerwick	A	0
@@ -5908,7 +5905,6 @@ NORTHWEST TRAVELS LTD	Liverpool	A	0
 NORTHWEST YOUTH SERVICES LTD	Poulton-le-Fylde,	A	0
 Northwich Foot Clinic Ltd	Northwich	A	0
 Northwick Park Institute for Medical Research	Harrow	A	0
-NORTHWOOD COMPLEX CARE LTD	Blackburn	A	0
 Northwood Convenience Ltd.	Sutton-In-Ashfield	A	0
 Northwood Investors International Limited	Reading	A	0,4
 Northwood Law Practice T/A Burnham Law Practice	Burnham	A	0
@@ -5960,7 +5956,6 @@ Nosebleed Interactive Ltd	Newcastle upon Tyne	A	0
 NOSHA INVESTMENTS LTD	Watford	A	0
 NOSHAHI FOOD STORE LIMITED	High Wycombe	A	0
 Noshh Box Ltd	Heanor	A	0
-NOSSH & CO LIMITED	Milton Keynes	A	0
 Nostalgia Media Limited	Edinburgh	A	0
 Nosto Solutions UK Ltd	London	A	0,4
 NOSTOS COFFEE LTD	London	A	0
@@ -6007,6 +6002,7 @@ Nottingham City Transport Ltd	Nottingham	A	0
 Nottingham CityCare Partnership CIC	Nottingham	A	0
 Nottingham College	Nottingham	A	0
 Nottingham Community Housing Association	Nottingham	A	0
+Nottingham Contemporary	Nottingham	A	3
 Nottingham Energy Partnership	Nottingham	A	0
 Nottingham Fish Monger Ltd	Nottingham	A	0
 Nottingham food Corner LTD	Nottingham	A	0
@@ -6113,6 +6109,7 @@ NOVATECH MBL LTD T/A PEHNAWAH	Manchester	A	0
 Novatek Europe Ltd	London	A	0
 Novatok Ltd	Croydon	A	0
 Novatum Tech Limited	London	A	0
+NOVATUM TECH LIMITED	London, England	A	0
 Novatus Global	London	A	0
 NOVECO LIMITED	Wakefield	A	0
 Novee AI Limited	London	A	0
@@ -6140,7 +6137,7 @@ Novo Dental Limited	London	A	0
 NOVO HOLDINGS EQUITY UK LIMITED	London	A	0,4
 Novo Management Consulting Limited	Purley	A	0
 Novo Nordisk Ltd	Gatwick	A	0,4,7
-Novo Nordisk Research and Development UK Limited	Oxford	A	0,4
+Novo Nordisk Research and Development UK Limited	Oxford	A	0,4,7
 Novo Tech Solutions Ltd	Frimley, Camberley	A	0
 Novo Technologies Ltd	Cheltenham	A	0
 Novocare Ltd	Walton on the Naze	A	0
@@ -6428,7 +6425,6 @@ Numero Group Ltd	London	A	0
 Numero Uno Holiday Rentals Ltd T/A Numero Uno Aparthouse	Newcastle Upon Tyne	A	0
 Numerus Limited	Wokingham	A	0,4
 Numi Scan (Brentwood) Ltd T/A Numi Scan	Brentwood	A	0
-NUMI SCAN (DERBY) LTD	Derby	A	0
 Numi Scan (Grimsby) Ltd	Grimsby	A	0
 Numi Scan Central Newcastle Limited	Newcastle upon Tyne	A	0
 Numi Scan Gateshead Ltd.	Gateshead	A	0
@@ -6753,6 +6749,7 @@ PETWORTH NEWS LIMITED	Petworth	A	0
 PG Newsagents Ltd T/A Goodnews	Bristol	A	0
 PHAT BUNS NOTTINGHAM LTD	Nottingham	A	0
 Phileas Fox Nursery School	London	A	0
+PHILIP NOLAN ACCOUNTANTS (LIVERPOOL) LIMITED	Liverpool	A	0
 PHILIP NOLAN ACCOUNTANTS (LUTON) LIMITED	Luton	A	0
 Philip Nolan Ltd	Orpington	A	0
 PHILIPPINE NATIONAL BANK (EUROPE) PLC	London	A	0,4
@@ -6855,7 +6852,7 @@ ProCare Nursing Agency Ltd	Cardiff	A	0
 Procurement Direct Ltd T/A Nexus Conference	London	A	0
 Professional Social Networks Ltd	Shaftsbury	A	0
 Profici NW Ltd	Liverpool	A	0
-PROJECT NEWCASTLE PRIVATE LIMITED TRADING AS PAPA JOHNS	Huddersfield	A	0
+PROJECT NEWCASTLE PRIVATE LIMITED TRADING AS PAPA JOHNS	Binley Woods,Coventry	A	0
 Property Management (North London) Limited T/A Acorn Property Group	London	A	0
 Property Partners North London Limited	London	A	0
 Prospect Private Nursing Home	Ballymena	A	0
@@ -6870,7 +6867,7 @@ PT Bank Negara Indonesia (Persero) bk	London	A	0,4
 Public Health Wales NHS Trust	Cardiff,	A	0
 Punjab Naans Ltd	Ealing	A	0
 PUNJAB NATIONAL BANK (INTERNATIONAL) LIMITED	London	A	0,4
-PURE N SURE LIMITED	Birmingham	A	0
+PURE N SURE LIMITED	Sale	A	0
 PURE TREE NURSERY LIMITED	London	A	0
 Purely Scottish Natural Mineral Water LTD	East Lothian	A	0
 PURITY NURSING LIMITED, T/A THE PRIORY NURSING HOME	Telford	A	0
@@ -7230,7 +7227,6 @@ SHHAPAL LIimited (Nisa Local)	Llanfairfechan	A	0
 Shi & Naz Limited (Trading as Legis Chambers)	London	A	0
 SHIHEJI LIMITED T/A ISLANDS NEWS	London	A	0
 SHILPA NEWS LTD	Carshalton	A	0
-Shining Eyes Ltd t/a Baroque Hair and Nails	London	A	0
 Shish cafe New Limited	Bury	A	0
 SHIV NEWS	London	A	0
 Shiva Aum Ltd T/As News Box	Dagenham	A	0
@@ -7439,7 +7435,6 @@ station hotel newcastle ltd	Newcastle upon tyne	A	0
 Station News	Chester	A	0
 Station news	Rhyl	A	0
 Station Newsagents Limited	Hayes	A	0
-Status Network Solutions Ltd	Hillington	A	0
 Steadfast Care Limited T/A Home Instead Bristol North	Bristol	A	0
 Stealthwave Ltd T/A Novikov Restaurant & Bar	London	A	0
 Stechford News & Booze Ltd	Birmingham	A	0
@@ -7505,11 +7500,13 @@ Sunkeep Limited t/a Cockton Hill News	Bishop Auckland	A	0
 SUNNY ( NW) LTD	Burnley	A	0
 Sunnyside Private Nursing Home Ltd	Iver	A	0
 Sunrise Community Nursery	London	A	0
+Sunrise Hill Care North Ltd	London	A	0
 Sunrise Nurseries Ltd	Nottingham	A	0
 Sunstar Supermarkets Ltd T/A Nisa	London	A	0
 SUPER NO.7 LIMITED	Birmingham	A	0
 SUPER NOVA FASHION LTD	Leicester	A	0
 SUPER NRG LIMITED	London	A	0
+Supercharger North Ltd	Wembley	A	0
 Superior NI Group Holdings Ltd	Larne	A	0
 Support and Action for Womens Network SAWN	Oldham	A	0
 Support Network Ltd	Spalding	A	0
@@ -7653,7 +7650,6 @@ The Conde Nast Publications Limited	London	A	0,4
 The Congregation of the Adorers of the Sacred Heart of Jesus of Montmartre OSB (Tyburn Nuns)	London	A	1,10
 The Connaught Square NHS General Practice	London	A	0
 The Contemplative Consciousness Network	London	A	0
-The Cotswold Nursing Home Co Ltd	Tetbury	A	0
 THE COTSWOLD NURSING HOME COMPANY LIMITED	Yeovil	A	0
 The Dales (Northwest) Ltd t/a The Dales Care Home	Wirral	A	0
 The Dales Nursing Home Limited	Exeter	A	0
@@ -7806,6 +7802,7 @@ The Notts & Arnold Amateur Cricket Club	Nottingham	A	11
 The Novelry Ltd	London	A	0
 THE NOVUSOL LTD	London	A	0
 The NSB Trust	Northampton	A	0
+The Nuclear House Limited	Norwich	A	0
 The Nucleo Project	London	A	0
 The Nuffield Trust For Research and Policy Studies in Health Care	London	A	0
 The Numerical Algorithms Group	Oxford	A	0
@@ -7853,6 +7850,7 @@ The Social Good Network Ltd	Ventnor	A	0
 The Society of College National and University Libraries	London	A	0
 The Spanish Nursery and Children's Centre for Culture and Language	London	A	0
 THE SPICE LOUNGE @NUMBER 10 LTD	Derby	A	0
+THE STUDY NETWORK LTD	Chertsey	A	0
 The Taj Mahal (Nepalese & Indian Cuisine)	Penzance	A	0
 The Tech Surgery (North East) Ltd	South Shields	A	0
 The Three Sisters (N.I) Ltd	Omagh	A	0
@@ -7872,7 +7870,7 @@ Therme North Limited	Manchester	A	0,4
 Thivakar Navaratnam t/as Lawns News Agent	Broadstairs	A	0
 Thomas Baty (Newcastle upon Tyne) Ltd	Gateshead	A	0
 Thomas Murray Network Management Limited	London	A	0
-Thomas Nagy Ltd	London	A	0
+Thomas Nagy Ltd	Watford	A	0
 THOMPSONS NEWS AND FOOD	Dunstable	A	0
 THOMPSONS NEWS STORES LIMITED	Great Yarmouth	A	0
 Thornton Day Nursery Ltd	Thornton Heath	A	0
@@ -8143,7 +8141,6 @@ West Hertfordshire Teaching Hospitals NHS Trust	Watford	A	0
 West Lodge Care Home (Nottingham) Ltd.	Nottingham	A	0
 West London NHS Trust	Southall	A	0
 West Midlands Ambulance Service University NHS Foundation Trust	Brierley Hill	A	0
-West NAH Professionals LLP	Paisley	A	0
 West Nine Construction Ltd	London	A	0
 West Norfolk Academies Trust	Kings Lynn	A	0
 West Northamptonshire Council	Northampton	A	0
@@ -8159,6 +8156,7 @@ WESTGATE HOUSE NE LTD	Newcastle Upon Tyne	A	0
 Westwood Care Homes Limited T/A Woodlands Nursing Home	Ripley	A	0
 Westwood Homecare (NORTHWEST) LIMITED	Manchester	A	0
 WF Federated GP Network Ltd.	Highams Park	A	0
+WH Nutt & Son Ltd	Londonderry	A	0
 Whiston Parish Church Cricket Club (non postal address)	Rotherham	A	11
 White Rock Nursing Home Ltd	Hampshire	A	0
 Whitford News	Chessington	A	0
@@ -8232,7 +8230,6 @@ Yen Nails & Beauty Wigan Limited	Wigan	A	0
 Yeoman Care Ltd T/A Albert House Nursing Home	Weston Super Mare	A	0
 Yes / No Productions Ltd	Hove	A	3
 Yew Tree Nursing Home Limited	Halesowen	A	0
-YMCA Norfolk	Norwich	A	0
 Yocuda Network UK Ltd	London	A	0
 Yoghim Enterprises Limited T/A Delite Post Office (North Watford Post Office)	Watford	A	0
 York & Scarborough Teaching Hospitals NHS Foundation Trust	York	A	0
@@ -8246,6 +8243,7 @@ Your NRG Ltd	Hartlepool	A	0
 Youth for Christ Northern Ireland Limited	Belfast	A	1,10
 Youth Matters New Mills CIC	High Peak	A	9
 Youth With A Mission (NI) ltd	Rostrevor	A	1,9,10
+Youth Works Northamptonshire	Kettering	A	0
 YouthAction NI	Belfast	A	9
 YSD BUSINESS RETAIL LTD T/A Yogi News	South Norwood	A	0
 Z & R Trade Limited T/As J H News	Irvine	A	0
@@ -8266,6 +8264,5 @@ Zikora day Nursery and Preschool	Stratford	A	0
 Zinc Network Limited	London	A	0
 ZIPPYS DAY NURSERY LIMITED	Greenwich	A	0
 ZL Notting Hill Limited	London	A	0
-ZM Brands Ltd t/a Oodles N'Oodles Coventry	Coventry	A	0
 ZONE BEAUTY STUDIO (NORTHAMPTON) LTD	Northampton	A	0
 Zone Networks Ltd	London	A	0

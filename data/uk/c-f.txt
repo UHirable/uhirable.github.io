@@ -2,7 +2,7 @@
 313 Vision Care Ltd	Fordingbridge	A	0
 360 Maple Limited	Farrington Gurney	A	0
 3d leisure Limited	Farnham	A	0
-4site Consulting Limited	Feering	A	0
+4site Consulting Limited	Feering	A	0,6
 777 Hotels Limited	Ferndown	A	0
 7am Stores Limited T/A Aiden's Budgens	Farnborough	A	0
 A & D Murco Friendly Ltd	Fishguard	A	0
@@ -26,7 +26,6 @@ ABO Energy United Kingdom Ltd	Falkirk	A	0
 ABSOLUTE FIRE PROTECTION LIMITED	Feltham	A	0
 Academy Medical Centre	Forfar	A	0
 Accelar Limited	Fleet	A	0
-Accinnoz Limited	Feltham	A	0
 Ace Adventure Limited	Forres	A	0
 ACE CARGO SERVICE LTD	Feltham	A	0
 ACL Homes Plus Ltd	Folkestone	A	0
@@ -87,6 +86,7 @@ Aone Dental Practices Ltd T/A Jaws Dental	Fraserburgh	A	0
 Appetiser Pizza Feltham Ltd	Feltham	A	0
 APS BUILDERS LIMITED	Feltham	A	0
 Aquabridge Limited	Felixstowe	A	0
+ARC Control Systems Ltd	Finchampstead, Wokingham	A	0
 Archer Offshore	Fareham	A	0
 ARMAAN TRADING LTD T/A USAVE	Falkirk	A	0
 Armada Engineering Ltd	Falmouth	A	0
@@ -164,6 +164,7 @@ Bolashak International Limited	Farnborough	A	0,4
 Bolton Breakers North West Limited	Farnworth	A	0
 Bonneycourt Ltd	Faringdon	A	0
 Boskalis Westminster Ltd	Fareham	A	0,4,7
+BOYAS BARBERS	Fraserburgh	A	0
 Brain Freeze Falkirk Ltd	Falkirk	A	0
 BRAMHA AND COMPANY	Feltham	A	0
 Brand & Deliver Marketing Limited	Flamstead	A	0
@@ -203,7 +204,6 @@ Castlewood Hotels Holding Ltd	Folkestone	A	0
 Catamaran Food Limited T/A Tandooriwala	Forfar	A	0
 Catherine House Limited	Frome	A	0
 Cavalier Logistics UK Ltd	Feltham	A	0
-CCCAMELON LIMITED	Falkirk	A	0
 Cellar Door Inns Limited t/a Bat and Ball	Fordingbridge	A	0
 CEYLON BAKE HOUSE LTD	Feltham	A	0
 Champion Health Plus Ltd	Fareham, Lee-on-the-Solent	A	0
@@ -340,7 +340,6 @@ Eunomia Systems Ltd trading as OneCare Platform	Farnborough	A	0
 Eureka Domestic Appliances	Fleet	A	0
 Eurofins Forensic Services Limited	Feltham	A	0
 Eurotunnel Services Limited	Folkestone	A	0
-Evening Star FR LLP	Fraserburgh	A	0
 Evolve Performing Arts Ltd	Farnham	A	3
 Excel Energy ltd	Ferndown	A	0
 Excelsis Healthcare Recruitment Ltd	Forest Gate	A	0
@@ -375,7 +374,6 @@ FARNHAM PHYSIOTHERAPY AND SPORTS CLINIC LIMITED	Farnham	A	0
 Farnham Specsavers Ltd	Farnham	A	0
 Farnworth Baptist Church/TLG Bolton	Farnworth	A	1,10
 Farpop Limited	Farnborough	A	0
-FAST ACTION SERVICES LIMITED	Farnborough	A	0
 Fateh PVT LTD	Fleet	A	0
 Faversham Medical Practice	Faversham	A	0
 Felixstowe and Corinthians Cricket Club	Felixstowe	A	11
@@ -733,7 +731,6 @@ Mr Logaraj Easwaran T/A Boughton Village Store	Faversham	A	0
 Mr Malcolm Borwick	Fernhurst	A	11
 MR MOHAMMED SHAFIQ t/a AULD TOON SHOP	Falkirk	A	0
 Mr. Indarjit Singh and Mrs. Narinder Kaur T/A I&N PARTNERSHIP Featherstone Post Office	Featherstone	A	0
-MRVKS LTD	Feltham	A	0
 MSL Cabling Limited	Feltham, Hounslow	A	0,4
 MSV Restaurants Ltd T/A Tattva Indian Kitchen	Farnborough	A	0
 Multimodal Logistics Ltd	Felixstowe	A	4
@@ -797,8 +794,8 @@ Omnia Smart technologies Ltd	Fleet	A	0
 On Air Dining Ltd	Fleet	A	0
 ONAISE MANAGEMENT LTD	Fearnhead, Warrington,	A	0
 One Beyond	Farnborough	A	0
-One Life Health Support Ltd t/a Caremark Surrey Heath & Rushmoor	Farnborough	A	0
 Open Arms Care Limited	Faversham	A	0
+Open Cages Advocacy Ltd	Farnham	A	0
 Open Synergy Limited	Farnham	A	0
 Opsyte Online	Farnborouh	A	0
 ORCHARD ROAD DENTAL PRACTICE LTD	Foress	A	0
@@ -810,6 +807,7 @@ Origio Limited	Fareham	A	0
 OSS Digital Consulting Limited	Feltham	A	0
 Ouno Creative	Farnborough	A	0
 Oxford House Community Care	Farnham Royal	A	0
+Oxford Human Capital Incorporated Ltd	Faringdon	A	0
 OZUN LTD T/A The Chippy Fish & Chips	Finsbury Park,	A	0
 P R FLEET LIMITED	Fleet	A	0
 PAK HEALTH CARE SOLUTIONS LTD	Falkirk	A	0
@@ -869,7 +867,6 @@ Projective Limited	Fleet	A	0
 Prologic Services Ltd	Felixstowe	A	0
 Protean Electric Limited	Farnham	A	0
 Providence Dental Limited	Folkestone	A	0
-Puspa & Laiba Ltd	Feltham	A	0
 QinetiQ Group Plc	Farnborough	A	0,4,7
 Quayside medical Practice	Failsworth	A	0
 Queens Lytham Limited	Freckleton	A	0
@@ -896,12 +893,12 @@ Rehan Licensed Grocers Ltd	Falkirk	A	0
 Remote Diagnostic Technologies Limited	Farnborough	A	0
 Rev. Marcus Hobson	Finaghy	A	1,9,10
 Revival Fishing Ltd	Fraserburgh	A	0
+RGS FORFAR LTD	Forfar	A	0
 RHIM DOMINION CHRISTIAN CENTRE	Falkirk	A	1
 Rhiwlas Care LTD	Flint	A	0
 Richard Western Ltd	Framlingham	A	0
 Richmoe Limited	Farnvorough	A	0
 Richmond & Hampshire Ltd	Fleet	A	0
-Riley & Riley T/A The Queens Head	Farnham	A	0
 RIOPAN LTD t/a Radhika Beauty Clinic	Fichley	A	0
 River Dee Community Church	Flint	A	9
 RIVER SPICE LTD	Fareham	A	0
@@ -917,6 +914,7 @@ Rossall School	Fleetwood	A	0
 Rossi UK Limited t/a MBP Surfaces	Full Sutton	A	0
 RR KITCHEN&BEDROOMS LTD	Feltham	A	0
 RRIZS LIMITED	Feltham	A	0
+Ruddy Joinery Limited	Flitwick	A	0
 Rushmoor Borough Council	Farnborough	A	0
 Russell Finex Ltd	Feltham	A	0
 S & S CARE (UK) LTD	Flintshire,	A	0
@@ -944,6 +942,7 @@ Scanwell Logistics LHR Limited	Felixstowe	A	0
 SCENT N ESSENCE UK LIMITED	Feltham	A	0
 Seacom Services (Accountancy) Ltd	Farnborough	A	0
 Segen Ltd	Farnborough	A	0
+Selective Care	Fareham	A	0
 Sensonic-UK Limited	Farnborough	A	0
 Serrula Research Limited	Fulham	A	0
 SF SWEETS LIMITED	Fallowfields	A	0
@@ -989,7 +988,7 @@ Specsavers Optical Superstores Limited	Fareham	A	0,4,17
 SPICE DHABA LTD, T/A SPICE CORNER	Folkstone	A	0
 Spiecapag SAS UK Branch	Farnborough	A	4
 Spotted Cow Farnham Ltd	Farnham	A	0
-Spryker Systems Ltd	Ferndown	A	0,4
+Spryker Systems Ltd	Ferndown	A	4
 SR73 LTD T/A NEW GOLDEN RICE	Farnborough	A	0
 SRC CATERING LTD T/A Cafe 115	Fort William	A	0
 SRC PROPERTY MANAGEMENT LTD	Fort William	A	0
@@ -1014,7 +1013,6 @@ Strong Pilates Franchising UK Limited	Farnham Road	A	0
 Studio Co2 Limited	Farnham	A	0
 Stuffs 2 U Retail Ltd	Falkirk	A	0
 SUBHAAN ENTERPRISE LTD	Felixstowe	A	0
-Subi and Sons Ltd	Fyfe	A	0
 Suna Restaurant Ltd	Folkestone	A	0
 SUNAULO LIMITED t/a Sushi Negi Noodles Bar	Falkirk	A	0
 Sundial Cottage Rest Home Ltd	Fawley	A	0
@@ -1045,7 +1043,6 @@ Talo Elements Limited	Farnborough	A	0
 Tanpopo Japanese Food Ltd	Feltham	A	0
 TANVI BUILDERS LIMITED	Feltham	A	0
 Tanzo Technologies Ltd	Farnborough	A	0
-TARA SOLUTIONS LTD	Feltham	A	0
 TASTY TREATS TASTY LTD	Forest Gate	A	0
 TASVALLEY MUSHROOMS LTD.	Flordon	A	0
 Taylor Care Norfolk Ltd	Fakenham	A	0
@@ -1057,7 +1054,6 @@ TEEMILL TECH LTD	Freshwater	A	0
 Telefonica Tech UK Data & AI Limited	Farnham	A	0
 Tessaa Ltd	Fareham	A	0
 Testia Limited	Filton	A	0
-The Avenue Care Home	Fareham	A	0
 The Christian Community in Great Britain	Forest Row	A	1,10
 The Collective Agency London Limited	Folkestone	A	0
 The Congregation of the Franciscan Sisters of St. Mary of the Angels	Fareham	A	1
@@ -1129,6 +1125,7 @@ TWENTYFIFTY LTD	Frome	A	0
 Tylorstown Convenience Store	Fernsdale	A	0
 Tyson Mini Market	Forest Hill	A	0
 UK HEALTH FOCUS LTD	Fitzwilliam	A	0
+UKUNITY83 LIMITED	Foundary Lane	A	0
 ULC Robotics International, LTD	Feltham	A	4
 Unified Haulier Ltd	Feltham	A	0
 UNIQUE AIR EXPRESS LIMITED	Feltham	A	4
@@ -1147,7 +1144,6 @@ VERTALA LIMITED	Fordingbridge	A	0
 Viasat UK Limited	Farnborough	A	0,4
 Viet Qoan Ltd T/A Viet Quan	Fareham	A	0
 village local ltd	Farnham	A	0
-VINE SOCIAL CARE AGENCY LIMITED	Farnborough	A	0
 Virtue Care Ltd	Farnborough	A	0
 Vision Zero Connect Limited	Farnsfield	A	0
 Vision Zero Consult Limited	Farnsfield	A	0

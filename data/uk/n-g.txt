@@ -48,6 +48,7 @@
 4 GLOBAL CONSULTING LIMITED	Chiswick	A	0
 4 Seasons Grocery Ltd	Cardiff	A	0
 408 Media Group Ltd	Sandbach	A	0
+45 Gleneagles Close , South Oxhey	Watford	A	0
 4986 MILES LTD T/A GOAT	Upminster	A	0
 4C Research Group Limited	Bloxham, Banbury	A	0
 4S GLOBAL LIMITED	Coventry	A	0
@@ -73,7 +74,6 @@
 A & D GLOBAL PVT LTD T/A Hope Street Restaurant	Belfast	A	0
 A & E GLAZING LTD	Dartford	A	0
 A & G Pet Medical Ltd	Chatteris	A	0
-A & G SUPER STORE LTD	Wigan	A	0
 A & G Young	Errol	A	0
 A & M Global Enterprises Ltd T/A Liverpool Souvenirs	Liverpool	A	0
 A & M Granite Solutions Ltd	Durham	A	0
@@ -213,7 +213,6 @@ Across the Pond Group Ltd	London	A	0
 Acteon Group Operations (UK) Limited	Norwich	A	0,4
 Acumen Construction Group Ltd	London	A	0
 Acumen Global Academy Ltd	Romford	A	0
-Adam Grocers Ltd T/A Abu Bakr Supermarket	Leeds	A	0
 Adam Grooming Atelier Ltd	London	A	0
 ADAMS GLOBAL LIMITED	Blackburn	A	0
 Adams Gold Limited	London	A	0
@@ -259,7 +258,6 @@ AFE Group LTD	Swansea	A	0
 Affiliated Managers Group Limited	London	A	0,4
 Affinity Homecare Group Limited	Wilmslow	A	0
 Aflak General Maintenance and Decoration LTD	London	A	0
-AFON GOCH CHILDREN'S HOMES LTD	Deiniolen	A	0
 afr2 Group Ltd	Birmingham	A	0
 African Grocers Limited	Manchester	A	0
 AFRIDI ENTERPRISES LTD t/a London Butchers & Grocers	London	A	0
@@ -359,6 +357,7 @@ Alimentary Innervationsl Ltd t/a The Functional Gut Clinic	London	A	0
 ALIS GLOBAL LTD	London	A	0
 All Global Media Limited	London	A	0
 ALL GRACE AFRICAN MARKET AND FOODS LTD	Clacton - On - Sea	A	0
+All Gravy Limited	London	A	0,4
 All Greens Wholesale Limited	London	A	0
 All Grow Ltd	Cheriton	A	0
 All Saints Green Dental Clinic Ltd	Norwich	A	0
@@ -496,6 +495,7 @@ Aora Group Ltd	London	A	0
 AP GLAZING LIMITED	Smethwick	A	0
 AP PLUMBING AND GAS LIMITED	Willenhall	A	0
 AP3 Group Limited T/A Skyhaus	London	A	0
+Aperture Group Management	London	A	0
 Apex Dental Group Limited	London	A	0
 APEX GLOBAL CONSULTING SERVICES LIMITED	Ilford London	A	0
 Apex Group MCR Ltd T/A The Link	Manchester	A	0
@@ -549,7 +549,6 @@ Ardagh Glass Limited	Knottingley	A	0,4
 Ardale (Potters Grange) Ltd	Potters Bar	A	0
 Ardale (Welwyn Grange) Ltd	Welwyn Garden City	A	0
 Ardgay Game	Bonar Bridge	A	0
-Ardmore Construction Group Limited	London	A	0
 Ardmore Veterinary Group Ltd	Sudbury	A	0
 Aream Group LLP	London	A	0,4
 Arena Event Services Group Ltd	St Ives	A	0
@@ -616,7 +615,6 @@ ASBG GLOBAL LTD	London	A	0
 Ascenso Tyres Global Limited	Manchester	A	0
 ASCENT GLOBAL SHIPPING UK LTD	Manchester	A	0
 Ascent Performance Group Limited	Manchester	A	0
-Ascent Performance Group Limited	Sheffield	A	0
 ASD Care Limited T/A Gosberton House Care Home	Spalding	A	0
 ASFAKHUSHEN PATEL TRADING AS MOBILE GALLERY	Prescot	A	0
 Asgard Group Limited	Sheffield	A	0
@@ -699,8 +697,8 @@ Atlantic House Group Limited	London	A	0
 ATLANTIC MEDICAL GROUP	Penzance	A	0
 Atlantic Pacific Global Logist	Basildon	A	0
 Atlantic Travel (GB) Limited	Bolton	A	0
+Atlas Geoquest UK Ltd	Borehamwood	P	2
 ATLAS GLAZING LTD	Birmingham	A	0
-Atlas Health Group Limited	Norwich	A	0
 Atlas Services Group Energy Ltd	Bristol	A	0,4
 Atrato Group Ltd	London	A	0
 ATS BRISTOL LIMITED T/A GARAM MASALA	Bristol	A	0
@@ -835,7 +833,7 @@ Baraka Property Group Limited	Birmingham	A	0
 BARAKAH GHM FOODS LIMITED	Leicester	A	0
 BARBRI Global Ltd	London	A	0
 Bargain Depot Ltd T/A Greta Grove	Leicester	A	0
-Bargain Grass Limited	Northampton	A	0
+Bargain Grass Limited	London	A	0
 Barham Global Limited	Watford	A	0
 Barjane International Group Limited	London	A	0,4,7
 Bark.com Global Limited	London	A	0
@@ -852,7 +850,6 @@ BARTLETT GROUP PRACTICE	Frimley Green	A	0
 Bartley Green School	Birmingham	A	0
 BARTON VILLA YORK LTD T/A BURTON VILLA GUEST HOUSE	North Yorkshire	A	0
 Base Genomics Ltd	Oxford	A	0
-Bash Grill Kingsbury Road Ltd	Birmingham	A	0
 BASINGSTOKE FOODS LTD t/a Honey And Ghee	Hampshire	A	0
 Bassna Investments Group Limited	Reading	A	0
 Bath And North East Somerset Third Sector Group CIO	Bath	A	0
@@ -883,7 +880,7 @@ BEARE GREEN STORES	Dorking	A	0
 Beaumont Rose Glazing Contractors Ltd	London	A	0
 Beavis Morgan Group Ltd	London	A	0
 Bedford Greenacre Independent School	Bedford	A	0
-BEDFORD SQUARE GROUP INTERNATIONAL LTD	London	A	0
+BEDFORD SQUARE GROUP INTERNATIONAL LTD	London	A	0,4
 Bee Security Group Ltd	Birmingham	A	0
 Beech Hill Grange Nursing Home	Sutton Coldfield	A	0
 Beechwood Gardens Care Home	Coventry	A	0
@@ -937,7 +934,7 @@ Best UK Supplies Ltd T/A Go Local Extra	Manchester	A	0
 Bethnal Green Montessori School Limited	London	A	0
 Bethnal Green Visionplus Limited (T/A Specsavers)	London	A	0
 Beths Grammar School	Bexley	A	0
-Better Decision Groups Ltd	Spalding	A	0
+Better Decisions Group Ltd	Manchester	A	0
 BEUMER Group UK Limited	Ashby-De-La-Zouch	A	0,4,8
 Bev Global Limited	London	A	0,2,4
 Bexley Grammar School	Welling	A	0
@@ -951,6 +948,7 @@ BEYONDTASTEE TO GO LIMITED	Bristol	A	0
 BFS Group Limited	Slough	A	0
 BG NICE FOOD LTD T/A GURKHA VILLAGE BAR & GRILL	Ormskirk	A	0
 BGF 3 LIMITED T/A German Doner Kebab	Birmingham	A	0
+BGF 4 Limited T/a German Doner Kebab	Walsall	A	0
 BGIS Global Integrated Solutions Limited	London	A	0
 BGL Group Ltd	Peterborough	A	0,4
 BGQ Group Ltd	Brentwood	A	0
@@ -1063,7 +1061,6 @@ BLUSPEC GROUP LIMITED	Staines Upon Thames	A	0
 BMA GROCERY LIMITED	London	A	0
 BMI GLOBALED LTD	London	A	0
 BMI Group Holdings UK Limited	Reading	A	0,4
-BMI Healthcare Limited trading as Circle Health Group Limited	London	A	0,4
 BMJ Publishing Group Limited	London	A	0
 BMT Global Link Limited	London	A	0
 BMT Group	London	A	0,4
@@ -1099,7 +1096,6 @@ Boughton Medical Group	Chester	A	0
 BOUSSARD & GAVAUDAN PARTNERS LIMITED	London	A	0
 BOUVY GLOBAL LTD	New Malden	A	0
 Bowling Green Dental Care	Leicester	A	0
-Bowman Power Group Limited	Southampton	A	0
 BPAV Technology Group Ltd	Basingstoke	A	0
 BPD Global Group Limited	London	A	0,4,7
 Bracket Group Limited	London	A	0
@@ -1109,8 +1105,7 @@ BRAHAM GLAZING LTD	Slough	A	0
 BRAIN BOOSTERS ACADEMY GB LIMITED	Luton	A	0
 Bramhall Gourmet Ltd T/A Turquoise Cafe Patisserie	Stockport	A	0
 Brand Genetics Limited	London	A	0
-BRAND GLOBAL LTD	Leicester	A	0
-Brandon Groundworks Limited	London	A	0
+BRAND GLOBAL LTD	Leicester	B	0
 Brands International T/A Copper Fox Grill	Birmingham	A	0
 BRANFORD GROUP LIMITED	London	A	0
 Bransford Lodge Ltd T/A The Bank House Hotel, Spa & Golf Club	Bransford	A	0
@@ -1135,6 +1130,7 @@ Brighter Green Engineering	High Wycombe	A	0,4
 Brighton One Ltd T/A George Street Hotel	Oxford	A	0
 Brightsmith Group Ltd	London,	A	0
 Brightway Global Limited	London	A	0
+Brilliant Culinary Group Ltd	Southall	A	0
 Brims Group Limited	Birmingham	A	0,3
 Brindle & Green	Ashbourne	A	0
 Brindley Capital Group Limited	Birmingham	A	0
@@ -1219,7 +1215,6 @@ Bute House Preparatory School for Girls Limited	London	A	0
 Butterfield Group Services Limited	London	A	0
 BUY 2 SAVE (GG) LTD	London	A	0
 BUY N BUY GREENGROCERS LIMITED	London	A	0
-BW1 Enterprise Group Ltd	Nottingham	A	0
 BWSC Generation Services UK Ltd	Warrington	A	0,4
 BX1 GROUP LTD	Romford	A	0
 C & C ALPHA GROUP LIMITED	London	A	0
@@ -1493,7 +1488,6 @@ CHICKOS GRILL & FRIED UK LTD	Preston	A	0
 Chicos Flame Grilled Chicken Limited	London	A	0
 CHILLE GRILL LIMITED	Glasgow	A	0
 Chilli & Grille Ltd T/A Chilli, Grille, Evoo, The Kebab Factory & Mexigo	Barnsley	A	0
-CHILLI SPICE (SPRING GARDEN) LTD	Shrewsbury	A	0
 Chilworth & Gray T/A Elle designs Ltd	Altrincham	A	0
 China Garden Yang Ltd	Londonderry	A	0
 China Global Television Network Europe Ltd.	London	A	0,4
@@ -1572,6 +1566,7 @@ City of Gods	Sheffield	A	1,10
 City Pub Group PLC	London	A	0
 City St George's, University of London	London	A	0,12
 CITY WINDOWS AND GLASS LTD	Thornton Heath	A	0
+CityAthlete Gym Ltd	Birmingham	A	0
 CKI Gas Infrastructure Limited	London	A	0,4
 CKP Gretna Hotels Ltd	Gretna	A	0
 CKS GROCERY LTD	Gateshead	A	0
@@ -1614,6 +1609,7 @@ Cloud Consulting Group Ltd	Bristol	A	0
 CLOUD DOING GOOD GROUP LIMITED	West Wycombe	A	0
 Cloud Galacticos	London	A	0
 Cloud Imperium Games Limited	Manchester	A	0,3,4
+Clove Group Limited	London	A	0
 CLOVE MART GLOBAL LTD	London	A	0
 Clover Care Group Limited	Chelmsford	A	0
 CLOVER SUPPORT GROUP LTD	Harlow	A	0
@@ -1728,7 +1724,7 @@ Cosmor Groundworks Limited	Manchester	A	0
 COSTCUTTER (GREENOCK) LTD	Greenock	A	0
 Costcutter Supermarkets Group Ltd	York	A	0
 Coster Group UK	Derby	A	0,4
-Cosyseal (Double Glazing) Limited	Surrey	A	0
+Cosyseal (Double Glazing) Limited	Croydon	A	0
 Cote Restaurant Group Ltd	London	A	0
 Cotswold Energy Group Ltd	Stonehouse	A	0
 Cotswold Restaurant Group Ltd t/a Muse Brasserie	Cheltenham	A	0
@@ -1739,7 +1735,6 @@ COURAGE GLOBAL SCHOOL LIMITED	Bury	A	0
 Covalense Global UK Private Limited	London	A	0
 Covent Garden Dragon Hall Trust	London	A	9
 Covent Garden FX LTD	London	A	0
-COVENT GARDEN HARDWARE STORE LTD T/A The Lowdown	London	A	0
 COVENT GARDEN MARKET AUTHORITY	London	A	0
 Coventry & Rugby GP Alliance	Coventry	A	0
 COVENTRY GRILL LTD (PIZZA CLUB)	Telford	A	0
@@ -1784,6 +1779,7 @@ Crookston Community Group	Glasgow	A	0
 CROOKSTON COMMUNITY GROUP (SCIO Registered)	Glasgow	A	9
 Cross Street Garage	Swindon	A	0
 Crowbond Groceries Limited	Leyton	A	0
+CROWN CONCRETE GROUP LTD	Gravesend	A	0
 Crown Gas & Power Limited	Bury	A	0
 Crown Guest House LTD	Reading	A	0
 Crown Properties (GB) LTD	London	A	0
@@ -1862,7 +1858,6 @@ DA Global (UK) Ltd	Wembley	A	0
 DA MOUNT LTD T/A Da Mount Gurkha	Liverpool	A	0
 DAAKS (UK) LTD T/A GROVE PHARMACY	London	A	0
 DAC GROUP UK OPERATIONS LTD.	London	A	0
-Dack Motor Group	Lincoln	A	0
 Dada Education Global Limited	Leeds	A	0
 DAGENHAM DOUBLE GLAZING LIMITED	Ilford	A	0
 DAI Global UK	London	A	0,4
@@ -1934,6 +1929,7 @@ Deep GRC London Ltd	Uxbridge	A	0
 Deep Grey Research Ltd	London	A	0
 Deeplish Property Group Ltd	Rochdale	A	0
 Deerness Park Medical Group	Sunderland	A	0
+Definition Group Holdings Ltd	Leeds	A	0
 Deintyddfa Glandwr Dental Practice	Criccieth	A	0
 DEKEYSER GROUP PRACTICE	Leeds	A	0
 DELEGATION OF THE GOVERNMENT OF CATALONIA TO THE UNITED KINGDOM LTD	London	A	0,4
@@ -1970,7 +1966,7 @@ DESI STYLZ LTD T/A SALEEM TAWA & GRILL	Manchester	A	0
 Design Ghar Limited	Ilford	A	0
 Designers Guild Limited	London	A	0
 Designology Global Limited	London	A	0
-Desirefirm Consulting Group Limited	Barking	A	0
+Desirefirm Consulting Group Limited	Leigh-on-Aea	A	0
 Deutsche Post Global Mail (UK) Ltd, t/a DHL Cross-Border Solutions UK	Staines-upon-Thames	A	0,4,7
 Deva Care Limited T/A Right at Home Grantham, Newark & Melton Mowbray	Grantham	A	0
 Development Guarantee Group Ltd	London	A	0
@@ -2010,7 +2006,6 @@ Digital Media Gang	Solihull	A	0
 Digital Orchard Group Ltd	Chalfont St Giles	A	0
 Digital Space Group Limited	Newark	A	0
 DIGITAL TRAVEL MARKETING GROUP LIMITED	Liverpool, Merseyside	A	0
-Digital Unlimited Group Ltd	London	A	0
 Digitys Global Services Limited	London	A	0
 Dilli Group Ltd. T/A Dilli Haat	Bournemouth	A	0
 DIMA Group LTD	Andrew Gilmour	A	0
@@ -2155,7 +2150,6 @@ Dunelm Group PLC	Leicester	A	0
 Dunlop Golf Europe Ltd	Aldershot	A	0,4
 Dunmuir Veterinary Group	Castle Douglas	A	0
 Dunstan Village Group Practice	Liverpool	A	0
-DURA Automotive Body & Glass Systems UK Ltd	Birmingham	A	0
 Durbar Hospitality Limited T/A Gurkha Royale Restaurant & Bar	Windsor	A	0
 Durrants Gym Ltd	London	A	0
 Dursemoor Limited ta MRP Group	Hainault	A	0
@@ -2238,7 +2232,6 @@ ECO GREEN CANOPY LTD	Warrington	A	0
 ECO GREEN HOME GRANTS LTD	Slough	A	0
 ECO GREEN SURVEY LTD	Slough	A	0
 ECO GREEN UPGRADES LTD	Luton	A	0
-Eco Greenenergy Solutions Ltd	Epping	A	0
 Eco Property Development Global Ltd	Lancaster	A	0
 ECO RESTAURANTS & INVESTMENT GROUP LIMITED	London	A	0
 Eco Systems Group Ltd	Kent	A	0
@@ -2366,7 +2359,6 @@ Endless Global Limited	London	A	0
 Energean Group Services Limited	London	A	0,4
 Energia Group Holdings Limited	Belfast	A	0
 Energizer Group Limited	Bucks	A	0,4
-Energy Efficiency Group Ltd	Leicester	A	0
 Energy Gardens Limited	City of Westminster, London	A	0
 Energy Growth Momentum LLP	London	A	0
 Energy Intelligence Group	London	A	0,4
@@ -2418,13 +2410,13 @@ Equilibrium Labs Group Limited	London	A	0
 EQUIPPED GYM LIMITED	Topcliffe,	A	0
 Equiserve Group Limited	London	A	0
 ERA UK Group Limited	London	A	0
+EROGLU FOOD GROUP LTD	Blackpool	A	0
 ES Global Ltd	London	A	0,3
 Esa Trading Ltd T/A German Doner Kebab	Great Yarmouth	A	0
 ESAB Group UK Ltd	Waltham Cross	A	0
 Escape Bar and Grill Limited	Worthing	A	0
 Esco GB Limited	Barnsley	A	0,4
 Esdevium Games Limited	Bordon	A	0,4
-ESG Energy Service Group Limited	Edinburgh	A	0
 ESG Global (Energy) Ltd	Chorley	A	0,4
 Eshkeri and Grau Limited	London	A	0
 eSIM Go LTD	Banbury	A	0
@@ -2541,7 +2533,7 @@ F A Firman (Glass Projects) Limited	Romford	A	0
 F Brothers Ltd T/A Indian Greedy Cow Ltd	London	A	0
 F G CARS LTD	Loughborough	A	0
 F2X GROUP LIMITED	London	A	0
-F50 League GB Ltd	London	A	0,4
+F50 League GB Ltd	London	A	0,3,4
 Faam Gallery Limited	Twickenham	A	0
 Fabertec Group UK Limited	St Albans	A	0
 FABS GARAGES LTD	Bolton	A	0
@@ -2642,7 +2634,6 @@ FITFILE Group Limited	London	A	0
 FITRADE PARTNERS LTD (GB) (12493307)	London	A	0
 Five Guys JV LTD	London	A	0,4
 Five Health Group Limited	Pinner,	A	0
-Five Lads Goodmayes	London	A	0
 Five Oak Green Pet Surgery Limited	Five Oak Green (Tonbridge)	A	0
 Five Rivers Grill & Restaurant T/A Bhupinder Tamana	London	A	0
 FIZAH GROCERS (HG) LIMITED	Cheadle	A	0
@@ -2821,6 +2812,7 @@ G B (LONDIS) LTD t/a LONDIS	Banbury	A	0
 G B AUTOS MCR LTD	Manchester,	A	0
 G B E Services Ltd	Dartford	A	0
 G B Mobiles (MCR) Limited	Manchester	A	0
+G Bhandal Transport Ltd	Dudley	A	0
 G Contractors Ltd.	Hounslow	A	0
 G D PARTNERSHIP LIMITED	Eynsford	A	0
 G DOC LTD	Gloucester	A	0
@@ -2870,6 +2862,7 @@ G TECK (UK) LIMITED	Middlesex	A	0
 G Whitfield Limited	Houghton-le-Spring	A	0
 G Woolacott & Son Ltd	Crediton	A	0
 G Wooldridge T/A Twelve Oaks Estate	Windlesham	A	11
+G& D Retailers Ltd	Durham	A	0
 G&A Fast Food Ltd	Luton	A	0
 G&AK LTD t/a Just Pizza	Hounslow	A	0
 G&C Produce Ltd	Roydon	A	0
@@ -2944,6 +2937,7 @@ G2 Digital Video Limited	Alton	A	0
 G2 DONER KEBAB MANUFACTURING LTD	Washington	A	0
 g2 Energy Limited	Olney	A	0
 G2 Ocean AS PE UK	Kingston Upon Thames	A	0
+G2 Ocean UK Ltd	London	A	0
 G2 SMART LTD	Birmingham	A	0
 G2 SUPERSTORE LIMITED T/A Morrisons Daily Inverurie	Aberdeenshire	A	0
 G2 TRANSPORT LTD	Willenhall	A	0
@@ -3124,6 +3118,7 @@ GALAXY HOME IMPROVEMENT CONSULTANTS LIMITED TRADING AS GALAXY WINDOWS	Harrow	A	0
 Galaxy Knitwear Limited	Leicester	A	0
 GALAXY LONDON LTD	London	A	0
 Galaxy Makeovers Ltd	Grimbsy	A	0
+GALAXY MANAGEMENT SOLUTIONS LIMITED	Birmingham	A	0
 GALAXY MARQUEES LTD	High Wycombe	A	0
 Galaxy Mobiles Ltd	Manchester	A	0
 GALAXY REAL ESTATE LIMITED	Hayes	A	0
@@ -3173,7 +3168,6 @@ Gallium Ventures Limited	London	A	0
 GALLO'S PIRI PIRI & GRILL LTD	Winchester	A	0
 Galloway & Southern Ayrshire Biosphere Partnership	Newton Stewart	A	0
 Galloway Hills Medical Group	Newton Stewart	A	0
-Galloways Accounting (Hove) Limited	Hove	A	0
 Galmstrup Limited	London	A	0
 GALOS PIRI PIRI LIMITED	Southampton	A	0
 Galson Sciences Ltd	Oakham	A	0
@@ -3489,7 +3483,6 @@ GB AUTOS & TYRES FELTHAM LTD	London	A	0
 GB Bank Limited	London	A	0
 GB BPO Limited	Godalming	A	0
 GB Brands Europe Ltd	London	A	0
-GB Burga Limited	Southampton	A	0
 GB CARE SERVICES LTD	Rossendale	A	0
 GB CARGO EXPRESS LTD	Ilford	A	0
 GB Carnival CIC	Ramsgate	A	3
@@ -3839,6 +3832,7 @@ Genius Sports UK Ltd	London	A	0,4
 GENIUS SUPPORT SERVICES LTD	Rainham	A	0
 Genius Tex UK Limited	Manchester	A	0
 Genius Within CIC	Lewes	A	0
+Genix Care Ltd T/A Waxham House	Ryde	A	0
 Genix Healthcare Ltd	Leeds	A	0
 Genki Group Ltd.	Cheltenham	A	0
 Genmed.me Limited	Cwmbran	A	0
@@ -3972,7 +3966,7 @@ Georgian House Torquay Limited	Torquay	A	0
 Georgians (Boston) Ltd (The)	Boston	A	0
 Geoscape Limited	Watford	A	0
 Geoseacore Ltd	Helston	A	0,4
-Geosec Ground Engineering Ltd	London	A	0,4
+Geosec Ground Engineering Ltd	Welwyn Garden City	A	0,4
 GeoShield Ltd	Leeds	A	0
 Geoslam Limited	Ruddington	A	0,4
 Geosphere Enterprise Software Ltd	Hyde	A	0
@@ -4051,7 +4045,6 @@ GETBUSY UK LIMITED	Pampisford	A	0
 GETECH GROUP plc	Leeds	A	0
 GETERBREWED LTD	Randalstown	A	0
 Getinge Limited	Derby	A	0,4
-Getir UK Limited	London	A	0,4
 GETLET LETTINNGS LIMITED	London	A	0
 GETMORE RESTAURANT GROUP LTD.	Birmingham	A	0
 GetMoss UK Ltd	London	A	0
@@ -4298,6 +4291,7 @@ Gilfach Goch Store	Mid Glamorgan	A	0
 Gilfillan Memorial Church	Dundee	A	1,9,10
 Gilford Van Hire Limited	Portadown	A	0
 Gilfresh Produce Ltd	Loughgall	A	0
+Gilion Ltd	London	A	0
 GILL & DHALIWAL LIMITED	Leeds	A	0
 Gill & Grandsons Limited	Coventry	A	0
 GILL & VIRK COURIER LTD	Hounslow	A	0
@@ -4481,6 +4475,7 @@ GKR Scaffolding Limited	London	A	0
 GKS Mini Market	London	A	0
 GKS Stores T/A Big Barn News & Booze	Nottingham	A	0
 GKT LIMITED T/A GKT CONVENIENCE STORE	Bath	A	0
+GKW SUPPLIES LIMITED	Peterlee	A	0
 GL & M UK Limited	London	A	0,4
 GL Attractions Limited	Edinburgh	A	0
 GL1 CAR SALES LTD	Gloucester	A	0
@@ -5147,7 +5142,6 @@ GLS LEISURE GROUP LTD	Barking	A	0
 Glue Home Limited	London	A	0
 Glum Tortoise Ltd	London	A	0
 GlycanAge Ltd	Newcastle Upon Tyne	A	0
-GLYME VALLEY SERVICES LTD	Chipping Norton	A	0
 GLYN HOPKIN LIMITED	Clifton	A	0
 Glyndebourne Productions Ltd	Lewes	A	0,3
 Glyndwr Enterprises Ltd TA The Hand Hotel	Ll20 8Pl	A	0
@@ -5246,7 +5240,6 @@ GNTK LTD	Tiverton	A	0
 GNV JOINERY LTD	Romford	A	0
 GNVERSE UK LTD	Kirkcaldy	A	0
 GNW DESIGNER STUDIO LTD	York	A	0
-GNY World Group Ltd	London	A	0
 Go Botanica limited	Hove	A	0
 Go Care Ltd	Edmonton	A	0
 Go City Limited	London	A	0,4
@@ -5500,6 +5493,7 @@ Golden Flakes Enterprise LTD	London	A	0
 Golden Fresh Mart Ltd	Swindon	A	0
 GOLDEN FRUIT UK LLP	Chelmsford	A	0
 Golden Future Care Ltd	Bolton	A	0
+GOLDEN GALLEON LIMITED	Hereford	A	0
 Golden Garage and Tyres Ltd	Ilford	A	0
 Golden Gehna Ltd	London	A	0
 GOLDEN GLITTERS TRAINING NURSERY & RECRUITMENT LTD	London	A	0
@@ -5513,7 +5507,6 @@ Golden Hill Cricket Club	Bristol	A	11
 Golden Hinde LImited	London	A	0
 GOLDEN HOUSE DEVON LTD	Dorset	A	0
 GOLDEN KEY SECURITY SERVICES LTD	London	A	0
-Golden Lay London Limited T/A OptiScale Consulting	London	A	0
 GOLDEN LEAF MIDHURST LIMITED	Midhurst	A	0
 Golden Link Care Services Limited	Llandrindod Wells	A	0
 GOLDEN LIVING CARE SERVICES LTD	Lichfield	A	0
@@ -5560,7 +5553,6 @@ GOLDEN9 UK LTD	Watford	A	0
 Goldenacre Grocery Ltd T/A Gilmerton Grocers	Edinburgh	A	0
 Goldenage Healthcare Ltd	Guildford	A	0
 GOLDENBEADS LTD	Liverpool,	A	0
-Goldenberg Hehmeyer LLP	London	A	0
 Goldendale House Care Home	Stoke-on-Trent	A	0
 Goldenfire DA6 Ltd T/A Daiu Bexleyheath	Bexleyheath	A	0
 GOLDENFRYBRAINTREE LTD.T/A-Golden Fry Fish & Mo Mo Hob	Essex	A	0
@@ -5583,7 +5575,7 @@ Goldings Supermarket Limited	Northampton	A	0
 Goldington Avenue Surgery	Bedford	A	0
 GOLDKEY TRADING LTD	London	A	0
 GOLDKING ENTERPRISE LIMITED	Dartford	A	0
-GOLDLEY COMMERCIAL & TRADING LTD CO., LTD	London	A	2
+GOLDLEY TRADING LTD	London	A	2
 GOLDLINE FUEL (HUTTON) LTD	Middlesex	A	0
 GOLDLINE FUEL LIMITED	Wembley	A	0
 Goldman Development Limited	Stratford	A	0
@@ -5906,7 +5898,7 @@ Gozney Group Ltd	Bournemouth	A	0,4
 GP ACOUSTICS (UK) LIMITED	Ipswich	A	4,7
 GP Acoustics (UK) Ltd	Ipswich	A	0
 GP Automate	London	A	0
-GP BULLHOUND CORPORATE FINANCE LTD	London	A	0,4
+GP Bullhound Corporate Finance Ltd	London	A	0,4
 GP Direct	Harrow	A	0
 GP Fund Solutions UK Ltd	Brighton	A	4
 GP Health Connect	Runcorn	A	0
@@ -5998,7 +5990,7 @@ Grace International Foundation Liverpool	Liverpool	A	1,9,10
 GRACE INVESTMENTS (UK) LTD	Lytham St. Annes	A	0
 Grace Living Supported Homes Pvt Ltd	Northampton	A	0
 Grace London	London	A	0,1
-Grace Manor Care Limited t/a Grace Manor Care Centre	Gillingham	A	0
+Grace Manor Care Limited t/a Grace Manor Care Centre	Gillingham	B	0
 Grace of Mercy Prayer Mountain	Dagenham	A	1,10
 Grace Recycling (MCR) Ltd	Bacup	A	0
 GRACE SERVICES (MANCHESTER) LIMITED	Rochdale	A	0
@@ -6048,6 +6040,7 @@ Graduate Management Global Connection UK Limited	London	A	0,4
 GRADUATE SERVICE LTD	London	A	0
 GRADUATEPLACE.COM LIMITED	London	A	0
 Graduation Limited	London	A	0
+Grady dental ltd	Glasgow	A	0
 Graebel UK Centre Limited	London	A	0,4
 GRAEME W CHEYNE (BUILDERS) LTD	Aberdeen	A	0
 Graepel Perforators Limited	Warrington	A	0
@@ -6082,7 +6075,6 @@ GrainCo Limited	South Shields.	A	0
 GrainCorp Europe (UK) Ltd	Swaffham	A	0,4
 GRAINFLOW OPERATIONS LTD	London	A	0
 Grainger Cable Installations Ltd	Gateshead	A	0
-GRAINGER GLOBAL ONLINE BUSINESS LTD.	London	A	0,4
 GRAINGER NEWS LTD T/A McGrain's	Newcastle Upon Tyne	A	0
 Grainger Park Dent Ltd	Newcastle upon Tyne	A	0
 Grainger plc	Newcastle upon Tyne	A	0
@@ -6226,7 +6218,6 @@ GRANTIFY LTD	London	A	0
 GRANTLEA CONVENIENCE STORE LIMITED	Glasgow	A	0
 Grantly Hotel Ltd	London	A	0
 Granton Information Centre	Edinburgh	A	0
-Grants Convenience Store	Colchester	A	0
 Grants of Dalvey Ltd	Alness	A	0
 GRANTTREE LTD	London	A	0
 Granular Energy Ltd	London	A	0
@@ -6483,7 +6474,7 @@ Green Circle Estates Limited	Liverpool	A	0
 Green City Services Ltd	Peterborough	A	0
 GREEN CLOVE LTD T/A KOHE-NOOR/IANNARELLI'S	Forfar	A	0
 Green Code Architects Ltd	London	A	0
-GREEN CODE TECHNOLOGIES LIMITED	England	A	2
+GREEN CODE TECHNOLOGIES LIMITED	London	A	2
 GREEN COLLAR RESOURCES LTD	Birmingham	A	0
 Green Colo Ltd	Portchester, Fareham	A	0
 GREEN COMPARED LTD	Romford	A	0
@@ -6563,7 +6554,6 @@ GREEN MOUNTAIN DC UK LIMITED	Linford Wood	A	0,4
 Green Nation Energy Ltd	Radstock	A	0
 GREEN NEST (CB1) LTD	Cambridge	A	0
 GREEN NEST (CB3) LTD	Cambridge	A	0
-GREEN OAKS CARE LIMITED	Rotherham	A	0
 GREEN OCEAN LIMITED T/A BEST ONE.	Manchester	A	0
 Green Olive Care Ltd	Enfield	A	0
 Green Pak Enterprise Ltd	London	A	0
@@ -6665,6 +6655,7 @@ Greenford Halal Meat Retail Ltd	Greenford	A	0
 Greenford High School	Southall	A	0
 Greengage Environmental Limited	Canterbury	A	0
 Greengate Metal Components Ltd	Manchester	A	0
+Greengate Property Ltd	London	A	0
 GREENGATES BIRMINGHAM LIMITED	Birmingham	A	0
 GreenGrantsUK ltd	Barking	A	0
 Greenhalgh Landscape Architecture Ltd.	Bath	A	0
@@ -6673,6 +6664,7 @@ greenhead pharmacy	Huddersfield	A	0
 Greenhill & Co. International LLP	London	A	0,4
 Greenhill Grange Residential Home Ltd	Frome	A	0
 Greenhill Healthcare Ltd	Peterborough	A	0
+Greenhill Medical Centre	Swansea	A	0
 Greenhill Park Care Ltd	Evesham	A	0
 Greenhill Pigs	Co Tyrone	A	0
 Greenhouse OS Ltd	York	A	0
@@ -6694,7 +6686,7 @@ Greenleaves Homecare Services Limited	Stevenage	A	0
 Greenleys wine Ltd	Milton Keynes	A	0
 Greenlight Care Solutions Limited	Fareham	A	0
 Greenlight Computers Limited	Manchester	A	0
-Greenlight Engineering Ltd	Merton	A	0
+Greenlight Engineering Ltd	Leatherhead	A	0
 Greenlight Healthcare Ltd	London	A	0,12
 Greenlight Re Marketing (UK) Limited	London	A	0
 Greenline Transport LTD	Maidstone	A	0
@@ -6711,7 +6703,7 @@ Greenowl AI Ltd	Rochdale	A	0
 Greenpark Private Nursing Home Ltd	Armagh	A	0
 Greenpeace Limited	London	A	0,4
 Greenpipe Ltd	London	A	0
-Greenpixie Ltd	London	A	0
+Greenpixie	London	A	0
 Greenplace Healthcare Ltd	Enfield	A	0
 Greenpoint Partners UK Ltd.	St Ives	A	0
 GreenPort-Fresh Limited	Harlow	A	0
@@ -6791,6 +6783,7 @@ Greenwood Projects Ltd	Lichfield	A	0
 GREENWOOD ROAD MINI MARKET	Northampton	A	0
 Greenwood veterinary clinic limited	Ruislip	A	0
 Greenwoods Legal LLP	Peterborough	A	0
+Greenwoods Legal Services Limited	London	A	0
 Greenworkx Ltd	London	A	0
 GREENWORLD LOGISTICS LIMITED	London	A	0
 GreenZone Cleaning and Support Services Ltd	London	A	0
@@ -6910,7 +6903,6 @@ GRILL N CHILL ASHBROOK LTD	Sunderland	A	0
 Grill N Spices Ltd	Stockport	A	0
 Grill Street Limited	Slough	A	0
 Grill Sweets Limited T/A Jilani's Cafe	Manchester	A	0
-Grill Yard Limited	London	A	0
 Grill Zone	Essex	A	0
 GRILL'ISH ROMFORD LTD	Romford	A	0
 Grillaz Preston Ltd	Preston	A	0
@@ -7374,7 +7366,7 @@ GULS Trading LTD	Glasgow	A	0
 GULSHAN FOODS LIMITED	Huddersfield	A	0
 Gultek Limited	Barking	A	0
 Gulz Deli Ltd	Stockport	A	0
-GULZAR HALAL POULTRY LTD	Birmingham	A	0
+GULZAR HALAL POULTRY LTD	Shrewsbury	A	0
 Gulzare Madina Islamic Welfare Trust	Northampton	A	0,1,9,10
 GumGum UK	London	A	0
 Gumley House Convent School For Girls	Isleworth	A	0
@@ -7383,6 +7375,7 @@ Gumtree.com Limited	Richmond Upon Thames	A	0,4
 Gumtree.com Ltd	London	A	0
 Gumtree.com Ltd	Richmond-upon-Thames	A	0
 GUN SMOKE CAMBRIDGE LTD	Cambridge	A	0
+GUN-SU GROUP LTD	Birmingham	A	0
 GUNAMSONENTERPRISE LTD	South Shields	A	0
 Gunaratnam Sekaran T/A SAAS Accountants	Harrow	A	0
 Gungah Care Limited T/A Seathorne Court Residential Home	Skegness	A	0
@@ -7396,8 +7389,8 @@ Gunnercooke LLP	London	A	0
 Gunning Dental	Annan	A	0
 GUNPOWDER HOSPITALITY LTD	London	A	0
 GUNPOWDER RESTAURANTS LTD	London	A	0
+GUNTER & CO INTERIORS LIMITED	London	A	0
 Gunter Zimmer t/a ZIMMERs Solicitors	London	A	0
-Gunvor UK Limited	London	A	0,4
 Gunzilla UK Ltd	London	A	0
 GUO BROTHERS UK LTD	Lancaster	A	0
 Guoman & Jackson Limited	London	A	0
@@ -7586,7 +7579,7 @@ GW Building Developments Limited	Hucknall	A	0
 GW Consulting Engineers Ltd	Kidderminster	A	0
 GW Development (UK) Ltd	Bushey	A	0
 GW Estate Agents Ltd	Nottingham	A	0
-GW Fashions Ltd	Manchester	A	0
+GW FASHIONS LTD	Manchester	A	0
 GW Leeds Limited	Huddersfield	A	0
 GW Partners LTD (t/a Metta)	London	A	0
 GWB Entertainment (UK) Limited	London	A	0,3
@@ -7632,7 +7625,6 @@ H & M Garage Services Ltd	Glasow	A	0
 H & S GOK LTD	London	A	0
 H and H Global Education Limited	London	A	0
 H G Walter Limited	London	A	0
-H S Health Group Limited	Boston	A	0
 H&H butchers &Groceries Ltd	Manchester	A	0
 H&R ACCOUNTS SERVICES AND GENERAL ADMIN LTD	Newport	A	0
 H2C Gelati Ltd (Amorino)	London	A	0
@@ -7673,7 +7665,6 @@ HAMILTON GROCERS LTD	Dalkeith	A	0
 Hamilton-Brown Business Graphics Limited	London	A	0
 Hampden Gurney CE Primary School	London	A	0
 Hampstead Group Practice	London	A	0
-Hampton Group International Ltd	London	A	0,4
 Hana Group UK Limited t/a Sushi Gourmet	London	A	0,4
 Hand In Hand Recruitment Group Ltd	London	A	0
 Hand of God Ltd	London	A	0
@@ -7712,6 +7703,7 @@ Harts Group ltd.	Oakham	A	0
 Haruns Southport LTD TA Haruns Charcoal Grill	Southport	A	0
 Harvest Bible Chapel Glasgow	Glasgow	A	1,9,10
 Harvest Care Group Limited	Watford	A	0
+HARVEST GROCERY LTD	London	A	0
 Harvest Land Management Group Ltd	London	A	0
 Harvest Property Group Ltd	London	A	0
 Harvester Grocery Ltd	Port Talbot	A	0
@@ -7774,7 +7766,6 @@ HEERA GROUP LTD	London	A	0
 HEFAURE GW LTD	London	A	0
 Heidelberg Graphic Equipment Limited	Uxbridge	A	0
 Heilen General Store	Urmston	A	0
-Heimstaden Group UK Ltd	London	A	0,4
 Heirs and Graces Private Day Nursery	St. Helens	A	0
 Helios Towers Group LLP	London	A	0,4
 HELLAS TAVERNA GROUP LTD	Wilmslow	A	0
@@ -7789,6 +7780,7 @@ Henley Green Medical Centre	Coventry	A	0
 HENLEY HEALTHCARE GROUP LIMITED	Uxbridge	A	0
 Henley Media Group Ltd	London	A	0
 Henley Retail GC Limited	Brockworth	A	0
+Henley Retail Group Limited	West Bromwich	A	0
 Hennessy Living Group	Chester Le Street	A	0
 Henshaw Inflatables Limited T/A Mustang Survival (Wing Group International)	Salisbury	A	0
 Hereford Medical Group	Hereford	A	0
@@ -7927,6 +7919,7 @@ HP GROCERIES & SPIRITS LIMITED	Bolton	A	0
 HPL Global UK Ltd.	Halifax	A	0
 HR Wallingford Group Limited	Wallingford	A	0,4,12
 HRHK Retail Limited T/A Glamour Girl	Salisbury	A	0
+HS Health Group Limited	Boston	A	0
 HSI GLOBAL LTD	Glasgow,	A	0
 HSK Gardening and Leisure Ltd	Warwickshire	A	0
 HSP Group Global Limited	West Wickham	A	0
@@ -7972,14 +7965,14 @@ I Care (GB) Limited	Blackpool	A	0
 I G ARENA LTD	London	A	0
 I Grunwerg Ltd	Chesterfield	A	0
 I Motor Cars Limited t/a Nigel Langs Garage	Bolton	A	0
-I&S GLOBAL LTD	Birmingham	A	0
+I&S GLOBAL LTD	Great Wyrley	A	0
 I'm So Good Ltd	Nottingham	A	0
 I-TECH BUSINESS GROUP UK LTD	London	A	0
 i5 Solutions Global Holdings UK Limited	Manchester	A	0
 IA Global Capital Limited	London	A	0
 IAE Global UK and Europe Ltd	London	A	0
 IAM Capital Group LTD	London	A	0
-IAM Technology Group Limited	Huddersfield	A	0
+IAM Technology Group Limited	Sheffield	A	0
 IAS GROUP HOLDINGS LIMITED	Coventry	A	0
 IBA Group Ltd	Leatherhead	A	0,4
 IBCP Group LTD	Twickenham	A	0
@@ -8205,6 +8198,7 @@ Isleworth Greengrocer Ltd	Isleworth	A	0
 Islington GP Group Limited	London	A	0
 ISLINGTON SMILE GROUP LIMITED T/A YOURDENTAL WELLNESS	Islington	A	0
 ISMART GIS LTD	London	A	0
+ISP Global Advisory	London	A	0
 Istanbul Pizza House Ltd T/A Roosters Grill	Maidenhead	A	0
 Istari Global Limited	London	A	0,4
 IT Global (UK) Limited	London	A	0,4
@@ -8369,7 +8363,6 @@ JOSEPH GARR LIMITED	Leyland	A	0
 Joseph Griggs and Company Ltd	Gloucester	A	0
 JOSIA GROUP LIMITED	Ashford	A	0
 Joule Group International Limited	London	A	0
-Joy Global (UK) Limited	Bolton	A	0,4
 Joy Global (UK) Ltd	Bolton	A	0,4
 JP Property Investment Group Limited	Stockport	A	0
 Jpingos Flame Grill	Nottingham	A	0
@@ -8438,7 +8431,6 @@ KAR GOLDEN BARBERS LTD	Cornwall	A	0
 KAR GROUPS OF COMPANY LIMITED	Sheffield	A	0
 KARAT GROUP LIMITED T/A PREMIER STORE (Top Shop)	Wrexham, Wales	A	0
 KARIBU GLOBAL EVENTS LIMITED	London	A	0,2
-Kasa and Kin Group UK Limited	London	A	0
 KASHMIR GOODS LTD	Walsall	A	0
 Kashmir Grill	Sheffield	A	0
 KASMO GROUP LTD	Manchester	A	0
@@ -8478,6 +8470,7 @@ KENNETH NG SURGERY LTD T/A Gooseberry Dental Practice.	Ipswich	A	0
 KENS GLOBAL SUPPORT LTD	London	A	0
 Kensington Property Investment Group Limited	London	A	0
 Kent and Medway Clinical Commissioning Group	Ashford	A	0
+Kent Group Ltd	Bromley	A	0
 KENT KERALA GROCERIES LTD	Royal Tunbridge Wells	A	0
 Kentucky Fried Chicken (Great Britain) Limited	Woking	A	0,4
 Kepak Group Limited	Aberdeen	A	0
@@ -8618,7 +8611,7 @@ La Garrigue edinburgh Ltd	Edinburgh	A	0
 La Lanterna Glasgow Ltd	Glasgow	A	0
 La Mart Group Limited	London	A	0
 la nonna food group limited	London	A	0
-LA PARRILLA TAPAS BAR AND GRILL LTD	Gravesend	A	0
+LA PARRILLA TAPAS BAR AND GRILL LTD	Sheffield	A	0
 La Retraite RC Girls School	London	A	0
 LA VITA GEORGE SQUARE LIMITED	Glasgow	A	0
 Labbaik Global Ltd	London	A	0
@@ -8628,6 +8621,7 @@ LADbible Group Limited	Manchester	A	0
 Ladbroke Grove Post Office	London	A	0
 Ladbrokes Betting & Gaming Ltd	London	A	0,4
 Ladies European Golf Venture Limited	Denham	A	0,4
+LAHORI SPICE GARDEN LTD T/A MY BAGH	Manchester	A	0
 Laing the Jeweller (Glasgow) Ltd	Glasgow	A	0
 Lajawab Grill and Fresh Karahi	Nottingham	A	0
 Lakes Care Group LTD	London	A	0
@@ -8780,10 +8774,10 @@ Little Garden Nursery Limited	Harrow	A	0
 Little Gaynes Rest Home Limited	Upminster	A	0
 LITTLE GIANTS LIMITED	Manchester	A	0
 Little Giants Volleyball Club Limited	London	A	11
-Little Goose Ltd	Hassocks	A	0
 Little Houses Group Ltd	London	A	0
 Little Star Group Ltd	Croydon	A	0
 Littlemoor Minimarket Ltd (T/A Green Food and Wine)	Birmingham	A	0
+Littleover Group Plc	Derby	A	0
 Littleton Convenience Store Ltd T/A Go Local - Littleton Convenience Store	Salford	A	0
 Liu Sister Group Ltd	London	A	0
 LIV Golf Limited	London	A	0,4
@@ -8811,6 +8805,7 @@ LOCAL GAS ENGINEER LIMITED	Berkshire	A	0
 Local Grab Ltd	Crawley	A	0
 Localease Limited T/A Spring Gardens	Edinburgh	A	0
 Loch Golf Limited	Berwickshire	A	0
+Lochside Garages Limited	Enniskillen	A	0
 LOCKDOWN GLOBAL LTD	Berkhamsted	A	0
 Lockwood GP Surgery	Poulton le Fylde	A	0
 Lodge Group Care Uk Ltd	Heathfield	A	0
@@ -8865,7 +8860,6 @@ London Venue Group	London	A	0
 London Victoria Groups Ltd	London	A	0
 London VIP Group Limited	London	A	0
 Londorf Capital Limited T/A United Green	London	A	0
-LONG AND PARTNERS GROUP LIMITED	London	A	0
 LONG AND PARTNERS GROUP LTD	London	A	0
 LONG VERE GROUP LTD	Solihull	A	0
 Longacre Group International Limited	London	A	0
@@ -8904,7 +8898,7 @@ LSG Group Limited	London	A	0
 LSM Global Limited	Lincoln	A	0
 LSTC Group Ltd	Little Driffield	A	0
 LTE Group	Manchester	A	0
-LUC Group Limited	Derbyshire	A	0
+LUC Group Limited	Swadlincote	A	0
 Lucid Games Ltd	Liverpool	A	0
 LUCKIES GROUP LIMITED	London	A	0
 LUCKY FOUNTAIN LIMITED T/A THE NEW FOUNTAIN GARDEN	Surrey	A	0
@@ -9010,7 +9004,6 @@ Makoil Group Limited	London	A	0
 Malabar Gold & Diamonds Limited	London	A	0
 Malathy Group Limited	Hertfordshire	A	0
 Malden Golf Club Members Ltd	New Malden	A	0
-Malhotra Group PLC	Newcastle upon Tyne	A	0
 MALIK GROUP OF BUSINESS LTD	London	A	0
 Malin Group Ltd	Glasgow	A	0
 malmin orthodontic group limited	London	A	0
@@ -9089,6 +9082,7 @@ Mary Griffiths T/A Ty Melin Residential Home for the Elderly	Cardiff	A	0
 mary the great ltd	Scunthorpe	A	0
 Marylebone Health Group lTD	London	A	0
 Maryport Group Practice	Maryport	A	0
+MAS BAZAR BETHNAL GREEN LTD t/a Mas Bazar	London	A	0
 MASB Group Limited	Manchester	A	0
 Mascolo Ltd T/A Toni & Guy	London	A	0
 Maserati GB Limited	Slough	A	0,4
@@ -9319,7 +9313,6 @@ Modaxo Group UK Limited	Chippenham	A	0,4
 MODE GLOBAL LIMITED	London	A	0
 Modi Global Ltd	London	A	0
 Modvic Group of Companies Limited	Ashford	A	0
-Mogul Games Group (UK) Limited	London	A	0
 Mohammad Goli	Chelmsford	A	0
 Mohammad Iftikhar T/A Grill House Kidbrooke	Carshalton	A	0
 MOHAMMADIA COMPANY LTD T/A Nawab to go	Surbiton	A	0
@@ -9340,6 +9333,7 @@ MONISH KUMAR GANESAN T/A ST MARY'S CONVENIENCE STORE	Stirling	A	0
 Monochrome Global Ltd	Wolverhampton	A	0
 Monster Group (UK)	York	A	0
 MONTE Global Asset Management Limited	London	A	0
+Montel Group Ltd	Stockton-On-Tees	A	0
 Montieth & Company Global PR Limited	London	A	4
 MONTREAL GROUP LTD	Bolton	A	0
 Monty UK Global Limited	London	A	0
@@ -9492,7 +9486,6 @@ MY SMART GROUP LTD	Manchester	A	0
 MYC Group(UK) Limited	London	A	0
 mycitydeal Limited t/a Groupon	London	A	0,4
 Myddelton Foods Ltd t/a Street Greek	London	A	0
-mydentist Group Limited	Kearsley	A	0
 mydentist Group Limited	Manchester	A	0
 Myers Fletcher & Gordon	London	A	0
 MYNR Ltd t/a Green Lane Post Office	Croydon	A	0
@@ -9500,7 +9493,6 @@ MyOptique Group Limited	London	A	0
 MYTHIC GOBLIN LTD	London	A	0
 MYTHILY & SON GARN LTD	Mid Glamorgan	A	0
 N & A GHAFFAR LIMITED	Airdrie	A	0
-N & C Management Ltd t/a Joyato Sushi & Grill	Swansea	A	0
 N & G BUSINESS CONSULTANCY AND MARKET RESEARCH SERVICES LTD	Warrington	A	0
 N & G Designs Limited	London	A	0
 N & R GROUP LTD t/a Greenock Convenience	Greenock	A	0
@@ -9592,7 +9584,6 @@ New City Gas Heating Ltd	Hayes	A	0
 New Dawn Risk Group Limited	London	A	0
 New Gana Restaurant Ltd	Harrow	A	0
 NEW GEN SCOT LTD	Glasgow	A	0
-New Gen Security Services Ltd	Leicester	A	0
 New Generation Church Trust	Sidcup	A	1
 New Generation Minerals Limited	London	A	0
 NEW GOLDEN COACH 2021 LTD T/A NEW GOLDEN COACH RESTAURANT	Shetland	A	0
@@ -9612,7 +9603,7 @@ Newar Group ltd	Hounslow	A	0
 Newbattle Medical Group	Dalkeith	A	0
 Newbury Group Practice	Ilford	A	0
 NEWCASTLE EDUCATION GROUP LTD	Newcastle Upon Tyne	A	0
-newcleo Generation (UK) Ltd	London	A	0,4
+newcleo Generation (UK) PLC	London	A	0,4
 NEWFANGLED GAMES LTD	Norwich	A	0
 Newfield Green Store	Sheffield	A	0
 Newfield Medical Group Ltd	Dundee	A	0
@@ -9637,7 +9628,7 @@ Next Gate Tech Limited	London	A	0,4
 Next Gear International Limited	Doncaster	A	0
 NEXT GEN DIAGNOSTICS UK LTD	Cambridge	A	0,4
 NEXT GEN MEDIA LIMITED	Farnborough	A	0
-Next Generation Construction Ltd	Slough	A	0
+Next Generation Construction Ltd	Slough	B	0
 Next Generation ICT LTD (TA Fractional Teams)	London	A	0
 Next Geosolutions UKCS Limited	Norwich	A	0
 NextLevel Pro Ltd t/a Guard dog Digital	Ipswich	A	0
@@ -9787,6 +9778,7 @@ O-I Glass Limited	Harlow	A	0,4
 OAK BAR AND GRILL LIMITED	Birmingham	A	0
 Oak Group Ltd	Brierley Hill	A	0
 Oaka Group	Peterborough	A	0
+Oakenwoods Group Ltd	Colchester	A	0
 Oakham Grange - Ardale (Oakham) Ltd	Oakham	A	0
 OAKLAND GROUP SERVICES LIMITED	Leeds	A	0
 Oakleigh Group of Pharmacies Limited	London	A	0
@@ -9822,6 +9814,7 @@ ODYSSEY (G.B) LIMITED	Rochdale	A	0
 Odyssey MM Group	Nottingham	A	0
 OEA Global Ltd	St Albans	A	0
 OEG Renewables Group Limited	Great Yarmouth	A	0
+Off Market Group Limited	London	A	0
 Office of Gas and Electricity Markets	London	A	0
 Office of the Agent General	London	A	0,5
 Office Oracle Group Limited	Dartford	A	0
@@ -9882,6 +9875,7 @@ ONSET GLOBAL TRADING UK LTD	London	A	0
 OnStream Group Limited	Essex	A	0
 Ontime Gas and Heating Limited	Birmingham	A	0
 Oolio Group UK Ltd	Warrington	A	0,4
+OPA Group Limited	Bradford	A	0
 OPAS GROUP LTD	Gosport	A	0
 Opera Gallery Group Limited	London	A	0
 Operation Goldeneye Ltd	Bishopton	A	0
@@ -9911,6 +9905,7 @@ Orchard Global Asset Management LLP	London	A	0,4
 ORCHARD GREEN LTD	Hartlepool	A	0
 Orchid Global Sourcing Ltd	London	A	0
 ORCP GP (UK) Limited	London	A	0
+Oremus Group Limited	Wirral	A	0,4
 ORGANIC GAINS LTD	Halifax	A	0
 ORGANIC GRAPE SPIRIT LTD	Ashford	A	0
 Oriel Healthcare Group Management Ltd	London	A	0
@@ -9922,7 +9917,6 @@ ORION TRAVELS GLOBAL LIMITED	London	A	2
 Orrell Grange Nursing Home	Bootle	A	0
 Orthodontic Gallery	Ilford	A	0
 Orveon Global Ltd	London	A	0,4
-OS Glasgow Limited	Glasgow	A	0
 Osaka Gas UK, Ltd	London	A	0,4
 Oscar Humphrey Group Limited	London	A	0
 Osmaston Grange Care Home Ltd	Belper	A	0
@@ -9947,7 +9941,6 @@ OXBRIDGE GROUP LTD	London	A	0
 Oxfam GB	Oxford	A	0,4
 Oxford Gene Technology IP Limited	Kidlington	A	0,4
 Oxford Genetics Limited	London	A	0,4
-Oxford Genetics Ltd	Oxford	A	0,4
 Oxford Global Projects UK Limited	Oxford	A	0
 OXFORD GOLDENLINK LIMITED	London	A	0
 Oxford Graduate School Ltd	London	A	0
@@ -10015,7 +10008,7 @@ Paramount Plants and Gardens	Enfield	A	0
 Paras Global Limited	Uxbridge	A	0
 PARAV GROUP LTD	Doncaster	A	0
 PARCEL GLIDE LTD	Slough	A	0
-Parchow Groundworks Ltd	Portsmouth	A	0
+Parchow Groundworks Ltd	Hants	A	0
 Parent Global Limited	London	A	0
 ParentPay Group Services Limited	London	A	0
 Paris Georgia ltd	London	A	0
@@ -10029,7 +10022,6 @@ PARK LANE GARAGES (TEESIDE) LIMITED	Middlesbrough	A	0
 PARK LANE GROCERS LTD	Glagosw	A	0
 Park MCR Ltd T/A Smokys Steaks and Grills	Manchester	A	0
 Park Road Garage Ltd	Bedford	A	0
-Park Stores (Gateshead) Limited	Gateshead	A	0
 Park View Gloucester Ltd	Gloucester	A	0
 Park View Group Practice	Stockport	A	0
 Park View Guest House (York) Limited	York	A	0
@@ -10256,7 +10248,6 @@ Power Giant Domestic Appliances Ltd	Luton	A	0
 Power Grid Projects Ltd	London	A	0
 Power System Consultants Limited T/A Smart G Power	London	A	0
 Power54 Generation Limited	London	A	0
-Powerplus Group (PPG) Ltd	Bingham	A	0
 PPD Global Ltd	Cambridge	A	0,4
 PPHL Food Group Ltd	London	A	0
 PPK Group UK Ltd	Birmingham	A	0
@@ -10278,7 +10269,7 @@ Premier Advisory Group Limited	London	A	0
 Premier Gillingham	Gillingham	A	0
 Premier Golf Developments Limited	Henley-on-Thames	A	0
 PREMIER LONDON PROPERTY GROUP LTD	Folkestone	A	0
-Premier Miton Group plc	Guildford	A	0
+Premier Miton Group plc	London	A	0
 Premier Nights Limited t/a Aaron Lodge Guest House	Edinburgh	A	0
 Premier Paper Group Ltd	Minworth	A	0,4
 Premier Research Group Limited	Reading	A	0
@@ -10299,6 +10290,7 @@ Preston Glades Ltd	Preston	A	0
 Preston Grove Medical Centre	Yeovil	A	0
 PRG GROUP LTD	London	A	0
 PRICE CUTTER (GREEN STREET) LTD	London	A	0
+Pride Developments Group Ltd	Cwmbran	A	0
 PRIESTMAN GOODE LIMITED T/A PRIESTMANGOODE	London	A	0
 Prima Healthcare Group Limited	Gloucester	A	0
 Primary Group (UK) Limited	London	A	0
@@ -10412,7 +10404,6 @@ Pure Healthcare Group	London	A	0
 Pure Recruitment Group	London	A	0,4
 Purefluids Oil and Gas Limited	Peterborough	A	0,2
 PURMO GROUP (UK) LTD	Gateshead	A	0
-Purple Garden SQ Entertainment Ltd	Canterbury	A	0
 PURPLE STAR GX LTD	Gerrards Cross	A	0
 Push Gaming	London	A	0
 Push Group Limited	London	A	0
@@ -10745,7 +10736,7 @@ Roman Catholic Diocese of Galloway	Ayr	A	1,10
 ROMANA GROUP LTD	Slough	A	0
 Rombald Group Ltd	Leeds	A	0
 Rooftop Housing Group Ltd	Evesham	A	0
-Rooms Group Limited	Warrington	A	0
+Rooms Group Limited	Winsford	A	0
 Rooster Grill Ltd	Luton	A	0
 Rooster Punk Group Ltd	Bristol	A	0
 ROOT GLOBAL LIMITED TA TOOR SUPERMARKET	Handsworth	A	0
@@ -10883,7 +10874,6 @@ SAAF ASSOCIATES LTD T/A NEWHAM NEXUS CONSULTING GROUP	Romford	A	0
 Saatchi Gallery London Limited	London	A	0
 Saavi Finance Limited T/a Skircoat Green Post Office and General Store	Halifax	A	0
 Sabden and Whalley Medical Group	Clitheroe	A	0
-SABIR'S SPICY GRILL BAR LIMITED	Rotherham	A	0
 Sabre Global Technologies Ltd	Richmond	A	0,4
 Sachinkumar Patel & Niyati Patel T/A Patel Londis - Go Local	Huddersfield	A	0
 SACOMA FOODS AND GLOBAL BUSINESS INNOVATION & LEADERSHIP TRAINING (SACOMA- GLOBAL ) LIMITED	Romford	A	0
@@ -10901,9 +10891,7 @@ SAGA MOTOR GROUP LTD	Manchester	A	0
 Sage VG LTD T/A Sage Veterinary Group	Bradford	A	0
 Sahar Fried & Grill Chicken Ashton Ltd	Ashton Under Lyne	A	0
 Sahara Fried & Grilled Chicken Ltd	Blackburn	A	0
-Sahara Grill Birmingham Ltd	London	A	0
 Sahil Food Consultancy Limited T/A Great Indian Kitchen	Altrincham	A	0
-SAHOTA GROUNDWORK & FORMWORK LTD	Kent	A	0
 SAI BABA LOGISTICS GROUP LTD	Barry	A	0
 SAI Global Assurance Services Limited	Milton Keynes	A	0,4
 SAI Group Limited	London	A	0
@@ -10932,7 +10920,6 @@ SAMA Group Ltd	Southwark	A	0
 Samarkand Global Limited	Tonbridge	A	0
 SamDebs Amazing Grace Kids Limited	Erith	A	0
 Samorem Global Ltd	Bedford	A	0
-Sampath Group LTD TA/ SQUEEZED.	London	A	0
 Sampunathan Sathiyaseelan T/As Bulwell News & General Store	Nottingham	A	0
 SAMS Global Solutions Ltd	Sheffield	A	0
 Sams Group LTD	Crawley	A	0
@@ -11014,7 +11001,6 @@ SCARLET GENERAL TRADING COMPANY LTD	London	A	0
 Scarlet Global Holdings Ltd	London	A	0,4
 SCB Global Ltd	London	A	0
 Schmidt Groupe UK Ltd	London	A	0,4
-Scholium Group plc	London	A	0
 Schroders Greencoat LLP	London	A	0,4
 Schulte Hospitality Group UK Limited	London	A	0,4
 Science Museum Group	London	A	0,12
@@ -11057,7 +11043,7 @@ Second Star Games Limited	Warrington	A	0
 Sector & Segment Group Ltd	St Albans	A	0
 Sector Global Ltd	Clevedon	A	0
 SECURE GUARD LONDON LTD	Waltham Abbey	A	0
-SECURE MANAGEMENT SECURITY GROUP LIMITED	Harborough District, Leicester	A	0
+SECURE MANAGEMENT SECURITY GROUP LIMITED	Leicester	A	0
 SECURE SECURITY GUARDS LIMITED	Barking	A	0
 SECURE SECURITY GUARDS SERVICES LTD	Ilford	A	0
 SECURITY GROUP SERVICES LTD	Peterborough,England,	A	0
@@ -11093,7 +11079,6 @@ Servomex Group Limited	Crowborough	A	0,4
 SESN GB LIMITED T/A GB GIFTS AND SOUVENIRS	London	A	0
 SETEX GLOBAL SOURCING LTD	London	A	0
 SETFIELD LIMITED T/A GLOBE CHEMIST	London	A	0
-Seure Glaze UK Home Improvements LTD T/A Secure Glaze Group UK	Birmingham	A	0
 Seven Bridges Genomics UK Limited	London	A	0,4
 Seven day Grocers Ltd	Surrey	A	0
 Seven Day Group Limited	Abbeywood	A	0
@@ -11148,7 +11133,6 @@ SHETTLESTON GROCERY LTD	Glasgow	A	0
 Shield Safety Group Ltd	Manchester	A	0
 SHIMLA PEPPERS BAR & GRILL LTD	Walsall	A	0
 Shinde Group Limited	London	A	0
-Shinedream Global Ltd	London	A	0
 SHINING STAR DOUBLE GLAZING LTD T/A THOMASHYNES DOUBLE GLAZING	Dagenham	A	0
 Shires Entertainments Ltd T/A Giffords Circus	Stroud	A	3
 Shish Grill Limited	Rochdale	A	0
@@ -11249,6 +11233,7 @@ SISTERS GRIMM LTD	London	A	0,3
 Sisters of Charity of Our Lady of Good & Perpetual Succour	Consett	A	1,10
 Sivalis Group Ltd	Steyning	A	0
 SIVAS TRADING GB LTD T/A ABI CONVENIENCE STORE PREMIER	Portsmouth	A	0
+Six Degrees Technology Group Limited	London	A	0
 SIYA GARDEN LIMITED	Birmingham	A	0
 Size Group Services Ltd	London	A	0
 SIZZLE IN GRILL LTD	Oldham	A	0
@@ -11293,7 +11278,6 @@ SMART GUYS LIMITED	London	A	0
 SMART HOST GROUP LTD	London	A	0
 Smart Move Education Group Limited	London	A	0
 Smart Point Group UK Limited	Bristol	A	0
-SMART Tool Group Global Ltd	Chelmsford	A	0
 Smartech Retail Group Limited	London	A	0,4
 SMARTER GRID SOLUTIONS LTD	Glasgow	A	0,4,7
 Smartphones And Gadgets Ltd	Nuneaton	A	0
@@ -11303,7 +11287,7 @@ Smarttech247 Group PLC	London	A	0
 SME Group PLC	South Ruislip	A	0
 Smedley Motorsport Group Limited	Bicester	A	0
 SMF Global Ltd	Manchester	A	0
-SMI Grill Limited	Walsall	A	0
+SMI Grill Limited	Stourport On Severn	A	0
 Smith Global Ltd (t/a Mr & Mrs Smith)	Richmond	A	0
 Smith Global Services UK Ltd	Maidenhead	A	0,4
 Smith's (Gloucester) Limited	Stonehouse	A	0
@@ -11373,7 +11357,6 @@ Sopro Group Limited	Poole	A	0
 SORS GT UK LTD	Manchester	A	0
 Soteria Children's Services Group Limited	Darlington	A	0
 Source Group International Limited	Addlestone	A	0,4
-Sousa World Gourmet Ltd	Reigate	A	0
 South & East Leeds General Practice Group Ltd	Leeds	A	0
 South Cliff Dental Group	Crawley	A	0
 South Gloucestershire and Stroud Academy Trust	Stroud	A	0
@@ -11597,7 +11580,7 @@ STARTEK GROUP LTD	Birmingham	A	0
 Starwins Group Ltd T/A Gura Gura	London	A	0
 State Grid Europe Limited	London	A	0,4
 Statement Group Limited, trading as Novos	London	A	0
-Statom Group Limited	London	A	0
+Statom Group Limited	West Thurrock	A	0
 Stats Group	Kintore	A	0,4
 STATSports Group LTD	Newry	A	0
 Status Motor Group LTD	Barking	A	0
@@ -11617,9 +11600,9 @@ Stephenson Group Limited	Leeds	A	0
 STEPNEY GREEN SUBWAY LTD	London	A	0
 STEPSTONE GROUP EUROPE LLP	London	A	0,4
 Stereo Creative Group	London,	A	0
+STERLING CARE SOLUTIONS GROUP LIMITED	Sunderland	A	0
 Sterling Motor Group LTD	London	A	0
 Sterlinx Global Ltd	Liverpool	A	0
-STEWARTS (SCOTLAND) LIMITED T/A GLENCARSE FOODS	Perth	A	0
 STILL WATERS GREEN TECHNOLOGY LIMITED	London	A	0,4
 STJ Advisors Group Limited	London	A	0
 Stockport Medical Group	Stockport	A	0
@@ -11793,6 +11776,7 @@ T I A (GB) Limited	Telford	A	0
 T R Group (Scot) Limited	Ayr	A	0
 T&D Media Group Ltd	Surrey	A	0
 T&J Legacy Group Limited	Seaford	A	0
+T2 GLOBAL TRADE LIMITED	London	A	0
 TABULA RASA GALLERY LTD	London	A	0
 Tache Gallery Limited	London	A	0
 Tactile Games Limited	London	A	0
@@ -11885,6 +11869,7 @@ Tellus Education Group Limited	Plymouth	A	0
 TELS GLOBAL UK Limited	London	A	0
 TELUS Agriculture and Consumer Goods (UK) Ltd	Ross on Wye	A	0
 Temple & Green Ltd	Sandwich	A	0
+Temple Cowley Medical Group	Oxford	A	0
 Ten Garden Limited	Brighton	A	0
 Ten Lifestyle Management ( Ten Group)	London	A	0,4
 Ten West Group Ltd	London	A	3
@@ -11931,7 +11916,6 @@ THE 9TH GATE SECURITY LTD	Dewsbury	A	0
 The [re]DESIGN Group Ltd	London	A	0
 The Acai Girls Ltd	London	A	0
 The Acorn and Gaunmont House Surgery	London	A	0
-The Action Group	Edinburgh	A	0
 The Agency Global Ltd	Bath	A	0
 The Agora Gynaecology and Fertility Centre Ltd	Brighton	A	0
 The Aime Group Ltd	Mitcham,	A	0
@@ -11942,7 +11926,6 @@ The Andonia Group LTD	London	A	0
 The Apartment Global Limited	London	A	0
 The Appointment Group (UK) Ltd	London	A	0,4
 THE ARENA GRILL AND LOUNGE LTD	Kent	A	0
-THE ARMADA GROUP (HOSPITALITY) LIMITED	East Sussex	A	0
 The Arterial Group Limited	London	A	0
 The Ashdown Garage Car Sales Ltd	Haywards Heath	A	0
 The Audio Visual Group Limited	London	A	0
@@ -11984,7 +11967,7 @@ The Brattle Group Limited	London	A	0,4
 THE BRAVE GURKHAS LTD	Honiton	A	0
 The Breakthrough Group Limited	London	A	0
 The Breeze Group Limited	Redditch	A	0
-The Briars Group Limited	Elstead	A	0
+The Briars Group Limited	Warrington	A	0
 The Brighton Pier Group Ltd	Brighton	A	0
 THE BRITANNIA GURKHA RESTAURANT AND BAR	Colchester	A	0
 THE BROAD GROUP NE LTD	Consett	A	0
@@ -12025,16 +12008,16 @@ The Common Good Foundation	London	A	9
 The Common Guild Limited	Glasgow	A	3
 The Community Of The Many Names Of God	Carmarthenshire	A	1,10
 The ComplEAT Food Group	Redhill	A	0
+The Compleat Food Group (Holdings) Limited	Nottingham	A	0
 The Connaught Square NHS General Practice	London	A	0
 The Consultancy Group	London	A	0
 The Cornershop G S Ltd	Newcastle Upon Tyne	A	0
 The Cornhill Group Services LTD.	Grays	A	0
-The Court Care Group Limited	Cockermouth	A	0
 The Court Hotel Group	Cockermouth	A	0
 The Cranbrook Group Ltd	London	A	0
 The Creative Engagement Group Ltd	Manchester	A	0
 The Data Capital Group	Stockport	A	0
-The Data Company Group Limited	Birmingham	A	0
+The Data Company Group Limited	Hertfordshire	A	0
 The Davan Group Limited	Saxilby	A	0
 THE DESI CO. GROUP LTD T/As 9x9 DIGITAL	London	A	0
 The Designers Graphic Ltd	Hemel Hempstead	A	0
@@ -12066,6 +12049,7 @@ The Foundation Growth Consulting LLP	London	A	0
 The Franklyn Group Limited	Harrogate	A	0
 The Freethinking Group	Manchester	A	0
 The Friedkin Group International Ltd	London	A	0,4
+The Future Governance Forum Limited	London	A	0
 The Fuzzy Duck Cocktail Bar & Gastro Kitchen	Nuneaton	A	0
 The Gables	Afford	A	0
 The Gables Bar and Restaurant	Dungannon	A	0
@@ -12078,10 +12062,8 @@ THE GALLEY FISH & CHIP SHOP LTD	Newry	A	0
 The Gallup Organisation Limited	London	A	0,4
 The Gambia High Commission	London	A	5
 The Game Xchange Limited	Wembley	A	0
-THE GANGES RESTAURANT	Tavistock	A	0
 The Gap Partnership	Berkhamsted	A	0,4
 THE GARAGE CAR SALES (SHEFFIELD) LTD	Sheffield	A	0
-The Garage Door Centre Ltd	Wellingborough	A	0
 The Garden And Home Trading Company Limited	Preston	A	0
 The Garden Nursery	Acton	A	0
 The Garden Surgery	Leeds	A	0
@@ -12177,7 +12159,6 @@ THE GRAND TRAVEL LIMITED	Bradford	A	0
 The Grandtully Hotel Limited	Pitlochry	A	0
 The Grange	Stockport	A	0
 The Grange (Chertsey) 2002 LTD.	Chertsey	A	0
-The Grange (Shirebrooks) Limited	Mansfield	A	0
 The Grange Care Centre (Cheltenham) Limited	Manchester	A	0
 THE GRANGE CARE CENTRE (EASTINGTON) LIMITED	Manchester	A	0
 The Grange Festival	Alresford	A	3
@@ -12229,6 +12210,7 @@ The Gregory Centre For Church Multiplication	London	A	0,9
 The Greyfriars Hotel Services ltd	Folkestone	A	0
 The Greyhound	Thirsk	A	0
 The Greyhound Bar and Grill	Stafford	A	0
+The Griffin Amersham Ltd	Amersham	A	0
 THE GRIFFITHS NETWORK LTD	Edinburgh	A	0
 The Griffiths Partnership	Bradwell, Hope Valley	A	0
 THE GRILL 25 LTD	London	A	0
@@ -12263,13 +12245,11 @@ The Harkalm Group Ltd	London	A	0
 The Harper Group	London	A	0
 The Hawks Group Limited	Bolton	A	0
 THE HEALTH GRAIN LTD	Dromara	A	0
-The Healthcare Group Ltd	London	A	0
 The Healthcare Messaging Group Ltd	London	A	0
 The Hearing Services Group Ltd	London	A	0
 THE HELICOPTER GIRLS LIMITED	Winchester	A	0,3
 THE HERITAGE CLINIC GROUP LTD	Leeds	A	0
 The Hesley Group Limited	Doncaster	A	0
-The HLTH Group Limited	Liverpool	A	0
 The Holmes Care Group Scotland Limited	Upminster	A	0
 The Hope Church East Grinstead	Haywards Heath	A	1
 The Hospitality Group UK Ltd	London	A	0,4
@@ -12359,7 +12339,6 @@ THE OLD GUINEA TRADING COMPANY LIMITED	Potters Bar	A	0
 The Old Rectory Grappenhall Ltd	Warrington	A	0
 The Open Group Limited	Reading	A	0
 The Orange Giraffe Pub Company T/a The Atlas	London	A	0
-The Orchard Media & Events Group	Cardiff	A	0
 The Original Golden Barbers Ltd	Ilford	A	0
 The Ormsby Group Ltd	Denmead	A	0
 The Oval GP Surgery Ltd	London	A	0
@@ -12377,7 +12356,7 @@ The Performants Group Limited (Trading as T-minus)	St Albans	A	0
 The Peters Fraser & Dunlop Group Ltd	London	A	0
 The PHA Group	London	A	0
 The Pharmacy Group Corporation Ltd t/a The Pharmacist	Harrogate	A	0
-THE POLAR BEARS GROUP LTD	Cambridge	A	0
+THE POLAR BEARS GROUP LTD	London	A	0
 The Pour House Group Ltd	Whitehaven	A	0
 The Princess Grace Hospital	London	A	0
 The Printed Group Limited t/a Printed.com	London	A	0
@@ -12413,7 +12392,6 @@ The Real Good Dental Company T/A Lorne House Dental Practice	Fife	A	0
 The Real Good Dental Company T/A Moray Orthodontics	Elgin	A	0
 The Real Good Dental Company T/A The Cross Dental	Edinburgh	A	0
 The Real Good Dental T/A Park Road Dental Practice	Kirkcaldy	A	0
-The Real greek food company LTD	London	A	0
 The Real Real Good Dental Company T/A Union Street Dental	Argyll	A	0
 THE REALITY OF GRACE MINISTRIES INTERNATIONAL	London	A	1,10
 The Really Useful Group Limited	London	A	0,3
@@ -12492,6 +12470,7 @@ The School for Ethics and Global Leadership Limited	London	A	0
 The Seaport Group Europe LLP	London	A	0,4
 THE SECRET GARDEN SCHOOL	Birmingham	A	0
 The Shakespeare Globe Trust	London	A	0,3,9
+The Sirius Hotel Group Limited	London	A	0
 THE SISTERS OF THE HOLY FAMILY OF NAZARETH ( GOOD SHEPHERD PROVINCE)	Enfield	A	1,10
 THE SOAK BAR & GRILL LTD	Birmingham	A	0
 The Social Good Network Ltd	Ventnor	A	0
@@ -12668,7 +12647,7 @@ Townhouse Group Limited	London	A	0
 Towns End Double Glazing Ltd	London	A	0
 Townsend Group Europe Limited	London	A	0
 Toyota (GB) PLC	Epsom	A	0
-Toyota Racing GmbH UK Branch	Epsom	A	0,4
+Toyota Racing GmbH UK Branch	Epsom	A	0,4,11
 Toyota Tsusho System Europe GmbH	London	A	0
 TP ICAP GROUP SERVICES LIMITED	London	A	0,4
 TPG The Project Group Ltd	Lurgan	A	0
@@ -12712,7 +12691,6 @@ Tribal Group Plc	Sheffield	A	0,4
 Tribe Group Digital Limited	London	A	0,4
 Tribez Ltd t/a Tribez Steak and Grill	Blackburn	A	0
 TRIC GLOBAL LIMITED	London	A	0
-Tridev Hospitality Limited TA The Old Bush Bar & Grill	Tipton	A	0
 Trigger Group Ltd	London	A	0
 TRIMS GYM LIMITED	Crook	A	0
 Trinal Genius Limited	Bexleyheath	A	0
@@ -12727,6 +12705,7 @@ Triple A Entertainment Group Ltd	London	A	3
 TRIVELLES GOLDCREST LTD	Rainham	A	0
 Trivium Group Limited	Hamilton	A	0
 TRMP LTD T/A ESSO GATTON POINT SERVICE STATION	Redhill	A	0
+Troubadour Goods Limited	London	A	0
 True Green Capital Management (UK) Limited	London	A	0
 Truestone Glenapp Castle	Ballantrae	A	0
 Trump International Golf Club Scotland Limited	Aberdeenshire	A	0
@@ -12793,7 +12772,6 @@ UK GET TRAINED LTD	Manchester	A	0
 UK Glass Ltd	Wexham	A	0
 UK Glassforce Ltd	Hockley	A	0
 UK GLOBAL COMMODITIES LIMITED	London	A	0,4
-UK Good Deals Limited T/A Black	Preston	A	0
 UK Government Investments Ltd	London	A	0
 UK Graduate Ltd	Romford	A	0
 UK Greetings Ltd	Dewsbury	A	0,4
@@ -13002,7 +12980,6 @@ Vita Health Group Limited	London	A	0
 Vive Education Group Ltd	London	A	0
 VIVO SPORTS GYM LTD	United Kingdom	A	11
 VL & G LTD T/A BEST-ONE	Leicester	A	0
-VMA Global Resourcing Group Limited	Aylesbury	A	0
 VMA Global Resourcing Group Limited	London	A	0
 VMAX GROUP LIMITED	Staines-upon-Thames	A	0
 VMK Group Limited	Milton keynes	A	0
@@ -13080,7 +13057,6 @@ Weald of Kent Grammar School Academy Trust	Tonbridge	A	0
 WEB GEEK BRISTOL LIMITED	Bristol	A	0
 WEB GEO SERVICES LTD	United Kingdom,	A	0
 Webcare Group Ltd	Manchester	A	0
-WebN Group (UK) Limited	London	A	0,4
 Webster Griffin Ltd	Crowborough	A	0
 Wednesbury Service Station (Gajjar) Limited	Wednesbury	A	0
 Wee Bee Grocers Spar Ltd	Burnley	A	0
@@ -13094,6 +13070,7 @@ Welcome General Store Limited	Manchester	A	0
 WELCOME GROCERIES LIMITED	Manchester	A	0
 Welfare Gold Ltd	London	A	0
 Welfare Group Limited Ltd T/A Sydenham Londis	Kent	A	0
+Well Grounded Jobs CIC	London	A	0
 Well Played Games Ltd	Leamington Spa	A	0
 Wellcare Group Limited	Harrow	A	0
 Wellstern Gateways Limited	Southport	A	0
@@ -13126,7 +13103,7 @@ Westbourne Grove Dental	London	A	0
 Westburn Medical Group LLP	Aberdeen	A	0
 Westcon Group European Operations Ltd	Cirencester	A	0,4
 Western Gifts Shop Ltd	London	A	0
-Western International Group (UK) Ltd	Smethick	A	0
+Western International Group (UK) Ltd	Wolverhampton	A	0
 WESTMID SERVICES GROUP LTD	Birmingham	A	0,6
 Weston Group Plc	Takeley	A	0
 Westwood Global Energy Limited	Aberdeen	A	0,4
@@ -13160,6 +13137,7 @@ Widan Ltd t/a Grill Shack and Tiki Bar	London	A	0
 Wigton Group Medical Practice	Wigton	A	0
 WILD EMBER GROUP LIMITED	London	A	0
 Will It Make The Boat Go Faster? Ltd	Coalville	A	0
+Will Rudd Davidson (Glasgow) Limited	Glasgow	A	0
 William Grant & Sons Ltd	Dufftown	A	0,3,4
 William Grant and Company Limited	Londonderry	A	0
 William Hartley Group Limited	London	A	0
@@ -13386,7 +13364,6 @@ Zishi Group Limited	Bromley	A	0
 Znor Group Ltd	Manchester	A	0
 ZNS GOLDSMITH LIMITED	London	A	0
 Zog Global Ltd	Darlington	A	0
-Zorba Group Limited	Kent	A	0
 Zouk Restaurant Services Ltd t/a Zouk Tea Bar and Grill	Manchester	A	0
 ZP GROUP LTD	Preston	A	0
 Zuken Group Limited	Bristol	A	0,4

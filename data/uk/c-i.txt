@@ -45,7 +45,6 @@ Abbeyfield The Dales Ltd	Ilkley	A	0
 ABS Care Ltd	Isleworth	A	0
 ABurnet (Hair Containment Solutions) Ltd.	Ilkeston	A	0
 Academy Restaurants LTD	Inverness	A	0
-Access Retail Limited	Inverness	A	0
 Acculegal Solicitors	Ilford	A	0
 Ace Accountants & Tax Consultants Ltd	Ilford	A	0
 Acorn Care Home	Ilford	A	0
@@ -256,6 +255,7 @@ BREASLEY ( UK ) LIMITED	Ilkeston	A	0
 BRENTINNOVATE LTD	Isleworth	A	0
 Brick Square Ltd	Ilford	A	0
 BRICKS TOWER CONSTRUCTION LTD	Ilford	A	0
+Briffa Legal Limited	Islington	A	0
 Brightwell Healthcare Limited	Ipswich	A	0
 BRITANNIA FOSTERING AGENCY LIMITED	Ilford	A	0
 BRITANNIA HALAL MEAT LIMITED	Ilford	A	0
@@ -276,6 +276,7 @@ Caldive Ltd	Invergordon	A	0
 Caledonian Sleeper Limited	Inverness	A	0
 Calibre Global Limited	Ilford	A	0
 Cambridge Guarantee Limited	Ipswich	A	0
+Campbell Plant Hire Limited	Inverness	A	0
 CAPEHOUSE LIMITED T/A JOMIDARCOTTAGE	Irchester	A	0
 CAPEL NEWS	Ipswich	A	0
 Capital Builders Limited	Ilford	A	0
@@ -294,6 +295,7 @@ CARING HANDS EAST LONDON LTD	Ilford	A	0
 CARS SPOT LIMITED	Ilford	A	0
 CARZ EXPRESS LIMITED	Ilford	A	0
 Castle Care Scotland Ltd	Inverness	A	0
+Castle Waste Services Ltd	Ilkeston	A	0
 Caterpaper Ltd	Ipswich	A	0
 CB Electrical & Mechanical Services	Isleworth	A	0
 CBM Accounting LTD	Ilford	A	0
@@ -372,6 +374,7 @@ CREATIVE ARCH LTD	Isleworth	A	0
 Creative Design & Construction LIMITED	Ilford	A	0
 Creative Sign and Design	Ilford	A	0
 CROSS OCEAN TRAVEL & TOURS LTD	Ilford	A	0
+Crown View Care Ltd	Ipswich	A	0
 CRYSTAL CLEANERS IVER LTD	Iver	A	0
 CurioCity Childcare Limited	Islington	A	0
 CURRENCYLINK LTD	Ilford	A	0
@@ -419,7 +422,6 @@ Devson Limited	Isle Of Wight	A	0
 Dheeraja Systems Limited	Ilford	A	0
 DIAMOND PLUS TELECOM LTD	Ilford	A	0
 DIGISOIL LIMITED	Ilford	A	0
-DIGITAL.CAMZ LTD	Ilford	A	0
 Dilli Haat Limited	Ilford	A	0
 DION DEVELOPMENTS LTD	Isleworth	A	0
 Distag QCS (UK) Ltd	Ipswich	A	0
@@ -655,6 +657,7 @@ Heartwood Residential Services Limited	Ilford	A	0
 HEATH CARE SERVICES LTD	Ilford	A	0
 Heating & Oven Technology Limited	Isleworth	A	0
 HEAVENLY DOMESTIC APPLIANCES LTD	Ilford	A	0
+HEMISPHERE FREIGHT SERVICES LTD	Ipswich	A	0
 HESSON MOTORS LTD	Ilford	A	0
 HEURISTIX DIGITAL TECHNOLOGIES (UK) LIMITED	Ilford	A	0,4
 High Aims Training Ltd	Ilford	A	0
@@ -731,7 +734,6 @@ Illumination Consulting Limited	Ilford	A	0
 Ilminster Cricket Club	Ilminster	A	11
 Imamia Mission London UK	Ilford	A	1
 INDEPENDENCE-DEVELOPMENT LTD	Ilford	A	0
-Indian Aroma Cuisine Limited	Ilford	A	0
 INDUS LONDON LIMITED	Ilford	A	0
 Indus Valley Business & Financial Services Ltd	Ilford	A	0
 INFINITY FOSTER CARE LTD	Ilford	A	0
@@ -755,6 +757,7 @@ INTUIT ED LTD	Ilford	A	0
 Inverness Caledonian Thistle Football Club	Inverness	A	0,11
 INVERNESS MASJID ASSOCIATION	Inverness	A	0
 INVERNESS PAVING LTD	Inverness	A	0
+Inverness Smile Centre Ltd	Inverness	A	0
 Inverness Visionplus Ltd	Inverness	A	0
 Inverurie Specsavers Limited	Inverurie	A	0
 Invision360	Ipswich	A	0
@@ -856,7 +859,6 @@ Khaya Project Ltd	Ilford	A	0
 KHYBER GRILL LONDON LTD	Ilford	A	0
 Kindent Limited	Ingleby Lane, Ticknall	A	0
 King Solomon High School	Ilford	A	0
-KINGDOM LAW LTD	Ilford	A	0
 KINGSWAY PARTNERS LIMITED	Ilford	A	0
 Kishaan Food and Wine Ltd t/a Aaruni's Food & Wine	Ilford	A	0
 KNACKTRADERS LIMITED	Ilford	A	0
@@ -874,7 +876,6 @@ Kulcha Street Ltd	Ilford	A	0
 KZM BROTHERS LIMITED	Ilford	A	0
 LA PIAZZA LIMITED	Ingatestone	A	0
 ladder lads ltd	Ilford	A	0
-Ladybird Lane Nursery Limited	Isleworth	A	0
 Lakenheath News	Ipswich	A	0
 Lakeside Double Glazing Ltd	Ilford	A	0
 LANCETECH LIMITED	Ilford	A	0
@@ -905,6 +906,7 @@ Ljb Logistics Ltd	Ipswich	A	0
 LLANHARAN SERVICE STATION LIMITED	Ilford	A	0
 LLOYDS HEALTH CARE AND STAFFING LIMITED	Ilford	A	0
 Loch Dunvegan Shellfish Ltd	Isle Of Skye	A	0
+Loch Leven Hotels Limited TAs Loch Leven Hotel	Inverness	A	0
 Loch Ness Coffee Company	Inverness-shire	A	0
 Locksmith in London Limited	Ilford	A	0
 LOCUS MILKSHAKE CORNER LTD T/A KASPAS DESSERTS ILFORD	Ilford	A	0
@@ -933,6 +935,7 @@ Luminet Solutions Ltd	Islington	A	0
 Lunar Bifold Doors Ltd.	Ilford,	A	0
 LUQS LTD	Ipswich	A	0
 LUSHLA SUPERMARKETS LTD T/A Dixons Newsagents	Ilford	A	0
+LYKIAFASHION LIMITED	Ingatestone	A	0
 M K Professional Services Limited	Ilford	A	0
 M THREE SERVICE LTD	Ilford	A	0
 M&H SONS LTD	Ilford	A	0
@@ -951,6 +954,7 @@ Mahi Consultants Limited	Isleworth	A	0
 MAJEDI HOLDINGS LIMITED	Ilford	A	0
 MAJESTIC SCENTS LTD	Ilford	A	0
 MANFORCE SECURITY LTD	Ilford	A	0
+MANI CONTRACTS LTD	Ilford	A	0
 Mano Salwa Sweets & Restaurant Limited	Ilford	A	0
 MANZ GROUP LTD	Ilford	A	0
 MARIA MOMPO LIMITED	Ilford	A	0
@@ -1043,7 +1047,6 @@ Mylocum Ltd	Ilford	A	0
 Mystic Salons Ltd	Ilford	A	0
 N H BUILDER AND SUPPLIER LIMITED	Ilford	A	0
 N H LETTING & MANAGEMENT LTD	Ilford	A	0
-N P Josan Dalston Ltd	Ilford	A	0
 N P Josan Dover Ltd	Ilford	A	0
 N.B. Bird and Son	Ipswich	A	0
 NAAN STAAP ILFORD LTD	Ilford	A	0
@@ -1138,6 +1141,7 @@ Patience Healthcare (NE) Ltd	Ilkley	A	0
 PC HOUSE LONDON LTD	Ilfrod	A	0
 Peak Scientific Instruments Ltd	Inchinnan	A	0,4
 Pedagogy Auras UK Limited	Ilford	A	0
+PEFOX LLP	Ilford	A	0
 PEGASUS SOLUTIONS (UK) LTD	Ilford,	A	0
 Petal Postforming Limited	Irvinestown	A	0
 PHANTOM COATINGS LIMITED	Iver	A	0
@@ -1212,7 +1216,6 @@ QUICK CAB SERVICES LTD	Ipswich	A	0
 Quick Pest Control Limited	Ilford	A	0
 QUICKFIX JOBS LTD	Ilford	A	0
 QUICKFIX LONDON BODY REPAIR LTD	Iver	A	0
-QUORIS 3D LIMITED	Irvinestown	A	0
 R & B Hotels Limited T/A Best Western Rose & Crown Hotel	Ickenham	A	0
 R R TRAVELS LIMITED	Ilford	A	0
 Ra electrical ltd	Ilford	A	0
@@ -1225,6 +1228,7 @@ Rainstone Haven Ltd	Isleworth	A	0
 Raitech It Servces/trainings Ltd	Ipswich	A	0
 Rajah Barbers UK Ltd	Ilford	A	0
 Rajah Food & Wine	Ilford	A	0
+RAJSPICE ILMINSTER LTD	Ilminster	A	0
 Raky Trading Ltd	Ickenham	A	0
 Raman Jewellers	Ilford	A	0
 Rameel Limited	Ilford	A	0
@@ -1265,6 +1269,7 @@ RIZ FOODS LIMITED	Iilford	A	0
 RLS Search	Ivybridge	A	0
 RMGS (Scot) Limited	Inverness	A	0
 RN COMPANY RETAIL LIMITED	Ilkeston	A	0
+Ro Ho London Limited	Ipswich	A	0
 Roadx Logistics Ltd	Iver, England	A	0
 ROCK GEMS LIMITED T/A ASHA JEWELLERS	Ilford,	A	0
 ROCKET PADEL ILFORD LTD	Ilford	A	0
@@ -1277,6 +1282,7 @@ Ross Healthcare Ltd	Ilkeston	A	0
 ROW LONDON CONSTRUCTION LTD	Ipswich	A	0
 Royal Highland Hotel	Inverness	A	0
 Royal Rides	Ipswich	A	0
+RPK Technologies Ltd	Ilford	A	0
 RS INFORMATICS LIMITED	Ilkeston	A	0
 RS Worldwide Ltd	Ilford	A	0
 RSSCAN LAB. LTD	Ipswich	A	0
@@ -1312,7 +1318,6 @@ Safe and Sound Homecare Limited	Ipswich	A	0
 SAFELINE SECURITY LTD	Ilford	A	0
 SAFEX SERVICES LTD	Ilford	A	0
 SAGAR NASHTA HOUSE LTD	Ilford,	A	0
-Sahana Foods Limited	Ilford	A	0
 SAI ESTATES MGMT LIMITED	Ilford	A	0
 SAK Residentials Limited	Ilford	A	0
 SALEY`S LIMITED T/A SALEY'S PHARMACY	Iver	A	0
@@ -1324,7 +1329,6 @@ Samsarakitchens Limited	Isleworth	A	0
 Samskip Multimodal B.V.	Ipswich	A	0
 Sanctuary Personnel Ltd	Ipswich	A	0
 Sandhuz LTD	Iver	A	0
-SANDSTONE CARE (MUCH HOOLE) LIMITED	Isle Of Man	A	0
 SANGWAN CONSTRUCTION LTD	Ilford	A	0
 Sansys Technologies Limited	Ilford	A	0
 SAO MAI LTD	Ilford	A	0
@@ -1453,7 +1457,6 @@ St Joseph's College	Ipswich	A	0
 ST JOSEPHS REST HOME	Ilford	A	0
 St Mary's Catholic Primary School	Isleworth	A	0
 STAGE AND LIGHT SERVICES LIMITED	Ilford	A	0
-Star Care UK Ltd	Ilford	A	0
 Star Group FM Ltd	Ilkeston	A	0
 starling equine vets Ltd	Ipswich	A	0
 Starlite (UK) Limited	Ilford	A	0
@@ -1469,7 +1472,6 @@ Sterner Aquatech UK Ltd	Inverness	A	4
 STEVENSTON ENTERPRISE LTD	Irvine	A	0
 Stewart Agricultural Ltd	Inverurie	A	0
 Stone Choice Properties Ltd	Ilford	A	0
-Stonewell Consulting Ltd	Ilford	A	0
 Stop&Shop Ipswich Ltd T/A Stop & Shop	Ipswich	A	0
 STORILABS UK LIMITED	Ilford	A	0
 Straight Arch Ltd	Ilford	A	0
@@ -1509,7 +1511,6 @@ SYDNEY IFA LIMITED	Ilford	A	0
 Syed Solicitors LTD	Ilford	A	0
 SYED VINTAGE GROUP LTD	Ilford	A	0
 Sylvan Wellness Angel Ltd	Islington, London	A	0
-Syndesi One Limited	Ilford	A	0
 Synergy Arc Consulting Group Ltd	Ilford	A	0
 SYNERGY SAFETY SOLUTIONS LTD	Ilford	A	0
 T/A. Seven King MSPO	Ilford	A	0
@@ -1546,6 +1547,7 @@ Terasa Construction Ltd	Ilford	A	0
 TERRAS FORESTRY COMPANY LIMITED	Inverness	A	0
 TESTEX NDT LIMITED	Immingham	A	0
 Texuna Technologies Limited	Isleworth	A	0,4
+The Aigas Trust	Inverness-shire	A	9
 The Big Lime Ltd	Ilford	A	0
 THE CARD SHOP ICKENHAM LTD	Ickenham	A	0
 The Care Advantage	Ilford (London)	A	0
@@ -1631,6 +1633,7 @@ V&C Stores Ltd.	Inverness	A	0
 V&V Convenience Stores Ltd. T/As Crown Stores	Inverness	A	0
 V-Care Homes (UK) Limited	Ilford	A	0
 V-Tech UK Ltd	Ilford	A	0
+V3 BUSINESS SOLUTIONS LTD	Inverurie	A	0
 Valkyrie Industries	Ingatestone	A	0
 Vambiant Ltd	Ipswich	A	0
 VASAVE FINANCIAL SERVICES LTD	Ilford	A	0

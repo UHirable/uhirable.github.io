@@ -123,6 +123,7 @@ AITCHISON STREET SUPERMARKET LTD T/A KEYSTORE	Airdrie	A	0
 AJ FAST FOODS LTD	Aberdeen	A	0
 AJM Management Ltd	Ashford	A	0
 AK Well Services Limited	Aberdeen	A	0
+AKA INNOVATIONS POWER & ELECTRICAL ENGINEERING LTD	Aberdeen	A	0
 Akamis Bio Ltd	Abingdon	A	0
 AKD PENSARN STORES LTD	Abergele	A	0
 Aker Solutions Ltd	Aberdeen	A	0,4,7
@@ -190,6 +191,7 @@ Amos Sport Ltd	Ascot	A	0,11
 Ampac Europe Ltd	Alton	A	0
 Ampthill and District Community Rugby Club Ltd	Ampthill	A	0,11
 Ampthill Cabs	Ampthill	A	0
+AMT Sports Limited	Amersham	A	0
 An Experiment in Art Ltd	Altrincham	A	0
 Ananta Care Limited T/A YSguborwen Care Home	Aberdare	A	0
 ANASURIA HIBISCUS UK LIMITED	Aberdeen	A	0,4
@@ -200,7 +202,6 @@ Andover Pallets Ltd	Andover	A	0
 Andover Parish	Andover	A	1
 Andover Service Station (ESSO)	Andover	A	0
 ANDOVER VARIETY STORE LTD	Andover	A	0
-Andrew Nolan Mortgages Ltd	Altrincham	A	0
 ANDRIMA UK LTD	Aberdeen	A	0
 Angels Care Agency Limited	Aylesbury	A	0
 Angels Homecare (Kent) Ltd	Aylesford	A	0
@@ -368,12 +369,12 @@ Behre Dolbear International Ltd	Ashford	A	0
 Bell Group U.K. Limited	Airdrie	A	0
 Belmont International Ltd t/a First Class Learning- Aberdeen	Aberdeen	A	0
 Belmont Residential Care Home	Abergavenny	A	0
+Bennachie Equine Vets Limited	Aberdeen	A	0
 Bentley House Ltd	Atherstone	A	0
 BERRY & GAIL LTD	Accrington	A	0
 Berryfields Brew Limited T/A Esquires Coffee	Aylesbury	A	0
 Beryl Solutions Ltd	Andover	A	0
 Best At Home Adult Care Private Limited	Altrincham	A	0
-Best Halal Meat Supply Ltd	Ashton-Under-Lyne	A	0
 Besta Convenience Store	Arlesey	A	0
 Betel of Britain	Aston	A	1,9,10
 Bethel Trading Enterprises (UK) Ltd	Aylesbury	A	0
@@ -439,7 +440,6 @@ BRF FOODS UK LTD	Altrincham	A	0,4
 Bridge House (Oxfordshire) Limited t/a Bridge House	Abingdon,	A	0
 BRIDGE OF DON SMILE LTD	Aberdeen	A	0
 Brindle & Green	Ashbourne	A	0
-Brisfix Ltd	Amersham	A	0
 British Garden Centres (Woodthorpe Hall Garden Centres)	Alford	A	0
 BROOKFIELD FINANCIAL PLANNING LTD	Altrincham	A	0
 BROWN STREET RESTAURANT LIMITED	Angus	A	0
@@ -527,7 +527,6 @@ CHAPEL BOD LTD	Aberdeen	A	0
 Chapelhall Medical Practice	Airdrie	A	0
 Charles & Associates Consulting Engineers	Aylesford	A	0
 Charles & Associates Consulting Engineers Ltd	Aylesford	A	0
-charles chipperfield & Associates	Albury	A	3
 Charles Michie Pharmacy	Aberdeen	A	0
 Charlton Hill Surgery J82025	Andover	A	0
 Charters School	Ascot	A	0
@@ -542,6 +541,7 @@ CHICKEN & SHAWARMA LIMITED	Aylesbury	A	0
 Chiltern Way Academy Trust	Aylesbury	A	0
 Chilworth & Gray T/A Elle designs Ltd	Altrincham	A	0
 Chimney Tapas and Shisha Limited T/A Momo Station	Aldershot	A	0
+Chipperfield Entertainments Ltd	Anstey	A	3
 Chromalloy United Kingdom Ltd	Alfreton,	A	0,4,7
 Church of the Nazarene British Isles South District BISD	Ashton-under-Lyne	A	1,9,10
 Church Surgery	Aberystwyth	A	0
@@ -631,7 +631,6 @@ CTE Advanced Technologies Ltd	Aylesbury	A	0
 CTRL SPACES	Ashford	A	0
 Cubanhall Limited	Aberdeen	A	0
 Cubes And Stones Infra Limited	Altrincham	A	0
-Cucina Eat Ltd	Alderley Edge	A	0
 Cudd Bentley Consulting Limited	Ascot	A	0
 Culpitt Ltd	Ashington	A	0,4
 Cura Labs Ltd	Ascot	A	0
@@ -745,12 +744,14 @@ EBMCO LTD	Andover	A	0
 EC Aylesbury Kingsbrooks Ltd TA Esquires Coffee	Aylesbury	A	0
 ECB AYLESBURY LIMITED	Aylesbury	A	0
 ECCLES VILLAGE STORES	Aylesford	A	0
+Echosec Systems UK Ltd	Altrincham	A	0,4
 Eden Research plc	Abingdon	A	0
 Edge Grove School Trust Ltd	Aldenham Village	A	0,9
 EDO SOLUTION LTD	Aberdeen	A	0
 EFM HEARING LTD	Aylesbury	A	0
 Egerton Manor Care Centre	Altrincham	A	0
 Eggfree Cake Aldershot Ltd	Aldershot	A	0
+EL-HALAL BUCKS LTD	Aylesbury	A	0
 Elasmogen Ltd	Aberdeen	A	0
 ELDERBRAY LIMITED	Ashford	A	0
 Eldor UK	Aberdeen	A	0
@@ -787,6 +788,7 @@ Ens Store	Ammanford	A	0
 Ensco Services Limited	Aberdeen	A	0,4
 EnSilica	Abingdon	A	0,4,7
 Envertiz Consultancy Ltd	Aberdeen	A	0
+Environ Civil Engineering LTD	Ampthill	A	0
 EP Medical Group Ltd	Altrincham	A	0
 EPC United Kingdom Limited	Alfreton	A	0
 EPG Business Limited (T/A EPIC Global Solutions)	Appley Bridge	A	0
@@ -877,7 +879,6 @@ Flowbird Ltd	Ashford	A	0
 Flowmax Ltd	Aylesbury	A	0
 FLSmidth UK Limited	Altrincham	A	0,4
 FM (CKAF) LTD T/A SUBWAY	Amersham	A	0
-FMCG TRADING LTD	Alton	A	0
 Fone Care Ltd	Abingdon	A	0
 Fone Care Wells Limited t/as iTech Andover	Andover	A	0
 FONE STATION LTD	Aldershot	A	0
@@ -1186,7 +1187,6 @@ JDRH Care Limited	Aberdeen	A	0
 JDS MART LTD	Aldershot	A	0
 Jesus House Torry, Aberdeen	Aberdeen	A	0,1,9,10
 JF McKenna Ltd	Armagh	A	0
-Jfg Care Limited, T/A Mint Dental Care Kingseat	Aberdeenshire	A	0
 JHANVI GLOBAL SOLUTION LTD	Alperton	A	0
 Jisprita Ltd T/A Chocolate Box	Ashford	A	0
 JML Contracts Ltd	Aberuthven	A	0
@@ -1222,6 +1222,7 @@ KAMALA HAIR SALON LTD T/A NG HAIR & BEAUTY UNISEX SALON	Aldershot	A	0
 Karmaz Limited t/a KB's Italian Kitchen	Aberfeldy	A	0
 KARTIK LTD	Aylesbury	A	0
 KASHFLOW LIMITED	Aldershot	A	0
+Katalyzt UK Enterprises Ltd	Accrington	A	0
 Katoni Engineering Limited	Aberdeen	A	0
 Kavi Victoria Store	Ashford	A	0
 KB FINTECHSYS LIMITED	Ashford	A	0
@@ -1336,6 +1337,7 @@ Loch Torridon Hotel Limited	Achnasheen	A	0
 LOCHGILPHEAD CURRY HOUSE LTD	Argyll	A	0
 Lochwood Care Ltd	Altrincham	A	0
 LOCKROSE LIMITED	Alresford	A	0
+Logwood Convenience Store Limited	Appley Bridge	A	0
 Lokalise UK Ltd	Altrincham	A	0
 London Condiment Co. Ltd	Aldermaston	A	0
 LONDON GUESTHOUSE LIMITED	Acton	A	0
@@ -1557,6 +1559,7 @@ Nayeema (Alford) Limited	Alford	A	0
 NB Group Limited	Aberdeen	A	0
 NBC Utilities Ltd	Aylesbury	A	0
 NCIMB Limited	Aberdeen	A	0
+ND DUNDEE LTD	Arbroath	A	0
 Neem Biotech Limited	Abertillery	A	0
 NELYS LTD	Aberdeen	A	0
 NEO NEXT+ Energy Resources UK Limited	Aberdeen	A	0
@@ -1687,7 +1690,6 @@ Oscar Products Limited	Acton	A	0
 OTDC LIMITED	Aberdeen	A	0
 Ottewill Silversmiths & Jewellers Limited	Ashford	A	0
 Own Ltd	Aylesbury	A	0
-Ox Support Services Ltd.	Ascot	A	0
 Oxehealth Ltd	Abingdon	A	0
 Oxford Immunotec Limited T/A Revvity	Abingdon	A	0,4
 Oxford Instruments Nanotechnology Tools Limited	Abingdon	A	0,4,7
@@ -1744,7 +1746,6 @@ Petroventure.UK Ltd	Aberdeen	A	0
 Peverel Court Limited	Aylesbury	A	0
 PG Village Garage Limited	Aldershot	A	0
 PHAIDRA, LTD	Altrincham	A	0
-PHH Care Ltd	Aylesbury	A	0
 Philip White Tyres	Armagh	A	0
 Phoenix Cultural Communication Company Ltd	Ardesier	A	0
 Phoenix Medical Advice and Repatriation Limited	Aylesbury	A	0
@@ -2034,7 +2035,6 @@ SDG	Armagh	A	0
 Seafood Ecosse Limited	Aberdeen	A	0
 Sealand Projects Limited	Aberdeen	A	0,4
 Seamach Ltd	Axminster	A	0
-Securiti Sciences Limited	Altrincham	A	0
 Select Property Group Limited	Alderley Edge	A	0,4,7
 Sella Controls Limited	Ashby De La Zouch	A	0,4
 Sellindge Surgery	Ashford	A	0
@@ -2159,7 +2159,6 @@ SPICES OF INDIA LTD	Ash Vale	A	0
 Spicy Knights 2 Ltd T/A Doi Intanon Thai Restaurant	Ambleside	A	0
 SPITAL LOCAL STORE LIMITED	Aberdeen	A	0
 Splendid Supported Accommodations Limited	Ashford	A	0
-Spliced Inc Limited	Altrincham	A	0
 Sport Aberdeen	Aberdeen	A	0,9
 Sportfive	Altrincham	A	0,4
 Springboard Nursery	Anlaby	A	0
@@ -2188,6 +2187,7 @@ Stamford House Dental Practice	Axminster	A	0
 Stannah Stairlifts Limited	Andover	A	0
 Stanwell Road Surgery	Ashford	A	0
 Star Care Solutions Limited T/A Star Care Solutions	Aberkenfig	A	0
+Star Micronics Europe Ltd	Aylesbury	A	0,4
 Stateside Skates Ltd	Amersham	A	0
 STC INSISO LTD	Aberdeen	A	0
 Steam & Air Blowing Service Company (SABSCO) Ltd	Aylesford	A	0
@@ -2230,11 +2230,12 @@ SUNDARBON KITCHEN LTD	Abergavenny	A	0
 Sunmagic Juices Ltd	Ashford	A	0
 SUNNINGHILL FOOD LIMITED	Ascot	A	0
 Sunny's Local Limited	Ashton-Under-Lyne	A	0
-Sunnyside House Limited	Aveley	A	0
+Sunnyside House Limited	Aveley	B	0
 Supasweep Ltd	Apsley Guise	A	0
 Superior Garment Care Ltd trading as Village Dry Cleaners	Armersham	A	0
 Superior Wild Well Energy Services Limited	Aberdeen	A	0,4
 Supplement Factory Ltd	Ashford	A	0
+Suprav Hotels Ltd t/a Haughton Arms Hotel	Alford Aberdeenshire,	A	0
 Suprav Hotels Ltd t/as Haughton Arms Hotel	Aberdeenshire	A	0
 SureCare Oxfordshire	Abingdon	A	0
 Surfing Giant Europe Ltd	Altrincham	A	0
@@ -2290,6 +2291,7 @@ TEK-TANKS LIMITED	Alton, Hampshire	A	0
 Temple Farm Ltd	Aylesford	A	0
 Tenaris Global Services UK Limited	Aberdeen	A	0,4
 Ternan Energy Limited	Aberdeen	A	0
+Terra Measurement Limited	Alfreton	A	0
 TES Inc Ltd	Aberdeen	A	0
 Testmade Technologies Limited	Aylesbury	A	0
 Testo Industrial Services Ltd	Alton	A	0
@@ -2330,6 +2332,7 @@ The Grain House Trust	Alton	A	9
 The Grange Festival	Alresford	A	3
 The Grange Nursing Home	Addlestone	A	0
 The Great Western Hotel	Aberdeen	A	0
+The Griffin Amersham Ltd	Amersham	A	0
 THE GURKHA VENUE LTD T/A The Palace	Aldershot	A	0
 The Heart of Kent Hospice	Aylesford	A	0
 THE HO HO CHINESE RESTAURANT LTD	Ashton-Under-Lyne	A	0
@@ -2482,6 +2485,7 @@ Vectric Limited	Alcester	A	0
 VENERA SCOT LTD	Aberdeen	A	0
 Veolia Nuclear Solutions (UK) Limited	Abingdon	A	0
 Veripos Ltd	Aberdeen	A	0,4
+Vertek Metalworks Limited	Andover	A	0
 VG Stores Amble Ltd T/A V G Stores	Amble	A	0
 VGP SECURITY LTD	Aberdeen	A	0
 Vibe	Armagh	A	1,9,10
@@ -2501,13 +2505,11 @@ Vinothkumar Kandasamy T/A VSM Stores	Andover	A	0
 VISAGE ORTHODONTICS ABERDEEN LTD	Aberdeen	A	0
 viso.ai UK Ltd	Altrincham	A	0
 Vita Multi Academy Trust	Alresford	A	0
-VITALITY PHARMA LIMITED	Aylesbury	A	0
 VITRADE HOLDINGS LTD	Acton	A	0
 Vivat Music Foundation	Alpheton	A	3
 VJ Technology Ltd	Ashford	A	0
 VK SIZZLE LTD	Aberdeen	A	0
 VM Crown Ltd	Altrincham	A	0
-VMA Global Resourcing Group Limited	Aylesbury	A	0
 VOOTY AMERSHAM LTD T/A VEG CHENNAI SRILALITHA RESTAURANT	Amersham	A	0
 VP-AV Ltd	Andover	A	0
 VPJ Healthcare Services Limited	Aberdeen	A	0
@@ -2557,7 +2559,6 @@ WIA SYSTEMS LTD	Amersham	A	0
 Wild Bioscience Limited	Abingdon	A	0
 Wileman Engineers Ltd	Ashby de la Zouch	A	0
 Wills & Masson Partnership	Ardglass	A	0
-Wills Enterprises limited	Ayrshire	A	0
 Wilson Vale Catering Management Limited	Ashby de la Zouch	A	0
 Windermere Control Systems Limited	Ascot	A	0
 Windmill Smart Solutions Limited	Abingdon-On-Thames	A	0
@@ -2606,7 +2607,6 @@ Zanoo Limited	Ascot	A	0
 zeffirellis ltd	Ambleside	A	0
 Zema Services UK Limited	Altrincham	A	0,4
 Zenith Energy Limited	Aberdeen	A	0
-Zenithon AI Ltd	Axbridge	A	0
 Zeppelin Systems UK Ltd	Annesley	A	0
 ZERDALAB LIMITED	Aberdeen	A	0
 ZIEBE LIMITED	Aylesbury	A	0,4

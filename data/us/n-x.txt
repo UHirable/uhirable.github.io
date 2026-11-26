@@ -1,228 +1,268 @@
 Adaptive X, LLC	Allen	TX	1	Market Research Analysts and Marketing Specialists		TX
-ASI X Inc.	Wilmington	DE	3	Graphic Designers; Software Developers	240000	CA
+ASI X Inc.	Wilmington	DE	4	Graphic Designers; Information Technology Project Managers; Software Developers	230000	CA
+Astra X Ventures LLC	Sunnyvale	CA	3	Financial and Investment Analysts		CA
 Bao Xiang Inc	Chino Hills	CA	1	Accountants and Auditors		CA
 BioMed X USA LLC	New Haven	CT	3	Life Scientists, All Other	70000	CT
-Carl Zeiss X-ray Microscopy, Inc	White Plains	NY	2	Computer Systems Analysts; Materials Scientists		CA
-Circa XV Inc	San Marino	CA	2	Art Directors		CA
-Destination XL Group, Inc.	Canton	MA	1	Software Developers		MA
-Digital Systems X, LLC	The Woodlands	TX	1	Computer Systems Engineers/Architects		TX
-Eigen X, LLC	King of Prussia	PA	11	Computer and Information Systems Managers; Computer Programmers; Web and Digital Interface Designers	105000	PA
+Carl Zeiss X-ray Microscopy, Inc	White Plains	NY	2	Materials Scientists; Bioengineers and Biomedical Engineers		CA
+Chengdu Xiaolongkan Catering Management (North America) Inc.	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
+Cloud Transit XChange Inc.	Miami	FL	1	Network and Computer Systems Administrators		CO
+Dentsu X, LLC	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
+Digital Systems X, LLC	The Woodlands	TX	5	Computer Systems Engineers/Architects; Software Developers	140400	TX
+Eigen X, LLC	King of Prussia	PA	12	Computer and Information Systems Managers; Computer Programmers; Web and Digital Interface Designers	115000	PA
 Elite X Group	Elk Grove	CA	1	Industrial Engineers		CA
-Emerald X LLC	San Juan Capistrano	CA	1	Database Architects		CA
+Eurofins Xenco LLC	Stafford	TX	2	Chemists; Biological Technicians		TX
 Fen X Custom, Inc.	Grawn	MI	1	Computer Systems Analysts		MI
-Feng Xiao Architect, Inc.	San Marino	CA	2	Architectural and Civil Drafters		CA
-Global X Management Company LLC	New York	NY	4	Accountants and Auditors; Investment Fund Managers; Database Architects	149500	NY
-Institutional Venture Management XIV, LLC	Menlo Park	CA	1	Financial and Investment Analysts		CA
+Feng Xiao Architect, Inc.	San Marino	CA	1	Architectural and Civil Drafters		CA
+First XI Football LLC	Matthews	NC	1	Accountants and Auditors		SC
+Global X Management Company LLC	New York	NY	6	Financial and Investment Analysts; Accountants and Auditors; Database Architects	109200	NY,FL
+Guam Xray			1	Bioengineers and Biomedical Engineers		
+Institutional Venture Management XIV, LLC	Menlo Park	CA	2	Financial and Investment Analysts		CA
 James W. Willis XVII DDS PLC	Crozet	VA	1	Dentists, General		VA
+Kingsmen Xperience, Inc.	Los Angeles	CA	1	Market Research Analysts and Marketing Specialists		CA
 Law Office of X Lyu PLLC	Flushing	NY	1	Judicial Law Clerks		NY
-Law Office of Xiaomin Hu, P.C.	Newport Beach	CA	1	Lawyers		CA
+Law Office of Xiaomin Hu, P.C.	Newport Beach	CA	3	Lawyers	108300	CA,WA
 Law Office of Xiuhong Liu APC	West Covina	CA	1	Lawyers		CA
 Lee & Xiao	Pasadena	CA	1	Lawyers		CA
 Mercator XXI, LLC	Washington	DC	1	Market Research Analysts and Marketing Specialists		TX
-Newton X, Inc.	New York	NY	1	Market Research Analysts and Marketing Specialists		NY
+Nirvana XP, Inc.	Henderson	NV	2	Operations Research Analysts		NV
+On Location X, LLC	New York	NY	1	Information Technology Project Managers		NC
 Peak XV Partners US LLC	San Francisco	CA	1	Financial and Investment Analysts		CA
-RedBird X LLC	New York	NY	3	Financial and Investment Analysts	300000	NY
-Sirius Xm Radio LLC	New York	NY	52	Software Developers; Software Quality Assurance Analysts and Testers; Data Scientists	140000	TX,CA,NY
-Society of Saint Pius X, Orlando, Florida, Inc.	Sanford	FL	1	Secondary School Teachers, Except Special and Career/Technical Education		FL
+Pershing X Inc.	Pittsburgh	PA	1	Software Developers		NJ
+RedBird X LLC	New York	NY	4	Financial and Investment Analysts	375000	NY
+Rpm Xconstruction, LLC	Mckinney	TX	2	Cost Estimators		TX
+Saint Xavier University	Chicago	IL	1	Mathematical Science Teachers, Postsecondary		IL
+Sirius Xm Radio LLC	New York	NY	79	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	155000	TX,NY,CA
 Sora Xpress LLC	Bloomington	MN	2	Software Developers		MN
-Speed Xpress, Inc.	New Hyde Park	NY	6	Financial Quantitative Analysts; Logisticians; Computer Systems Analysts	73100	CA,NY
+Speed Xpress, Inc.	New Hyde Park	NY	15	Operations Research Analysts; Computer Systems Analysts; Logistics Analysts	73100	CA,NY,IL
+The Commons XR, LLC	San Diego	CA	1	Video Game Designers		IL
+The X Pot Chicago LLC	Chicago	IL	1	Business Intelligence Analysts		IL
 Tire Distributor Xperts, LLC	Gardena	CA	1	Market Research Analysts and Marketing Specialists		CA
 Twenty X Steel, LLC	Payette	ID	1	Construction Managers		ID
-Twisted X, Inc.	Decatur	TX	1	Computer Programmers		TX
-Well Xplored LLC	Stuart	FL	2	Management Analysts		FL
-X & N Ventures Inc	Fort Worth	TX	2	Cost Estimators		TX
-X Corp.	Bastrop	TX	16	Software Developers; Information Security Analysts; Computer Network Architects	195000	CA,NY,GA
+Twisted X, Inc.	Decatur	TX	2	Computer Programmers; Project Management Specialists		TX
+U.S. Xpress, Inc.	Chattanooga	TN	3	Information Technology Project Managers; Business Intelligence Analysts; Software Quality Assurance Analysts and Testers	102000	TN,GA
+X Corp Solutions, Inc	Stafford	VA	1	Software Developers		VA
+X Corp.	Bastrop	TX	26	Software Developers; Sales Managers; Operations Research Analysts	205000	CA,NY,WA
 X Energy, LLC	Rockville	MD	3	Civil Engineers	135000	NC,MD
 X Girls LLC	Los Angeles	CA	1	Market Research Analysts and Marketing Specialists		CA
-X-Camp Inc.	Saratoga	CA	1	Market Research Analysts and Marketing Specialists		CA
-X-Chem, Inc.	Waltham	MA	1	Software Developers		MA
+X International Holdings, Inc.	Austin	TX	1	Information Technology Project Managers		TX
+X-Camp Inc	Saratoga	CA	1	Instructional Coordinators		CA
 X-Gene Inc.	Sparks Glencoe	MD	1	Bioinformatics Technicians		MD
 X-Therma, Inc.	Hercules	CA	1	Industrial Engineers		CA
-X. AI LLC	Palo Alto	CA	6	Computer and Information Systems Managers; Software Developers; Market Research Analysts and Marketing Specialists	300000	CA
-X.ai LLC	Palo Alto	CA	34	Software Developers; Computer and Information Systems Managers; Sales Engineers	240000	CA,NY,NC
-X1F America, Inc.	Boston	MA	1	Software Developers		NC
-X2nSat	Petaluma	CA	1	Computer Network Architects		CA
-X4 Alpha LLC	New York	NY	1	Financial Quantitative Analysts		NY
-X42 Global Staffing Corp	Houston	TX	12	Software Developers; Data Warehousing Specialists; Software Quality Assurance Analysts and Testers	110000	TX,SC
+X.ai LLC	Palo Alto	CA	54	Software Developers; Computer and Information Systems Managers; Information Security Analysts	250000	CA,WA,NY
+X2nSat	Petaluma	CA	2	Computer Network Architects		CA
+X42 Global Staffing Corp	Houston	TX	12	Software Developers; Data Warehousing Specialists; Computer Systems Engineers/Architects	113000	TX
 Xacom International, LLC	Alpharetta	GA	1	Financial Managers		GA
-Xactly Corporation	Denver	CO	4	Software Developers; Computer Systems Engineers/Architects; Database Architects	170000	CO,WI,WA
-Xactware Solutions, Inc.	Lehi	UT	4	Software Quality Assurance Analysts and Testers; Software Developers	102000	TX,NJ,OH
-Xadel IT, INC.	Alpharetta	GA	6	Software Developers; Software Quality Assurance Analysts and Testers	105100	GA,NY,FL
-Xage Security, Inc.	Palo Alto	CA	6	Computer Programmers; Software Developers; Information Technology Project Managers	137900	CA,TX
-Xaira Therapeutics, Inc.	South San Francisco	CA	2	Molecular and Cellular Biologists; Biochemists and Biophysicists		CA,WA
+Xactly Corporation	Denver	CO	4	Software Developers; Database Architects; Computer Systems Analysts	156900	CO,WA,CA
+Xactware Solutions, Inc.	Lehi	UT	10	Software Quality Assurance Analysts and Testers; Software Developers; Computer Systems Engineers/Architects	105100	UT,NJ,TX
+xAd, Inc.	New York	NY	4	Software Developers; Data Scientists	164000	CA,IL
+Xadel IT, INC.	Alpharetta	GA	3	Software Developers	110700	NC,VA,WA
+Xage Security, Inc.	Palo Alto	CA	8	Computer Programmers; Software Developers; Information Technology Project Managers	137900	CA,TX
+Xaira Therapeutics, Inc.	South San Francisco	CA	4	Molecular and Cellular Biologists; Software Developers; Biochemists and Biophysicists	138400	CA,WA
 XAJ Capital LLC	Chicago	IL	1	Financial Quantitative Analysts		IL
+Xanadu Quantum Technologies Inc	Wilmington	DE	2	Nanosystems Engineers; Materials Engineers		CA,OR
 XanderGlasses, Inc.	Raleigh	NC	1	Software Developers		NY
 Xano, Inc.	Woodland Hills	CA	3	General and Operations Managers	90000	CA
 XAtelier	Rowland Heights	CA	2	Architects, Except Landscape and Naval		CA
-Xavier University of Louisiana	New Orleans	LA	2	Data Scientists; English Language and Literature Teachers, Postsecondary		LA
+Xavier University	Cincinnati	OH	3	Business Teachers, Postsecondary; Foreign Language and Literature Teachers, Postsecondary	118800	OH
+Xavier University of Louisiana	New Orleans	LA	4	Chemistry Teachers, Postsecondary; Chemists; Data Scientists	75900	LA
 xBK LLC	Pittsburgh	PA	3	Financial Quantitative Analysts; Financial and Investment Analysts	105000	MA
-Xbow USA Inc	Seattle	WA	2	Software Developers; Financial Managers		CA
-Xceed Technologies Inc	Metuchen	NJ	2	Database Administrators; Computer Systems Analysts		DC,CA
-Xceedance Inc.	Worcester	MA	4	Software Developers; Computer Systems Analysts	139500	MA,GA
-Xcel Energy Services, Inc.	Minneapolis	MN	7	Management Analysts; Electrical Engineers; Data Scientists	122700	CO,MN,TX
-Xcelacore, Inc.	Oak Brook	IL	2	Search Marketing Strategists; Market Research Analysts and Marketing Specialists		IL
-Xcellent Tire & Wheel Inc.	Garland	TX	2	Chief Executives; Financial Managers		TX
+Xbow USA Inc	Seattle	WA	1	Financial Managers		CA
+Xcath, Inc.	The Woodlands	TX	1	Mechanical Engineers		TX
+Xceed Capital LLC	Houston	TX	1	Accountants and Auditors		TX
+Xceed Technologies Inc.	Metuchen	NJ	9	Software Developers; Computer Systems Analysts; Software Quality Assurance Analysts and Testers	103200	NJ,MO,GA
+Xceedance Inc.	Worcester	MA	6	Computer Systems Analysts; Computer Systems Engineers/Architects; Software Developers	141400	MA,GA,NE
+Xcel Energy Services, Inc.	Minneapolis	MN	10	Software Developers; Data Scientists; Electrical Engineers	131700	CO,TX
+Xcel Life Sciences LLC	Fremont	CA	1	Computer Systems Analysts		NJ
+Xcelacore, Inc.	Oak Brook	IL	5	Software Developers; Market Research Analysts and Marketing Specialists; Search Marketing Strategists	66300	IL,CA
+Xcelerator Group, LLC	Fairfax	VA	2	Software Developers		VA
+XCellAssay, Inc.	San Francisco	CA	1	Molecular and Cellular Biologists		CA
 Xcelligen, Inc.	Herndon	VA	2	Software Quality Assurance Analysts and Testers		TX
 Xcellon Biologics LLC	Rockville	MD	1	Logisticians		MD
-Xcelo Group Inc	McKinney	TX	8	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers		TX,NJ,CA
-Xcelsius, Inc.	Okemos	MI	1	Softwater Developers		TX
-Xceltrait, Inc.	Irving	TX	8	Software Developers; Market Research Analysts and Marketing Specialists	108100	TX,ID,MI
+Xcelo Group Inc	McKinney	TX	13	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	112900	TX,FL,CA
+Xcelsa Labs, Inc.	New York	NY	2	Software Developers		CA
+Xcelsius, Inc.	Okemos	MI	2	Softwater Developers; Business Intelligence Analysts		TX,IL
+Xceltrait, Inc.	Irving	TX	10	Software Developers; Market Research Analysts and Marketing Specialists	118400	TX,ID,WA
 Xcerra Corporation	Norwood	MA	1	Electronics Engineers, Except Computer		MA
-Xchanging Solutions (usa) Inc.	Ashburn	VA	2	Software Developers		IN,NH
+Xchanging Solutions (usa) Inc.	Ashburn	VA	6	Software Developers; Network and Computer Systems Administrators	117100	NH,NC
 XCHARGE Energy USA, Inc.	Kyle	TX	1	Mechanical Engineers		TX
 Xclusive Trading FL LLC	Orlando	FL	1	Software Developers		FL
-Xclusive Trading Inc	Houston	TX	3	Database Administrators; Project Management Specialists; Computer Systems Analysts	61500	TX,TN
+Xclusive Trading Inc	Sugar Land	TX	6	Software Developers; Database Administrators; Project Management Specialists	84100	TX,TN
 Xclusive Trading North Texas LLC	Del City	OK	5	Data Scientists; Software Quality Assurance Analysts and Testers; Marketing Managers	75400	OK,TX
 Xclusive Trading Nv LLC	Las Vegas	NV	3	Data Scientists	61000	NV
 Xclusive Trading SF LLC	Pembroke Park	FL	6	Computer Occupations, All Other; Data Scientists; Accountants and Auditors	76500	FL
-XCMG America Financial LLC	Houston	TX	1	Financial Quantitative Analysts		TX
-XCMG American Research Corporation	Lawrenceville	GA	1	Database Administrators		GA
-Xcycling LLC	Dallas	TX	1	Logisticians		FL
+XCMG America Financial LLC	Houston	TX	3	Financial and Investment Analysts; Financial Quantitative Analysts	66500	TX,NY
+XCMG American Research Corporation	Lawrenceville	GA	2	Mechanical Engineers; Database Administrators		GA
+XConn Technologies Holdings, Inc.	San Jose	CA	1	Electrical Engineers		CA
+Xcycling LLC	Dallas	TX	3	Logisticians	62000	FL
 XDC Conjutech USA LLC	Cranbury	NJ	2	Technical Writers		TX
-Xdin, Inc.	Greensboro	NC	1	Industrial Engineers		NC
-Xdof Inc	San Mateo	CA	2	Marketing Managers; Computer and Information Research Scientists		CA
-XDuce Corporation	Edison	NJ	8	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	126000	NY,NJ,PA
-Xebia USA Inc.	Atlanta	GA	32	Software Developers; Information Technology Project Managers; Computer and Information Systems Managers	101600	GA,CO,TX
-Xecta Digital Labs, Ltd.	Houston	TX	1	Petroleum Engineers		TX
+XDemics Corporation	Novato	CA	1	Biological Technicians		CA
+Xdin, Inc.	Greensboro	NC	2	Industrial Engineers; Mechanical Engineers		NC
+Xdof Inc	San Mateo	CA	5	Software Developers; Computer and Information Systems Managers; Marketing Managers	198000	CA
+XDuce Corporation	Edison	NJ	12	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	109900	NY,NJ,PA
+Xebia USA Inc.	Atlanta	GA	22	Software Developers; Software Quality Assurance Analysts and Testers; Information Technology Project Managers	109300	GA,FL,WA
+Xebrium Inc.	Raleigh	NC	2	Software Developers		NC
+Xecta Digital Labs, Ltd.	Houston	TX	2	Software Developers; Petroleum Engineers		TX
 Xecutive Development LLC	Minneapolis	MN	1	Information Technology Project Managers		MN
 Xeelu Studio LLC	Austin	TX	1	Software Developers		TX
 XEI Scientific, Inc.	Redwood City	CA	1	Mechanical Engineers		CA
 Xelay Acumen Group, Inc.	San Mateo	CA	1	Operations Research Analysts		CA
 Xellar Inc.	Boston	MA	3	Bioengineers and Biomedical Engineers; Data Scientists	103100	MA
-Xemelgo, Inc	Bellevue	WA	2	Software Developers		WA
+Xemelgo, Inc	Bellevue	WA	1	Software Developers		WA
 Xencor, Inc.	Pasadena	CA	1	Biochemists and Biophysicists		CA
 XEnergy Plus Inc	Monahans	TX	1	Business Operations Specialists, All Other		TX
 Xeneta LLC	Jersey City	NJ	1	Information Technology Project Managers		NJ
-Xeno-Animals LLC	Brookline	MA	1	Market Research Analysts and Marketing Specialists		MA
+Xeno-Animals LLC	Cambridge	MA	2	Public Relations Specialists; Market Research Analysts and Marketing Specialists		NY,MA
 XenoBiotic Laboratories, Inc., a div. of WuXi	Cranbury	NJ	2	Biochemists and Biophysicists; Molecular and Cellular Biologists		NJ
 Xenon Health of New Jersey LLC	Jersey City	NJ	2	Business Intelligence Analysts; Financial Specialists, All Other		NJ
-Xenon Infotek, Inc.	Edison	NJ	3	Software Developers; Network and Computer Systems Administrators		TX,MI,NJ
+Xenon Infotek, Inc.	Edison	NJ	2	Network and Computer Systems Administrators; Software Developers		MI,NJ
+Xenon of Florida LLC	Miami	FL	1	Administrative Services Managers		FL
 Xenon Pharmaceuticals USA Inc.	Needham	MA	2	Biostatisticians; Computer Systems Engineers/Architects		MA
-Xenoninfotek, Inc.	Edison	NJ	24	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers		NJ,CA,NY
-XenoPsi Media LLC	New York	NY	1	Sales Managers		IL
+Xenoninfotek, Inc.	Edison	NJ	40	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers		NJ,CA,FL
+XenoTech, LLC	Kansas City	KS	2	Computer Programmers		KS
 Xera Energy Inc	Fremont	CA	1	Chemists		NJ
-Xeridiem Medical Devices, Inc.	Wilmington	DE	4	Regulatory Affairs Specialists; Industrial Engineers; Accountants and Auditors	107200	AZ
-Xerion Advanced Battery Corp.	Kettering	OH	5	Materials Scientists	100000	OH
-XERO, Inc.	San Mateo	CA	6	Software Developers	240000	CA,WA,CO
-Xerox Corporation	Norwalk	CT	2	Software Developers		NC
-XES International Education Inc	San Jose	CA	4	Middle School Teachers, Except Special and Career/Technical Education; School Psychologists; Human Resources Specialists	103700	CA,WA
-Xforia, Inc	Frisco	TX	5	Computer Occupations, All Other; Software Developers; Data Scientists	92600	TX,VA
-Xformics Inc	North Andover,	MA	1	Software Developers		OH
+Xerex, Inc.	Newport Beach	CA	1	Software Developers		CA
+Xeridiem Medical Devices, Inc.	Wilmington	DE	5	Regulatory Affairs Specialists; Industrial Engineers; Accountants and Auditors	115000	AZ
+Xerion Advanced Battery Corp.	Kettering	OH	5	Materials Scientists; Fuel Cell Engineers	90000	OH
+XERO, Inc.	San Mateo	CA	12	Software Developers; Computer and Information Systems Managers	233500	CA,WA,CO
+Xerox Corporation	Norwalk	CT	3	Software Developers	181800	NC,NY
+XES International Education Inc	San Jose	CA	3	Middle School Teachers, Except Special and Career/Technical Education; School Psychologists; Human Resources Specialists	89600	CA,WA
+Xevo Inc.	Bellevue	WA	1	Computer and Information Systems Managers		TX
+xFabric Security Inc	Redmond	WA	1	Software Developers		WA
+XFO Financials Inc.	New York	NY	1	Software Developers		ID
+Xforia, Inc	Frisco	TX	14	Software Developers; Software Quality Assurance Analysts and Testers; Computer Programmers	120000	TX,IL,WA
+Xformics Inc	North Andover,	MA	3	Software Developers; Business Intelligence Analysts	115000	OH,GA
 xFusion Technologies Inc.	Gold River	CA	1	Software Developers		CA
-Xgare Technologies LLC	Dallas	TX	12	Software Developers; Computer Programmers	109500	TX,CA
+Xgare Technologies LLC	Dallas	TX	24	Software Developers; Computer Programmers; Software Quality Assurance Analysts and Testers	108100	TX,IL,NY
+Xgen Bio Inc	Winchester	MA	1	Chemists		MA
 XGS Energy, Inc.	Palo Alto	CA	1	Architectural and Engineering Managers		TX
+Xhome, Inc	New York	NY	1	Web and Digital Interface Designers		NY
 XHXH Studio LLC	Woodinville	WA	1	Market Research Analysts and Marketing Specialists		WA
 Xia Builders Corp	Brooklyn	NY	1	Accountants and Auditors		NY
+Xiang Rui Inc	Pomona	CA	1	Accountants and Auditors		CA
 Xiaolan Ma CPA LLC	Leander	TX	1	Accountants and Auditors		TX
 Xiaolu Music Education Inc	Philadelphia	PA	3	Music Directors and Composers		PA
+Xie Yi Medical Office, P.C.	New York	NY	2	Nurse Practitioners		NY
 Xiente	Philadelphia	PA	2	Accountants and Auditors		PA
-XIFIN Inc.	San Diego	CA	3	Software Developers; Computer Systems Engineers/Architects	164000	TX,CA
-XII Medical, Inc.	Union City	CA	1	Bioengineers and Biomedical Engineers		CA
-Xilinx, Inc.	San Jose	CA	107	Electronics Engineers, Except Computer; Software Developers; Software Quality Assurance Analysts and Testers	171500	CA,TX,CO
-XiltriX North America, LLC	San Diego	CA	2	Chief Executives		CA
+XIFIN Inc.	San Diego	CA	1	Software Developers		TX
+XII Medical, Inc.	Union City	CA	1	Software Developers		CA
+Xilinx, Inc.	San Jose	CA	150	Electronics Engineers, Except Computer; Software Developers; Sales Engineers	171500	CA,TX,CO
+XiltriX North America, LLC	San Diego	CA	1	Chief Executives		CA
+Xin Shi Ji Corporation	Port Jervis	NY	2	Mechanical Engineers		NY
 XInfotec LLC	Wilmington	DE	3	Data Scientists; Software Developers	73200	TX
+Xing Long Investment LLC	Seattle	WA	1	Financial and Investment Analysts		WA
 Xingcheng Special Steel America, Inc.	Houston	TX	1	Sales Engineers		TX
 Xinhuaxin Inc	Chicago	IL	1	Data Scientists		IL
-Xinli International Inc	Diamond Bar	CA	2	Educational, Guidance, and Career Counselors and Advisors; Management Analysts		CA
+Xinli International Inc	Diamond bar	CA	1	Management Analysts		CA
 Xinping Cao Acupuncture & Massage Therapy PC	Smithtown	NY	2	Acupuncturists		NY
 Xinqi LLC	Dover	DE	10	Software Developers; Web Developers; Financial Managers		CA,NJ,WA
-Xinquan Texas Automotive Interiors LLC	Mustang Ridge	TX	1	Purchasing Agents, Except Wholesale, Retail, and Farm Products		TX
+Xinquan Texas Automotive Interiors LLC	Mustang Ridge	TX	4	Market Research Analysts and Marketing Specialists; Network and Computer Systems Administrators; Lawyers	86000	TX,CA
 Xinythos Inc	Arlington	VA	2	Operations Research Analysts; Data Scientists		VA
-Xiromed, LLC	Florham Park	NJ	1	Regulatory Affairs Specialists		NJ
-XIT Solutions, Inc.	Oakbrook Terrace	IL	2	Computer Systems Analysts		NY,NC
+Xiphoid, Inc.	Simi Valley	CA	1	Software Developers		AZ
+Xirgo Holdings, Inc.	Schaumburg	IL	1	Software Developers		MA
+Xiromed, LLC	Florham Park	NJ	3	Regulatory Affairs Managers; Regulatory Affairs Specialists	109100	NJ
+Xit Solutions Inc	Oakbrook Terrace	IL	9	Computer Programmers; Software Quality Assurance Analysts and Testers; Accountants and Auditors	81400	TX,IL,NJ
 Xiu Ning Culture Foundation	Lafayette	CA	2	Art Directors		CA
 Xiuzheng Health USA Inc	Albany	NY	1	Management Analysts		NY
 Xiva Management LLC	Dubois	PA	1	General and Operations Managers		PA
-Xl Global Services, Inc.	Stamford	CT	16	Actuaries; Software Developers; Data Scientists	134400	CT,NY,NJ
-Xl Impex, Inc.	Princeton	NJ	1	Information Technology Project Managers		NC
+Xl Global Services, Inc.	Stamford	CT	14	Data Scientists; Software Developers; Actuaries	137400	CT,NY,PA
 XL Industries, Inc.	Milpitas	CA	1	Construction Managers		CA
-XL Mechanical & Energy Management Services, Inc.	Bangor	ME	1	Mechatronics Engineers		ME
-XL Reinsurance America, Inc.	Stamford	CT	1	Software Developers		CT
-Xl Softek Inc.	Suwanee	GA	12	Computer Systems Analysts; Software Developers; Database Architects	100500	CA,MO,FL
-XLC Services, LLC	Cincinnati	OH	1	Industrial Engineers		OH
-Xllow Inc	Norwalk	CT	1	Software Developers		FL
-Xlysi, LLC	Vernon Hills	IL	8	Network and Computer Systems Administrators; Software Developers; Computer Systems Engineers/Architects	105600	WA,TX,GA
+Xl Softek Inc.	Alpharetta	GA	9	Software Quality Assurance Analysts and Testers; Data Scientists; Software Developers	97400	TX,MO,TN
+Xllow Inc	Norwalk	CT	6	Software Developers; Database Architects	104700	FL,CA
+XLM Solutions, LLC	West Bloomfield	MI	1	Software Developers		OH
+Xlysi, LLC	Vernon Hills	IL	13	Software Developers; Network and Computer Systems Administrators; Data Scientists	113000	TX,MA,VA
 xMEMS Labs Inc	Santa Clara	CA	1	Fundraising Managers		CA
-xMentium, Inc.	Denver	CO	2	Data Scientists; Computer Systems Engineers/Architects		IL,MA
-XMG Inc	New York	NY	1	Software Developers, R&D		NY
-Xmotors.Ai, Inc.	Santa Clara	CA	3	Software Developers	300000	CA
-XMotors.USA, Inc.	Santa Clara	CA	31	Software Developers; Accountants and Auditors	230000	CA
-XNRGY Climate Systems (US) LLC	Mesa	AZ	18	Industrial Engineers; Mechanical Engineers; Software Developers	125000	AZ
+xMentium, Inc.	Denver	CO	3	Data Scientists; Computer Systems Engineers/Architects	120000	IL,MA
+XMG Inc	New York	NY	2	Software Developers, R&D; Software Developers		NY
+Xmotors.Ai, Inc.	Santa Clara	CA	7	Software Developers	330000	CA
+XMotors.USA, Inc.	Santa Clara	CA	37	Software Developers; Accountants and Auditors	230000	CA
+XNRGY Climate Systems (US) LLC	Mesa	AZ	33	Industrial Engineers; Mechanical Engineers; Software Developers	125000	AZ
 XO Health Inc.	Alpharetta	GA	1	Data Scientists		NY
-XOEye Technologies, Inc.	Nashville	TN	1	Data Scientists		WA
-Xome Realty Services, LLC	Coppell	TX	1	Data Scientists		MI
-Xometry	North Bethesda	MD	6	Software Developers; Data Scientists; Computer and Information Systems Managers	195000	MA
-Xomox PFT Corp.	Cincinnati	OH	2	Sales Engineers		OH
+Xogene Services LLC	Englewood	NJ	1	Software Developers		NJ
+Xome Realty Services, LLC	Coppell	TX	3	Software Developers; Data Scientists	157000	TX,MI
+Xometry Inc.	Gaithersburg	MD	13	Software Developers; Data Scientists; General and Operations Managers	190000	MA,WA
+Xomox PFT Corp.	Cincinnati	OH	3	Sales Engineers; Mechanical Engineers	124900	OH
 Xonar Technology Inc.	St. Petersburg	FL	1	Data Scientists		FL
-Xorail, Inc.	Pittsburgh	PA	1	Software Developers		PA
+Xorail, Inc.	Pittsburgh	PA	3	Information Technology Project Managers; Software Developers	153700	PA
 Xoran Holdings LLC	Ann Arbor	MI	1	Software Developers		MI
-Xoriant Corporation	Sunnyvale	CA	48	Software Developers; Computer Systems Analysts; Information Technology Project Managers	121200	TX,NJ,CA
-Xos Fleet, Inc.	Los Angeles	CA	4	Automotive Engineers; Electrical Engineers; Software Developers	125200	CA
-Xove Consulting Services Corporation	Raleigh	NC	1	Data Scientists		NC
-XP Health, Inc.	San Carlos	CA	1	Software Developers		CA
-XP Invesmtent US, LLC	New York	NY	9	Personal Financial Advisors; Operations Research Analysts	168700	FL,NY
-XP Investments US, LLC	Miami	FL	4	Financial and Investment Analysts	120000	NY,FL
-Xp Power LLC	San Jose	CA	1	Industrial Production Managers		MA
-Xpand IT Solutions Inc	Charlotte	NC	10	Software Developers; Software Quality Assurance Analysts and Testers; Network and Computer Systems Administrators	107000	GA,TX,NC
-Xpand-Net Inc.	Dover	DE	1	Computer Network Architects		CA
-Xpanse, LLC	Ft. Lauderdale	FL	10	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers	105700	TX,MS,GA
+Xoran Technologies LLC	Ann Arbor	MI	1	Bioengineers and Biomedical Engineers		MI
+Xoriant Corporation	Sunnyvale	CA	113	Software Developers; Computer Systems Analysts; Information Technology Project Managers	133100	NJ,TX,FL
+Xos Fleet, Inc.	Los Angeles	CA	5	Automotive Engineers; Mechanical Engineers; Industrial Engineers	115000	CA,TN
+Xove Consulting Services Corporation	Raleigh	NC	3	Computer Occupations, All Other	95000	NC
+XP Health, Inc.	San Carlos	CA	2	Software Developers		CA
+XP Invesmtent US, LLC	New York	NY	10	Personal Financial Advisors; Operations Research Analysts; Software Developers	168700	FL,NY
+XP Investments US, LLC	Miami	FL	2	Financial and Investment Analysts		FL
+Xp Power LLC	San Jose	CA	5	Logisticians; Mechanical Engineers; Electrical Engineers	116100	MA
+Xpand Corporation	Herndon	VA	5	Software Developers; Software Quality Assurance Analysts and Testers	146200	VA
+Xpand IT Solutions Inc	Charlotte	NC	5	Software Developers; Database Architects; Software Quality Assurance Analysts and Testers	88100	IL,DE,TX
+Xpanse, LLC	Ft. Lauderdale	FL	15	Software Developers; Software Quality Assurance Analysts and Testers; Computer and Information Systems Managers	110200	FL,TX,NJ
+Xpansiv Data Systems, Inc	New York	NY	2	Software Developers		FL,NJ
 Xpeak Global Inc.	South El Monte	CA	1	Market Research Analysts and Marketing Specialists		CA
 Xpedite Technologies, Inc.	Robbinsville	NJ	2	Database Administrators		CA
-Xpel, Inc.	San Antonio	TX	3	Materials Engineers; Software Developers; Materials Scientists	120000	TX
+Xpel, Inc.	San Antonio	TX	4	Materials Engineers; Software Developers; Materials Scientists	120000	TX
 XPerf Inc	Round Rock	TX	2	Data Scientists; Web and Digital Interface Designers		TX
-XperiencOps, Inc.	Pleasanton	CA	3	Software Developers; Sales Engineers	210000	CA,NJ
-Xpert Technologies Inc	Mechanicsburg	PA	4	Electrical Engineers; Computer Systems Analysts	190000	CA,MN
+XperiencOps, Inc.	Pleasanton	CA	3	Software Developers	210000	CA
+Xpert Technologies Inc	Mechanicsburg	PA	5	Electrical Engineers; Business Intelligence Analysts; Computer Systems Analysts	127400	TX,CA,MN
 Xpertize Tech LLC	Lake Elmo	MN	1	Mechanical Engineers		MN
-XpertsInfoTech Inc.	Columbia	MD	1	Software Developers		MD
-XpertTech Inc	Boston	MA	2	Software Developers		PA
-Xplore Ecommerce LLC	Fredericksburg	VA	1	Software Developers		VA
-XPO Enterprise Services, LLC	Portland	OR	7	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	114100	NC,OR,MA
-Xponance Holdings Inc.	Philadelphia	PA	2	Financial and Investment Analysts; Financial Quantitative Analysts		PA,NC
+XpertsInfoTech Inc.	Columbia	MD	1	Software Developers		MO
+XPO Enterprise Services, LLC	Charlotte	NC	14	Software Developers; Data Scientists; Software Quality Assurance Analysts and Testers	128300	OR,NC,MA
+XPO LTL Solutions, LLC	Ann Arbor	MI	1	Operations Research Analysts		TX
+Xponance Holdings Inc.	Philadelphia	PA	3	Financial Quantitative Analysts; Financial and Investment Analysts	89000	NC,PA
 Xponance LLC	Philadelphia	PA	2	Financial Quantitative Analysts; Financial and Investment Analyst		NC,PA
-Xpress Global IT Solutions LLC	Hayward	CA	4	Software Developers; Computer Systems Analysts; Software Quality Assurance Analysts and Testers	108400	MD,TX,NJ
+Xposure Markets Inc	Boston	MA	2	Data Scientists		NJ
+Xpress Global IT Solutions LLC	Hayward	CA	8	Software Developers; Computer Systems Analysts; Software Quality Assurance Analysts and Testers	109800	TX,NJ,MD
 Xpressdocs Partners LTD	Fort Worth	TX	1	Marketing Managers		TX
 XpressMyself.com LLC	Brooklyn	NY	3	Software Developers	100400	NY,NC,SD
 Xprnc Inc	Belleville	NJ	1	Market Research Analysts and Marketing Specialists		IL
-xprotean inc.	Milpitas	CA	2	Software Developers		VA
+xprotean inc.	Milpitas	CA	3	Software Developers	126100	VA,TX
 Xquisite Landscaping, Inc.	Stoughton	MA	1	Cost Estimators		MA
 XRG Technologies LLC	Tulsa	OK	1	Chemical Engineers		OK
 Xrsciences LLC	Carlsbad	CA	1	Materials Engineers		AZ
-Xscape Photonics, Inc.	Fort Lee	NJ	2	Engineers, All Other; Photonics Engineers		CA,NJ
-Xsell Resources, Inc.	Fort Washington	PA	8	Software Developers; Information Technology Project Managers; Database Architects		MA,PA,AZ
-XSELL Technologies, Inc	Chicago	IL	1	Data Scientists		IL
+Xsell Resources, Inc.	Fort Washington	PA	12	Information Technology Project Managers; Software Quality Assurance Analysts and Testers; Software Developers		CT,MA,TX
+XSELL Technologies, Inc.	Chicago	IL	3	Software Developers; Data Scientists	180000	IL
 Xsense America, Inc.	San Diego	CA	4	Software Developers	173500	CA
 Xsolis, Inc.	Franklin	TN	1	Information Security Engineers		OH
-Xsolla (USA), Inc.	Sherman Oaks	CA	7	Software Developers; Data Scientists; Marketing Managers	101700	CA,NV
-Xsphera Biosciences Inc.	Cambridge	MA	1	Biochemists and Biophysicists		MA
-Xstream Learning Center, LLC	Portland	OR	2	Elementary School Teachers, Except Special Education		OR
+Xsolla (USA), Inc.	Sherman Oaks	CA	8	Software Developers; Data Scientists; Market Research Analysts and Marketing Specialists	125900	CA,NV
+Xspace IT Inc	Atlanta	GA	2	Software Developers		TX,IL
+Xsphera Biosciences Inc.	Cambridge	MA	2	Biochemists and Biophysicists; Molecular and Cellular Biologists		MA
 Xsunt Corporation	Newtown	PA	5	Business Intelligence Analysts; Software Developers; Data Scientists	96500	PA
 XSY LED Lighting Corp	Houston	TX	1	Accountants and Auditors		TX
-XtalPi Inc.	Somerville	MA	4	Software Developers; Accountants and Auditors; Human Resources Specialists	87500	MA
+XtalPi Inc.	Somerville	MA	4	Accountants and Auditors; Human Resources Specialists; Market Research Analysts and Marketing Specialists	87500	MA,WA
 XTechnologies LLC	Dallas	TX	1	Data Scientists		TX
+Xtellia LLC	Irvine	CA	1	Software Developers		NC
+Xterra AI, Inc.	Menlo Park	CA	1	Physicists		CA
 Xterra Solutions, Inc.	San Francisco	CA	1	Computer and Information Systems Managers		CA
-XTGlobal, Inc.	Plano	TX	4	Software Developers; Computer and Information Systems Managers; Information Technology Project Managers	123400	TX,NJ,FL
+XTGlobal, Inc.	Plano	TX	13	Software Developers; Software Quality Assurance Analysts and Testers; Computer Systems Engineers/Architects	112900	TX,DC,NC
 Xtillion LLC			1	Data Scientists		
-Xtivia Inc.	Colorado Springs	CO	1	Computer Systems Engineers/Architects		TX
-Xtl US Inc.	Mountain View	CA	2	Materials Engineers		CA
-XTO Energy Inc.	Spring	TX	4	Software Developers; Network and Computer Systems Administrators; Petroleum Engineers	192000	TX
+Xtium, Inc.	Oldsmar	FL	1	Marketing Managers		FL
+Xtivia Inc.	Colorado Springs	CO	3	Software Developers; Computer Systems Engineers/Architects	142000	TX,KS
+Xtl US Inc.	Mountain View	CA	3	Materials Engineers; Market Research Analysts and Marketing Specialists		CA
+XTO Energy Inc.	Spring	TX	1	Petroleum Engineers		TX
 Xtrac, Inc.	Indianapolis	IN	1	Automotive Engineers		NC
-Xtracit Inc	Matthews	NC	7	Software Developers; Information Technology Project Managers; Software Quality Assurance Analysts and Testers		NC,TX,AZ
+Xtrace, Inc.	San Francisco	CA	1	Information Technology Project Managers		CA
+Xtracit Inc	Arlington	TX	18	Software Developers; Computer and Information Systems Managers; Information Technology Project Managers		TX,NC,AZ
 Xtract Mgmt LLC	Fort Luderdale	FL	2	Market Research Analysts and Marketing Specialists		FL
 XtraMath	Seattle	WA	1	Data Warehousing Specialists		WA
-Xtramile Soft LLC	Charlotte	NC	1	Software Developers		FL
+Xtramile Soft LLC	Charlotte	NC	1	Computer Systems Engineers/Architects		CT
 Xtraround Inc.	Bethesda	MD	1	Software Developers		NV
 Xtreme Utility Equipment, Inc.	Port Huron	MI	1	Computer Systems Analysts		MI
 XTX Services LLC	New York	NY	2	Computer and Information Research Scientists; Management Analysts		NY
-Xu Z Chen Psychiatrist PLLC	Brooklyn	NY	5	Mental Health Counselors	62000	NY
+Xu Investments, Inc.	Upland	CA	1	Marketing Managers		CA
+Xu Law Group PLLC	New York	NY	1	Technical Writers		MA
+Xu Z Chen Psychiatrist PLLC	Brooklyn	NY	6	Mental Health Counselors	62900	NY
 Xuejuan Dance Ensemble, LLC	Herndon	VA	1	Art, Drama, and Music Teachers, Postsecondary		VA
 Xuereb Law Group PC	Livonia	MI	1	Lawyers		MI
-Xuper Funding LLC	Flushing	NY	3	Market Research Analysts and Marketing Specialists; Graphic Designers		NY
+Xuper Funding LLC	Flushing	NY	4	Market Research Analysts and Marketing Specialists; Credit Analysts; Graphic Designers		NY
 Xvivo LLC	Wethersfield	CT	1	Special Effects Artists and Animators		CT
-Xylem Services USA LLC	White Plains	NY	9	Mechanical Engineers; Purchasing Managers; Industrial Engineers	106600	MI,TX,GA
-Xylem Water Solutions Zelienople LLC	Zelienople	PA	1	Civil Engineers		PA
-Xylo Consulting LLC	Neptune	NJ	35	Software Developers; Computer Systems Engineers/Architects; Computer Programmers	106500	TX,CA,VA
+XVIVO Services Inc.	Golden	CO	1	Surgeons, All Other		MA
+Xyken, LLC	McLean	VA	1	Software Developers		VA
+Xylem I, LLC	Raleigh	NC	2	Software Developers		NC,VA
+Xylem Services USA LLC	White Plains	NY	17	Industrial Engineers; Electrical Engineers; Mechanical Engineers	118000	CO,GA,WI
+Xylo Consulting LLC	Neptune	NJ	75	Software Developers; Software Quality Assurance Analysts and Testers; Computer Systems Engineers/Architects	106700	TX,CA,NJ
 Xylotech Systems, Inc.	Irvine	CA	2	Information Technology Project Managers		CA
-Xyntek Incorporated	Newtown	PA	1	Robotics Engineers		PA
-Xyram Software Solutions LLC	Columbia	MD	2	Management Analysts; Software Developers		MD,IL
+Xyntek Incorporated	Newtown	PA	1	Mechanical Engineers		PA
+XYPRO Technology Corporation	Simi Valley	CA	1	Software Developers		CA
+Xyram Software Solutions LLC	Columbia	MD	2	Software Developers		MA,IL
+Xyton Semiconductor, Inc.	Frisco	TX	1	Data Scientists		TX
+Xyz Law PLLC	New York	NY	7	Lawyers		NY
 Xyz Robotics Inc	Wilmington	DE	1	Accountants and Auditors		GA
 Xzelent Inc	Dorchester	MA	1	Logisticians		MA

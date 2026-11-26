@@ -134,7 +134,6 @@ A Little Extra Help Ltd	Corby	A	0
 A M H ENTERPRISE T/A NEW APURBA LIMITED	Melton Nowbray	A	0
 A M HAMPSHIRE LIMITED	Southampton	A	0
 A M QUALITY HALAL MEAT LTD	London	A	0
-A Park View Hotel	Wolverhampton	A	0
 A Park View Hotel (Wolverhampton) Ltd	Wolverhampton	A	0
 A TECH HEATING LIMITED	Cumbernauld	A	0
 A TO Z HOMES LTD	Slough	A	0
@@ -232,7 +231,6 @@ ABBEYDALE NURSING HOME	Liverpool	A	0
 Abbeydale Residential Care Home	Ilkley	A	0
 Abbeyfield Hertfordshire Residential Care Society Ltd	Kings Langley	A	0
 Abbeyside Nursing Home Limited	Elgin	A	0
-Abbeywood House Care Limited	Devon	A	0
 Abbots Healthcare Ltd	Abbots Langley	A	0
 ABBOTSFORD RESIDENTIAL CARE HOME LIMITED T/ AS Abbotsford Residential Care Home	Pinner	A	0
 Abbotswood Court Care Home	Romsey	A	0
@@ -269,6 +267,7 @@ ABODE HEALTHCARE LTD	Poulton	A	0
 ABQ Hospitality & Property Management UK Ltd	Bournemouth	A	0
 ABR Health Ventures Ltd	London	A	0
 ABRAHAM NURSING HOMES LTD	Pontyclun	A	0
+Abrigo Homes	Brierfield	A	0
 ABS FURNITURE LIMITED TA ABS Headboard Link	Birmingham	A	0
 ABS HAULAGE LTD	Kempston	A	0
 Absolute Care Homes (Central) Limited	London	A	0
@@ -329,6 +328,7 @@ Active Homes Ltd	Birmingham	A	0
 Active Olive Healthcare Limited	Wellingborough	A	0
 Active Olive Healthcare Ltd	Irthlingborough	A	0
 Active Plant Hire Ltd	Essex	A	0
+Acute Hoarding and Fencing Ltd	Watford	A	0
 Ad Hoc London Ltd	London	A	0
 Ad Hoc Property Management Ltd	London	A	0
 AD Service Holbrook Ltd	Ipswich	A	0
@@ -348,11 +348,11 @@ Addison House Surgery	Harlow	A	0
 Adecyn Children's Homes	Wolverhampton	A	0
 Adelaide Nursing Home Ltd	Brighton	A	0
 Adelik Healthcare Ltd	Liss	A	0
+Adem's Hair & Beauty Ltd	Belgravia	A	0
 Aden Health Care Ltd	Northampton	A	0
 Aden Homes Limited	Chelmsford	A	0
 Adept Care Homes Ltd	Burbage	A	0
 Adept Health and Social Care LTD	Leicester	A	0
-ADHAM HOTELS LTD	Huddersfield	A	0
 Adi & Aarvi Hospitality Ltd T/A Kahani Restaurant	Edinburgh	A	0
 Adina Home Care Service Ltd.	Pinner	A	0
 ADL Homestore	Birmingham	A	0
@@ -400,7 +400,6 @@ Affordable Healthcare Ltd	Leicester	A	0
 AFGHAN HOPE LANGUAGE SERVICES LIMITED	Bristol	A	0
 Afghan Restaurant(Hull) Limited T/A Afghan Restaurant	Hull	A	0
 Aflex Hose Limited	Huddersfield	A	4,7
-AFON GOCH CHILDREN'S HOMES LTD	Deiniolen	A	0
 African & Caribbean hut ltd	Birmingham	A	0
 African Peoples Historical Monument Foundation (Black Cultural Archives) Ltd	London	A	0
 Afridi HD Ltd T/A Heavenly Desserts	Croydon	A	0
@@ -989,7 +988,6 @@ Asia House	London	A	0
 Asia Pacific World Holdings Limited	Southampton	A	0,4
 Asian Grocery and Halal Meat LTD T/A Naga Hut	London	A	0
 Asian Harvest Butchers Ltd	London	A	0
-ASIAN KITCHEN HULL LIMITED	Hull	A	0
 Asian Social and Humanitarian Association	London	A	0,1,9,10
 Asif Hameed T/A Local General Stores	Swinton	A	0
 Asim & Raza Holdings Ltd	Chatham	A	0
@@ -1066,7 +1064,6 @@ Atlantis Health UK Limited	London	A	0
 Atlantis Pizza (Holmfirth) Ltd	Huddersfield	A	0
 Atlas Care Homes Ltd	Newcastle Upon tyne	A	0
 Atlas Copco UK Holdings Ltd	Hemel Hempstead	A	0,4
-Atlas Health Group Limited	Norwich	A	0
 Atlas Merchant Capital Holdings UK Limited	London	A	0,4
 ATOZ SERVICED APARTMENTS LTD t/a home.ly	London	A	0
 ATS VENTURES LTD T/A Langwood Hotel	Blackpool	A	0
@@ -1156,7 +1153,7 @@ Ayurvedic Healing & Laser Clinic LTD	Bury	A	0
 AYURVEDIC HEALTHCARE & LASER CLINIC LTD	Manchester	A	0
 Ayush Spa and Cafe Limited T/a Ayush Health Spa and Beauty Centre T/a Cafe Pura T/a Ayush Convenience Store	North Greenwich	A	0
 AZ BEAUTY & HAIR LTD	Croydon	A	0
-AZA HOMEIMPROVEMENT LIMITED	High Wycombe	A	0
+AZA HOMEIMPROVEMENT LIMITED	Southall	A	0
 AZAAN HEALTHCARE (DUNDEE) LTD	Dundee	A	0
 AZAD EURO HALAL LTD	Bedford	A	0
 Azad halal Poultry Ltd	Luton	A	0
@@ -1201,7 +1198,6 @@ Bagel House Brothers Limited	London	A	0
 BAGEL HUT CAFE LTD	Borehamwood	A	0
 Bagels Already Limited T/A Lincoln Coffee House	Reading	A	0
 Bagoo Homes Ltd	Rugby	A	0
-BAINS & HAYRE LIMITED	Leeds	A	0
 Bains Healthcare Limited	Johnstone	A	0
 BAKER & HASSAN LIMITED	London	A	0
 Baker Hicks Limited	Warwickshire	A	0,4
@@ -1223,7 +1219,6 @@ Balmoral Homecare Ltd	Prestwck	A	0
 Balshaw's CE High School	Leyland	A	0
 BALTI HOUSE DUNMOW LTD	Cambridge	A	0
 Balti Hut Earlsdon Ltd	Coventry	A	0
-Bamboo House Ltd t/a Bamboo House	Harrow	A	0
 bambooh Hook Norton Ltd	Hook Norton	A	0
 Bamford Care Homes Limited	Plymouth	A	0
 Bampton Healthcare Ltd	Bampton	A	0
@@ -1240,7 +1235,6 @@ Bangladesh High Commission and its subordinate offices in UK	London	A	5
 BANIJAY UK PRODUCTIONS HOLDINGS LIMITED	London	A	0,3
 Bank House Care Homes Limited	Sutton In Ashfield	A	0
 Banks Hotel Limited	Ilford	A	0
-BANNER HOUSE SUPPORT SERVICES LIMITED	Dartford	A	0
 BANOFUL SWEET HOUSE LIMITED	Manchester	A	0
 Banstead, Carshalton and District Housing Society	Banstead	A	0
 Banwait Group Holdings Ltd	Wakefield	A	0
@@ -1275,6 +1269,7 @@ Barnsley Healthcare Federation (BHF) CIC	Barnsley	A	0
 Barnsley Hospital NHS Foundation Trust	Barnsley	A	0
 Barry Morrison Timber Harvesting Limited	Insch	A	0
 BARSHU HOUSE LIMITED T/A Sichuan Folk	London	A	0
+BART HARPER LIMITED	London	A	0
 Barter Hill Partnership Limited	Takeley	A	0
 Barton House Medical Practice	Beaminster	A	0
 BARTON HUXLEY MANAGEMENT LTD	Rotherham	A	0
@@ -1313,7 +1308,6 @@ Baystone Limited T/A Cranford Residential Home	Exmouth	A	0
 Bayswift ltd Trading as Chegworth Nursing Home	Sutton	A	0
 Baytrees Homes Ltd	Worthing	A	0
 Bayview Hotel Portballintrae Limited	Portballintrae	A	0
-Baywater Healthcare	Crewe	A	0
 Baywater Healthcare Limited	Crewe	A	0,4
 BAZYAN (HEREFORD) LTD T/A DINO MARKET	Herefordshire	A	0
 BB Black Pearl Ltd T/A Haute Dolci Blackburn	Blackburn	A	0
@@ -1398,7 +1392,6 @@ Beling & Co. Ltd T/A Wensley House Residential Care Home	Epping	A	0
 Bell Walk Healthcare Ltd	Gloucester	A	0
 BELLAVISTA NURSING HOME (WALES) LIMITTED	Barry	A	0
 Bellfred Limited T/A Radfield Homecare Liverpool North	Waterloo	A	0
-Bellhouse Care Home Ltd	Huddersfield	A	0
 Bells Home Care LTD	Hornsea	A	0
 Bellsgrove Care Home	Fetcham, Surrey	A	0
 Bellway Homes Ltd	Newcastle upon Tyne	A	0
@@ -1417,7 +1410,6 @@ Belper Views Residential Home Ltd	Belper	A	0
 Belsfield Opco Limited T/A The Belsfield Hotel	Bowness on Windermere	A	0
 Belvoir Healthcare Ltd	Norwich	A	0
 Belvoir Home Care Ltd	Car Colston	A	0
-BELVOIR STEAK AND CURRY HOUSE LIMITED	Nottingham,	A	0
 BeMyEye Holdings Limited	London	A	0
 Ben and Harry Limited	Bromley	A	0
 Ben Arosh Holdings LTD	London	A	0
@@ -1448,7 +1440,6 @@ Berkshire Healthcare NHS Foundation Trust	Bracknell	A	0
 Berkshire Heathrow Ltd	Camberley	A	0
 Berlin Food Company (Hamilton) Ltd	Hamilton	A	0
 Berners holdings Ltd	Ipswich	A	0
-Berry Health Ltd	London	A	0
 Berwick Care Homes Limited	Berwick Upon Tweed	A	0
 Berwick House Ventures Ltd	Shrewsbury	A	0
 Besins Healthcare (UK) Limited	London	A	0,4
@@ -1465,7 +1456,6 @@ BEST CHEF CUISINE LTD T/A Heera Indian Restaurant	Renfrew	A	0
 BEST CHOICE HIRE LTD	London	A	0
 Best Choice Homes Ltd	Burnley	A	0
 Best Halal Meat	London	A	0
-Best Halal Meat Supply Ltd	Ashton-Under-Lyne	A	0
 BEST HOMES BUILDER LTD	Birmingham	A	0
 Best in Care Ltd T/A Clarity Homecare Bradford	Leeds	A	0
 Best One Haverty Precinct Ltd	St Helens	A	0
@@ -1518,7 +1508,7 @@ BIOS Health Ltd	Cambridge	A	0
 BIOSPHERE HERBAL LTD	Northampton	A	0
 Bira care homes ltd TA Avenue road Nursing Home	Abergavvany	A	0
 Birches Head Medical Centre	Stoke-on-Trent	A	0
-BIRCHFIELD HOTEL LTD	Weston supre mare	A	0
+BIRCHFIELD HOTEL LTD	Catford	A	0
 Birchfield Residential Care Home Limited	Blackburn	A	0
 Birchills Health Centre	Walsall	A	0
 Birchlands (Haxby) Limited	Haxby	A	0
@@ -1646,7 +1636,6 @@ Blyth Hall Management Services Limited	Atherstone	A	0
 BMC Helix UK Limited	Workingham	A	0
 BMG HOMES LIMITED	Dudley	A	0
 BMI Group Holdings UK Limited	Reading	A	0,4
-BMI Healthcare Limited trading as Circle Health Group Limited	London	A	0,4
 BMP HEALTHCARE LIMITED	Leicester	A	0
 BMS Heavy Cranes UK Ltd	Irvine Innovation Center	A	0,4
 BMW (UK) Holdings Limited	Farnborough	A	0,4,5,7,8,11
@@ -1760,7 +1749,6 @@ Brewin Group Limited T/A Circle Homes	Leicester	A	0
 BRGR HUB LTD T/A Side Street Burgers	Manchester	A	0
 Brian Hunter Limited	Limavady	A	0
 Briar Court Hotel Limited	Huddersfield	A	0
-Briarcroft Care Home	Teignmouth	A	0
 Briardene Limited T/A Briar Dene Residential Care Home	Scarborough	A	0
 Briars Homecare Services Ltd	Thornton Cleveleys	A	0
 Brick Hill Estates Limited	Leighton Buzzard	A	0
@@ -1896,7 +1884,6 @@ Brudolff Hotels Limited	Lerwick	A	0
 Bruhenny Grange Hotel Ltd	Darlington	A	0
 Brunswick Health Centre	Swansea	A	0
 Brunswick House Cafe Limited	London	A	0
-Brymore Care Homes Ltd	London	A	0
 Brympton House Estates Ltd	Yeovil	A	0
 Bryn Awelon Care Home Ltd	Gwynedd	A	0
 BRYN ILLTYD CARE HOME LTD	Carmarthen	A	0
@@ -2052,6 +2039,7 @@ Camden High Street Practice Limited	London	A	0
 Camelot Care (Bridgwater) Ltd t/a Avalon Nursing Home	Bridgwater	A	0
 Camels Head Store	Plymouth	A	0
 Camino Healthcare Limited T/A Vestige Healthcare	Berkshire	A	0
+Campbell Plant Hire Limited	Inverness	A	0
 Camphill Community Holywood	Holywood	A	0,9
 CAMPION GARDENS CARE HOME LIMITED	Swansea	A	0
 Campus Health Centre	Hull	A	0
@@ -2102,7 +2090,6 @@ Care at Home Services (South East) Ltd.	Tunbridge Wells	A	0
 Care At Home Services Limited	Greenford	A	0
 Care at Home Services South East	Tunbridge Wells	A	0
 Care At My Home Ltd	Beckenham	A	0
-Care at your home LTD	High Wycombe	A	0
 Care Centres Wales Limited T/A Pen Y Bryn Care Home	Swansea	A	0
 Care First (UK) Limited T/As Offmore Residential Home	Worcestershire	A	0
 Care Hand Service Ltd	London	A	0
@@ -2117,7 +2104,7 @@ Care Horizons ltd	Yate	A	0
 CARE IN HANDS LIMITED	Saundersfoot	A	0
 Care Moments Healthcare Ltd	Crawley	A	0
 Care Partners Health Care LTD	Dunfermline	A	0
-Care Signature Christian homecare Services	Leeds	A	0
+Care Provision Healthcare Limited t/as Philia Lodge Rest Home	Peterborough	A	0
 Care Solutions Homecare Ltd	Stranraer	A	0
 care solutions st helens limited T-A	St.Helens	A	0
 Care To You Healthcare Limited	Eastbourne	A	0
@@ -2133,6 +2120,7 @@ Caredom Healthcare Limited	Northampton	A	0
 Careland Healthcare Services Ltd	Woodford Green	A	0
 Carelight Healthcare Ltd	Wolverhampton	A	0
 Careline Home Support	Glasgow	A	0
+Carelink Healthcare Professionals Limited	Leicester	A	0
 Carelink Homecare Services LTD	Bangor	A	0
 Carelytical Home Care Limted	Accrington	A	0
 CareMax Homecare Services Ltd	Brentwood	A	0
@@ -2158,7 +2146,6 @@ Cariad Care Homes Limited	Porthmadog	A	0
 Caribbean & African Health Network (CAHN)	Manchester	A	0
 CARING FOR HUMANITY	Bedford	A	0,9
 Caring Hand Services Ltd	Croydon	A	0
-Caring Hands (Wiltshire)	Swindon	A	0
 CARING HANDS EAST LONDON LTD	Ilford	A	0
 CARING HANDS HOME CARE SERVICES LTD	Birmingham	A	0
 Caring Hands Limited	Walsall	A	0
@@ -2342,6 +2329,7 @@ Charlton Somerset Hospitality Ltd	Shepton Mallet	A	0
 Charnley Care Homes Limited	Bracknell	A	0
 Charnwood House Nursing Home Limited t/a Charnwood House Nursing Home	Gloucester	A	0
 Chartam House Nursery Limited	Maidenhead	A	0
+Charter HCP Limited	Hertford	A	0
 Chartered Institution of Highways and Transportation	London	A	0
 Charterfields (Huddersfield) Limited	Huddersfield	A	0
 Chartwell Private Hospitals Ltd	Essex	A	0
@@ -2431,6 +2419,7 @@ China Holidays Ltd	London	A	0,4
 Chinite Resourcing Limited (trading as Chinite Home Care)	Braintree	A	0
 Chiro Health Limited	Essex	A	0
 Chiron Healthcare At Home Limited	Buntingford	A	0
+Chirpy Heat Ltd	Southwell	A	0
 Chisholm Hunter Limited	Glasgow	A	0
 CHITRAVADIVELU THARMASEELAN T/A HERSTMONCEUX POST OFFICE-BUDGENS	Hailsham	A	0
 Choice First Health and Home Care Ltd	Smethwick	A	0
@@ -2514,6 +2503,7 @@ CLAIM HELP UK LTD	Ilford	A	0
 Clan Ice Hockey Club	Glasgow	A	11
 Clanmil Housing Association Ltd	Belfast	A	0
 Clare Hall, University of Cambridge	Cambridge	A	0,12
+Clare Healthcare Ltd t/a Tamworth Pharmacy	Tamworth	A	0
 Claremont Care Home	Manchester	A	0
 Claremont Court Care Home	Pontypridd	A	0
 Claremont High School	Harrow	A	0
@@ -2787,7 +2777,6 @@ County Homesearch International Ltd	Truro	A	0,6
 County Hotel ,Stornoway	Stornoway	A	0
 Courage Healthcare Ltd	Maidstone	A	0
 Courage Healthcare West Midlands	Dudley	A	0
-Courier Holdings Ltd	London	A	0
 Court Hotel (Bromley) Limited(The) T/A The Bromley Court Hotel	Bromley	A	0
 Court House (Cheddar) Ltd	Cheddar	A	0
 Court House (Malvern) Limited	Malvern	A	0
@@ -2797,7 +2786,6 @@ COVE MANOR CARE HOME LIMITED	Dungannon	A	0
 Covenant Healthcare Ltd	Coventry	A	0
 Covenant Mission Care Ltd T/A Spencer House	Birchington	A	0
 Covent Garden Dragon Hall Trust	London	A	9
-COVENT GARDEN HARDWARE STORE LTD T/A The Lowdown	London	A	0
 Coventry Home UK Ltd	Coventry	A	0
 Coventry Specsavers Hearcare Limited	Coventry	A	0
 Coveris Flexibles Holdings UK Limited	Pinchbeck	A	0,4
@@ -2898,6 +2886,7 @@ CRYSTAL HOUSING LTD	Birmingham	A	0
 CS Hospitality Ltd	London	A	0
 CS Hub Ltd	Tunbridge Wells	A	0
 CSG Healthcare UK Ltd	Carlisle	A	0
+CSH -HVAC Ltd	Sheffield	A	0
 CSI GLOBAL HOLDINGS LIMITED	London	A	0
 CTA Healthcare Ltd T/A Bonnyton House Care Home	Ellon	A	0
 CTC HOLDING LIMITED	London	A	0
@@ -2935,7 +2924,6 @@ Curryz House Ltd	Leeds	A	0
 CUSTOM HOME CARE LTD.	Sheffield	A	0
 Cut the Mustard (Holdings) Limited	Biddulph	A	0
 Cutting Edge Music (Holdings) Ltd	London	A	0,4
-CV1 HOSPITALITY LIMITED	Coventry	A	0
 CW Holborn Limited T/A Chaiiwala	London	A	0
 Cwm Cartref Care Home	Pontardawe	A	0
 Cwm Taf Morgannwg University Health Board	Abercynon	A	0
@@ -2943,6 +2931,7 @@ CWRT BLEDDYN TRADING LTD T/A Cwrt Bleddyn Hotel and Spa	Ickenham	A	0
 Cwtsh Hostel Ltd	Carmarthen	A	0
 Cyber Security Hub Ltd	London	A	0
 CyberIAM Holdings Limited	Chester	A	0
+Cygnet Health Care Ltd	West Malling	A	0
 Cypress Court Care Home	Crewe	A	0
 Cyreth Ltd T/A Strangford Arms Hotel	Newtownards	A	0
 D & B HAULAGE LTD	Hounslow	A	0
@@ -2968,7 +2957,6 @@ DADYAL HALAL MEAT LTD	Slough	A	0
 Daffodil Hotel 2 Limited	Grasmere	A	0
 DAFFODILS HOMES LIMITED	Stanmore	A	0
 DAILY COMFORT HEALTHCARE LTD	Hampshire	A	0
-Daish's Esplanade Hotel	Scarborough	A	0
 Daisy Holdings Limited	Nelson	A	0
 Daisychain Homecare Services (Bakewell) Limited	Matlock	A	0
 DAIWA HOUSE UK LIMITED	London	A	0,4
@@ -3062,6 +3050,7 @@ Deenex Intl Limited T/A Greenbanks Heritage	Gravesend,	A	0
 DEEP HEALTHCARE SERVICES LIMITED	Leeds	A	0
 Deepakshilpi Ltd T/A The Crags Hotel and Desh Restaurant	Callander	A	0
 Deeside Dragons Ice Hockey Club	Deeside	A	11
+Definition Group Holdings Ltd	Leeds	A	0
 Degiorgio Holdings Limited	Gillingham	A	0
 Deiveega Kalasam Ltd T/A Haute Dolci Deansgate	Manchester	A	0
 DELICATE HOSPITALITY SERVICES LTD T/A DELICATE	Burton upon Trent	A	0
@@ -3175,6 +3164,7 @@ Diocese of Hallam	Sheffield	A	1,10
 Diocese of Hereford	Hereford	A	1,10
 Diocese of Hexham and Newcastle	Newcastle upon Tyne	A	1,10
 Direct Health First Ltd.	Budleigh Salterton	A	0
+DIRECT HEALTH SOLUTIONS LTD	Rochester	A	0
 Direct Healthcare 24 Ltd	London	A	0
 Direct Healthcare Group	Caerphilly	A	0
 Direct Plumbing and Heating Distribution Limited	Wolverhampton	A	0
@@ -3204,6 +3194,7 @@ DJ'S Health Mantra Limited	Ilford	A	0
 DJP Healthcare Limited	London	A	0
 DK Hospitality Limited	Halifax	A	0
 DKH Holding Ltd	London	A	0
+DKM Healthcare limited	Coventry	A	0
 DM Hall LLP	Edinburgh	A	0
 DMC Healthcare	Peckham	A	0
 DMP Healthcare (Cherry Orchard) Ltd	Harrow	A	0
@@ -3338,7 +3329,6 @@ DSL Care Ltd T/A Wellcross Grange Nursing Home	Horsham	A	0
 DST Holdings Ltd	Halifax	A	0
 DT HEALTH & FITNESS SOLUTIONS LT	London	A	0
 DT RETAIL LTD T/A HINCKLEY OFF LICENSE	Hinckley	A	0
-DTE HOLDINGS (NORTH WEST) LTD	Runcorn	A	0
 DTH Plant Hire Ltd	Leicester	A	0
 DUBLIN HALAL MEATS LIMITED	London	A	0
 DUDE Hub Ltd	London	A	0,4
@@ -3530,6 +3520,7 @@ EDWIN HOLIDAYS LIMITED	London	A	0
 Eeven Homes Ltd	Manchester	A	0
 Eeze Old School House Ltd	London	A	0
 Efficient Home Energy	Bromley	A	0
+Efficient Homes Energy Advisors Limited	Manchester	A	0
 EFG housewares Ltd	London	A	0
 EFM HEARING LTD	Aylesbury	A	0
 Eggesford Country Hotel Limited	Chulmleigh	A	0
@@ -3571,7 +3562,6 @@ Eliranda Hope Housing Community Interest Company	Enfield	A	0
 Elis Beauty Limited T/A Elsa Hair & Beauty	Brentford	A	0
 Elisabete Sousa Hair Limited	London	A	0
 ELITE CARE AT HOME LTD	Dumfriesshire	A	0
-Elite Care at Home Ltd	Lockerbie	A	0
 ELITE CARE HOMES LTD	Birmingham	A	0
 Elite Choice Home Care Ltd	Sayers Common	A	0
 Elite Home Care Services Ltd	Hartlepool	A	0
@@ -3581,7 +3571,6 @@ ELIXIA HEALTHCARE LTD	Hook	A	0
 Elizabeth Court Rest Home Limited	Bexhill On Sea	A	0
 ELIZABETH HADEED LTD	London	A	0
 Elizabeth House (Oldham) Limited T/A Elizabeth House	Oldham	A	0
-Elizabeth House Rest Home Limited	Stoke On Trent	A	0
 Elizabeth Jane Hartle /Trading as Aycliffe Dentistry	Tonbridge	A	0
 Elizabeth Peters Care Homes Ltd	Catford	A	0
 Elizabeth Peters Care Homes Ltd	London	A	0
@@ -3599,7 +3588,6 @@ Elm Tree House Residential Home	Taunton	A	0
 Elmar Home Care Limited	Leeds	A	0
 Elmcroft Care Home Limited	Essex	A	0
 Elmcroft Care Home Ltd	Tolleshunt Major	A	0
-Elmglade Residential Care Home	Sutton	B	0
 Elmlodge Estates (Hounslow) Limited	Hounslow	A	0
 ELMS Health Solutions Ltd	Cambridge	A	0
 Elms Hotels Limited	Retford	A	0
@@ -3680,6 +3668,7 @@ EPG Communications Holdings Ltd	Tunbridge Wells	A	0
 Ephyrm Healthcare Services LTD	Birmingham	A	0
 Epicare Health Ltd T/A Epicare Health Pharmacy	Swindon	A	0
 EPICUREAN HORIZONS LTD T/A The Dhabba	Glasgow	A	0
+EPSILON HEAT TRANSFER LIMITED	London	A	0
 Epsom and St Helier University Hospitals NHS Trust	Carshalton	A	0
 Epsom Specsavers Hearcare Ltd	Epsom	A	0
 EQ Hotels Limited	London	A	0
@@ -3738,13 +3727,13 @@ European Sports Horses Ltd	Welford-on-Avon	A	0
 EV Service Hub Ltd	London	A	0
 Eva Hospitality Limited	Newmarket	A	0
 Eve Johnson Houghton	Blewbury	A	0
+Eve Johnson Houghton Racing Limited	Blewbury	A	0
 EVECOM LTD T/A HOLIDAY INN EXPRESS	Canterbury	A	0
 EVERBRIGHT HOME CARE LTD	Wirral	A	0
 EVERBRIGHT HOTEL LTD	Wrexham	A	0
 Everbright Housing Limited	Birmingham	A	0
 Everdale Grange Care Home	Leicester	A	0
 Eveready Hire Limited	Leatherhead	A	0
-Everest 1 Limited t/a K2 Balti House	Hemel Hempstead	A	0
 EVEREST HAIR & BEAUTY LIMITED	Bournemouth	A	0
 Everest House Surgery	Hemel Hempstead	A	0
 EVERGREEN HOMECARE LIMITED	Blackburn	A	0
@@ -3766,6 +3755,7 @@ Evoo Health Care Ltd	Cardiff	A	0
 Exceed (XCD) Holdings Limited	Aberdeen	A	0
 Excel Plumbing and Heating Supplies Ltd	London	A	0
 Excel24/7 Healthcare Ltd	Rochdale	A	0
+Excelcare Holdings	Bromley	A	0
 Excelcare Holdings	Dover Court	A	0
 Excelcare Holdings	Great Linford	A	0
 Excelcare Holdings	St Ives	A	0
@@ -3785,7 +3775,7 @@ Exertis Hammer Limited	Hapton	A	0
 Exeter Specsavers Hearcare Limited	Exeter	A	0
 exi Group Holdings Limited	Coventry	A	0
 Exodus Healthcare Services	Sutton	A	0
-Exonea Health Ltd	Dudley	A	0
+Exonea Health Ltd	Wolverhampton	A	0
 Exp Haus Ltd	London	A	0
 Expert Health Limited T/A Lloyds Pharmacy Online Doctor	London	A	0
 Expert Hosts Ltd.	Richmond	A	0
@@ -3842,7 +3832,6 @@ Fairoze Limited t/a Redclyffe House	Gosport	A	0
 Fairview Estates (Housing) Limited	Enfield	A	0
 Fairview Health Ltd T/A Fairview Health Pharmacy	London	A	0
 Fairview Hotels Limited	Ruislip	A	0
-FAISAL CURRY HOUSE & PIZZA BAR LIMITED	Barnsley	A	0
 Faisal Hairdressers Limited	London	A	0
 Faith & Hope healthcare	Birmingham	A	0
 FAITH HEALTH CARE AGENCY LTD	Croydon	A	0
@@ -3873,6 +3862,7 @@ Farleigh Hospice	Essex	A	0,9
 Farm and Forest Care LTD T/A Caremark (Herefordshire and Forest of Dean)	Cinderford	A	0
 Farmaceutics Healthcare Limited	Nelson	A	0
 Farmhouse Care Home Ltd	Totton	A	0
+Farming Partners Holdings LLP	Dumfries	A	0
 Farnham Assets Ltd T/A Best Western Northfields Ealing Hotel	London Ealing	A	0
 Farnham Park Health Group	Farnham	A	0
 Farnworth Nursing Home	Bolton	A	0
@@ -4155,6 +4145,7 @@ Futture Homes Limited	Harrow	A	0
 Future Health and Social Care Association CIC	Birmingham	A	0
 FUTURE HEALTH INTELLIGENCE LTD	London	A	0
 Future Health Technologies Ltd	Nottingham	A	0
+Future Leap Holdings Ltd.	Bristol	A	0
 Fylde Care Group Limited t/a Rose House Residential Care Home	Lytham ST ANNES	A	0
 Fylde Healthcare Ltd	Blackpool	A	0
 Fyling Hall School	Whitby	A	0
@@ -4195,7 +4186,6 @@ Galiant Health Care Limited	Yeovil	A	0
 Galley Hill Equine Surgery	Waltham Abbey	A	0
 Galliard Homes	Loughton	A	0
 Galloway Hills Medical Group	Newton Stewart	A	0
-Galloways Accounting (Hove) Limited	Hove	A	0
 Gama Healthcare Ltd	Hemel Hempstead	A	0
 Gamma Telecom Holdings Limited	London	A	0
 Gants Hill Travel Ltd	Essex	A	0
@@ -4247,6 +4237,7 @@ Generator Hostels Ltd	London	A	0,4
 Genese Moorland Hotel Limited T/A The Moorland Hotel	Plymouth	A	0
 GENESIS RESIDENTIAL HOMES LIMITED	Essex	A	0
 Genises Holding Ltd	Braintree	A	0
+Genix Care Ltd T/A Waxham House	Ryde	A	0
 Genix Healthcare Ltd	Leeds	A	0
 Genting Hays Ltd	York	A	0
 Gentle Hands Care Agency	Barnet	A	0
@@ -4419,7 +4410,6 @@ Golden Square Healthcare Limited	Rotherham	A	0
 Golden Valley House Day Nursery	Nailsea	A	0
 GOLDEN WELL 19 LTD T/A TEA HOUSE	Belfast	A	0
 Goldenage Healthcare Ltd	Guildford	A	0
-Goldenberg Hehmeyer LLP	London	A	0
 Goldendale House Care Home	Stoke-on-Trent	A	0
 GOLDENFRYBRAINTREE LTD.T/A-Golden Fry Fish & Mo Mo Hob	Essex	A	0
 Goldfinch Gardening and Housekeeping Services	Aston	A	0
@@ -4609,7 +4599,7 @@ Guilford Hotel	London	A	0
 Gujarat Hindu Society	Preston	A	10
 GULBARHAR HUSSAIN T/A PUNJAB BALTI HOUSE	Peterborough	A	0
 Gully Howard Technical Ltd	Portsmouth	A	0
-GULZAR HALAL POULTRY LTD	Birmingham	A	0
+GULZAR HALAL POULTRY LTD	Shrewsbury	A	0
 Gumley House Convent School For Girls	Isleworth	A	0
 Gungah Care Limited T/A Seathorne Court Residential Home	Skegness	A	0
 GUNPOWDER HOSPITALITY LTD	London	A	0
@@ -4724,7 +4714,6 @@ H R Higgins (Coffeeman) Ltd	Whitby	A	0
 H Reed Limited	London	A	0
 H S A BUILDERS LTD	London	A	0
 H S Business & PR Consultant limited	Staines-Upon-Thames	A	0
-H S Health Group Limited	Boston	A	0
 H S INTERNAIONAL ENTERPRISE LTD	London	A	0
 H S PLANNING LIMITED	Staines-Upon-Thames	A	0
 H S SHOPFRONTS AND SHUTTERS LTD	Bradford	A	0
@@ -4940,7 +4929,6 @@ Haden Vale Medical Practice	Cradley Heath	A	0
 Haden Vale Pharmacy	Cradley Heath	A	0
 HADES PLUMBING LTD	Morden	A	0
 Hadet Healthcare	Cannock	A	0
-HADET HEALTHCARE	Cannock,	A	0
 Hadfelda Convenience Store	Chelmsford	A	0
 Hadfield Cawkwell Davidson Limited	Sheffield	A	0
 Hadfield st Andrews Cricket Club	Glossop	A	11
@@ -5067,7 +5055,6 @@ HAK GRILL LTD	Cardiff	A	0
 Hakim Supermarket Ltd	Northampton	A	0
 Hakka Eateries Limited T/A Hakka Garden	Harrow	A	0
 Hakka Express Kitchen Limited	Worcester	A	0
-HAKKA VILLAGE LIMITED	London	A	0
 Hakkasan Limited	London	A	0,4
 Hakluyt & Company Limited	London	A	0,4
 HAKTALENT LTD	Manchester	A	0
@@ -5244,6 +5231,7 @@ Hamid Jameel T/A Meads Service Station	Purfleet	A	0
 Hamidi Transport Limited	Luton	A	0
 Hamill Homecare Limited	Glasgow	A	0
 Hamillroad Software Limited	Cambridge	A	0
+Hamilton & Pollock 2012 Limited T/A HDKP	Hertfordshire	A	0
 Hamilton Academical Football Club	Glasgow	A	0,3,11
 Hamilton Academy	High Wycombe	A	0
 Hamilton Architects LLP	Belfast	A	0
@@ -5289,7 +5277,7 @@ Hammersmith and Chiswick Landscapes Ltd t/as HCL	Chiswick	A	0
 HAMMERSMITH AND FULHAM ASSOCIATION FOR MENTAL HEALTH	London	A	0
 Hammersmith and Fulham Central PCN Limited	London	A	0
 Hammersmith and fulham mencap	London	A	0
-Hammersmith and Fulham Partnership	London	B	0
+Hammersmith and Fulham Partnership	London	A	0
 HAMMERSMITH HEALTHCARE LTD	London	A	0
 HAMMERSMITH ISLAMIC ASSOCIATION	London	A	9
 Hammersmith Medicines Research Ltd	London	A	0
@@ -5334,7 +5322,6 @@ Hampton by Hilton Oxford	Oxford	A	0
 HAMPTON DATA SERVICES LTD	Chessington	A	0
 Hampton Dental Care Limited	Liverpool	A	0
 HAMPTON FOOD & WINE LTD	Wolverhampton	A	0
-Hampton Group International Ltd	London	A	0,4
 Hampton Manor Limited	Solihull	A	0
 Hampton Medical Centre	Peterborough	A	0
 Hampton School	Hampton	A	0
@@ -5371,6 +5358,7 @@ HAN V LTD	London	A	0
 hana coffee uk ltd	London	A	0
 Hana Group UK Limited t/a Sushi Gourmet	London	A	0,4
 Hana LTD	London	A	0
+HANA PETROLEUM LIMITED	Leeds	A	0
 HANA Salon	London	A	0
 Hanaa Limited	London	A	0
 Hanami Lic Limited	Glasgow	A	0
@@ -5446,6 +5434,7 @@ HANIF HALAL MEAT	London	A	0
 HANIM ANA LIMITED	Fleetwood	A	0
 Hanjin Global Logistics GB Limited	Southampton	P	2
 Hank Trading Ltd	Barnet	A	0
+HANK ZARIHS ASSOCIATES LIMITED	Broxbourne	A	0
 Hankinson Duckett Associates Ltd	Wallingford	A	0
 Hankook Tyre UK Limited	Daventry	A	0,4
 HANKYU HANSHIN EXPRESS UK LIMITED	Feltham	A	0,4
@@ -5501,7 +5490,6 @@ HANSHOW UK CO., LTD	London	A	0,4
 HANSIKAH STORE LTD	Birmingham	A	0
 HANSIKDOSIROCK LTD	Edinburgh	A	0
 Hanslope Care	Milton Keynes	A	0
-Hansom Cab Limited T/A The Hansom Cab	London	A	0
 Hanson Asset Management Limited	London	A	0,4
 HANSON GREY LTD	London	A	0
 Hanson Investments Limited	Birmingham	A	0
@@ -5987,7 +5975,7 @@ Hartpark Limited	Newport	A	0
 Hartpury University	Gloucester	A	0,3,11
 HARTQUEST LIMITED T/A PARK PHARMACY	Watford	A	0
 Hartree Partners (UK) Limited	London	A	0,4
-Hartrose Associates ltd	Huddersfield	A	0
+Hartrose Associates ltd	Sheffield	A	0
 Harts Group ltd.	Oakham	A	0
 Harts Limited	Macclesfield	A	0
 HARTS LONDON LTD	Surrey	A	0
@@ -6012,6 +6000,7 @@ Harvest Digital Ltd	London	A	0
 Harvest Energy Retail Limited	London	A	0
 Harvest Farms LTD	London	A	0
 Harvest Fishing Company	Peterhead	A	0
+HARVEST GROCERY LTD	London	A	0
 Harvest Land Management Group Ltd	London	A	0
 HARVEST N1 LTD	London	A	0
 Harvest N16 LTD	London	A	0
@@ -6095,6 +6084,7 @@ Hassean Health Limited (Trading As Added Health)	Oxford	A	0
 Hasselblad (UK) Limited	London	A	4
 HASSELL	London	A	0,4
 Hassingham Limited	Hingham	A	0
+HASSL LTD	London	A	0
 Hassle Free Education Ltd	Birmingham	A	0
 Hasstam LTD	Stockport	A	0
 Hasta La Visa, Baby Limited	Barnet	A	0,4
@@ -6225,6 +6215,7 @@ Havering School Wear London LTD	Hornchurch	A	0
 HAVERLAND UK LIMITED	Milton Keynes	A	0
 HAVERSHAM HEALTH LIMITED	Bristol	A	0
 Haverstock 154 Limited	London	A	0
+Havesters care ltd	Portsmouth	A	0
 Havilah Care Ltd	Milton Keynes	A	0
 Havilah Endeavours Ltd	Rotherham	A	0
 Havilah Global Empire Limited	Wolverhampton	A	0
@@ -6302,6 +6293,7 @@ Hayder & Co Ltd	Hertfordshire	A	0
 Haydn Evans Consulting Ltd	Ipswich	A	0
 Haydock Medical Centre	St Helens	A	0
 Haydon Park Lodge Limited	London	A	0
+Haydon Power Ltd	Stourbridge	A	0
 Haydon School	Pinner	A	0
 HAYER FISHERIES LIMITED T/A FORUM FISH SHOP	Billingham	A	0
 Hayer Group Ltd	Leicester	A	0
@@ -6338,6 +6330,7 @@ Haymarket Media Group Limited	Twickenham	A	0
 HAYMILLS HALAL MEATS LIMITED	Birmingham	A	0
 Hayne Solutions Limited	Stratford upon Avon	A	0
 Haynes and Boone CDG LLP	London	A	0,4
+HAYNOTE LIMITED	Hampshire	A	0
 HAYO'U Limited	London	A	0
 HAYPLANET LTD	Southsea	A	0
 Haypp Limited	Milton Keynes	A	0
@@ -6519,7 +6512,7 @@ Headland Consultancy Limited	London	A	0
 Headlands Tech UK Limited	London	A	0,4
 Headlane Ltd	London	A	0
 Headline (England) LLP	London	A	0,4
-Headlong Theatre	Oxford	A	0
+Headlong Theatre	London	A	0
 Headout UK Ltd	London	A	0
 Headroomgate Limited	Lytham St Annes	A	0
 Headspace Meditation Limited	London	A	0,4
@@ -6885,7 +6878,6 @@ Heidrick & Struggles (UK) Ltd	London	A	0,4
 Heilen General Store	Urmston	A	0
 Heim Advisory UK Limited	London	A	0
 Heimdal Ltd	Oxford, Oxfordshire	A	0
-Heimstaden Group UK Ltd	London	A	0,4
 Heineken UK Limited	Edinburgh	A	0,4,7
 Heirs and Graces Private Day Nursery	St. Helens	A	0
 Heitman Financial UK LLC	London	A	0,4
@@ -6914,6 +6906,7 @@ Helio Consulting Ltd	Oxford	A	4,7
 Helio Display Materials Limited	Oxford	A	0
 Heliofidem UK Ltd	Manchester	A	0
 Helios Investment Partners LLP	London	A	0
+HELIOS RENEWABLE ENERGY SOLUTIONS LIMITED	London	A	0
 Helios Technology	Farnborough	A	0
 Helios Towers Group LLP	London	A	0,4
 HELIOSX ENERGY LIMITED	Leamington Spa	A	0
@@ -6922,6 +6915,7 @@ Helitune Ltd	Torrington	A	0
 Heliwork (Services) Limited	Andover	A	0
 Helix Equities Ltd	London	A	0
 HELIX HIRE LTD	London	A	0
+Helix Learning Trust	New Malden	A	0
 Helix Offshore Crewing Services Ltd	Aberdeen	A	0
 Helix Property Advisors Ltd	London	A	0
 Helix Technologies Limited	Abingdon	A	0
@@ -6957,6 +6951,7 @@ Hellon Limited	London	A	0
 HELLOZ LIMITED T/A HELLOZ PHONE SHOP	St. Neots	A	0
 Helly Hansen UK Limited	Nottingham	A	0,4
 Helm 360 Ltd	Bristol	A	0,4
+Helm Care Services	Padiham	A	0
 Helm Great Britain Ltd	London	A	0
 Helmar Care and Community Services Ltd	Kingston upon Thames	A	0
 HELMGUARD TECHNOLOGIES UK LIMITED	London	A	0
@@ -6999,6 +6994,7 @@ HEMESH RETAILERS LTD	Dorking	A	0
 Hemiko Limited	Carlisle	A	0
 Hemingways Marketing Services Ltd	Ripon	A	0
 Hemisphere Cap Ltd	London	A	0
+HEMISPHERE FREIGHT SERVICES LTD	Ipswich	A	0
 Hemmersbach UK Ltd	Basingstoke	A	0
 Hemmo & Co Ltd	Llanferres	A	0
 Hemnit Ltd T/A Food & Wine at Newlands	London	A	0
@@ -7052,6 +7048,7 @@ Henley Investment Management Limited	London	A	0
 Henley Media Group Ltd	London	A	0
 Henley Retail CD Limited	Bristol	A	0
 Henley Retail GC Limited	Brockworth	A	0
+Henley Retail Group Limited	West Bromwich	A	0
 HENLEY RETAIL MG LIMITED	Coventry	A	0
 Henley Retail RL Limited	Rugeley	A	0
 Henley Theatre Services Ltd.	Wallingford	A	0
@@ -7158,12 +7155,12 @@ Heritage Law (Norwich) Limited	Norwich	A	0
 Heritage Leicester Limited	Leicester	A	0
 Heritage Manor Ltd	Worcester	A	0
 Heritage Plastering and Conversions Ltd	Maidstone	A	0
+Heritage Research Limited	London	A	0
 Heritage Staffing Services Limited	Harlow	A	0
 Heritage Trust Network	Birmingham	A	0
 Heritage Vets	Dalkeith	A	0
 Heritage Windows and Kitchens Ltd	Uxbridge	A	0
 Herjavec Group Limited	Reading	A	0,4
-Herman Claude Ltd	Harrow	A	0
 Herman Miller Limited	Melksham	A	0,4
 Hermanos Colombian Coffee Roasters Ltd	Worthing	A	0
 Hermes (GB) Limited	London	A	0
@@ -7438,7 +7435,6 @@ Hickam Healthcare Ltd	Birmingham	A	0
 Hickings Lane Medical Centre	Nottingham	A	0
 Hickleys Limited	Taunton	A	0
 Hickory's Smokehouse Limited	Chester	A	0
-Hicom Technology Limited	Brookwood, woking	A	0
 HICP Limited	Romford	A	0
 HICX Solutions Ltd	London	A	0
 HID Corporation Limited	Cardiff	A	0,4
@@ -7549,7 +7545,7 @@ HIGHBURY POULTRY FARM PRODUCE LIMITED	Oswestry	A	0
 Highclere Stud Limited	Newbury	A	0
 Highcliffe Rest Home	Chorley	A	0
 Highcrest Academy	High wycombe	A	0
-Highcroft Care Home	Weston Super Mare	A	0
+Highcroft Nursing Home	Weston Super Mare	A	0
 Highcroft Surgery	Nottingham	A	0
 HIGHCROSS LAW (LEICESTER) LTD	Leicester	A	0
 Highdecora Furnishing Limited	Greenford	A	0
@@ -7557,7 +7553,6 @@ Highem Limited	Leicester	A	0
 Higher Concept Software Limited	Reading	A	0,4
 Higher Ed Partners Limited	Brighton	A	0
 Higher Health U.K. Limited	Preston	A	0,4
-Higher Healthcare Ltd	Epsom	A	0
 HIGHER JUMP LOGISTICS LTD	Northampton	A	0
 Higher Level Care	London	A	0
 Higher Oak Consulting Limited	London	A	0
@@ -7575,6 +7570,7 @@ HIGHFIELD ROAD OFFLICENCE LTD	Kettering	A	0
 Highfield Surgery	Leicester	A	0
 Highgate Advisory Ltd	London	A	0
 Highgate Care Services (2025) LTD	Bridlington	A	0
+HIGHGATE CARE SERVICES (NORTH) LTD	Bridlington	A	0
 Highgate Care Services (Yorkshire) Limited	Carnaby	A	0
 HIGHGATE CARE SERVICES LTD	Bridlington	A	0
 Highgate Cricket and Lawn Tennis Club	London	A	0
@@ -7840,7 +7836,6 @@ HINDU CULTURAL SOCIETY NORTH WEST KENT	Gravesend	A	1
 Hindu Mandir (Glasgow)	Glasgow	A	1,10
 Hindu Pragati Sangha	London	A	1
 Hindu Religious and Cultural Society Leicester	Leicester	A	10
-Hindu Religious Association	Leamington Spa	A	1,10
 Hindu Samaj Sheffield	Sheffield	A	1
 Hindu Society	London	A	1
 Hindu Swayamsevak Sangh (UK)	Leicester	A	1,9
@@ -7915,6 +7910,7 @@ His Church Charity	York	A	9,10
 His Church London	London	A	1
 HIS CONSULTANTS LTD	Blackburn	A	0
 HIS GRACE STORES LIMITED	Walsall	A	0
+HIS TECH LTD	Middlesbrough	A	0
 Hisamitsu UK Ltd.	London	A	4
 HiSchool Ltd	London	A	0,2
 HisColumn Limited	Barking	A	0
@@ -7926,7 +7922,6 @@ Hispania Global UW Ltd	London	A	0,4,7
 HISPANIA RESTAURANTS LTD	London	A	0
 Hispanic Welfare Association	Southend on Sea	A	9
 HiSpeed Ltd	Bicester	A	0
-HistoCyte Laboratories Ltd	Newcastle	A	0
 Histogrange Limited	Seaford	A	0
 HistologiX Ltd	Nottingham	A	0
 Historic Buildings and Monuments Commission for England (Historic England)	Swindon	A	0
@@ -7967,6 +7962,7 @@ Hive Autonomy UK Limited	London	A	0,4
 Hive Composites Limited	Loughborough	A	0
 HIVE CONTRACTING AND TRADING LTD	London	A	0
 Hive IT Ltd	Sheffield	A	0
+Hive Kensington LTD T/A The Folio Collection	London	A	0
 Hive Learning Limited	London	A	0
 Hive Structure Limited	Theale	A	0
 HIVE4WORK LTD	London	A	0
@@ -8020,6 +8016,7 @@ HKA TRADING AND MARKETING LTD	Ilford	A	0
 HKBSB Limited	Gloucester	A	0
 HKD Food Services Limited	Cardiff	A	0
 HKD Stores Ltd	Cardiff	A	0
+HKES RED LIMITED T/A SUBWAY	Redditch	A	0
 HKES Subs Limited T/A Subway	Birmingham	A	0
 HKFOODHOUSE LTD	Pinner	A	0
 HKHR CONSULTING LIMITED	Langley	A	0
@@ -8191,7 +8188,7 @@ Hoffman & Crew Ltd	Leeds	A	0
 Hoffmann Eitle	London	A	0
 HoffmannGastrock LLP	Brighton	A	0
 HOFSETH UK LTD	Southport	A	0
-Hogan Lovells International LLP	London	A	0,4,7
+Hogan Lovells Cadwalader International LLP	London	A	0,4,7
 Hogg & Son (chemists) Ltd	London	A	0
 Hohner Automation Limited	Wrexham	A	0
 HOIL DENTAL MANUFACTURE SOLUTIONS LTD	Walton-on-Thames	A	0
@@ -8241,7 +8238,7 @@ Holiferm Limited	Wallasey	A	0
 Holistic AI	London	A	0
 Holistic Care 4U Ltd	Doncaster	A	0
 Holistic Community Care Limited	London	A	0
-Holistic Head Health Ltd	London	A	0
+Holistic Head Health Ltd	Gloucester	A	0
 Holistic Health & Support Ltd (T/A Bluebird Care Cambridge)	Ely	A	0
 Holistic Healthcare Cambridge Ltd	Huntingdon	A	0
 Holistic Healthcare Clinics	London	A	0
@@ -8586,7 +8583,6 @@ Homewell Practice	Havant	A	0
 Homewood Delights Limited	Northaw	A	0
 Homewood Rail Ltd	Sevenoaks	A	0
 Homewood Solutions Limited	London	A	0
-Homewood Support Services Ltd	London	A	0
 HOMEWORLD2004 LTD.	London	A	0
 Homey Technology Ltd	London	A	0
 Homie Limited	London	A	0
@@ -8631,8 +8627,9 @@ HONEYPOT AFRICAN FOODS LTD	Bromley	A	0
 Honeypot Dating Ltd t/a Thursday	Oxford	A	0
 Honeypot Medical Centre	Stanmore	A	0
 Honeyrose Products Limited	Ipswich	A	0
+Honeysuckle Home Care Limited	Swindon	A	0
 Honeysys Ltd	Hatfield	A	0
-Honeywell Aerospace UK Co Limited	Redditch	A	0,4
+Honeywell Aerospace UK Co Limited	Berkshire	A	0,4
 Honeywell Construction Limited	London	A	0
 Honeywell Limited	Bracknell	A	0,4
 Honeywood House Nursing Home	Horsham	A	0
@@ -8718,7 +8715,6 @@ Hope Veterinary Surgery	Stoke-on-Trent	A	0
 Hope Vineyard Church Oxford	Oxford	A	0,1,10
 Hope&Glory PR Limited	London	A	0
 HOPE4YOU HOUSING C.I.C.	Enfield	A	0
-Hopealive Outreach Ministries	Northampton	A	1
 Hopefield Grocers Limited	Blackburn, Bathgate	A	0
 Hopeman Baptist Church	Hopeman	A	1
 Hopespark Academy Ltd	London	A	0
@@ -8826,6 +8822,7 @@ Horsford Cricket Club	Norwich	A	11
 Horsford News & Convienience	Norwich	A	0
 HORSFORTH SCHOOL	Leeds	A	0
 Horsham Cricket Club (part of Horsham Sports Club)	Horsham	A	11
+HORSHAM DINING LTD	London	A	0
 Horsham Learning Alliance	Horsham	A	0
 Horsham Montessori Limited	Horsham	A	0
 Horsham Specsavers Hearcare Ltd	Horsham	A	0
@@ -8939,7 +8936,6 @@ Houlder Limited	London	A	0
 HOULIHAN LOKEY UK LIMITED	London	A	0,4
 Houly Ltd	London	A	0
 Hound and Heralds Ltd	Haworth	A	0
-Houndswood House care home	Radlett	A	0
 Hounsdown School	Southampton	A	0
 HOUNSLOW AROMATIC CUISINE LTD	Hounslow	A	0
 Hounslow Arts Centre Ltd.	Hounslow	A	0
@@ -9040,6 +9036,7 @@ Houzecheck Limited	Watford	A	0
 Houzz UK Ltd	London	A	0,4
 Hove Visionplus Limited T/A Specsavers Opticians	Hove	A	0
 Hovedene Hotel Limited	Hove	A	0
+Hover, Inc Ltd	Cambridge	A	0,6
 Hovertravel	Wareham	A	0
 How & How Ltd	London	A	0
 How To Academy Limited	London	A	0
@@ -9185,6 +9182,7 @@ HS Carriers Ltd	West Bromwich	A	0
 HS CARS (YORKSHIRE) LTD	Bradford	A	0
 HS DESIGN LONDON LTD	Brighton	A	0
 HS Energy Service Ltd	London	A	0
+HS Health Group Limited	Boston	A	0
 HS Jackson & Son (Fencing) Ltd	Ashford	A	0
 HS Legal Solicitors LTD	Colchester	A	0
 HS LOTHIAN LTD	Livingston	A	0
@@ -9204,8 +9202,9 @@ HSB Engineering Insurance Ltd	Manchester	A	0,4
 HSB PORTOBELLO LIMITED	Edinburgh	A	0
 HSBC Holdings plc	London	A	0,4,7
 HSBF LTD	Enfield	A	0
+HSCALE Limited	London	A	0
 HSE Shield Ltd	Wigan	A	0
-HSF LONDON LTD	London	A	0,4
+HSF LONDON LTD	London	A	0
 HSG Advisors (UK) Limited	London	A	0,2
 HSH2 LTD	Croydon	A	0
 HSI GLOBAL LTD	Glasgow,	A	0
@@ -9234,7 +9233,7 @@ HSS Trading Ltd	Mitcham	A	0
 HSSE Solutions Limited	London	A	0
 HSSMI Consulting Limited	London	A	0
 HSSSG SERVICES LTD	Birmingham	A	0
-HSVP LTD	Liversedge	A	0
+HSVP LTD	Cleckheaton	A	0
 HSYE Limited	Macclesfield	A	0
 HSZ CAKE STUDIO LTD	Dunfermline	A	0
 Hsz Foods Ltd	Wrexham	A	0
@@ -9352,6 +9351,7 @@ HUFFAZ TRAVEL EXCHANGE LTD	Horley	A	0
 Huge UK Limited	London	A	0,4
 HUGEBINARY LTD	London	A	0
 Huggard	Cardiff	A	0
+Hugh and Liam McQuaid T/A Humac Engineering	Omagh	A	0
 Hugh Baird College	Liverpool	A	0
 HUGH CARTWRIGHT & AMIN	London	A	0
 Hugh James	Cardiff	A	0
@@ -9363,7 +9363,7 @@ Hughes Hall	Cambridge	A	0
 Hughes Property Partners Limited	Richmond, London	A	0
 Hughes Safety Showers Ltd	Stockport	A	0
 Hughes Steel Fabrication Ltd	Magherafelt	A	0
-HUGHES SYSTIQUE PRIVATE LTD	High Wycombe	A	0,4
+Hughes Systique Private Limited	Reading	A	0,4
 HUGO BOSS UK Ltd	London	A	0,4
 Hugo Harrison Limited	London	A	0
 Hugo Technologies Limited	Bromley	A	0
@@ -9633,6 +9633,7 @@ HV SALES LIMITED	Wembley	A	0
 HV TESTY BITES LTD	Netherton	A	0
 hVIVO Services Ltd	London	A	0
 HVL PHARMA UK LTD	Haverhill	A	0,4
+HVL Solutions Limited	Pinxton	A	0
 HVP Retail Limited	Romford	A	0
 HVS Europe Ltd.	London	A	0
 HW Bedford Limited	Kempston,	A	0
@@ -9737,6 +9738,7 @@ Hydrosphere UK Ltd	Hampshire	A	0
 HydroStar Europe Ltd	Exeter	A	0
 HydroSurv Unmanned Survey Uk Ltd	Exeter	A	0
 Hydrotec (UK) Limited	High Wycombe	A	0
+HYDROTECH PIPING SYSTEMS LTD	London	A	0
 Hydrotechnik Test Engineering UK Ltd	Nottingham	A	0
 Hydrowing Ltd	Penryn	A	0
 HYDSOFT (UK) LTD	London	A	0
@@ -9826,6 +9828,7 @@ I & H Sumra Ltd t/a West End Tandoori	Southampton	A	0
 I AM THE HOGAN LIMITED	London	A	0
 I H Foods Limited	Southall, Middlesex	A	0
 I HUB TRADING LIMITED	Clevedon	A	0
+I Hussain & Associates	Nuneaton	A	0
 i5 Solutions Global Holdings UK Limited	Manchester	A	0
 IA HARRIS & SON LIMITED	London	A	0
 Ian Howard Schoolwear (2015)	London	A	0
@@ -9890,6 +9893,7 @@ Imperial College Healthcare NHS Trust	London	A	0
 Imperial College London (HR)	London	A	0,12
 IMPERIAL HOME IMPROVEMENT LTD	Newark	A	0
 IMPERIAL HOMEWARE LONDON LIMITED	Birmingham	A	0
+Imperial Hospitality Management Limited	Milton Keynes	A	0
 IMPERIAL HOUSE BANQUETING LTD	Croydon	A	0
 Imperial London Hotels Group Limited	London	A	0
 Imperial Midlands Ltd T/A Ashefields Residential Home	Derby	A	0
@@ -9921,6 +9925,7 @@ Inex HomeCare (Scotland) Limited	Glasgow	A	0
 Infinigate Hld UK Limited	London	A	0
 INFINITE HEALTHCARE SERVICES LTD	Chelmsford	A	0
 Infiniti Healthcare Ltd	Pontprennau	A	0
+Infinitystay Ltd t/a Manor Hotel	Exmouth	A	0
 Inflata Huddersfield Limited	Huddersfield	A	0
 INFORM HEALTH LIMITED	Skegness	A	0
 Inform Holdings Ltd	Manchester	A	0
@@ -9994,7 +9999,6 @@ IQBAL HALAL MEAT LTD	Watford	A	0
 IQRA HELP FOUNDATION	London	A	0
 Ireland Wood and Horsforth Medical Practice	Leeds	A	0
 Irish Hospitality Ltd t/a The George Inn	Bristol	A	0
-Ironbridge Holdings Limited	London	A	0
 Ironhall Hospitality (Bradford)	Preston	A	0
 IRVINE TRADE HUB LTD T/A Londis	Irvine	A	0
 Irvinestown Health Centre	Irvinestown	A	0
@@ -10112,7 +10116,6 @@ JAVI HEALTHCARE LTD	London	A	0
 Jay Devi Forest LTD T/A Ormonde House Hotel	Lyndhurst	A	0
 Jay Hanuman CS Ltd	Edgware	A	0
 JAY MATAJI LIMITED T/A HILLFIELD NEWSAGENTS	Morden	A	0
-Jayan Hospitality Ltd	London	A	0
 JAYASHRI PONNUSAMI T/A HEATH SIDE STORES	Petersfield	A	0
 Jaykishan Lostock Hall Limited	Lostock Hall	A	0
 Jays Homecare Ltd	Enfield	A	0
@@ -10219,7 +10222,7 @@ Jubilee Care Home Limited	Rotherham	A	0
 Jubilee Court Care Home	Coseley	A	0
 Jubilee Hair LTD	London	A	0
 Jubilee Healthcare	Coventry	A	0
-Juga Homes Ltd	Bromley	B	0
+Juga Homes Ltd	Bromley	A	0
 Jugnoo Cloth House Ltd	Accrington	A	0
 Julian House	Bath	A	0
 July VII Limited t/a Wykenhurst Residential Home	Hereford	A	0
@@ -10392,7 +10395,6 @@ Khans Balti House	Doncaster	A	0
 KHARIS HEALTHCARE LIMITED	Nottingham	A	0
 Khurana Food And Drinks Limited T/A Heathfield Supermarket	Birmingham	A	0
 Khushi Holding Ltd	Coventry	A	0
-Ki Hydrogen Ltd	London	A	0
 Kian Hall Polo Ltd	Hassocks	A	11
 Kiang Nan Holdings Ltd	Fareham	A	0
 Kier Highways Limited	Salford	A	0
@@ -10418,6 +10420,7 @@ King Harold Academy	Waltham Abbey	A	0
 King Harolds Head	Waltham Abbey	A	0
 King Solomon High School	Ilford	A	0
 King's College Hospital Charity	London	A	0
+KINGDOM CARE CHILDREN HOME LTD	Woodford Green	A	0
 Kingdom Health Limited	Manchester	A	0
 Kingdom Health Limited	Shrewsbury	A	0
 Kingdom Healthcare Ltd	Downpatrick	A	0
@@ -10510,7 +10513,6 @@ KPTRS Investments Holding Ltd	London	A	0
 KRG Care Homes Ltd	Middlesex	A	0
 KRG Care Limited Trading as Prime Home Care	Harrow	A	0
 Kristal South Ltd - Beaufort House	Sandown	A	0
-KRO Hotels Manchester M2 Ltd t/a Asha's Restaurant	Manchester	A	0
 KRO HOTELS PRESTON LTD	Manchester	A	0
 KRUSHNA HEALTHCARE LIMITED	Worthng	A	0
 KSD HAULAGE LTD	Leicester	A	0
@@ -10634,7 +10636,7 @@ Layden Court Care Home	Rotherham	A	0
 Lazy Hill Tavern Ltd	Walsall	A	0
 LCMB Therahealth Homecare Ltd	Bourne	A	0
 LCMB THERAHEALTH HOMECARE LTD	Lincolnshire	A	0
-LDN Horticulture Ltd	Braintree	A	0
+LDN Horticulture Ltd	Croydon	A	0
 Le Hart Ltd	Ilford	A	0
 Le Host Limited TA Stone House Hotel	Stone	A	0
 Le Pont Ltd T/A The Fox & Hounds	Egham	A	0
@@ -10730,7 +10732,6 @@ LIGHTNING HEALTH LTD	London	A	0
 Lightwork Holding Ltd	London	A	0
 Likezero Holdings Limited	Edinburgh	A	0
 LILIA HEALTHCARE LIMITED	Ruislip	A	0
-Lilies Home Care	Bradford	A	0
 LILIES24 HEALTHCARE LTD	Rotherham	A	0
 Lillibet Healthcare Limited	Bedford	A	0
 Lillibet Healthcare2 Limited	Bedford	A	0
@@ -10829,6 +10830,7 @@ LNS Health Care Limited	Peterborough	A	0
 Loca Hbh Ltd	Radlett	A	0
 Local Homecare	Leeds	A	0
 LOCAL TOOL HIRE LIMITED	London	A	0
+Loch Leven Hotels Limited TAs Loch Leven Hotel	Inverness	A	0
 Loch Torridon Hotel Limited	Achnasheen	A	0
 LOCHABER HOTELS LIMITED t/a MOORINGS HOTEL	Fort William	A	0
 LOCHGILPHEAD CURRY HOUSE LTD	Argyll	A	0
@@ -10838,6 +10840,7 @@ LOCUS HACKNEY LTD	London	A	0
 Loddon Healthcare Ltd	Slough	A	0
 Lodge Lane Care Home LTD	Harrow	A	0
 Loewe Hermanos (UK) Limited	London	A	0
+LOG H NETWORK LIMITED	Southend-on-Sea	A	0
 LOGINI CASTLEFORD CARE HOME LTD	Pontefract	A	0
 Logini Croft Ltd T/A The Croft Care Home	Ilford	A	0
 Logini Hollies Care Home Ltd T/A The Hollies	Wakefield	A	0
@@ -10990,6 +10993,7 @@ Lyndell House Nursing Home	Swansea	A	0
 Lynden Hill Clinic	Reading	A	0
 Lyndhurst Park Nursing & Residential Care Home	Weston Super Mare	A	0
 Lyndhurst Rest Home	Whitstable	A	0
+LYNNE CHAPMAN REPRODUCTIVE HEALTH (LCRH) LTD	London	A	0
 Lynwood Healthcare Ltd	Kilingworth	A	0
 Lyons Holiday Parks Ltd	Rhyl	A	0
 Lyons+Sleeman+Hoare Limited	Hartley Wintney	A	0
@@ -11102,9 +11106,9 @@ Mak Halal Walsall Ltd	Walsall	A	0
 Make Honey Ltd	London	A	0
 Makeney Hall Hotel Ltd T/A Makeney Hall Hotel	Belper	A	0
 Malawi High Commission	London	A	5
-Malay Home Limited t/a Malay Malay Home	Salford	A	0
 Malhi Haulage Limited	Belvedere	A	0
 MALHOTRA CARE HOMES LIMITED	Newcastle	A	0
+Malhotra Family Holdings Limited	Newcastle upon Tyne	A	0
 Malik Halls 2 Ltd	Bradford	A	0
 Malkuwth Home Care Ltd	High Wycombe	A	0
 Malling Health UK Limited	Fareham	A	0
@@ -11141,7 +11145,7 @@ MANN+HUMMEL (UK) Ltd	Wolverhampton	A	0,4,7
 Manna Housing Group Limited	London	A	0
 Manor Care Home	Middlewich	A	0
 Manor Care Home Group	Birtley	A	0
-Manor Care Homes Ltd	Margate	A	0
+Manor Care Homes Ltd	Ramsgate	A	0
 Manor Healthcare Limited	Ballyclare	A	0
 Manor Homes Poulton Ltd. T/A Cleveleys Nursing Home	Thornton Cleveleys	A	0
 Manor House Country Hotel Limited	Co.Fermanagh	A	0
@@ -11389,9 +11393,7 @@ Meridian Investment Group Limited t/a Invicta Hotel	Plymouth	A	0
 Meridian Media Holdings Limited	London	A	0
 Meridian Peoples Holdings Limited	London	A	0
 Merit HealthCare Ltd	Royal Wooton Basset	A	0
-Merit Homes Ltd	Bangor	A	0
 Merith House Hotel	Edinburgh	A	0
-Meritor Heavy Vehicle Braking Systems (UK) Limited	Cwmbran	A	0,4
 Merkur Casino Holdings UK Limited	Milton Keynes	A	0,4
 Merline Healthcare Ltd	Pudsey	A	0
 Merriman Grange Care Home	Worthing	A	0
@@ -11455,6 +11457,7 @@ Midshires Healthcare Limited	Riddings	A	0
 Midsummer House Restaurants LLP	Cambridge	A	0
 MIDWAY HALAL FOOD STORE LIMITED	Rusholme	A	0
 Mifadelo Global Religion Law and Health Found Ltd	London	A	0,1,9,10
+MIG House residential care home Limited	London	B	0
 Mighty Health Care Limited	Cardiff	A	0
 Mike Pownall Ltd Broughton House Care Home	Liverpool	A	0
 Mildmay Mission Hospital	London	A	0
@@ -11530,7 +11533,6 @@ MJS Patel T/AS Hillton Dentistry	Sittingbourne	A	0
 MK Dosa Corner (Halal) Ltd	Milton Keynes	A	0
 MK EURO HALAL LTD	Milton Keynes	A	0
 MK Health Care Services Ltd	Bolton	A	0
-MK HOSPITALITY & CATERING LIMITED	Milton Keynes	A	0
 MKC Hospitality Ltd	London	A	0
 MKD HOLDINGS LIMITED	Egham	A	0
 MKG Hertfordshire Limited t/a Fix Auto Stevenage	Stevenage	A	0
@@ -11744,7 +11746,7 @@ MS WENDY PRINCE-BROWN, LEE ANDERSON T/A SYTDAIYL HOMES	Birmingham	A	0
 MSB HOUSING LIMITED	Birmingham	A	0
 MSF Hair and Cosmetics Ltd	London	A	0
 MSG Gas & Heating Solutions Ltd	Amersham	A	0
-MSH Healthcare LTD	Barrow In Furness	A	0
+MSH Healthcare LTD	Ulverston	A	0
 MSK Healthcare Ltd	Nottingham	A	0
 MSM HEALTHCARE LIMITED	Clacton On Sea	A	0
 MSPC Limited T/A Giant Health Care Services	Corby	A	0
@@ -11771,6 +11773,7 @@ MUMU'S TINEY HOME NURSERY LIMITED	Ilford	A	0
 Munir Bros Halal poultry Ltd	Birmingham	A	0
 Munshi's Halal (Dewsbury) Limited	Dewsbury	A	0
 Munster Holdings Limited	London	A	0
+Muntham House School	Horsham	A	0
 Murlough House	Newcastle	A	9
 Murphy's Hair and Beauty Ltd	London	A	0
 Murray Home Care Ltd	Preston	A	0
@@ -11816,9 +11819,11 @@ N H LETTING & MANAGEMENT LTD	Ilford	A	0
 N+P Hartlepool MRF	Hartlepool	A	0
 N12 Health Ltd t/a N12 Health	London	A	0
 N3 Hospitality Management Ltd	Hampshire	A	0
+N5 Music Holdings Ltd	London	A	0
 N8 Health Ltd	Hitchin	A	0
 NA SS CARE LIMITED t/as HADLEY HOUSE NURSING HOME	Middlesex	A	0
 NAAN HOUSE LTD	London	A	0
+NAAN STAAP (HARROW) LTD	Harrow	A	0
 Naan Staap (Harrow) Ltd T/A Naan Staap	Harrow	A	0
 NAAT Healthcare Ltd t\a Sheffield Late Night Pharmacy	Sheffield	A	0
 NABEEL HMC HALAL MEAT SUPPLIER LIMITED	London	A	0
@@ -11946,7 +11951,7 @@ NEW HOPE ACUPUNCTURE AND HERB MEDIC CENTRE LTD	London	A	0
 New Hope Christian Church	Sheffield	A	1,10
 NEW HOPE COMMUNITY HEALTHCARE LIMITED	Stevenage	A	0
 New Hope Fellowship Church Manchester	Manchester	A	1,9
-NEW HORIZON CARE HOME LTD	Hayes	A	0
+NEW HORIZON CARE HOME LTD	Uxbridge	A	0
 New Horizon Global Advisory Ltd	London	A	0
 New Horizon Homecare Limited	Croydon	A	0
 NEW HORIZON PLASTICS CO LTD	Birmingham	A	0
@@ -11972,6 +11977,7 @@ NEW LEAF HOUSING LTD	Birmingham	A	0
 New Linden Hotel Limited	London	A	0
 New Lobo Hair And Cosmetics Ltd	Enfield	A	0
 NEW NOODLE HOUSE LTD T/A NOODLE HOUSE	Leeds	A	0
+New north health centre	London	A	0
 New Outlook Housing Association Limited	Birmingham	A	0
 NEW PAK HALAL LTD	London	A	0
 NEW RITZ HERBALS LIMITED	Southall	A	0
@@ -12272,6 +12278,7 @@ Oasis Hotels Ltd	London	A	0
 Oatlands Park Hotel	Weybridge	A	0
 OB Capital Limited t/as Hyde	London	A	0
 OB UK Holdings Limited	Bromley	A	0,4
+Obee Ltd T/A Bliss Care Home	Southend-On-Sea	A	0
 OBLIQUE BEAUTY HOUSE LIMITED	London	A	0
 OBS Hotel Limited	London	A	0
 Obsidian Healthcare Group	Milton Keynes	A	0
@@ -12323,7 +12330,6 @@ Oliver House Kirk Hallam Ltd	Ilkeston	A	0
 Oliver James Homes Ltd	Guildford	A	0
 Olives Healthcare Services Ltd	Welling	A	0
 OLIVIAN HOMES LTD	Epsom	A	0
-Ollie's House Limited	London	A	0
 OLUTO UK HOLDINGS LIMITED	Canterbury	A	0
 Olympia Emberton Hotel Limited t/a Hyatt Regency London Olympia	London	A	0
 Om Haan Limited T/A Goa Indian Takeaway	Southampton	A	0
@@ -12350,7 +12356,6 @@ ONE HOME MINIMART LTD	Manchester	A	0
 ONE HOME STORE LTD	Wednesbury	A	0
 One Hotel Limited	Swansea	A	0
 One House Artists Limited	London	A	0,3
-One Life Health Support Ltd t/a Caremark Surrey Heath & Rushmoor	Farnborough	A	0
 One Stop Halal Meat Centre Limited TA One Stop Halal Meat Centre	Birmingham	A	0
 One Stop Healthcare	Hemel Hempstead	A	0
 ONECARE HAMPSHIRE LIMITED	Southampton	A	0
@@ -12415,7 +12420,6 @@ Orchard Views Residential Care Home	Barnsley	A	0
 Orchid Care Homes Limited t/a Springfield Care Home	March	A	0
 Orchid Home Care Support Limited	Bolton	A	0
 Orchid House Surgery	Ferndown	A	0
-Orchid Woodlands Healthcare Ltd	Manchester	A	0
 Order of the Most Holy saviour of St. Bridget	Iver Heath	A	1
 Org Health Limited	Norwich	A	0
 Organise Platform HQ Ltd	London	A	0
@@ -12430,6 +12434,7 @@ Orion Health Limited	London	A	0
 Orion Healthcare Ltd	Culford, Bury St Edmunds	A	0
 ORION HEALTHCARE SOLUTIONS LTD	Birmingham	A	0
 Orion Incorporation Ltd T/A halalworld	Birmingham	A	0
+Orla Homes Ltd t/a St Brelades Retirement Homes	Herne Bay, Kent	A	0
 Orme View Care Home Limited	Llandudno	A	0
 ORMONDE HOUSE CAPITAL LTD	London	A	0,4
 Orpington Specsavers Hearcare Ltd	Orpington	A	0
@@ -12473,7 +12478,9 @@ Oxford House College Training Limited	London	A	0
 Oxford House Community Care	Farnham Royal	A	0
 Oxford House Veterinary Clinic Ltd	Tonypandy	A	0
 Oxford HR	Oxford	A	0
+Oxford Human Capital Incorporated Ltd	Faringdon	A	0
 Oxford University Hospitals NHS Trust	Oxford	A	0
+Oxo Hire Limited	Oxford	A	0
 Oxted House Limited	Oxted, Surrey	A	0
 Oxygen House	Exeter	A	0
 OYO Technology and Hospitality (UK) Ltd	London	A	0,4
@@ -12540,6 +12547,7 @@ Paradise Hope Ltd	Leicester	A	0
 Paradise Hospitality Services Limited T/A Belvoir Hotel	Notttinghamshire	A	0
 Paradise Lodge Care Home Ltd	Chelmsford	A	0
 Paragon Healthcare York Limited	Pocklington	A	0
+Paragon Home Healthcare Ltd	Richmond	A	0
 Paramount24 Healthcare Limited	Sheffield	A	0
 Pareesay Holdings Limited T/A The Bombay Social	Esher	A	0
 Parenting for Lifelong Health	Oxford	A	0,9
@@ -12605,6 +12613,7 @@ Paul Hastings (Europe) LLP	London	A	0,4
 PAV Haulage Limited	Stanford-Le-Hope	A	0
 PAVILION PROPERTY HOLDINGS LTD	Wilmslow	A	0
 Paws & Co Pet Health Ltd	Wakefield	A	0
+Paxigate Healthcare Limited	St Neots	A	0
 PAXTON HALL CARE LTD T/A Paxton Hall Care Home	St Neots	A	0
 PayProp Holdings Limited	London	A	0,4
 Paysafe Holdings UK Limited	London	A	0
@@ -12707,7 +12716,6 @@ Pheonix Healthcare LTD	High Wycombe	A	0
 Philip Hughes Associates LLP	Wincanton	A	0
 Philip James Harrison Holt T/A Harrison Holt	York	A	0
 philip parkinson homecare Ltd	Newcastle upon Tyne	A	0
-PHILLIPS1924 HOMECARE SERVICES LTD	Woolwich	A	0
 PHOENIX CARE HAVERING LIMITED	Romford	A	0
 Phoenix Care Homes Limited	Broadstairs	A	0
 Phoenix Children's Homes Limited	Tiverton	A	0
@@ -12800,7 +12808,6 @@ Pneuma Healthcare Limited	Derry	A	0
 PNP CARE HOME LTD	Blackpool	A	0
 Pocket Sized Hands	Dundee	A	0
 Poclain Hydraulics Limited	Oundle	A	4
-POD HAULAGE LIMITED	Wembley	A	0
 POISE HAIR AND BEAUTY FULHAM LTD	London	A	0
 Poise Healthcare Limited	Banbury	A	0
 POLARPLUS HEALTHCARE LTD	Halifax	A	0
@@ -12970,8 +12977,10 @@ Proctor & Hobbs Limited	Bradford	A	0
 PROCTOR RESIDENTIAL CARE HOME	Bristol	A	0
 Procure Plus Holdings Limited	Manchester	A	0
 Prodrive Holding Limited	Banbury	A	0,11
+Product Care Hub Limited	Wigan	A	0
 Product Service Health (PSH) Ltd	Croydon	A	0
 Producta Enterprises Ltd T/A Haute Dolci Perth	Perth	A	0
+PROFESSIONAL HEALTH AND CARE SERVICES LTD	Leeds	A	0
 Professional Healthcare Services Limited	Northampton	A	0
 Professional Healthcare UK Ltd	London	A	0
 Professional Home Care Ltd	Woodstock	A	0
@@ -12992,7 +13001,6 @@ Prospect Tree Healthcare	Wolverhampton	A	0
 Prosperity Housing Group Limited T/A Paula's House	Smethwick	A	0
 Prosperity Plus Healthcare Limited	Altrincham	A	0
 ProSports Cars t/a Hull Seahawks Ltd	Hull	A	11
-Protea Care Homes (Kent) Ltd	Coventry	A	0
 Prova Health Limited	Bermondsey	A	0
 Proven Project (District Heating) Ltd	London	A	0
 PROVENANCE HOTELS LIMITED	Wetherby	A	0
@@ -13346,7 +13354,6 @@ REPAIR HUB BELFAST LIMITED	Belfast	A	0
 Reproductive Health Group	Warrington	A	0,4
 Res Healthcare Ltd	Manchester	A	0
 Rescue Haulage Limited	Coalville	A	0
-Resident Hotels Limited	London	A	0
 Resilient Healthcare Limited	Northfleet	A	0
 ResoLex (Holdings) Limited	London	A	0
 Responsible Home Carers Limited	London	A	0
@@ -13369,6 +13376,7 @@ Revvity (UK) Holdings Limited	Llantrisant	A	0,4
 Rew Hotels Ltd	Torquay	A	0
 Rewire Holding Ltd	London	A	0
 REYMC 247 (PVT) LIMITED t/a Royal Care Health Recruitment & Training	Worksop	A	0
+Reynard High Voltage Solutions	Cheltenham	A	0
 REZIN HONAR LTD	Ilford	P	2
 RG CARE HOMES LIMITED	Surrey	A	0
 RG Hotels UK Ltd	London	A	0,4
@@ -13429,7 +13437,6 @@ Right Home Estates Limited	Wembley	A	0
 Right Hook Studio Ltd	Spennymoor	A	0
 Right Kare Ltd T/A Right at Home Maidenhead	Maidenhead	A	0
 Rightdose Healthcare Limited	Glasgow	A	0
-Riley & Riley T/A The Queens Head	Farnham	A	0
 Ringmer Healthcare ltd	Lewes	A	0
 Ringstead Healthcare Ltd	Abingdon	A	0
 Risca House Limited	Newport	A	0
@@ -13471,8 +13478,8 @@ RM365 Holdings Ltd	Birmingham	A	0
 RMA Home Ware Ltd	Essex	A	0
 RMA Hospitality Ltd T/A Ruthvika Spices & Kitchen	North Ferriby	A	0
 RNJ HOMECARE LIMITED	Milton Keynes	A	0
+Ro Ho London Limited	Ipswich	A	0
 ROAD JET PRIVATE HIRE LTD	St. Ives	A	0
-Road Life Health Care Limited	Rotherham	A	0
 Roadster California Ltd T/A Hanrue	London	A	0
 Roadzen Holdings (UK) Limited	Coventry	A	0
 ROB HOUSE TAKEAWAY LIMITED T/AS PRITI INDIAN TAKEAWAY	Brighton	A	0
@@ -13528,13 +13535,10 @@ ROOSTER HOUSE INTERIOR LTD	Nottingham	A	0
 ROOSTERS HUB LTD	London	A	0
 Rooted Health and Social Care Ltd	Bromley	A	0
 Roots & Heritage Ltd	Belvedere	A	0
-ROS AND MOS HOUSE SUPPORT LTD	Pitsea Basildon	A	0
 Rosag Healthcare Services UK Limited	Kent	A	0
 Rosclare Residential Home Limited	Surrey	A	0
 ROSE BEAUTY HUB LIMITED	Bexleyheath	A	0
 Rose Gold Health Fulwood Limited	Preston	A	0
-Rose Healthcare Services Ltd Ltd	Oldham	A	0
-Rose Lodge Care Home (Lisburn) Ltd	Lisburn	A	0
 Rosebank Care Home	Southport	A	0
 Rosebank Health	Gloucester	A	0
 Rosebud Healthcare Services Ltd	Grays	A	0
@@ -13551,7 +13555,7 @@ Rosemede Homes Limited	London	A	0
 Roses healthcare Ltd	Northampton	A	0
 Roses Homecare Ltd	Luton	A	0
 Rosevilla Care Home Stafford Limited	Stafford	A	0
-Rosewood & Brook House Ltd	Somerset	A	0
+Rosewood & Brook House Ltd	Somerset	B	0
 Roshini Care Home Ltd	Southall	A	0
 ROSHON BANQUETING HALL LIMITED TA Roshon Banqueting	Birmingham	A	0
 ROSINANTE PROPERTY HOLDINGS LIMITED	Ilford,	A	0
@@ -13801,7 +13805,6 @@ SANDBOURNE HOUSE LTD	Bournemouth	A	0
 SANDHURST REST HOME LTD t/a SANDHURST REST HOME	Bexhill-On-Sea	A	0
 Sandleford Holdings (UK) Ltd	London	A	0,4
 Sandown Nursing Home LLP	Sandown	A	0
-SANDSTONE CARE (MUCH HOOLE) LIMITED	Isle Of Man	A	0
 Sandton Healthcare Limited	Stevenage	A	0
 Sandvik Holdings Limited	Halesowen	A	0,4
 SANDWELL AND WEST BIRMINGHAM HOSPITALS NHS TRUST	West Bromwich	A	0
@@ -13846,7 +13849,6 @@ Savannah Home Care Services Ltd	Belvedere	A	0
 Savera Heathrow Hotel Ltd	South Ruislip	A	0
 Savetime Haulage Ltd	West Drayton	A	0
 SAVI Technology Ltd t/a Heavenly Desserts	Sheffield	A	0
-Savoy Care Home Limited T/A Maryland Care Home	Liverpool	A	0
 Savoy Park Hotel Management Limited	Ayr	A	0
 Sawa Hospitality Limited	London	A	0
 Saxon Healthcare LTD	Ilford, London	A	0
@@ -13855,6 +13857,7 @@ Saxton Bampfylde Hever Limited	London	A	0
 Say Opal Healthcare Ltd	Northampton	A	0
 SAYLAAB GROUP YK HEALTH CARE LIMITED	Haslingden	A	0
 Saz Gas & Heating Services ltd	Luton	A	0
+Sazy Capital Holdings Limited	London	A	0
 SB Construction (Herts) Ltd	Wixams	A	0
 SB GROUP HOLDINGS LIMITED	Ipswich	A	0
 SB Heritage Ltd.	Bristol	A	0
@@ -13919,7 +13922,6 @@ secure healthcare Limited	Wolverhampton	A	0
 Security and Homeworks LIMITED	Birmingham	A	0
 Sedbergh Hotel Enterprises Limited (The Black Bull)	Sedbergh	A	0
 Seed Healthcare Services Ltd	Manchester	A	0
-Seeds Healthcare Ltd	Leeds	A	0
 Seemed Healthcare Limited	Oldham	A	0
 Seerah Limited T/A Heavenly Desserts Canterbury	Canterbury	A	0
 SEFP LTD Trading as Kent Horse Producers	Kent	A	0
@@ -13959,9 +13961,9 @@ Serve Homecare Ltd	Stevenage	A	0
 Servicom (High Tech) Limited	Redditch	A	0
 SERVICOM (HIGH TECH) LIMITED	Worcestershire	A	0
 SES Care Homes Ltd	West Molesey	A	0
+Seth Homes Ltd T/as Stoneacre Lodge Care Home	Doncaster	A	0
 SETH'S HEALTHCARE LIMITED	Leeds	A	0
 SETI HOLDINGS LIMITED	Tunbridge Wells	A	0
-Seure Glaze UK Home Improvements LTD T/A Secure Glaze Group UK	Birmingham	A	0
 Seva Education, Health & Care Ltd	London	A	0
 Sevaline Carehomes Limited t/a Heaton House Care Home	Bolton	A	0
 SEVCAN HEALTH TOURISM CONSULTANCY LTD	Liverpool	A	0
@@ -14031,7 +14033,7 @@ Sharnbrook Care Home Limited T/A Sharnbrook Lodge	Dunstable	A	0
 Sharoot Limited T/A Orchard Lodge Nursing Home	Tilsworth	A	0
 Sharp Catering Hotels Ltd	Luton	A	0
 Sharp Drive Heavy and Light Transport UK Ltd	Nelson	A	2
-Sharp Hawk UK Limited	Manchester	A	0
+SHARPER LABS HR AND LEGAL CONSULTANCY LTD	St. Albans	A	0
 Shauna Healthcare Service Solutions Ltd	Dorchester	A	0
 Shaw Healthcare (Group) Ltd	Cardiff	A	0
 SHAWS ( HUDDERSFIELD ) LTD	Huddersfield	A	0
@@ -14076,7 +14078,6 @@ Shiloh Healthcare Services Ltd	Allenton	A	0
 Shin-Etsu Handotai Europe Limited	Livingston	A	0,4
 Shine Hair Salon	Coventry	A	0
 Shine Health Care Solutions	Paignton	A	0
-Shining Eyes Ltd t/a Baroque Hair and Nails	London	A	0
 Shipley Central private Hire Drivers Limited T/A Arrival Private Hire	Shipley	A	0
 Shipquay Hotel Ltd	Londonderry	A	0
 Shipston High School	Shipston on Stour	A	0
@@ -14156,7 +14157,6 @@ Silverburn Care Home	Glasgow	A	0
 Silvercrest Care Homes Limited	Bridgend	A	0
 Silvercrown Care Homes (Swansea) Limited	Swansea	A	0
 Silverdale Care Home	Castlederg	A	0
-SILVERDALE CARE HOMES LIMITED	Newcastle Under Lyme	A	0
 Silverleaf Care Homes Ltd	Hythe	A	0
 Silvermere Healthcare Services Limited	London	A	0
 Silveroak Housing Ltd	Birmingham	A	0
@@ -14191,6 +14191,7 @@ Siraj Curry House Ltd	Bolton	A	0
 SIRE HOLDINGS LIMITED	London	A	0
 SIRI HEALTH CARE SOLUTIONS LTD	Ilford	A	0
 Sirona care & health	Yate	A	0
+Sisters For Life (SFL) Healthcare Ltd	Chester	A	0
 Sisters Hospitallers of the Sacred Heart of Jesus CIO	London	A	0,1,10
 Sisters of the Holy Family of Bordeaux	London	A	0,1,9,10
 Sisters of the Sacred Hearts of Jesus and Mary CIO	Woodford Bridge	A	1,10
@@ -14229,7 +14230,6 @@ SLG HALAI LTD	Wigan	A	0
 Slice of Heaven Ltd t/a Sabeez	Plymouth	A	0
 Sloane Square Hotel	London	A	0
 SLR Care Homes Ltd	Kent	A	0
-SM Homecare Services Ltd	Coventry	A	0
 SM24 HEALTHCARE LTD	Newcastle Upon Tyne	A	0
 SMACKS HAMBURGERS FRANCHISE LTD	Croydon	A	0
 SMACKS HAMBURGERS LIMITED	London	A	0
@@ -14245,7 +14245,7 @@ SMART HAIR INTL LIMITED	Chadwelll St Mary,	A	0
 SMART HEALTHCARE & DIAGNOSTICS LTD	Keighley	A	0
 Smart Heating Maintenance Limited	London	A	0
 Smart Home Design and Construction Ltd	London	A	0
-Smart Home Visits Ltd	Harrogate	A	0
+Smart Home Visits Ltd	Rotherham	A	0
 SMART HOST GROUP LTD	London	A	0
 SMART MOVE SUPPORTED HOUSING LTD T/A SMART MOVE	Birmingham	A	0
 Smart plumbing and heating ltd	Bristol	A	0
@@ -14296,7 +14296,6 @@ SOLAR UK HOLDCO LIMITED	London	A	0,4
 Solarpro Holding PLC	London	A	0,4,8
 SOLDEN HILL HOUSE LIMITED	Daventry	A	0
 Solent Cliffs Nursing Home Limited	Fareham	A	0
-Solent Healthcare Ltd T/A Poplars care home	Bassett, Southampton	A	0
 Solice Health Ltd	London	A	0
 Solicitude Homes Limited	Uxbridge	A	0
 Solid Healthcare Ltd	Nottingham	A	0
@@ -14619,7 +14618,6 @@ Stapleton House Ltd	Jarrow	A	0
 STAR BUILDING AND HEATING SOLUTIONS LTD	Burton-On-Trent	A	0
 STAR HEATON LIMITED	Essex	A	0
 Star Holidays (UK) Ltd	London	A	0
-Star Private Hire Staffs Ltd	Stoke-on-Trent	A	0
 Star Residential Home Ltd	West Molesey	A	0
 STAR SRI UK LTD T/A Cumberland Court Care Home	St Leonards On Sea	A	0
 STARA HALAL MEAT LTD	Birmingham	A	0
@@ -14677,7 +14675,6 @@ Stone Harbor Services (UK) Ltd	London	A	0,4
 Stone House Care and Medical Limited	Kidderminster	A	0
 Stone House Home Limited	Aylesbury	A	0
 Stone House Hotel Blackpool Ltd	Blackpool	A	0
-Stone Leisure & Hotels Limited	Bournemouth	A	0
 Stone Masters Ltd TA Granite house	Preston	A	0
 Stonebarn Holdings Limited	Bath	A	0
 Stonebridge Nursing Home	Redditch	A	0
@@ -14763,6 +14760,7 @@ SUMMERS FASHION HOUSE LIMITED	London	A	0
 Summit Brands Group (Holdings) Limited	London	A	0
 SUMMIT HEALTHCARE LIMITED	London	A	0
 Sun Harvest Ltd	Brighton	A	0
+Sun Healthcare Ltd	Barnsley	A	0
 SUN HILL RACING LTD	Leyburn	A	0
 Sun Hotel Limited T/A Crowne Plaza London - Kingston	Surbiton	A	0
 Sun Hung Kai Capital (UK) Limited	Vauxhall	A	0,4
@@ -14774,11 +14772,10 @@ Sunhill Court Nursing Home	Worthing	A	0
 Sunkeep Limited t/a Cockton Hill News	Bishop Auckland	A	0
 SUNLIGHT HOUSE CARE HOME	Morden	A	0
 Sunlite Health Care Ltd	Stoke On Trent,	A	0
-SUNNY CARE HOMES LTD	Charlton	A	0
 Sunnybank House Care Home	Eastleigh	A	0
 Sunnycroft Care Home Ltd	Norwich	A	0
 Sunnyhill Residential Care Home	Eastbourne	A	0
-Sunnyside House Limited	Aveley	A	0
+Sunnyside House Limited	Aveley	B	0
 Sunnyside Private Nursing Home Ltd	Iver	A	0
 SUNNYVALE HOLIDAY PARK LIMITED	Saundersfoot	A	0
 Sunquest Homes Ltd T/A Westerley Residential Care	Rickmansworth	A	0,17
@@ -14786,6 +14783,7 @@ SUNRISE AUTO HEALERS LIMITED	Oldbury	A	0
 SUNRISE CARE HOMES LTD	Norwich	A	0
 Sunrise Healthcare Ltd	Norfolk	A	0
 Sunrise Hill Care Ltd	London	A	0
+Sunrise Hill Care North Ltd	London	A	0
 sunrise hospitality ltd	Leicester	A	0
 Sunrise Meat & Poultry Heston Ltd	London	A	0
 Sunrise Mental Health Ltd	Orpington	A	0
@@ -14812,6 +14810,7 @@ Support Haven Ltd Trading as Xen Care Services	Ipswich	A	0
 Support Health and Wellbeing limited	Sunderland	A	0
 SUPPORT HEALTH CARE LTD	Manchester	A	0
 Support Horizons Community Interest Company	Wokingham	A	0
+Suprav Hotels Ltd t/a Haughton Arms Hotel	Alford Aberdeenshire,	A	0
 Suprav Hotels Ltd t/as Haughton Arms Hotel	Aberdeenshire	A	0
 Supreme Care UK Ltd T/A Victoria house care home	Polegate	A	0
 Supreme Company And Sons Limited T/A Supreme Home Care	London	A	0
@@ -14838,11 +14837,10 @@ SURREY HOMECARE LIMITED	Fulham	A	0
 Surrey Hospitality Group Ltd	Godalming	A	0
 SURREY MENTAL HEALTH LTD	Croydon	A	0
 Surya Hotels Limited	Colchester	A	0
-Susan Harter Studios Limited	London	A	2
+Susan Harter Studios Limited	Totnes	A	2
 SUSHI & BENTO HOUSE LTD	Basildon	A	0
 Sushi Handroll Limited	London	A	0
 Sushi Haven Chikchak Noodles	Borehamwood	A	0
-Sushi Home Town Limited	Bradford	A	0
 Sussex Health Care	Horsham	A	0
 Sussex Homecare Support Limited T/A Good Oaks Home Care (Mid-Sussex)	Burgess Hill	A	0
 SUSSEX HOTELS LIMITED	London	A	0
@@ -14877,7 +14875,6 @@ Swansea Bay University Local Health Board	Port Talbot	A	0
 SWARTHMORE HOUSING SOCIETY LIMITED	Buckhinghamshire	A	0
 Swaziland High Commission	London	A	5
 Sweco UK Holding Ltd	Leeds	A	0
-Sweet Affairs Hounslow Ltd	Hounslow	A	0
 SWEET HAVEN OF MUSSELBURGH LIMITED	Musselburgh	A	0
 Sweet Haven of Tranent Ltd	Tranent	A	0
 SWEET HOME SWEETS CATERING SERVICES LTD T/a Advent Catering Group	Knaresborough	A	0
@@ -15034,7 +15031,6 @@ Telstra Health UK Limited	London	A	0,4
 Telth Healthcare PVT Ltd	Birmingham	A	0
 TELUS HEALTH (UK) LTD	London	A	0,4
 Temal Healthcare Agency Ltd	Canterbury	A	0
-Temp37 Healthcare Ltd	London	A	0
 Temple Hill Surgery	Dartford	A	0
 Templemoyle Nursing Home	Londonderry	A	0
 Tempra Health Care Services Ltd	Bristol	A	0
@@ -15077,11 +15073,9 @@ The Amwell Care Home Limited	Slough	A	0
 THE ANCHOR HOTEL (GWBERT) LIMITED	Cardigan	A	0
 THE ANGELS HOMES LONDON LIMITED	Kingsbury	A	0
 The Annan Hotel	Llandudno	A	0
-THE ARMADA GROUP (HOSPITALITY) LIMITED	East Sussex	A	0
 The Ashton Care Home	Hinckley	A	0
 The Asian Health Agency	Slough	A	0
 The Atrium Health Centre	Dorchester	A	0
-The Avenue Care Home	Fareham	A	0
 The Avenue Care Home Limited T/A The Avenue Care Home	Malvern	A	0
 The Avocet Hardware Group Ltd	Huddersfield	A	0
 The B Team Headquarters UK Limited	London	A	0
@@ -15148,6 +15142,7 @@ The Coach House Veterinary Clinic Ltd	Witney	A	0
 The Coffee House (UK) Limited	Worthing	A	0
 The Comberton Nursing Home	Stourbridge	A	0
 THE COMPANY OF CUTLERS IN HALLAMSHIRE	Sheffield	A	0
+The Compleat Food Group (Holdings) Limited	Nottingham	A	0
 The Conduit Holdco Limited	London	A	0
 The Congregation of the Adorers of the Sacred Heart of Jesus of Montmartre OSB (Tyburn Nuns)	London	A	1,10
 The Connaught Hotel Limited	London	A	0
@@ -15157,7 +15152,6 @@ THE CORNBREAD HOUSE LTD T/A AREPA & CO	Bournemouth	A	0
 The Corporation of the Church House	London	A	0
 The Corporation of the Hall of Arts and Sciences (Trading as the Royal Albert Hall)	London	A	3
 The Cote Charity - Katherine/Griffiths House Care Home	Bristol	A	0
-The Cotswold Nursing Home Co Ltd	Tetbury	A	0
 THE COTSWOLD NURSING HOME COMPANY LIMITED	Yeovil	A	0
 The Court Care home ltd	Cardiff	A	0
 The Court Hotel Group	Cockermouth	A	0
@@ -15283,7 +15277,6 @@ THE HEADLAND HOTEL TORQUAY LIMITED	Torquay	A	0
 THE HEALING HUB MENTAL WELLNESS LTD	London	A	0
 THE HEALTH GRAIN LTD	Dromara	A	0
 The Health Lottery Limited	London	A	0
-The Healthcare Group Ltd	London	A	0
 The Healthcare Management Trust	Durham	A	0
 The Healthcare Messaging Group Ltd	London	A	0
 THE HEALTHY EMPLOYMENT HUB CIC	Oldbury	A	0
@@ -15328,7 +15321,6 @@ THE HIMALAYA BLETCHLEY LIMITED	Leicester	A	0
 The Hira Company Ltd	Manchester	A	0
 The Hive Model Management	London	A	3
 THE HIVE PHARMACY LIMITED	Staines-Upon-Thames	A	0
-The HLTH Group Limited	Liverpool	A	0
 THE HO HO CHINESE RESTAURANT LTD	Ashton-Under-Lyne	A	0
 The Hoarder Retail Limited	London	A	0
 THE HOBO DESIGN STUDIO LTD	Croydon	A	0
@@ -15339,7 +15331,6 @@ THE HOLLANDS CARE HOMES LIMITED	Bolton	A	0
 The Hollies Rest Home	Southport	A	0
 The Holmes Care Group Scotland Limited	Upminster	A	0
 The Holt Hotel	Steeple Aston	A	0
-The Holt School	Wokingham	A	0
 The Holy Cross School	New Malden	A	0
 The Holy Family Catholic School	Keighley	A	0
 THE HOLY FAMILY SISTERS OF THE NEEDY	Essex	A	0,1,9,10
@@ -15454,11 +15445,11 @@ The New Horseshoe Bar & Grill	Coventry	A	0
 The Newcastle upon Tyne Hospitals NHS Foundation Trust	Newcastle	A	0
 The Newham Hotel Limited	Ilford	A	0
 The Noble Tribe Events Ltd T/A Holy Carrot	London	A	0
+The Nuclear House Limited	Norwich	A	0
 The Nuffield Trust For Research and Policy Studies in Health Care	London	A	0
 The Nutriment Company Holding Ltd	Camberley	A	0
 The Oak Residential Homes Limited	Upminster	A	0
 The Oaks Care Home	Blaydon on Tyne	A	0
-THE OAKS CARE HOME LIMITED	Wigan	A	0
 The Oaks Nursing Home	London	A	0
 The Old Farm House Residential Home t/as OLD FARM HOUSE CARE LIMITED	Kent	A	0
 The Old Garden Care Home	Hoylake	A	0
@@ -15559,6 +15550,7 @@ The Scottish Haitian Foundation	Avoch	A	9
 The Seven Harrow Limited	London	A	0
 The Shack Burgers Hitchin Ltd	Luton	A	0
 The Single Homeless Project	London	A	0
+The Sirius Hotel Group Limited	London	A	0
 THE SISTERS OF THE HOLY FAMILY OF NAZARETH ( GOOD SHEPHERD PROVINCE)	Enfield	A	1,10
 The SK Hub Ltd	Uxbridge	A	0
 The Society of Writers to His Majesty's Signet	Edinburgh	A	0
@@ -15575,7 +15567,6 @@ The Sword of The Spirit & Healing Ministry	Birmingham	A	9,10
 THE TANDOORI HUT TN LTD	Romney Marsh	A	0
 The Teesdale Hotel	Middleton-in-Teesdale,	A	0
 The thai kitchen Hampton Limited	Hampton Hill	A	0
-The Thakerar Partnership T/A Welbourn Homes	Lincoln	A	0
 THE TRAVEL HOUSE LTD	West Drayton	A	0
 The Trinity House Ministries	Kent	A	1
 The University of Nottingham Health Service	Nottingham	A	0
@@ -15593,7 +15584,6 @@ The Vincent Hotel	Southport	A	0
 The Wall House Surgery	Reigate	A	0
 The Warrington Homes Ltd	Corsham	A	0
 THE WAVERLEY HOTEL (GREAT YARMOUTH) LIMITED	Great Yarmouth	A	0
-The Wedding Hire Company Ltd	Hertford	A	0
 The Wellington Hospital	London	A	0
 The Wentworth Hotel	Aldeburgh	A	0
 The Wesleyan Holiness Church - British Isles District	Birmingham	A	1
@@ -15687,6 +15677,7 @@ TKS GROUP LTD T/A TKS HOME	Newcastle Upon Tyne	A	0
 TKS HOME EXPRESS LTD	Newcastle Upon Tyne	A	0
 TKSD Care Homes & Training Ltd	Chatham	A	0
 TLB 24/7 HEALTHCARE LTD	Leeds	A	0
+TLC Care (UK) Limited t/a Briarcroft Care Home	Teignmouth	A	0
 TLC Care at Home Ltd	Worcestershire	A	0
 TLC Healthcare & Support Services Ltd	Grangemouth	A	0
 TLC MARKETING WORLDWIDE HQ LIMITED	London	A	0
@@ -15718,6 +15709,7 @@ Tongham Curry House Ltd	Surrey	A	0
 Tony Hopkins Entertainments Ltd	London	A	3
 Tony O'Flaherty Ltd. TA Home Instead Wandsworth	London	A	0
 Toor Haulage Limited	Coalville	A	0
+Tooth Fairy Healthcare Limited	Walsall	A	0
 Tooth Solutions Limited T/A Happy Smiles Dental	London	A	0
 TOP CLASS CARE LIMITED T/A ALEXANDRA HOUSE	Huncote	A	0
 TOP CLASS HEALTHCARE LTD	Essex	A	0
@@ -15771,7 +15763,6 @@ Towers Health and Racquets Club	Bedford	A	0
 Towertrend Limited t/a Honey Lane Care Home	Essex	A	0
 Town and Country Care Home Ltd	Randalstown	A	0
 Town Head Farm Products Limited	Skipton	A	0
-Towyn Capel Residential Home	Trearddur Bay	A	0
 Toynbee Hall	London	A	0
 Toyota Material Handling UK Limited	Slough	A	0
 Toyota Tsusho Automobile London Holdings Ltd	London	A	0,4
@@ -15816,7 +15807,6 @@ Triangulate Health Ltd	Doncaster	A	0
 TRIAS HOLDINGS LTD T/A Fireaway Pizza Harlow	Essex	A	0
 Tribu Hair Studio Ltd	London	A	0
 Tricrest Homes Limited t/a SYCAMORE LODGE CARE HOME	North east Lincolnshire	A	0
-Tridev Hospitality Limited TA The Old Bush Bar & Grill	Tipton	A	0
 Trieamain Harwood Ltd t/a The Harwood Arms	London	A	0
 Trillium Flow Technologies Holdco Limited	London	A	0,4
 TRIM HOMES	Hatfield	A	0
@@ -15880,6 +15870,7 @@ Tullyglass House Hotel	Ballymena	A	0
 Tunbridge Wells Specsavers Hearcare LTD	Tunbridge Wells	A	0
 TUNJI & TEMI HOLDINGS LTD	London	A	0
 Tunstall Healthcare (UK) Limited	Whitley	A	0,4
+TUPTON HEALTHCARE LIMITED	St. Helens	A	0
 Turay Homes Ltd	Bournemouth	A	0
 Turing House School	Twickenham	A	0
 TURKISH HOUSEHOLD (UK) LIMITED	London	A	0
@@ -16026,7 +16017,6 @@ UPLIFT HYDRAULICS LIMITED	London	A	0
 UPP Group Holdings Limited	London	A	0
 Upper Beeding Baptist Church: The Hub,Beeding	Steyning	A	1
 Upper Shirley High School	Southampton	A	0
-UPTON HOUSE	Sandwich	B	0
 Upton Park Fish Bazaar & Halal Meat	London	A	0
 Uptown Heron Restaurant Ltd T/A Cosmo Eastbourne	Eastbourne	A	0
 Upwell Health Centre	Wisbech	A	0
@@ -16083,7 +16073,6 @@ Varang Healthcare Limited	Slough	A	0
 Varioline Health LTD T/A Click Pharmacy	London	A	0
 VARSANI WINE HOUSE LTD T/A BARGIN BOOZE	Bolton	A	0
 VASEY & HARRIS ASSET MANAGEMENT LIMITED	London	A	0
-VBL Hospitality Limited	Holybourne	A	0
 Vectone Mobile Holding Limited	London	A	0,4,7
 Vector Holdings Limited	London	A	0
 Veda Hospitality Ltd	Harrow	A	0
@@ -16270,7 +16259,6 @@ Watmos Community Homes	Walsall	A	0
 WATTS HEALTHCARE LIMITED	Rochester	A	0
 Wave Hub Development Services Ltd	Hayle	A	0
 Waverley Hotel (Maryport) Ltd	Maryport	A	0
-Waxham House	Ryde	A	0
 Way2Save Harlesden Limited	London	A	0
 WDR Homecare Ltd t/a Right at Home Cheshire East	Stockport	A	0
 We Care Homes Ltd	London	A	0
@@ -16362,7 +16350,7 @@ Westacre Nursing Home	Winchester	A	0
 Westacres Care Home	Glasgow	A	0
 Westbank Care Home Limited T/A Westbank Nursing Home	Troon	A	0
 Westbourne House School	Chichester	A	9
-Westbrook Healthcare LLP (T/A Westbrook Care)	Caterham	B	0
+Westbrook Healthcare LLP (T/A Westbrook Care)	Caterham	A	0
 Westcliff High School for Boys	Westcliff-on-Sea	A	0
 Westcliffe Health Innovations Limited	Eccleshill	A	0
 Westcroft House Surgery	Egremont	A	0
@@ -16480,6 +16468,7 @@ WILLOW HEALTH LIMITED	Colchester	A	0
 willow home care Leeds LTD	Leeds	A	0
 Willow Home Care Ltd	Shropshire	A	0
 Willow Tree Nursing Home	Rugby	A	0
+Willow View Care Home	Stockton-on-Tees	A	0
 Willowbank Rest Home	Clayton Le Woods	A	0
 Willowbrook Healthcare Limited	Northampton	A	0
 Willowbrook house	Cardiff	A	0

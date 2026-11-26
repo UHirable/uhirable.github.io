@@ -193,6 +193,7 @@ ANAA LIMITED	Eastleigh	A	0
 Ananyaa Consulting Ltd	England	A	0
 ANC Scaffolding Products Ltd	Egham	A	0
 AND Technology Research Limited	Epping	A	0
+Andy Thornton Limited	Elland	A	0
 Angel Catering & Event Limited	Erith	A	0
 Angel Healthcare professionals Ltd	Erith	A	0
 Angelique Care Ltd	Ealing	A	0
@@ -425,7 +426,6 @@ Blenheim High School	Epsom	A	0
 BLIND 4 LESS LTD	England	A	0
 Bliss Care 3 Limited T/A Brandon House	Exmouth	A	0
 BLISS CARE SOLUTIONS	Edinburgh	A	0
-Bliss Eventworks Limited	Epsom	A	0
 Blucare Limited	Edinburgh	A	0
 Blue Frog Scientific Limited	Edinburgh	A	0
 Blue Rose Care Limited	Egham	A	0
@@ -531,7 +531,6 @@ Caledonia Technologies Ltd	East Kilbride	A	0
 Caledonian Education Information Centre	Edinburgh	A	0
 Caledonian Heritable Limited	Edinburgh	A	0
 CALEDONIAN LEASEHOLD OUTLETS LIMITED	Edinburgh	A	0
-Calero MDSL Limited	Edinburgh	A	0
 Caley Home Care Ltd	Edinburgh	A	0
 Caley Water Ltd	Edinburgh	A	0
 Calibrant Limited	Ely	A	0
@@ -685,7 +684,7 @@ CLIFF HOUSE SERVICE STATION LTD	England	A	0
 CLINCH INTERNATIONAL LTD (16900283)	England	A	2
 Clockwork Removals Ltd	Edinburgh	A	0
 Cloudhive Limited	Epsom	A	0
-Clover Care Scotland Ltd	East Lothian	A	0
+CLS Wind (UK) Ltd	Edinburgh	A	4
 Club Cultured Ltd	Ealing	A	0
 Clymed Healthcare Limited	Elstree	A	0
 CM Biryani Ltd t/a Chennai's Marina	Edinburgh	A	0
@@ -770,7 +769,6 @@ Crystal London Ltd T/A Gooey Waffle	Enfield	A	0
 CS Managers Ltd	Edinburgh	A	0
 CTA Healthcare Ltd T/A Bonnyton House Care Home	Ellon	A	0
 Cubewise Software Ltd	Edgware	A	0
-Cuckoo Fibre Limited	Exeter	A	0
 Culinary Arts Ltd	Eglington	A	0
 Cumberland Hotel	Edinburgh	A	0
 Curo Compensation Limited	Edinburgh	A	0
@@ -834,7 +832,6 @@ Dental Care Centre	Eastleigh	A	0
 Dental Express (Edinburgh) Ltd	Edinburgh	A	0
 DENTIST NOW LIMITED T/A Epping Dental	Epping	A	0
 DENTOZEN LTD	Enfield	A	0
-DENTSTONE LIMITED T/A NEWICK TANDOORI	East Sussex	A	0
 Derby Medical Centre	Epsom	A	0
 Deshi Deli Ltd T/A Maya Indian Restaurant	Eastleigh	A	0
 Design for Leisure Ltd	Enfield	A	0
@@ -922,7 +919,6 @@ E Media Group Ltd	Essex	A	0
 E.fundamentals (International) Limited	Edinburgh	A	0
 Eagle Cargo Services Ltd	Essex	A	0
 Eagle for Metal Machinning UK Limited 15386164	England	P	2
-EAGLE'S FLIGHT INTERNATIONAL CENTRE (EFIGOC)	Edinburgh	A	1
 Ealing Cricket Club	Ealing	A	0
 Ealing Independent College	Ealing	A	0
 EAM Equestrian Limited	Evesham	A	0,4,11
@@ -959,7 +955,6 @@ Ebbw Vales Visionplus Limited t/a Specsavers	Ebbw Vale	A	0
 Ebtisam and Co Limited (trading as EA Dental)	Eastcote	A	0
 Eccleshall Cricket Club	Eccleshall	A	11
 Eckington Cricket Club	Eckington	A	11
-Eco Greenenergy Solutions Ltd	Epping	A	0
 ECO TARGET LTD	Essex	A	0
 Eco4 Limited	Essex	A	0
 ECOBUILD GREEN BUILDING CONSULTANTS LIMITED	England	P	2
@@ -1111,7 +1106,6 @@ ERG UK Holding Ltd	Edinburgh	A	0,4
 Erne Holistics Ltd	Enniskillen	A	0
 Erskine Dental Care	Erskine	A	0
 ES SPARK DIGITAL LTD	Edinburgh	A	0
-ESG Energy Service Group Limited	Edinburgh	A	0
 ESH SUB LTD T/A SUBWAY	Eastbourne	A	0
 Esher Cricket Club	Esher	A	11
 Esher Tandoori Limited	Esher	A	0
@@ -1172,7 +1166,6 @@ Fahey Roofing Limited	Epsom	A	0
 FAIROLIVE LIMITED	Egham	A	0
 FAIRVIEW CARE LIMITED	Edinburgh	A	0
 Fairview Estates (Housing) Limited	Enfield	A	0
-FAIRWAY TRADING LTD	Epsom	A	0
 FAITH IN NATURE LIMITED	Edinburgh	A	0
 Falconer Print & Packaging Ltd	Elland	A	0
 Falguni Patel t/a Shiv News	Essex	A	0
@@ -1220,6 +1213,7 @@ Flam Construction Limited	Enfield, LONDON	A	0
 FLAMES GRIL LIMITED	Exeter	A	0
 Flash Flooring & Construction Ltd	Edgware	A	0
 Flatbread Turkish Bakery House Limited	Edinburgh	A	0
+FLATLEY CONSTRUCTION LTD	Elstree	A	0
 Flats4All Ltd	Enfield	A	0
 Fleming Nash Healthcare Ltd	Essex	A	0
 Flexitricity Limited	Edinburgh	A	0
@@ -1257,7 +1251,6 @@ FOSTER AND FREEMAN LTD	Evesham	A	0
 FOUNTAIN DESSERTS AND SWEETS LTD	Edinburgh	A	0
 Fountain Montessori Ltd	Edgware	A	0
 FOUR SPICES (EXMOUTH) LIMITED	Exmouth	A	0
-Framework (Edinburgh) Limited	Edinburgh	A	0
 Frankton Cricket Club	Ellesmere	A	11
 Fred's Backyard Barbecue Limited	Edinburgh	A	0
 FREDERICK HOUSE HOTEL LIMITED	East Lothian	A	0
@@ -1397,7 +1390,6 @@ Grange Montessori Nursery	Ealing	A	0
 Granton Information Centre	Edinburgh	A	0
 Graviss UK Pvt Ltd	England	A	0
 Great Leap Forward Ltd	Edinburgh	A	3
-GREEN CODE TECHNOLOGIES LIMITED	England	A	2
 GREEN GLOBE (UK) LTD	Essex	A	0
 Green Harvest Capital Consulting Limited	Exeter	A	0
 Green Olive Care Ltd	Enfield	A	0
@@ -1488,7 +1480,6 @@ Hiab Limited	Ellesmere	A	0
 Hibernian Football Club Limited	Edinburgh	A	0,4,11
 Hibiki Ltd.	Edinburgh	A	0
 Hien Le & Co Limited	Enfield	A	0
-Higher Healthcare Ltd	Epsom	A	0
 Highlands Borders Care Home Ltd	Exeter	A	0
 Hikapee Ltd.	Epsom	A	0,3
 Hillview Healthcare ltd	Edinburgh	A	0
@@ -1594,6 +1585,7 @@ INDIGO RED ACCOUNTANCY SERVICES LIMITED	Edinburgh	A	0
 INECO U.K	East Grinstead	A	0,4
 Infinite Content Ltd	Edinburgh	A	3
 Infinity Alliance Limited	Erith	A	0
+Infinitystay Ltd t/a Manor Hotel	Exmouth	A	0
 InFocus Charity	Exeter	A	0
 Infonetica Limited	Esher	A	0
 Information Services Consulting Limited	Eastleigh	A	0,4
@@ -1839,7 +1831,6 @@ Laker Vent Engineering	Ellesmere Port	A	0
 LAKESIDE MEDICAL PRACTICE	Enniskillen	A	0
 LAKSHMI ENTERPRISES DIVINE HOME LTD	Eastham	A	0
 Lalji Keshav Ltd T/A Blakes Newsagents And Post Office	East Sussex	A	0
-LAM Research Limited (UK)	Edinburgh	A	0
 LANDMARK INFORMATION GROUP	Exeter	A	0
 Lane End Medical Group	Edgware	A	0
 LANG & HUGHES LIMITED t/a O'Briens Irish Sandwich Bar	Edinburgh	A	0
@@ -1876,6 +1867,7 @@ Level 40 Ltd	Edinburgh	A	0
 Level E Research Limited	Edinburgh	A	0
 Lewis Kingsnorth Limited	Eastbourne	A	0
 LFH Fluid Control Limited	Ellon	A	0
+LGM Engineering Limited	Epsom	A	0
 Liberton Medical Group	Edinburgh	A	0
 Lifecog Limited	Erith	A	0
 Lifeleaf LTD -Aurorajade	East Ham	A	0
@@ -1916,6 +1908,7 @@ LNT GLOBAL LTD	England	A	0
 Loaded Sky Ltd.	Enfield	A	0
 Local Restaurant Limited T/A Trilogy Bar & Restaurant	Edgware	A	0
 Localease Limited T/A Spring Gardens	Edinburgh	A	0
+Lochside Garages Limited	Enniskillen	A	0
 Locogen Ltd	Edinburgh	A	0
 Logan Property Ltd	Edinburgh	A	0
 LOLA CONSULTANT UK LTD	England	A	0
@@ -2210,7 +2203,6 @@ Nanusens Ltd	Edinburgh	A	0
 Nanyang Restaurant Limited	Edinburgh	A	0
 Narayanswarup (UK) Limited	Enfield	A	0
 Nasb Limited	Edgware	A	0
-NASI ISDA LTD	Essex	A	0
 Nasim Consulting Limited	Ebbw Vale	A	0
 Natatomisam Limited	Exeter	A	0
 National Composites Centre	Emersons Green	A	0
@@ -2446,6 +2438,7 @@ Photon Force Ltd	Edinburgh	A	0
 Phriends Food Ltd	Edinburgh	A	0
 Phuket Pavilion	Edinburgh	A	0
 Physician Medical Services Limited	Edinburgh	A	0
+Physio Pulse ltd	Ely	A	0
 Pickering Interfaces Ltd	Essex	A	0
 Pico Technology	Eaton Socon	A	0,4
 Pinnick Lewis LLP	Edgware	A	0
@@ -2743,7 +2736,6 @@ S C Jewellery Design	Edinburgh	A	0
 S J Nathans Limited	Ellesmere Port	A	0
 S Yorke Ltd	Edinburgh	A	0
 S.K.ARORA & A.MARWAHA LTD T/A FAMILY SHOPPER	England	A	0
-S4S LONDON LTD	Edgware	A	0
 SABINA EAST HAM LTD	East Ham	A	0
 Sabret Ltd	Edinburgh	A	0
 Sacro	Edinburgh	A	9
@@ -2751,7 +2743,6 @@ SAENGSU KOREAN CHURCH	Epsom	A	1
 SAFARI BODYWORKS LTD	England	A	0
 Safe Packaging Ltd	Epping	A	0
 Safe Truck ltd	Edinburgh	A	0
-Safedale Ltd	Enfield	A	0
 Saga D&B Trading and Contracting UK Ltd	England	A	0,2
 Sahafuel Ltd	Ellesmere Port	A	0
 SAI PREM LTD	England	A	0
@@ -3105,6 +3096,7 @@ Super Power Agency	Edinburgh	A	0
 Supernova Real Estate Ltd	Euston	A	0
 SURAIYAA SOUTH LIMITED	Eastleigh	A	0
 Suraj Ventures Limited	Essex	A	0
+Surecare Enfield	Enfield	B	0
 Surgeons Quarter Limited	Edinburgh	A	0
 Surgimed Healthcare Ltd	Ealing	A	0
 Surguru Ltd T/A Fireaway Pizza	England	A	0
@@ -3195,10 +3187,8 @@ Thai Emerald Limited	Evesham	A	0
 Thai Marina Limited	Eastbourne	A	0
 THANH QUANG LTD trading as Vietnam House Restaurant	Edinburgh	A	0
 THAVAKKAL EMPORIUM LIMITED T/A Chickking Edinburgh	Edinburgh	A	0
-The Action Group	Edinburgh	A	0
 THE ADNAN JAFFERY ACADEMY TRUST (T/A One Degree Academy)	Enfield	A	0
 The Aldenham Foundation	Elstree	A	0
-THE ARMADA GROUP (HOSPITALITY) LIMITED	East Sussex	A	0
 The Avenue Dental Practice	Enderby	A	0
 The Aviation Recruitment & Consulting Group Ltd	Exeter	A	0
 The Bake House Clacton Limited	Essex	A	0
@@ -3207,14 +3197,12 @@ The Beth Chatto Gardens Ltd	Elmstead Market	A	0
 The Bhat Sikh Gurdwara and Community Association Edinburgh	Edinburgh	A	1,10
 The Black Sheep Caffe and Bakery Ltd/TA Mada Deli	East Molesey	A	0
 The Bonham Hotel Edinburgh	Edinburgh	A	0
-The Briars Group Limited	Elstead	A	0
 The Bridge Inn & Ferry	Evesham	A	0
 The Cake Dream Limited	Enfield	A	0
 The Capital City Partnership Ltd	Edinburgh	A	0
 The Caravan Club Limited	East Grinstead	A	0
 The Castle Hotel (Eynsford) Ltd	Eynsford	A	0
 The Cave (Woodford) LTD	Essex	A	0
-The Chaand Company Ltd t/a Milton Convenience Store	Edinburgh	A	0
 The Chase Care Home Ltd	Eastbourne	A	0
 The Chaseley Trust	Eastbourne	A	0
 THE CHESTERFORD GROUP LIMITED	Essex	A	0
@@ -3357,7 +3345,6 @@ Thrill Of The Grill Ltd	Edinburgh	A	0
 Thurlow Nunn Ltd	Ely	A	0
 Thy Target Limited	Ebbw vale	A	0
 Thyson Technology Ltd	Ellesmere Port	A	0
-thyssenkrupp System Engineering Ltd	East Grinstead	A	0
 Tickled Pink Publishing Limited	Esher	A	0
 TIERNEY HOMES LTD	Enniskillen	A	0
 Tierney IT Solutions Ltd	Edgware	A	0
@@ -3390,7 +3377,7 @@ TOWERBRIDGE CONSTRUCTION LONDON LIMITED	Enfield	A	0
 Towertrend Limited t/a Honey Lane Care Home	Essex	A	0
 Toyota (GB) PLC	Epsom	A	0
 Toyota Financial Services (UK) PLC	Epsom	A	0,4
-Toyota Racing GmbH UK Branch	Epsom	A	0,4
+Toyota Racing GmbH UK Branch	Epsom	A	0,4,11
 Tracey Bothers Ltd	Enniskillen	A	0
 Tracey Concrete Ltd	Enniskillen	A	0
 TRADEAA LIMITED	East Kilbride	A	0
@@ -3590,6 +3577,7 @@ Westside Dental Care	Edinburgh	A	0
 Westville Hotel	Enniskillen	A	0
 Wetland Limited	East Sheen	A	0
 Whalebone Fastfood T/A Kings Flavour	Essex	A	0
+Wheel of Fate	Edinburgh	A	0
 Whirlwind Elite Ltd. T/As Subway	Edgware	A	0
 White Lodge Medical Practice	Enfield	A	0
 WHITE TOWN LIMITED T/A WHITE TOWN LAUNDRY	Essex	A	0
@@ -3629,7 +3617,6 @@ Wurth UK Ltd	Erith	A	0,4,7
 WUZJS Limited t/a Jaipur Spice	Easingwold	A	0
 Wyoming Interactive Ltd	Edinburgh	A	0
 XBP EUROPE LIMITED	Egham	A	4
-Xilinx XDC	Edinburgh	A	0
 XL Accounting Solutions Limited	Edgware	A	0
 XPRESSS 24/7 LTD	Edinburgh	A	0
 XSolutions365 Ltd	Edinburgh	A	0

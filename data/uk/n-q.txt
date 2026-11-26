@@ -28,7 +28,6 @@ AROMATICA SPICE LIMITED TA Quality Tandoori	Edenbridge	A	0
 Aurora Quality Care	London	A	0
 AVERLEY QWARA HEALTHCARE LTD	Sheerness,	A	0
 B&A Quilting (UK) Limited	Manchester	A	0
-BAR B QUE BASE FOODS LIMITED	Manchester	A	0
 Barrachander Quarry Limited	Cairndow	A	0
 Barron Kirk Quality Care ltd	Hastings	A	0
 BDS Marketing Research (QMJ) Limited	Nottingham	A	0
@@ -93,7 +92,6 @@ High Quality Food London Limited	London	A	0
 HOME OWNERS QS LTD	Glasgow	A	0
 Hub2Asia Limited t/a QIMA	London	A	0
 I Q Trading Limited	Wembley	A	0
-IBC QUALITY SOLUTIONS LIMITED	London	A	0
 INTERNATIONAL QUALIFICATIONS AND CERTIFICATIONS ASSESSMENT BOARD LTD	Kensington, London	A	0
 INTERNATIONAL QUALIFICATIONS BOARD LTD	London	A	0
 Internet Query Marketing Ltd	Essex	A	0
@@ -180,7 +178,6 @@ PURPLE QUILL LIMITED	London	A	0
 Q & Y International Ltd	High Wycombe	A	0
 Q Accountants Ltd	London	A	0
 Q BOARD LTD	Wednesbury	A	0
-Q C POLYMER LIMITED	Bilston	A	0
 Q C Polymer Limited	Coseley	A	0
 Q Care Assist	Nottingham	A	0
 Q Care Limited	Abergavenny	A	0
@@ -354,7 +351,6 @@ QLIK SOLUTIONS LIMITED	Wembley	A	0
 QlikTech UK Ltd	Winnersh	A	0,4
 QLIKTECH UK LTD	Wokingham	A	0
 QLIKZ LTD	Birmingham	A	0
-QLOGIC INC LTD	Bristol	A	0
 QLS United Ltd T/A Showcase KTV	Sheffield	A	0
 QM CATERING LTD	Nelson	A	0
 QM LONDON TRADING LTD	London	A	0
@@ -430,6 +426,7 @@ Quadranz Ltd	Luton	A	0
 Quadrata Limited	Stevenage	A	0
 Quadrature Capital Limited	London	A	0
 Quadrature Climate Foundation	London	A	0
+QuadReal Residential Properties UK Limited	London	A	0
 Quadreal UK Services Limited	London	A	0,4
 Quadrise International Limited	London	A	0
 Quadrivio International Limited	London	A	0
@@ -466,7 +463,6 @@ QUALITY ASSURED CARE SERVICES LTD	Studley	A	0
 Quality Assured Ltd	London	A	0
 QUALITY AUTO SELECT LTD	Rainham	A	0
 QUALITY BARGAINS INTL LTD.	London	A	0
-Quality Bites Ltd	Walsall	A	0
 Quality Booze Ltd	Croydon	A	0
 Quality Building Envelope Solutions Ltd	East Kilbride	A	0
 QUALITY BUTCHERS AND INTERCONTINENTAL FOODS LTD	Harlow	A	0
@@ -885,6 +881,7 @@ Quiz Room UK Ltd	London	A	0
 Quizchoice Ltd	London	A	0
 Quizlet Limited	London	A	0,4
 QUL Technologies Limited	Waterloo	A	0,4
+Qulin Aesthetics Clinic Ltd	London	A	0
 Qumata Group Ltd	London	A	0
 QUMILY LTD	Surbiton	A	0
 Qumin Ltd	London	A	0
@@ -903,7 +900,6 @@ Quomatic Solution Limited	London	A	0
 QUOOKER UK LTD	Manchester	A	0
 Quor Group Limited t/a Quoreka	Histon	A	0
 Quori Limited	London	A	0
-QUORIS 3D LIMITED	Irvinestown	A	0
 Quoris3D Limited	Killadeas	A	0
 Quorn Country Foods Limited	Coalville	A	0
 Quorn Lodge Limited	Melton Mowbray	A	0
@@ -936,6 +932,7 @@ Qwilt UK Limited	London	A	0,4
 QX Limited	North Yorkshire	A	0,4,7
 QY Intertec Limited	London	A	0
 QYH Limited	Birmingham	A	0
+Qyrus Limited	London	A	0
 R & E Quinn	Port Isaac	A	0
 R & Q Retail Ltd T/A Lifestyle Extra	Falkirk	A	0
 R S (Dinas) Ltd T/As Queen's Fish Bar	Wales,	A	0
@@ -946,7 +943,6 @@ Real Action (QPCT) Ltd.	London	A	0
 Recycling With skips Limited T/A Quick Skip Hire	West Drayton	A	0
 Reso Ltd t/a QDOS	Worplesdon	A	0
 Richard Joseph Quinn LTD	London	A	0
-Riley & Riley T/A The Queens Head	Farnham	A	0
 Robert Quinn Consulting Ltd	London	A	0
 ROKITH RETAIL QB LTD	Middlesex	A	0
 Roundstone Quality Care Ltd t/a Right at Home Dundee Angus and North Fife	Dundee	A	0

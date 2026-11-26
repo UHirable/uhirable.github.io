@@ -16,6 +16,7 @@
 2 Brothers Dinning Limited	Birmingham	A	0
 2 degrees Limited	Oxford	A	0
 200 Degrees Coffee Roasters	Nottingham	A	0
+24X7 CHESTER LIMITED T/A MORRISON DAILY	Crewe	A	0
 26 DEGREES GLOBAL MARKETS (UK)LIMITED	London	A	0,4
 2CHE DESIGN LTD	London	A	0
 2R1 Limited T/A German Doner Kebab	Ruislip	A	0
@@ -183,7 +184,6 @@ Academy Dental Care Ltd	Aberdeen	A	0
 Access Dignity Care Limited	Walton on the Naze	A	0
 Accountant on Duty Limited	Southall	A	0
 Accounts Direct (Accounting & Bookkeeping) Limited	Salford	A	0
-Accredo Support and Development Ltd	Leicester	A	0
 Acocks green dental practice	Acocks Green	A	0
 ACORN DAY OPPORTUNITIES LTD	London	A	0
 Acorn Diagnostics Ltd	Penarth	A	0
@@ -208,7 +208,6 @@ Adam Mosque & Dawah Academy	Birmingham	A	1,9,10
 ADEXA DIRECT LIMITED	Treorchy	A	0
 Adit Driving School Limited	Middlesex	A	0
 Adnan Raza T/A Danny's Barbershop	Maidenhead	A	0
-ADORE DESIGNS YORKSHIRE LIMITED	Batley	A	0
 Advance Dental Centre	Aberdeen	A	0
 Advance Dental Ltd T/A Advance Dental Care	Hounslow	A	0
 Advanced Dental Laboratories Limited	Birmingham	A	0
@@ -343,6 +342,7 @@ Alliance Francaise de Glasgow	Glasgow	A	0,9
 Alliance Francaise de Londres Ltd	London	A	0
 Alliance Francaise de Manchester	Manchester	A	0,9
 Allied Digital Services UK Ltd	Lewins Mead	A	0,4
+Allneeds Building & Construction Depot Limited T/a ABC Depot	Hatfield	A	0
 Allstruct Developments Limited	London	A	0
 Almouslli Dental LTD	Peterborough	A	0
 Alpha 2 Bravo Aircraft Delivery Limited	West Halton	A	0
@@ -425,7 +425,7 @@ ANZ DIGITAL LIMITED	Welwyn Garden City,	A	0
 Aone Dental Practices Ltd T/A Jaws Dental	Fraserburgh	A	0
 AP Dairies Limited	Dunstable	A	0
 AP Drywall Systems Ltd	Manchester	A	0
-APCO Dental Ltd	Lanark	A	0
+APCO Dental Ltd	Glasgow	A	0
 Apex Airspace Development Ltd	London	A	0
 Apex Circuit Design Ltd.	Princes Risborough	A	0
 Apex Dent Limited	London	A	0
@@ -490,7 +490,6 @@ Arimon Ltd T/A Digilytics	London	A	0,4
 ark architecture + design	Glasgow	A	0
 Ark Drylining Ltd	Dartford	A	0
 ARK GROUP DMCC	London	A	0
-Arkdeal Ltd T/A Kaspa's Desserts	Bracknell	A	0
 Arora Superstore Ltd T/A Dedworth food and wine - Dedworth Convenience Store	Windsor	A	0
 Aroy D Thai Ltd	Ely	A	0
 ARP Dental Care Ltd t/a Habashi Dental	Abbey Wood	A	0
@@ -753,13 +752,14 @@ BEST QUALITY DOUBLE GLAZING LIMITED	London	A	0
 Beta Design Consultants Ltd	Brentford	A	0
 Beta Distribution (South) Limited	Richmond	A	0
 Better Dairy Limited	London	A	0
-Better Decision Groups Ltd	Spalding	A	0
+Better Decisions Group Ltd	Manchester	A	0
 BEWAL ROSE LTD T/A DARBAR (DESI CAFE) RESTAURANT	Glasgow	A	0
 Beyond Blood Diagnostics ltd	London	A	0
 Beyond Data Technologies Ltd	Sheffield	A	0
 Beyond the Deal LLP	London	A	0
 BFC DISTRIBUTION LIMITED T/a B F C Distribution	London	A	0
 BGF 3 LIMITED T/A German Doner Kebab	Birmingham	A	0
+BGF 4 Limited T/a German Doner Kebab	Walsall	A	0
 BHANDAL BEERS LTD T/A THE NEW DUNCOW BAR & GRILL	Telford	A	0
 Bhandal Dental Practice Blackheath	Rowley Regis	A	0
 Bhandal Dental Practices	Cradley Heath	A	0
@@ -846,7 +846,7 @@ Blueprint Architectural Design	Raunds	A	0
 Blueprint Design Engineering Limited	Ulverston	A	0
 Blyth Valley Disabled Forum Limited	Blyth	A	0
 BM Data Solutions Limited T/A BM Aluminium	Tewkesbury	A	0
-BM Dynamic Ltd	Stoke-on-Trent	A	0
+BM Dynamic Ltd	Manchester	A	0
 BMB Drylining Ltd	London	A	0
 Bo Digital Ltd	Cambridge	A	0
 Boba and Dessert Limited	Yeovil	A	0
@@ -858,6 +858,7 @@ BOLTON PAINTING DECORATING & DESIGNING LTD	Bolton	A	0
 Bolttech Device Protection (UK) Limited	London	A	0
 BOMBAY DELI LTD	Paisley	A	0
 Bombay Delight Ltd T/A Bombay Delight	London	A	0
+BOMBAY DRAGON LTD	London	A	0
 BONA DESIGN & CONSULTANCY LTD	Coventry	A	0
 Bondcare (Darrington) Limited	London	A	0
 Bone Daddies Ltd	London	A	0
@@ -1044,6 +1045,7 @@ Cage Delivery Ltd	Nottingham	A	0
 Cahill Design Consultants	Colchester	A	0
 Caiman Software Development Limited	Banchory	A	0
 CAIXA GERAL DE DEPOSITOS, S.A	London	A	0
+Cakes & Dreams Limited	Haydock	A	0
 Cakes N Shakes Desserts Ltd	Glasgow	A	0
 Cakes N' Desserts Limited	Canvey Island	A	0
 Callender Howorth Interior Design Ltd	London	A	0
@@ -1195,6 +1197,7 @@ CHARLIE DRINK LIMITED T/A HIGH STREET NEWS	Wolverhampton	A	0
 CHARLIE'S DISCOUNT BOOZE LIMITED	Southampton	A	0
 Charlotte Desorgher T/A Hipsinc	East Grinstead	A	3
 Charro Dental Practice Limited	Rhayader	A	0
+Charro Dental Practice Ltd	Rhayader	A	0
 CHARSI DERA RESTAURANT LTD	Birmingham	A	0
 Chart Down News	Dorking	A	0
 Chartered Institute of Personnel and Development	Wimbledon	A	0
@@ -1241,7 +1244,7 @@ CHRIS DENT	Penrith	A	0
 Chris Duffy and Associates Ltd	Nettleton	A	0
 CHRIS DYSON ARCHITECTS LLP	London	A	0
 Chris Lefteri Design Limited	London	A	0
-CHRIST APOSTOLIC CHURCH DOMINION OUTREACH	Manchester	A	1,10
+CHRIST APOSTOLIC CHURCH DOMINION OUTREACH	Bolton	A	1,10
 Christ Church Derby	Derby	A	1
 Christian Dior UK Limited	London	A	0,4
 Christie Digital Systems Canada Inc.	Wokingham	A	0,4
@@ -1429,7 +1432,7 @@ Cosimac Drytech Ltd	Bangor	A	0
 Cosmetic and family dentistry Hessle limited	Hessle	A	0
 Cosmetic Dental Laboratory Ltd	London	A	0
 Costain Care Dover Limited	Deal	A	0
-Cosyseal (Double Glazing) Limited	Surrey	A	0
+Cosyseal (Double Glazing) Limited	Croydon	A	0
 Cottage Day Limited	Bexley	A	0
 Cotteswold House Dental Care (Gloucester) Ltd	Gloucester	A	0
 Coulsdon Dental Clinic Limited	Birmingham	A	0
@@ -1462,7 +1465,6 @@ CREATIVE DISTRIBUTION LIMITED	Croydon	A	0
 Creative Sign and Design	Ilford	A	0
 Creator Scaffold Designs & Temporary Works Consultants Ltd	Rotherham	A	0
 Credence Dental Care Ltd	Bath	A	0
-Credit Data Research Ltd	London	A	0,4,7
 Creekmoor Day Nursery LTD	Poole	A	0
 Crendon Dental Centre	High Wycombe	A	0
 Cresset Biomolecular Discovery Limited	Litlington	A	0
@@ -1527,7 +1529,6 @@ Curve Digital Publishing Limited	London	A	0
 CURZON DEVELOPMENTS LTD	Woodford Green	A	0
 Curzon Street Dental Practice	Maryport	A	0
 Cushman & Wakefield Debenham Tie Leung Limited	London	A	0,4
-CW & DK Limited	Ripon	A	0
 CW DUNDEE LTD T/As Chaiiwala	Dundee	A	0
 cwmbwrla dental practice	Swansea	A	0
 Cwmni Da Cyf	Caernarfon	A	3
@@ -1608,6 +1609,7 @@ D PARRY PHARMACY	London	A	0
 D Q Boats Limited	Devon	A	0
 D R INVESTMENT GROUP LIMITED	Welshpool	A	0
 D R JONES YEOVIL LTD	Yeovil	A	0
+D ROCKS RESTAURANT & TAKEAWAY LTD	Leeds	A	0
 D ROY LIMITED	Swindon	A	0
 D S A Drinks LTD	Dudley	A	0
 D S Burge and Co Ltd	London	A	0
@@ -1646,9 +1648,10 @@ D&G Retail Ltd	Leeds	A	0
 D&G SP Z.O.O Limited	Rugby	A	0
 D&H BROTHERS LTD TRADING AS ICKLEFORD STORE	Hitchin	A	0
 D&H Fashions Ltd	Gants Hill	A	0
-D&I FOODS LTD	Slough	A	0
+D&I FOODS LTD	Hounslow	A	0
 D&J CARE SERVICES-RESIDENTIAL LTD	Belvedere	A	0
 D&JUK LTD	Gerrards Cross	A	0
+D&M Cakes Limited	Dromore	A	0
 D&M SERVICE PROVIDER LTD	Rotherham	A	0
 D&MG Ltd T/A Aroma	Gravesend	A	0
 D&N Convenience Store Limited T/A Premier Willow Road Store	Castleford	A	0
@@ -1754,7 +1757,6 @@ DAC POWER	Cheltenham	A	0
 Dacey Ltd	Cardiff	A	0
 Dachser Ltd	Northampton	A	0,4,7
 DACI Utilities Engineering Consultancy Limited	Salford	A	0
-Dack Motor Group	Lincoln	A	0
 Dacorum Borough Council	Hemel Hempstead	A	0
 Dacre House Limited trading as Dacre House Veterinary Clinic	Tunbridge Wells	A	0
 DACSA Limited	Liverpool	A	0,4
@@ -1769,6 +1771,7 @@ Dadsha Service Stations limited	Hemel Hempstead	A	0
 DADSON EDWARDS LTD	London	A	0
 DADYAL HAIR STYLIST LIMITED	London	A	0
 DADYAL HALAL MEAT LTD	Slough	A	0
+DAE Aircraft Leasing Services (UK) Limited	London	A	0
 Daella Digital LTD	Aberdeen	A	0
 Daemon Solutions Limited	Paddington	A	0
 Daesang UK	Hammersmith	A	0
@@ -1830,7 +1833,6 @@ DAIRY FARM PRODUCTS LIMITED	Birmingham	A	0
 Dairy Lincs Limited	Grimsby	A	0
 Dairyfresh Ltd	Aston	A	0
 Dairygold Food Ingredients UK Ltd	Crewe	A	0
-Daish's Esplanade Hotel	Scarborough	A	0
 Daisy Chain Studio Ltd	London	A	0
 Daisy Communications Ltd	Brierfield	A	0
 DAISY GREEN FOOD LIMITED	London	A	0
@@ -1874,6 +1876,7 @@ Dalchini Ltd t/a Dalchini	London	A	0
 DALCON LIMITED	Prestwick	A	0
 Dale Care and Support Limited	Rochdale	A	0
 Dale Carnegie London	London	A	0
+Dale Farm Cooperative Limited	Belfast	A	0
 Dale Farming Limited	Holmes Chapel	A	0
 Dale Kane Trailers	Castlewellan	A	0
 Dale Medical Practice	Wolverhampton	A	0
@@ -2252,7 +2255,6 @@ Dass Ltd	Exeter	A	0
 DASS Self Service	London	A	0
 Dassault Aviation Business Services UK Limited	Farnborough	A	0
 Dassault Systemes UK Ltd	Warwick	A	0,4
-DASSTAK LTD	Levenshulme	A	0
 Dastaan Limited TA Dastaan	Epsom	A	0
 Dastgyr UK Limited	Romford	A	0
 Dasway Limited T/A Holden Bridge Service Station	Stoke On Trent	A	0
@@ -2689,7 +2691,6 @@ DDQ Invest Limited	Barnet	A	0
 DDRC Healthcare	Plymouth	A	0
 DDRE Ltd	London	A	0
 Ddss Ltd T/A John's Booze Convenience Store	Stoke-On-Trent	A	0
-DDTECK LTD	Telford	A	0
 DDZ Interiors Ltd	Sheffield	A	0
 De Aston School Academy Trust	Market Rasen	A	0
 DE BAERE LIMITED	Greenford	A	0
@@ -2846,7 +2847,6 @@ DECONSTRUCTED LIMITED	Cleckheaton	A	0
 Decor (Bristol) Limited	Bristol	A	0
 DECOR RETAIL LTD	Maidenhead	A	0
 DECOR TRADER LIMITED	Uxbridge	A	0
-DECORATIVE CONCEPTS UK LTD	Slough	A	0
 Decorative Panels Holdings Ltd	Elland	A	0
 DECORE4U LTD	Wolverhampton	A	0
 Decus Insurance Brokers Limited	London	A	0,4
@@ -2899,7 +2899,6 @@ DEEP HEALTHCARE SERVICES LIMITED	Leeds	A	0
 Deep Knowledge Analytics Limited	London	A	0
 Deep Medical	London	A	0
 DEEP OCEAN CONTRACTING LTD	Ilford	A	0
-Deep Planet Limited	London	A	0
 Deep Render Ltd	London	A	0
 Deep Science Ventures Ltd	Ingatestone	A	0
 Deep Sea Electronics Ltd	Hunmanby	A	0
@@ -2955,6 +2954,7 @@ Define Planning and Design Limited	Birmingham	A	0
 DEFINE SERVICES LTD	Kettering, Northamptonshire	A	0
 Defined Wine Ltd	Canterbury	A	0
 Definite Article Media Limited	London	A	0
+Definition Group Holdings Ltd	Leeds	A	0
 DEFNE TRADING LIMITED	London	A	0
 DEFOR Limited	Cardiff	A	4
 DEG FOODS LTD	London	A	0
@@ -3038,6 +3038,7 @@ Delicious Indian Cuisine Ltd	Fleckney	A	0
 Delicious Pizza (Ashford) Ltd	Staines	A	0
 Delicious Pizza (Kettering) Ltd	Luton	A	0
 Delicious Pizza London Limited T/A Herbies Pizza	High Wycombe	A	0
+DELICIOUS TEETH LIMITED	London,	A	0
 Delifrance UK Ltd	Leicester	A	0,4
 DELIGHT COFFEE LTD	London	A	0
 Delight Essential Services UK Limited t/a Dolphin Healthcare	Birmingham	A	0
@@ -3110,7 +3111,8 @@ Delta Air Lines Inc	Hammersmith	A	0,4
 Delta Alpha Psi	Kidlington	A	0
 DELTA CAPITA CONSULTING LTD	London	A	0,4
 Delta Capita Ltd	London	A	0
-DELTA CARE LTD	Preston	A	0
+DELTA CARAVANS INTERNATIONAL LTD	Hull	A	0
+Delta Care Ltd	Preston	A	0
 DELTA CEDAR LTD	Weybridge	A	0
 DELTA CHESFORD GRANGE OP CO LIMITED T/A CHESFORD GRANGE	Warwick	A	0
 Delta Consulting Group Ltd	London	A	0
@@ -3170,7 +3172,6 @@ Deluxe Services Limited	London	A	0
 Deluxe Sign Services Ltd	Colchester	A	0
 Deluxe Staffing Limited	Hounslow	A	0
 DELUXE SUPPORTED LIVING SERVICES LTD	Chadwell Heath	A	0
-DELUXSMILE LIMITED	London	A	0
 Delvendahl Martin LLP	London	A	0
 Dem Dx Limited	London	A	0
 DEM PHARMACEUTICALS LIMITED	London	A	0
@@ -3305,7 +3306,7 @@ Dentalcare Group	Hook	A	0
 Dentalessence	Worthing	A	0
 Dentality @ Hoddesdon	Hoddesdon	A	0
 Dentalnova Limited	Cwmbran	A	0
-Dentalserve.net Ltd	Gravesend	A	0
+Dentalserve.net Ltd	Rochester	A	0
 Dentaprime UK Plc	London	A	0
 DentaQuest LTD	Weston Super Mare	A	0
 DentArtWork Dental Care	Lechlade	A	0
@@ -3328,6 +3329,7 @@ Denton Go Local	Denton	A	0
 Denton St Lawrence Cricket Club	Denton	A	11
 Denton turret Medical Centre	Newcastle upon Tyne	A	0
 Denton West Cricket Club	Manchester	A	11
+DENTON-POWELL LIMITED	Dorset	A	0
 Dentons Europe LLP	London	A	0,4
 Dentons Global Services (UK) Holding Limited	London	A	0
 Dentons UK and Middle East Legal Services	London	A	0,4,7
@@ -3335,7 +3337,6 @@ Dentoworld	Colchester	A	0
 DENTOZEN LTD	Enfield	A	0
 DENTPRACTICE LTD	Bedford	A	0
 Dentsply IH Limited	Weybridge	A	0
-DENTSTONE LIMITED T/A NEWICK TANDOORI	East Sussex	A	0
 DENTSTONE LTD t/a Newick Village Tandoori	Newick	A	0
 DENTSU SOKEN UK, LTD.	London	A	0,4
 Dentsu Sports Europe Limited	London	A	0,4
@@ -3485,7 +3486,6 @@ Desi Kitchen And Grill Ltd	Immigham	A	0
 DESI LOUNGE UK LIMITED	Manhcester	A	0
 DESI OASIS LTD	London	A	0
 DESI PRODUCTION UK LTD	Hayes	A	0,3
-Desi Spice	Bradford	A	0
 DESI STREET LIMITED	London	A	0
 DESI STYLZ LTD T/A SALEEM TAWA & GRILL	Manchester	A	0
 Desi Swad Catering Ltd T/A Desi Swad	Hounslow	A	0
@@ -3557,7 +3557,7 @@ DESIRE RUGS LTD	Peterborough	A	0
 Desire Star Limited	London	A	0
 DESIRE TRADING LTD	Oldham	A	0
 Desired Care 4 U limited	Birmingham	A	0
-Desirefirm Consulting Group Limited	Barking	A	0
+Desirefirm Consulting Group Limited	Leigh-on-Aea	A	0
 Desiretech Ltd	Brentford	A	0
 Desirol Limited	Bedford	A	0
 Deskpro Ltd	London	A	0
@@ -3780,6 +3780,7 @@ DFC Swansea Ltd	Swansea	A	0
 DFD Care and Support Services Ltd	Corby	A	0
 DFDS Seaways PLC	North East Lincolnshire	A	0,4,7
 DFH MK MOTORS LTD T/A IDEAL CARZ	Milton Keynes,	A	0
+DFI.Com Ltd	Coalisland	A	0
 Dfittings Limited	Harrow	A	0
 DFK International	London	A	0
 DForest Bloom Limited	London	A	0
@@ -4052,7 +4053,6 @@ Diazone Computer Services Ltd	Sale	A	0
 DIBA INDUSTRIES LIMITED	Cambridge	A	0
 DIBAL UK LIMITED	Sidcup	A	0
 Diban Ltd	Offley, Hitchin	A	0
-DibCo Limited	London	A	0
 Dibend Ltd	Gosport	A	0
 DIBERA LTD	Durham	A	0
 Dice Consulting Engineers Ltd	Nottingham	A	0
@@ -4108,6 +4108,7 @@ Digger International Ltd	Blackburn	A	0
 DIGI BROADCAST COMPANY LIMITED	Chessington, London	A	0
 DIGI CONSULTANTS LTD	Romford	A	0
 Digi Technology Limited	Hatfield	A	0
+Digi Telecom Limited	Luton	A	0,4
 Digi World Consulting Ltd	Tebay	A	0
 Digi-Touch Limited	London	A	0
 DIGI4U LTD.	Cardiff	A	0
@@ -4190,7 +4191,6 @@ Digital Media Innovations UK LTD	Gloucester	A	0
 Digital Media Services UK Ltd	London	A	0
 Digital Media Technologies LTD	Hertford	A	0
 Digital Medical Supply UK Ltd	London	A	0,4
-Digital Mobile Innovations Limited	London	A	0,4
 Digital Moneybox Limited	London	A	0
 Digital News Agency Ltd	London	A	0
 Digital Odour Technologies Limited	Dagenham	A	0
@@ -4220,13 +4220,11 @@ Digital Therapeutics Ltd	London	A	0
 DIGITAL TRANSFORMATION CAPITAL PARTNERS UK LIMITED	London	A	0,4
 DIGITAL TRAVEL MARKETING GROUP LIMITED	Liverpool, Merseyside	A	0
 Digital Uncut	London	A	0,4
-Digital Unlimited Group Ltd	London	A	0
 Digital Voices Limited	London	A	0
 Digital Willow Ltd	London	A	0
 Digital Workforce Services Ltd	Warwick	A	0,4
 DIGITAL-I LIMITED	Bristol	A	0
 Digital.ai Software (UK) Ltd.	London	A	0
-DIGITAL.CAMZ LTD	Ilford	A	0
 DIGITAL2MARKETING LTD	Birmingham	A	0
 DIGITALAPICRAFT UK LTD	London	A	0,4
 DIGITALBRIDGE UK ADVISORS 1 LLP	London	A	0,4
@@ -4306,7 +4304,6 @@ Diluxshi Stores Ltd t/a Baba Express	London	A	0
 DIMA Group LTD	Andrew Gilmour	A	0
 Dimalnox UK Limited	London	A	0,4
 DIMARK LIMITED	London	A	0
-DIMENSION ABBAS BUILDERS LTD	Leicester	A	0
 DIMENSION FOUR TECHNOLOGY LIMITED	London	A	0
 DIMENSION PRINT LTD	London	A	0
 Dimensional Fund Advisors Ltd	London	A	0,4
@@ -4401,7 +4398,6 @@ Diploma PLC	London	A	0
 DIPLOMAT CHAUFFEURS LTD	Romford, England	A	0
 DIPOL PRINT LTD	Brighton	A	0
 Dipont International Limited	London	A	0
-Dippy Co. Ltd	Manchester	A	0
 DIPS FOODS LIMITED	Stanmore	A	0
 DIPTIS THREADING BAR LTD	Sheerness,	A	0
 Dirac Software Limited	London	A	0
@@ -4427,6 +4423,7 @@ Direct FM Ltd	Birmingham	A	0
 Direct Food Ingredients Limited	Cheshire	A	0
 Direct Glazing Limited	Luton	A	0
 Direct Health First Ltd.	Budleigh Salterton	A	0
+DIRECT HEALTH SOLUTIONS LTD	Rochester	A	0
 Direct Healthcare 24 Ltd	London	A	0
 Direct Healthcare Group	Caerphilly	A	0
 Direct Line Supplies Ltd	Thornaby	A	0
@@ -4485,6 +4482,7 @@ Disability Resource Centre	Birmingham	A	0
 Disability Sheffield Centre for Independent Living	Sheffield	A	0
 DISABLE TRAINING & ACCOMMODATION SERVICES LTD	London	A	9
 Disappearing Dining Club Ltd	London	A	0
+Disaronno International UK Limited	London	A	4
 Disasters Emergency Committee	London	A	0
 Disauthority Ltd	London	A	0
 Discotheque Fragrances Limited	London	A	0
@@ -4564,7 +4562,6 @@ Diti Tech Ltd	Amersham	A	0
 DITPHARM LTD	Cambridge	A	0
 Ditto Daily Ltd	London	A	0
 Ditto Ltd	Liverpool	A	0
-Ditton Wine Traders	London	A	0
 Ditty's Castledawson Ltd	Castledawson	A	0
 Ditye Limited T/A The Hyde Offy Essentials	Stevenage	A	0
 Diva Cafe Bistro	Southport	A	0
@@ -4735,6 +4732,7 @@ DKK Partners Ltd	London	A	0
 DKK Supplies UK Limited	Seaham	A	0
 DKL Resources Limited	Dagenham	A	0
 DKLM LLP	London	A	0
+DKM Healthcare limited	Coventry	A	0
 DKMS Foundation	London	A	0,4
 DKR IT Consulting UK Limited	Basingstoke	A	0
 DKR MANAGEMENT SERVICES LIMITED	Walsall	A	0
@@ -4907,6 +4905,7 @@ Doctify Limited	London	A	0
 Doctor Care Anywhere Group plc	London	A	0
 Doctor Care Ltd	London	A	0
 Doctor Clare Orrom Swan, Doctor Thanh Mai Nguyen, T/A Fitzrovia Medical Centre	London	A	0
+DOCTOR COST LIMITED	London	A	0
 DOCTOR HERBLTD	Leicester	A	0
 DOCTOR PHONE LIMITED	Manchester	A	0
 DOCTOR'S DIRECT PHARMA LTD	Runction	A	0
@@ -4971,7 +4970,6 @@ Dolly's Food Ltd T/A Subway	Kent	A	0
 Dollys News Ltd	London	A	0
 Dolma Kitchen	Eastbourne	A	0
 DOLMEN DEVELOPMENT UK LTD	Middlesbrough	A	0
-Dolon Limited	London	A	0
 DOLOS LTD	Bracknell	A	0
 Dolphin Care Agency LTD	Cardiff	A	0
 DOLPHIN CIVIL ENGINEERING LTD	Welwyn Garden City	A	0
@@ -5346,7 +5344,6 @@ Downtown Kitchen Limited	London	A	0
 DOWNUNDER GEOSOLUTIONS (LONDON) PTY LIMITED	London	A	0,4
 DOWNWOOD HOLIDAYS LTD	Dorset	A	0
 Dowson Food Machinery	Keighley	A	0
-Doxa Partners LLP	London	A	0
 DOXABETA LIMITED	London	A	0
 Doyle Clayton Solicitors Limited	London	A	0
 Doyle London Hotels Limited	London	A	0,4
@@ -5544,6 +5541,7 @@ Dr Vikram Bhat T/A Sai Medical Centre	Essex	A	0
 Dr Vilathgamuwa and Partners	London	A	0
 Dr Z Wiese	Cottenham	A	0
 Dr Zuleyha Cetinkaya t/a Sistova Road Dental Studio	London	A	0
+Dr's McVerry, McGee & Farnon	Newry	A	0
 DR-IME LIMITED T/A ADONIA MEDICAL CLINIC	London	A	0
 Dr. Fee Practice	Crossmaglen	A	0
 DR. FRIGZ LTD	Staines	A	2
@@ -5594,7 +5592,6 @@ Dragonfly Venture Group Ltd	St Albans	A	0
 Dragonheart Homes Limited	Orton Southgate	A	0
 DragonPass International	Cheshire	A	0
 Dragons Lounge Ltd	London	A	0
-Dragonwood Investment UK Ltd	Caridff	A	0
 Drainwork Solutions Ltd	Ware	A	0
 Drake Music Scotland	Edinburgh	A	0
 Drake Primary School	Thetford	A	0
@@ -5911,7 +5908,7 @@ DSPACE Limited	Melbourn	A	0,4
 Dsquare Childcare Limited	London	A	0
 Dsquared Ltd	Stamford	A	0
 DSR Autos Limited	Leicester	A	0
-DSR MOTORS LTD	Staines	A	0
+DSR MOTORS LTD	Shepperton	A	0
 DSR UK LTD	Southall	A	0
 DSRC UK Ltd	London	A	0,4
 DSRE Services Limited	Tadworth	A	0
@@ -5948,7 +5945,6 @@ DTCC Europe Limited	London	A	0,4
 DTD Courier & Cargo Limited	Leicester	A	0
 DTD Developments Ltd	Leicester	A	0
 DTDC Courier & Cargo (UK) Limited	Slough	A	0
-DTE HOLDINGS (NORTH WEST) LTD	Runcorn	A	0
 Dtechtive Limited	London	A	0
 DTEK International Ltd	London	A	0
 DTEK INVESTMENTS LIMITED	London	A	0,4
@@ -6076,8 +6072,8 @@ Dulwich Picture Gallery	London	A	0,3
 Dulwich Prep & Senior	London	A	0
 Dulwich Spice Ltd	London	A	0
 Dulwich Sports Club Limited	London	A	11
+DULWICH THERAPY ROOMS LTD	London	A	0
 Dum Factory Limited	Uxbridge	A	0
-Duman Bold Street Ltd	Liverpool	A	0
 Dumarey Flybrid Limited	Silverstone	A	0
 Dumbleton Cricket Club	Evesham	A	11
 Dumbo London Limited	London	A	0
@@ -6095,7 +6091,6 @@ Dun Cow Bar & Grill Ltd	Telford	A	0
 Duna Films Ltd	London	A	0
 Dunamis Healthcare Limited	Wellingborough	A	0
 Dunamis Homes Limited	Ilford	A	0
-Dunbai International Ltd	Bicester	A	0
 Dunbar Road Design Limited	London	A	2
 Dunbia (UK)	Llanelli	A	0,4
 Duncairn Medical Practice	Belfast	A	0
@@ -6184,7 +6179,6 @@ DUO SAFETY LIMITED	Liverpool	A	0
 Duolingo UK Limited	London	A	0,4
 Dupe VFX Limited	London	A	0
 Dur Fayez Estates Limited	London	A	0
-DURA Automotive Body & Glass Systems UK Ltd	Birmingham	A	0
 DURA BEDS LTD	Batley	A	0
 DURA COMPOSITES LTD	Clacton	A	0
 DURABLE BUILDERS LTD	Bradford	A	0
@@ -6202,7 +6196,7 @@ Durban Curry Club	Brighton	A	0
 Durbar Hospitality Limited T/A Gurkha Royale Restaurant & Bar	Windsor	A	0
 DURDLE UK LIMITED	Hounslow	A	0
 Durell Software Ltd	Taunton	A	0
-Duress UK Limited	Beaconsfield	A	2
+Duress UK Limited	Beaconsfield	A	0,2
 DURGA AND SONS LTD T/A Jay Shree Krishna Jewellers UK	South Harrow	A	0
 Durga Traders Limited t/a Lordship News Food and Wine	London	A	0
 Durham Animal Feeds Ltd	Newton Aycliffe	A	0
@@ -6294,7 +6288,6 @@ DX CELLS TECHNOLOGIES CO., (UK) LIMITED	London	A	0
 DX Network Services Limited	Slough	A	0
 DXB AUTOS LTD	Birmingham	A	0
 DXB PERFUME RETAIL LIMITED	Bradford	A	0
-DXB RETAIL LIMITED	Gloucester	A	0
 Dxcover Ltd	Glasgow	A	0
 DXG Investments Ltd	Birmingham	A	0
 DXN INTERNATIONAL (UK) LIMITED	London, England	A	0
@@ -6325,7 +6318,7 @@ Dynabite Limited	Newcastle Upon Tyne	A	0
 DynAikon Ltd	Milton Keynes	A	0
 DYNALINER LTD	London	A	0
 DYNAMATIC LIMITED UK	Swindon	A	0,4
-Dynamatix Ltd	Milton Keynes	A	4
+Dynamatix Ltd	London	A	4
 Dynament Limited	Mansfield	A	0
 Dynamic Air Services Ltd	Iver Heath	A	0
 Dynamic Art Nest Co Ltd T/A Propak UK	Horsham	A	0
@@ -6422,7 +6415,6 @@ E Leondaki Limited T/A Church Green Dental Practice	Witney	A	0
 E SERVICES DIRECT LTD	Bolton	A	0
 E&C Building and Design Ltd	London	A	0
 E1 Printing Limited t/a Faith Design & Print	London	A	0
-E1 Printing Limited T/A Faith Design & Print.	London	A	0
 E2 Dental Practice	London	A	0
 Eagle Building & Decorating Limited	London	A	0
 EAGLE RESOURCES LTD T/A PRIDE DRY CLEANERS	Birmingham	A	0
@@ -6486,7 +6478,7 @@ EDO Design & Construction Ltd	London	A	0
 Edtech Games Development Limited	London	A	0
 Education Development Trust	Reading	A	0,4
 Edward Drummond & Co Ltd	Bristol	A	0
-Edyn Development Studio Limited	London	A	0
+Edyn Development Studio Limited	London	A	0,4
 Effect Digital Ltd	Leicester	A	0
 EGG FREE CAKE BOX - DERBY2 LIMITED T/A CAKE BOX	Derby	A	0
 Egg Free Cake Box, Dartford Limited	Dartford	A	0
@@ -6497,7 +6489,6 @@ Egham Dental Care Limited	Berkshire	A	0
 EHAN & CO LTD T/A INDIAN AND BANGLADESHI DINING	Great Yarmouth	A	0
 Ehrmann Cornish Dairy Ltd	Lostwithiel	A	0,4
 EIGHT PEAKS DINE LTD	West Bromwich	A	0
-Eikoku News Digest Limited	London	A	0
 EITHAD DEVELOPERS LTD	Illford	A	0
 EK DENTAL AND AESTHETICS LTD	Peterborough	A	0
 EKAM DHANJAL LIMITED T/A TOWN FISH AND CHIPS	Burgess Hill	A	0
@@ -6563,8 +6554,8 @@ Energy Deployment Co. Ltd	Harrow	A	0
 energy design studio ltd t/a and-now	Harrow	A	0
 Energy Developments (UK) Limited	Towcester	A	4
 ENERGY PRICES DIRECT LIMITED	Glasgow	A	0
-ENGAGE DIGITAL PARTNERS	London	A	0
 Engage Digital Partners Limited	London	A	0
+Engineering and Development Solutions Limited	Truro	A	0
 ENGINEERING DESIGN & SUPPLIES LTD	Ellistown	A	0
 Engineering Design Consultants London Limited	London	A	0
 Engineering Systems Design (Group) Ltd	Bolton	A	0
@@ -6887,6 +6878,7 @@ G H Davies Holdings Limited	Shropshire	A	0
 G M DEVELOPERS GROUP LIMITED	Manchester	A	0
 G N R DESIGN AND BUILD LTD	Hounslow	A	0
 G T G Dodd t/a G T G Dodd & Son	Chester	A	0
+G& D Retailers Ltd	Durham	A	0
 G&H Engineering and Diving Services Ltd	Feltham	A	0
 G-TEC DISTRIBUTION LIMITED	Middlesex	A	0
 G.A. Design International Limited	London	A	0
@@ -7053,6 +7045,7 @@ Government Actuary's Department	London	A	0
 GP Direct	Harrow	A	0
 GR Digital Ltd T/A Zygo Media	Swansea	A	0
 Grace Church Dulwich	London	A	9
+Grady dental ltd	Glasgow	A	0
 Graff Diamonds Limited	London	A	0,4
 Graham's the Family Dairy	Bridge of Allan	A	0
 Grainger Park Dent Ltd	Newcastle upon Tyne	A	0
@@ -7381,6 +7374,7 @@ Horizontal Drilling International UK Branch	Newcastle Upon Tyne	A	0,4
 Horncastle Dental Practice Partnership	Horncastle	A	0
 Hornsey Day Nursery	London	A	0
 Hornsey Dental Centre	London	A	0
+HORSHAM DINING LTD	London	A	0
 Horstman Defence Systems Limited	Bath	A	0,4
 Hospital Direct (Marketing) Ltd	Clun	A	0
 Hot Pot Digital Limited	London	A	0
@@ -7536,6 +7530,7 @@ Infopro Digital Services Ltd	London	A	0
 Information Development Co., Ltd. London Branch	London	A	0,4
 INFOSOFT DYNAMICS LTD	London	A	0
 Infra Dev Con Limited	Milton Keynes	A	0
+INGENIERIA DEL ANDAMIO Y SERVICIOS AQUA UK	London	A	0,4
 Ingenuity Digital Limited	Leeds	A	0
 Ink Digital Ltd	Brentwood	A	0
 INLON DISTRIBUTION LTD	Thornton Cleveleys	A	0
@@ -7606,6 +7601,7 @@ Inventure Soho Ltd T/As Dodo Supermarket	London	A	0
 INVEON DIGITAL COMMERCE SOLUTIONS LTD	Buckinghamshire	A	0
 Inver House Distillers Limited	Lanarkshire	A	0
 Inverse Lighting Design Ltd	London	A	0
+INVERT DEVELOPMENTS LIMITED	London,	A	0
 Invertek Drives Limited	Welshpool	A	0,4
 Inverter Drive Repair Limited	Aldershot	A	0
 Investis Digital Limited	London	A	0,4
@@ -7701,7 +7697,6 @@ James Park Associates Ltd (JPA Design)	Yorkshire	A	0
 James Pegg Dentistry	York	A	0
 James Wallace (Dumfries) Limited	Dumfries	A	0
 James White Drinks LTD	Ashbocking	A	0
-JAMIA DARUS SUNNAH LONDON	London	A	0,9,10
 JAMS Development Pvt Ltd	Reading	A	0
 Jan De Nul UK Limited	Ascot	A	0
 Jan's Global Limited T/A DZRT	London	A	0
@@ -7744,7 +7739,6 @@ Jessica May Design	Chinley	A	0
 JESUS DECIPLES' COMMUNITY CHURCH	London	A	9,10
 JEWELS PASSION DETAILING LTD	London	A	0
 JEYRAJANS DENTAL CARE LTD	Hounslow England	A	0
-Jfg Care Limited, T/A Mint Dental Care Kingseat	Aberdeenshire	A	0
 Jhambs Driving School	Great Linford	A	0
 Jhetam Developments Limited	Loughton	A	0
 JHR DEVELOPMENTSLIMITED	Dronfield	A	11
@@ -7917,6 +7911,7 @@ KKB SMILES LTD T/A ELM HOUSE DENTAL PRACTICE	Crawley Down	A	0
 KKISS DESSERTS LTD	London	A	0
 Klinera Data Services Limited	London	A	0
 KLM Royal Dutch Airlines	Bedfont	A	0
+KM Development Consultancy Limited	London	A	0
 KNDS DEFENCE UK LIMITED	Stockport	A	0,4
 Knight Dragon Developments Limited	London	A	0
 Knight R& D Limited	London	A	0
@@ -7926,7 +7921,7 @@ Knox Digital Limited	London	A	0
 Ko Dental Practice	London	A	0
 KOIOS Master Data Limited	Winchester	A	0
 Kokoro Durham LTD	Walton-On-Thames	A	0
-KOLA DESIGN LTD	Birmingham	A	0
+KOLA DESIGN LTD	Upminster	A	0
 Komodo Digital Ltd	Newcastle upon Tyne	A	0
 Konami Digital Entertainment B.V.	Windsor	A	0,4
 Konecranes Demag UK Ltd	Ashby De La Zouch	A	0,4
@@ -8196,7 +8191,6 @@ Lyndhurst Dental Practice Ltd	Hastings	A	0
 LYNX DRY CLEANIGN SUPPLIES LTD	Hainault	A	0
 M & D Business Limited	Street	A	0
 M & D Care Operations Limited	Carmarthen	A	0
-M & D Careplus Limited T/A Bluebird Care Tamworth, Lichfield, Nuneaton & North Warwickshire	Tamworth	A	0
 M & D MADINA LTD	Aberdeen	A	0
 M & M Food Store/ Day-Today	Hamilton	A	0
 M & M SONS DRYCLEANERS LTD	London	A	0
@@ -8230,7 +8224,6 @@ M95 DORCHESTER LIMITED T/A THE SUNDORBON	Dorchester	A	0
 MA Shop Design Limited	Leicester	A	0
 MAA FOOD BAZAR (DEVONS) LTD	London	A	0
 MAA Trading LTD T/A Drayton Prime Pharmacy	Portsmouth	A	0
-MAAPS Design & Architecture Limited	London	A	0,3
 Mably Dairies Limited	Wadebridge	A	0
 Mac Dental Centre Limited	Cheshire	A	0
 MAC Traders Ltd t/a Day Today	Glasgow	A	0
@@ -8397,7 +8390,7 @@ Medical Diagnosis Limited	London	A	0
 Medical Doorway Limited	Newcastle Under Lyme	A	0
 Medical Group Partners LTD T/A Drip Hydration	London	A	0
 Medicines Discovery Catapult Ltd	Macclesfield	A	0
-MEDICOM DISTRIBUTION LIMITED (15544816)	Leicestershire	A	2
+MEDICOM DISTRIBUTION LIMITED (15544816)	London	A	2
 Medihealth Direct Ltd t/a Medihealth Direct	Nottingham	A	0
 MediMatch Dental Laboratory	London	A	0
 Medina Dairy Bolton Ltd	Bolton	A	0
@@ -8594,7 +8587,6 @@ Mr Dhirendra Patel and Mrs Seemaben Patel trading as Fifth Road Stores	Newbury	A
 MR DJ LTD	Lichfield	A	0
 Mr F Arbabi/ Dental Care Centre Limited T/A Dental Care Centre	London	A	0
 Mr Guillermo Elias Grande Vargas t/a Del Mar Restaurant and Pizzeria	Perranporth	A	0
-Mr Jean Francois Decaux	London	A	11
 Mr Jones Design Limited	London	A	0
 Mr K Jayaharan, Mr M Mahalingam & Mr K Vasantheruban T/A Daily Stop Dovecot	Liverpool	A	0
 Mr Kanahasunderam Jayaharan & Mr Mahalingham Mathanraj T/A Daily Stop Litherland	Liverpool	A	0
@@ -8668,7 +8660,7 @@ N & Z RETAIL EXPRESS LTD T/A DAY TODAY	Glasgow	A	0
 N D Connors Farms Limited	Melton Mowbray	A	0
 N D DE SILVA LTD	Birmingham	A	0
 N Dental ltd	Cardiff	A	0
-N P Josan Dalston Ltd	Ilford	A	0
+N P Josan Dalston Ltd	London	A	0
 N P Josan Dover Ltd	Ilford	A	0
 N S D (UK) LTD	Newcastle Upon Tyne	A	0
 N&S DEVELOPMENTS LTD	Surrey	A	0
@@ -8698,6 +8690,7 @@ National Grid Electricity Distribution (South West) plc	Bristol	A	0,4
 NATIONAL IT DISPOSAL LIMITED	Manchester	A	0
 National Web Design Ltd	Croydon	A	0
 Nationwide Care Services (Derby) Ltd	Derby	A	0
+Nationwide Care Services (Dudley) Ltd	Dudley	A	0
 Native Design Limited	London	A	0,4
 NATO - DIANA	London	A	5
 NatPower Development Limited	London	A	0
@@ -8712,6 +8705,7 @@ NAZZY DEALERSHIP LTD	Barking	A	0
 NBA FOODS LIMITED t/a Heavenly Desserts	Wembley	A	0
 NCC Graphic Design Ltd	Coventry	A	0
 ND CRIEFF LIMITED t/a Nickel and Dime	Stirling	A	0
+ND DUNDEE LTD	Arbroath	A	0
 Neal'sYard Dairy Ltd	London	A	0
 Neasham Road Dental Practice	Darlington	A	0
 NEC ART & DESIGN LTD	London	A	0,2
@@ -8871,7 +8865,7 @@ NOTTINGHAM ROMAN CATHOLIC DIOCESAN TRUSTEES	Nottingham	A	1,10
 Nova Duvera UK Limited	London	A	0
 Novi Digital Limited	Lancaster	A	0
 Novo Dental Limited	London	A	0
-Novo Nordisk Research and Development UK Limited	Oxford	A	0,4
+Novo Nordisk Research and Development UK Limited	Oxford	A	0,4,7
 Novos Dental Clinic	Birmingham	A	0
 NOVOTECH DIGITAL LTD	London	A	0
 Novus Care Limited (Destia UK) - Canvey	Canvey Island	A	0
@@ -8890,7 +8884,6 @@ NTT Global Data Centers EMEA UK Ltd	Hemel Hempstead	A	0,4
 nTtau Digital Ltd	Oxford	A	0
 Nuclear Decommissioning Authority	Moor Row	A	0
 Nuffield Health - Hospitals Division	Epsom	A	0
-NUMI SCAN (DERBY) LTD	Derby	A	0
 NY TECH DIGITAL LTD	London	A	0
 NY-DO Design LTD	London	A	0
 O. Heap & Son (Derby) Limited	Derby	A	0
@@ -9086,7 +9079,6 @@ Patel & Makwana Dentique Ltd T/A The Pepper Clinics	Peterborough	A	0
 Patel Brothers (Dunmow) Ltd t/a The Pizza Company	Cambridge	A	0
 Paterson Dental Care Limited	Falmouth	A	0
 PATIALA SERVICES LTD T/A HARRY DRIVING SCHOOL	Uxbridge	A	0
-Patrick Distinct Consulting Limited	Rotherham	A	0
 Paul Archer Design Ltd	London	A	0
 Paul Davis Fencing Academy Ltd	St Albans	A	11
 Paul Dennis Metalworks Ltd	Brecon	A	0
@@ -9159,7 +9151,6 @@ PHINIA Delphi UK Ltd	Gillingham	A	0,4
 PHINIA DELPHI UK LTD	Warwick	A	0,4
 PHOENIX COMMUNITY HOUSING ASSOCIATION (BELLINGHAM AND DOWNHAM) LIMITED	London	A	0
 Phoenix Dance Theatre	Leeds	A	0,3
-Phoenix Dental Practice (Avraam Demetriou)	London	A	0
 Phoenix Product Development Limited	Westminster Bridge Road	A	0
 Phoenix Wholesale & Distribution Ltd	Peterlee	A	0
 PHONE DEPOT LTD	Oldbury	A	0
@@ -9177,12 +9168,10 @@ Pimberly Software Development Limited	Manchester	A	0
 Pimientos Stirling Ltd t/a Om's Indian Delight	Stirling	A	0
 PINAL DAYA, T/A LONDIS	Northampton	A	0
 PingPong Digital Ltd.	Birmingham	A	0,4
-Pink Diamond Limited	Tarporley	A	0
 PIONEER DRY CLEANERS LTD	London	A	0
 Pioneering Data Tech Ltd	Glasgow	A	0
 PIPPA SMALL DESIGNS LTD	Northampton	A	0
 Pittham Dental Ltd	Littlehampton	A	0
-Pixel Direct Ltd	Walthamstow	A	0
 Pizza Angel Ltd T/A Dominos Pizza	London	A	0
 Pizza Delicious UK Limited	Rugby	A	0
 Pizza Delight Fleet Ltd TA Caprinos Pizza	Fleet	A	0
@@ -9260,7 +9249,7 @@ Prestigious Dry Cleaning Ltd	London	A	0
 Preston Circus Dental Practice	Brighton	A	0
 Preston Drove Store Ltd	Brighton	A	0
 PRICEBUY LIMITED T/A TRAFFIC DATA CENTRE	Ruislip	A	0
-Pride Developments	Cwmbran	A	0
+Pride Developments Group Ltd	Cwmbran	A	0
 PRIDE LOUNGE LTD T/A The Darjeeling	Sidcup	A	0
 Pride Retail Limited T/a Village Vape / Village Booze / Drinks Zone	Ashbourne	A	0
 Prima Donnas Restaurant Limited	Kent	A	0
@@ -9381,7 +9370,6 @@ R & D 2 Pizza Limited T/A Dominos Pizza	West Malling	A	0
 R & D PATEL LTD	High Wycombe	A	0
 R & H Fast Foods Ltd T/A D'lite Pizza	London	A	0
 R and D Reclaims Ltd	St Helens	A	0
-R AND S (SOUTH EAST) DEVELOPMENTS LIMITED	Maidstone	A	0
 R D Law UK Ltd	London	A	0
 R D Robins Upholsterers Limited	Epping	A	0
 R D Stores Ltd T/A Underwood Village Stores, Premier and Post Office	Nottingham	A	0
@@ -9439,7 +9427,6 @@ RAPID PROJECT DEVELOPMENT LTD	Inverurie	A	0
 Raptor Data Limited	Aberdeen	A	0
 Rasul Restaurant And Desserts LTD	Bathgate	A	0
 Rathern Ltd T/A DoubleTree by Hilton London ? Marble Arch	London	A	0
-Rathplace Developments Limited	Marlborough	A	11
 Ratio Digital Marketing Limited	London	A	0
 Rattu Development Ltd	Birmingham	A	0
 Ray Borley Dunkley LLP	Milton Keynes	A	0
@@ -9583,6 +9570,7 @@ Rite Fix diy Ltd	Manchester	A	0
 Ritu Dhariwal Ltd	Loughton	A	0
 River Dee Community Church	Flint	A	9
 RIVER DIRECT LIMITED	Dunstable	A	0
+River of Life Church (Dumfries)	Dumfries	A	1,10
 Riverside Dental Care	Plumstead	A	0
 Riverside Dental Centre	London	A	0
 Riverside Dental Centre Limited	Reading	A	0
@@ -9917,6 +9905,7 @@ Shop Diddo UK Limited	London	A	0
 Shop Direct Home Shopping Limited	Liverpool	A	0
 Shore Design Consultancy Ltd	Edinburgh	A	0
 Shoreditch Design Studio Ltd.	London	A	0
+SHOTTS DENTAL AND IMPLANT CENTRE LTD	Glenrothes	A	0
 Shout Digital Ltd	Newcastle upon Tyne	A	0
 Shree Digamber Jain Association	Harrow,	A	1,10
 Shree Krishna Deli Ltd T/A Dani's Deli	Colchester	A	0
@@ -9972,10 +9961,12 @@ SIV DORSET LTD	Bournemouth	A	0
 SIVAPIRIYA DAVIDSRIPALA T/A COPTHORNE VILLAGE STORE	Crawley	A	0
 SIX DEGREES HOLDINGS LIMITED	London	A	0,4
 Six Degrees Labs	Farnham	A	0
+Six Degrees Technology Group Limited	London	A	0
 Six Italian Food Ltd trading as L'Antica Pizzeria Da Michele	London	A	0
 SJ DELIVERY SOLUTIONS LTD	Greater Manchester	A	0
 SJ Smith and Associates Dental Practice	Whitehaven	A	0
 SJV Group T/A Happy Journeys Day Nursery	London	A	0
+SK Defence UK Ltd	London	A	4
 SK DENTAL PRACTICE LIMITED	London	A	0
 SK EXCEL DENTAL LTD	Todmorden	A	0
 SK Foods and Drinks Limited	Birmingham	A	0
@@ -10100,7 +10091,6 @@ Space Agency Design Ltd	Bristol	A	0
 Space Designing Limited	London	A	0
 Space Doctors Limited	Brighton	A	0,4
 Space DP LTD	Wakefield	A	0
-Spaced Digital Ltd	London	A	0
 Spacehub Design Limited	London	A	0
 SPAR DEANSGATE LTD	Manchester	A	0
 Spark Data Systems Ltd	Bristol	A	0
@@ -10284,6 +10274,7 @@ Sumitomo Mitsui DS Asset Management (UK) Ltd.	London	A	0,4
 Summer Discovery Europe Limited	Oxford	A	0
 SUMMER DUMPLING LIMITED	London	A	0
 Summerhall Distillery Ltd	Edinburgh	A	0
+Summon Digital Ltd	London	A	0
 SUMMR LTD T/A CRISPY DOSA LEICESTER	Leicester	A	0
 Sumo Digital Limited	Sheffield	A	0,4
 Sunlight Developments LTD - T/A RIPPLES	Wokingham	A	0
@@ -10373,7 +10364,6 @@ Taj Daar-E-Madina Organisation CIO	London	A	0,1,9,10
 Take Dat Ltd	Ilford	A	0
 TALKTALK BUSINESS DIRECT LIMITED	Salford	A	0
 Tamba Day Nursery	Romford	A	0
-Tamesis Dock Limited	London	A	0,3
 Tamrush Ltd t/a Duncans Chemists	Bromley	A	0
 Tamu Dhee Association UK	Mytchett	A	3
 Tamworth Business Ltd t/a Delhi Divan	Tamworth	A	0
@@ -10400,7 +10390,6 @@ Tax Direct Limited	Ilford	A	0
 TAXASSIST DIRECT LIMITED	Norwich	A	0
 Taxpoint Direct Limited	Loughton	A	0
 Taylex Displays Limited	Halsowen	A	0
-TBTT Direct Limited	Dudley	A	0
 TC Beattie & Co T/A Dalfibble Farming Partners	Dumfries	A	0
 TCD Durham Ltd	Durham	A	0
 TCM Direct Ltd	Bradford	A	0
@@ -10502,7 +10491,7 @@ The Dare2Dream Foundation CIC	Nuneaton	A	0
 The Dartington Hall Trust	Dartington	A	3,9
 The Data Business Ltd	Canterbury	A	0
 The Data Capital Group	Stockport	A	0
-The Data Company Group Limited	Birmingham	A	0
+The Data Company Group Limited	Hertfordshire	A	0
 The DataKirk	Edinburgh	A	0,9
 The Daughters of Charity of St Vincent de Paul CIO	London	A	1
 The Davan Group Limited	Saxilby	A	0
@@ -10541,7 +10530,6 @@ The Designers Graphic Ltd	Hemel Hempstead	A	0
 The Desk Warehouse Ltd	Belfast	A	0
 THE DESSERTERY LTD T/A BROWNHILLS DESSERTS	Walsall	A	0
 THE DESSERTS ROOM LTD	Ilford	A	0
-The Developer Academy	Sheffield	A	0
 The Devil's Punchbowl Hotel	Hindhead	A	0
 The Dexters Ltd	York	A	0
 THE DHAMMADHIPATI VIHARA (LONDON)	Middlesex	A	1,10
@@ -10621,7 +10609,6 @@ THE FOOTSOLDIERS DESIGN CONSULTANCY LIMITED	London	A	0
 The Fruit Tree Day Nursery	Camberwell	A	0
 The Frying Dutchman Cafe	Callander	A	0
 The Fuzzy Duck Cocktail Bar & Gastro Kitchen	Nuneaton	A	0
-The Garage Door Centre Ltd	Wellingborough	A	0
 The Giving Department	London	A	0
 The Glasgow Car Detailing Garage Ltd	Glasgow	A	0
 THE GLOBAL DIVERSITY FOUNDATION	Canterbury	A	0,9
@@ -10729,7 +10716,6 @@ the space* studio (*architecture & interior design) limited	Manchester	A	0
 The Spice Tree Ltd T/A De Baga	Leeds	A	0
 The Steam Dreams Rail Co Ltd	Guildford	A	0
 The Story Department	Richmond	A	0
-THE SYGNATURE DISH LTD	Rotherham	A	0
 The Thin White Duke	London	A	0
 The Tiny Tipple Drinks Company Limited	Maidstone	A	0
 The Tooth Sanctuary Limited T/A Dental Surgery	London	A	0
@@ -10788,6 +10774,7 @@ Thurmaston Dental Practice Limited	Leicester	A	0
 TIANA'S DECOR LIMITED	London	A	0
 Tibbalds Planning and Urban Design Ltd	London	A	0
 Tiddlers Daycare Ltd	Finsbury Park	A	0
+Tidworth Dental Clinic	Tidworth	A	0
 Tiedot Digital Ltd	Belfast	A	0
 Tilak Hina Dental Limited	Harrow	A	0
 TILE DEMAND LTD	Birmingham	A	0
@@ -10906,6 +10893,7 @@ TVISHA ENTERPRISE LIMITED T/A AMORE DESSERT CAFE	Pinner	A	0
 TW12Pub Limited T/a The Duke of Clarence	Hampton	A	0
 TWEED DENTAL CLINIC	Berwick On Tweed	A	0
 TWICKENHAM DENTAL CARE LTD	Twickenham	A	0
+TWIG DELIGHT LTD	Manchester	A	0
 Twin Dots Limited	Newmarket	A	0
 Twinkle Toes Day Nursery LTD	London	A	0
 Two:D Limited	London	A	0
@@ -10946,7 +10934,6 @@ UK Dream Property Group Ltd	Manchester	A	0
 UK DRI Ltd	London	A	0
 UK DRY CLEANING	Thornton Heath	A	0
 Uk DSK limited	Solihull	A	0
-UK Good Deals Limited T/A Black	Preston	A	0
 UK GUAN YIN CITTA DHARMA DOOR BUDDHIST CHARITY FOUNDATION	London	A	9
 UK HUA DZAN AMITABHA COLLEGE LTD	London	A	0
 UK MASTER DEVELOPMENTS LTD	Manchester	A	0
@@ -10980,7 +10967,6 @@ Universal Day Care Limited T/A Universal Day Care Centre	Wednesbury	A	0
 Universal Delivery Solutions Limited	Heston	A	0
 Universal Design Studio Limited	London	A	0,4
 Universal Dispense Systems Ltd	Hounslow	A	0
-Universal Distribution Ltd	Slough	A	0
 Universal Express Distribution Ltd	Isleworth	A	0
 University Dental Care Ltd	Swansea	A	0
 University Dental Practice	Southampton	A	0
@@ -11179,7 +11165,6 @@ WESTBURY DRY CLEANERS	Newcastle Under Lyme	A	0
 Westcliff Dental Practice Limited	Westcliff -on -Sea	A	0
 Western Digital (UK) Limited	Guilford	A	0,4
 WESTGATE DRY CLEANERS LTD	Canterbury	A	0
-WESTGATE INVESTMENT & BUSINESS DEVELOPMENT LTD	London	A	0
 Westminster Foundation for Democracy Limited	London	A	0
 Westminster Roman Catholic Diocese Trustee	London	A	1,10
 Weston Dental Centre	Runcorn	A	0
@@ -11206,6 +11191,7 @@ WIDNEY DENTAL CARE	Solihull	A	0
 WILD DOSE LTD	London	A	0
 Wilkinson Beven Design Limited	Birmingham	A	0
 Will Rudd Davidson (Edinburgh) Ltd	Edinburgh	A	0
+Will Rudd Davidson (Glasgow) Limited	Glasgow	A	0
 Willenhall Dental Care	Coventry	A	0
 William Drake Limited	Buckfastleigh	A	0
 William Thompson and Son Dumbarton Limited	Dunbartonshire	A	0

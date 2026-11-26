@@ -115,6 +115,7 @@
 15GIFTS LTD	Brighton	A	0
 16 Barrack Ltd TA Saffron Indian Restaurant & Pizza Place	Woodbridge	A	0
 16 Plus Care Support Solutions Ltd	Gloucester	A	0
+16 SIGNS LTD	Birmingham	A	0
 160B Consulting Ltd	Dungannon	A	0
 168 EXPRESS LTD	Caldicot	A	0
 16CS Operations Ltd	London	A	0
@@ -135,6 +136,7 @@
 18 NOVEMBER LTD	Ilford	A	0
 18 WEEK SUPPORT LIMITED	London	A	0
 18.01 London Limited	London	A	0
+180 Studios Software (UK) Limited	London	A	0
 184 DISTRIBUTION LIMITED	Cambridge	A	0
 1854 Media Limited	London	A	0
 186 LONDON LIMITED	London	A	0
@@ -207,7 +209,7 @@
 1ST TRANSPORT INNOVATION (READING) LTD	Reading	A	0
 1ST VISA INTERNATIONAL LIMITED	London	A	0,6
 1stavenue.co.uk Ltd	Bromley	A	0
-1stCurve Limited	Hockley	A	0
+1stCurve Limited	Southend	A	0
 1STOP GLAZING LIMITED Trading as Imperial Glazing Solutions	Ilford	A	0
 1stopbabystore ltd	London	A	0
 1SW EVENTS LONDON LTD	Alfreds Way	A	0
@@ -215,7 +217,7 @@
 2 Agriculture Limited T/A 2 Agriculture	Newbridge	A	0
 2 Bro's Pizza & Dessert ltd	Luton	A	0
 2 Brothers Dinning Limited	Birmingham	A	0
-2 CARERS LTD	Stafford	A	0
+2 CARERS LTD	Stoke-on-Trent	A	0
 2 Chai Ltd	London	A	0
 2 degrees Limited	Oxford	A	0
 2 EXCEL ENGINEERING LIMITED	Lasham	A	0
@@ -268,7 +270,7 @@
 24/7 Helping Hands Service	Leicester	A	0
 24/7 Hire & Property Maintenance Services Limited	Liverpool	A	0
 24/7 Medicine Limited T/ A 24-7 Pharmacy	Liverpool	A	0
-24/7 MY MART LIMITED	Brierly Hill,	A	0
+24/7 MY MART LIMITED	Wolverhampton	A	0
 24/7 RETAIL LTD	Manchester	A	0
 24/7 Support UK Limited	Peterborough	A	0
 247 ALLIANCE LTD	Birmingham	A	0
@@ -284,7 +286,7 @@
 24Haymarket Limited	London	A	0
 24HRS HC Home Care Services LTD	Hudderfield	A	0
 24SQ LIMITED	London	A	0
-24X7 CHESTER LIMITED	Crewe	A	0
+24X7 CHESTER LIMITED T/A MORRISON DAILY	Crewe	A	0
 24x7 Limited	Dunmow	A	0
 25 St.Johns Practice Ltd	Oxford	A	0
 25-28 Limited	London	A	0
@@ -334,7 +336,6 @@
 2M Health & Home Care Ltd	Smethwick	A	0
 2MS CONSTRUCTION LTD	Newmarket	A	0
 2nd Wind IT Limited	London	A	0,2
-2R Capital Investment Management Limited	London	A	0
 2R1 Limited T/A German Doner Kebab	Ruislip	A	0
 2R2 LTD	Ruislip	A	0
 2R3 LTD	Ruislip	A	0
@@ -593,6 +594,7 @@
 44 ENERGY LTD	London	A	0,4
 444 Rentals Ltd	Manor Park	A	0
 44Pixels Limited	London	A	0
+45 Gleneagles Close , South Oxhey	Watford	A	0
 47 KITCHEN & CATERING LTD	Bury	A	0
 474 Management Limited T/a Duke Of Design	Greenford	A	0
 4986 MILES LTD T/A GOAT	Upminster	A	0
@@ -613,6 +615,7 @@
 4Diamonds LTD	Lisburn	A	0
 4DS NURSERIES AND PRE SCHOOL LTD	Canterbury	A	0
 4Eden	Penrith	A	0
+4EI Limited	Bristol	A	0
 4Ever Care UK Ltd	Blackburn	A	0
 4Fashions Ltd	Manchester	A	0
 4FEET RETAIL LTD	London	A	0
@@ -638,7 +641,7 @@
 4RDigital Limited	London	A	0
 4S GLOBAL LIMITED	Coventry	A	0
 4S UK CONSULTING LIMITED	Reading	A	0
-4site Consulting Limited	Feering	A	0
+4site Consulting Limited	Feering	A	0,6
 4Site Recruitment limited	London	A	0
 4SSG UK Limited	Birmingham	A	0
 4Syeds Ltd	Neston	A	0
@@ -682,6 +685,7 @@
 51 Cargo Services Ltd	Newton-Le-Willows	A	0
 515 Capital Limited	Radlett	A	0
 519 ENFORCEMENT GROUP LTD	Essex	A	0
+51Folds.AI Limited	Rochester	A	0
 51tocarbonzero Limited	Twemlow	A	0
 528 International Limited T/A MBM LIMITED	Liverpool	A	0
 53 House LLP	London	A	0
@@ -756,8 +760,6 @@
 7 SEAS SEAFOOD LTD	Croydon	A	0
 7 STAR & CO PRIVATE LIMITED	Pudsey	A	0
 7 STAR BLINDS LIMITED	Manchester	A	0
-7 Star Consultancy Limited	Hounslow	A	0
-7 Star Consultancy Limited	Southall	A	0
 7 Star Ltd	Hayes	A	0
 7 STAR MERCHANT LTD	Manchester	A	0
 7 STAR TRADING LTD	Bristol	A	0
@@ -768,7 +770,6 @@
 725 Limited	Gravesend	A	0
 73 Strings Ltd	London	A	0
 73 WR Ltd T/A Pizza Hut Delivery	Peterborough	A	0
-75 Media Limited	Leeds	A	0
 750mph Limited	London	A	0
 76 Harley Street Ltd	London	A	0
 77 Diamonds Limited	London	A	0
@@ -999,6 +1000,7 @@ Beyond 2050 Limited	London	A	0
 BFH (42) Limited	London	A	0
 BGF 3 LIMITED T/A German Doner Kebab	Birmingham	A	0
 BGF 4 Limited	Walsall	A	0
+BGF 4 Limited T/a German Doner Kebab	Walsall	A	0
 BGF 5 LIMITED	Birmingham	A	0
 Bhandal Care Group (1st Care UK) Ltd	Woodhall Spa	A	0
 BHANSA LTD T/A 8848 Restaurant	Aberdeen	A	0
@@ -1124,7 +1126,7 @@ Christian Care Homes. Registered Charity 299522	Stanford-Le-Hope	A	0
 CHUI CHOK 2016 LIMITED	London	A	0
 Circle 13 Limited	London	A	0
 Citizens Advice 1066	St Leonards-on-Sea	A	0
-City 1st Ltd	Slough	A	0
+City 1st Ltd	Maidenhead	A	0
 CLAIM 247 LTD	Salford	A	0
 Class 1 Personnel Limited	Hounslow	A	0
 CLASS 1 WINDOWS AND DOORS LIMITED	Feltham	A	0
@@ -1241,8 +1243,7 @@ EASE 26 LIMITED T/A Cam Spice	Cambridge	A	0
 EASY SHOPPING 4 HOME LIMITED	Oldbury	A	0
 EASY SHOPPING 4 HOME LTD	Oldbury	A	0
 Ecatsue 2 Limited T/A Allendale House Care Home	Hedon	A	0
-Eclipse 26 - Trading as Piglets Pantry Ltd	Worthing	A	0
-ECO 247 LTD	St Asaph	A	0
+Eclipse 26 Ltd - Trading as Piglets Pantry	Worthing	A	0
 EDEN ENTERPRISE 1 LTD	Glasgow	A	0
 Eden Foods (2012) Ltd	Wisbech	A	0
 Edge Services (2014) Ltd	London	A	0
@@ -1273,7 +1274,6 @@ ESTAR (2018) LIMITED	London	A	0
 EURO FOOD & WINE 219 LTD	London	A	0
 EURO LINX 3 LTD	Ilford	A	0
 EURONET 360 FINANCE LIMITED	London	A	0
-Everest 1 Limited t/a K2 Balti House	Hemel Hempstead	A	0
 Everest 8 Limited T/A Everest Dine	Hinckley	A	0
 Everest Inn 2026 Ltd	Dunfermline	A	0
 Everything 13 Ltd T/A Londis	Bracknell	A	0
@@ -1377,6 +1377,7 @@ GURKHA INN 17 LTD	Winchester	A	0
 H&J Fresh Food Ltd T/A Store 46787	Norwich	A	0
 HAFIZ MUSTAFA 1864 LONDON LTD	London	A	0,4
 Halal Consultations 2013 Limited	Solihull	A	0
+Hamilton & Pollock 2012 Limited T/A HDKP	Hertfordshire	A	0
 Hamsard 3768 Limited	London	A	0
 Handi 171 Ltd	Doncaster	A	0
 HANGAR 13 UK LIMITED	Brighton	A	0,4
@@ -1492,6 +1493,7 @@ Kerem Mert 19 Ltd	Merseyside	A	0
 Key 2 Care T/A Derbyshire Care Services	Derby	A	0
 KEY HOST HOLIDAY HOMES RENTAL UK LTD (15441751)	England	A	2
 KH 10 Ltd	Ealing	A	0
+Ki 13 Ltd	London	A	0
 KIARA 18 LTD	Sittingbourne	A	0
 Kiost 1 Lower Balcony	Leeds	A	0
 KITCHEN 71 LIMITED	Morley	A	0
@@ -1591,7 +1593,7 @@ Medex 24 LTD	Ilford	A	0
 Media 10 Limited	Loughton	A	0
 Medicine 8 Ltd. Trading as Medicine Bakery	Wolverhampton	A	0
 MEDICINES 4 U LTD	Pinner	A	0
-MEDICOM DISTRIBUTION LIMITED (15544816)	Leicestershire	A	2
+MEDICOM DISTRIBUTION LIMITED (15544816)	London	A	2
 Medusa 622 Limited	London	A	0
 MEEM 76 Ltd T/A MEEM Associates	London	A	0
 MEGASTORE 2 U LIMITED T/A MEGASTORE 2 U	Birmingham	A	0
@@ -1786,7 +1788,6 @@ QUANTEA SITE 2 LTD	London	A	0
 Quantum 21 Ltd T/A PlayMeTech	London	A	0
 Quantum 4 Ltd	Market Harborough	A	0
 Quickmove 24/7 Ltd	London	A	0
-QUORIS 3D LIMITED	Irvinestown	A	0
 R & D 2 Pizza Limited T/A Dominos Pizza	West Malling	A	0
 R 4 R Service Station	Gillingham	A	0
 Radhuni 1 Ltd	Belfast	A	0
@@ -1903,7 +1904,6 @@ Space 48 Limited	Manchester	A	0
 Spark Foundry Limited (Trading as Blue 449)	London	A	0,4
 SPC 2021 Ltd	Great Eccleston	A	0
 Speedy Service 2000 ltd	Bury	A	0
-Spice 21 Ltd t/a York Tandoori	York	A	0
 SPICE 4 U (PICKERING) LTD	North Yorkshire	A	0
 Spice of Life 786 Ltd,	Hamilton	A	0
 SPICES 7 LTD	Hinckley	A	0
@@ -1997,6 +1997,7 @@ Tech 4 You Limited	London	A	0
 TECHNO GULF LIMITED (15269387)	London	A	2
 TECHSPACE 360 LIMITED	Edinburgh	A	0
 Telecom 2 Ltd	London	A	0
+TEMPFENCING 24/7 LTD	Lutterworth	A	0
 Ten 4 Design Limited	London	A	0
 Tera 13 Ltd t/a Bazaar Foods	Milton Keynes	A	0
 Terlos 1 Limited	London	A	0

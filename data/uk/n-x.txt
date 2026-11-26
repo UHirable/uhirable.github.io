@@ -250,7 +250,7 @@ XIAOPANG EXPRESS LIMITED	Glasgow	A	0
 Xiaowangzi Media Ltd	Hull	A	0
 Xiatech Ltd	London	A	0
 XiCare Limited	Leigh-On-Sea	A	0
-Xilinx XDC	Edinburgh	A	0
+Xilinx XDC	Penicuik	A	0
 Xim Limited	Southampton	A	0
 XIN DANCE LTD	Birmingham	A	0
 Xinde Jiabai UK Co., Ltd.	London	A	0

@@ -191,6 +191,7 @@ AAMBROS TRADING LTD	London, England	A	0
 AAN TECHNOLOGIES LIMITED	Northwitch	A	0
 Aanco (UK) Limited t/a Made for Trade	Bllingham	A	0
 AANS FABRICS & TAILORS LTD	Manchester	A	0
+AARAV TRANSPORT LTD	Stoke-On-Trent	A	0
 AARNA CONNECT TECH SERVICES LTD T/A AARNA CONNECT	Slough	A	0
 Aaron Terence Hughes Ltd	Salford	A	0
 AARYA TECHNOLOGIES LTD	Wokingham	A	0
@@ -282,7 +283,7 @@ Acer Tree Investment Management LLP	London	A	0
 Acer Trust	Oxford	A	0
 ACES Academies Trust	Huntingdon	A	0
 Achieve Teachers Ltd	London	A	0
-Achieve together Limited	Twerton	A	0
+Achieve together Limited	Leatherhead	A	0
 Achievement through Collaboration	Preston	A	0
 ACLAS Technics Ltd	Livingston	A	0
 ACO Technologies plc	Shefford	A	0
@@ -346,7 +347,6 @@ Advanced Tooling Systems UK Ltd	Maidstone	A	0
 Advanced Vision Technology Limited	Marlow	A	0
 Advanced Visualisation Technologies Ltd T/A Digital Autopsy UK	Sheffield	A	0
 ADVENTURE PRIVATE TRANSPORT LTD	Accrington	A	0
-Advita Ltd T/As Smart food and wine	Hampshire	A	0
 Advokatfirmaet Thommessen AS	London	A	0,4
 ADZ NETWORK LTD T/A Chillies Tandoori	London	A	0
 AECOM ENGINEERING TECHNOLOGY SERVICES LTD	London	A	0
@@ -411,7 +411,7 @@ AI Recruitment Technologies Limited	Knowsley	A	0
 Ai Tea Drinks Limited	Huddersfield	A	0
 AI TECH BUILDERS LTD	London	A	0
 AI Tech Ltd	London	A	0
-AIDEM TECHNOLOGIES LTD	London	A	0,4
+AI Technology Consulting ltd	Cheltenham	A	0
 AIIM RESEARCH AND TRAINING LTD	Canterbury,	A	0
 AIIM Trading Ltd	Rotherham	A	0
 Aimee Grey t/a Cherry Bones Tattoo	Peacehaven	A	0,3
@@ -479,7 +479,6 @@ AKStart Trading Limited	Edinburgh	A	0
 AKSYA TECHNOLOGIES LTD	London	A	0
 Aktuel Translations Ltd	Henley on Thames	A	0
 AL AMAAN EDUCATION TRUST	London	A	1,9,10
-AL AQSA TRAVEL & TOUR LTD	Birmingham	A	0
 AL BARKA FOODS LIMITED Trading as Caprinos Pizza Banbury	Banbury	A	0
 AL BUSHRA METAL TRADING LTD	Birmingham	A	0
 Al Hijrah Trust (CIO)	Birmingham	A	1,10
@@ -655,6 +654,7 @@ Ambin Ltd t/as Friary Pharmacy	Old Windsor	A	0
 AMBITION COMMUNITY TRUST	Dukinfield	A	0
 Ambition Education Trust	St Albans	A	0
 AMBUSH STREET TRADING LIMITED T/A Ambush Street Mini Market	Northampton	A	0
+Amc Accountants Ltd T/A TaxAssist Accountants	Manchester	A	0
 AMCK Management Ltd. (Trading as AMCK Models & AMCK Dance)	London	A	0,3
 AME Trade	London	A	0
 AMERICAN TECHNO CONTROLS LTD	Cheadle	A	0,4
@@ -678,7 +678,7 @@ Amorim Top Series Scotland Limited	Dundee	A	4
 Amos Trust	London	A	0
 Amphenol Thermometrics (UK) Limited	Taunton	A	0
 Amphista Therapeutics Limited	Cambridge	A	0
-Amphora Technologies Limited	Belfast	A	0
+Amphora Technologies Limited	Lisburn	A	0
 Ample Harvest 555 Group Ltd t/as The Real Pizza Company(Sutton Coldfield)	Birmingham	A	0
 Amplify Trading Limited	London	A	0
 AMR Group Ltd T/A Sofra Turkish Cuisine	Blackburn	A	0
@@ -704,6 +704,8 @@ Andor Technology	Belfast	A	0,4
 ANDOVER TRAILERS LIMITED	Hampshire	A	0
 Andrew Bunt t/as Ta Moko Espresso	Salisbury	A	0
 Anduin Transactions UK LTD	London	A	0,2
+Andy Thornton Limited	Elland	A	0
+Anemoi Marine Technologies Ltd	London	A	0
 Angad Trading Limited	London	A	0
 Ange Trusted Care Limited	Fareham	A	0
 Angel Sherston Limited trading as The Angel	Sherston	A	0
@@ -737,7 +739,6 @@ Apave TIV UK Ltd	Warrington	A	0
 APCO Technologies Services Ltd	Didcot	A	0,4
 APEX ACCOUNTANTS & TAX ADVISORS LTD	Chigwell	A	0
 Apex Additive Technologies Ltd	Ebbw Vale	A	0
-Apex Techno Limited	London	A	0
 APG Technologies Limited	London	A	0
 API Software Limited (Trading as "AutoRek")	Glasgow	A	0
 Apis Assay Technologies	Manchester	A	0
@@ -746,7 +747,6 @@ Aplin Smile Limited T/AS The Gentle Touch Dental Practice	Kelso	A	0
 APNA STORES TUNSTALL LTD	Stoke-On-Trent	A	0
 APNA TRAD1NG LIMITED	Accrington	A	0
 APNA TRAVEL & TOURS LTD	Rotherham	A	0
-Apna Tyres Ltd	Halifax	A	0
 APOLLO HEALTHCARE & TRAINING LTD	Bolton	A	0
 Apollo Tyres (UK) Holdings Ltd	London	A	0,4
 APOLLON TRADING LTD	London	A	0
@@ -780,7 +780,7 @@ Aquinas Church of England Education Trust	Bromley	A	0
 AR HOLISTIC THERAPIES	Bradford	A	0
 AR MOBILES & TECHNOLOGY LTD	Ashby-De-La-Zouch	A	0
 AR Tech Support Ltd	Slough	A	0
-AR TELEVISION NETWORK LTD	London	A	0
+AR TELEVISION NETWORK LTD	Dagenham	A	0
 AR TRANSPORT MIDLANDS LTD	Wednesbury	A	0
 AR1 Trading Ltd T/A Pepe's Musselburgh	Edinburgh	A	0
 ARA TECHNICAL LTD	Glasgow	A	0
@@ -843,6 +843,7 @@ ARRP TRADING LIMITED	Exeter	A	0
 ARS Traders Limited	Winchester	A	0
 ART INVESTMENT AND TECH LTD	London	A	0
 Art Technologies Limited	London	A	0
+ART TIME BARBER LTD	Rickmansworth	A	0
 Artemis Technologies Ltd	Poole	A	0
 Artesian Transformational Leadership Ltd	Oxford	A	0
 ARTHUR MORRISON LTD T/As AM CARE SERVICES	Barking	A	0
@@ -960,7 +961,7 @@ Atlantic Travel (GB) Limited	Bolton	A	0
 Atlantic Trawlers Kilkeel Ltd	Newry	A	0
 Atlantis Commodities Trading (UK) Ltd	Cheshire	A	0
 ATLANTIS TECHNOLOGY SOLUTIONS LIMITED	London	A	0
-ATLAR TECHNOLOGY LTD	London	A	4
+ATLAR TECHNOLOGY LTD	London	A	0,4
 Atlas Copco Bolting Solutions (Tentec Ltd)	Wolverhampton	A	0,4
 Atlas Technica UK Ltd	London	A	0
 Atlas Technology Solutions UK Limited	London	A	0,4
@@ -978,6 +979,7 @@ ATTAR TECHNOLOGIES LIMITED	Hayes	A	0
 Attest Technologies Limited	London	A	0
 Attraction Tickets Direct T/A Attraction Tickets Ltd	London	A	0
 Attraction Tickets Ltd	London	A	0
+Audi Motorsport Technology Centre UK Limited	Bicester	A	0
 Audtax Accountants & Tax Consultants Limited	London	A	0
 AUGER TORQUE EUROPE LIMITED	Cheltenham	A	0
 Augmentable Trading Ltd TA Kinghill Stores	Dursley	A	0
@@ -1091,7 +1093,6 @@ BAAN THAI(ANTRIM) LIMITED	Belfast	A	0
 Baan Thitiya (Bishop) Ltd T/A Baan Thitiya	Bishop's Stordford	A	0
 BAAZ TRUCKING LTD	Smethwick	A	0
 BABA BUDHA JI EDUCATIONAL TRUST	Peterborough	A	1,9,10
-Baba Raiya Ltd T/a Taste of Belgium	Belfast	A	0
 BABA TASTY FOODS LTD T/A TASTY CHICKEN PERI PERI	Bedford	A	0
 Babb Technologies LTD	London	A	0
 Babcock Integrated Technology Limited	Bristol	A	0,4
@@ -1133,7 +1134,6 @@ BAM - TW LTD TA Beauty Lounge	London	A	0
 BAMA TECH LTD	Ilford	A	0
 Bamboleo Polo Team	Midhurst	A	11
 Bamboo Natural Therapy Ltd	London	A	0
-Bamboo Thai Takeaway Ltd	York	A	0
 Bamford Bus Company Limited Trading as Wrightbus	Ballymena	A	0
 BAMU TRADING LTD	Manchester	A	0
 Banana Tree Restaurants Limited	London	A	0
@@ -1252,6 +1252,7 @@ BENGAL TIGER LILY	Macclesfield	A	0
 Bengal Tiger Ltd	Haddington	A	0
 BENGAL TRAVELS AND TOURS LIMITED	London	A	0
 BENJAMIN & ISAAC TAX CONSULTANTS LTD	Glasgow	A	0
+Benjamin Solicitors Limited t/as Integrity Law	Preston	A	0
 BENNING TRANSPORT LTD	Burkinghamshire	A	0
 BENOIT TECHNOLOGIES UK LTD	Bolton	A	0
 Benslow Music Trust	Hitchin	A	3
@@ -1402,7 +1403,6 @@ BLENGOLD LIMITED T/a Temple Indian Fusion	Woodford	A	0
 Blessed Thomas Holford Catholic College	Altrincham	A	0
 BLISS CARE TORQUAY LIMITED	Torquay	A	0
 BLOCKCHAIN TECH LTD	Southend-On-Sea	A	0
-Bloom Trade Limited	Glasgow	A	0
 BLOOMING TULIPS MONTESSORI LTD	Northwood	A	0
 Blossom Tree Montessori Limited	Northwood	A	0
 Blossom24 Healthcare & Training Ltd	Northampton	A	0
@@ -1433,7 +1433,7 @@ BLUEBERRY TRAVELS LTD	Uxbridge	A	0
 Bluebird Care Manchester North & Salford T/as ATS MANCHESTER NORTH/SALFORD LTD	Manchester	A	0
 BLUEBRIDGE TECHNOLOGY LTD (17155688)	England	P	2
 Bluefin Talent Limited	London	A	0
-BLUEGRID TECHNOLOGY LTD	Peterborough	A	0
+BLUEGRID TECHNOLOGY LTD	Hemel Hamstead	A	0
 Bluelotus Technologies Limited	Coventry	A	0
 Bluemax Technology Support Ltd.	Cambridge	A	0
 Blueprint Talent Group Limited	London	A	0,4
@@ -1444,7 +1444,6 @@ Bluestone Travel Ltd	London	A	0
 Blunt Trading Ltd	London	A	0
 Blush Tech Limited	London	A	0
 BMH Tutors Limited	Croydon	A	0
-BMI Healthcare Limited trading as Circle Health Group Limited	London	A	0,4
 bmi trailers ltd	Dungannon	A	0
 BMLL Technologies Limited	London	A	0
 BMLL Technologies Ltd	London	A	0
@@ -1462,8 +1461,6 @@ Boditrax Technologies Ltd	Nottingham	A	0
 Body Fit Training UK Limited	London	A	0
 Boerboel Trading LLP	London	A	0,4
 Bohunt Education Trust	Liphook	A	0
-BOING INTERNATIONAL TEA LIMITED	Birmingham	A	0
-Boing International Trading Limited	Birmingham	A	0
 Bolder Academy Trust	Isleworth	A	0
 Bolder TV Limited t/a Bolder Creative	Littlehampton	A	0
 Bolongaro & Trevor Co	London	A	0
@@ -1678,7 +1675,6 @@ BUNAC Travel Services limited	London	A	12
 BUNBUN TRADING LTD	Manchester	A	0
 Bundle Training Limited	London	A	0
 Burak Services LTD T/A Burak Airport Transfers	London	A	0
-Burak Transport & Solutions Ltd	Doncaster	A	0
 BURGAS SEA LIMITED T/A TARVAN RESTAURANT	Peterborough	A	0
 Burgernomics (t/as McDonald's)	Hitchin	A	0
 BURNEY TOMAR LTD	Croydon	A	0
@@ -1751,7 +1747,6 @@ Cambridge Future Tech Ltd	Cambridge	A	0
 Cambridge House and Talbot	London	A	0
 Cambridge Medical Technologies Limited	Harston	A	0
 Cambridge Photon Technology Limited	Saffron Walden	A	0
-Cambridge Touch Technologies Limited	Cambridge	A	0
 Cambridge Tutors College	Croydon	A	0
 Cambridge University Hospitals NHS Foundation Trust	Cambridge	A	0
 Cambridgeshire & Peterborough NHS Foundation Trust	Cambridge	A	0
@@ -1808,6 +1803,7 @@ Care And Trust Limited	Nottingham	A	0
 CARE EMBASSY CONSULTANCY AND TRAINING LTD	Hatfield	A	0
 Care First (UK) Limited T/As Offmore Residential Home	Worcestershire	A	0
 Care Precious Limited t/as Caremark {East Riding }	East Riding of Yorkshire	A	0
+Care Provision Healthcare Limited t/as Philia Lodge Rest Home	Peterborough	A	0
 care solutions st helens limited T-A	St.Helens	A	0
 CARE TIME UK LTD	Oxford	A	0
 Care Times services Ltd	Birmingham	A	0
@@ -1878,7 +1874,6 @@ CCm Technologies Ltd	Swindon	A	0
 CCS Technology Ltd	Coventry	A	0
 CCT COMMUNITY ENABLEMENT TEAM LTD	Sutton in Ashfield	A	0
 CD Transport UK Ltd	Weybridge	A	0
-CDMX Tacos Ltd	London	A	0
 CE Turner Engineers Ltd	Melton Mowbray	A	0
 CEDAR TRANSPORT LTD	Bristol	A	0
 Cedar Tree Care Home Ltd	Derby	A	0
@@ -2086,6 +2081,7 @@ Cinnamon Tree Cardiff Ltd	Cardiff	A	0
 CINTRACKS LTD TA Cintracks Taxi & Private Hire	Reading	A	0
 CIP TERRA TECHNOLOGIES UK LTD.	Rotherham	A	0,4
 Circadia Technologies Ltd	London	A	0
+Circadian Therapeutics Limited	Godalming	A	0
 Circle One Limited t/a C1 Tech	London	A	0
 Circle UK Trading Ltd	London	A	0,4
 Citi Group (Kent) Limited T/A Citi Terrace	Canterbury	A	0
@@ -2102,7 +2098,7 @@ CITY TAILORS LTD	London	A	0
 City Tax Accountants Limited	Great Barr	A	0
 City Tech Business Solutions Ltd	Harrow	A	0
 CITY TYRES (PRESTON) LTD	Preston	A	0
-CityCoast Church (CityCoast Trust)	Brighton	A	1
+CityCoast Church (CityCoast Trust)	Brighton	A	1,10
 Citywise Travel Ltd	High Wycombe	A	0
 Ciwan Limited trading as The Old Bank Cafe	Deeside	A	0
 CKT CONSULTING KULTUR TOURISMUS LTD	London	A	0
@@ -2111,6 +2107,7 @@ CLACTON DENTAL CARE LTD (t/a Together Dental)	Watford	A	0
 Claim Time Limited	Birmingham	A	0
 CLAIMER TECH LTD	London	A	0
 Clara Technologies (UK) Limited	London	A	0
+Clare Healthcare Ltd t/a Tamworth Pharmacy	Tamworth	A	0
 Claregrange Trading Limited	Nottingham	A	0
 Claretian Missionaries Trust	St Neots	A	1,10
 Clarion Corvus Trust	Norwich	A	0
@@ -2175,7 +2172,6 @@ Cobra Textiles Ltd	Oldham	A	0
 COCKBURN MULTI ACADEMY TRUST	Leeds	A	0
 COCKRAMS TRANSPORT (LINCS) LIMITED	Spalding	A	0
 Coco Crumbs LTD T/As Les Filles Cafe	London	A	0
-Coda to Coda Ltd.	London	A	0
 CODE TANTRA LIMITED	Buckingham	A	0
 Coder Technologies Inc	London	A	2
 Codereflex Technologies Ltd	Enderby	A	0
@@ -2212,7 +2208,6 @@ Commonwealth Association of Tax Adminstrators	London	A	5
 Commonwealth Telecommunications Organisation	London	A	0,5
 Community Environmental Trust	Birmingham	A	9
 Community Housing and Therapy	London	A	0
-Community Renewal Trust	Glasgow	A	0
 Community Schools Trust	London	A	0
 Community Security Trust	London	A	0
 Community Therapeutic Services Ltd	Weston super Mare	A	0
@@ -2287,7 +2282,6 @@ Cook Taylor Woodhouse Limited	Dartford	A	0
 COOK Trading Ltd	Sittingbourne	A	0
 Coolair Bus and Rail Ltd T/as Coolair Logan	Lincoln	A	0
 Coolgarif Technologies Ltd	London	A	0
-Coombe Academy Trust	New Malden	A	0
 Cooper Research Technology Limited	Ripley	A	0
 Cooper Square Technologies UK Ltd	London	A	0,4
 Cooper Tarry Partners LLP	Canterbury	A	0
@@ -2320,6 +2314,7 @@ Cosmic Kids Trading Limited	Marlow	A	0
 COST LESS TOWERBRIDGE LIMITED	London,	A	0
 CoSyne Therapeutics Limited	London	A	0
 Cotham Technologies Limited	Bristol	A	0
+COTSWOLD MEDICAL CLINICS LTD Trading As The Cotswold Physio Rooms	Witney	A	0
 Cottimore Local Limited T/As Nisa Local	Surrey	A	0
 Count Technologies Ltd	London	A	0
 Countess of Chester NHS Foundation Trust	Chester	A	0
@@ -2359,7 +2354,7 @@ Cream Holdings (Taunton) Limited	Taunton	A	0
 CREAM TEMPTATIONS LTD T/A CROLLAS GELATERIA	Dundee	A	0
 CREATION LABS AI LTD T.A HYPERMILE	London	A	0
 Creation Technology Solutions Limited	London	A	0
-Creative Education Trust	Milton Keynes	A	0
+Creative Education Trust	Milton Keyens	A	0
 Creative Entertainment Two Ltd	London	A	0
 CREATIVE TIME MEDIA LIMITED	London	A	0
 Creative Translation Ltd	London	A	0
@@ -2418,7 +2413,6 @@ CUMBRIA, NORTHUMBERLAND, TYNE AND WEAR NHS FOUNDATION TRUST	Newcastle Upon Tyne	
 CUPID TRADING LIMITED	Manchester	A	0
 Cura Terrae Air Ltd	Sheffield	A	0
 Cura Terrae Land and Nature	Sheffield	A	0
-CURCUMIN LTD T/A TULASI	Kidlington	A	0
 CURRY 2 NIGHT LIMITED T/A Curry Tonight	Derbyshire	A	0
 CURRY ATHERTON LIMITED T/A TAMARIND TABLE	Atherton	A	0
 Curry India Tandoori	Colchester	A	0
@@ -2445,6 +2439,7 @@ D &T Refrigeration Limited	London	A	0
 D DINING LTD T/A PUBALI BROTHERS TANDOORI	Potters Bar	A	0
 D G TEXTILE COLLECTION LTD	Bridgend	A	0
 D L TORO LIMITED	Bushey	A	0
+D ROCKS RESTAURANT & TAKEAWAY LTD	Leeds	A	0
 D S TOTAL SOLUTIONS LTD	Watchfield	A	0
 D SENSE THERAPY LTD	London	A	0
 D T CARE SERVICES LTD	Birmingham	A	0
@@ -2564,6 +2559,7 @@ Del Accountancy and Tax Support Limited	Hull	A	0
 Delaney Polo Team	Windsor	A	11
 DELEGATION OF THE GOVERNMENT OF CATALONIA TO THE UNITED KINGDOM LTD	London	A	0,4
 Delhi Spice Indian Restaurant & Takeaway	Worcester	A	0
+DELICIOUS TEETH LIMITED	London,	A	0
 DELISYS TECHNOLOGIES LTD	Nottingham	A	0
 Delma Trade UK LTD	London	A	0
 Delta Academies Trust	Knottingley	A	0
@@ -2584,7 +2580,6 @@ Denodo Technologies LTD	London	A	0,4
 Dental Centre Turkey UK Limited	Milton Keynes	A	0
 Dentinal Tubules Limited	Watford	A	0
 Denton turret Medical Centre	Newcastle upon Tyne	A	0
-DENTSTONE LIMITED T/A NEWICK TANDOORI	East Sussex	A	0
 DENTSTONE LTD t/a Newick Village Tandoori	Newick	A	0
 Dentsu: Transition	London	A	0,4
 Department for Business & Trade	London	A	0,4,12
@@ -2646,6 +2641,7 @@ Dieselec Thistle Generators Limited	Glasgow	A	0
 Diespeker Marble and Terrazzo Ltd	London	A	0
 Digestors, Silos & Tanks Ltd T/A Silotank	Belfast	A	0
 Digi Technology Limited	Hatfield	A	0
+Digi Telecom Limited	Luton	A	0,4
 Digit Audio Technology Ltd	Leigh On Sea	A	0
 DIGITAIKEN TECH CORPORATION LTD	Park Royal	A	0,4
 DIGITAL (I) TECHNOLOGIES LTD	Preston	A	0
@@ -2685,7 +2681,6 @@ Discovery Schools Trust	Beaumont Leys	A	0
 Disguise Technologies Ltd	London	A	0
 DISTINCTIVE TRADING LTD	Lancashire	A	0
 Diti Tech Ltd	Amersham	A	0
-Ditton Wine Traders	London	A	0
 Diverse Academies Trust	Retford	A	0
 Diversity Travel	Manchester	A	0
 DIVINE TELEVISION FOUNDATION LTD	Ramsgate	A	0,1,10
@@ -2795,6 +2790,7 @@ Dudley Academies Trust	Dudley	A	0
 Dudley College of Technology	Dudley	A	0
 Dudley Taylor Pharmacies Ltd	Warwick	A	0
 Duffel Technology Ltd	London	A	0,4
+DULWICH THERAPY ROOMS LTD	London	A	0
 Duncan & Toplis	Grantham	A	0
 DUNCAN AND TODD LIMITED	Montrose	A	0
 Dundee Rep and Scottish Dance Theatre Limited	Dundee	A	0,3
@@ -2896,7 +2892,7 @@ Echion Technologies LTD	Sawston	A	0
 Echorest Limited T/A Tootoomoo	London	A	0
 Eckhart Ltd (Trading as Markettiers)	London	A	0
 ECL Trading Ltd	Chelmsford	A	0
-Eclipse 26 - Trading as Piglets Pantry Ltd	Worthing	A	0
+Eclipse 26 Ltd - Trading as Piglets Pantry	Worthing	A	0
 Eco Grants Team Ltd	Bristol	A	0
 ECO TARGET LTD	Essex	A	0
 Eco Travel Private Hire Ltd	Stoke On Trent	A	0
@@ -3002,7 +2998,6 @@ Elm Tree Dental Surgery	Frinton On Sea,	A	0
 Elm Tree House Residential Home	Taunton	A	0
 Elm Tree Surgery	Shrivenham	A	0
 Elm Tree Surgery /Medical Centre	Stockton-on-tees	A	0
-Elmac Technologies Limited	Greenfield	A	0
 Elmfield Trading Ltd	South shields	A	0
 ELSEKERCI LOJISTIK INSAAT SANAYI VE DIS TICARET UK LIMITED	London	A	2
 ELVARIX TECH LTD	Glasgow	A	0
@@ -3012,7 +3007,6 @@ Embassy of the Bolivarian Republic of Venezuela to the United Kingdom	London	A	5
 Embassy of the Republic of Turkey	London	A	5
 Embassy of Tunisia	London	A	5
 Embassy of Turkmenistan	London	A	5
-EMC Trailers Ltd	Magherafelt	A	0
 EMEA Tortilla Limited	London	A	0,4
 Emerald Tech UK Ltd	Basildon	A	0
 Emerald Technology Recruitment Limited	Birmingham	A	0
@@ -3027,7 +3021,7 @@ EMJ &GP Ltd trading as Park View Care home	Neath	A	0
 EMKAY TRADERS LTD	Wembley	A	0
 Emma Technologies LTD	London	A	0
 Emma Wells Tennis Limited	London	A	0
-Empire Logistics Transportation Ltd	Northamptonshire	A	0
+Empire Logistics Transportation Ltd	Reading	A	0
 EMPIRE TANDOORI LTD	Leicestershire	A	0
 EMPORIA TILE CENTRE LTD	Birmingham	A	0
 Empower Learning Academy Trust	Upminster	A	0
@@ -3078,6 +3072,7 @@ Epion Technologies Ltd	Stirling	A	2
 Epoch Making Toys Limited	Uxbridge	A	0
 EPOS WORLDWIDE LTD T/A QUICK TILLS	High Wycombe	A	0
 EPS Services & Tooling Ltd	Taunton	A	0
+EPSILON HEAT TRANSFER LIMITED	London	A	0
 Epsilon Telecommunications Ltd	London	A	0,4
 Epsom and St Helier University Hospitals NHS Trust	Carshalton	A	0
 Epson Telford Limited	Telford	A	4
@@ -3105,7 +3100,6 @@ ESSENCE OF STRATFORD LIMITED T/A Thespians Indian Restaurant	Stratford-Upon-Avon
 Essential Therapeutic Care and Education Ltd	Aldermaston	A	0
 Essential Travel UK Ltd	London	A	0
 Essex Partnership University NHS Foundation Trust	Wickford	A	0
-ESSURE TECHNOLOGIES LTD	Coventry	A	0
 Ethical Tea Partnership Limited	London	A	0
 Ethiopian Orthodox Tewahedo Kidist Selassie Church Manchester	Salford	A	10
 Ethnic Technologies (London) Limited	Church Crookham	A	0
@@ -3165,7 +3159,6 @@ Exceed Academies Trust	Bradford	A	0
 EXCEL BUSINESS CONSULTANTS & TRAINING ACADEMY LTD	London	A	0
 Excel Tutors	London	A	0
 Excellence in Education Trust	Wembley	A	0
-EXCHANGE TECH LTD	Yarm	A	0
 Exclusive Travel For You LTD	London	A	0
 Exclusive Trips Limited	Barking	A	0
 Executive Channel Europe Ltd trading as ECNlive	London	A	0,4
@@ -3226,7 +3219,6 @@ Fairfax Tax and Accounts	Leicester	A	0
 Fairfield Chip Shop Ltd TAs Fairfield Fish Bar	Port Talbot Neath Port Talbot	A	0
 Fairport Engineering Limited t/a Fairport Tunnelling Technologies	Chorley	A	0
 Fairview Construction Team Ltd	London	A	0
-FAIRWAY TRADING LTD	Epsom	A	0
 Fairways Accommodation Support Trust	Chatham	A	9
 FAITH TABERNACLE CHURCH KETTERING	Kettering	A	1
 Faithful Friend. Trusty Scout Ltd	London	A	0
@@ -3239,7 +3231,7 @@ FALCON TECH SOLUTIONS LTD	Lincoln,	A	0
 FALCON TRAVEL (WATFORD) LTD	Watford	A	0
 FALCON TYRES & AUTO LTD	Peterborough	A	0
 Fam Tech Ltd	Dagenham	A	0
-Family Office Tax Services LLP	London	A	0
+Family Office Tax LLP	London	A	0
 Family Unit Trust	Manchester	A	9
 FAMY UK FOR TRADING LIMITED	Preston	A	0
 Fancy Dress Town Ltd	London	A	0
@@ -3377,7 +3369,7 @@ Flying Fat Sheep Trading Co. Ltd	Canterbury	A	0
 Flying Trade Limited	Harwich	A	0
 FLYVUE LTD T/A FLYVUE TRAVEL	London	A	0
 FMC Technologies Ltd	Dunfermline	A	0,4,7
-FMCG TRADING LTD	Alton	A	0
+FMCG TRADING LTD	Northampton	A	0
 FNT TEXTILE LTD	Leeds	A	0
 Focal Care Limited T/as Caremark Barnsley	Barnsley	A	0
 FOK TRADING LIMITED	London	A	0
@@ -3485,6 +3477,7 @@ Fuller Smith & Turner PLC	Chiswick	A	0
 Fuller Thomson Heritable Ltd	Dundee	A	0
 Fulston Manor Academies Trust	Sittingbourne	A	0
 Fundamental Textiles Ltd	Manchester	A	0
+Funders Together	London	A	0
 Funfair Technologies Limited	London	A	0
 Funk Enterprise Ltd T/A Funk Training Club	London	A	0
 FURHAN & SONS LTD t/a Nisa Day To Day	Greenock	A	0
@@ -3509,7 +3502,6 @@ FUTURE TIDE EDUCATION LIMITED	London	A	0
 Future Time Pictures Ltd	London	A	0
 Future Transport Systems	Newcastle Upon Tyne	A	0
 Futuregen Telecoms Ltd	London	A	0
-Futuristic Technologies Ltd	Hounslow	A	0,6
 Futuristic Technology Limited	London	A	0
 FW Thorpe	Redditch	A	0
 Fylde Coast Academy Trust	Blackpool	A	0
@@ -3518,6 +3510,7 @@ G & K OFF LICENCE LIMITED T/as Budshead General stores	Plymouth	A	0
 G & R Liskeard Ltd, T/A Gurkha Tandoori	Liskeard	A	0
 G & S Contract Agents and General Trading Ltd	Reading	A	0
 G & T Brokers Limited	London	A	0
+G Bhandal Transport Ltd	Dudley	A	0
 G Force Tyres Ltd	Aldershot	A	0
 G GINGER LIMITED trading as Group Ginger	Leeds	A	0
 G H Tea Rooms Ltd	Leicester	A	0
@@ -3777,7 +3770,7 @@ GOLDEN WELL 19 LTD T/A TEA HOUSE	Belfast	A	0
 GOLDEX TRADING LIMITED	London	A	0
 GOLDFAYRE TRADING LIMITED	Manchester	A	0
 GOLDKEY TRADING LTD	London	A	0
-GOLDLEY COMMERCIAL & TRADING LTD CO., LTD	London	A	2
+GOLDLEY TRADING LTD	London	A	2
 Goldtakas Technologies Limited	London	A	0
 GOMA AND TIKARAM RESTAURANT LTD T/A GURKHA CHULO	Nottingham	A	0
 Gonggam BN Ltd trading as Kogi Korean Cuisine	Brighton	A	0
@@ -3862,7 +3855,7 @@ Greek Orthodox Cathedral of the Dormition of Theotokos and Saint Andrew	Birmingh
 GREEK TASTE LTD	Peterlee	A	0
 Greek Taverna Bold Street Ltd	Liverpool	A	0
 GREEKO RESTAURANTS LTD T/A INDIAN TADKA	Southampton	A	0
-GREEN CODE TECHNOLOGIES LIMITED	England	A	2
+GREEN CODE TECHNOLOGIES LIMITED	London	A	2
 Green Gates Polo Team	Reading	A	11
 Green Soft Technologies LTD	London	A	0
 GREEN SQUARE TECHNICAL SERVICES LTD	Manchester, England	A	0
@@ -4092,7 +4085,7 @@ Head Quarters Hair Transplants Limited	Cardiff	A	0
 Head Tailor Hair & Beauty Salon Ltd	London	A	0
 Head Threads Limited	Cardiff	A	0
 Headlands Tech UK Limited	London	A	0,4
-Headlong Theatre	Oxford	A	0
+Headlong Theatre	London	A	0
 Headzpace Therapeutic Care limited	London	A	0
 Healing Touch Care Limited	Andover	A	0
 Health Bridge Limited (trading as Zava)	London	A	0
@@ -4118,6 +4111,7 @@ HEESAN TRADING LIMITED	Barnsley	A	0
 Helaba-Landesbank Hessen Thringen	London	A	0
 Helios Technology	Farnborough	A	0
 Helios Towers Group LLP	London	A	0,4
+Helix Learning Trust	New Malden	A	0
 Helix Technologies Limited	Abingdon	A	0
 HELLAS TAVERNA GROUP LTD	Wilmslow	A	0
 Hellenic Takeaway Ltd	Guildford	A	0
@@ -4163,7 +4157,6 @@ Hi Tech Wardrobe Limited	Hayes	A	0
 HI THAI LONDON LIMITED	London	A	0
 HI- Tech Finishing Limited	Wolverhampton	A	0
 HI-TECH TECHNOLOGIES LTD	Worcester	A	0
-Hicom Technology Limited	Brookwood, woking	A	0
 HIDDEN TALENT BOOKING	Darlington	A	3
 HiETA Technologies Limited	Bristol	A	0
 High Aims Training Ltd	Ilford	A	0
@@ -4203,6 +4196,7 @@ HINDU TEMPLE TRUST	Southall	A	1,10
 HINDUJA TECH LIMITED (UK Branch)	London	A	0,4
 Hira Textiles LTD	Birmingham	A	0
 HIS - MIKI TRAVEL UK LIMITED	London	A	0,4
+HIS TECH LTD	Middlesbrough	A	0
 HITEX TRAFFIC SAFETY LIMITED	Cheshire	A	0,4
 HIVE CONTRACTING AND TRADING LTD	London	A	0
 Hivebyte Technology Ltd	Manchester	A	0
@@ -4369,7 +4363,7 @@ I&S TRANSPORT LTD	Stockport	A	0
 I.T Transport Limited	West Midlands	A	0
 I.T.A Tax Accounting	London	A	0
 IAM TECH LIMITED	Essex	A	0
-IAM Technology Group Limited	Huddersfield	A	0
+IAM Technology Group Limited	Sheffield	A	0
 Ian Tappin t/a Lovat House Residential Care Home	Wokingham	A	0
 IBC TV Ltd.	Hmamersmith	A	4
 Ibil Aesthetic & Training Academy Ltd	Greenwich	A	0
@@ -4514,7 +4508,6 @@ Innov8 Technology Ltd	Stockport	A	0
 INNOVA TECHNOLOGY SOLUTIONS UK LIMITED	London	A	0
 Innovation Advances Limited (trading as Orthopaedic Innovation)	London	A	0
 Innovation Tax Specialists Limited	Welwyn Garden City	A	0
-Innovation Technology and Business Solutions Limited	London	A	0,4
 Innovative Team Solutions Ltd	Ilford	A	0
 INNOVATIVE TECHNOLOGY LTD	Oldham	A	0
 Innovatus Telecom Services Limited	Wellesbourne	A	0
@@ -4617,6 +4610,7 @@ Irha & Inaya Ltd. T/ A Cyberlinks	Manchester	A	0
 iRhythm Technologies Limited	Bagshot	A	0,4
 IRIE! dance theatre	London	A	0
 IRIS Audio Technologies Limited	London	A	0
+Ironbridge Tech Limited	London	A	0
 Irshad Trust t/a The Islamic College	London	A	0,1,10
 Irvine Thanvi Natas Solicitors	London	A	0
 IRVINE TRADE HUB LTD T/A Londis	Irvine	A	0
@@ -4721,6 +4715,7 @@ JAMEELA TRAVEL	Bedfordshire	A	0
 James Paget University Hospitals NHS Foundation Trust	Great Yarmouth	A	0
 James Sanderson LTD T/AS Caremark Bromley & Lewisham	Bromley	A	0
 Jamia Islamia (Islamic & Community Centre) Trust	Glasgow	A	9
+JAMIA ISLAMIA (ISLAMIC STUDIES CENTRE) TRUST	Nuneaton	A	9
 Jamia Islamia Ghousia Trust	Luton	A	1,9,10
 Jamia Mosque Anwar-Ul-Uloom Trust	Smethwick	A	1,10
 JAMIL MANGAL TRAVEL & TOURS LIMITED	Edgware	A	0
@@ -4729,7 +4724,6 @@ Jan & Sach hotels Ltd trading as Villare Leicester City Centre Hotel	Leicester	A
 Jan London Trade Limited	Birmingham	A	0
 Jan London Trade Ltd	Birmingham	A	0
 Jan Towers Solicitors Ltd	London	A	0
-JAN UK TRADERS LIMITED	London	A	0
 Janaan Ltd, trading as Chargos	High Wycombe	A	0
 JANDOR TRANSPORT LTD	Brierley Hill	A	0
 JANIE LIGHTFOOT TEXTILES LLP	London	A	0
@@ -4738,6 +4732,7 @@ JANYALVI TRADE LIMITED	West Bromwich	A	0
 Jaoyeh Trading Ltd	Swansea	A	0
 Japan National Tourism Organization	London	A	0,4,5
 Japanese kitchen SORA -Cafe & Izakaya Tapas-	Nottingham	A	0
+Jara Trading Limited	London	A	0
 Jasdev Singh Thind	Birmingham	A	0
 Jash (BV) Limted T/As One Stop	Birmingham	A	0
 JASH HEALTHCARE LTD TRADING AS JASH PHYSIO	Harrow	A	0
@@ -4755,7 +4750,6 @@ JAZ RETAIL LTD t/a Day Today	Kilmarnock	A	0
 JAZ TECHNOLOGIES LTD	Leeds	A	0
 JAZZ TRANSPORT LTD	Leighton buzzed	A	0
 JB Lightspeed Trading Ltd T/A Roy Liquor Store	Peacehaven	A	0
-JBS NEXUS TECH LTD	Crewe	A	0
 JBS UNIVERSAL TRADING LTD T/A DEEP PAN EXPRESS	Liverpool	A	0
 JCR TRADE LTD	Bristol	A	0
 JD Excavations Tyrone Ltd	Cookstown	A	0
@@ -4771,7 +4765,6 @@ Jeeyar Educational Trust UK	Tunstall	A	1,10
 Jehovah Evangelical Team (J.E.T.) C.C.C. Valley of Berachah parish	Dartford	A	1,3,9,10
 Jenarth Thavarasa T/As Rosewood Stores	Bushey	A	0
 Jency Trading Ltd	Lincoln	A	0
-Jensin Ltd t/as Castello Italia	Carrickfergus	A	0
 Jerk An Ting Limited	Rainham	A	0
 JERK JUNCTION TRAFFORD LTD	Manchester	A	0
 Jerome Trading Limited	Birmingham	A	0
@@ -4921,7 +4914,7 @@ K. N. Care Limited trading as Caremark	Southampton	A	0
 K1 Tyres LTD	Ilford	A	0
 K2 Taj Chippery & Curry House Ltd	Blackburn	A	0
 K2C INTERNATIONAL TRADE LTD	London	A	0
-K2K KASHMIR TO KANYAKUMARI LIMITED	Hounslow	A	0
+K2K KASHMIR TO KANYAKUMARI LIMITED	Luton	A	0
 K2K TRADING LTD T/A Jak's Stores	Llanelli	A	0
 K3 Business Technology Group plc	Manchester	A	0,4
 KA Test Consultant Ltd	Bradford	A	0
@@ -5157,6 +5150,7 @@ KOBKUN TEA LTD	London	A	0
 KOBKUN THAI THERAPY LTD	London	A	0
 Koch Supply and Trading Company	London	A	0,4
 KOCH TRADING LIMITED	London	A	0
+Kodiaq Technologies Ltd	Cambridge	A	0
 Koei Tecmo Europe Ltd	Letchworth Garden City	A	0,4
 Koh Thai Noodle Ltd	Plymouth	A	0
 KOHINOOR TAKEAWAY (MITCHAM) LTD	Mitcham	A	0
@@ -5247,7 +5241,7 @@ La Bonne Bouffe t/as Le Garrick	London	A	0
 La Hechicera Polo Team	Liphook	A	11
 LA LO ENTERPRISE LIMITED T/A T & O STORES	Bushey	A	0
 LA MESA LTD t/a El Toro	Bawtry	A	0
-LA PARRILLA TAPAS BAR AND GRILL LTD	Gravesend	A	0
+LA PARRILLA TAPAS BAR AND GRILL LTD	Sheffield	A	0
 La Rosada Polo Team	Kirtlington	A	11
 La Tahzan Centre Limited T/A Watershed Customs Services	London	A	0
 La Tartine London Limited	London	A	0
@@ -5312,6 +5306,7 @@ Laversdale Timber Co. Ltd.	Carlisle	A	0
 LAW TRAINING CENTRE KENT LIMITED	London	A	0
 Lawcommercial Trading Ltd	Fareham	A	0
 LAWS TYRES LIMITED	Aberdeen	A	0
+Lawton Tube Company Limited (The)	Coventry	A	0
 LAXPERMIT LIMITED T/A INDIAN TIMES	Stonehouse	A	0
 Layka Travel World Limited	Leicester	A	0
 Lazy Hill Tavern Ltd	Walsall	A	0
@@ -5408,8 +5403,8 @@ LifeProven Technologies	Crowborough	A	0
 LIFESTYLE TEC LTD	Llantwit Major	A	0
 Lifetime Training Group Ltd	Bristol	A	0
 Light Science Technologies Ltd	Derby	A	0
+Light Tone Studios Ltd	Canterbury	A	0
 LIGHT UPON LIGHT TRADING LIMITED T/A GRILL HUT PERI PERI	Luton	A	0
-LIGHTDALE TRADING LTD T/A MOTOVANS	Harrow	A	0
 Lighthouse London Community Trust	London	A	0
 Lighting Tech Ltd	Derby	A	0
 LIGHTRIVER TECHNOLOGIES UK, LIMITED	London	A	0,4
@@ -5427,7 +5422,7 @@ LIMEHOUSE PARTNERSHIP TRADING AS SALMON LANE DENTAL CARE	London	A	0
 Limewing Talents UK Limited	Liverpool	A	0
 Limitless Polo Team	Reading	A	11
 Limitless Travel Ltd	Birmingham	A	0
-LIMITOWEB TECHNOLOGIES LTD	Birmingham	A	0
+LIMITOWEB TECHNOLOGIES LTD	Brentford	A	0
 Limpet Technology Limited	Stirling	A	0
 Limpet Technology Limited	Tullibody	A	0
 Lincolnshire Community Health Services NHS Trust	Lincoln	A	0
@@ -5493,6 +5488,7 @@ Local Transport Projects Ltd	Beverley	A	0
 Local Trust	London	A	0
 Local Tutor Limited	Woking	A	0
 LOCAL TV LIMITED	London	A	0
+Loch Leven Hotels Limited TAs Loch Leven Hotel	Inverness	A	0
 Loch Torridon Hotel Limited	Achnasheen	A	0
 Lochview Theme Park (Scotland) Ltd	Motherwell	A	0
 Lock Terrace Limited	London	A	0
@@ -5618,6 +5614,7 @@ Lumen Learning Trust	Shepperton	A	0
 Lumentum Technology UK Limited	Towcester	A	0
 Luminance Technologies Ltd	London	A	0
 LUMIO TECHNOLOGIES LTD	Clevedon	A	0
+Lup Events Ltd trading as Lup	London	A	0
 Lush Salon Supplies Telford Ltd	Telford	A	0
 Lush Tattoo Club Ltd	Leicester	A	0
 Luton Town And Indians Cricket Club	Luton	A	11
@@ -5637,7 +5634,6 @@ Lykos Academy Trust	Wolverhampton	A	0
 Lyon and Turnbull	Edinburgh	A	0
 Lyra International Tech Limited	London	A	0
 Lyric Theatre Hammersmith Limited	London	A	0,3
-M & D Careplus Limited T/A Bluebird Care Tamworth, Lichfield, Nuneaton & North Warwickshire	Tamworth	A	0
 M & R Tool Hire Ltd T/A ME Hire Ltd	Beckton	A	0
 M & T Healthcare Limited t/a Caremark (Chelmsford & Uttlesford)	Great Dunmow	A	0
 M B TECHNICAL SERVICES LIMITED	Worcester	A	0
@@ -5790,7 +5786,6 @@ Manna Bites Ltd T/A Bombay Tikka	Lancing	A	0
 MANNAT TECHNOLOGIES LIMITED	Bristol	A	0
 MANOR PARK TRADING CO. LTD	Birmingham	A	0
 Manor Telecom Services LTD T/A Manors Group	Southall	A	0
-MANS TRADING LIMITED T/A The Ladz	Cardiff	A	0
 MANS TRADING LIMITED T/A The Ladz	Cardiff,	A	0
 Mansfield Town Football Club Limited	Mansfield	A	11
 Mansfield Town Football Club LTD	Mansfield	A	0
@@ -5802,6 +5797,7 @@ MAPA Trading Limited	Canterbury	A	0
 Maple Tree Care Limited	Dereham	A	0
 Maple Tree Entertainment Ltd	Malvern	A	3
 Maples Teesdale LLP	London	A	0
+MAPS Trading Systems (UK) LLP	London	A	0
 MAQ TECHNOLOGIES LIMITED	Walsall	A	0
 MAQSOORA GLOBAL TRADE LTD	England	A	2
 Mar Thoma Church Canterbury, Kent	Maidstone	A	1
@@ -6108,7 +6104,7 @@ MINT MANAGEMENT TECHNOLOGY UK (PTY) LIMITED	England	A	0,4
 Minton Treharne & Davies Ltd	Cardiff	A	0
 Mintus Trading Limited	London	A	0
 Mir Trading Ltd	Ellesmere Port	A	0
-MIRACLE INTERNATIONAL CONTRACTING & TRADING CO. LTD	Bristol	A	0,4
+MIRACLE INTERNATIONAL CONTRACTING & TRADING CO. LTD	Milton Keynes, Buckinghamshire,	A	0,4
 Miracle Macau Luxury Trading Limited	London	A	0
 Miracle Temple Assemblies of God Church	Milton Keynes	A	1,10
 MIRAJ TRADING LTD	Milton Keynes	A	0
@@ -6374,7 +6370,6 @@ Multi-Care Community Services Burton On Trent Ltd	Burton-On-Trent	A	0
 MULTIPLIER TECHNOLOGIES UK LTD	London	A	0
 MUMU'S TINEY HOME NURSERY LIMITED	Ilford	A	0
 Munal Tandoori LTD	Antrim	A	0
-Munchez Tasty Point Ltd	Doncaster	A	0
 Munchkin UK Trading Company, Ltd	Harrogate	A	0
 MUNIR TATAR LIMITED T/A Munir Tatar Associates	London	A	0
 Mura Technology Limited	Cleveland	A	0
@@ -6399,6 +6394,7 @@ MY DIGITAL COLLEGE LTD (Trading as Purlos)	London	A	0
 My E-Pharmacare Limited trading as Dixons Green Pharmacy	Dudley	A	0
 MY EMW LTD t/a East Meets West Take Away	Stalybridge	A	0
 My Hope Trading Limited	Caerphilly	A	0
+My Latte UK Limited (T/As My Latte Cafe)	Coventry	A	0
 My Personal Therapeutics	London	A	0
 MY RIDE TAXI APP LTD	Evesham	A	0
 MY TECH WORLD LTD	Cheshire	A	0
@@ -6476,7 +6472,7 @@ Nature's Best Catering Ltd trading as Lotus Restaurant	Pendine	A	0
 NatureDoc Ltd. (Trading address)	Salisbury	A	0
 Navagrace Limited Trading as Castle Graig Nursing & Residential Home	Swansea	A	0
 Navamanithevi Rasamohan T/As Ashwin Mini Market	Leeds	A	0
-Navigator Tissue UK Ltd	Blackburn	A	0,8
+Navigator Tissue UK Ltd	Leyland	A	0,8
 Navyred Technology and Ecommerce Ltd	London	A	0
 Navys Technologies Limited	London	A	0
 NAWAB TASTE LTD	Birmingham	A	0
@@ -6495,6 +6491,7 @@ Neath Port Talbot College	Neath	A	0
 Neath Port Talbot County Borough Council	Neath	A	0
 Neatown Ltd T/A Magic Tastes	Croydon	A	0
 Nebula X Gaming Limited (Trading Address)	London	A	0
+Nebumi Technologies UK Ltd.	London	A	0
 NEC Telecom MODUS, Ltd	Leatherhead	A	0,4
 Needle n Thread Limited	Bilston	A	0
 NEELA NIL PRIVATE COMPANY NI LTD T/A THE INDIAN TERRACE	Ballynahinch	A	0
@@ -6552,7 +6549,6 @@ New Riwaj (Sole Trader)	Birmingham	A	0
 New Road Theatricals Ltd	London	A	3
 New Sri Kumaran Textiles Ltd T/A Chennai Silks	Wembley, England	A	0
 NEW TASTE OF CEYLON LIMITED	Leicester	A	0
-New taste of China	Leeds	A	0
 NEW TEAM RECOVERY & REPAIRS LTD	Dagenham	A	0
 New Test of India (t/a Memories of India)	Gorebridge	A	0
 New Testament Christian Mission International	Chattam	A	1
@@ -6698,6 +6694,7 @@ Norfolk Travels Limited	Norwich	A	0
 Norfolk Truck & Van Limited	Norwich	A	0
 Normanton Lodge Care Ltd t/as Normanton Lodge Care Home	Bognor Regis	B	0
 NORSE TRADE LTD	London	A	0
+NORTH ATLANTIC INTERNATIONAL TRADING CO LTD	London	A	0
 North Bristol NHS Trust	Bristol	A	0
 North Cheshire and Mersey NHS Foundation Trust	Warrington	A	0
 North Craven Building Preservation Trust Ltd	Settle	A	0
@@ -6746,6 +6743,7 @@ Northern Trust Management Services Limited	London	A	0,4
 Northern Wolf Trading Company Limited	Liverpool	A	0
 Northey Tech ltd	Poole	A	0
 Northfleet Technology College	Northfleet	A	0
+Northgate School Academy Trust	Northampton	A	0
 Northslope Technologies Limited	Bristol	A	0,4
 Northstar Travel Media Limited	London	A	0
 Northumbria Calvert Trust / Calvert Kielder	Hexham	A	0,9
@@ -6775,6 +6773,7 @@ Novalis Trust	Stroud	A	0,9
 NOVANTA TECHNOLOGIES UK LIMITED	Stockport	A	0,4
 Novas High Technology Ltd	Aylesford	A	0
 Novatum Tech Limited	London	A	0
+NOVATUM TECH LIMITED	London, England	A	0
 Novel Travel Ltd	Greater London	A	0
 Novell Tullett	Bristol	A	0
 Novira Technologies Limited	Newport	A	0
@@ -6930,7 +6929,7 @@ ONSET GLOBAL TRADING UK LTD	London	A	0
 ONTARIO TEACHERS' PENSION PLAN (EUROPE) LIMITED	London	A	0,4
 Ontario Teachers' Pension Plan (Europe) RE Limited	London	A	0
 Ontik Technologies Limited	London	A	0
-ONVU TECHNOLOGIES LIMITED	London	A	0
+Onvu Technologies Limited	London	A	0
 Onward Technologies Ltd	Birmingham	A	0,4
 OONAGI TRADING LIMITED	Wanstead	A	0
 OPAL TRADERS LIMITED	Walton on Thames	A	0
@@ -6957,7 +6956,6 @@ Opus Talent Solutions Limited	London	A	0
 OQ Trading (UK) Services Limited	London	A	0
 Oracle Solicitors and Consultants Ltd (Trading as Oracle Law Global)	London	A	7
 Orange Tree Theatre Ltd	London	A	0
-Orange Tree Trust	London	A	0,3
 ORANGE TWIST LTD	London	A	0
 Orbis Charitable Trust	London	A	0
 Orbit Financial Technology Limited	London	A	0
@@ -7114,7 +7112,6 @@ Parishram Ltd t/as Sanjha on the Go	Southampton	A	0
 Parity Technologies Limited	London	A	0
 PARK LANE GARAGES (TEESIDE) LIMITED	Middlesbrough	A	0
 Park Place Technologies Limited	London	A	0
-Park Restaurant Trading Limited	London	A	0
 PARK TANDOORI NOTTINGHAM LTD	Nottingham	A	0
 Parkanaur Trust	Dungannon	A	0
 Parkinsons Master Thatchers Ltd.	Chipping Norton	A	0
@@ -7225,6 +7222,7 @@ PGA European Tour	Virginia Water	A	0
 PGA TOUR International UK	London	A	0,4
 PGNIG SUPPLY & TRADING	London	A	0
 PGP (UK) Ltd t/as Data Innovations	Edinburgh	A	0
+PGP TECH LTD	Leicester	A	0
 PH Water Technologies	Farnborough	A	0
 PharmEnable Therapeutics Limited	Cambridge	A	0
 PHARMIX TECHNOLOGIES LIMITED	Manchester	A	0
@@ -7307,7 +7305,6 @@ PLAN MY TOUR LTD	Milton Keynes	A	0
 Plan My Travel Ltd	Birmingham	A	0
 Planet Tiny LTD	London	A	0
 PLANET TURF LTD	Crayford	A	0
-Planit Software Testing	Reading	A	0,4
 Platine Traders Ltd	Glasgow	A	0
 Platinum Care (Devon) Ltd t/a Hyne Town House	Dartmouth	A	0
 PLATINUM EXEC TRANSFERS LTD	Swindon	A	0
@@ -7426,7 +7423,6 @@ Presdales School Academy Trust	Ware	A	0
 Presentient Technologies Ltd	London	A	0
 Presson Tax Accountants Ltd	Nottingham	A	0
 Prestige Taxi Hire Ltd	Oldham	A	0
-Prestige Tints Limited	Hounslow	A	0
 Prestolee Multi Academy Trust	Manchester	A	0
 Preston Taxis Limited	Preston	A	0
 PRESTON TRADING LTD	Preston	A	0
@@ -7453,7 +7449,7 @@ Prime Tuition Services Limited	London	A	0
 Prime Tutors Ltd	London	A	0
 Primed Talent Limited	London	A	0
 Primetals Technologies Limited	Sheffield	A	0,4
-PRIMEX TRADING SERVICES Ltd	Bedford	A	0
+PRIMEX TRADING SERVICES Ltd	Luton	A	0
 Print Traders Ltd	London	A	0
 Prior Park Educational Trust	Bath	A	0
 Prior's Field School Trust Limited	Godalming	A	0
@@ -7478,7 +7474,7 @@ Progressive Technology Limited	Newbury	A	0
 Progressive Technology Solutions Limited	London	A	0
 Progressive Tours Ltd	Amersham	A	0,12
 Project Infinity Technologies Limited	London	A	0
-PROJECT NEWCASTLE PRIVATE LIMITED TRADING AS PAPA JOHNS	Huddersfield	A	0
+PROJECT NEWCASTLE PRIVATE LIMITED TRADING AS PAPA JOHNS	Binley Woods,Coventry	A	0
 PROJECT TRANSFORM LTD	Brierfield	A	0
 PROJECT TWENTY ONE LIMITED	London	A	0
 PROJUKTI TEAM LIMITED	London	A	0
@@ -7490,6 +7486,7 @@ Propeller Academy Trust	Wantage	A	0
 Property Tectonics Ltd.	Pendlebury	A	0
 PROPERTYFLOW TECHNOLOGIES LTD	London	A	0
 PROPUS TECH LTD	London	A	0
+Proso AI Technologies Ltd	London	A	0
 Prospect Education (Technology) Trust	London	A	0
 Prospect Training Services (Gloucester LTD)	Gloucester	A	0
 Prospect Tree Healthcare	Wolverhampton	A	0
@@ -7708,6 +7705,7 @@ Ramp Technologies Ltd	East Ham	A	0
 Rana Technologies Limited	London	A	0
 Rana Traders 1 Ltd t/a Nafees Bakers & Sweets	Derby	A	0
 Rana Traders 2 Ltd t/a Nafees Bakers & Sweets	Bedford	A	0
+Rana Transport Ltd	Wolverhampton	A	0
 Rana Waqas Trading Limited	Glasgow	A	0
 Randiv Trading Ltd	St Helens	A	0
 RANDOT TRAVEL LIMITED	London	A	0
@@ -7798,7 +7796,6 @@ Red Kite Learning Trust	Harrogate	A	0
 Red Miracle (hereford) Ltd T/as Domino's Pizza	Hereford	A	0
 Red Miracle (Ludlow) Ltd T/as Domino's Pizza	Ludlow	A	0
 Red Olive Trading Limited	Alton	A	0
-Red Rose Travel Ltd	Buckinghamshire	A	0
 Red Squirrel Tree Surgery Ltd	London	A	0
 Red Tap Pubs Limited	London	A	0
 Red Technology Solutions Limited	Witney	A	0
@@ -7837,6 +7834,7 @@ Rehmanbva Ltd Trading As Pepes piri piri	Hertfordshire	A	0
 REHMAT TEX LTD	Barking	A	0
 Reigate Baptist Church Trust	Reigate Baptist Church	A	1
 Reigate Traders UK Ltd t/a New Gurkha Kitchen	Surrey	A	0
+Reimagined Textiles Ltd	Brentwood	A	0
 Rekam Ltd T/A Tobacco Tavern	Harrow	A	0
 Relation Therapeutics Limited	London	A	0,4
 Relay Technologies Limited	London	A	0
@@ -7937,7 +7935,7 @@ Ritz Tours Limited	London	A	0,4
 Rival Technologies Ltd	London	A	0
 River Inn Trading Limited	Johnstone	A	0
 River Learning Trust	Kidlington	A	0
-River Thame Conservation Trust	Oxford	A	0
+River Thame Conservation Trust	Nuneham Courtenay	A	0
 Rivera Trading Ltd	Preston	A	0
 Riverbase Limited trading as The Old Coastguard	Penzance	A	0
 Riverbed Technology Limited	London	A	0,4
@@ -8059,7 +8057,7 @@ ROYSTON ACCOUNTANTS LIMITED T/A TAXASSIST ACCOUNTANTS	Royston	A	0
 Royston Tandoori Express Ltd, T/A Royston Tandoori	Royston	A	0
 Royton Cricket, Bowling, Tennis & Running Club	Oldham	A	11
 Rozbay Foods LTD T/A Tavus Lounge & Grill	Brighton	A	0
-RPK Technologies Ltd	London	A	0
+RPK Technologies Ltd	Ilford	A	0
 RR Group of Companies UK Limited (trading as Wingers )	Sittingbourne	A	0
 RRNT8 LTD T/As Wingrove Cafe	Newcastle upon Tyne	A	0
 RRNT9 LIMITED TRADING AS WINGROVE NEWS	Newcastle Upon Tyne	A	0
@@ -8241,7 +8239,6 @@ Samantha Todhunter Design Ltd	London	A	0
 SAMAYESHA TRADING LTD	Carnoustie	A	0
 SAMBA TV UK LIMITED	Cheltenham	A	0,4
 Sameksha Traders	West Bromwich	A	0
-Sampath Group LTD TA/ SQUEEZED.	London	A	0
 Samphire Star Education Trust	Dover	A	0
 Sampraves Technology Solutions Ltd	Halifax	A	0
 Sampunathan Sathiyaseelan T/As Bulwell News & General Store	Nottingham	A	0
@@ -8358,7 +8355,6 @@ Scientific Age Research and Testing Lab Ltd	Ilford	A	0
 SCJ Picnic to Korea LTD	London	A	0
 SCL Education & Training Limited	Sandhurst	A	0
 SCN Trading Ltd	Ilford	A	0
-Scone Polo Team	Midhurst	A	11
 Score Genius Technology Ltd	London	A	0
 ScotRail Trains Ltd	Glasgow	A	0
 Scottish Civic Trust	Glasgow	A	0
@@ -8416,6 +8412,7 @@ Sention Technologies Limited	London	A	0
 Sentium Technologies Ltd	London	A	0
 Senyap Transport Limited	Boroughbridge	A	0
 SEON TECHNOLOGIES UK LTD	London	A	0
+Septic Tank Solutions Ltd	Loddon	A	0
 Sequel Technologies Ltd	London	A	0
 Sequoia Transactions	Ascot	A	0
 SEQURE TECHNOLOGIES UK LTD	Hounslow	A	0
@@ -8436,6 +8433,7 @@ servotest testing system ltd	Egham	A	0
 Servy Technologies UK Limited	London	A	0,4
 Servzon Technologies Limited	Stockport	A	0
 Setfords Technology Solutions Ltd	Guildford	A	0
+Seth Homes Ltd T/as Stoneacre Lodge Care Home	Doncaster	A	0
 Seva Tech Limited	London	A	0
 SEVCAN HEALTH TOURISM CONSULTANCY LTD	Liverpool	A	0
 SEVEN SEAS TRADING LIMITED	Bradford	A	0
@@ -8607,7 +8605,6 @@ Sify Technologies Limited	London	A	0,4
 Sign of the Times	London	A	0
 SIGNATURE OF THAI LTD	Edinburgh	A	0
 SIGNATURE THAI CLINIC LTD	Edinburgh	A	0
-Signet Polo Team	Reading	A	11
 Signet Polo Team Limited	Bagshot	A	11
 Signet Trading Ltd	Watford	A	0
 SIGNS TECH LTD	Wolverhampton	A	0
@@ -8683,6 +8680,7 @@ SIVA MUTHUMARIAMMAN TEMPLE LIMITED	Coventry	A	10
 SIVAS TRADING GB LTD T/A ABI CONVENIENCE STORE PREMIER	Portsmouth	A	0
 SIVASUBRAMANIAM SUGANTHAN T/A Thurston Post Office and Londis Stores	Bury St Edmunds	A	0
 Six Cheers Ltd trading as The Bedford	London	A	0
+Six Degrees Technology Group Limited	London	A	0
 Six Italian Food Ltd trading as L'Antica Pizzeria Da Michele	London	A	0
 Six to Ten Stores	Essex	A	0
 six to ten superstore ltd	Leicester	A	0
@@ -8762,7 +8760,6 @@ SMART TECH SERVICES LIMITED	London	A	0
 SMART TECH SOL LIMITED	Leeds	A	0
 SMART TECH UNIVERSE LTD	London	A	0
 Smart Telecom Services STS LTD	Harrow	A	0
-SMART Tool Group Global Ltd	Chelmsford	A	0
 SMART TRADE TECHNOLOGIES UK LIMITED	London	A	0,4
 Smart Trips Ltd	London	A	0
 SMART TUTORS LONDON LTD	England	A	0
@@ -8825,7 +8822,6 @@ Soho Theatre Company Limited	London	A	0,3
 Soisoi Ltd T/A Tenmaru	London	A	0
 SOITS TECH LTD	Dunfermline	A	0
 SOKO HOUSE LIMITED T/a Glam Touch	London	A	0
-Sokol Petriti T/A Toms Kitchen LTD	Shepperton	A	0
 SOLAIRE TRAINING & CONSULTANCY LTD	Waltham Cross	A	0
 SOLAR TONIC UK LTD	London	A	0
 SolarEdge Technologies (UK) Ltd	Eaton Socon	A	0
@@ -8931,7 +8927,6 @@ Sphere Global Limited trading as Sphere Global Solutions	Bearwood	A	0
 Spherea Test & Services Ltd	Christchurch	A	0,4,7
 Spi Trading Ltd	Lisburn	A	0
 Spica Technologies Ltd	Birmingham	A	0
-Spice 21 Ltd t/a York Tandoori	York	A	0
 SPICE BLUE (NORTHUMPTON) LIMITED T/A ARAMINTAS TANDOORI	Northamptonshire	A	0
 Spice Business Ltd T/A Radhuni Indian Takeaway	Kent	A	0
 SPICE ISLAND TAKEAWAY DARLINGTON LTD	Darlington	A	0
@@ -8942,7 +8937,6 @@ Spices (Aber) Limited T/A Cinnamon Tree	Abergavenny	A	0
 Spicy Knights 2 Ltd T/A Doi Intanon Thai Restaurant	Ambleside	A	0
 Spicy Taste LTD	London	A	0
 SPICY TOP LTD T/A SHAMPAAN	Essex	A	0
-SPICY TREAT LTD	Hertfordshire	A	0
 SPICY VALLEY TODMORDEN LTD	Todmorden	A	0
 Spicymart Ltd T/A Taste Of Gurkha	Winchester	A	0
 Spika Tech Ltd	London	A	0
@@ -9142,7 +9136,6 @@ Stoo Limited/ Paz Taqueria	Edinburgh	A	0
 STOP & SAVE (TUNBRIDGE WELLS) LIMITED	Kent	A	0
 STOP THE TRAFFIK	London	A	0
 Stored. Tech Ltd	London	A	0
-Storm Therapeutics Ltd	Waterbeach	A	0
 Storm Trading Group Ltd	Bradford	A	0
 Story K Limited Trading as Kahani Collections	London	A	0
 Stotram Limited trading as Broccoli Pizza and Pasta	Swindon	A	0
@@ -9276,7 +9269,6 @@ Survival International Charitable Trust	London	A	0,9
 SURYA'S INDIAN LOUNGE LIMITED TA TANVIS INDIAN CUISINE	Wakefield	A	0
 SUS Enterprise Ltd T/As Roosters Piri Piri	Uxbridge	A	0
 Susan Joyce Smith t/a Tendacare	Ashtead	A	0
-Sushi Home Town Limited	Bradford	A	0
 SUSHI POINT TWICKENHAM LTD	London	A	0
 Sushi Time Ltd T/A Iro Sushi Bromley	London	A	0
 Sussex Partnership NHS Foundation Trust	Worthing	A	0
@@ -9305,7 +9297,6 @@ SWIFT TRANSPORT SERVICES 24/7 LTD	Peterborough	A	0
 Swindon Hindu Temple	Swindon	A	1,10
 Swindon Town Football Company Limited	Swindon	A	0,11
 Swindon Trading Ltd	Swindon	A	0
-Swinnerton Trust	Nuneaton	A	0
 Swipe & Tap Ltd	Leicester	A	0
 Switch Training Ltd	Luton	A	0
 Switzerland Tourism	London	A	0,4
@@ -9502,6 +9493,7 @@ T/A. Seven King MSPO	Ilford	A	0
 T1 Digital Consultants Limited	Hillingdon	A	0
 T1 DIGITAL CONSULTING LIMITED	Hillingdon	A	0
 T101 Limited	London	A	0
+T2 GLOBAL TRADE LIMITED	London	A	0
 T21 SERVICES LIMITED	Merseyside	A	0
 T2GER Limited T/A Waggon And Horses	Hertfordshire	A	0
 T3Records Ltd	Birmingham	A	0,3
@@ -9586,6 +9578,7 @@ TAE Power Solutions Engineering Limited	Birmingham	A	0
 TAE Power Solutions Limited	Bickenhall, Solihull	A	0,4
 TAEBONG LTD	London	A	0
 TAESAN LTD	London	A	0
+TAFAH LTD	Leicester	A	0
 TAFE Advanced AG Solutions Ltd	Newport	A	0,4
 Taff Housing Association	Cardiff	A	0
 Taff Off Licence	Oldham	A	0
@@ -9750,7 +9743,6 @@ Talbot Green Specsavers	Talbot Green	A	0
 TALBOT HOUSE CARE HOME	Rugeley	A	0
 Talbot Industries Ltd	Sheffield	A	0
 Talbot Medical Centre	Bournemouth	A	0
-Talbot Woods Lodge	Bournemouth	A	0
 Talbots Law Ltd	Stourbridge	A	0
 Tale of Spice (NI) Ltd t/a Tale of Spice	Belfast	A	0
 TALEEM FOUNDATION	Grays	A	0
@@ -9800,6 +9792,7 @@ TalkLife Ltd	Bristol	A	0
 TALKTALK BUSINESS DIRECT LIMITED	Salford	A	0
 TalkTalk Telecom Group PLC	Salford	A	0
 TalkTalk Telecom Limited	Salford	A	0
+TalkTalk Telecommunications Limited	Manchester	A	0
 Talktime Middlesbrough Ltd	Middlesbrough	A	0
 Tall Barahi ltd	Worcester	A	0
 Tall Oaks Care Home	Biddulph	A	0
@@ -9830,11 +9823,10 @@ Tam Stores Limited	Trafford	A	0
 Tam United Logistic Ltd	Nottingham	A	0
 Tama Agency Ltd	London	A	0
 Tama U.K. Limited	Alton	A	0,4
-Tamago Ltd.	Canterbury	A	0
 Tamak Cafe Ltd	Orpington	A	0
 Tamaki Control Ltd	Belfast	A	0
 TAMAL BEAUTY LTD	Birmingham	A	0
-TAMANA LTD	Hayes	A	0
+TAMANA LTD	London	A	0
 Tamang Tree Services Ltd	Widermere	A	0
 TAMANNAS HAIR & BEAUTY LTD	London	A	0
 Tamar Capital Management UK Limited	London	A	0
@@ -9864,7 +9856,6 @@ TAMEER CONSTRUCTION LTD	London	A	0
 Tamehaven Limited t/a The Poplars Care Centre	Maidstone	A	0
 Tameside & Glossop Integrated Care NHS Foundation Trust	Ashton-Under-Lyne	A	0
 Tameside Link	Ashton-Under-Lyne	A	0
-Tamesis Dock Limited	London	A	0,3
 Tamesis Partners LLP	London	A	0
 TAMIL CAFE LIMITED T/A TIFFANI COFFEE SHOP	Kingston Upon Thames	A	0
 Tamil's Taste of Asia Limited	Coventry	A	0
@@ -9904,7 +9895,7 @@ TANCREDI INTELLIGENT COMMUNICATION LTD	London	A	0
 tanday pharmacy limited	Salisbury	A	0
 Tandem Bank Limited	Blackpool	A	0
 Tandem Restaurant Ltd	Leicester	A	0
-Tandem Set and Scenery Ltd	Paddock Wood	A	0
+Tandem Set and Scenery Ltd	Marden	A	0
 Tandi Sprinklers Fire Protection Ltd	Bishops Stortford	A	0
 TANDM REFRIGERATION LTD	Rochdale	A	0
 TANDOOR NORBURY LTD	Harrow	A	0
@@ -10000,6 +9991,7 @@ TAPAS BAR LIMITED t/a El Metro restaurant	London	A	0
 TapcoEnpro UK Ltd	Barnsley	A	0
 TAPERA HEALTHCARE LTD	Doncaster	A	0
 Tapestry (Partners) Ltd	London	A	0
+Tapestry Venture Capital LLP	London	A	0
 Tapeta Footings, Ltd.	Crook	A	4
 TAPI UK LTD	London	A	0,4
 TAPILINK TECHNOLOGY LIMITED	Ilford	A	0
@@ -10023,7 +10015,6 @@ Tara Bernerd and Partners Limited	London	A	0
 Tara Construction Ltd	Woking	A	0
 TARA ENGINEERING SOLUTIONS LTD	Bury	A	0
 Tara Kadampa Meditation Centre Ltd	Etwall	A	10
-TARA SOLUTIONS LTD	Feltham	A	0
 TARA TANDOORI LTD	Aberdeen	A	0
 TARA TAREE LTD	London	A	0
 TARAJ PALACE LIMITED	Leicester	A	0
@@ -10407,7 +10398,6 @@ TBS London (Tokyo Broadcasting System Inc.)	London	A	4
 tbt assist	Birmingham	A	0
 TBT Assist Ltd	Birmingham	A	0
 TBT CONSTRUCTION & ENGINEERING LIMITED	Sunbury-On-Thames	A	0
-TBTT Direct Limited	Dudley	A	0
 TC Beattie & Co T/A Dalfibble Farming Partners	Dumfries	A	0
 TC Care Global LTD	Stoke-On-Trent	A	0
 TC Care Limited	Hounslow	A	0
@@ -10447,6 +10437,7 @@ TCP Pharma Limited	West Bromwich	A	0
 TCPC MANAGEMENT LIMITED	London	A	0
 TCR 76 F&B LTD t/as Pastation	London	A	0
 TCS Express Worldwide (UK) Limited	Brentford	A	0
+TCS TRADE CAR SALES (MIDLANDS) LTD	Walsall	A	0
 TCW Europe Limited	London	A	0,4
 TCY Machinery UK Ltd	Yeadon	A	0
 TD Meats Limited	Larne	A	0
@@ -10456,7 +10447,7 @@ TD Williamson (UK) Limited	Swindon	A	0,4
 TDB (Clifton) Ltd	Bristol	A	0
 TDC Concepts Limited T/A The Piano Works	London	A	0
 TDEV ENTERPRISE LIMITED	London	A	0
-TDG INTERNATIONAL LTD	London	A	0
+TDG INTERNATIONAL LTD	Hounslow	A	0
 TDI Innovations Ltd	Stratford Upon Avon	A	0
 TDK - Lambda UK Limited	Ilfracombe	A	0,4
 TDK UK Limited	Bracknell	A	0,4
@@ -10651,7 +10642,7 @@ Techlabs London Ltd	High Wycombe	A	0,4,7
 TECHLOGIC IT SERVICES LIMITED	Sutton	A	0
 TECHLOGIX ZONE LTD	Edgware	A	0
 Techloxi Ltd	London	A	0
-TECHMARK SOLUTIONS LTD.	Coventry,	A	0
+TECHMARK SOLUTIONS LTD.	Southampton	A	0
 TECHMART LTD	London	A	0
 TECHMATRIX LIMITED	Huddersfield	A	0
 Techmedia UK Ltd	Barking	A	0
@@ -10669,6 +10660,7 @@ Technical and General Ltd	London	A	0
 Technical Control Systems Ltd	Leeds	A	0
 Technical Detail Ltd.	London	A	0
 Technical Engineering Security Solutions Limited	Newcastle	A	0
+Technical Professionals Limited (trading as LearnTech)	Manchester	A	0
 Technical Support Services International Limited	London	A	0
 Technical Vehicle Solutions Ltd	Royston	A	0
 TECHNICALLY BLONDE LTD	Warrington	A	0
@@ -10726,6 +10718,7 @@ Technology Management (Midlands) Ltd	Wolverhampton	A	0
 Technology Risk Limited	Guildford	A	0
 Technology Solutions2 Limited	Warwick	A	0
 Technology Sourcing Ltd	London	A	0
+TECHNOLOGY STRATEGY ROLEPLAY	London	A	0
 Technology-Check LTD	England	A	0
 TECHNOLOGY-TREND LIMITED	Eastleigh	A	0
 TechnologyOne UK Limited	London	A	0,4
@@ -10749,6 +10742,7 @@ TECHNOWAY LTD	Watford	A	0
 Technowiz Limited	Cheadle	A	0
 TECHNOWORLD PLC	London	A	0
 TECHNOWSHOP LIMITED	Oldbury	A	0
+Techouse UK Ltd	Blantyre	A	0
 TechPassport Limited	London	A	0
 TECHPLUS SOLUTIONS LTD	Reading	A	0
 TECHPOINT DISTRIBUTION LIMITED	Harlow	A	0
@@ -10777,7 +10771,7 @@ Techtronic Industries EMEA Ltd	Maidenhead	A	0,4
 Techtrus Ltd	Hemel Hempstead	A	0
 TECHUARIUM LTD	Bristol	A	0
 techUK Ltd	London	A	0
-Techv Limited	High Wycombe	A	0
+Techv Limited	Burton-On-Trent	A	0
 TechVertu Limited	Grays	A	0
 TECHVISION CONSULTING LTD	Reading	A	0
 Techwass Consulting Ltd	Ascot	A	0
@@ -10848,7 +10842,6 @@ Tees Works Group Limited	Middlesbrough	A	0
 TEES, ESK & WEAR VALLEYS NHS TRUST	Middlesbrough	A	0
 Tees-Valley Care Limited	Middlesbrough	A	0
 TEESIDE HEALTH CARE LIMITED T/A Churchview Nursing and Residential Home	Yarm,	A	0
-Teesside Care Services Ltd.	Middlesbrough	A	0
 TEESSIDE LLP	Middlesbrough	A	0
 TEETHFOREVER LIMITED	Belfast	A	0
 Tegasys Solutions UK Limited	Hounslow	A	0
@@ -10941,6 +10934,7 @@ Telegraph Publishing Limited	London	A	0,4
 Telehouse International Corporation of Europe Limited	London	A	0
 TELEIOS SERVICES (UK) LIMITED	London	A	0
 Telekom Malaysia (UK) Limited	London	A	0,4
+Teleleo Limited	London	A	0
 Telelink (UK) Limited	Tilehurst	A	0
 TELELINK UK LIMITED	Theale	A	0
 Telent Technology Services Limited	Warwick	A	0
@@ -11001,16 +10995,16 @@ Temenos UK Ltd	London	A	0,4
 TEMERITATI LTD	London	A	0
 Temile Development Company Ltd	Ovington	A	0,4
 Temis Luxury UK Limited	Chessington	A	0,4
-Temp37 Healthcare Ltd	London	A	0
 Temperance Care Limited	Cliftonville	A	0
 TEMPERUK LTD	London,	A	0
 Tempest Polo Team	Windsor Great Park	A	11
+TEMPFENCING 24/7 LTD	Lutterworth	A	0
 Tempion Ltd	Brentford	A	0
 Temple & Green Ltd	Sandwich	A	0
 Temple Baptist Church	Pontypridd	A	9
 TEMPLE CARD LTD	Tipton	A	0
-TEMPLE CENTRAL LTD	Uxbridge	A	0
 temple cornwall	Bude	A	0
+Temple Cowley Medical Group	Oxford	A	0
 Temple Farm Ltd	Aylesford	A	0
 Temple Hill Surgery	Dartford	A	0
 Temple Lifts Limited	Bromley	A	0,4
@@ -11018,7 +11012,6 @@ Temple Mead Care Ltd	Sutton Coldfield	A	0
 Temple NI Ltd	Lisburn	A	0
 Temple Pharmacy Ealing Ltd	Ealing	A	0
 Temple Pharmacy Limited	London	A	0
-Temple Pharmacy Ltd	London	A	0
 Temple Solicitors Ltd	London	A	0
 Temple Street Dental Practice	Oxford	A	0
 Temple Translations Ltd	London	A	0,4
@@ -11175,12 +11168,14 @@ Tern Technologies Ltd	London	A	0
 Ternan Energy Limited	Aberdeen	A	0
 Ternary Chinese Restaurant Ltd	Belfast	A	0
 Ternary Technology Ltd	Thames Valley Park	A	0
+TERO ENERGY LIMITED	London	A	0
 Tero Marine UK Ltd	Cramlington	A	0
 Terra Computer Limited	Warwick	A	0
 Terra Cotta Warriors Elephant & Castle Ltd	London	A	0
 TERRA ENABLING DEVELOPERS LIMITED	London	A	0
 Terra Firma Capital Partners	London	A	0,4
 Terra Instinct Limited	London	A	0
+Terra Measurement Limited	Alfreton	A	0
 Terra Payment Services (UK) Ltd	London	A	0
 Terra Rossa	London	A	0
 Terra Tek Studios Limited	London	A	0
@@ -11245,6 +11240,7 @@ Test Base Solutions Ltd	Coventry	A	0
 Test Driven Solutions Limited	Newcastle Upon Tyne	A	0
 TEST EDUCATION CENTRE LTD	Kent	A	0
 Test Incorporated Limited	Harlow	A	0
+Testcard Limited	Scarborough	A	0
 Testdel UK Ltd.	Hounslow	A	0
 Testers and Devices LLP	London	A	0
 TESTEX NDT LIMITED	Immingham	A	0
@@ -11356,7 +11352,6 @@ TFS Trial Form Support Limited	London	A	0
 TFSE Products Ltd	West Molesey	A	0
 TFSmiths	Keighley	A	0
 TFSS Limited TA TFS Services	Hemel Hempstead	A	0
-TFU Ltd	Sheffield	A	0
 TFU Ltd t/a Go Local	Sheffield	A	0
 TFW Group Ltd t/a Terra Firma	Exeter	A	0
 TG & K Fisher Ltd	Carlisle	A	0
@@ -11539,7 +11534,6 @@ Thao Hien Ltd T/A Mien Tay	London	A	0
 THARA FOOD STORE LTD	Cradley Heath	A	0
 THARA SPICE LTD	Portsmouth	A	0
 Thara Supermarket	High Wycombe	A	0
-Tharai Ltd	Surrey	A	0
 Tharmalingam Mukilavarman T/A Preston Park Wines	Brighton	A	0
 THARMINI VASANTHAKUMAR T/A GOOSTREY MINI MARKET	Goostrey	A	0
 THARSA RETAIL LIMITED	Northolt	A	0
@@ -11582,6 +11576,7 @@ THE ADNAN JAFFERY ACADEMY TRUST (T/A One Degree Academy)	Enfield	A	0
 The Advocacy Team LTD	London	A	0
 The African Natural History Research Trust	Leominster	A	0
 The Agate Momentum Trust	London	A	0
+The Aigas Trust	Inverness-shire	A	9
 The Alan Turing Institute	London	A	0,12
 THE ALEXANDRIA TRUST	London	A	0
 The Alliance for Transatlantic Theological Training	Liverpool	A	1,9,10
@@ -11956,7 +11951,6 @@ The Terra Firma Consultancy Ltd	Petersfield	A	0
 The Testing Consultancy Europe Limited	London	A	0,4
 The thai kitchen Hampton Limited	Hampton Hill	A	0
 The ThaiWay	Hoveton	A	0
-The Thakerar Partnership T/A Welbourn Homes	Lincoln	A	0
 THE THAMES ACADEMY LTD	New Malden	A	0
 THE THATCHED TAVERN LTD	Ascot	A	0
 The Thin White Duke	London	A	0
@@ -12204,7 +12198,6 @@ THINKINVEST GLOBAL LTD	Brentwood	A	0
 THINKLOUD LIMITED	Cardiff	A	0
 ThinkObject Limited	Birmingham	A	0
 Thinkproject UK Limited	Reading	A	0
-Thinks Insight and Strategy (Britain Thinks) Limited	London	A	0
 Thinks Insight and Strategy (Britain Thinks) Limited	Looe	A	0
 ThinkTank Maths Ltd	Edinburgh	A	0
 THINKWISE SOFTWARE LTD	Watford	A	0
@@ -12310,7 +12303,7 @@ Thomas Miller (UK) Holdings Company Ltd	London	A	0,4
 Thomas Mills High School	Woodbridge	A	9
 Thomas More Catholic School	Purley	A	0
 Thomas Murray Network Management Limited	London	A	0
-Thomas Nagy Ltd	London	A	0
+Thomas Nagy Ltd	Watford	A	0
 Thomas Preston & Associates Limited	London	A	0
 Thomas Salvesen Enterprises Limited	Corby	A	0
 Thomas Startin Junr Ltd	Redditch	A	0
@@ -12344,7 +12337,6 @@ THOPPANS CARE HOME LTD	Oldham	A	0
 Thor Companies Ltd	London	A	0
 Thor Gold Venture LTD	London	A	0
 Thor Investment Advisor Europe Ltd	London	A	0
-Thor Ltd	London	A	0
 THOR Photomedicine Ltd	Amersham	A	0
 Thoresby colliery cricket club	Edwinstowe	A	11
 Thorlabs Limited	Ely	A	0,4
@@ -12526,6 +12518,7 @@ Thunderbird Fried Chicken Limited	London	A	0
 Thunderful Games Limited	Woking	A	0,4
 Thundersnow Limited	London	A	0
 Thurai Auto Services Ltd	Croydon	A	0
+THURAYOGA LTD	Sudbury	A	0
 THURKAS LTD	New Malden	A	0
 Thurlby Thandar Instruments Ltd	Huntingdon	A	0
 Thurlestone Court Limited	Reading	A	0
@@ -12560,7 +12553,6 @@ Thymia Ltd	London	A	0
 THYRON SERVICES LTD	Dartford	A	0
 Thyson Technology Ltd	Ellesmere Port	A	0
 thyssenkrupp materials (UK) Limited	Cradley Heath	A	0
-thyssenkrupp System Engineering Ltd	East Grinstead	A	0
 TI Group Automotive Systems Limited	Oxford	A	0
 TIAA Limited	Fareham	A	0
 TIAN XIN LIMITED	London	A	0
@@ -12613,6 +12605,7 @@ Tidewater Marine UK Ltd	Aberdeen	A	0
 Tideway Investment Management Limited	London	A	0
 Tideway Scullers School	London	A	11
 Tidings Care Homes Ltd	Minehead	A	0
+Tidworth Dental Clinic	Tidworth	A	0
 TIDY NETWORK LIMITED	London	A	0
 Tidy Tax Limited T/A Tidy Tax	Rochdale	A	0
 Tiedot Digital Ltd	Belfast	A	0
@@ -12627,11 +12620,11 @@ Tierney Strachan Consulting Limited	Aberdeen	A	0
 Tierra & Mar	Cirencester	A	0
 Tierrasphere Limited	Hemel Hempstead	A	0
 TIES AND MORE LTD	Lewisham	A	4,7
+Tieto Banktech UK Ltd	London	A	0
 Tieto Great Britain Limited	Aberdeen	A	0,4
 Tiffany & Co . Limited	London	A	0,4
 TIFFANY HOME PRODUCTS LIMITED	Andover	A	0
 Tiffin @ The Pier Limited	Clevedon	A	0
-Tiffin Indian kitchen & Bar	Barnstaple	A	0
 Tiffin Sandwiches Ltd	Bradford	A	0
 Tifosy Limited	London	A	0
 TIG FIVE LTD	London	A	0
@@ -12744,6 +12737,7 @@ Time and Data Systems International Ltd	Poole	A	0,4
 Time and Space Media Limited	Hounslow	A	0
 Time Based Arts Ltd	London	A	0
 Time Car Limited T/A Time Taxis	Scunthorpe	A	0
+TIME CONTROL RECRUITMENT SERVICES LIMITED	Birmingham	A	0
 TIME CONTROL TECHNICAL WORKS UK LTD	Cheltenham	A	0
 Time Factors Ltd	Bradford	A	0
 Time For God	York	A	9
@@ -12771,7 +12765,7 @@ Timeless Recruitment Ltd	Strood	A	0
 Timeless Structures Construction Ltd	Strood	A	0
 TimeLine Auctions Ltd	Harwich	A	0
 TIMELINE CONSTRUCTIONS PVT LTD	Derby	A	0
-Timeline Television Ltd	London	A	0
+Timeline Television Ltd	Reading	A	0
 Timelineapp Tech Limited	London	A	0
 Timely Support Services Limited	Luton	A	0
 TIMEPIECE LEICESTER LTD	Leicester	A	0
@@ -12904,7 +12898,6 @@ TJ & MA LTD	Lowestoft	A	0
 TJ Aviation Ltd	Crawley	A	0
 TJ Beauty Products Limited	London	A	0
 TJ CARS LTD	Slough	A	0
-TJ CONSULTANCY LTD	London	A	0
 TJ CONVENIENCE STORES LTD	Liverpool	A	0
 TJ ELITE BUILDING SERVICES LTD	London	A	0
 TJ Fish & Chips Limited	Tenterden	A	0
@@ -12961,8 +12954,9 @@ TLB MEDICALS LIMITED	Nelson	A	0
 TLC (Southern) Limited	Crawley	A	0
 TLC 4 SMILES LTD	Ashbourne	A	0
 TLC Cabs LTD	Leicester	A	0
+TLC Care (UK) Limited t/a Briarcroft Care Home	Teignmouth	A	0
 TLC Care at Home Ltd	Worcestershire	A	0
-TLC Care Management Limited	Huddersfield	A	0
+TLC Care Management Limited	Huddersfield	B	0
 TLC College Ltd	Wolverhampton	A	0
 TLC Healthcare & Support Services Ltd	Grangemouth	A	0
 TLC MARKETING WORLDWIDE HQ LIMITED	London	A	0
@@ -13014,7 +13008,7 @@ TMC Worldnetwork Ltd	London	A	0
 TMD Friction Holdings (UK) Ltd	Cleckheaton	A	0,4
 TMEIC EUROPE LIMITED	Uxbridge	A	0,4
 TMF Global Services (UK) Limited	London	A	0,4
-TMF IMMIGRATION LAWYERS LTD	Salford, Manchester	A	0
+TMF IMMIGRATION LAWYERS LTD	Manchester	A	0
 TMF Tooting Ltd	London	A	0
 TMG Capital Ltd	Tamworth	A	0
 TMG Marchesini UK Ltd	Leighton Buzzard	A	0,4
@@ -13038,6 +13032,7 @@ TMSG LTD t/a Tucare	Bromley	A	0
 TMT Finance	London	A	0
 TMTI	Warminster	A	0
 TMV Project Ltd	London	A	0
+TMW Management Limited	Kenilworth	A	0
 TMWI Limited	Stratford Upon Avon	A	0
 TMX Exchange Services Limited	London	A	0,4
 TMX Global UK Limited	London	A	0
@@ -13063,7 +13058,7 @@ TNG Technology Consulting UK Ltd.	Oxford	A	0,4
 TNJ Care Ltd T/A Homelands	Bognor Regis	A	0
 TNJ Circus Ltd	Macclesfield	A	3
 TNJ MORTGAGES LIMITED	Dronfield	A	0
-TNK Trading Limited	High Wycombe	A	0
+TNK Trading Limited	Bedfordshire	A	0
 TNM FASHION LTD	Barking	A	0
 TNS Electrical Contractors Ltd	London	A	0
 TNS LOCAL LTD	Margate	A	0
@@ -13208,7 +13203,6 @@ Tomoyuki London Limited	London	A	0
 TOMRA Collection Ltd.	London	A	0,4
 Toms Kitchen Cumbria Ltd	Carlisle	A	0
 TOMSEN LTD	Nottingham	A	0
-TOMSON CONSULTING LTD	Stocksbridge	A	0
 TOMSWOOD LODGE LTD	Ilford	A	0
 Tomtom Coffee House	London	A	0
 TomTom Software Limited	London	A	0,4
@@ -13280,6 +13274,7 @@ TOOR GADGET VILLAGE LTD	London	A	0
 Toor Haulage Limited	Coalville	A	0
 Tooth and Mouth Ltd t/a NHS Dentist	London	A	0
 Tooth Club Op Co Ltd	Borehamwood	A	0
+Tooth Fairy Healthcare Limited	Walsall	A	0
 Tooth London Ltd	London	A	0
 Tooth Solutions Limited T/A Happy Smiles Dental	London	A	0
 TOOTH+	Stirling	A	0
@@ -13376,7 +13371,6 @@ TOP TIE TRADING (UK) LIMITED	London	A	0
 Top Tier Capital Partners (UK) Limited	London	A	0,4
 Top Tyres Ltd	Wythenshawe	A	0
 TOP VEG WHOLESALE LTD	London	A	0
-TOP VIEW LONDON LIMITED	London	A	0
 TOP WHITEHEADS FOOD LTD	Great Harwood	A	0
 Top-Op (Foods) Limited	Dunstable	A	0
 TOP1 SCAFFOLDING LTD	Hayes	A	0
@@ -13399,6 +13393,7 @@ Topdesk UK Ltd	London	A	0
 TopDog Developments Ltd	Peterborough	A	0
 Topendology LTD	Milton Keynes	A	0
 Topex Wholesalers Limited TA KRISHNA SAREES	Wembley	A	0
+Topframe Engineering Ltd	Magherafelt	A	0
 Topfurnishing Limited	Slough	A	0
 TOPGAS CONSULTANCY LIMITED	Bracknell	A	0
 Topgolf Limited	Shepperton	A	0,4
@@ -13431,7 +13426,6 @@ Toprak UK	London	A	0
 Tops Day Nursery Limited	Bournemouth	A	0
 TOPS PIZZA	Luton	A	0
 Tops Pizza (Hemel Hempstead) Ltd	Hemel Hempstead	A	0
-TOPS PIZZA (RAYNERS LANE) LIMITED	Harrow	A	0
 Tops Pizza Aylesbury Limited	Aylesbury	A	0
 TOPS PIZZA BEDFORD LIMITED	Bedford	A	0
 Tops Pizza Fulham Ltd	London	A	0
@@ -13595,7 +13589,9 @@ TotalEnergies E&P UK Limited	Westhill	A	0,4
 TotalEnergies Gas and Power Limited	Tadworth	A	0,4,7
 TotalEnergies Marketing UK Ltd	London	A	0,4
 TotalEnergies Renewables UK Ltd	Redhill	A	0,4
+Totalfit Personal Training	Burgess Hill	A	0
 TOTALL VENTURES LTD	Liverpool	A	0
+Totally Living Care Limited	Salisbury	A	0
 Totally Natural Solutions Ltd	Paddock Wood	A	0
 TotallyMoney Ltd.	London	A	0
 TotalSim Ltd	Charwelton	A	0
@@ -13688,6 +13684,7 @@ TOWERHILL MOT CENTRE LTD	Birmingham	A	0
 Towerhouse LLP	London	A	0
 TowerPros Limited	Slough	A	0,4
 Towers & Sanders Ltd	London	A	0
+Towers Associates	London	A	0
 Towers Health and Racquets Club	Bedford	A	0
 Towers Watson Limited	Surrey	A	0,4
 Towertrend Limited t/a Honey Lane Care Home	Essex	A	0
@@ -13721,7 +13718,6 @@ TOWNSENDS MEDICA LIMITED	Walton On Thames	A	0
 Townshend Landscape Architects Limited	London	A	0
 Townville Recreation & Sports Club	Castleford	A	11
 Towpath Cafe Ltd	London	A	0
-Towyn Capel Residential Home	Trearddur Bay	A	0
 TOYITO BRIGHTON LIMITED T/A O'Shio	Brighton	A	0
 Toynamics UK and Ireland Ltd	Leicestershire	A	0
 Toynbee Hall	London	A	0
@@ -13730,7 +13726,7 @@ Toyota (GB) PLC	Epsom	A	0
 Toyota Connected Europe Limited	London	A	0,4
 Toyota Financial Services (UK) PLC	Epsom	A	0,4
 Toyota Material Handling UK Limited	Slough	A	0
-Toyota Racing GmbH UK Branch	Epsom	A	0,4
+Toyota Racing GmbH UK Branch	Epsom	A	0,4,11
 Toyota Tsusho Automobile London Holdings Ltd	London	A	0,4
 Toyota Tsusho System Europe GmbH	London	A	0
 Toyota Tsusho UK Ltd	London	A	0,4
@@ -13777,7 +13773,6 @@ TR FORENSIC ACCOUNTANTS LTD	Manchester	A	0
 TR GRANTS LIMITED	Romford	A	0
 TR NUTRITION AND FOOD SERVICES LTD	London	A	0
 TR TRADE LTD	London	A	0
-TR Traders Ltd	Manchester	A	0
 TR Wings Limited T/A Wingers	Cannock	A	0
 TR7 Ltd	Cheltenham	A	4
 Traackr	Richmond	A	0
@@ -14229,6 +14224,7 @@ TREND Networks Ltd	High Wycombe	A	0
 TREND ORGANIC LTD	Enfield	A	0
 Trend Technologies Limited	Swindon	A	0
 Trend Technologies Scotland Limited	Glenrothes	A	0
+Trend Tool Technology Ltd	Watford	A	0
 TRENDHIVE SOLUTION LIMITED	London	A	0
 Trendr Inc. Ltd t/a Hyper Sq	Knutsford	A	0
 Trends Healthcare Ltd	Southend on Sea	A	0
@@ -14273,6 +14269,7 @@ Tresmares Capital UK Limited	London	A	0,4
 TRESNET LIMITED T/A Jee Ja Jee's	Kegworth	A	0
 TRESSELL HOMES LTD	Birkenhead	A	0
 TresVista UK Ltd	London	A	0,4
+Trevally Capital Ltd	London	A	0
 Trevibban Mill Ltd	Wadebridge	A	0
 TREVONIX TECHNOLOGIES LIMITED	Purley	A	0
 TREVOR BARR'S BUTCHERS AND DELI LIMITED	Ballymena	A	0
@@ -14339,7 +14336,6 @@ Trident Partners Limited	Windsor	A	0
 Trident Real Estate Limited	Pinner	A	0
 Trident Technologies Limited	London	A	0
 Trident Traders Ltd	182 -184 High Street North	A	0
-Tridev Hospitality Limited TA The Old Bush Bar & Grill	Tipton	A	0
 Tridonic Uk Limited	Spennymoor	A	0,4
 Trieamain Harwood Ltd t/a The Harwood Arms	London	A	0
 TriFidus Financial Solutions Ltd	London	A	0
@@ -14380,6 +14376,7 @@ Trimline Ltd	Southampton	A	0
 Trimming Shop 007 (Birmingham) Ltd	Cheshunt	A	0
 TRIMMING SHOP 007 LIMITED	Cheshunt	A	0
 TRIMOKSH LTD	London	A	0
+Trimontium Capital Limited	London	A	0
 Trimontium Museum Trust	Melrose	A	0,9
 TRIMS GYM LIMITED	Crook	A	0
 Trimstone Partners Ltd	London	A	0
@@ -14552,7 +14549,6 @@ Triton Construction	Liversedge	A	0
 Triton Container UK Limited	London	A	0,4
 Triton Investments Advisers LLP	London	A	0
 TRITON LONDON PRIVATE LIMITED	Ipswich	A	0
-TRITON MEDIA LTD	Reading	A	0
 Triton Restoration Limited	London	A	0
 TRITON SOFTWARE LTD	Oldmeldrum	A	0
 TritonExec Ltd	London	A	0
@@ -14596,7 +14592,6 @@ Trolex Ltd	Stockport	A	0
 Tronox Pigment UK Limited	London	A	0,4
 Troon Dental Studio	Troon	A	0
 TROOP LONDON (UK) LIMITED	London	A	0
-TROPHIES FRAMES & SCREEN PRINTING LTD	Glasgow	A	0
 Tropic Biosciences UK Ltd	Norwich	A	0
 TROPIC INTERNATIONAL PVT LTD	Watford	A	0
 Tropic Skincare Limited	Croydon	A	0
@@ -14607,6 +14602,7 @@ Trosnant Care Home Ltd	Ruthin	A	0
 TROSTIFY LTD	London	A	0
 Troston Farms Limited	Bury St Edmunds	A	0
 Trostrey Store Ltd	Cwmbran	A	0
+Troubadour Goods Limited	London	A	0
 Troubadour Properties Limited	London	A	0,3
 Trouble Maker Inc Limited	London	A	0
 Troup Bywaters + Anders LLP	London	A	0
@@ -14669,7 +14665,7 @@ True World Foods (UK) Ltd	Southall	A	0,4
 Trueark Healthcare Ltd	Ipswich	A	0
 TrueCommerce (Coventry) Limited	Manchester	A	0,4
 Truecut Diamond Drilling Limited	Canterbury	A	0
-Trueinvivo Limited	Portsmouth	A	0
+Trueinvivo Limited	Guildford	A	0
 TRUELANCE RECRUITMENT LTD	Leeds	A	0
 TrueLayer Limited	London	A	0
 TrueLayer Services Limited	London	A	0
@@ -14713,7 +14709,6 @@ Truro Cathedral	Truro	A	10
 Truro Cricket Club	Truro	A	11
 Truro Visionplus Limited T/A Specsavers Opticians	Truro	A	0
 Truscott Manor Carehome Ltd	Ashurst Wood	A	0
-Trusko Residential Ltd	Chelmsford	A	0
 Trust Accountancy LTD	London	A	0
 Trust Care Limited	Doncaster	A	0
 TRUST COMMUNITY CARE LIMITED	High Blantyre	A	0
@@ -14833,7 +14828,6 @@ TSM Engineering Consultancy Ltd	Kent	A	0
 TSMART TRADING LTD	London	A	0
 TSN FOODS LTD T/A DARKFIELD SUPERMARKET - FAMILY SHOPPER	Darfield	A	0
 TSN Retail Ltd	Wishaw	A	0
-TSN SOLUTIONS LTD	Staines Upon Thames	A	0
 TSN TRADING LIMITED	Dudley	A	0
 TSNR FOODS LTD	Nottingham	A	0
 TSO SAS UK	London	A	4,7
@@ -15008,6 +15002,7 @@ Tunstall Primary Care	Stoke on Trent	A	0
 TUPEL LTD	Oxford	A	0
 Tupras Trading Ltd	London	A	0,4
 TUPSLEY POS LIMITED T/A Tupsley Post Office & Store	Hereford	A	0
+TUPTON HEALTHCARE LIMITED	St. Helens	A	0
 TUQCO NATURAL STONE & TILE LTD	London	A	0
 Turag Foods Limited T/A Kolapata Retaurant	London	A	0
 TURANYA PVT LTD	Doncaster	A	0
@@ -15016,7 +15011,7 @@ Turbine Services Limited	Glasgow	A	0
 Turbine Simulated Cell Technologies Limited	Cambridge	A	0,4
 TURBO K9 SECURITY LTD	Hucknall	A	0
 Turbo Motorcycles Ltd	London	A	0
-Turbo Power Systems	Gateshead	A	0,4
+Turbo Power Systems Limited	Gateshead	A	0,4
 Turbo Precision Components Limited	Huddersfield	A	0
 TURBO SNAIL LTD	Birmingham	A	0,6
 TURBO SPEED LOGISTICS LTD	Bristol	A	0
@@ -15115,6 +15110,7 @@ TUTU VIEW LTD	London	A	0
 TUV Rheinland Solutions Limited	Warrington	A	0
 TUV Rheinland UK Ltd	Shirley	A	0,4
 TUV SUD Limited	Fareham	A	0,4
+TUZDEMIR CO LTD	Retford	A	0
 TUZIOS LIMITED	Liverpool	A	0
 TV Asahi London Bureau	London	A	4
 TV CONTROL LTD	London	A	0
@@ -15193,6 +15189,7 @@ Twickenham Film Studios Limited	Greater London	A	0
 TWICKENHAM FOOD LTD	Twickenham	A	0
 TWICKENHAM RESTAURANTS LTD	Twickenham	A	0
 Twig	London	A	0
+TWIG DELIGHT LTD	Manchester	A	0
 Twig Education Ltd	Glasgow	A	0
 Twigs Nurseries LLP	Buckingham	A	0
 Twiice Clothing Limited	London	A	0
@@ -15241,7 +15238,6 @@ Two Can Talk Speech and Language Therapy	Mildenhall	A	0
 Two Circles Limited	London	A	0,3,4
 Two Create Studio Limted	London	A	0
 Two Eds Ltd	London	A	0
-Two Fifty Four Limited	Woking	B	0
 Two Hungry Boys Limited	London	A	0
 Two Legacy Partners Limited	London	A	0
 TWO LIONS WELSPHOOL LIMITED	Welshpool	A	0
@@ -15536,7 +15532,6 @@ V&L RETAIL LTD T/As BP	St Helens	A	0
 V&V Convenience Stores Ltd. T/As Crown Stores	Inverness	A	0
 V&V Trading Limited T/A Park Food & Wine - Premier	Shropshire	A	0
 V-Square Technologies Ltd	Milton Keynes	A	0
-V3 BUSINESS SOLUTIONS LTD T/AS SOUTH ESK SERVICE STATION SHELL	Montrose	A	0
 V8 Foods Ltd T/as Pepe's Piri Piri	Belfast	A	0
 VA TECHNOLOGY LTD	Telford	A	0
 Vajra Trading Ltd	Rochdale	A	0
@@ -15780,7 +15775,7 @@ Wave Talent	London	A	0
 WAVE Trauma Centre	Belfast	A	0,9
 WaveBreak Therapeutics Limited	Cambridge	A	0
 Wavereley Education Foundation Trust	Birmingham	A	0
-Ways to Wellness Foundation	Newcastle upon Tyne	A	0
+WAYNE TECHNOLOGY ENTERPRISES LTD	Walthamstow	A	0
 Waystone Transfer Agency Solutions (UK) Limited	Leeds	A	0
 Wayve Technologies Ltd	London	A	0
 WDW TRADING CO. LTD	Sunbury-On-Thames	A	0
@@ -15944,7 +15939,6 @@ WIZ TECHNOLOGIES LTD	Hounslow	A	0
 WK Tech Expert and Consultancy ltd	Luton	A	0
 WM Shipping Ltd (trading as Santova Logistics)	Tamworth	A	0,4
 WM TYRES MOBILE SERVICES LTD	Birmingham	A	0
-WNB Trading Ltd	Hamilton	A	0
 WOBURN THAI LTD T/A WOBURN THAI	Milton Keynes	A	0
 Wok Tech Limited	Willenhall	A	0
 Wok to Walk	London	A	0
@@ -16004,10 +15998,11 @@ Worthing Thunder CIC	Haywards Heath	A	11
 Woven by Toyota UK Limited	London	A	0,4
 Wow Treats Ltd	Bedford	A	0
 Wrekin Old Hall Trust Ltd	Telford	A	0,9
+Wright Pastoral Wagyu Team LTD	Winkfield	A	11
 Wright Tiles LTD T/A Just Tiles	Harpenden	A	0
 Wrightington Wigan and Leigh Teaching Hospital NHS Foundation Trust	Wigan	A	0
 Wrights Estate Agents Trading as MB Wright	Welwyn Garden city	A	0
-WRT Technologies Limited	London	A	0
+WRT Technologies Limited	Warwick	A	0
 WSA Tax Limited	London	A	0
 WSC SPORTS TECHNOLOGIES LTD	London	A	0,2
 WSM Ultrasound Ltd t/a Window to the Womb	Weston-super-Mare	A	0

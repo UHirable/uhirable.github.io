@@ -15,6 +15,7 @@
 4S UK CONSULTING LIMITED	Reading	A	0
 5 INDUSTRIAL LIMITED	Redditch	A	0
 515 Capital Limited	Radlett	A	0
+51Folds.AI Limited	Rochester	A	0
 53 North Aviation Ltd	Rochdale	A	0
 7EVEN RESTAURANT LIMITED	Romford	A	0
 9Nexus Limited	Ruislip	A	0
@@ -37,6 +38,7 @@ A-Side DesignLimited	Redruth	A	0
 A. C. Goatham & Sons	Rochester	A	0
 A.M.U DESSERTS LTD	Rochdale	A	0
 A.T.S.UK PRIVATE LIMITED t/as Eden Off Licence	Rotherham	A	0
+A1 Pharmaceuticals Public Limited Company	Rainham	A	0
 A1 Telecommunication Services Ltd	Reading	A	0
 A2Z Distributions Limited	Romford	A	0
 A3 HIRE CLUB LTD T/A CONSORT HOTEL	Rotherham	A	0
@@ -113,7 +115,6 @@ Adsec Group	Romford	A	0
 Advanced Manufacturing Limited	Rotherham	A	0
 Advanced Manufacturing(Sheffield) Ltd	Rotherham	A	0
 Advantage 1 Security Limited	Redditch	A	0
-AEEIW Ltd	Rainham	A	0,7
 AEI Compounds Ltd	Ramsgate	A	0
 Aelfgar Surgery	Rugeley	A	0
 Aerios Limited	Reigate	A	0
@@ -132,7 +133,6 @@ Agnidev Limited	Ripley	A	0
 Agora Solutions Ltd	Redditch	A	0
 AGR PIZZA LTD	Reading	A	0
 Agracare Limited Trading as Home Instead Romford	Romford	A	0
-Agrimetrics Ltd	Reading	A	0
 Agruptive Ltd	Randalstown	A	0
 AGS Support Facilities Ltd	Romsey	A	0
 AHA SECURITY LTD	Romford	A	0
@@ -279,6 +279,7 @@ Arnoldarmsbarby Limited	Rugby	A	0
 Aroma Herts Ltd	Radlett	A	0
 ARS FOOD LTD	Rainham	A	0
 Arsh Innovative IT Ltd	Rugby	A	0
+ART TIME BARBER LTD	Rickmansworth	A	0
 ARUF GROUP LTD	Rochdale	A	0
 Arvia Water Technologies Ltd	Runcorn	A	0
 As Builders Mcr Ltd	Rochdale	A	0
@@ -569,7 +570,6 @@ Cad Cam Consultancy Ltd	Rotherham	A	0
 CAD Technologies Limited	Royston	A	0
 CAFE AYLANTO LIMITED	Rochdale	A	0
 CAFE GRILL ROYTON LTD	Royton	A	0
-Cafe Salford ltd	Redhill	A	0
 CAKE & CREAM LTD	Reading	A	0
 Cakes & Bakes Ltd	Romford	A	0
 Cakes & Bakes Ruislip Manor Ltd. T/As Cakes & Bakes	Ruislip	A	0
@@ -642,6 +642,7 @@ CHAMP Cargosystems (UK) Ltd	Reading	A	0,4
 Chapel.Wales	Rhyl	A	1
 Chari Consulting Limited	Rosyth	A	0
 Charro Dental Practice Limited	Rhayader	A	0
+Charro Dental Practice Ltd	Rhayader	A	0
 Charter Global Ltd	Reading	A	0
 Chartered Accountants Benevolent Association	Rugby	A	0
 Chashtiah Educational Trust	Rochdale	A	1,10
@@ -685,7 +686,6 @@ Claudiu-Silviu Patrugan trading as Thorpe Hesley Dental Practice	Rotherham	A	0
 CLEANSATION LIMITED	Romford	A	0
 CLEARBRIDGE HOUSING LIMITED	Ruislip	A	0
 Clermont Group Ltd.	Redbridge	A	0
-CLES Resources Limited	Richmond	A	0,4
 CLEVECHEM LTD	Redcar	A	0
 Cleversys Limited	Reading	A	0
 CleverTouch Marketing Limited	Ropley	A	0
@@ -809,7 +809,6 @@ CTLD Ltd	Richmond	A	0
 CUBIC PHARMACEUTICALS LIMITED	Rochester	A	0
 Cubic Transportation Systems Limited	Redhill	A	0,4
 Custom & Contract Power Solutions (CCPS) Ltd	Rosyth	A	0
-CW & DK Limited	Ripon	A	0
 Cyberhawk Innovations Ltd	Ratho, Newbridge	A	0
 CYBERWAVE IT LIMITED	Radlett	A	0
 Cyient Europe Limited	Reading	A	0,4
@@ -870,6 +869,7 @@ Denefield School	Reading	A	0
 Dental Centre of Excellence	Redditch	A	0
 Dental Group Ltd	Ringwood Hampshire	A	0
 Dental Wellness Holdings	Reading	A	0
+Dentalserve.net Ltd	Rochester	A	0
 Dera Care Limited	Rainham	A	0
 Deriv Technologies Limited	Reading	A	0
 Derivco Holdings Limited	Richmond upon Thames	A	0,4
@@ -906,6 +906,7 @@ DINULA PVT LTD	Romford	A	0
 Diocese of Sheffield Diocesan Board of Finance	Rotherham	A	1,10
 DIPKET LTD T/A SUBWAY	Reading	A	0
 DIPLOMAT CHAUFFEURS LTD	Romford, England	A	0
+DIRECT HEALTH SOLUTIONS LTD	Rochester	A	0
 Direct Link Care Ltd	Romford	A	0
 Direct Wines Limited	Reading	A	0,4
 DIRISALA SERVICES LTD	Rotherham	A	0
@@ -953,7 +954,6 @@ Driven Enterprise Group Limited	Roydon	A	0
 Drone Defence Services	Retford	A	0
 DRONSFIELDS LIMITED	Royton	A	0
 DrugMart Limited T/A DrugMart Pharmacy	Rochdale	A	0
-DTE HOLDINGS (NORTH WEST) LTD	Runcorn	A	0
 DUA AUTOS LTD	Romford,	A	0
 DUA PROPERTIES LTD	Rainham	A	0
 Duchy Veterinary Ltd	Redruth	A	0
@@ -996,6 +996,7 @@ ECO Simplified Limited	Richmond	A	0
 Eco-Campsites Ltd	Reading	A	0
 ECOLITE ENERGY SOLUTIONS LTD	Romford	A	0
 EDAG Engineering Limited	Royal Leamington Spa	A	0,4
+EDBUCKET LIMITED	Richmond	A	0
 EDDS Construction Limited	Romford	A	0
 Eden College of Human Resource Development and Management Studies Limited	Romford	A	0
 Eden Smith Consulting Ltd	Rochford	A	0
@@ -1040,6 +1041,7 @@ Embley	Romsey	A	0
 Embrace Community Care Service Ltd.	Reading	A	0
 Embross UK Ltd	Ringwood	A	0
 Emerson Climate Technologies Limited	Reading	A	0,4
+Empire Logistics Transportation Ltd	Reading	A	0
 Empyrean Enterprise Ltd	Rugby	A	0
 EMS & K LIMITED	Romford	A	0
 Emtelle UK Ltd	Roxburghshire	A	0
@@ -1256,6 +1258,7 @@ Gemraj Technologies Ltd.	Rayleigh	A	0
 Gems Builders Ltd	Romford	A	0
 Genesis Living LTD	Royal Leamington Spa	A	0
 GENIUS SUPPORT SERVICES LTD	Rainham	A	0
+Genix Care Ltd T/A Waxham House	Ryde	A	0
 Geo Info Ltd	Rosyth	A	0
 Geoslam Limited	Ruddington	A	0,4
 GEOTECHNOLOGIES INTELLIGENCE (GEOINTEL) LIMITED	Reading	A	0
@@ -1329,7 +1332,6 @@ Green Gates Restaurant	Renfrew	A	0
 Green Globe Construction Limited	Richmond	A	0
 Green Metro Cars Reading Ltd	Reading	A	0
 Green Nation Energy Ltd	Radstock	A	0
-GREEN OAKS CARE LIMITED	Rotherham	A	0
 Greencoast Trading Limited	Renfrewshire	A	0
 Greencroft Lodge Dental Practice	Rowlands Gill	A	0
 Greenowl AI Ltd	Rochdale	A	0
@@ -1447,6 +1449,7 @@ Hiltop Motors Limited	Rainham	A	0
 Himaara Investments Ltd	Reading	A	0
 Hindu Welfare Association of Essex	Romford	A	0
 Hire cars Ltd T/A Hertz Car Rental	Reading	A	0
+HKES RED LIMITED T/A SUBWAY	Redditch	A	0
 HKSuperstore Ltd T/A HK Superstore	Reading	A	0
 HM TAKEAWAY LTD	Rotherham	A	0
 HMS CONSTRUCTION LTD	Romford	A	0
@@ -1467,7 +1470,6 @@ HOMEAGLOBE LTD	Rochdale	A	0
 HOMEGRACE CO. LTD	Rochdale	A	0
 Honda R & D Europe (UK) Ltd	Reading	A	0,4
 Honeycrown Rubber Products Ltd	Ross-On-Wye	A	0
-Honeywell Aerospace UK Co Limited	Redditch	A	0,4
 Hope In Care Services	Rotherham	A	0
 HOPS Labour Solutions Ltd	Ross-on-Wye	A	13
 Horizon Health Ltd	Rochester	A	0
@@ -1477,7 +1479,6 @@ Hosana Technologies Limited	Rugby	A	0
 HOSTBRAY LIMITED	Radlett	A	0
 HOT BARGAINS LTD	Rainham	A	0
 Hottinger Bruel & Kjaer UK Ltd	Rotherham	A	0,4
-Houndswood House care home	Radlett	A	0
 House of Decor Limited	Rochdale	A	0
 HOUSE THEORY LTD	Richmond	A	0
 HOUSECLIQUE PROPERTY DEVELOPERS LIMITED	Reading	A	0
@@ -1492,6 +1493,7 @@ HSO Customer Service Ltd	Reading	A	0
 Huawei Technologies (UK) Co., Ltd	Reading	A	0,4
 Hudson Boat Works UK Lt.d	Reading	A	0
 Hughes Property Partners Limited	Richmond, London	A	0
+Hughes Systique Private Limited	Reading	A	0,4
 HUMANAYZ LTD	Rye	A	0
 Hunterlodge Advertising Ltd	Rickmansworth	A	0
 Hurstead House Care Home	Rochdale	A	0
@@ -1563,7 +1565,6 @@ International Education Counselling Centre UK Limited	Rochdale	A	0
 International Marine Survey Limited	Ripon	A	0
 International Water Solutions	Redditch	A	0
 Intexco Design Ltd	Romford	A	0
-Intrix systems Limited	Rickmansworth	A	0
 Intrum UK Limited	Reigate	A	0
 Invicta Health CIC	Ramsgate	A	0
 Invisors Europe Limited	Reading	A	0
@@ -1614,6 +1615,7 @@ Jans Services Limited	Rainham	A	0
 JAR FRIENDS LTD	Romford	A	0
 Jara Solutions Ltd	Reading	A	0
 Jas Formworks Limited	Rochenster	A	0
+JASH VENTURES LIMITED	Rickmansworth	A	0
 JAVEDS OFF LICENCE LTD	Rochdale	A	0
 Jay Zee Barbers Ltd	Rainham	A	0
 JAYASHREE MANAGEMENT PVT LTD	Rochester	A	0
@@ -1634,7 +1636,6 @@ JK1 Developments Ltd	Romford	A	0
 JLA Limited	Ripponden	A	0,5,8
 JM CLARK LTD	Rettendon	A	0
 Jmazra Ltd T/A Johnnos Pizza	Reading	A	0
-JMG PVT LTD	Rainham	A	0
 JML Accountancy Services Ltd	Rochdale	A	0
 JMN Scotland Ltd	Rosyth	A	0
 JMS Janitorial Suppliers	Redhill	A	0
@@ -1719,6 +1720,7 @@ Kind Care UK	Redhill	A	0
 Kinect Services Ltd	Rayleigh	A	0
 Kinetic Nursing Services limited	Rotherham	A	0
 King's School, Rochester	Rochester	A	0,9
+KINGDOM LAW LTD	Rainham	A	0
 Kingfisher Family Practice	Retford	A	0
 Kings House Surgery	Rhyl	A	0
 Kingston Academy Limited (Reseller)	Romford	A	0
@@ -1930,6 +1932,7 @@ Malwa Plant Training Ltd	Ruislip	A	0
 Mango Solutions Recruitment Group Ltd	Romford	A	0
 Manha Spice House Ltd	Redruth	A	0
 MANHIB LIMITED	Romford	A	0
+Manor Care Homes Ltd	Ramsgate	A	0
 Manor Collection	Reigate, Surrey	A	0
 MANOTAN LIMITED	Rugby	A	0,7
 Mantis Cranes Limited	Rushden	A	0
@@ -2091,7 +2094,6 @@ MOVATE UK LIMITED	Ringwood	A	0,4
 MOXY LOGISTICS LTD	Ruislip	A	0
 Mr Andrew Hine	Reading	A	11
 Mr Anthony William Allan & Mrs Raveena Allan TA Premier	Rochford	A	0
-MR FAST FOOD LTD	Romford	A	0
 Mr Guang Liu	Reading	A	0
 Mr Kanakasapapathy Puspakaran	Rochester	A	0
 Mr Mahendrarajah Mahinthan TA Cuxton Village Store	Rochester	A	0
@@ -2204,10 +2206,8 @@ Nissan Motor (GB) Limited	Rickmansworth	A	0,4
 NITHREE TECHNOLOGY LIMITED	Reading	A	0
 Nityo Infotech Ltd	Reading	A	0,4
 Nixon Security Services Limited	Reading	A	0
-Niyis Ltd	Reading	A	0
 Njord Partners LLP	Reading	A	0
 NKT HVC Limited	Redcar	A	0,4
-NO3.WYE Limited	Ross On wye	A	0
 Nobilia GB Ltd	Rochdale	A	0
 NOON BROTHERS LIMITED TA Noon Sweets and Savouries	Reading	A	0
 NOOR HARDWARE LIMITED	Rickmansworth	A	0
@@ -2237,6 +2237,7 @@ NVP Trading Limited	Rubery	A	0
 NZ ENGINES LIMITED	Rainham	A	0
 NZP UK Limited	Reading	A	0,4
 OAK and PAX Limited	Redhill	A	0
+OAKLAND SUPPORT SERVICES LIMITED	Romford	A	0
 Oakley carehomes limited	Romford	A	0
 Oasis Retail Ltd T/a Budgens	Rugby	A	0
 Objective Corporation UK Ltd	Reading	A	0,4
@@ -2305,6 +2306,7 @@ P&P PARTNERS LTD	Rotherham	A	0
 Paddox Fuel Ltd T/A BP	Rugby	A	0
 Padmavathi Foods Cardiff Ltd T/A Crispy Dosa	Reading	A	0
 Pakeeza Dairies Ltd	Rochdale	A	0
+PAKEEZA LIMITED	Rainham	A	0
 Pallance Limited T/A Kingdom of Sweets	Rochdale	A	0
 Pam Construction Ltd	Romford	A	0
 Pangbourne College	Reading	A	0
@@ -2312,6 +2314,7 @@ Panmario (Ross on Wye) Limited	Ross-on-Wye	A	0
 Pantheon Hotels and Leisure Ltd	Ruislip	A	0
 Papz Kitchen (NW) Ltd	Rochdale	A	0
 Paragon (Scotland) Limited	Rhu	A	0
+Paragon Home Healthcare Ltd	Richmond	A	0
 Parish of Christ Church Chorleywood	Rickmansworth	A	1,10
 Park Day Nursery (Reading) Ltd	Reading	A	0
 PARK STORES	Rushden	A	0
@@ -2322,7 +2325,6 @@ PASSTHEKEYS READING LTD	Reading	A	0
 PASU ENTERPRISE LTD	Runcorn	A	0
 PATHAK'S LTD	Romford	A	0
 Pathway Pilot Training Ltd	Rosyth Europarc	A	0
-Patrick Distinct Consulting Limited	Rotherham	A	0
 Patriks Trust	Rickmansworth	A	9
 PAUL&SAULCOURIERS LTD	Rugby	A	0
 PAVANISOFT LTD	Rowley Regis	A	0
@@ -2365,6 +2367,7 @@ Pexapark UK Ltd	Reading	A	0,4
 Pexip Limited	Reading	A	0
 Pfisterer CSU UK	Rotherham	A	0
 Pharma-clinic limited	Rotherham	A	0
+PHC Europe B.V.	Runcorn	A	0
 PHEONIX RENFREW CHIPPY LTD	Renfrew	A	0
 PHOENIX ACCOUNTANCY SERVICE LTD	Romford	A	0
 PHOENIX CARE HAVERING LIMITED	Romford	A	0
@@ -2401,7 +2404,6 @@ Placecube Limited	Reading	A	0
 PLAION Ltd	Reading	A	0,4
 Planet Payment UK Limited	Redhill	A	0,4
 Planit Software Limited	Reading	A	0,4
-Planit Software Testing	Reading	A	0,4
 Plas Y Bryn Care Home	Rhos on Sea	A	0
 Plastic & Roofline Ltd	Rochdale	A	0
 Platinum Stud Ltd	Reading	A	0
@@ -2704,7 +2706,6 @@ RMSI Limited	Reading	A	0,4
 RNA Analytics LTD	Reigate	A	0
 RNB Electrical & Security Ltd	Ramsgate	A	0
 RNT GLOBAL LTD	Romford	A	0
-Road Life Health Care Limited	Rotherham	A	0
 Roade Service Station	Roade	A	0
 Roadhouse Grill Ltd	Romford	A	0
 RoadRunners Taxis that Don't Cost Earth LLP	Redhill	A	0
@@ -2828,7 +2829,6 @@ SA RESOURCING LTD	Reading	A	0
 SAAF ASSOCIATES LTD T/A NEWHAM NEXUS CONSULTING GROUP	Romford	A	0
 SABER TYRES LIMITED	Rochdale	A	0
 SABIC UK Petrochemicals Limited	Redcar	A	0,4
-SABIR'S SPICY GRILL BAR LIMITED	Rotherham	A	0
 Sabre Global Technologies Ltd	Richmond	A	0,4
 SACOMA FOODS AND GLOBAL BUSINESS INNOVATION & LEADERSHIP TRAINING (SACOMA- GLOBAL ) LIMITED	Romford	A	0
 Safe Scaffolding Limited	Rochester	A	0
@@ -2837,6 +2837,7 @@ Safe-Tech Windows Ltd	Reading	A	0
 Safelane Global Limited	Ross on Wye	A	0
 Saga Technology Limited	Romford	A	0
 Sagwal Construction Ltd	Romford	A	0
+Sahana Foods Limited	Romford	A	0
 SAHI BUILDERS LTD	Rugby	A	0
 SAHOTA (UK) LTD	Romford	A	0
 SAI ASM LTD	Ripon	A	0
@@ -2910,6 +2911,7 @@ Serviont Global Solutions Europe Ltd	Reading	A	0
 SETARA LTD	Romford	A	0
 SEVEN KINGS BUILDERS LTD	Romford	A	0
 Sevenhill Group Limited	Reigate	A	0
+Sfera Care Ltd	Rossendale	A	0
 SG TECHNOLOGIES LIMITED	Rainham	A	0
 Shachihata (Europe) Ltd	Runcorn	A	4
 Shades of Soul Ltd	Rugby	A	3
@@ -2953,7 +2955,6 @@ Sigmatex (UK) Ltd	Runcorn	A	0
 SIGNANT HEALTH LIMITED	Reading	A	0,4
 Signature Hotel Group Ltd	Rugby	A	0
 Signature Law Limited	Romford	A	0
-Signet Polo Team	Reading	A	11
 Silicon Frontline Technology (UK) Limited	Reading	A	0
 Sim Caterers Ltd T/A RARA Dining	Ruislip	A	0
 Simla Paradise Ltd t/a Curry Chef	Reading	A	0
@@ -2964,7 +2965,6 @@ Sims Haulage Ltd	Rugby	A	0
 SINEVIS TECHNOLOGIES UK LTD	Ruislip	A	0,4
 SINGH COMMERCIAL KITCHEN SOLUTION LIMITED	Ruislip	A	0
 Singh Sahib Ltd	Rowley Regis	A	0
-Sintali Ltd	Rickmansworth	A	0
 SIPCO HEALTHCARE UK LTD T/A MEDWIN PHARMACY	Rotherham	A	0
 Siri Guru Singh Sabha Gurdwara	Reading	A	1,10
 Sirius Aerospace Manufacturing	Rugby	A	0
@@ -2997,6 +2997,7 @@ Slimstock Ltd	Redditch	A	0
 Slipshoe Street Dental Surgery	Reigate	A	0
 Small Steps SFP	Richmond	A	0
 SMART DEVICE SOLUTIONS LIMITED	Reading	A	0
+Smart Home Visits Ltd	Rotherham	A	0
 SMART SAP LOGISTICS LIMITED	Redhill	A	0
 Smart Vision IT Solution Limited	Reading	A	0
 SMARTBISERVICES LTD	Rochdale	A	0
@@ -3009,6 +3010,7 @@ Smith Global Ltd (t/a Mr & Mrs Smith)	Richmond	A	0
 Smith News and Off Licence LIMITED	Reading	A	0
 SMS Health Care Services Limited	Romford (London)	A	0
 SMYTH POULTRY & TRANSPORT LTD	Roslea	A	0
+SNAP-ON BUSINESS SOLUTIONS LIMITED	Reading	A	0,4
 SoarSmart Ltd	Reading	A	0
 Sociedad Iberica de Construcciones Electricas S.A.	Reading	A	0,4,7
 Sofa-UK LTD	Rotherham	A	0
@@ -3025,7 +3027,6 @@ Sonning Common Health Centre	Reading	A	0
 Sonrise Services International Limited	Redhill	A	0,4
 Source Bioscience (Storage) Limited (Trading as Astoriom)	Rochdale	A	0
 Source Code Control Limited	Reading	A	0
-Sousa World Gourmet Ltd	Reigate	A	0
 Southcare Homes	Rottingdean	A	0
 Southcrest Nursing Home	Redditch	A	0
 Southcrest Veterinary Centre	Redditch	A	0
@@ -3065,7 +3066,6 @@ St Bede's School	Redhill	A	0
 St Bernard's Catholic High School	Rotherham	A	0
 St Edwards Medical Centre	Romford	A	0
 St John Fisher Catholic Comprehensive School	Rochester	A	0
-St Joseph's College Reading	Reading	A	0
 St Jude Care Homes Ltd	Raunds	A	0
 St Mary and St Abu Saifain Coptic Orthodox Church	Risca	A	1,10
 St Vincent's Hospice	Renfrewshire	A	0
@@ -3135,7 +3135,6 @@ SURECARE 2 U LTD	Redhill	A	0
 Surecare Rugby & North Warwickshire Ltd	Rugby	A	0
 SureCloud Limited	Reading	A	0,4
 SURGE HEALTHCARE LTD	Romford	A	0
-Surmah Co LTD	Rugby	A	0
 Surrey 100 Limited T/A The Normandy Hotel	Renfrew	A	0
 Surrey and Sussex NHS Trust	Redhill	A	0
 SURREY CAR SALES LIMITED	Reading	A	0
@@ -3241,6 +3240,7 @@ The Co-Mission Churches Trust	Raynes Park	A	1,10
 The Coach House Nursing Home	Ripon	A	0
 The ComplEAT Food Group	Redhill	A	0
 The Coombe House	Reading	A	0
+The Courthouse	Rugby	A	0
 The Dawes Family Practice	Rochdale	A	0
 The Dow Surgery	Redditch	A	0
 The Esplanade Surgery	Ryde	A	0
@@ -3298,7 +3298,6 @@ The Spencer Group Ltd	Reading	A	0
 The Stable Family Home Trust	Ringwood	A	0
 The Story Department	Richmond	A	0
 THE STRAND MINI MART LTD	Rochdale	A	0
-THE SYGNATURE DISH LTD	Rotherham	A	0
 THE TANDOORI HUT TN LTD	Romney Marsh	A	0
 The Tardebigge	Redditch	A	0
 The Ufton Court Educational Trust	Reading	A	0
@@ -3335,6 +3334,7 @@ Tilehurst Village Surgery	Reading	A	0
 Timberlake Consultants	Richmond	A	0
 Time Rediscovered Ltd	Royal Tunbridge Wells	A	0
 Time Wholesale Services (UK) Ltd	Rainham	A	0
+Timeline Television Ltd	Reading	A	0
 TIO Communications Ltd	Reading	A	0
 Tioga Foods Ltd	Rickmansworth	A	0
 Tiptop Projects Ltd	Romford	A	0
@@ -3385,7 +3385,6 @@ Trinity 365 Care Ltd	Richmond upon Thames	A	0
 Trinity Carers Limited	Rotherham	A	0
 Trinity Grace Church Ramsbottom	Ramsbottom	A	1
 Triple 3 Healthcare Group Limited	Romford	A	0
-TRITON MEDIA LTD	Reading	A	0
 Triumph Learning Trust	Rugby	A	0
 Triunion Limited T/A Jamaica Blue Royal Berkshire Hospital	Reading	A	0
 TRIVELLES GOLDCREST LTD	Rainham	A	0
@@ -3408,6 +3407,7 @@ Tuk Tuk Ricky Limited	Rickmansworth	A	0
 Tunbridge Wells Eye Centre	Royal Tunbridge Wells	A	0
 Turnstar Systems GB Ltd	Radcliffe	A	0
 Tutelage Care Redbridge Ltd	Redbridge	A	0
+TUZDEMIR CO LTD	Retford	A	0
 TVA INTERNATIONAL LTD	R	A	0
 TW Convenience Ltd	Radcliffe	A	0
 Tweedshot Gundogs Limited	Richmond	A	0
@@ -3426,6 +3426,7 @@ UC ELEGANCE LTD	Ruislip	A	0
 Udaya Foods Ltd	Romford	A	0
 UK CLOUD CONSULTING LTD	Reading	A	0
 UK CONSTRUCTION & RENOVATION LIMITED	Rowhook	A	0
+UK FUEL LTD	Rochdale	A	0
 UK Gas Technologies Limited	Redhill	A	0
 UK Graduate Ltd	Romford	A	0
 UK International Nursing Agency Ltd	Radlett	A	0
@@ -3545,7 +3546,6 @@ Watch Security Limited	Rotherham	A	0
 Waterfoot Medical Practice	Rossendale	A	0
 Wath Cricket Club Limited	Rotherham	A	11
 WATTS HEALTHCARE LIMITED	Rochester	A	0
-Waxham House	Ryde	A	0
 WE CARE SERVICES LTD	Rossendale	A	0
 WE CREATE SPACE CIC	Rearsby	A	0
 WE4U LIMITED	Richmond	A	0

@@ -40,6 +40,7 @@ AHA Units 2 Let Limited	Lasswade	A	0
 Ahmadiyya Muslim Association United Kingdom	London	A	0,1,9,10
 Aim Up	Cheltenham	A	0
 Aintu Limited T/A Union Business Finance	Hemel Hempstead	A	0
+Air Utilities Ltd	Stockport, England	A	0
 AK HOT PIZZA 4 U LTD	London	A	0
 Akram General Stores/Akram Ul Haq	Tarbert	A	0
 AKT UK&I LIMITED	London	A	0
@@ -93,6 +94,7 @@ Ascot Underwriting Holdings Limited	London	A	0,4
 ASD Unique Services LLP	Battle	A	0
 ASPA KST Architectural Urban Environmental Design Consulting And Management Ltd	London	A	0
 ASSOCIATION OF BAPTISTS FOR WORLD EVANGELISM OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND	Epsom	A	1,10
+Association of British Credit Unions Ltd	Manchester	A	0
 Association of Commonwealth Universities	London	A	12
 Association of Commonwealth Universities (Head Office)	London	A	0
 Aston Students' Union	Birmingham	A	0
@@ -182,6 +184,7 @@ C & D Foods (Driffield) Unlimited	Driffield	A	0
 C & W (U.K.) LLP	London	A	0,4
 C G Utilities Limited	Guilford	A	0
 C LIN LIMITED T/A Wok U Like	Reading	A	0
+CABIN UNITS LTD	Leicester	A	0
 CAE USA Inc	Bury St. Edmunds	A	0,4
 Cambridge Union Society Enterprises Ltd	Cambridge	A	0
 Cambridge United Football Club Limited	Cambridge	A	0,11
@@ -302,7 +305,6 @@ Devon Ultrasound Ltd T/A Window to the Womb	Exeter	A	0
 Dhammakaya International Society of the United Kingdom	Woking	A	0,1,9,10
 Dhammakaya North United Kingdom	Tyne and Wear	A	1,9,10
 Digital Uncut	London	A	0,4
-Digital Unlimited Group Ltd	London	A	0
 Direct Utilities Support Limited	London	A	0
 DLF UTILITIES LTD	Sunderland	A	0
 DOIT International UK&I Ltd	London	A	0
@@ -358,6 +360,7 @@ Exceptional UKAlien Limited	London	A	0
 Exus UK&I Limited	Salford	A	0,4
 Eze Castle Integration - United Kingdom Limited	London	A	0,4
 Ezeflow United Kingdom Limited	Broxburn	A	0
+EZO UKASSET ONE LIMITED	London	A	0
 FACULTY OF PUBLIC HEALTH OF THE ROYAL COLLEGES OF PHYSICIANS OF THE UNITED KINGDOM	London	A	0
 FAIR FARES 4 U LIMITED	Glasgow	A	0
 FAJERS UNIVERSE LTD	Manchester	A	0
@@ -799,7 +802,6 @@ PANELS 4 U LTD	London	A	0
 Parkinson's Disease Society of the United Kingdom	London	A	0
 Parochial Church Council of St John the Evangelist Upper Norwood	London	A	1,9,10
 Partnership of Mohammad Yousaf and Uzma Ashraf	Calderbank	A	0
-Pathfinder Clean Energy (PACE) UKDev Ltd	Bristol	A	0
 Pathfinder Clean Energy (PACE) UKDev Ltd	London	A	0
 Paws Union Ltd	London	A	0
 PBS4 U.K. Limited	Southampton	A	0
@@ -1323,7 +1325,7 @@ Ufford Park Limited	Suffolk	A	0
 Ufix LIMITED	Ilford	A	0
 Uflex Europe Limited	London	A	0,4
 Ufone Direct	Bradford	A	0
-Ufonia Ltd	London	A	0
+Ufonia Ltd	Oxford	A	0
 UForce Trading Ltd	London	A	0
 UFP London Limited	London	A	0
 UG TRADE LTD	Manchester	A	0
@@ -1340,7 +1342,7 @@ UHD LIMITED	Glasgow	A	0
 UHH Limited	Moray	A	0
 UHI North, West & Hebrides	Thurso	A	0
 UHI Shetland	Lerwick	A	0
-Uhlmann U.K. Limited	Sandhurst	A	0,4
+Uhlmann U.K. Limited	Camberley	A	0,4
 Uhmaar Limited	Sutton	A	0
 UHOMES.COM UK CO., LTD.	London	A	0
 UHS Estates Limited	Southampton	A	0
@@ -1392,7 +1394,6 @@ UKForex Limited	London	A	0,4
 UKG Technology Limited	Bracknell	A	0,4
 UKGBC Limited	London	A	0
 Ukheshe International Ltd	London	A	0,4
-UKHIFU	Hewish	A	0
 UKHOMESS LTD	Liverpool	A	0
 UKI Limited	Stanmore	A	0
 UKIIC Accelerator Limited	London	A	0
@@ -1413,7 +1414,7 @@ UKTC Ltd	South Lanarkshire	A	0
 UKTMP INTERNATIONAL LIMITED	London	A	0
 Uktop Limited	Ealing	A	0
 UKTV MEDIA LIMITED	London	A	0,3
-UKUNITY83 LIMITED	London	A	0
+UKUNITY83 LIMITED	Foundary Lane	A	0
 UKVK LTD	Leicester	A	0
 UKVS Legal Limited T/A UKVS Solicitors	Rochdale	A	0
 UKZ SERVICES LTD	Birmingham	A	0
@@ -1525,7 +1526,6 @@ Umadevi Pvt Limited	Edinburgh	A	0
 UMAI FOOD LTD	Shrewsbury	A	0
 UMAILI LIMITED	Coventry	A	0
 Umair Naeem T/A Loco Food & Wine	London	A	0
-Umar And Usman Limited	London	A	0
 Umar Autos Limited	London	A	0
 Umar Enterprises	Rochdale	A	0
 Umar Ltd	London	A	0
@@ -1640,7 +1640,6 @@ Uneque Convenients Limited	Datchet	A	0
 Unfabled Ltd.	London	A	0
 Unhindr Ltd	London	A	0
 UNI APPLICATION PORTAL LTD	London	A	0
-UNI BARGAIN LIMITED	Halifax	A	0
 Uni Compare Ltd	London	A	0
 UNI HEALTH DISTRIBUTION LTD	Dartford	A	0
 UNI LADDER CONSULTANCY LIMITED	London	A	0
@@ -1715,7 +1714,6 @@ Unimagined Ltd	London	A	0
 UnimaQ Ltd	Wrexham	A	0
 UNIMASTER MARKETING & MANAGEMENT LTD	London	A	0
 UNIMETAL LTD	Wolverhampton	A	0
-Unimetals Services Limited	London	A	0,4
 UNINEED LIMITED	Glasgow	A	0
 Uninist Limited	Ilford	A	0
 UNION BANCAIRE PRIVEE	London	A	0,4
@@ -1778,7 +1776,6 @@ Unique Car Care (Bradford) Limited	Bradford	A	0
 Unique Care Network Limited	Smethwick,	A	0
 Unique Child day nursery ltd	Northolt	A	0
 UNIQUE CHOICE DISTRIBUTION LIMITED	Peterborough	A	0
-Unique Contact and Community Services Limited	London	A	0
 Unique Digital Marketing Limited T/A syzygy	London	A	0
 UNIQUE ENTERPRISES INTERNATIONAL TRADING LTD T/A UNIQUE CONVENIENCE STORE	Manchester	A	0
 Unique Fabrics (UK) Ltd	London	A	0
@@ -1923,7 +1920,6 @@ United Help Limited	Leicester	A	0
 United Infrastructure Management Limited	Warrington	A	0
 United Insurance Brokers Limited	London	A	0,4
 United International Piping UK Limited	Coventry	A	0
-United IT and Consultancy Limited	London	A	0
 United Jewish Israel Appeal	London	A	0,3
 UNITED KARS LTD	London	A	0
 UNITED KINGDOM & EUROPE WORLD LITERACY FOUNDATION	London	A	0
@@ -2030,7 +2026,6 @@ Universal Accounts Ltd	London	A	0
 UNIVERSAL AIR EXPRESS LTD	Hayes	A	0
 Universal Bakers	Peterborough	A	0
 Universal Balancing	Bristol	A	0
-UNIVERSAL BARGAIN LTD	Salford	A	0
 Universal Bodyshop UK Limited	Nuneaton	A	0
 UNIVERSAL BRANDING LTD	Wolverhampton	A	0
 UNIVERSAL CABS LTD	Ipswich	A	0
@@ -2050,7 +2045,6 @@ Universal Day Care Limited T/A Universal Day Care Centre	Wednesbury	A	0
 Universal Delivery Solutions Limited	Heston	A	0
 Universal Design Studio Limited	London	A	0,4
 Universal Dispense Systems Ltd	Hounslow	A	0
-Universal Distribution Ltd	Slough	A	0
 UNIVERSAL EDUCATION CARE LTD	London	A	0
 UNIVERSAL ELECTRONICS LIMITED	Essex	A	0
 Universal Express Distribution Ltd	Isleworth	A	0
@@ -2234,7 +2228,7 @@ Unravel Technologies Limited	London	A	0
 Unreliable Limited	London	A	0
 Unruly Curls Ltd	London	A	0
 UNRVLD LIMITED	London	A	0
-UNSA LIMITED	Brighton	A	0
+UNSA LIMITED	Leicester	A	0
 Unseen (UK)	Bristol	A	0
 UNSS LIMITED	Nelson	A	0
 UNSTOPPABLES DIGITAL MEDIA LTD	London	A	0
@@ -2325,6 +2319,7 @@ UPPERCLASS FASHIONS LIMITED	London	A	0
 Uppercut Deluxe Co Ltd.	Eastleigh	A	0,4
 Uppermill Cricket & Bowling Club	Oldham	A	11
 Upperplumbers Ltd	London	A	0
+Upperthorpe Medical Centre	Sheffield	A	0
 Uppingham Community College	Uppingham	A	0
 Uppingham School (Company Registration Number 8013826)	Uppingham	A	0
 UPPower Ltd	Broxbourne	A	0
@@ -2355,7 +2350,6 @@ Uptime Professional Services Limited	London	A	0,4
 UPTITUDE LTD	London	A	0
 Upton Care Plus Ltd	Slough	A	0
 UPTON FISH BAR LIMITED	Widnes	A	0
-UPTON HOUSE	Sandwich	B	0
 UPTON LIVING LIMITED	London	A	0
 Upton Mini Mart	Wakefield	A	0
 Upton Park Dentalcare	London	A	0
@@ -2395,6 +2389,7 @@ Urban Boarding UK Ltd Trading as UBHOMES	Edinburgh	A	0
 URBAN BRASS HARDWARE LTD	London	A	0
 Urban Burgers Group Limited	Doncaster	A	0
 URBAN CARE SYSTEMS LTD	Birmingham	A	0
+Urban CGI UK Ltd	London	P	2
 Urban Choola Limited TA Urban Choola	Sheffield	A	0
 Urban Circle Newport	Newport	A	0,3
 URBAN CONCEPT DESIGN & BUILD LTD	Bolton	A	0
@@ -2425,7 +2420,6 @@ Urban Kohinoor Ltd	Bristol	A	0
 Urban Leisure NW6 Ltd	London	A	0
 Urban Life Manchester Ltd	Warrington	A	0
 URBAN LINK ESTATES LIMITED T/A URBAN LINK	Walsall	A	0
-URBAN LOOK FASHION LTD	Manchester	A	0
 URBAN MASALA LIMITED	Bristol	A	0
 URBAN MASSAGE LTD	London	A	0
 URBAN MOBILE LTD	Weymouth	A	0
@@ -2448,6 +2442,7 @@ URBAN SPICE BISTRO AND TAPAS LTD	Milcombe	A	0
 Urban Trade Frames Ltd	Birmingham	A	0
 Urban Wilderness Limited	Leeds	A	0
 urbanbubble	Manchester	A	0
+Urbanchain Enterprise Logistics Limited	Manchester	A	0
 Urbanchain HUB CIC	Manchester	A	0
 UrbanChain Ltd	Manchester	A	0
 URBANE MANAGEMENT SOLUTIONS LIMITED	London	A	0

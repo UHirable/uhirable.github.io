@@ -112,7 +112,6 @@ A & F MIDLANDS LIMITED	Stourbridge	A	0
 A & F NET SOLUTIONS LIMITED	West Drayton	A	0
 A & F SUPPLIES LIMITED	Preston	A	0
 A & G Pet Medical Ltd	Chatteris	A	0
-A & G SUPER STORE LTD	Wigan	A	0
 A & G Young	Errol	A	0
 A & H Convenience Store	Rotherham	A	0
 A & H Exchange Limited	Thornton Heath	A	0
@@ -333,7 +332,6 @@ A P News Limited T/A A P News	Essex	A	0
 A P Sampson Ltd	Luton	A	0
 A P SOUVENIRS & GIFTS LIMITED	Berkshire	A	0
 A P TRAINING LTD	Wolverhampton	A	0
-A Park View Hotel	Wolverhampton	A	0
 A Park View Hotel (Wolverhampton) Ltd	Wolverhampton	A	0
 A Patel Limited	Essex	A	0
 A Patel T/A Mail Boxes Etc Croydon	London	A	0
@@ -497,7 +495,6 @@ A&R CONVENIENCE STORE LIMITED	Godalming	A	0
 A&R GUARDIAN SERVICES LIMITED	Leicester	A	0
 A&R LONDON LTD	London	A	0
 A&R MEATS (NW) Limited	Salford	A	0
-A&R National Street	Mussulburgh	A	0
 A&R Properties (London) Ltd	Walthamstow	A	0
 A&R Refrigeration Services Ltd	Tilbury	A	0
 A&S 2014 Ltd	Exeter	A	0
@@ -592,6 +589,7 @@ A.A Automotive Dealership Limited	London	A	0
 A.B BRASSERIE LTD	Cheltenham	A	0
 A.B. Hotels (The Arch London) Limited	London	A	0,4
 A.B.F. Holdings Limited	Peterborough	A	0
+A.BERRY SUPPORT SERVICES LIMITED	Denby	A	0
 A.C. Nielsen Company Limited	Oxford	A	0,4
 A.C.C.E.S.S 2016 LIMITED	Sutton-In-Ashfield	A	0
 A.C.T. London Limited	London	A	0
@@ -708,6 +706,7 @@ A1 MASALA MART LIMITED	Pinner	A	0
 A1 Minibus and Coach Ltd	Luton	A	0
 A1 MOT CENTRE NORTHAMPTON LTD	Northampton	A	0
 A1 Permier Services Limited	Solihull	A	0
+A1 Pharmaceuticals Public Limited Company	Rainham	A	0
 A1 Plumbers UK Ltd	Slough	A	0
 A1 POUND STORE LTD	Manchester	A	0
 A1 PRIVATE HIRE LTD	Nottingham	A	0
@@ -883,7 +882,6 @@ AAA Car Sale Ltd	Darlington	A	0
 AAA Delivery Services Ltd	Hull	A	0
 AAA Dentalab Ltd	London	A	0
 AAA Diamonds Limited	Rugby	A	0
-AAA EAGLES LTD	Stockport	A	0
 AAA Enterprises (Gloucester) Ltd	Gloucester	A	0
 AAA Freight Services Ltd	Glasgow	A	0
 AAA Healthcare Agency Ltd	Preston	A	0
@@ -1009,8 +1007,8 @@ AARAGT LIMITED	Wirral	A	0
 Aaran and Naya Enterprise Limited	Whitwick	A	0
 Aarandale Lodge Limited T/A Aarandale Lodge	Westcliff On Sea	A	0
 Aarani And Aarujan Ltd T/a BP	London	A	0
-AARAV COURIER LTD	Stoke-On-Trent	A	0
-AARAV PROPERTIES LIMITED	Twickenham	A	0
+AARAV PROPERTIES LIMITED	London	A	0
+AARAV TRANSPORT LTD	Stoke-On-Trent	A	0
 AARDEN ENTERPRISE LTD	London	A	0
 Aardman Animations	Bristol	A	0,3
 Aardvark EM Limited	Ottery St Mary	A	0
@@ -1055,6 +1053,7 @@ AARUN SOFTWARE LIMITED	Amersham	A	0
 Aarush News	Southend on sea	A	0
 Aarusha Limited T/A Birchwood Stores	Bristol	A	0
 AaruvikA Limited	Edinburgh	A	0
+AARVEE ASSOCIATES LIMITED	London	A	0
 AARVIENTERPRISE5912	Luton	A	0
 Aarvn IT Ltd	Liverpool	A	0
 AARYA NAILS AND BEAUTY LIMITED	Bedford	A	0
@@ -1277,7 +1276,6 @@ Abbeyfield The Dales Ltd	Ilkley	A	0
 ABBEYLOYD PROPERTIES LTD	London	A	0
 Abbeyside Nursing Home Limited	Elgin	A	0
 Abbeywell Veterinary Clinic Limited	Folkestone	A	0
-Abbeywood House Care Limited	Devon	A	0
 ABBEYWOODRCG LTD	Clyst St. Mary	A	0
 ABBFEM CONSULTING LIMITED	Newport Pagnell	A	0
 Abbina Ltd	Pontypridd	A	0
@@ -1333,6 +1331,7 @@ ABC Smile Ltd	London	A	0
 ABC Studio Childcare Ltd	London	A	0
 ABC TAXIS 247 LIMITED	Aylesbury	A	0
 ABC Travel	Reading	A	0
+ABC WORLDWIDE LTD	Belfast	A	0
 Abcam Limited	Cambridge	A	0,4
 Abcfabulous Limited	London	A	0
 Abd AlRahman Alisha T/a Bismillah Takeaway	Huddersfield	A	0
@@ -1382,7 +1381,6 @@ Abellio ScotRail Limited	Glasgow	A	0
 Abelon Systems Limited	Edinburgh	A	0
 Abels Moving Services Limited	Potters Bar	A	0
 Aber Medical Centre	Caerphilly	A	0
-Aber Soft Limited	London	A	0
 Abercare Limited	Cheshire	A	0
 ABERCLEAN PLANT AND SWEEPER HIRE LTD	Aberdeenshire	A	0
 Abercrombie & Kent Limited	London	A	0
@@ -1472,6 +1470,7 @@ Abide Consulting Ltd TA Driver Hire Romford	Romford	A	0
 Abide Home Care Limited	Brixham	A	0
 ABIEL HOLDINGS LTD T/A LINDENS REST HOME	Manchester	A	0
 ABIHA FOODS LIMITED T/A EXOTICA ASIAN CUISINE	Rugby	A	0
+ABIJAN LTD T/A Selekt Chicken	Bedfont	A	0
 ABIKE ADE FOUNDATION	London	A	3
 ABIKE'S KITCHEN LIMITED	Nottingham	A	0
 ABIKO LIMITED	London	A	0
@@ -1590,6 +1589,7 @@ Abrashem Limited	Birmingham	A	0
 Abrasive Technology Limited	Colwyn Bay	A	0,4
 Abraxys Ltd	London	A	0
 Abridge Systems Limited	Chelmsford	A	0
+Abrigo Homes	Brierfield	A	0
 Abril Industrial Waxes	Bridgend	A	0
 ABRONN MEDICAL UNITS UK LIMITED	Manchester	A	0
 ABRST Ltd t/a Dhillons	Kilsyth	A	0
@@ -1676,7 +1676,6 @@ ABZ TRADING LIMITED	London	A	0
 Abzena (Cambridge) Limited	Cambridge	A	0
 ABZNI LIMITED	Lurgan	A	0
 AC & AA Limited t/a Betterclean Services	Tunbridge Wells	A	0
-AC and JA Brodie	Dorking	A	11
 AC Auto 1 Ltd	Newcastle-under-Lyme	A	0
 AC Breaking Limited	Cropredy	A	0
 AC Fashion Design Limited	London	A	0
@@ -1805,7 +1804,7 @@ Access Insulation & Coatings	Middlesbrough	A	0
 Access International Security Ltd	Loughton	A	0
 Access LTD	Reading	A	0
 Access NRI Consultancy Pvt. Ltd.	Bristol	A	0
-Access Retail Limited	Inverness	A	0
+Access Retail Limited	Moffat	A	0
 Access Self Storage Limited	London	A	0
 ACCESS Speech and Language Therapy Limited	Sawbridgeworth	A	0
 Access Support 24 Limited	Weston-Super-Mare, Somerset	A	0
@@ -1827,7 +1826,7 @@ ACCIDENT CLAIM HELPLINE LTD	London	A	0
 Accident Express Rugby Limited	Rugby	A	0
 ACCIDENT REPAIR CENTER	Letchworth	A	0
 Accidental Theatre	Belfast	A	0
-Accinnoz Limited	Feltham	A	0
+Accinnoz Limited	London	A	0
 Accio Research Ltd	Southampton	A	0
 Accion Labs (UK) Limited	Radlett	A	0,4
 Acciona Agua UK Limited	London	A	0,4
@@ -1895,7 +1894,6 @@ Accounts Direct (Accounting & Bookkeeping) Limited	Salford	A	0
 ACCOUNTS HOUSE LTD	Upminster	A	0
 Accountx Ltd	Oxford	A	0
 Accredible Ltd	Ely	A	0,4
-Accredo Support and Development Ltd	Leicester	A	0
 Accrete Management Limited	London	A	0
 Accrington Cricket & Tennis Club	Accrington	A	11
 Accrington Surgical Instrument Suppliers Ltd	Accrington	A	0
@@ -1988,7 +1986,6 @@ ACER ACCOUNTANCY SERVICES LIMITED trading as Acumen+	Rushden	A	0
 ACER HEALTH CARE LTD	Birmingham	A	0
 ACER International Limited	London	A	0,4
 Acer Prime Law Ltd	Norwich	A	0
-ACER PROPERTIES NORTH LTD	Preston	A	0
 Acer Tree Investment Management LLP	London	A	0
 Acer Trust	Oxford	A	0
 Acer UK Limited	West Drayton	A	0,4
@@ -2014,7 +2011,7 @@ Achelous Energy Ltd	Edenbridge	A	0
 ACHERON CAPITAL LIMITED	London	A	0
 Achieve Pharma UK Limited	Henley-On-Thames	A	0
 Achieve Teachers Ltd	London	A	0
-Achieve together Limited	Twerton	A	0
+Achieve together Limited	Leatherhead	A	0
 Achieve UK Immigration Ltd	Birmingham	A	0
 Achievement through Collaboration	Preston	A	0
 Achievers Care Solutions Limited	Dartford	A	0
@@ -2150,6 +2147,7 @@ Acro Aircraft Seating Limited	Crick	A	0,4
 Acron Aviation Training Solutions Limited	Altrincham	A	0,4
 ACRON ENGINEERING SERVICES (UK) LTD	London	A	0,2
 Acron Services Ltd	Luton	A	0
+ACRONOTICS LIMITED	Warlingham	A	0
 Acropolis Street Food Limited	Newcastle upon Tyne	A	0
 Across The Bay LTD	Morecambe	A	0
 Across the Pond - Study in Britain Limited	Crookham Village	A	0
@@ -2325,6 +2323,7 @@ Acurable Ltd	London	A	0
 ACUSERV SOLUTIONS LIMITED	London	A	0
 Acushnet Europe Ltd	St Ives	A	0
 ACUTE BLOSSOM & CO LIMITED	London	A	0
+Acute Hoarding and Fencing Ltd	Watford	A	0
 Acute Scaffold Design Ltd	Bristol	A	0
 ACUTEC Limited	Birmingham	A	0
 ACUTRO LTD	London	A	0
@@ -2414,7 +2413,6 @@ Adam CEX Ltd	Batley	A	0
 ADAM CONSTRUCTIONS (LEICESTER) LTD	Leicester	A	0
 Adam Ellis Ltd	London	A	0
 ADAM FARM FRESH LIMITED	Hitchin	A	0
-Adam Grocers Ltd T/A Abu Bakr Supermarket	Leeds	A	0
 Adam Grooming Atelier Ltd	London	A	0
 Adam Handling Limited T/A Frog by Adam Handling	Greater London	A	0
 Adam Haulage Services Ltd	Nottingham	A	0
@@ -2559,6 +2557,7 @@ ADELANTA CONSULTING LTD	London	A	0
 Adelante Software Ltd	Maidenhead	A	0
 Adelik Healthcare Ltd	Liss	A	0
 ADEM SB LTD	Stevenage	A	0
+Adem's Hair & Beauty Ltd	Belgravia	A	0
 Ademchic Ltd	London	A	0
 Ademco 1 Limited	Berks	A	0,4
 Aden Engineering & Consultancy Ltd	Birmingham	A	0
@@ -2599,7 +2598,6 @@ ADG Accountants (Tax) Limited	Bradford	A	0
 ADG Market Making LLP	London	A	0
 ADGAN ELECTRICS LTD	Cheadle	A	0
 ADH Prime Foods Limited	Worthing	A	0
-ADHAM HOTELS LTD	Huddersfield	A	0
 ADHARA GROUP LIMITED	Rochdale	A	0
 ADHAV LIMITED t/a Morrisons fuel station	Norfolk	A	0
 ADHD CERTIFY LTD	Hinckley	A	0
@@ -2692,6 +2690,7 @@ Adnan Cricket Academy Ltd	London	A	0
 ADNAN PIZZAS LTD	Manchester	A	0
 Adnan Raza T/A Danny's Barbershop	Maidenhead	A	0
 ADNANS HYDE LTD T/a Adnans	Hyde	A	0
+ADNFC Financial Consultants Ltd	York	A	0
 Adnitt Acoustics Services Limited	Epsom	A	0
 ADNOC International UK Limited	London	A	0,4
 Adnomics Ltd	Maidstone	A	0
@@ -2707,7 +2706,6 @@ ADORAI LIMITED	Harrow	A	0
 ADORATE LTD	Luton	A	0
 Adore Centre Ltd	London	A	0
 Adore Church	Birmingham	A	1,10
-ADORE DESIGNS YORKSHIRE LIMITED	Batley	A	0
 Adore Smile Limited	Glasgow	A	0
 Adoreboard Limited	Belfast	A	0
 Adorn Beauty And Care Ltd T/A Adorn Beauty	Grays	A	0
@@ -2724,6 +2722,7 @@ ADR NORTHWEST LIMITED	Northwich	A	0
 Adraba B.O. UK Ltd	Milton Keynes	A	0
 Adreamz Events Limited	Southall	A	0
 ADRENALINE ALLEY LTD.	Corby	A	11
+Adria News Network Sales UK Ltd	London	A	0
 Adriams Ltd	Aberdeen	A	0
 ADRIAN GIBSON MUSIC PRODUCTIONS	Surrey	A	3
 ADRIAN GRANT COMMERCIALS LTD	Crumlin	A	0
@@ -2808,7 +2807,6 @@ Advanced Auto Technik Limited	Slough	A	0
 Advanced Automobile Solutions Ltd	Northwich	A	0
 Advanced Avionics Ltd	Westerham	A	0
 Advanced Beauty Clinic and Training Ltd.	London	A	0
-ADVANCED BEAUTY MEDICAL LTD	London	A	0
 ADVANCED BROADCAST SERVICES LIMITED	London	A	0
 Advanced Building & Maintenance Services Limited	Aveley	A	0
 ADVANCED CARE (NI) LTD	Lisburn	A	0
@@ -2904,7 +2902,7 @@ Advanz Pharma Services (UK) Limited	London	A	0,4
 Adveco (AWP) Limited	Farnborough	A	0
 Advencap UK Limited	London	A	0
 Advent Bioservices	Cambridge	A	0
-Advent Care Solutions Ltd	Harrow	A	0
+Advent BioServices Ltd	Cambridge	A	0
 Advent Data Solutions Ltd	Stanmore	A	0
 Advent Estates Ltd t/a Field Farm House Residential Home	Herefordshire	A	0
 ADVENT FINANCIAL SERVICES LTD	Harrow	A	0
@@ -2929,7 +2927,6 @@ AdVini UK Limited	London	A	0
 Advinia Care Homes	Finchley	A	0
 Advised Ltd	London	A	0
 ADVISION INTERNATIONAL LTD	London	A	0
-Advita Ltd T/As Smart food and wine	Hampshire	A	0
 ADVIZZO LIMITED	Manchester	A	0
 ADVOCATE GROUP LTD	Northampton	A	0
 Advoco Solutions Limited	Silchester	A	0
@@ -2962,7 +2959,6 @@ AECOM LIMITED	London	A	0,4
 Aecoz Bioware Ltd	Kent	A	0
 Aed Energy Ltd	London	A	0
 AEDS Consultants Limited	Warwick	A	0
-AEEIW Ltd	Rainham	A	0,7
 AEG Construction Limited	Derby	A	0
 AEG Fuels UK Limited	Crawley	A	0,4
 AEG Presents Ltd	London	A	0,3,4
@@ -3115,6 +3111,7 @@ AFC- HALAL MEAT LTD	Middlesex	A	0
 AFD Food and Drink Limited T/A The Espy	Portobello	A	0
 Afdhal Hussain Sanitary Contracting UK LTD	Wembley	A	0
 AFE Group LTD	Swansea	A	0
+Afendis Capital Management (UK) Limited	London	A	0
 AFENEL LIMITED	London	A	0
 Afeni Healthcare Limited	Bristol	A	0
 Afentra UK Limited	London	A	0
@@ -3187,7 +3184,6 @@ Aflorithmic Labs, Ltd.	London	A	0
 AFM Consulting Limited	London	A	0
 AFM Consulting Limited	Otley	A	0
 AFOAKWA MARKET LTD	Walsall	A	0
-AFON GOCH CHILDREN'S HOMES LTD	Deiniolen	A	0
 Afon Technology Ltd	Caldicot	A	0
 AFONSOM LIMITED	Nottingham	A	0
 AFP Assets Limited	London	A	0
@@ -3341,7 +3337,6 @@ Age UK Lambeth	London	A	0,9
 Age UK Stockport	Stockport	A	9
 Age UK Wirral	Wirral	A	0
 Ageas Insurance Limited	Eastleigh	A	0,4
-AgeCare MG2 Ltd	Colchester	A	0
 AGECOURT LIMITED	Harpenden	A	0
 Agee Care Limited	Stoke-On-Trent	A	0
 AGEMA ENGINEERING LTD	Coventry	A	0
@@ -3494,7 +3489,6 @@ Agriculture Machinery Cleaning Ltd	Hull	A	0
 AGRICYCLERS LTD	London	A	0
 Agrigate One Limited	London	A	0
 Agrigum International Limited	High Wycombe	A	0
-Agrimetrics Ltd	Reading	A	0
 AgriSound Limited	York	A	0
 Agrivert Limited	Gagingwell	A	0
 AGRN Ltd t/a Kathmandu Nepalese and Indian Restaurant	Plymouth	A	0
@@ -3662,6 +3656,7 @@ AI Restaurants Ltd	Birmingham	A	0
 Ai Tea Drinks Limited	Huddersfield	A	0
 AI TECH BUILDERS LTD	London	A	0
 AI Tech Ltd	London	A	0
+AI Technology Consulting ltd	Cheltenham	A	0
 AI-Media UK B Ltd	London	A	0,4
 AI-PRIORI LTD	Burton on Trent	A	0
 AI4PROCESS LTD	London	A	0
@@ -3685,7 +3680,6 @@ AIDA Intelligent Solutions LTD	Oldam	A	0
 Aida Kebab	Sittingbourne	A	0
 Aidan Strain Electrical Engineering Ltd (ASEE Ltd)	Mullaghbawn	A	0
 AiDash UK Limited	London	A	0,4
-AIDEM TECHNOLOGIES LTD	London	A	0,4
 AIDEN BARBER LTD	Waterlooville	A	0
 Aiden London Ltd T/a The Bumble Bees	London	A	0
 Aiden Retail Ltd	Bedforshire	A	0
@@ -3797,7 +3791,6 @@ Air Design Limited	London	A	0
 AIR FOR LIFE UK LTD	Milton Keynes	A	0
 Air Handlers Northern Limited	Salford	A	0
 Air India	Brentford	A	0,4
-Air IT Ltd	Sandiacre	A	0
 Air Liquide UK Ltd	Birmingham	A	0,4
 Air Navigation Solutions Limited	Gatwick Airport	A	0,4
 Air New Zealand Limited	London	A	0
@@ -3813,6 +3806,7 @@ AIR Studios (Lyndhurst) Ltd	London	A	0
 Air Technology Systems Ltd	Bromsgrove	A	0
 Air Torque (UK) Limited	Coalville	A	0
 AIR TRIPS LTD T/A AIR TRIPS	London	A	0
+Air Utilities Ltd	Stockport, England	A	0
 AIR Worldwide Ltd	London	A	0,4
 AIR X UK LTD	Feltham	A	0
 AIR-CON SERVICE LIMITED	Woodford Green	A	0
@@ -3839,7 +3833,6 @@ Airbus Operations Limited	Bristol	A	0,4,5,7,8
 Airbus Protect Limited	Bristol	A	0,4
 Aircall UK Ltd	London	A	0,4
 Aircards Ltd	Newcastle Upon Tyne	A	0
-AIRCOM International Ltd	Leatherhead	A	0,4
 AIRCOM International Ltd	Surrey	A	0
 Aircraft Engineering Services Limited	Stansted	A	0
 Aircraft Leasing & Management Limited	Crawley	A	0,4
@@ -4094,6 +4087,7 @@ AK& M Traders Ltd	Clydebank	A	0
 AK-KUR FURNITURE & FITTING LTD	Hebburn	A	0
 AK23 Ltd	Weybridge	A	0
 AKA Europe Limited	London	A	0
+AKA INNOVATIONS POWER & ELECTRICAL ENGINEERING LTD	Aberdeen	A	0
 AKA Manchester LTD	Manchester	A	0
 AKA PHARMA	Stoke on Trent	A	0
 AKA Promotions Limited	London	A	0
@@ -4159,6 +4153,7 @@ Akhter Group plc	Harlow	A	0,4
 AKHTER'S LIMITED	Nottingham	A	0
 Akilan Kandasamy	Swansea	A	0
 Akin Gump Strauss Hauer & Feld	London	A	0,4
+Akin Palmer LLP	London	A	0
 Akinn Group Ltd	London	A	0
 Akinsfoodltd	Kent	A	0
 Akira Partners LLP	London	A	0
@@ -4264,7 +4259,6 @@ AL AMIN CASH & CARRY LIMITED	Oldham	A	0
 AL AMIN DISTRIBUTORS LTD	Birmingham	A	0
 AL AMIN PROPERTY GROUP LTD	Birmingham	A	0
 AL AQSA FISH MARKET LTD	London	A	0
-AL AQSA TRAVEL & TOUR LTD	Birmingham	A	0
 al arafah abaya house ltd	London	A	0
 AL ARAFAH KIDS LIMITED	London	A	0
 Al Arqam	Ltuon	A	1,10
@@ -4651,9 +4645,9 @@ Alby's Bakery Ltd	London	A	0
 ALBYN EATERY LTD	Westhill	A	0
 Albyn School	Aberdeen	A	0
 ALBYTECH IT SERVICES LTD	Orpington	A	0
-ALC Supported Living	Liverpool	A	0
 Alcas Limited	Hertford	A	0
 Alcatel Submarine Networks UK Ltd	London	A	0,4,7
+Alcemi Services Limited	London	A	0
 Alcester Grammar School	Alcester	A	0
 Alcester Health Centre	Alcester	A	0
 Alcester HomeCare Agency	Alcester	A	0
@@ -4983,6 +4977,7 @@ Alif Moosajee Ltd Trading as Oakdale Dental	Leicester	A	0
 Alif Taste of Lahore Ltd	Edinburgh	A	0
 Aliflammeem Ltd	Feltham	A	0
 ALIFYA EDUCATION LTD	London	A	0
+ALIGATOU LTD	Oldham	A	0
 Alighieri LTD	London	A	0
 ALIGHT FIRE SYSTEM LIMITED	Harrow	A	0
 Align & Smile Limited	London	A	0
@@ -5021,7 +5016,7 @@ Alishaan Indian Restaurant	Worthing	A	0
 ALISHAAN LIMITED	Leeds	A	0
 ALISHAH FOODS LTD	Glasgow	A	0
 Alison Brooks Architects Limited	London	A	0
-Alison Education UK Ltd.	Houslow	A	0,2
+Alison Education UK Ltd.	London	A	0,2
 ALISON HOLDINGS LTD T/A KASPAS DESSERTS	Kent	A	0
 ALISON JACQUES LIMITED	London	A	0
 Alison Kay Fishing Company Limited	Lerwick	A	0
@@ -5048,6 +5043,7 @@ Alk Vehicle Solutions Ltd	Grays	A	0
 ALK-Abello Limited	Reading	A	0,4
 Alkagesta (UK) Limited	Mayfair	A	0
 Alkaia Ltd	Ipswich	A	0
+ALKARAM LTD	Manchester	A	0
 Alkaro Hospitality Ltd	Newcastle upon Tyne	A	0
 ALKAS SUPERMARKET LTD T/A RODING FOOD & WINE	Essex	A	0
 Alken Finance LLP	London	A	0
@@ -5069,7 +5065,6 @@ ALL CONSTRUCT LIMITED	London	A	0
 ALL CREATIVE BRANDING LIMITED	London	A	0
 All Creatures Battersea Ltd	London	A	0
 All Cube Ltd	Caterham	A	0
-ALL CUISINES CATERING LTD t/a KOKU SHI	Kirkcaldy	A	0
 All Custom Roofing Ltd	Egham	A	0
 All Day Care Services ltd	Norwich	A	0
 ALL DAY RETAIL LIMITED	Oxford	A	0
@@ -5080,6 +5075,7 @@ All For Christ International Ministry	Reading	A	9
 All For You Services Ltd	London	A	0
 All Global Media Limited	London	A	0
 ALL GRACE AFRICAN MARKET AND FOODS LTD	Clacton - On - Sea	A	0
+All Gravy Limited	London	A	0,4
 All Greens Wholesale Limited	London	A	0
 All Grow Ltd	Cheriton	A	0
 All Hallows Bow	London	A	10
@@ -5184,7 +5180,6 @@ ALLAWAY HEALTHCARE LIMITED	Hampshire	A	0
 Allbars Vaping Ltd	London	A	0
 Allbest Solutions Limited	Woking	A	0
 ALLBETTER CARE LIMITED	London	A	0
-Allbound UK Limited	London	A	4
 Allbro's Pharmacy Ltd t/a PharmacyKwik	Manchester	A	0
 AllChild Limited	London	A	0
 ALLCO DESIGN & BUILD LTD	London	A	0
@@ -5294,7 +5289,6 @@ ALLIED COMPUTER UK LTD	Wembley	A	0
 Allied Computers International Limited	Wembley	A	0
 Allied Crowds Ltd.	Richmond	A	0
 Allied Digital Services UK Ltd	Lewins Mead	A	0,4
-ALLIED ENGINES LTD	Grays	A	0
 Allied Enterprise Ltd	South Croydon	A	0
 Allied Global Engineering Ltd	Glossop	A	0
 Allied Global Marketing Ltd.	London	A	0
@@ -5339,6 +5333,7 @@ Allium Seeds UK Ltd	Boston	A	0
 Allium UK Holding Limited	Bracknell	A	0
 Allkind Mental Health And Wellbeing	London	A	0
 ALLMED LTD	Watford	A	0
+Allneeds Building & Construction Depot Limited T/a ABC Depot	Hatfield	A	0
 Allo Chat Ltd	Portsmouth	A	0
 Alloa Consultancy Limited	London	A	0
 Allocate Software Ltd	Richmond	A	0
@@ -5531,6 +5526,7 @@ ALPHA REACH LTD	Reading	A	0
 Alpha Real Capital LLP	London	A	0
 Alpha Retail Ltd	London	A	0
 ALPHA RETAIL TRADING LTD	Bournemouth	A	0
+ALPHA SAFETY SOLUTIONS LIMITED	Milton Keynes	A	0
 Alpha Schools (Holdings) Limited	High Wycombe	A	0
 ALPHA SECURITY INDUSTRIES LIMITED	Beford	A	0
 ALPHA SECURITY SOLUTIONS LTD	Barking	A	0
@@ -5721,7 +5717,6 @@ Alto Cars Ltd	Hartley Wintney	A	0
 Alto Hearing Limited	Lutterworth	A	0
 Altodata Ltd	Sevenoaks	A	0
 Altogether Care LLP	Weymouth	A	0
-Altomart Ltd	Harrow	A	0
 ALTON & CO.	London	A	0
 Alton Aviation Consultancy UK Limited	London	A	0,4
 Alton Convenience Store Limited	Alton	A	0
@@ -5798,6 +5793,7 @@ ALVIZ STUDIOS LTD	Edgbaston, Birmingham	A	0
 Alvony House Ltd	Bristol	A	0
 ALVORI LTD	Dorset	A	0
 Alvotech UK Limited	London	A	0,4
+Always Caring Bromley Ltd	Kent	A	0
 Always Growing Ltd	Windsor	A	0
 Always Inclusive Ltd	Orpington	A	0
 ALWAYSSMILE MEDTECH LTD	London	A	0
@@ -5835,6 +5831,7 @@ AM Builders (Luton) Ltd,.	Luton	A	0
 AM CAR PARTS LIMITED	Barking	A	0
 AM Civil Engineering Services Ltd	Belfast	A	0
 AM Coffee Retail Limited	Wembley	A	0
+AM Coffee Retail Limited T/A Starbucks	Pinner	A	0
 AM Diagnostic Imaging Ltd	Stanley	A	0
 AM FRESH UK Ltd	Peterborough	A	0,4,7
 AM HALAL MEATS @WHOLESALES LTD	Leicester	A	0
@@ -5852,7 +5849,7 @@ AM Plumbing and Heating Services Limited	Luton	A	0
 AM PROFESSIONAL LTD	Manchester	A	0
 AM PROPERTY INVEST LTD	Bury	A	0
 AM Shakes Ltd	Aberdeen	A	0
-AM Surveying & Block Management	Maidstone	A	0
+AM Surveying & Block Management	Ditton	A	0
 AM Trading UK Limited	London	A	0
 AM Victual Ltd	Birmingham	A	0
 AM VINTAGE RETAIL UK LIMITED	London	A	7
@@ -6083,7 +6080,7 @@ Ambulatory Surgery International Ltd t/a Welbeck Health Partners	London	A	0
 Ambulnz Community Partners Ltd	Manchester	A	0
 Ambush Events Ltd	Leicester	A	0
 AMBUSH STREET TRADING LIMITED T/A Ambush Street Mini Market	Northampton	A	0
-Amc Accountants Ltd	Manchester	A	0
+Amc Accountants Ltd T/A TaxAssist Accountants	Manchester	A	0
 AMC CARE LTD	Ipswich	A	0
 AMC Consultants (UK) Limited	Reading	A	0,4
 AMC ENTERPRISES AYR LIMITED	Ayr	A	0
@@ -6125,7 +6122,6 @@ Amelco UK LTD	London	A	0
 Amelia House Residential House	Exeter	A	0
 Amelia Knight Limited	Knutsford	A	0,4
 Amelia's House Limited	London	A	0
-AMELIE FLAMMEKUECHE RESTAURANTS LTD	Cambridge	A	0
 AMELIO UTILITIES (GLOUCESTER) LIMITED	Gloucester	A	0
 Amelio Utilities Ltd	Belfast	A	0
 Amena Cars Limited	London	A	0
@@ -6326,7 +6322,7 @@ AMNA PROPERTIES LTD	Blackburn	A	0
 AMNAH LIMITED	Swindon	A	0
 Amnesty International, International Secretariat	London	A	0,4,9
 Amnet Smartshoring Services Limited	London	A	0
-Amnomics Services Limited	Uxbridge	A	0
+AMNOMICS SERVICES LIMITED	Uxbridge	A	0
 AMO Consultancy Services Ltd	London	A	0
 AMO RACING LIMITED	London	A	0,11
 AMOB Enterprises Ltd	London	A	0
@@ -6368,14 +6364,14 @@ Ampergia Limited	Milton Keynes	A	0
 Amperity UK Limited	London	A	0,4
 Ampersand Health	London	A	0
 Ampersand Management UK Ltd	London	A	0,2,4
-AMPERSAND-US LTD	Manchester	A	0
+AMPERSAND-US LTD	London	A	0
 AMPHARM LIMITED	Croydon	A	0
 Amphenol Limited	Whitstable	A	0,4
 Amphenol Thermometrics (UK) Limited	Taunton	A	0
 Amphibio Ltd	London	A	0
 Amphista Therapeutics Limited	Cambridge	A	0
 Amphitrite Underwriting Ltd	London	A	0
-Amphora Technologies Limited	Belfast	A	0
+Amphora Technologies Limited	Lisburn	A	0
 Amphora UK Limited	London	A	0,4
 Ampi Limited	Gravesend	A	0
 AMPIGAPATHY KANAGARATHAM T/A GOLDCROFT LOCAL SHOP	Newport	A	0
@@ -6448,6 +6444,7 @@ Amstor Accountants Ltd	Birmingham	A	0
 Amsun Group LTD	Washington	A	0
 AMSUN IT LIMITED	Coventry	A	0
 AMT Lawyers Limited	Blackburn	A	0
+AMT Sports Limited	Amersham	A	0
 AMT-SYBEX Limited	Oxford	A	0
 Amtal Limited	Slough	A	0
 AMTC CARE LTD	London	A	0
@@ -6629,7 +6626,6 @@ Andaaz Pan Centre Limited	London	A	0
 ANDAIR LIMITED	Portsmouth	A	0
 Andalus	Glasgow	A	1,10
 Andaman Surgery	Lowestoft	A	0
-Andaria Financial Services UK Limited	London	A	0
 Andaz Hotel	London	A	0,4
 andBloom Limited	London	A	0
 Andcrafted Ltd	London	A	0
@@ -6692,7 +6688,6 @@ Andrew Mellor Veterinary Surgeons	Blackpool	A	0
 ANDREW MICHAEL LTD	Battersea	A	0
 Andrew Morton	London	A	0
 ANDREW MURRAY & CO ACCOUNTANTS LTD	London	A	0
-Andrew Nolan Mortgages Ltd	Altrincham	A	0
 Andrew Nurnberg Associates Limited	London	A	0
 Andrew Oliver	Caledon	A	0
 Andrew Philips Limited	London	A	0
@@ -6713,6 +6708,7 @@ ANDRITZ Hydro Hammerfest (UK) Limited	Glasgow	A	0,4
 ANDRITZ Limited	Newcastle Under Lyme	A	0,4
 Androlabs UK Ltd	London	A	0
 Andromeda Fishing Limited	Peterhead	A	0
+Andromeda Ltd	Middlesex	A	0
 Andromeda Ltd	South Harrow	A	0
 Andros Maritime Agencies Limited	London	A	0
 Andros UK Limited	Frome	A	0,4,7
@@ -6724,15 +6720,17 @@ Andurand Capital Management LLP	London	A	0,4
 Anduril Industries UK Limited	Cheltenham	A	0,4
 ANDY HARMON GROUP LTD	Sittingbourne	A	0
 Andy Sturgeon Garden Design Limited	Brighton	A	0
+Andy Thornton Limited	Elland	A	0
+ANDY WALKER CONSTRUCTION CO. LIMITED	Manchester	A	0
 Andybusiness Limited T/A Subway	Folkestone	A	0
 ANEDOTTICA LIMITED T/A Pizzerium	London	A	0
 Aneeba Fashion & Beauty Ltd	Peterborough	A	0
 Aneesa Fashion Limited	Manchester	A	0
 Anehxa Ltd t/a The Fat Pizza	Leicester	A	0
 Anekaa Limited	Romford	A	0
-Anel Engineering & Contracting Limited	Chester	A	0,4
 Anele Limited	Milton Keynes	A	0
 Anele OT Ltd	Warwick	A	0
+Anemoi Marine Technologies Ltd	London	A	0
 ANEMONE UK OFFICE LTD	London	A	0
 Anemos-Analytics Ltd	Motherwell	A	0
 Anenta Ldt	Putney	A	0
@@ -6946,7 +6944,6 @@ Animation 2000 Ltd	Beaconsfield	A	0
 Anime Limited	Glasgow	A	0
 ANIMEBREW LIMITED	Manchester	A	0
 Animeuk LTD	Birmingham	A	0
-Animmersion UK Ltd	Middlesbrough	A	0
 Animoca Brands UK Limited	London	A	0
 Animore Limited	London	A	0,4
 Animotive Limited	Belfast	A	0
@@ -7031,7 +7028,6 @@ ANNAMAR UK LIMITED	Portsmouth	A	0
 ANNAMAYYA LTD	Smethwick	A	0
 ANNAN STORE LTD T/A Guide Pharmacy Annan	Annan	A	0
 Annandale Mosque and Community Centre (AMCC)	Edinburgh	A	1
-ANNAPOORANA FOODS LIMITED	Wolverhampton	A	0
 Annapurna Catering Limited	Farnborough	A	0
 ANNAPURNA CATERING LIMITED T/A POPADOMS	Farnborough	A	0
 ANNAPURNA GROCERY LTD TA Nepalese Centre	Hayes	A	0
@@ -7333,7 +7329,7 @@ Apayon Inn Ltd	Stockport	A	0
 APC Accountants Limited	Mansfield	A	0
 APC CARE LIMITED	Hailsham	A	0
 APCER Life Sciences Limited	London	A	0
-APCO Dental Ltd	Lanark	A	0
+APCO Dental Ltd	Glasgow	A	0
 APCO Technologies Services Ltd	Didcot	A	0,4
 APCO Worldwide	London	A	0,4
 Apcoa Parking	Uxbridge	A	0
@@ -7349,6 +7345,7 @@ Aperio Intelligence Limited	London	A	0
 Aperta Care Ltd T/A Caremark Rotherham	Rotherham	A	0
 APERTA LTD	Cumbernauld	A	0,4,7
 APERTUM ONLINE LTD	London	A	0
+Aperture Group Management	London	A	0
 Aperture Hub Ltd	London	A	0
 Aperture Investors UK, Ltd	London	A	0
 APERTURE MEDIA LTD	Shipley	A	0
@@ -7393,7 +7390,6 @@ Apex Hotels Limited	Edinburgh	A	0
 Apex Housing Solutions Ltd	London	A	0
 Apex I.C.T UK Ltd	Batley	A	0
 Apex Innovation Labs Ltd	Liverpool	A	0
-Apex Innovations London Limited	Brentford	A	0
 Apex Insulation (North West) Ltd	Manchester	A	0
 APEX INTERNATIONAL PROPERTY SOLUTIONS LIMITED	London	A	0
 Apex International UK Limited	Retford	A	0
@@ -7419,7 +7415,6 @@ Apex Richtech Packaging Limited	London	A	0
 APEX SECURE LIMITED	Leicester	A	0
 Apex Security & K9 Ltd	Essex	A	0
 Apex Systems Global Limited	Cannock	A	0
-Apex Techno Limited	London	A	0
 Apex UK Consulting Ltd	London	A	0
 Apex Ultra Racing Limited	Woking	A	0,4
 Apex Windows Ltd	Bolton	A	0
@@ -7470,7 +7465,6 @@ APNA SUPERMARKET LTD	Leicester	A	0
 APNA SUPERSTORE LTD	Nelson	A	0
 APNA TRAD1NG LIMITED	Accrington	A	0
 APNA TRAVEL & TOURS LTD	Rotherham	A	0
-Apna Tyres Ltd	Halifax	A	0
 APOCOM KITCHEN COMMUNITY INTEREST COMPANY	Glasgow	A	0
 Apogee Corporation Ltd	Maidstone	A	0
 Apoha Limited	London	A	0
@@ -7529,6 +7523,7 @@ Apperley Cricket Club	Gloucestershire	A	11
 APPETA LTD	London	A	0
 Appetiser Pizza Feltham Ltd	Feltham	A	0
 APPEX SERVICES LTD	London	A	0
+Appfluo Ltd	London	A	0
 APPH Limited	Runcorn	A	0,4
 Apphere Ltd	London	A	0
 APPI Clinics Ltd	London	A	0
@@ -7614,6 +7609,7 @@ Applied Photophysics Ltd	Leatherhead	A	0
 Applied Poultry Ltd T/A Applied Group	Brampton	A	0
 Applied SatelliteTechnology Limited	Great Yarmouth	A	0
 Applied Scientific Technologies Ltd	Stokesley	A	0
+Applied Studio Architecture Ltd.	London	A	0
 Applied Technology Developments Ltd	Leicester	A	0
 Applied Weighing International Limited	Reading	A	0
 Applied Weighing International Ltd	Reading	A	0
@@ -7849,7 +7845,7 @@ AR STYLE LIMITED	London	A	0
 AR SUB Ltd	London	A	0
 AR SUPERMARKET LTD	Birmingham	A	0
 AR Tech Support Ltd	Slough	A	0
-AR TELEVISION NETWORK LTD	London	A	0
+AR TELEVISION NETWORK LTD	Dagenham	A	0
 AR TRANSPORT MIDLANDS LTD	Wednesbury	A	0
 AR Windows & Glass Limited	Rochdale	A	0
 Ar world ltd	London	A	0
@@ -7904,6 +7900,7 @@ ARAMM LEGAL LTD	London	A	0
 ARANDEEP SINGH T/A PRUDHOE DENTAL PRACTICE	Prudhoe	A	0
 ARANJA LIMITED	West Bromwich	A	0
 Arapina bakery LTD	London	A	0
+Aras Legal Ltd	London	A	0
 Aras Software Ltd	Birmingham	A	0
 ARAVINTHAN SUNTHARALINGAM	Haverhill	A	0
 ARAVINTHAN VADIVELU T/A LOCAL FOOD AND WINE	Birmingham	A	0
@@ -7947,6 +7944,7 @@ ARC Club Limited	London	A	0
 ARC Community Care Ltd	Blackpool	A	0
 Arc Connect Limited	London	A	0,4
 ARC Consultancy and Media Limited	Cumbernauld	A	0
+ARC Control Systems Ltd	Finchampstead, Wokingham	A	0
 ARC Dental Surgery	Blackpool	A	0
 ARC Engineering LTD	Ilford	A	0
 ARC ENVIRONMENTAL LIMITED	Co Durham	A	0
@@ -7957,7 +7955,6 @@ ARC International Design Consultants UK Limited	London	A	0
 ARC marine	Torquay	A	0
 Arc Media Holdings Limited	London	A	0,4
 Arc Pharma (UK) Limited	St Albans	A	0
-ARC PHARMA UK LIMITED	St Albans	A	0
 Arc Property Services Partnership Ltd	Nottingham	A	0
 ARC Ratings	London	A	0
 Arc Simulations Ltd	London	A	0
@@ -7969,7 +7966,6 @@ Arca Living Ltd	Birmingham	A	0
 Arca Trade Group Ltd	Rayleigh	A	0
 Arcade (U K) Ltd	Kimbolton	A	0
 Arcade Films London Ltd	London	A	3
-Arcade Ltd	London	A	0
 ARCADE NEWSAGENTS	Merseyside	A	0
 Arcade Opco Limited	London	A	0
 Arcade Talent Agency	London	A	0,3
@@ -8034,7 +8030,7 @@ Archbishop Sentamu Academy	Hull	A	0
 Archbishop Temple Church of England High School	Preston	A	0
 Archdiocese of Cardiff-Menevia	Cardiff	A	0,1,10
 Archdiocese of Glasgow	Glasgow	A	1,9,10
-Archdiocese of Liverpool	Liverpool	A	1,10
+Archdiocese of Liverpool	Liverpool	A	0,1,10
 Archdiocese of St Andrews & Edinburgh	Edinburgh	A	1,9,10
 ARCHE HOMES LTD	Ilford	A	0
 Archea Spaces Ltd	Milton Keynes	A	0
@@ -8132,7 +8128,9 @@ Arcus Foundation	Cambridge	A	0
 Arcus Global Limited	Cambridge	A	0
 Arcus Infrastructure Services LLP	London	A	0
 Arcwide UK & I Limited	London	A	0
+ARD PAVING STONES LIMITED	Surrey	A	0
 ARD-LIFT ELEVATOR (UK) LTD	Manchester	A	0
+Arda Biomaterials Ltd	London	A	0
 Ardach Health Centre	Buckie	A	0
 Ardagh Glass Limited	Knottingley	A	0,4
 Ardagh Metal Packaging UK Limited	Chester	A	0,4
@@ -8170,7 +8168,6 @@ Ardis Services Ltd	Henley-in-Arden	A	0
 ARDIT PAINTERS & DECORATORS LTD	Gravesend	A	0
 Ardmac Performance Contracting Limited	Manchester	A	0,4,7
 Ardmel Automation Limited	Glenrothes	A	0
-Ardmore Construction Group Limited	London	A	0
 Ardmore Cricket Club	Derry	A	11
 Ardmore Veterinary Group Ltd	Sudbury	A	0
 ARDO MAESTRO LTD	London	A	0
@@ -8193,7 +8190,6 @@ Areeba Bristol Ltd T/A, New Rupali	Bristol	A	0
 Aregon Care Ltd	Tipton	A	0
 AREGROUP LTD	London	A	0
 Areli Care Ltd	Brighton	A	0
-Aren Enterprises Ltd	London	A	0
 Arena Event Services Group Ltd	St Ives	A	0
 Arena Investors UK Limited	London	A	0,4
 ARENA LOUNGE UK LTD	Wembley	A	0
@@ -8391,7 +8387,6 @@ Arkash Management Consultants Limited	Northwood	A	0
 Arkay Chilled Food Ltd	Dagenham	A	0
 Arkay Windows Ltd	Watford	A	0
 Arkaya Energy Limited	Southampton	A	8
-Arkdeal Ltd T/A Kaspa's Desserts	Bracknell	A	0
 Arke Agency Ltd	Brighton	A	0
 Arke Creative Limited	London	A	0
 Arkema UK Ltd	Stafford	A	0,4
@@ -8627,9 +8622,8 @@ ARS Mini Market	London	A	0
 ARS Traders Limited	Winchester	A	0
 ARS UK FOOD LIMITED	Northampton	A	0
 ARS Wholesaler Limited	Greenford	A	0
-ARSAK LTD	London	A	0
 Arsenal Football Club	London	A	0,4,11
-Arsenal Women Football Club Limited	London	A	11
+Arsenal Women Football Club Limited	London	A	0,11
 ARSG LTD	London	A	0
 ARSH ENTERPRISES LTD	Manchester	A	0
 Arsh Heating Limited	Erith	A	0
@@ -8646,6 +8640,7 @@ Art Africa Ltd	London	A	0
 Art And Industry Ltd	London	A	3
 ART AND SCIENCE UK LIMITED	London	A	0
 ART Convenience Store Limited	Cambridge	A	0
+Art Credit LTD	London	A	0
 ART EVENTS AND MEDIA LTD	London	A	0,3
 Art Gazette Global Limited	London	A	0
 Art Genpower Solutions Ltd	Wood Green, London	A	0
@@ -8664,6 +8659,7 @@ Art Retail Ltd	Stenhousemuir	A	0
 Art Services Grants Ltd	Ilford	A	3
 ART SWEETS LIMITED	Luton	A	0
 Art Technologies Limited	London	A	0
+ART TIME BARBER LTD	Rickmansworth	A	0
 ART&GRAFT	London	A	0,3
 Art-I-Check Ltd	London	A	0
 Art-Invest Real Estate Management UK Limited	London	A	0,7
@@ -8708,7 +8704,6 @@ Artfix Ltd	London	A	0
 Artform Architects	Manchester	A	0
 Artgo ltd	London	A	0
 Arth PVT Limited	Croydon	A	0
-Artheal Limited	London	A	0
 ARTHI SUPERMARKET LTD	Basildon	A	0
 Arthington Ventures	Otley	A	0
 Arthrex Limited	Sheffield	A	0,4
@@ -8979,7 +8974,6 @@ ASCENT GLOBAL SHIPPING UK LTD	Manchester	A	0
 ASCENT HEALTHCARE LIMITED	Manchester	A	0
 Ascent Onsite Services Ltd	Coventry	A	0
 Ascent Performance Group Limited	Manchester	A	0
-Ascent Performance Group Limited	Sheffield	A	0
 Ascentco Catering and Event Management Services Ltd T/A The Shahi	Leicester	A	0,3
 Ascenti Physio Limited	Fareham	A	0
 ASCENTIA SUPPORT SERVICES LTD	Harrow	A	0
@@ -8988,7 +8982,7 @@ ASCENTIM LEGAL LTD	London	A	0
 AscentiQ Solutions Limited	London	A	0
 Ascentis	Lancaster	A	0
 Ascentium (UK) Limited	London	A	0
-Ascertia Limited	Guildford	A	0
+Ascertia Limited	London	A	0
 Ascheri & Partners Ltd	London	A	0
 Aschfords Law Solicitors Limited	London	A	0
 ASCII Consulting Limited	Wanborough	A	0
@@ -9058,7 +9052,6 @@ ASG NW LTD t/a Tusk	Strabane	A	0
 ASG Power Systems Limited	Newcastle Upon Tyne	A	0,4
 ASG UK PVT LIMITED	Salford	A	0
 Asgard Controlled Environments Ltd	Manchester	A	0
-Asgard Estates Ltd	Cambridge	A	0
 Asgard Group Limited	Sheffield	A	0
 ASGARD HI-TECH SOLUTIONS LIMITED	South Shields	A	0
 Asgard Promotions Ltd	London	A	3
@@ -9113,7 +9106,6 @@ Ashbourne Lodge	Blackpool	A	0
 Ashbournes Solicitors Ltd	London	A	0
 Ashbright Agency Limited	Brentford	A	0
 Ashbrook Care Home	Coalisland	A	0
-ASHBROOKES LIMITED	Middlesborough	A	0
 Ashburnham Christian Trust	Battle	A	9
 Ashburnham Christian Trust	East Sussex	A	0,10
 Ashburton House Care Home Ltd	Ashburton	A	0
@@ -9296,10 +9288,10 @@ Ashtrom Properties UK Limited	London	A	0,4
 Ashtronix	Swindon	A	0
 ASHU (SCOT) LTD	Glasgow	A	0
 ASHU DUNDEE LIMITED	Kirkton Of Auchterhouse	A	0
-Ashurst LLP	London	A	0,4,7
 Ashurst Lodge Healthcare Limited	Wallington	A	0
 Ashurst Park Care Home	Tunbridge Wells	A	0
 Ashurst Perkins Coie (International) LLP	London	A	0,4
+Ashurst Perkins Coie UK LLP	London	A	0,4,7
 ASHVALE PLANT HIRE LIMITED	Westoning	A	0
 Ashville College	Harrogate	A	0
 Ashville Residential Home Ltd	New Tredegar	A	0
@@ -9352,7 +9344,6 @@ Asian Grocery and Halal Meat LTD T/A Naga Hut	London	A	0
 Asian Grocery Maidstone Ltd	Maidstone	A	0
 Asian Grocery Point Ltd	London	A	0
 Asian Harvest Butchers Ltd	London	A	0
-ASIAN KITCHEN HULL LIMITED	Hull	A	0
 ASIAN MIX STORE	Belfast	A	0
 Asian Oriental Supermarket Ltd	Basingstoke	A	0
 Asian People's Disability Alliance Ltd	Harlesden	A	0
@@ -9425,6 +9416,7 @@ ASKIB INTERNATIONAL LIMITED	Swindon	A	0
 ASKIT GEEKS LTD	Leeds	A	0
 ASKK Technologies Ltd	London	A	0
 ASKN LTD	Birmingham	A	0
+ASKO FOODS LTD	Barking	A	0
 ASKOLLO LTD	London	A	0
 Askonas Holt Limited	London	A	0,3,4
 AskRevill.com Ltd	Ringwood	A	0
@@ -9683,6 +9675,7 @@ Associates in Advertising Limited	London	A	0,4
 Association for Decentralised Energy	London	A	0
 Association for Financial Markets in Europe	London	A	0
 ASSOCIATION OF BAPTISTS FOR WORLD EVANGELISM OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND	Epsom	A	1,10
+Association of British Credit Unions Ltd	Manchester	A	0
 Association of British Insurers	London	A	0
 Association of Colleges	London	A	0
 Association of Commonwealth Universities	London	A	12
@@ -9696,7 +9689,6 @@ Association of Scientists, Developers and Faculties	Harrow	A	0
 Association of Scottish Muslims	Edinburgh	A	0
 Assore International Holdings Limited	London	A	0,4
 Assort Limited	London	A	0
-ASSOS CATERING LIMITED	Cardiff	A	0
 Assosia Ltd	Brentwood	A	0
 Assots Limited	Birmingham	A	0
 Assumption Grammar School	Ballynahinch	A	0
@@ -9739,6 +9731,7 @@ Astel Ventures	London	A	0
 Astell House	Cheltenham	A	0
 Astellas Pharma Europe Ltd	Addlestone	A	0,4
 Astemo UK Ltd	Bolton	A	0,4
+Astemo UK, Ltd.	Bolton	A	0,4
 Aster Care Ltd	Portsmouth	A	0
 ASTER HOUSE HEALTHCARE LIMITED	London	A	0
 ASTER TEXTILE LONDON LIMITED	London	A	0
@@ -9756,7 +9749,6 @@ Astley Bridge Cricket Club	Bolton	A	11
 Astley Clarke Ltd	London	A	0
 Astley Grange Nursing Home	Bolton	A	0
 Astley House Nursing Home Limited	North Berwick	A	0
-Astley Spice Ltd	Manchester	A	0
 ASTOGNA LTD	Nottingham	A	0
 ASTOMOS ENERGY CORPORATION	London	A	0,4
 Aston Architectural Aluminium	Watford	A	0
@@ -9827,6 +9819,7 @@ Astroten Ltd	London	A	0
 ASTRUM MULTI ACADEMY TRUST	Romford	A	0
 ASTS BRISTOL LIMITED T/A Chilli Masala	Bristol	A	0
 ASTUDIO Ltd	London	A	0
+Astus UK Limited	London	A	0
 Astute (Scotland) Limited	Forfar	A	0
 Astute Data Systems Ltd	Canterbury	A	0
 Astute Healthcare Limited	HItchin	A	0
@@ -9881,6 +9874,7 @@ At Siam Limited	London	A	0
 AT THE MOVIES LIMITED	London	A	0
 At Your Side Care Ltd t/a GoodOaks Homecare - Bedford	Bedford	A	0
 AT&T ISTEL	London	A	0,4
+AT&T RENTALS LTD	Newtownabbey	A	0
 At-Tawheed Foundation	Stoke On Trent	A	1
 AT3N LTD	London	A	0
 AT71TH Ltd	London	A	0
@@ -9959,6 +9953,7 @@ Athans International	Brentwood	A	0
 ATHELSTANONE PTY LTD	Sheffield	A	0
 Athena Advisers Ltd	London	A	0
 Athena Advisory Solutions Ltd	Leicester	A	0
+Athena Care (Ormskirk) Limited	Boston	A	0
 Athena Care (Ormskirk) Limited	Lancashire	A	0
 Athena Care Homes (Monmouth) Limited	Laindon,	A	0
 Athena Dental Laboratory Limited	Northampton	A	0
@@ -10067,7 +10062,7 @@ Atlantis Pizza (Holmfirth) Ltd	Huddersfield	A	0
 ATLANTIS PROPERTIES LTD	Harrow	A	0
 Atlantis Resources (Scotland) Limited	Edinburgh	A	0
 ATLANTIS TECHNOLOGY SOLUTIONS LIMITED	London	A	0
-ATLAR TECHNOLOGY LTD	London	A	4
+ATLAR TECHNOLOGY LTD	London	A	0,4
 Atlas Air, Inc	Farnborough	A	0
 ATLAS AUTOMATION SYSTEMS LTD	Cheltenham	A	0
 Atlas Automobiles Uk Ltd	Windsor	A	0
@@ -10082,8 +10077,8 @@ Atlas Cranes UK Limited	Bradford	A	0
 ATLAS ELEKTRONIK UK Limited	Dorchester	A	0,4
 ATLAS ENDOSCOPY LIMITED	Leeds	A	0
 Atlas FRM (UK) Ltd	London	A	0,4
+Atlas Geoquest UK Ltd	Borehamwood	P	2
 ATLAS GLAZING LTD	Birmingham	A	0
-Atlas Health Group Limited	Norwich	A	0
 Atlas ICS Limited	London	A	0
 Atlas Impact Limited	London	A	0
 Atlas Infrastructure Partners (UK) Limited	London	A	0
@@ -10214,6 +10209,7 @@ AttoLife Ltd	Norwich	A	0
 ATTR Group Limited T/A Mayura	London	A	0
 Attraction Tickets Direct T/A Attraction Tickets Ltd	London	A	0
 Attraction Tickets Ltd	London	A	0
+Attraction World Limited	Birmingham	A	0
 Attune Acoustics Limited	Southampton	A	0
 attune UK Limited	London	A	0,4
 Attwood Academies	Cranbrook	A	0
@@ -10263,6 +10259,7 @@ Audemars Piguet (UK) Limited	London	A	0,4
 AUDENFIELD LIMITED T/A PECKHAM POST OFFICE	London	A	0
 Audere International Limited	London	A	0
 Audet Magna Limited	Newbury	A	0
+Audi Motorsport Technology Centre UK Limited	Bicester	A	0
 Audi VW Specialist Centre Ltd	Harrow	A	0
 Audiebant Ltd	Kirkham	A	0
 Audience Collective Limited	Leeds	A	0
@@ -10413,7 +10410,6 @@ Austerlands Cricket Club	Oldham	A	11
 Austerlitz Labs Limited	London	A	0
 Austin Consultants Ltd	London	A	0
 Austin David Ltd	London	A	0
-Austin Friars	Carlisle	A	0
 Austin Friars & St Monica's Preparatory School Ltd	Carlisle	A	9
 Austin Partnership Limited	Cardiff	A	0
 Austin Professional Resourcing LLP	London	A	0
@@ -10874,6 +10870,7 @@ Avondale Care (Scotland), Limited	Falkirk	A	0
 Avondale Care Home	Motherwell	A	0
 Avondale Care Home Limited	Leigh-on-Sea	A	0
 Avondale Dental	Grange Over Sands	A	0
+AVONDALE MOTORS NE LIMITED	Manchester	A	0
 Avondalecare (Kent) Ltd	Kent	A	0
 Avonfinch Ltd	Market Drayton	A	0
 AVONSIDE PHT TEWKESBURY LTD	Tewkesbury	A	0
@@ -10971,8 +10968,6 @@ Awel Homecare Limited	Denbighshire	A	0
 Awelon Healthcare	Swansea	A	0
 Awen Collective Limited	Caerphilly	A	0
 Awesoe Hospitality ITH Ltd	London	A	0
-Awesome Construction Ltd	Croydon	A	0
-Awesome Fastfood Ltd	London	A	0
 Awesome Living Ltd	Ashford	A	0
 Awesome Programming Ltd	Hove	A	0
 Awesonova Ltd	London	A	0
@@ -11127,7 +11122,6 @@ Ayat 5 Ltd	Barking	A	0
 Ayat Trading Limited (Eggfree Cake Box)	Newport	A	0
 Ayata Group Ltd	Bracknell	A	0
 AYAZSEVEN DESIGN LTD	Timperley	A	0
-AYB Automotives Ltd	Luton	A	0
 Aybola Software and Technology Ltd	London	A	0
 AYCES SERVICES PRIVATE LIMITED	Manchester	A	0
 Aychefs Consultancy Services Ltd	London	A	0
@@ -11230,7 +11224,7 @@ AZ GLOBAL PARTNERS LIMITED	Newbury	A	0,2
 AZ GLOBAL SOLUTIONS LTD.	Northolt	A	0
 AZ RADIO CARS LTD	Smethwick	A	0
 AZA ENERGY SOLUTIONS LIMITED	Manchester	A	0
-AZA HOMEIMPROVEMENT LIMITED	High Wycombe	A	0
+AZA HOMEIMPROVEMENT LIMITED	Southall	A	0
 Azaan Express Ltd	Hounslow	A	0
 AZAAN HEALTHCARE (DUNDEE) LTD	Dundee	A	0
 AZAD CUTZ	Middlesbrough	A	0
@@ -11368,6 +11362,7 @@ Baltic Flour Mills Visual Arts Trust	Gateshead	A	3
 Baltic Training Services t/a Baltic Apprenticeships	Newton Aycliffe	A	0
 Balyasny Asset Management (UK) LLP	London	A	0,4
 BAM BAM AGENCY	London	A	3
+Bambi Air Limited	Birmingham	A	0
 Bamford Bus Company Limited Trading as Wrightbus	Ballymena	A	0
 BANANA APPS LIMITED	Ilford	A	0
 Banarasi Vanarasi Limited T/A Bagheera At The Spread Eagle	Reading	A	0
@@ -11605,7 +11600,6 @@ Bluetulip Associates Ltd T/A Home Instead Luton & Central Bedfordshire	Luton	A	0
 Blunomy Advisroy UK LTD	Kent	A	0
 BM Data Solutions Limited T/A BM Aluminium	Tewkesbury	A	0
 BMAS Accountants Ltd	Slough	A	0
-BMI Healthcare Limited trading as Circle Health Group Limited	London	A	0,4
 BMS Automotive Ltd	Romford	A	0
 BMSL Accountancy & Tax Services Ltd	London	A	0
 BNP Associates Limited	West Drayton	A	0
@@ -11702,7 +11696,6 @@ Briggs Amasco Limited	Cradley Heath	A	0
 Briggs Automotive Company (BAC) Ltd	Liverpool	A	0
 Bright Almond Care Ltd	Leicester	A	0
 Bright Angel Travel Limited	Southall	A	0
-BRIGHT ASSOCIATES LIMITED	Croydon	A	0
 Bright Care at Home Ltd	Edinburgh	A	0
 Bright Progress Limited Trading as Ecig Distribution	Hounslow	A	0
 Bright Training & Assessment Ltd	London	A	0
@@ -11943,7 +11936,6 @@ Care at Home Services (South East) Ltd.	Tunbridge Wells	A	0
 Care At Home Services Limited	Greenford	A	0
 Care at Home Services South East	Tunbridge Wells	A	0
 Care At My Home Ltd	Beckenham	A	0
-Care at your home LTD	High Wycombe	A	0
 CARE WORLD AGENCY LTD	Croydon	A	0
 Care+ Medicines Limited T/ A Wilmslow Road Pharmacy - Chemists & Health Clinic	Manchester	A	0
 CARE-AWAY LIMITED trading as CARE SUPPORT	London	A	0
@@ -12046,7 +12038,7 @@ Certs Assured Technology Limited	Letchworth	A	0
 Cerulli Associates Europe Ltd	London	A	0,4
 CES ADVANCED COMPOSITES UK LTD	Coventry	A	0
 CETGUL LTD T/a Array Garden	Romford	A	0
-Ceto AI Limited	Newcastle	A	0
+Ceto AI Limited	London	A	0
 Ceva Animal Health Limited	Wooburn Green	A	0,4
 CFA Accountants Ltd	Salford	A	0
 CFA Archaeology Ltd	Leeds	A	0
@@ -12080,7 +12072,6 @@ Charles & Associates Consulting Engineers	Aylesford	A	0
 Charles & Associates Consulting Engineers Ltd	Aylesford	A	0
 Charles Andrews Ltd	Manchester	A	0
 Charles Barclay Architects	London	A	0
-charles chipperfield & Associates	Albury	A	3
 Charles Edwards (Antiques) Limited	London	A	0
 CHARLTON ATHLETIC FOOTBALL COMPANY LIMITED	London	A	11
 Charlton Athletic Football Company Ltd	London	A	0,11
@@ -12116,7 +12107,6 @@ Chemical Industries Association Limited	London	A	0
 CHEMSTAR LIMITED TRADING AS AUDLEY PHARMACY	London	A	0
 Chenai Holistic Home Care Agency Ltd	Chelmsford	A	0
 Chera Food Company Limited T/A Anand Sweets	Leeds	A	0
-Cherish Able Care Ltd	Bristol	A	0
 Cherry Advertising	London	A	0
 CHERRY VENTURES ADVISORS UK LTD	London	A	0
 Cherry Wood Grange Chelmsford Limited trading as Cherry Wood Grange Care Home	Chelmsford	A	0
@@ -12162,9 +12152,10 @@ CHRIST APOSTOLIC CHURCH (GOSPEL GENERATION0	London	A	1
 CHRIST APOSTOLIC CHURCH (HOUSE OF BREAKTHROUGH)	Heywood	A	1
 CHRIST APOSTOLIC CHURCH (VINEYARD OF COMFORT) EAST LONDON ASSEMBLY	Bow, London	A	1
 Christ Apostolic Church - House of Prayer, Glasgow	Glasgow	A	1,9,10
+CHRIST APOSTOLIC CHURCH - OUTREACH COVENTRY	Coventry	A	1,9
 CHRIST APOSTOLIC CHURCH BALM OF GILEAD CHRISTIAN MINISTRIES INTERNATIONAL	London	A	1
 Christ Apostolic Church Canaanland (Love Embassy)	Dagenham	A	3
-CHRIST APOSTOLIC CHURCH DOMINION OUTREACH	Manchester	A	1,10
+CHRIST APOSTOLIC CHURCH DOMINION OUTREACH	Bolton	A	1,10
 CHRIST APOSTOLIC CHURCH FAITH CHAPEL	Stoke-On-Trent	A	0,1,10
 CHRIST APOSTOLIC CHURCH GLORIOUS ASSEMBLY	West Bromwich	A	1,9,10
 Christ Apostolic Church God is Love.	Purfleet	A	1,9,10
@@ -12212,6 +12203,7 @@ Citadel Accounting UK Limited	London	A	0
 Citizens Advice 1066	St Leonards-on-Sea	A	0
 Citizens Advice Brent	London	A	0
 Citizens Advice Bury & Bolton	Bolton	A	0
+Citizens Advice in North & Kent	Tonbridge	A	0
 Citizens Advice Mid Mercia	Swadlincote	A	0
 Citizens Advice Plymouth	Plymouth	A	0
 Citizens Advice Richmond	Hampton	A	0
@@ -12272,7 +12264,6 @@ CLICK ASSIST LTD	Barking	A	0
 Clientsinfocus LTD trading as Home Instead Aylesbury Vale	Aylesbury	A	0
 Clifford Street Advisors LLP	London	A	0
 Cliftonville Academy Cricket Club	Newtownabbey	A	11
-CLIIKK ACCIDENT REPAIR CENTRE LTD	Derby	A	0
 Climate Asset Management Limited	London	A	0
 Cloud Agri LTD	Manchester	A	0
 Cloud Aiops Consulting Ltd	Swindon	A	0
@@ -12377,7 +12368,6 @@ Converge Accountants Limited	Romford	A	0
 COOK ROBOTHAM ARCHITECTURAL BUREAU LIMITED	London	A	0
 COOKE AQUACULTURE UK HOLDINGS LIMITED	Bellshill	A	0
 Cookson Adventures	London	A	0
-Coombe Academy Trust	New Malden	A	0
 Cooper Poile Associates	London	A	0
 Cooper-Standard Automotive UK Limited	Coventry	A	0,4
 Cooperative AI Foundation	Exeter	A	0
@@ -12410,6 +12400,7 @@ Cosmopolitan Accountants Ltd	Morden	A	0
 Coster Aerosols Limited	Chesterfield	A	0
 COSY ART LIMITED	London	A	0
 Cotswold Archaeology	Kemble	A	0
+COTSWOLD MEDICAL CLINICS LTD Trading As The Cotswold Physio Rooms	Witney	A	0
 Cottons Chartered Accountants llp	Northampton	A	0
 Cougar Automation Limited	Waterlooville	A	0
 Council of Local Authorities for International Relations, London	London	A	0,4,5
@@ -12543,6 +12534,7 @@ D2 Network Associates Limited	Stoke on Trent	A	0
 d:class automotive Limited	Chobham	A	0
 DAARRE PRIVATE LTD T/A VRISH Authentic Indian Restaurant	Benfleet	A	0
 Dacre House Limited trading as Dacre House Veterinary Clinic	Tunbridge Wells	A	0
+DAE Aircraft Leasing Services (UK) Limited	London	A	0
 DAHER AEROSPACE LTD	Derby	A	0,4
 DAIFUKU AIRPORT UK LTD.	Kingston Upon Hull	A	0,4
 Daikin Airconditioning UK Limited	Weybridge	A	0,4,7
@@ -12723,7 +12715,6 @@ DIGITALBRIDGE UK ADVISORS 1 LLP	London	A	0,4
 DIGITS AND BYTES ASSOCIATES LIMITED	Sutton	A	0
 Dignity Access Ltd	East Grinstead	A	0
 Dilane Yathunanthan t/a Aathmy Enterprises	Haverfordwest	A	0
-DIMENSION ABBAS BUILDERS LTD	Leicester	A	0
 Dimensional Fund Advisors Ltd	London	A	0,4
 DIN AND ASSOCIATES LTD	Halifax	A	0
 DINGWALL AUTOS LIMITED	Liverpool	A	0
@@ -12866,7 +12857,6 @@ Dunfermline Athletic Football Club Ltd	Dunfermline	A	0,11
 Dunlop Aircraft Tyres Limited	Birmingham	A	0,4
 Dunns Artsian Bakers Ltd	London	A	0
 Dunthorne Parker Architects Limited	London	A	0
-DURA Automotive Body & Glass Systems UK Ltd	Birmingham	A	0
 DURACHEM LTD TRADING AS JACKMANS PHARMACY	Herts	A	0
 Durham Animal Feeds Ltd	Newton Aycliffe	A	0
 Durham Asset Management Ltd T/a The White Swan Hotel	Halifax	A	0
@@ -12958,7 +12948,7 @@ Ecem Uzun Adas Counselling Ltd	London	A	0
 Echelon Artists Ltd	Salford	A	3
 Echo Architecture (UK) Ltd	London	A	0
 Eckhart Ltd (Trading as Markettiers)	London	A	0
-Eclipse 26 - Trading as Piglets Pantry Ltd	Worthing	A	0
+Eclipse 26 Ltd - Trading as Piglets Pantry	Worthing	A	0
 Eclipse Air Charter LTD	London	A	0
 ECLIPSE AUTO PARTS LIMITED	Manchester	A	0
 Eclipse Hotels (Heathrow Airport) Limited	London	A	0
@@ -12979,7 +12969,7 @@ Eden Fine Art London Limited	London	A	0
 Edenbridge Accident Repair Centre Limited	Edenbridge	A	0
 EDEXA ACADEMY LTD	Hayes	A	0
 Edge Chartered Certified Accountants	Coventry	A	0
-Edge of Arabia	London	A	3
+Edge of Arabia	London	A	0,3
 Edgware Abbey Charitable Trust	Edgware	A	0
 EDGWARE ACCOUNTANTS & TAX ADVISORS LTD T/As Edgware Associates	Edgware	A	0
 Edinburgh Airport Limited	Edinburgh	A	0
@@ -13000,6 +12990,7 @@ EF International Academy UK Limited	Oxford	A	0
 Effectiv AI UK Ltd	London	A	0
 Effective Advisors Limited	London	A	0
 Effective Altruism UK	London	A	0
+Efficient Homes Energy Advisors Limited	Manchester	A	0
 EFSO LTD T/A ANYTIME FITNESS CHELSEA	Chelsea	A	0
 Eftec Aero Limited	Barnet	A	0
 Egalegal Ltd t/a EG Arghyrakis & Co	London	A	0
@@ -13044,7 +13035,6 @@ ELITE AESTHETICS & BEAUTY ACADEMY LTD	Luton	A	0
 ELITE ALLOY REPAIRS LTD	Ruislip	A	0
 Elite Automotive Ltd	Milton Keynes	A	0
 ELITE CARE AT HOME LTD	Dumfriesshire	A	0
-Elite Care at Home Ltd	Lockerbie	A	0
 Elite Closing Academy Limited	Solihull	A	0
 Elite Fusion (trading as Chaiiwala)	Leeds	A	0
 ELITEEDGE ACCOUNTANTS LTD	London	A	0
@@ -13127,6 +13117,7 @@ EOS Deal Advisory Ltd	London	A	0
 EP Advisory Group Limited	London	A	0
 EP COMMODITIES A.S. LONDON BRANCH	London	A	0
 EPIC Administration Limited	London	A	0,4
+Epoch AI Ltd	St Albans	A	0
 EPR ARCHITECTS LIMITED	London	A	0
 Equa Multi Academy Trust	Devizes	A	0,9
 EQUIFIN ACCOUNTANCY LTD	Harrow	A	0
@@ -13300,7 +13291,6 @@ Farshid Moussavi Architecture Ltd	London	A	0
 Farsound Aviation Limited	Brentwood	A	0
 Farzand Accountants Limited	London	A	0
 FAST ACCOUNTANCY SOLUTIONS LTD	East Ham	A	0
-FAST ACTION SERVICES LIMITED	Farnborough	A	0
 FAST AUTOS	Manchester	A	0
 Fastlane Airport Transfer Ltd	London	A	0
 FATA Automation Limited	Worcester	A	4
@@ -13335,6 +13325,7 @@ Fifth Dimension AI Ltd	London	A	0
 FIFTY5BLUE AUDIENCES LTD	London	A	0
 Finance a Vehicle Ltd	Fareham	A	0
 Finance Advice Helpline Limited	London,	A	0
+Finance and Business Academy Limited	Birmingham	A	0
 FINANCE SOLUTIONS & ADVISORS LTD	Rainham	A	0
 FINANCIAL ACCOUNTING (UK) LIMITED	Bolton	A	0
 Financial Advisory Services Limited	London	A	0
@@ -13566,7 +13557,6 @@ GALAXY HOME IMPROVEMENT CONSULTANTS LIMITED TRADING AS GALAXY WINDOWS	Harrow	A	0
 Gallagher Aggregates Limited	Kent	A	0
 Galletly Medical Practice (Dr A M Wright & Partners)	Bourne	A	0
 Galloway & Southern Ayrshire Biosphere Partnership	Newton Stewart	A	0
-Galloways Accounting (Hove) Limited	Hove	A	0
 Gama Aviation	Farnborough	A	0,4
 Gamco Asset Management (UK) Limited	London	A	0,4
 Gaming Technology Solutions Ltd (Trading as GTS Ltd)	London	A	0,4
@@ -13972,6 +13962,7 @@ Hamza ahmed T/A A1 Taxi Services	Bracknell	A	0
 HANDI AT GLEN LIMITED	Glenrothes	A	0
 Handicap International UK (known as Humanity & Inclusion UK)	London	A	0
 HANIM ANA LIMITED	Fleetwood	A	0
+HANK ZARIHS ASSOCIATES LIMITED	Broxbourne	A	0
 Hankinson Duckett Associates Ltd	Wallingford	A	0
 Hann Tucker Associates Limited	Woking	A	0
 Hannah Beauty LTD Trading as The Nail Atelier	London	A	0
@@ -14015,7 +14006,7 @@ HARROGATE TOWN AFC LTD	Harrogate	A	11
 HARROW ACCOUNTANTS AND TAX ADVISORS LTD	Stanmore	A	0
 HARTE AND GARTER AURA LIMITED	Windsor	A	0
 Hartford Underwriting Agency Ltd	London	A	0,4
-Hartrose Associates ltd	Huddersfield	A	0
+Hartrose Associates ltd	Sheffield	A	0
 Harvest Ayr	Ayr	A	9
 Harvey AI UK Ltd	Cheltenham	A	0,4
 Hasan Cetinkaya t/a Adda Restaurant	Edinburgh	A	0
@@ -14124,7 +14115,6 @@ Hinckley and Bosworth Medical Alliance	Sapcote	A	0
 Hindu Buddhist Cultural Association	Olney	A	0,1,9,10
 Hindu Cultural Association	Cardiff	A	1,10
 HINDU CULTURAL ASSOCIATION ( MATA DA MANDIR)	Dudley	A	1,10
-Hindu Religious Association	Leamington Spa	A	1,10
 Hindu Tamil Cultural Association (Enfield)	London	A	0,1,10
 Hindu Welfare Association of Essex	Romford	A	0
 HINDUJA AUTOMOTIVE LIMITED	London	A	0,4
@@ -14183,7 +14173,7 @@ Homes and Communities Agency	London	A	0
 HOMESAFE ASSESSORS LTD	London	A	0
 Honeymoon Aylesbury Ltd	Aylesbury	A	0
 HONEYPOT AFRICAN FOODS LTD	Bromley	A	0
-Honeywell Aerospace UK Co Limited	Redditch	A	0,4
+Honeywell Aerospace UK Co Limited	Berkshire	A	0,4
 HOPE AMPLIFIED	Glasgow	A	9
 Hope and Anchor Community Church	London	A	1,9,10
 HOPE ASSEMBLY	London	A	9,10
@@ -14281,6 +14271,7 @@ I AM THE HOGAN LIMITED	London	A	0
 I CAN Charity (Operating as Speech and Language UK)	London	A	0,9
 I Fry A&P Ltd	Newcastle Upon Tyne	A	0
 I G ARENA LTD	London	A	0
+I Hussain & Associates	Nuneaton	A	0
 I M KELLY R & A LTD	Coventry	A	0
 I Need An Expert Limited	Ashby De La Zouch	A	0
 I Squared Capital Advisors (UK) LLP	London	A	0,4
@@ -14392,7 +14383,6 @@ Independent Project Analysis	Reading	A	0,4
 Independently Supporting People In a Respectful Environment Ltd	Shrewton	A	0
 Indian Affair Limited	Birmingham	A	0
 INDIAN ARK KENILWORTH LTD TA Indian Ark	Kenilworth	A	0
-Indian Aroma Cuisine Limited	Ilford	A	0
 Indian kitchen Newton Abbot Ltd	England	A	0
 Indian Kohinoor Foods Ltd T/A An Najeeb	Leicester	A	0
 Indices AI Limited	Washington	A	0
@@ -14406,6 +14396,7 @@ Infinity Alliance Limited	Erith	A	0
 INFLUENCE AT WORK UK LIMITED	London	A	0
 Information Asset Management Solutions Ltd	Colchester	A	0
 INFY ASSETS LIMITED	Northfleet	A	0
+INGENIERIA DEL ANDAMIO Y SERVICIOS AQUA UK	London	A	0,4
 Initiative for the Advancement of Ethical Standard	Barking	A	9
 Ink Associates Limited	London	A	0
 Inn on the Park (London) Limited doing business as Four Seasons Hotel London	London	A	0,4
@@ -14499,6 +14490,7 @@ INVENTURE ASHTON LTD T/A ASM CASH & CARRY	Ashton-under-lyne,	A	0
 INVERNESS MASJID ASSOCIATION	Inverness	A	0
 Invest Asset Management Ltd	London	A	0
 Investindustrial Advisors Limited	London	A	0
+INVESTINDUSTRIAL ADVISORY SERVICES LIMITED	London	A	0,4
 Investment Association	London	A	0
 Invibes Advertising UK Ltd	London	A	0
 INVIGOR ADOLESCENT CARE LIMITED	Manchester	A	0
@@ -14538,8 +14530,8 @@ Islanders Fish Restaurants and Take Away Ltd	Canvey Island	A	0
 Isle Care (Axholme) Ltd	Doncaster	A	0
 Islington Community Sports Academy	London	A	0
 ISMART APPS LIMITED	Glasgow	A	0
-ISO Sushi (Chapel Ash) Limited	Wolverhampton	A	0
 Isobel Advertising Ltd	London	A	0
+ISP Global Advisory	London	A	0
 IT ACCESS LTD	Bolton	A	0
 IT Autos Ltd	Birmingham	A	0
 Italia Conti Arts Centre Limited	Woking	A	0
@@ -14563,6 +14555,7 @@ J & A IT Consultancy Limited	London	A	0
 J & A Price LIMITED	Herefordshire	A	0
 J & A TRADERS LTD	Ilford	A	0
 J & S (NORTH EAST) LTD T/A CARDEN AVENUE CONVENIENT STORE	South Shields	A	0
+J A COYLE MANUFACTURING LIMITED	Derry	A	0
 J A Investments	London	A	0
 J A Kemp LLP	London	A	0
 J Andersen's Pharmacy	Hastings	A	0
@@ -14717,6 +14710,7 @@ Jose Ramon Araya t/as JRA Polo	Windsor	A	11
 Joseph Hage Aaronson & Bremen LLP	London	A	0
 JOSEPH MANOHARAN JESURATNAM TRADING AS JMJ FOOD & WINE	Cheshire	A	0
 Jothbel Care Services Trading as Optimam Complex Care Services	Waltham Cross	A	0
+Joy Brands Limited T/A Pret A Manger	Buckinghamshire	A	0
 JOY CARE AGENCY	Romford	A	0
 JOYSULL AKLUSA LIMITED T/A PARO	London	A	0
 JP Air-Conditioning Services Limited	Bromley	A	0
@@ -14855,7 +14849,6 @@ Kent Senior Care Ltd t/a Home Instead Folkestone,Hythe and Ashford	Folkestone	A	
 Kentish Homecare Agency Limited	Orpington	A	0
 Ker Associates Limited	Winchester	A	0
 KERALA AYURVEDA CENTRE LIMITED	Leicester	A	0
-Kerala Ayurveda Clinic Limited	Leicester	A	0
 Kerala Ayurveda Pain Relief Centre Ltd	Coventry	A	0
 KERALA AYURVEDA SPA CLINIC	Birmingham	A	0
 KEREN BARTOV ADVANCED SKIN CARE LONDON LTD	London	A	0,4
@@ -14957,7 +14950,6 @@ KRISHNA (CKAF) LTD trading as Subway	Bracknell	A	0
 Krishna Asian Food Market Limited	Milton Keynes	A	0
 KRISHNAPILLAI THAVAKUMAR T/A ANDOVER STORE	Aldershot	A	0
 KRISHNEX AI SOLUTION LTD	Leeds	A	0
-KRO Hotels Manchester M2 Ltd t/a Asha's Restaurant	Manchester	A	0
 Kroll Advisory Ltd	London	A	0,4
 Kroll Associates UK Limited	London	A	0,4
 Kroll Bond Rating Agency UK Limited	London	A	0,4
@@ -15107,6 +15099,7 @@ LETS CARE ALL LTD.	London	A	0
 LeVeon Accounting Solution Limited	London	A	0
 Lever Agriculture Trading UK Ltd	London	A	0
 Levy Associates Limited	London	A	0
+Lewis Pension Admin Limited	Poole	A	0
 Lexia Analytics	Bristol	A	0
 Lexington Advisors UK Limited	London	A	0
 LEXINGTON ASHWORTH LTD	Stockport	A	0
@@ -15126,6 +15119,7 @@ Liberty Army	Kent	A	1
 Liberty Cheesesteak LS Company, Ltd. t/a Passyunk Avenue	London	A	0
 Life Anchor Limited	Swindon	A	0
 Life and Care Solutions Limited t/a Right at Home Tyneside	Newcastle upon Tyne	A	0
+life for a kid	Hull	A	9
 Life Size Architecture	Brighton	A	0
 LIFE SKILLS SUPPORTING ACCOMMODATION LTD	Wolverhampton	A	0
 Life Success Academy CIC	Birmingham	A	0
@@ -15236,7 +15230,6 @@ London Network Church (Previously Known as East Acton Baptist Church)	London	A	1
 London One to One Academy UK LTD	London	A	0
 London Plus Services Ltd Trading as Brixton Kebab	London	A	0
 LONDON SCHOOL ADVICE LTD	London	A	0
-London School of Business Administration Ltd	London	A	0
 London School of Commerce (A Division of St.Piran's School (GB) Limited	London	A	0,4
 London South East Academies Trust	Bromley	A	0
 London Southend Airport Company Limited	Southend on Sea	A	0
@@ -15291,6 +15284,7 @@ Lukka Care Homes (2010) Limited t/a Ashton Lodge Care Home	London	A	0
 Lululemon Athletica UK Ltd.	London	A	0,4
 Lumi AGM UK Limited	Liphook,	A	0
 Lunar Animation Ltd	Sheffield	A	0
+Lup Events Ltd trading as Lup	London	A	0
 LUX APARTMENTS	Burton On Trent	A	0
 Lux Artists Limited	London	A	0,3
 Lux Dent Agency Limited	Wimbledon	A	0
@@ -15363,7 +15357,7 @@ M. A. ORIENTAL FOODS LIMITED	Watford	A	0
 M. A. Wholesale Limited	Manchester	A	0
 M. AHBAB AND CO LIMITED T/a SHA GMT	London	A	0
 M. BROS SUPERMARKET LIMITED T/A AMBROSIA	London	A	0
-MA ACADEMY LTD	Walsall	A	0
+MA ACADEMY LTD	Northampton	A	0
 MA Accountancy Services Ltd	Slough	A	0
 MA Accountants	Manchester	A	0
 MA Accountants & Bookkeepers	Manchester	A	0
@@ -15373,7 +15367,6 @@ MA AUTOS BRADFORD LTD	Bradford	A	0
 Ma Boyle's Alehouse & Eatery	Liverpool	A	0
 MA Chiro - Trading as Precision Chiropractic	Surrey	A	0
 MA ILSA Associates Limited	Preston	A	0
-MAAPS Design & Architecture Limited	London	A	0,3
 Maber Associates Ltd	Nottingham	A	0
 Mac and Co Accountants LTD	Hounslow	A	0
 Macagna ltd T/a Romazzino Alsager	Alsager	A	0
@@ -15383,7 +15376,6 @@ Macfarlane + Assocs Ltd	London	A	0
 MACH Acoustics Limited	Bristol	A	0
 MacIntyre Academies Trust	Milton Keynes	A	0
 MACKINS ACCIDENT REPAIR	Newry	A	0
-Macquarie Aircraft Leasing Services (UK) Limited	London	A	0
 Macquarie Group Services Australia Pty Ltd (UK Branch)	London	A	0,4
 Macro Advisory Partners LLP	London	A	0
 Macrobert Arts Centre Limited	Stirling	A	3
@@ -15458,7 +15450,7 @@ Mankri Aks Limited	London	A	0
 Mannaz A/S	London	A	0,4,7
 Mansfield Advisors LLP	London	A	0
 MANU ATELIER DERI URUNLERI TEKSTIL SANAYI TICARET LTD	London	A	0
-MAP ACCOUNTING LIMITED	Harrow	A	0
+MAP ACCOUNTING LIMITED	Colindeep Lane	A	0
 Map of Agriculture Ltd.	Penrith	A	0
 Map of Agriculture Ltd.	Woodbridge	A	0
 MAP Patient Access Limited	Cambridge	A	0
@@ -15480,7 +15472,7 @@ Marches Architectural Hardware Limited	Llandrindod Wells	A	0
 Marco Angelini and Co, Ltd	London	A	0
 Marek Wojciechowski Architects Limited	London	A	0
 MARELE ACCOUNTANCY LIMITED	Bournemouth	A	0
-Marelli Automotive Systems Europe plc	Llanelli	A	4
+Marelli Automotive Systems Europe plc	Llanelli	A	0,4
 Marelli Automotive Systems UK Ltd	Llanelli	A	0
 Marfleet Group Practice (Dr J A D Weir & Partners)	Hull	A	0
 Marhaba Charitable Trust & Masjid Al Noor	Boston	A	1,9,10
@@ -15497,7 +15489,6 @@ Mark Wray Architects Limited	Bath	A	0
 Markaz Al Huda Ltd	Bury	A	9
 MARKAZI JAMIAT AHL E HADITH	Bradford	A	1
 Market Alley Artisan Foods Ltd	London	A	0
-MARKET MAKERS AI LIMITED	London	A	0
 Markides Associates Ltd	London	A	0
 Markimeld Limited trading as Lisboa Patisserie	London	A	0
 Marlborough House Advisors Ltd	London	A	0
@@ -16219,7 +16210,7 @@ New World Capital Advisors Limited	London	A	0
 Neways at Home Ltd	Hayes	A	0
 Newbriar Company Ltd (t/a Pied a Terre)	London	A	0
 Newbury Academy Trust	Newbury	A	0
-Newcastle Accountancy Limited	Newcastle upon Tyne	A	0
+Newcastle Accountancy Limited	Newcastle upon Tyne	B	0
 Newcastle Central Mosque-Masjid Al Tawhid	Newcastle Upon Tyne	A	1,9
 Newcastle Circus Arts CIC	Newcastle upon Tyne	A	3
 Newhall Associates Limited	Coventry	A	0
@@ -16320,6 +16311,7 @@ Norfolk Deaf Association (NDA)	Norwich	A	0
 Norse Atlantic UK Ltd	Crawley	A	0
 North American Science Associated Ltd	Selby	A	0,4
 North Argyll Eventide Home Association Ltd	Oban	A	0
+NORTH ATLANTIC INTERNATIONAL TRADING CO LTD	London	A	0
 North East Ambulance Service NHS Foundation Trust	Newcastle upon Tyne	A	0
 North East Autism Society	Chester-le-Street	A	0
 North East Mayoral Combined Authority	Newcastle upon Tyne	A	0
@@ -16339,8 +16331,10 @@ Northern Delight Afro Cuisine Ltd	London	A	0
 Northern Ireland Ambulance Service	Belfast	A	0
 Northern Star Academies Trust	Skipton	A	0
 NORTHGATE ADVISORY LTD	London	A	0
+Northgate School Academy Trust	Northampton	A	0
 Northlander Commodity Advisors LLP	London	A	0
 NorthPeak Advisory Limited	London	A	0
+NORTHUMBRIAN CITIZENS ADVICE BUREAU	Northumberland	A	0
 NORTHWAY NEWS AGENT & STORES LTD	Dudley	A	0
 Nortons Assurance Limited	London	A	0
 Norwich University of the Arts	Norwich	A	0
@@ -16478,14 +16472,13 @@ Oner Active UK ltd	London	A	0
 Onex Partners Advisor UK LLP	London	A	0,4
 Online Account Filing Limited	London	A	0
 ONLINE ACCOUNTANT LTD	London	A	0
-Online Art School Ltd	Danbury	A	0
 Ontime Accountancy Practice Ltd	Gravesend	A	0
 oomph Agency Services Ltd	Llanarth	A	0
 Ooops! Automotive Ltd	Poole	A	0
 Opal22 Arts and Edutainment	Leicester	A	0
 Open all Hours	Morecambe	A	0
 Open Arms Care Limited	Faversham	A	0
-Open Cages Advocacy Ltd	Sutton	A	0
+Open Cages Advocacy Ltd	Farnham	A	0
 Open Doors with Brother Andrew t/a Open Doors UK & Ireland	Witney	A	0
 Open Education AI CIC	Covent Garden	A	0
 Open House Estate Agents Bedford Ltd	Bedford	A	0
@@ -16507,7 +16500,6 @@ Orchestra of the Age of Enlightenment	London	A	3
 Orchid Am Limited	Manchester	A	3
 Orchid Assisted Living Limited	Huddersfield	A	0
 Order of St Augustine	London	A	1,10
-Oremus Accountants Limited	Wirral	A	0,4
 ORIENT ARCHITECTURAL SYSTEMS LTD	Barking	A	0
 Orient Retail Airdrie Ltd T/A SAB OF SCOTLAND	Airdrie	A	0
 Original Additions (Beauty Products) Limited	Middlesex	A	0
@@ -16633,6 +16625,7 @@ PAR Process Analysis Reagents and Chemicals Limited	Bristol	A	0
 Parade Agency Ltd	London	A	0
 PARADIGM ADVISORY SERVICES LIMITED	London	A	0
 Paragkumar Suryakant Suthar Aka Gajjar T/A ARV one stop	London	A	0
+PARAGLIDE AI LIMITED	London	A	0
 Paragon Accounting & Tax limited	London	A	0
 Parallax Agency Ltd	Leeds	A	0
 Paramount Care (Aberdeen) Ltd	Westhill	A	0
@@ -16752,12 +16745,12 @@ PGP Alfred House Ltd	Bury	A	0
 PHARMAQ ANALYTIQ LIMITED	Inverness	A	0
 Pharos Architectural Controls Limited	London	A	0
 Pharos Marine Automatic Power Ltd	London	A	0
-PHI PROPERTY ACQUISITIONS LIMITED	Woking	A	0
 PHIL ALLEN DESIGN LTD	Brighton	A	0
 Phil Coffey Architects Ltd	London	A	0
 Phil Jones Associates Ltd	Birmingham	A	0
 Philip A Cheshire Ltd	Hoddesdon	A	0
 Philip Hughes Associates LLP	Wincanton	A	0
+PHILIP NOLAN ACCOUNTANTS (LIVERPOOL) LIMITED	Liverpool	A	0
 PHILIP NOLAN ACCOUNTANTS (LUTON) LIMITED	Luton	A	0
 Phillip Townsend Associates Limited	Kinross	A	0
 Phillips & Cohen Associates (UK) Ltd	Salford	A	0
@@ -16766,7 +16759,6 @@ PhillipsPage Associates Ltd	Milton Keynes	A	0
 PHOENIX ACCOUNTANCY SERVICE LTD	Romford	A	0
 Phoenix All Care Ltd	Northamptonshire	A	0
 PHOENIX COMMUNITY HOUSING ASSOCIATION (BELLINGHAM AND DOWNHAM) LIMITED	London	A	0
-Phoenix Dental Practice (Avraam Demetriou)	London	A	0
 PHOENIX LAW ASSOCIATES LTD	London	A	0
 Phoenix Medical Advice and Repatriation Limited	Aylesbury	A	0
 Phoenix Range Arms Limited	Barnsley	A	0
@@ -16805,7 +16797,7 @@ PLATFORM AE LTD	Luton	A	0
 Platinum Accommodation Limited T/A Urban Chic	London	A	0
 Platinum Accounting Services Ltd	Bognor Regis	A	0
 Platinum Asset Protection Ltd	Leeds	A	0
-Platinum Equity Advisors International (UK) Limited	London	B	0,4
+Platinum Equity Advisors International (UK) Limited	London	A	0,4
 Players Amsterdam Ltd T/A Bravo	Manchester	A	0
 PLOUTOS AYRES ROAD LTD	Manchester	A	0
 PLP Architecture International Ltd	London	A	0
@@ -16858,7 +16850,6 @@ Power Giant Domestic Appliances Ltd	Luton	A	0
 POWER LOUNGE ALDERSHOT LTD	Aldershot	A	0
 Powerful African Women of Ayrshire (PAWA)	Kilmarnock	A	9
 Pozzoni Architecture Limited	Altrincham	A	0
-PP Asset Management Ltd	London	A	0
 PR ACCOUNTING SOLUTIONS LIMITED	Ilford	A	0
 Practical Action	Rugby	A	0,4
 Pragmatix Advisory Limited	Chelmsford	A	0
@@ -16872,6 +16863,7 @@ Precision Acoustics Ltd	Dorchester	A	0
 Precision AQ Intl, Ltd	London	A	0
 Precision Fabrications Andover Ltd	Andover	A	0
 Preclizz Limited t/as Tasty African Food	London	A	0
+Preeminence Advisors UK Limited	London	A	0
 Prefect Accountants Limited	London	A	0
 Prefrontal AI Ltd	London	A	0
 Premia Managing Agency Services Limited	London	A	0
@@ -16921,7 +16913,7 @@ Primera Accountants Limited	Borehamwood	A	0
 Primera Assisted Living Limited	Birmingham	A	0
 Princess Alice Hospice	Esher	A	0
 Principal Accounting Ltd	London	A	0
-Principles Recruitment Care Agency	Cirnecester	A	0
+Principles Recruitment Care Agency	Cheltenham	A	0
 PRINT ART FOR U LTD	London	A	0
 PRIORITY ACCOUNTANCY LTD	London	A	0
 Priory Nursing Agency & Homecare Ltd	London	A	0
@@ -16957,7 +16949,7 @@ PROFITAX ACCOUNTANCY LIMITED	London	A	0
 Progress Adult Living Services Ltd	Wolverhampton	A	0
 Progress Music Academy	Birmingham, West Midlands	A	0
 Project A Ventures Management	London	A	0,4
-PROJECT NEWCASTLE PRIVATE LIMITED TRADING AS PAPA JOHNS	Huddersfield	A	0
+PROJECT NEWCASTLE PRIVATE LIMITED TRADING AS PAPA JOHNS	Binley Woods,Coventry	A	0
 Projects Abroad (UK) Ltd	Brighton	A	0
 Prolific Academic Ltd	London	A	0
 Prologik Automation Ltd	Peterborough	A	0
@@ -16969,6 +16961,7 @@ Property Portfolio (Aberdeen) Limited	Stonehaven	A	0
 Proprietary Association of Great Britain (PAGB)	London	A	0
 Propshop Ltd T/A Aircraft Restoration Company	Duxford	A	0
 PROPTECH AERO LTD	Lee-On-The-Solent	A	0,4
+Proso AI Technologies Ltd	London	A	0
 PROSURE ASSOCIATES LIMITED	Manchester	A	0
 Protea Associates Ltd	Swindon	A	0
 Protection Approaches	London	A	0
@@ -17075,6 +17068,7 @@ Quickfix Phones Limited T/a Retail Phone Accessories	Castleford	A	0
 Quicksolve Accountants Ltd	Manchester	A	0
 Quilliam Marr Accountancy Ltd	Birmingham	A	0
 QUINN DOMICILIARY AGENCY LTD	Maldon	A	0
+Qulin Aesthetics Clinic Ltd	London	A	0
 QURESHI IMPEX LTD Trading as Cheeky Chicken	Cleckheaton	A	0
 QW Accommodation LTD	Hull	A	0
 R & A Bedding	Barking	A	0
@@ -17085,7 +17079,6 @@ R A CASH & CARRY LTD T/A R A CASH & CARRY	London	A	0
 R A MAINTENANCE LIMITED	Luton	A	0
 R A S Limited	Wirral	A	0
 R and S Medical and Allied Services Limited	Harrow	A	0
-R B A Limited	Colwyn Bay	A	0
 R H Partnership Architects Limited	Cambridge	A	0
 R J A Keynes Limited	Milton Keynes	A	0
 r k aggarwal limited	Cardiff	A	0
@@ -17197,7 +17190,6 @@ Recourse AI Ltd	Manchester	A	0
 Recraft AI Limited	London	A	0
 Red Alert Telecare	Ashford	A	0
 Red and Greens Africana Food Store LTD	Bradford	A	0
-RED ANGEL CATERING LIMITED T/a Shahs Secreto	Guildford	A	0
 Red Ant Digital Ltd	London	A	0
 RED APPLE FOOD LTD	Stoke-On Trent	A	0
 Red Arrow Electrical Limited	Barnsley	A	0
@@ -17277,7 +17269,6 @@ Restaurant Andrew Fairlie	Auchterarder	A	0
 Restorative Justice For All International Institute CIC	London	A	0
 Restyle Automotive Ltd	Bedford	A	0
 Results Align Limited	Abingdon	A	0
-Retail Assist Ltd	Nottingham	A	0
 Retailing Enterprises UK Limited trading as Invicta Stores	Wembley	A	0
 retailsolutions AG (UK) Limited	Oxhey	A	0
 Retro Track & Air (UK) Ltd	Dursley	A	0
@@ -17340,6 +17331,7 @@ Riverhouse Medical Practice (also known as Riverhouse surgery)	London	A	0
 Rivers Multi Academy Trust	Sawbridgeworth	A	0
 RIZQ ARCHITECTURE AND CONSTRUCTIONS LTD	Birmingham	A	0
 Rizwanhussein Abdullah Gulamhussein	London	A	0
+RJ McKee & M McKee T/a FV Achilles	Newry	A	0
 RK Accountants Ltd	London	A	0
 RK ACCOUNTING LTD	London	A	0
 RK Associates Ltd T/A Traditional European Food & Wine	Harrow	A	0
@@ -17519,6 +17511,7 @@ S.J.M. Limited trading as SJM Concerts	Manchester	A	0,3
 S.K.ARORA & A.MARWAHA LTD T/A FAMILY SHOPPER	England	A	0
 S.Raza Superstore Limited t/a Atif Superstore	Camberley	A	0
 S3 Alliance UK LTD	Derry	A	0
+S5 Agency World	London	A	0
 SA AROGYA FOODS LIMITED	Pontefract	A	0
 SA Associates Norwich Limited	Norwich	A	0
 SA GLOS LTD TA Spicy Aroma	Churchdown	A	0
@@ -17745,6 +17738,7 @@ SES Avocet Ltd	Norwich	A	0
 Sesame Access Systems Ltd	West Byfleet	A	0
 Sessions Arts Club Ltd	London	A	0
 SET Advisory Ltd	London	A	0
+Setec Alpha Limited	London	A	0
 Seth White Architects	St Albans	A	0
 SEVAmor Associates Ltd	Newark	A	0
 Seven Baring Automotive Ltd t/a AMC Vehicle Maintenance Services	London	A	0
@@ -18075,7 +18069,7 @@ Southern Ayr Ltd	Ayr	A	0
 Southwark After-School Club Ltd	Romford	A	0
 Southwark Disablement Association (SDA)	London	A	0
 Southwest Accessories Limited	Bristol	A	0
-Sova Assessment Ltd	London	A	0
+Sova Assessment Ltd	27 New Dover Road	A	0
 SP AIRCON LIMITED	Leicester	A	0
 Space Agency Design Ltd	Bristol	A	0
 Space Group of Architects Ltd	London	A	0
@@ -18277,6 +18271,7 @@ STATELY ACCOUNTANTS	London	A	0
 Statement Group Limited, trading as Novos	London	A	0
 Stay Independent at Home Ltd T/A Home Instead Lewes & Uckfield	Ringmer	A	0
 Stay Metro Ltd T/A VCity ApartHotels	Glasgow	A	0
+Stay Plus Serviced Accommodation Ltd	Southampton	A	0
 Steam & Air Blowing Service Company (SABSCO) Ltd	Aylesford	A	0
 Steel City Autos Ltd	Sheffield	A	0
 Steelers Ice Arena Limited	Sheffield	A	11
@@ -18398,6 +18393,7 @@ Support and Action for Womens Network SAWN	Oldham	A	0
 Support Asia Limited	Birmingham	A	0
 Support at Home Ltd	Widnes	A	0
 Support Haven Ltd Trading as Xen Care Services	Ipswich	A	0
+Suprav Hotels Ltd t/a Haughton Arms Hotel	Alford Aberdeenshire,	A	0
 Suprav Hotels Ltd t/as Haughton Arms Hotel	Aberdeenshire	A	0
 SUPREME ACCOUNTANTS LIMITED	Bradford	A	0
 Supreme Auctions Limited	Dronfield	A	0
@@ -18427,8 +18423,6 @@ Swale Academies Trust	Sittingbourne	A	0
 Swami Hotels Ltd t/a Airways Hotel	London	A	0
 SWAN AUTO ENGINEERING LTD	Washington	A	0
 Swansea City Association Football Club Limited	Swansea	A	0,11
-SWAP Architects Limited	Shirley	A	0
-Sweet Affairs Hounslow Ltd	Hounslow	A	0
 SWEET AFFAIRS SOUTHALL LTD T/A SHINWARI Restaurant	Middlesex	A	0
 Sweet Analytics Ltd	Hemel Hempstead	A	0
 SWEET ELOHIM AFRO MARKET LTD	Wolverhampton	A	0
@@ -18577,6 +18571,7 @@ TECHHOUSE ACCESSORIES LIMITED	Grays	A	0
 TechInsights Market Analysis Limited	Milton Keynes	A	0,4
 TECHNET ALLIANCE LIMITED	Bradford	A	0
 Technical Absorbents Limited	Grimsby	A	4
+Technical Professionals Limited (trading as LearnTech)	Manchester	A	0
 Technicool Air Conditioning Ltd	Coulsdon	A	0
 TECHNO A.M. LTD	Brighton	A	0
 TECHNO AD UK PRIVATE LTD	Manchester	A	0
@@ -18646,7 +18641,6 @@ The Accounting Crew Limited	Stratford upon Avon	A	0
 The Accounting Practice Ltd	Aldershot	A	0
 The Acorn and Gaunmont House Surgery	London	A	0
 THE ACROPOLIS BRADFORD LTD	Shipley	A	0
-The Action Group	Edinburgh	A	0
 The Active Network (EU) Limited	London	A	0,4
 The Activity Superstore Ltd	Saffron Walden	A	0
 The Adam Practice	Poole	A	0
@@ -18667,6 +18661,7 @@ The Agency Partnership Ltd	Great Missenden	A	0
 The Agora Gynaecology and Fertility Centre Ltd	Brighton	A	0
 THE AI CORPORATION LIMITED	Woking	A	0
 The AI Whistleblower Initiative	London	A	0
+The Aigas Trust	Inverness-shire	A	9
 The Aime Group Ltd	Mitcham,	A	0
 The AIRE Centre	London	A	0,9
 THE AKASH INDIAN RESTAURANT	Cinderford	A	0
@@ -18734,7 +18729,6 @@ The Archer Academy	London	A	0
 The Ardnamurchan Distillery	Acharacle	A	0
 The Area Technology Ltd	London	A	0
 THE ARENA GRILL AND LOUNGE LTD	Kent	A	0
-THE ARMADA GROUP (HOSPITALITY) LIMITED	East Sussex	A	0
 The Aroma Indian Takeaway	Winsford	A	0
 The Art Newspaper Limited	London	A	0
 The Art School Restaurant	Liverpool	A	0
@@ -18773,7 +18767,6 @@ The Austin Company of UK Ltd	Watford	A	0
 The Auto Valley Limited	Buntingford	A	0
 THE AUTOCENTRE (DEWSBURY) LIMITED	Dewsbury	A	0
 The Automation Partnership (Cambridge) Ltd	Royston	A	0,4
-The Avenue Care Home	Fareham	A	0
 The Avenue Care Home Limited T/A The Avenue Care Home	Malvern	A	0
 The Avenue Dental Practice	Enderby	A	0
 The Avenue Store	Cleveland	A	0
@@ -18787,7 +18780,6 @@ The Ayurvedic Clinic Limited	South Croydon	A	0
 The Bakers Art LTD	London	A	0
 The Barn Agency Ltd	London	A	0
 The Basildon Lower Academy	Basildon	A	0
-The Beauty Alliance International Ltd	Stanmore	A	0
 The Beeches Home Care Agency Limited	Glasgow	A	0
 The Befriending Association CIC	Glasgow	A	0
 The Bhat Sikh Gurdwara and Community Association Edinburgh	Edinburgh	A	1,10
@@ -18832,7 +18824,6 @@ The Coventry & Warwhickshire Centre For Advanced Dentistry	Coventry	A	0
 THE CRASTER ARMS	Beadnell	A	0
 The CRO Agency Ltd	London	A	0
 The Denbigh Alliance	Milton Keynes	A	0
-The Developer Academy	Sheffield	A	0
 The Digital Accessibility Centre limited	Swansea	A	0
 The Digital Age Ltd	East Linton	A	0
 The Diocese of Westminster Academy Trust	Pinner	A	0
@@ -18867,6 +18858,7 @@ The Great American Bagel Factory	London	A	0
 The Great Automobiles Ltd	London	A	0
 The Green Apple Tree Ltd	Northallerton	A	0
 THE GREENHOUSE MULTI-CULTURAL PLAY AND ARTS PROJECT	Liverpool	A	0
+The Griffin Amersham Ltd	Amersham	A	0
 The Happy Apple	Torquay	A	0
 THE HAZE AGENCY LTD.	Banstead	A	0
 The Heritage Advisory Ltd.	Holbeach	A	0
@@ -18901,7 +18893,6 @@ The Justice Platform Ltd (trading as Legl and CrowdJustice)	London	A	0
 The Kent Autistic Trust	Gillingham	A	0
 THE KINC AGENCY LTD	London	A	0
 The King Alfred School	Dudley	A	0
-The King Alfred Winchester Ltd	Winchester	A	0
 The Lane Agency Limited	Edinburgh	A	0
 The Lash Line Academy Ltd	Kingston-upon-Thames	A	0
 The Learning Alliance	Congleton	A	0
@@ -19190,6 +19181,7 @@ Tovie AI Limited	London	A	0
 Towards AI Deployment Ltd	London	A	0
 Towassal Riasat t/a Al Aqsa Halal Meat and Grocery	Bolton	A	0
 Tower Sanctuary Housing Association	Derby	A	0
+Towers Associates	London	A	0
 TOWN AUTOS LIMITED	Bedford	A	0
 Town Centre Apartments Ltd	Watford	A	0
 Townsend Jackson Ltd T/A The Care Worker Agency	Southport	A	0
@@ -19503,7 +19495,6 @@ Vikram Foods Glasgow Limited t/a Rishi's Indian Aroma	Glasgow	A	0,4
 Village Newsagents (Gorebridge) Limited T/a as Village store	Gorebridge	A	0
 Vincent Hannon + Associates Limited	Belfast	A	0
 Vine Architecture Studio Ltd	London	A	0
-VINE SOCIAL CARE AGENCY LIMITED	Farnborough	A	0
 Vinoth Srivignaraja T/A Arle Stores	Cheltenham	A	0
 Vintage Aero Ltd	Epping	A	0
 VIOTECH LIMITED trading as New Rainbow House Chinese Takeaway	Crawley	A	0
@@ -19950,7 +19941,7 @@ Zenith Accounting And Business Solutions	London	A	0
 Zenith AI (N.I)	Belfast	A	0
 Zenith Audit Ltd	London	A	0
 Zenith Multi Academy Trust	Benfleet	A	0
-Zenithon AI Ltd	Axbridge	A	0
+Zenithon AI Ltd	London	A	0
 ZENLEADS INTERNATIONAL LIMITED (Trading as Apollo.io)	London	A	0
 Zennor Asset Management LLP	London	A	0
 ZEPHYR ACCOUNTING LIMITED	London	A	0

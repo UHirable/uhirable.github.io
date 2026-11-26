@@ -120,7 +120,6 @@ AA ELITE TRADERS LIMITED	Rochdale	A	0
 AA Estate Agency Limited	London	A	0
 AA Euro Recruitment UK Limited	London	A	0
 AA EXPRESS LOGISTICS LTD	Potters Bar	A	0
-AAA EAGLES LTD	Stockport	A	0
 AAA Enterprises (Gloucester) Ltd	Gloucester	A	0
 Aadam Foods Limited T/A Western Foods & Wine Express	London	A	0
 Aagan LTD T/A The Everest Eatery	Malvern	A	0
@@ -329,6 +328,7 @@ AK Events & Media Ltd	Northampton	A	3
 AK Events Ltd	Coventry	A	0
 AK Premuim Events	Luton	A	0
 AKA Europe Limited	London	A	0
+AKA INNOVATIONS POWER & ELECTRICAL ENGINEERING LTD	Aberdeen	A	0
 Akap Energy Ltd	Stanmore	A	0
 Akasa (Europe) Ltd.	Greenford	A	0
 AKB Estates Ltd	Leeds	A	0
@@ -389,7 +389,7 @@ Alibaba E-Commerce (UK) Limited	London	A	0
 Alibaba Eats Ltd	Alton	A	0
 ALIFYA EDUCATION LTD	London	A	0
 Aliiance Estates LTD	Telford	A	0
-Alison Education UK Ltd.	Houslow	A	0,2
+Alison Education UK Ltd.	London	A	0,2
 ALL ABROAD EDUCATION UK LTD	London	A	0
 All Ears Promotions Limited	London	A	0
 All Eat App Network Technology Incorporated Ltd	Croydon	A	0
@@ -407,7 +407,6 @@ Allegro MicroSystems Europe Limited	Musselburgh	A	0,4
 Allgreen Energy	Daresbury Cheshire	A	0
 ALLIANCE DESIGN UK LTD T/A EDGE CONSULTING ENGINEERS	Manchester	A	0
 ALLIANCE FOR COHESION AND RACIAL EQUALITY LTD	Reading	A	0
-ALLIED ENGINES LTD	Grays	A	0
 Allied Enterprise Ltd	South Croydon	A	0
 Allied Global Engineering Ltd	Glossop	A	0
 Allied World Assurance Company (Europe) Limited	London	A	0,4
@@ -505,7 +504,6 @@ Andrew Bunt t/as Ta Moko Espresso	Salisbury	A	0
 ANDREW WOMMACK MINISTRIES - EUROPE	Walsall	A	1
 Andrews Associates Engineers Ltd	Croydon	A	0
 Andun Engineering Consultants Ltd	Nottingham	A	0
-Anel Engineering & Contracting Limited	Chester	A	0,4
 Anerley Estate Ltd	London	A	0
 Angel Catering & Event Limited	Erith	A	0
 Angelo, Gordon Europe LLP	London	A	0,4
@@ -597,7 +595,6 @@ Arcing enterprises ltd	London	A	0
 Arctos Europe LLP	London	A	0,4
 ARD-LIFT ELEVATOR (UK) LTD	Manchester	A	0
 Ardfin Estate Limited	Isle of Jura	A	0
-Aren Enterprises Ltd	London	A	0
 Arena Event Services Group Ltd	St Ives	A	0
 Argent Energy Ltd	Ellesmere Port	A	0
 ARGHYA ENTERPRISES LTD	Rickmansworth	A	0
@@ -651,7 +648,6 @@ Asco Engineering Ltd	Skelmersdale	A	0
 Ascot Events Limited T/A Ascot Structures	Chipping Norton	A	0
 ASD ELECTRICAL LTD	Preston	A	0
 Asgard Controlled Environments Ltd	Manchester	A	0
-Asgard Estates Ltd	Cambridge	A	0
 ASH & EVEN (UK) LTD	Birmingham	A	0
 ASHA EXPO & CO LTD	Middlesex	A	0
 Ashby Energy Assessors Limited	Grantham	A	0
@@ -918,6 +914,7 @@ Benchmark Estimating Ltd	Manchester	A	0
 BENGAL SEA LTD T/A ELAICHI TANDOORI	Glastonbury	A	0
 Bengal Spice Euro Limited T/A Cafe Grill	London	A	0
 BENGAZI CAREER ENGAGEMENT LTD	London	A	0
+Bennachie Equine Vets Limited	Aberdeen	A	0
 Bennetts Convenience Limited T/A Bennetts end Premier	Hemel Hempstead	A	0
 BENNETTS END LIMITED	Hemel Hempstead	A	0
 Bennetts End News	Hemel Hempstead	A	0
@@ -959,7 +956,6 @@ BG Sports Enterprises Limited t/a Memento Exclusives	Northampton	A	0
 BG&E Consulting Engineers Ltd	London	A	0,4
 BGB Engineering Ltd	Grantham	A	0
 BGV REAL ESTATE LIMITED	London	A	0
-BH Electrical Services Ltd	Huddersfield	A	0
 Bhadoria Enterprise Limited	Birmingham	A	0
 Bharat Vibrant Events Ltd	Watford	A	3
 BHARTI ENTERPRISE LTD	Harrow	A	0
@@ -1028,7 +1024,6 @@ Blaircourt Equine Veterinary Clinic Ltd	Chelmsford	A	0
 BLAKE & ERNST LIMITED	London	A	0
 Blanc Events Ltd	Newton Mearns	A	0
 Blast Esports Limited	London	A	0,3,4
-Bliss Eventworks Limited	Epsom	A	0
 Blitz Enterprises Limited	Romford	A	0
 Bloom Energy UK	London	A	0,4
 Blossom Educare Ltd	Hull	A	0
@@ -1051,6 +1046,7 @@ Blue Spark Energy UK Limited	London	A	0
 BLUE WATER ENERGY LLP	London	A	0
 BlueBinaries Engineering and Solutions Ltd	Woking	A	0,4
 Bluebird Care Exeter	Exeter	A	0
+Blueline Enterprise Limited	Harrow	A	0
 BlueNord Energy UK Ltd	London	A	0,4
 Blueprint Design Engineering Limited	Ulverston	A	0
 Bluestone Energy Ltd	London	A	0
@@ -1077,7 +1073,7 @@ Bombora Wave Power Europe Ltd.	Pembroke Dock	A	4
 BOND Events Limited	Staines-Upon-Thames	A	0,4
 Bondi Sands Europe Limited	London	A	0
 Bonelli Erede Lombardi Pappalardo LLP	London	A	0
-BONG EVENT LTD	Cambridge	A	0
+BONG EVENT LTD	London	A	0
 Bonus Eventus Maintenance Ltd.	Camberley	A	0
 BOOKS EXPRESS LIMITED	Saffron Walden	A	0
 BOOMSATSUMA EDUCATION LIMITED	Bristol	A	0
@@ -1178,7 +1174,6 @@ Brownlow Enterprises Limited	Highams Park	A	0
 Brownlow Enterprises Limited	Whetstone	A	0
 Bruce Engineering Services NI Ltd	Cookstown	A	0
 Brunello Cucinelli (England) Limited	London	A	0
-BRUNSWICK EAST LTD	Hackney	A	0
 Brympton House Estates Ltd	Yeovil	A	0
 BSG Ecology Ltd	Newport	A	0
 BSM Energy Limited	Cleckheaton	A	0
@@ -1210,6 +1205,7 @@ Burwell & Exning Cricket Club	Burwell	A	11
 Bury St Edmunds Cricket Club	Bury St Edmunds	A	11
 Bury St Edmunds Visionplus Limited t/a Specsavers	Bury St Edmunds	A	0
 BUSINESS EDGE SOLUTIONS LTD	Glasgow	A	0
+Business Essentials Services Limited	London	A	0
 BUSINESS EXCELLENCE EUROPE LIMITED	Loughton	A	0
 BUSINESS IN THE CITY T/A MAILBOXES ETC MAIDA VALE	London	A	0
 BUSINESS INSIDER EUROPE LIMITED	London	A	0,4
@@ -1222,7 +1218,6 @@ BUTTERCUPS EMPIRE	Poole	A	0
 BVP UK & Europe Investors Limited	London	A	0,4
 BVU Ventures Ltd, t/a T4 Education	Hemel Hempstead	A	0
 BW ESS Development UK Limited	London	A	0
-BW1 Enterprise Group Ltd	Nottingham	A	0
 Byblos Bank Europe SA	London	A	0,4
 BYERLEY TURK E-COMMERCE LOGISTICS LTD	Loughton	A	0
 Byland Engineering Limited	York	A	0
@@ -1370,7 +1365,6 @@ Cats Eye Trading Limited	Milton Keynes	A	0
 Cattanach SCIO t/a Elevate Great	Edinburgh	A	0
 Cavendish Education Ltd	London	A	0
 CB Electrical & Mechanical Services	Isleworth	A	0
-CB Services (Preston) ltd T/A Eggfree Cake Box Preston	Preston	A	0
 CBBG Group Construction Expert Services LTD	London	A	0
 CBC (Europe) GmbH, UK Branch	London	A	0
 CBee (Europe) Limited	Richmond	A	0,4
@@ -1524,6 +1518,7 @@ China Unicom (Europe) Operations Limited	London	A	0,4
 Chinese British Enterprise Ltd	London	A	0
 CHINESE EMBASSY	London	A	5
 CHINESE-ENGLISH LEGAL EDUCATION LIMITED	London	A	0
+Chipperfield Entertainments Ltd	Anstey	A	3
 Chippy Chips Edinburgh Limited	Edinburgh	A	0
 Chiropractic Clinic Eastcote	Eastcote	A	0
 CHONGIE ENTERTAINMENT UK LTD	London	A	0
@@ -1561,6 +1556,7 @@ Circuit Link Electrical Ltd	Luton	A	0
 CIRCULAR ECOLOGY LTD	Hove	A	0
 Circular Economy Services Ltd	London	A	0
 Circus World Entertainment Ltd	Wickham	A	3
+CIS Equestrian Livery Limited	Hyde	A	0
 Citadel Enterprise Europe Limited	London	A	0,4
 CiTECH Energy Recovery Solutions UK Ltd.	Hessle	A	0
 CITILAND ESTATES LTD	London	A	0
@@ -1600,6 +1596,7 @@ Cleantech Engineering Limited	Edenbridge	A	0
 Cleantech Group Europe Limited	London	A	0,4
 Clear Water Events Ltd	Halesowen	A	0
 Cleared Europe services	Ashford	A	0
+Clearfield Envirotech	Winsford	A	0
 Clearwater Fine Foods (Europe) Limited	Windsor	A	0
 Clearwell Energy Holdings Limited	Aberdeen	A	0
 Clermont Energy Partners LLP	Banbury	A	0
@@ -1762,7 +1759,7 @@ Crave-In Enterprises Ltd	Perth	A	0
 CRC Evans Limited	Kintore	A	0,4
 Create Consulting Engineers Ltd	Norwich	A	0
 Creative Care (East Midlands) Limited	Colchester	A	0
-Creative Education Trust	Milton Keynes	A	0
+Creative Education Trust	Milton Keyens	A	0
 Creative England Limited	MediaCityUK	A	0
 CREATIVE ENTERTAINMENT EXCHANGE LIMITED	London	A	0
 Creative Entertainment Ltd	London	A	0
@@ -1770,7 +1767,6 @@ Creative Entertainment Two Ltd	London	A	0
 Creative Foods Europe Limited	Burton-on-Trent	A	0,4,7
 CreativeDrive EMEA Ltd	London	A	4
 CREDIT INDUSTRIEL ET COMMERCIAL	London	A	0,4
-Crescendo Entertainment Ltd	London	A	0
 Crescent Credit Europe LLP	London	A	0,4
 Crescent Education Services Ltd	Birmingham	A	0
 Cressey Oasis Education Ltd	Croydon	A	0
@@ -1786,11 +1782,9 @@ Crossroads Church Edinburgh	Edinburgh	A	1,10
 Crouch End Cafe Ltd T/A BEAM	London	A	0
 Crouch End Physiotherapy & Associates Ltd T/A Wellbeing Centres	London	A	0
 Crouch Enterprises Ltd	Shrewsbury	A	0
-Crow Events Limited	Northallerton	A	0
 CrowdHouse Energy Limited	Newcastle Upon Tyne	A	0
 CROWLEY ENVIRONMENTAL SERVICES (UK) LIMITED	London	A	0
 CROWN HOUSE ESTATES LTD	London	A	0
-Crowne Plaza Reading East	Wokingham	A	0
 Crownwood Healthcare (Temple Ewell) Limited	Torquay	A	0
 CRS Electrical Limited	South Croydon	A	0
 Crystal Wembley Ltd T/A Crystal Events & Management	Wembley	A	0
@@ -1802,7 +1796,6 @@ CTP ENVIRONNEMENT UK	London	A	0
 CTS ENTERPRISE	Pontypridd	A	0
 Cube Desserts Express Limited	Bolton	A	0
 Cubico UK t/a Easy Bathrooms	Wakefield	A	0
-Cucina Eat Ltd	Alderley Edge	A	0
 Cumberland Electrochemical Ltd	Bicester	A	0
 Cumming Europe Limited	London	A	0
 Cummins Civil Engineering Ltd	Knutsford	A	0
@@ -1848,7 +1841,6 @@ DAI-ICHI LIFE INTERNATIONAL (EUROPE) LIMITED	London	A	4
 Daido Industrial Bearings Europe Limited	Somerset	A	4
 Daido Metal Co., Ltd. European Technical Centre (UK)	Ilminster	A	0,4
 Daihatsu Infinearth (Europe) Ltd.	London	A	0,4
-Daish's Esplanade Hotel	Scarborough	A	0
 Daiwa Asset Management (Europe) Ltd	London	A	0,4
 Daiwa Capital Markets Europe Limited	London	A	0,4
 Dale Retail Ltd T/A Go Local Extra	Heckmondwike	A	0
@@ -2196,7 +2188,6 @@ E&C Building and Design Ltd	London	A	0
 E&E 18 LIMITED	Abingdon	A	0
 E&E ACCOUNTING AND TAX SERVICES LTD	Letchworth Garden City	A	0
 E&F Engineering Ltd	Ruislip	A	0
-E&G BUILDERST LTD	London	A	0
 E&G Senior Care Limited T/A Right at Home Bridgend & The Vale of Glamorgan	Bridgend	A	0
 E&I Engineering Ltd	Londonderry	A	0
 E&J Oriental Supermarket	Southampton	A	0
@@ -2234,7 +2225,7 @@ E-PARTS HOUSE LTD	Birmingham	A	0
 E-Preparation UK	Stony Stratford, Milton Keynes	A	0
 E-Revive Limited	Stalybridge	A	0
 E-Serve Technologies Limited	Brooklands	A	0
-E-Service (Europe) Ltd	Hatfield	A	0
+E-Service (Europe) Ltd	Potters Bar	A	0
 E-Shopping Warehouse Ltd	Liverpool	A	0
 E-Sign	Liverpool	A	0
 E-Solutions IT Services UK Ltd	Sutton	A	0
@@ -2267,7 +2258,6 @@ E.U Ansary Ltd	Nottinghamshire	A	0
 E1 BURGERS AND SHAKES LTD T/A Amigos Burgers & Shakes-Whitechapel	Whitechapel	A	0
 E1 ELECTRICAL LIMITED	London	A	0
 E1 Printing Limited t/a Faith Design & Print	London	A	0
-E1 Printing Limited T/A Faith Design & Print.	London	A	0
 E1 Solicitors	London	A	0
 E1 TYRES LIMITED	London	A	0
 E12 CHICKEN & PIZZA LIMITED	London	A	0
@@ -2312,7 +2302,6 @@ EACANPROJECT LTD	London	A	0
 EACCOUNTAX LIMITED	Middlesbrough	A	0
 EACH Counselling and Support	West Ealing	A	0
 EachMoment Ltd	Norwich	A	0
-Eaga Partnership Ltd	Llanelli	A	0
 EAGER HEALTH LTD T/A Care24Seven	Southall	A	0
 EAGLE ACCOUNTANTS LIMITED	Rochdale	A	0
 Eagle automotive coventry limited	Coventry	A	0
@@ -2343,7 +2332,6 @@ EAGLE TRADE UK LTD	London	A	0
 EAGLE TREE CARE LIMITED	Godstone	A	0
 EAGLE UK PIZZA LIMITED	Milton Keynes	A	0
 Eagle Work Solutions Ltd	Luton	A	0
-EAGLE'S FLIGHT INTERNATIONAL CENTRE (EFIGOC)	Edinburgh	A	1
 Eagle's Nest Ministry	Kent	A	9
 Eaglebay Limited	Dundee	A	0
 EagleBurgmann Industries UK LP	Warwick	A	0,4
@@ -2379,6 +2367,7 @@ Eames Consulting Group Ltd	London	A	0
 Eamonn Byrne Landscape Architects Ltd	York	A	0
 Eanna Ltd	London	A	0
 EAO Ltd	Burgess Hill	A	0
+EAP	Colchester	A	0
 Eapps Technologies Ltd	Uxbridge	A	0
 Eappsys Limited	Brentford	A	0,4
 Ear Health Solutions Limited	Addlestone	A	0
@@ -2581,6 +2570,7 @@ EAST WEST STORES LIMITED	Manchester	A	0
 East Wing Dental Surgery	Dunfermline	A	0
 EAST WING LIMITED	Manchester	A	0
 East-London Buddhist Cultural - Centre	London	A	1,9,10
+Eastbane Limited	Pinner	A	0
 Eastborough Partners UK Limited	London	A	0
 EASTBOUND TRADE LTD	London	A	0
 Eastbourne Borough Council	Eastbourne	A	0
@@ -2682,7 +2672,6 @@ Eastwood & Partners (Consulting Engineers) Ltd	Sheffield	A	0
 Eastwood Court Care Home	Glasgow	A	0
 EASTWOOD LODGE LTD	Ilford	A	0
 Eastwood Park Academy Trust	Leigh-on-Sea	A	0
-Eastwood Park Limited	Wotton-under-Edge	A	0
 Eastwood Primary Care Centre	Eastwood	A	0
 Easy Accounts and Tax Ltd	Bristol	A	0
 Easy Box Logistics	Bicester	A	0
@@ -2713,6 +2702,7 @@ Easy Solutions And Logistics Limited	18 Wadsworth Road	A	0
 Easy Solutions and Logistics Limited	Perivale	A	0
 Easy Staffing Group Limited	Ilford, Essex	A	0
 Easy Steps Limited	Acton	A	0
+Easy Steps Limited	London	A	0
 EASY TAX ACCOUNTANTS LTD	Ilford	A	0
 Easy Tiger Creative Ltd	London	A	0
 EASY TIGER EXECUTIVE SEARCH LIMITED	London	A	0
@@ -2795,7 +2785,6 @@ EAVES LANE CONVENIENCE STORE	Chorley	A	0
 EAYC Nursery	London	A	0
 EAZY CARS HASLINGDEN LTD	Haslingden	A	0
 Eazy Insure Ltd	Cardiff	A	0
-EAZY KITCHEN LTD	London	A	0
 Eazy Recycling Ltd	Willenhall	A	0
 EB FROZEN FOODS LTD	Bradford	A	0
 Eba Interiors UK Limited	London	A	0,4
@@ -2926,8 +2915,7 @@ ECHOPOINT MEDICAL LTD	London	A	0
 Echorest Limited T/A Tootoomoo	London	A	0
 ECHOS CONSULTANCY LTD	London	A	0
 Echos Education Ltd	London	A	0
-Echosec Systems UK Ltd	Cardiff	A	0,4
-Echowalk Limited	London	A	0
+Echosec Systems UK Ltd	Altrincham	A	0,4
 ECI Schools	London	A	0
 ECI Ventures Ltd	London	A	0
 ECIGRUK LIMITED	Oldbury	A	0
@@ -2941,7 +2929,7 @@ Eclectic Care Bristol	Bristol	A	0
 Eclectic Wine	London	A	0
 eClerx Ltd	London	A	0,4
 Eclick Solutions Limited	Reading	A	0
-Eclipse 26 - Trading as Piglets Pantry Ltd	Worthing	A	0
+Eclipse 26 Ltd - Trading as Piglets Pantry	Worthing	A	0
 Eclipse Air Charter LTD	London	A	0
 ECLIPSE AUTO PARTS LIMITED	Manchester	A	0
 Eclipse Brokerage Services Ltd	London	A	0
@@ -2956,7 +2944,6 @@ Eclipse Power limited	Milton Keynes	A	0
 Eclipse Presentations Ltd	Beckenham	A	0
 ECMS EXPRESS (UK) LTD	Feltham	A	0,4
 ECN Construction Service Ltd	Gravesend, Kent	A	0
-ECO 247 LTD	St Asaph	A	0
 ECO ALBA LIMITED	Kirkcaldy	A	0
 ECO Approach Ltd	Beckenham	A	0
 Eco Assets Manager Limited	Manchester	A	0
@@ -2984,7 +2971,6 @@ ECO GREEN CANOPY LTD	Warrington	A	0
 ECO GREEN HOME GRANTS LTD	Slough	A	0
 ECO GREEN SURVEY LTD	Slough	A	0
 ECO GREEN UPGRADES LTD	Luton	A	0
-Eco Greenenergy Solutions Ltd	Epping	A	0
 ECO HEATING WM LTD	Birmingham	A	0
 ECO HOME PLANS LTD	Birmingham	A	0
 Eco Homes Direct Ltd	Cardiff	A	0
@@ -3039,7 +3025,6 @@ ECOGREEN ENGINEERS LTD	London	A	0
 Ecohardwood Ltd	London	A	0
 Ecohog Ltd	Omagh	A	0
 EcoHub Technologies Limited	Exeter	A	0
-ECOINSULATIONPOINT LIMITED	Slough,	A	0
 Ecoit Solutions Ltd	Nottingham	A	0
 Ecolab Limited	Northwich	A	0,4
 Ecole Francaise de Londres Jacques Prevert	London	A	0
@@ -3096,7 +3081,6 @@ ECOPORTAL UK LIMITED	Leeds	A	0,4
 Ecor Trading Ltd	Salford	A	0
 EcoRenew Holdings (UK) Limited	Morecambe	A	0,4
 Ecorys	Birmingham	A	0,4
-ECOSAVE INSTALLATION LTD	Glasgow	A	0
 Ecosecurities Limited	London	A	0
 Ecoserv Group Limited	Wallingford	A	0
 Ecospend Technologies Limited	London	A	0
@@ -3145,7 +3129,7 @@ Edanpower Installations Limited	Coventry	A	0
 Edanpowerportal Limited	Birmingham	A	0
 Edbro Hydraulics Limited	Bolton	A	0
 Edbro Hydraulics Ltd	Bolton	A	0
-EDBUCKET LIMITED	London	A	0
+EDBUCKET LIMITED	Richmond	A	0
 EDC (Scotland) Limited	Erskine	A	0
 EDC Automotive Limited	Cwmbran	A	0
 EDC Lord & Co Solicitors	Uxbridge	A	0
@@ -3239,10 +3223,11 @@ Edge Hospitality Limited	Inverness	A	0
 Edge Impact Consulting Ltd	Reading	A	0
 Edge Innovate NI Ltd	Dungannon	A	0
 EDGE MORTGAGES LTD	Ilford	A	0
-Edge of Arabia	London	A	3
+Edge of Arabia	London	A	0,3
 edge Placemaking Group Ltd	Thame	A	0
 EDGE PLUS UK LIMITED-15165171	London	A	2
 Edge Property Ltd	Southall	A	0
+Edge Retail Limited	Leicester	A	0
 Edge Services (2014) Ltd	London	A	0
 Edge Street Limited	Manchester	A	0
 Edge Testing Solutions Limited	Glasgow	A	0,4
@@ -3455,7 +3440,7 @@ Edwings Overseas Educational Consultants Limited	Manchester	A	0
 EDX Medical Limited	Cambridge	A	0
 Edydon services Ltd	Coventry	A	0
 EDYK Ltd	Slough	A	0
-Edyn Development Studio Limited	London	A	0
+Edyn Development Studio Limited	London	A	0,4
 Edyn Limited	Bristol	A	0
 EE Glass Ltd	Portsmouth	A	0
 Eeazah Limited	Fareham	A	0
@@ -3525,6 +3510,7 @@ Effencel Limited	Dagenham	A	0
 Effendy Ventures Ltd t/a Caprinos Pizza	Bristol	A	0
 EFFICIENT FOOD SERVICES LIMITED T/A Boathouse	Southampton	A	0
 Efficient Home Energy	Bromley	A	0
+Efficient Homes Energy Advisors Limited	Manchester	A	0
 EFFICIENT SALON CONSULTANTS LTD	London	A	0
 EFFICIENT SIGNS AND PRINT SOLUTIONS LTD	London	A	0
 EFFICIENT SURVEYORS LTD	Manchester	A	0
@@ -3617,7 +3603,7 @@ Ego Pharmaceuticals (UK) Limited	Knutsford	A	0
 EGODENT LTD	London	A	0
 Egon Zehnder Limited	London	A	0,4
 Egremont Cricket Club	Egremont	A	11
-EGREMONT NICE STORE LTD	Wirral	A	0
+EGREMONT NICE STORE LTD	Preston	A	0
 EGREMONT SMILE CENTRE LTD	Egremont	A	0
 Egress Limited	Leamington Spa	A	0
 Egress Software Technologies Limited	London	A	0,4
@@ -3685,7 +3671,6 @@ EightPoints Limited	Kent	A	0
 Eighty eight ventures Ltd T/A Unit	Sheffield	A	0
 Eigra Group Ltd	London	A	0,4
 EIK Business Limited	London	A	0
-Eikoku News Digest Limited	London	A	0
 EIKON Group LTD	London	A	0
 Eikon Peters Technology Consulting Ltd	Preston	A	0
 Eikos Risk Capital Limited	London	A	0
@@ -3784,6 +3769,7 @@ El Saeid For Restaurant Management & Operation Ltd	London	A	0
 EL&N Ltd	London	A	0
 EL-BETHEL MISSION	Birmingham	A	0,1,9,10
 El-Frico Ltd	Leeds	A	0
+EL-HALAL BUCKS LTD	Aylesbury	A	0
 ELA INT LTD	London	A	0
 Ela Kendro Ltd	Gillingham	A	0
 Ela Merite Solutions Ltd	Northolt	A	0
@@ -4035,7 +4021,6 @@ Elevate Everywhere Ltd.	London	A	0
 Elevate Legal Services UK Ltd.	Newcastle	A	0
 Elevate Philanthropy	London	A	0
 Elevate Property Group Limited	Birmingham	A	0
-Elevatebuild Construction Services Ltd	Basingstoke	A	0
 Elevated Goals Ltd	London	A	0
 ELEVATING YOU COACHING LTD	High Wycombe	A	0
 Elevation Advisors LLP	London	A	0
@@ -4117,7 +4102,6 @@ ELITE ALLOY REPAIRS LTD	Ruislip	A	0
 Elite Automotive Ltd	Milton Keynes	A	0
 Elite Banqueting Suite Limited	Slough	A	0
 ELITE BODY REPAIR LTD UK	Brentford	A	0
-Elite Body Sculpture Limited	London	A	0,4
 Elite Business Solutions LTD	Chelmsford	A	0
 Elite Capital and Management Services Limited	London	A	0
 Elite Capital Ltd	Birmingham	A	0
@@ -4126,7 +4110,6 @@ Elite Car Refinishing Ltd	Manchester	A	0
 Elite Care and Comfort Limited	Barnsley	A	0
 Elite Care and Support Ltd	Newton Aycliffe	A	0
 ELITE CARE AT HOME LTD	Dumfriesshire	A	0
-Elite Care at Home Ltd	Lockerbie	A	0
 ELITE CARE HOMES LTD	Birmingham	A	0
 Elite Care Management Ltd	Slough	A	0
 Elite Care Professionals Limited	Liverpool	A	0
@@ -4136,7 +4119,6 @@ ELITE CHAUFFERS LTD	Hayes	A	0
 Elite Choice Home Care Ltd	Sayers Common	A	0
 Elite Citizen Ltd	Uxbridge	A	0
 Elite Class International Limited	Staines-Upon-Thames	A	0
-Elite Cleaning and Facility Services Limited	Hounslow	A	0
 Elite Closing Academy Limited	Solihull	A	0
 ELITE COATERS LIMITED	West Drayton	A	0
 ELITE COMMERCIAL INTERIORS LTD	London	A	0
@@ -4239,7 +4221,6 @@ Elizabeth Court Rest Home Limited	Bexhill On Sea	A	0
 Elizabeth Courtauld Partnership	Halstead	A	0
 ELIZABETH HADEED LTD	London	A	0
 Elizabeth House (Oldham) Limited T/A Elizabeth House	Oldham	A	0
-Elizabeth House Rest Home Limited	Stoke On Trent	A	0
 Elizabeth Jane Hartle /Trading as Aycliffe Dentistry	Tonbridge	A	0
 Elizabeth Palms Ltd	London	A	0
 Elizabeth Peters Care Homes Ltd	Catford	A	0
@@ -4280,7 +4261,6 @@ Elliesunrisehealthcare ltd	Derby	A	0
 Ellington Management Group (UK) LLP	London	A	0,4
 ELLINNOVO LTD	London	A	0
 ELLIOT SCIENTIFIC LTD	St Albans	A	0
-Elliot's Camberwell Ltd t/a Elliot's	London	A	0
 Elliots Hill Care Limited	Milford Haven	A	0
 Elliott Advisors (UK) Limited	London	A	0
 Elliott Building & Civil Engineering Ltd	London	A	0
@@ -4322,7 +4302,6 @@ Elm Tree House Residential Home	Taunton	A	0
 Elm Tree Surgery	Shrivenham	A	0
 Elm Tree Surgery /Medical Centre	Stockton-on-tees	A	0
 Elm Villa & Madeley Practice Ltd	Chesterton	A	0
-Elmac Technologies Limited	Greenfield	A	0
 Elmar Home Care Limited	Leeds	A	0
 Elmbank Group Practice	Aberdeen	A	0
 Elmcare Solutions Ltd	Coventry	A	0
@@ -4331,13 +4310,11 @@ Elmcroft Care Home Ltd	Tolleshunt Major	A	0
 ELMEC SYSTEMS LTD	Newark	A	0
 Elmech Ltd	London	A	0
 Elmelin Limited	London	A	0
-ELMET KITCHEN (SHERBURN) LTD TA Elmet Kitchen	Leeds	A	0
 Elmfield Care Limited	Lincoln	A	0
 Elmfield Care Limited	Lincolnshire	A	0
 Elmfield Rudolf Steiner School Limited	Stourbridge	A	0
 Elmfield Trading Ltd	South shields	A	0
 ELMFIELD WINES LIMITED	South Croydon	A	0
-Elmglade Residential Care Home	Sutton	B	0
 Elmham Surgery	Dereham	A	0
 Elmhurst (Shropshire) Ltd	Whitchurch	A	0
 Elmhurst Ballet School in Association with Birmingham Royal Ballet	Birmingham	A	0
@@ -4374,6 +4351,7 @@ Elomi UK Limited	Warrington	A	0
 Elorarez Limited	Wirral	A	0
 ELPESTATES LTD	London	A	0
 Elpha Lodge Residential Care Home Limited	Morpeth	A	0
+ELPIS MARITIME LIMITED	London	A	0
 ELQENI CONSTRUCTION LTD	London	A	0
 Elrha	London	A	0
 ELS Legal	Hertfordshire	A	0
@@ -4511,6 +4489,7 @@ Embassy of The Word of God	Edinburgh	A	1
 Embassy of Tunisia	London	A	5
 Embassy of Turkmenistan	London	A	5
 Embassy of Zimbabwe	London	A	5
+Embassy Site Services UK Limited	Purfleet	A	0
 Embed Limited	Coventry	A	0
 Embellish Harrow Ltd T/A Embellish Hair And Beauty	London	A	0
 Ember construction LTD	Warwick	A	0
@@ -4530,7 +4509,6 @@ EMBRACIVE LTD	London	A	0
 Embross UK Ltd	Ringwood	A	0
 EMBS Community College Ltd	Oxford	A	0
 EMBY PRODUCTS LTD	Westlea	A	0,3
-EMC Trailers Ltd	Magherafelt	A	0
 EMC-Energy Market Consultants (UK) Ltd	London	A	0
 EMCAS Lincolnshire ltd	Louth	A	0
 Emcee Associates Limited	Sutton	A	0
@@ -4654,11 +4632,9 @@ EMMETT SHIRTSLTD	London	A	0
 Emmi UK Ltd	Putney, London	A	0,4,7
 EMMY CONSTRUCTION LTD	London	A	0
 Emmy Shop Ltd	Sheffield	A	0
-EMOCIAL LIMITED	West Ealing	A	0
 Emoi Supply Limited	London	A	0
 Emory Hotel Ltd	London	A	0
 Emotech Ltd.	London	A	0
-emotii LTD	Basildon	A	0
 Emotional Logic Ltd	Newcastle Upon Tyne	A	0
 emotive (Agency) Limited	London	A	0
 Emovis Operations Leeds Limited	Leeds	A	0,4
@@ -4704,7 +4680,7 @@ Empire Homes Group Ltd	Derby	A	0
 Empire Hotel (Llandudno) Ltd	Llandudno	A	0
 Empire Interiors Ltd	Chessington	A	0
 Empire Lettings and Property Management Limited	Birmingham	A	0
-Empire Logistics Transportation Ltd	Northamptonshire	A	0
+Empire Logistics Transportation Ltd	Reading	A	0
 Empire Motor House	Halifax	A	0
 EMPIRE MOTORING LIMITED	London	A	0
 Empire of God Father, Son and The Holy Spirit Ministries	Burton-on-Trent	A	0,1,9,10
@@ -4833,7 +4809,6 @@ Enchanted Nursery Ltd	Alton	A	0
 Enchanting Care Limited	Waterlooville	A	0
 Encirc Limited	Cheshire	A	0,4
 Encocam Limited	Huntingdon	A	0
-Encocam Ltd	Huntingdon, Cambs	A	0
 Encoen Consulting Ltd	Corby	A	0
 ENCOM Energy Compliance Consultancy Limited	Milton Keynes	A	0
 Encom International Ltd	Glasgow	A	0
@@ -4841,6 +4816,7 @@ Encompass Corporation UK Limited	Glasgow	A	0,4
 Encompass Digital Media Services Limited	London	A	0,4
 Encompass Engineering Solutions Ltd	Derby	A	0
 Encompass Surveys Ltd	Fareham	A	0
+Encora Innovations UK Limited	London	A	0,4
 Encora Software (UK) Private Limited	London	A	0,4
 Encore Software Limited	Horsham	A	0
 Encore Spaces Ltd	London	A	0
@@ -4914,7 +4890,6 @@ Energeniq Limited T/A Subway	Edgware	A	0
 Energetika Industries LTD	London	P	2
 ENERGETIKA INDUSTRY SOLUTIONS LIMITED	West Yorkshire	A	0
 Energevo Renewables Limited	Ascot	A	0
-Energex Eco Limited	Barnsley	A	0
 Energex Partners Limited	London	A	0
 Energex Technical Services Ltd	Rayleigh	A	0
 Energia Group Holdings Limited	Belfast	A	0
@@ -4937,7 +4912,6 @@ Energy Deployment Co. Ltd	Harrow	A	0
 energy design studio ltd t/a and-now	Harrow	A	0
 Energy Developments (UK) Limited	Towcester	A	4
 Energy Efficiency Consultancy Ltd.	Macclesfield	A	0
-Energy Efficiency Group Ltd	Leicester	A	0
 ENERGY EFFICIENCY SERVICES LIMITED	Stockport	A	4
 Energy Exemplar (Europe) Ltd	London	A	0,4
 ENERGY FIX LIMITED	Luton	A	0
@@ -5012,7 +4986,6 @@ Enfusion Systems UK Ltd	London	A	0,4
 ENG Consulting Limited	London	A	0
 ENG RETAILS LTD	England	A	0
 Engage Anywhere UK LTD	London	A	0
-ENGAGE DIGITAL PARTNERS	London	A	0
 Engage Digital Partners Limited	London	A	0
 Engage Process UK Ltd	Greater London	A	0,4
 Engage Productions Ltd	Warrington	A	0
@@ -5044,6 +5017,7 @@ Engineered Solutions (Projects) Ltd	Newcastle Upon Tyne	A	0
 Engineered Vibration Solutions Ltd	Bristol	A	0
 Engineeria Ltd	London	A	0
 ENGINEERING AND CONSULTANCY GROUP LTD	Newcastle upon Tyne	A	0
+Engineering and Development Solutions Limited	Truro	A	0
 Engineering Construction Industry Training Board	London	A	0
 ENGINEERING CONSULTANCY SERVICES LIMITED	Derby	A	0
 Engineering Council	London	A	0
@@ -5109,7 +5083,7 @@ Enigma Software Solutions Limited	London	A	0,4
 Enimed Limited	Pinner	A	0
 EniProgetti SpA	Basingstoke	A	0,4
 Enique IT Solutions Limited	Livingston	A	0
-Eniro Care Limited	Didcot	A	0
+Eniro Care Limited	Didcot	B	0
 Enistic Limited	Oxford	A	0
 ENIXCARE LIMITED	Northampton	A	0
 Enji Technologies	London	A	0
@@ -5133,7 +5107,6 @@ Enlighten Learning Trust	Esher	A	0
 ENLIGHTEN SMILES LTD	London	A	0
 Enlighten Software Limited	London	A	0,4
 ENLIGHTENED CARE GENERATION LTD	Leicester	A	0
-Enlightenment Care Services Ltd	Peterborough	A	0
 Enlim Excavations Ltd	Bellaghy	A	0
 Enliva Homecare Taunton	Taunton	A	0
 ENM Capital Ltd	London	A	0
@@ -5302,6 +5275,7 @@ Enviro-Safety Consultancy Ltd.	London	A	0
 EnviroCentre Limited	Glasgow	A	0
 Envirolec Smart Energy Solutions (London) Limited	Orpington	A	0
 Environ Audio Ltd	London	A	0
+Environ Civil Engineering LTD	Ampthill	A	0
 Environ Consultants Limited	New Mills	A	0
 Environment Agency	York	A	0
 ENVIRONMENT FRIENDLY TYRES LTD	Northampton	A	0
@@ -5320,6 +5294,7 @@ Environmental Investigation Agency International ltd	London	A	0
 Environmental Justice Foundation Charitable Trust	London	A	0
 Environmental Power International (UK) Limited	London	A	0
 Environmental Products and Services Ltd	Newry	A	0
+Environmental Protection Strategies Limited	Cambourne	A	0
 Environmental Resources Management Ltd	London	A	0,4
 Environmental Services Design Limited	Manchester	A	0
 Enviroo Project Co Limited	London	A	0
@@ -5446,6 +5421,7 @@ EPL PROPACK UK LIMITED	Reigate	A	0,4
 EPLOUGH CONSULTING LIMITED	Cambridgeshire	A	0
 EPM	London	A	3
 EPM Environmental Project Management Limited	Brampton	A	0
+Epoch AI Ltd	St Albans	A	0
 Epoch Biodesign Ltd.	London	A	0
 Epoch Blue Ltd	London	A	0
 Epoch Capital Ltd	London	A	0,4
@@ -5475,6 +5451,7 @@ EPS Worldwide Limited	West Drayton	A	0
 Epscot Limited	Pinner	A	0
 Epsilogen Ltd	London	A	0
 Epsilon Education Limited	Dagenham	A	0
+EPSILON HEAT TRANSFER LIMITED	London	A	0
 Epsilon International UK Limited	London	A	0,4
 Epsilon Telecommunications Ltd	London	A	0,4
 Epsom & Ewell Cars Limited	Epsom	A	0
@@ -5491,6 +5468,7 @@ Epta UK Limited	Ringwood	A	0
 Eptg	Uxbridge	A	0
 Eptura International Limited	London	A	0,4
 Epworth Ltd T/A Lalbagh	Cambridge	A	0
+Epyx Ltd	Meriden	A	0
 EQ Hotels Limited	London	A	0
 eQ Technologic (UK) Limited	Solihull	A	0,4
 EQL2 Light	Watford	A	0
@@ -5510,6 +5488,7 @@ EQUALITY SOLUTIONS GROUP LIMITED	Hebburn	A	0
 Equals Collective Limited	London	A	0
 Equals Consulting Ltd	London	A	0
 EQUALS GROUP PLC	London	A	0
+Equation	Nottingham	A	0
 Equation Lighting Design Ltd	London	A	0
 EQUATION SOLUTION LTD	St Albans	A	0
 EQUATIV LTD	Altrincham	A	0
@@ -5657,6 +5636,7 @@ Ernest Doe & Sons Ltd	Maldon	A	0
 ERNEST PARK LTD	Watford	A	0
 ERNIES CONVENIENCE STORE LTD	North Yorkshire	A	0
 Ernst & Young	London	A	0,4,7
+EROGLU FOOD GROUP LTD	Blackpool	A	0
 EROS HOME CARE SERVICES LTD	Southport	A	0
 ERP Data Services Ltd	Milton Keynes	A	0
 ERP Experts (Europe) Limited	Stafford	A	0
@@ -5711,6 +5691,7 @@ Escape London Ltd	London	A	0
 Escapeworld LTD	Leeds	A	0
 ESCATEC Mechatronics Ltd	Lutterworth	A	0,4
 Escentral Limited	Bristol	A	0
+Escher Software Services UK Limited	London	A	0
 Eschler Asset Management LLP	London	A	0
 Eschmann Technologies Ltd	Lancing	A	0
 Esco GB Limited	Barnsley	A	0,4
@@ -5732,8 +5713,8 @@ ESEN EUROPE LTD T/A INTIME FREIGHT SERVICES	Coventry	A	0
 Eseye Ltd	Guildford	A	0
 Esferize UK Limited	London	A	0,4
 ESG Book	London	A	0,4
-ESG Energy Service Group Limited	Edinburgh	A	0
 ESG Global (Energy) Ltd	Chorley	A	0,4
+ESG Security Limited	Solihull	A	0
 ESG360 Risk Management Ltd	Glasgow	A	0
 ESH SUB LTD T/A SUBWAY	Eastbourne	A	0
 ESHA HALAL MEAT LTD	West Bromwich	A	0
@@ -5901,7 +5882,6 @@ ESSO Petroleum Company Ltd	Leatherhead	A	0,4,7
 ESSO RONTEC LEEDS ROAD	Tadcatser	A	0
 Esso Service Station Ardwick	Manchester	A	0
 Esso Wholesale Ltd	Oldham	A	0
-ESSURE TECHNOLOGIES LTD	Coventry	A	0
 Est Horeca Ltd	Glasgow	A	0
 EST-HEALTH LIMITED	Glasgow	A	0
 EST1987 LTD	London	A	0
@@ -6014,7 +5994,7 @@ Ethicare (Durham) Ltd	Durham	A	0
 Ethicare Ltd	Leeds	A	0
 Ethicstar Limited	London	A	0
 Ethigen Ltd.	East Kilbride	A	0
-Ethiks Site Services	Doncaster	A	0
+Ethiks Site Services	London	A	0
 Ethiopian Airlines Group	London	A	4
 Ethiopian Orthodox Tewahedo Kidist Selassie Church Manchester	Salford	A	10
 Ethixbase UK Limited	London	A	0
@@ -6243,7 +6223,6 @@ Europcar Group UK Limited	Leicester	A	0,4
 EUROPE ARAB BANK PLC	London	A	0,4
 Europe Car Service Limited	Sleaford	A	0
 Europe Care Holdings Ltd T/A Berwick House	Blackpool	A	0
-Europe Elevators and Escalators UK Ltd	London	A	2
 EUROPE ENTERTAINMENT LIMITED	London	A	0
 EUROPE HOME DECOR LTD	Southall	A	0
 Europe Home Security Ltd	Newport	A	0
@@ -6379,6 +6358,7 @@ Eve & Adam Consultancy Ltd	Basingstoke	A	0
 Eve After Dark Food Concepts UK Ltd	London	A	0
 Eve Animal Care LTD	Altrincham	A	0
 Eve Johnson Houghton	Blewbury	A	0
+Eve Johnson Houghton Racing Limited	Blewbury	A	0
 Eve Waldron Design	Cambridge	A	0
 EVECOM LTD T/A HOLIDAY INN EXPRESS	Canterbury	A	0
 Evedale Care Limited	Coventry	A	0
@@ -6388,7 +6368,6 @@ Even Arena Ltd	Sunderland	A	0
 Evenco International Limited	London	A	0
 Evendo LTD	London	A	0
 Evening Standard Limited	London	A	0
-Evening Star FR LLP	Fraserburgh	A	0
 Evening Star Limited	London	A	0
 Evenlode Investment Management Limited	Chipping Norton	A	0
 Evenort LTD	Sheffield	A	0
@@ -6431,7 +6410,6 @@ Eveready Carers Limited	London	A	0
 Eveready Hire Limited	Leatherhead	A	0
 Eveready Pharma Ltd T/A Lewis Pharmacy	Ealing	A	0
 Everecoenergy Ltd	Glasgow	A	0
-Everest 1 Limited t/a K2 Balti House	Hemel Hempstead	A	0
 Everest 8 Limited T/A Everest Dine	Hinckley	A	0
 Everest Advisors (UK) Ltd	London	A	0,4
 Everest and Co Accountants Limited	Wolverhampton	A	0
@@ -6678,7 +6656,6 @@ Evremond Estate Ltd	Chilham	A	0
 EVREN METAL UK LIMITED	London	P	2
 Evri Limited	Leeds	A	0,4
 Evron Foods Limited trading as Easibake Foods	Pontypool	A	0,4
-EVRY FINANCIAL SERVICE UK LTD	London	A	0
 Evrythng Limited	London	A	0
 EVS BROADCAST UK Ltd	Bracknell	A	0,4
 Evtec Automotive	Coventry	A	0
@@ -6751,6 +6728,7 @@ Excel Search & Advisory Limited	London	A	0
 Excel Solutions (London) Limited	London	A	0
 Excel Tutors	London	A	0
 Excel24/7 Healthcare Ltd	Rochdale	A	0
+Excelcare Holdings	Bromley	A	0
 Excelcare Holdings	Dover Court	A	0
 Excelcare Holdings	Great Linford	A	0
 Excelcare Holdings	St Ives	A	0
@@ -6759,13 +6737,14 @@ Excelect Limited	Cambridge	A	0
 Excelerate Energy Europe Ltd	London	A	0,4
 Excelerated Procurement Solutions Ltd	London	A	0
 Excelitas UK Ltd	Hamble	A	0,4
+EXCELITY LIMITED	London	A	0
 Excell Care Services Limited	Bedford	A	0
 EXCELL GARMENT CARE LIMITED	Slough	A	0
 Excell Metal Spinning Ltd	Portsmouth	A	0
 Excella IT Solutions Ltd	Hounslow	A	0
 Excelle Home Care	Romford	A	0
 EXCELLENCE BUILDER SERVICES LIMITED	London	A	0
-EXCELLENCE CARE LTD	Basildon	B	0
+EXCELLENCE CARE LTD	Basildon	A	0
 EXCELLENCE DINER LTD T/A EASTERN REVIVE	England	A	0
 EXCELLENCE FOOD LIMITED t/a Bhaji Fresh	Luton	A	0
 Excellence Healthcare	Birmingham	A	0
@@ -6803,7 +6782,6 @@ EXCHANGE 1870 LTD T/a Spice Exchange	Stoke-On-Trent	A	0
 EXCHANGE DATA INTERNATIONAL LTD	London	A	0
 Exchange Events Limited	Congleton	A	3
 Exchange House	Milton Keynes	A	0
-EXCHANGE TECH LTD	Yarm	A	0
 Exchanging Limited T/A Ace Pharmacy	Chessington	A	0
 Excitation & Engineering Service Ltd	Tamworth	A	0
 Excite OOH Ltd	Manchester	A	0
@@ -6906,7 +6884,7 @@ Exodus Trust	Lisburn	A	1,9,10
 ExodusPoint Capital Management UK, LLP	London	A	0,4
 Exogene Limited	Oxford	A	0
 Exolum Pipeline System Limited	London	A	0
-Exonea Health Ltd	Dudley	A	0
+Exonea Health Ltd	Wolverhampton	A	0
 Exor Investments Limited	London	A	0,4
 Exora International Limited	Ruislip	A	0
 EXORDIOR UK LTD	Slough	A	0
@@ -7067,6 +7045,7 @@ EXSUS TRAVEL LIMITED	London	A	0
 Extend Robotics Limited	London	A	0
 EXTENDED LIMITED	London	A	0
 Extension Solutions Ltd	Pinner	A	0
+Extensis Capital Ltd	London	A	0
 Exterior Architecture Ltd	London	A	0
 Extern Northern Ireland	Mallusk	A	0
 External Concepts Limited	London	A	0
@@ -7150,10 +7129,9 @@ Ezeflow United Kingdom Limited	Broxburn	A	0
 Ezgi Catering Ltd t/a Rive Palace Cafe	Hoddesdon	A	0
 EZI TECHNOLOGY LIMITED	East Tilbury	A	0
 EZI Travels & Money Transfer Ltd	Birmingham	A	0
-EZO Charging Limited (UK)	London	A	0
+EZO UKASSET ONE LIMITED	London	A	0
 Ezoic UK Ltd	Newcastle upon Tyne	A	0,4
 EZONE REPAIRS NUNEATON LIMITED	Nuneaton	A	0
-EZONECORNWALL LIMITED	St Austell	A	0
 EZPOST (UK) LTD	London	A	0
 Ezra & Gil LTD	Manchester	A	0
 Ezra Kitchen Limited	London	A	0
@@ -7308,6 +7286,7 @@ Footprint Sports & Entertainment Limited	London	A	0
 For Everybody Limited	Wolverhampton	A	0
 Force Engineering Ltd	Shepshed	A	0
 FORCE HIRE EQUIPMENT UK LTD	England	A	2
+Forest Edge Practice	Chigwell	A	0
 Forest School, Essex	London	A	0
 Forester Holdings (Europe) Limited	Bromley	A	0,4
 Forfar Education Ltd	London	A	0
@@ -7340,7 +7319,6 @@ Fox-Pitt Eventing	Sturminster Newton	A	11
 Foxglove Energy Supply Ltd	Leicester	A	0
 FPCR Environment and Design Limited	Derby	A	0
 Fraen Electric Ltd	London	A	0
-Framework (Edinburgh) Limited	Edinburgh	A	0
 Frank England & Co Limited	Retford	A	0
 Franklin Electric UK Ltd	Ipswich	A	0
 FranklinCovey Europe Limited	Banbury	A	0,4
@@ -7472,7 +7450,7 @@ George Eliot Hospital NHS Trust	Nuneaton	A	0
 George Michael Enterprises Ltd	Essex	A	0
 GEORGE STREET EXPRESS	Croydon	A	0
 George Wood & Sons (Enfield) Ltd T/A Enfield Speciality Doors	Enfield	A	0
-Geosec Ground Engineering Ltd	London	A	0,4
+Geosec Ground Engineering Ltd	Welwyn Garden City	A	0,4
 Geosphere Enterprise Software Ltd	Hyde	A	0
 GERALD ARTHUR ROLPH FOUNDATION FOR HISTORIC AND EDUCTION	Knaresborough	A	9
 Gerald Edelman LLP	London	A	0
@@ -7674,7 +7652,7 @@ Greenhub Eco Service Ltd	Derby	A	0
 GREENLAM EUROPE (UK) LTD	Birmingham	A	0
 Greenland Energy Services Ltd	London	A	0
 GreenLeaf Imports & Exports Limited T/A Greenleaf Catering & Event	Southall	A	0
-Greenlight Engineering Ltd	Merton	A	0
+Greenlight Engineering Ltd	Leatherhead	A	0
 Greenmark Estates LTD	Manchester	A	0
 Greens Environmental	Poulton-le-Fylde	A	0
 Greentek Energy LTD	Coventry	A	0
@@ -7877,6 +7855,7 @@ Heidelberg Engineering Limited	Hemel Hempstead	A	0
 Heidelberg Graphic Equipment Limited	Uxbridge	A	0
 Helena Biosciences Europe	Gateshead	A	0
 Helikon Shipping Enterprises Limited	London	A	0
+HELIOS RENEWABLE ENERGY SOLUTIONS LIMITED	London	A	0
 HELIOSX ENERGY LIMITED	Leamington Spa	A	0
 Helix Equities Ltd	London	A	0
 Hello Ella Limited	Poundbury	A	0
@@ -8044,6 +8023,7 @@ Huco Engineering Industries Ltd	Hertford	A	0
 Huddersfield Cake Box Limited t/as Egg Free Cake Box	Huddersfield	A	0
 Hudson River Trading Europe Ltd.	London	A	0,4
 HUFFAZ TRAVEL EXCHANGE LTD	Horley	A	0
+Hugh and Liam McQuaid T/A Humac Engineering	Omagh	A	0
 Hugh Symons Exchange LTD	Poole	A	0
 Hughes Electronics Ltd	London	A	0
 Hulbert Enterprises Ltd	Shrewsbury	A	0
@@ -8092,6 +8072,7 @@ I Need An Expert Limited	Ashby De La Zouch	A	0
 I&I ENTERPRISES LTD	Birmingham	A	0
 I&R Enterprises Limited	Derbyshire	A	0
 IAE Global UK and Europe Ltd	London	A	0
+IAG UK & EUROPE LTD	Caerphilly	A	1,10
 Iain McKenzie EP Ltd	Ascot	A	0
 iBasis Europe Limited	London	A	0
 IBERIA LINEAS AEREAS DE ESPANA SA OPERADORA	Harmondsworth, West Drayton	A	0
@@ -8109,6 +8090,7 @@ IDIS EUROPE LTD	Brentford	A	4
 IDM ENGINEERING (CHESTER) LIMITED	Ellesemere Port	A	0
 IDRE ESIA FOOD STORE LTD	Glasgow	A	0
 IDX Technology Europe Ltd	Slough	A	0
+IE EVENTING LTD	Godalming	A	11
 IEA Environmental Projects Ltd	Cheltenham	A	0
 IFIX ELECTRICS LTD	London	A	0
 ifm electronic ltd	Hampton	A	0
@@ -8124,6 +8106,7 @@ IIEE Global Engineers Ltd	Essex	A	0
 IIJ Europe Limited	London	A	0,4
 IKA England Ltd	Oxford	A	0
 Ikhlas Education Centre Limited	Derby	A	9
+iLaw Solicitors Limited t/a Culbert Ellis	London	A	0
 Ilchester Estates	Dorchester	A	0
 ILFORD ELECTRICIANS LTD	Ilford	A	0
 ILJIN ELECTRIC UK	Surrey	A	0,2,4
@@ -8582,6 +8565,7 @@ KARTIKHYA ENTERPRISE LTD	Harrow	A	0
 Kashif Iqbal T/A Quick Move Estates	Keighley	A	0
 Kason Europe Limited	Macclesfield	A	0,4
 Kaspas Exeter Ltd	Exeter	A	0
+Katalyzt UK Enterprises Ltd	Accrington	A	0
 KATALYZT UK ENTERPRISES LTD	Preston	A	0
 Katana Entertainment Limited	Manchester	A	0
 KATHERINE ESTATES LIMITED	London	A	0
@@ -8622,6 +8606,7 @@ Kera Enterprises Limited T/A Pages of Hendon	London	A	0
 Keris Enterprise Ltd	London	A	0
 KERRYHILL ENGINEERS LTD T/A NEWSAGENT AND GIFT OF LONDON	London	A	0
 KESAVAN KUMARASAMY T/A EXPRESS NEWS & WINE	Ipswich	A	0
+KESHAV ENTERPRISES LIMITED	Crawley	A	0
 Kew Bridge Engines Trust & Water Supply Museum	Brentford	A	0
 KEY ESG limited	London	A	0
 Key2Move Estates Ltd	Rotherham	A	0
@@ -8891,6 +8876,7 @@ Lewis Mathys Emmerson LLP	London	A	0
 LF Europe Limited	London	A	0,4
 LG Electronics U.K. Limited	Weybridge	A	0,4
 LG RETAIL LTD T/A ESSO	Newton Aycliffe	A	0
+LGM Engineering Limited	Epsom	A	0
 Liaise (East Anglia) Limited	London	A	0
 Liaise (South East) Limited	London	A	0
 Liberty Global Europe Limited	London	A	0,4
@@ -9020,6 +9006,7 @@ London North Eastern Railway	York	A	0
 London School of Economics and Political Sciences Students' Union	London	A	0
 LONDON SCHOOL OF EXCELLENCE LTD	Hornchurch	A	0
 London School of Management Education	Gants Hill	A	0
+LONDON SCHOOL OF SKILLS & ENTREPRENEURSHIP LTD	London	A	0
 LONDON SCHOOL OF TRAINING & EDUCATION LTD	London	A	0
 London South East Academies Trust	Bromley	A	0
 London Star Education LTD	London	A	0
@@ -9075,6 +9062,7 @@ Luminite Electronics Ltd,	London	A	0
 Luminous Energy Ltd	Corsham	A	0
 Lunar Energy Limited	London	A	0
 Lundi Education and Care Services	Burton-on-Trent	A	0
+Lup Events Ltd trading as Lup	London	A	0
 Luscious Edinburgh Ltd	Edinburgh	A	0
 LUSH EMPIRES LTD	Farnborough, England	A	0
 LUTON ENGINEERING SERVICES (SOUTHWEST) LTD	Manchester	A	0
@@ -9203,7 +9191,7 @@ Maral Enterprises Limited	London	A	0
 MARBLE ARCH EXPRESS LTD	London	A	0
 Marcia Edwards t/a ME Dance Company	Stourbrudge	A	3
 Marcus Care Homes Ltd T/A Enstone House	Chipping Norton	A	0
-Marelli Automotive Systems Europe plc	Llanelli	A	4
+Marelli Automotive Systems Europe plc	Llanelli	A	0,4
 Maria Residential Home EMI Ltd	High Wycombe	A	0
 Marian Engineering Ltd	Birtley	A	0
 Marick Real Estate Ltd	London	A	0
@@ -9375,7 +9363,6 @@ Micron Europe Limited	Bracknell	A	0,4
 Micropack (Engineering) Ltd	Aberdeen	A	0
 Microshare Europe Ltd	Maidenhead	A	0
 Mid and South Essex NHS Foundation Trust	Southend On Sea	A	0
-MIDAS (Euro) Limited	Bolton	A	0
 Middle East & European Trading Ltd	Altrincham	A	0
 Middle East Airlines - Air Liban	London	A	0,4
 Middle East News UK Limited	London	A	0,4
@@ -9539,7 +9526,6 @@ Moss Europe Limited	Feltham	A	0
 Motec Europe Limited	Adderbury	A	0
 Motion Europe Ltd	Barking	A	0
 MOTIV ENTERPRISE LTD	London	A	3
-MOTORCYCLE PARTS AND EQUIPMENT LTD	Leicester	A	0
 Motrac Race Engineering Ltd	Chester	A	0
 Motrac Research Engineering Ltd	Chester	A	0
 Mount Everest Restaurant Limited	Bromley	A	0
@@ -10076,6 +10062,7 @@ Outfitters Stores UK Limited (t/a ETHNC)	London	A	0
 Outlook Energy Services Ltd	Bristol	A	0
 Outplay Entertainment Limited	Dundee	A	0
 Outsource Experts Ltd	Nottingham	A	0
+OV Entertainment Ltd.	London	A	0
 Overwatch Mission Critical EMEA Limited	London	A	0,4
 OVG Europe Limited	London	A	0
 Owey Enterprises	Portrush	A	0
@@ -10178,7 +10165,6 @@ Pasta Pit Stop LTD (T/A Emilia's Crafted Pasta)	London	A	0
 PASU ENTERPRISE LTD	Runcorn	A	0
 Patel Events Limited	London	A	0
 Patera Engineering Ltd	Stoke on Trent	A	0
-Pathfinder Clean Energy (PACE) UKDev Ltd	Bristol	A	0
 Pathfinder Clean Energy (PACE) UKDev Ltd	London	A	0
 Pathfinder Educational Limited	Manchester	A	0
 Patisserie East Ltd	London	A	0
@@ -10255,7 +10241,7 @@ PharmaCare (Europe) Limited	Crawley	A	0
 Pharos Energy plc	London	A	0
 Phase Eight (Fashion & Designs) Ltd	London	A	0
 Phase Electrical Distributors Ltd	Eastbourne	A	0
-PHC Europe B.V.	Loughborough	A	0
+PHC Europe B.V.	Runcorn	A	0
 Phetalz Ltd T/A Pharmacy Exprezz	Norfolk	A	0
 PHG Consulting Engineers	Cardiff	A	0
 PHIBOR ENTREPRISES	London	A	0,4
@@ -10324,7 +10310,7 @@ Plan I.T. European Limited T/A The Sun Hotel	Cumbria	A	0
 Planet Circus Equipment Limited	Grantham	A	3
 PLANET EDUCATION NETWORKS LTD	London	A	0
 PLASTIC EXTRUDERS LTD	Wickford	A	0
-Platinum Equity Advisors International (UK) Limited	London	B	0,4
+Platinum Equity Advisors International (UK) Limited	London	A	0,4
 PLATINUM EXEC TRANSFERS LTD	Swindon	A	0
 PLATINUM EXPRESS CARE PLUS LTD	Liverpool	A	0
 PlayersLounge Esports Newco Ltd	Manchester	A	0,4
@@ -10476,10 +10462,11 @@ Project Etopia	London	A	0
 Projects Expert UK Limited	Watford	A	0
 PROLITE ENTERPRISES LTD	Barking	A	0
 Prometheus Enterprises U.K. Limited	Leeds	A	0,4
-Property Finders Real Estate Limited	Mayfair, London	A	0
+Property Finders Real Estate Limited	Oxfordshire	A	0
 Proquant Estimating Limited	Macclesfield	A	0
 PROS Europe Limited	London	A	0,4
 Prospect Education (Technology) Trust	London	A	0
+Prosper and Enterprise Limited	Oxted	A	0
 Protean Electric Limited	Farnham	A	0
 Protegrity Europe Limited	London	A	0,4
 Proteintech Europe Limited	Manchester	A	0
@@ -10511,7 +10498,6 @@ Purely Energy Ltd	Warrington	A	0
 Puretech Environmental Ltd	Cranleigh	A	0
 PURPLE ESTATE AGENTS LTD	Birmingham	A	0
 Purple Eye Limited T/A Paysii	London	A	0
-Purple Garden SQ Entertainment Ltd	Canterbury	A	0
 PURPOSE EUROPE LIMITED	London	A	0,4
 Pury Erskine Ltd	London	A	0
 PUSULA CUSTOMER EXPERIENCE UK LTD	London	A	0,4
@@ -10560,7 +10546,6 @@ R & E Quinn	Port Isaac	A	0
 R & H Enterprises Limited	West Sussex	A	0
 R & Q Retail Ltd T/A Lifestyle Extra	Falkirk	A	0
 R & R Enterprises Ltd	London	A	0
-R AND S (SOUTH EAST) DEVELOPMENTS LIMITED	Maidstone	A	0
 R H Enterprise	London	A	0
 R J Emmanuel Ltd	Basildon	A	0
 R J Eyecare Limited	London	A	0
@@ -10662,6 +10647,7 @@ Red Eyewear Ltd	Mortlake	A	0
 RED LIONS ESTATE LTD	Richmond	A	0
 Red Rock Estate and Property Management Limited	Beaumont	A	0
 Reda Energy Ltd	Westhill	A	0
+Redcoat Express Limited	Crawley	A	0
 Redeemed Christian Church of God Emmanuel Christian Centre	Belfast	A	1,10
 Redford Education International Ltd	Guildford	A	0
 Redis EMEA Ltd.	London	A	0,4
@@ -10916,7 +10902,6 @@ Safri Enterprise KH Ltd	Luton	A	0
 Sagan Enterprises LTD	Hastings,	A	0
 SAGAR VYAS WEDDINGS & EVENTS LTD	London	A	0
 SAGlobal Europe Ltd	Cardiff	A	0,4
-SAGYE E14 LIMITED	London	A	0
 SAI EAST HAM LTD	London	A	0
 SAI ENGINEERING SERVICES LTD	Bristol	A	0
 SAI ENTERPRISE LTD	Greenford	A	0
@@ -11096,7 +11081,6 @@ Sera Global Europe Holdings Limited	London	A	0,4
 SERAPH ESTATES (CARDIFF) LTD	Cardiff	A	0
 SERENA EURO LTD	Ruislip	A	0
 Serena Investments Limited T/A Holiday Inn Express London Heathrow T5	Slough	A	0
-Serenissima Energy Ltd	London	A	0
 Serenity Education Group	Eltham	A	0
 SERGIO ENTERPRISES LIMITED	Swindon	A	0
 Serica Energy PLC	Aberdeen	A	0
@@ -11174,7 +11158,6 @@ Shimadzu Research Laboratory (Europe) Ltd	Manchester	A	0,4
 Shin-Etsu Handotai Europe Limited	Livingston	A	0,4
 Shinetech Europe Ltd.	London	A	0,4
 Shining Eyes Limited	London	A	0
-Shining Eyes Ltd t/a Baroque Hair and Nails	London	A	0
 Shinwari Express Limited	Ilford	A	0
 SHINWARI UK ENTERPRISE LTD	London	A	0
 Shiraz Creative Europe Limited	London	A	0
@@ -11386,7 +11369,6 @@ South East Focus Care ltd	Southampton	A	0
 SOUTH EAST FOODS LTD	Bordon	A	0
 South East London Catholic Academy Trust	Croydon	A	0
 South East London Mind	Orpington	A	0
-South East Psychology CIC	London	A	0
 South East Surrey Schools Education Trust	Dorking	A	0
 South East Water Limited	Snodland	A	0
 South Eastern Health and Social Care Trust	Lisburn	A	0
@@ -11507,7 +11489,6 @@ SS GLOBAL PVT LTD T/A ESSO BROOKLANDS SERVICE STATION	Dorking	A	0
 SSANGYONG ENGINEERING & CONSTRUCTION UK LTD.	Middlesbrough	A	0,4
 SSE - Sofiter System Engineering UK Limited	Preston	A	0
 SSG NORTH EAST LIMITED	Southshields	A	0
-SSR London Enterprises Ltd t/a Raj of Kensington	London	A	0
 St Benedict's School Ealing	Ealing	A	0
 ST CONSTRUCTION EUROPE LTD	Newport	A	0
 St Davids International Education Limited	London	A	0
@@ -11567,7 +11548,7 @@ Stanley Park Evangelical Free Church	Carshalton	A	1,9,10
 STAR ENERGY GROUP LTD	Sudbrooke	A	0,4
 Star English LTD	London	A	0
 STAR ESTATES AND LETTINGS LTD	London	A	0
-Star Micronics Europe Ltd	High Wycombe	A	0,4
+Star Micronics Europe Ltd	Aylesbury	A	0,4
 STAR OF EAST MOLESEY LTD	Surrey	A	0
 STAR PLUS ESTATE AGENTS AND PROPERTY MANAGEMENT UK LIMITED	Greenford	A	0
 Star Premier Express	Epsom, Surrey	A	0
@@ -11626,7 +11607,7 @@ Stolle Europe Ltd	Carlisle	A	0,4
 Stonewall Equality Limited	London	A	0
 STONEWEG EUROPEAN MANAGEMENT SERVICES LIMITED	London	A	0,4
 STOP N SHOP EXPRESS LTD	Paisley	A	0
-Stora Enso UK Ltd	London	A	0,4
+Stora Enso UK Ltd	Birmingham	A	0,4
 Storm Entertainment Group Limited	London	A	3
 Stormtech Europe Limited	London	A	0,4
 Stormway Enterprises Limited	London	A	0
@@ -11640,7 +11621,7 @@ Stramash Social Enterprise	Inverness	A	0
 Strand Europe Ltd	Fleet	A	0
 Strata Edge Enterprises Ltd	Dorchester	A	0
 Stratavis Engineering LTD	Ilford	A	0
-Strathos Energy Ltd	Leeds	A	0
+Strathos Energy Ltd	Chorley	A	0
 Street Eats Ltd	Twickenham	A	0
 STRIDE CONSULTING ENGINEERS LTD	London	A	0
 Strides Equestrian Limited	Croft	A	11
@@ -11717,6 +11698,7 @@ SUPPORTED LIVING ENABLEMENT SERVICES LTD	Basingstoke	A	0
 Supporting care North East Branch Ltd	London	A	0
 Surbiton Hockey Club Enterprises	Long Ditton	A	11
 Sure Energy Solutions Ltd	Wirral	A	0
+Surecare Enfield	Enfield	B	0
 Sureyan Express Limited	Carshalton	A	0
 Surf Break Entertainment Ltd	London	A	0,4
 Surfing Giant Europe Ltd	Altrincham	A	0
@@ -11895,6 +11877,7 @@ Tennessee Express	Northolt	A	0
 Tenpin Entertainment Limited	Cranfield	A	0
 Terasaki Electric (Europe) Limited	Glasgow	A	0,4
 Ternan Energy Limited	Aberdeen	A	0
+TERO ENERGY LIMITED	London	A	0
 Terra Cotta Warriors Elephant & Castle Ltd	London	A	0
 TERRA ENABLING DEVELOPERS LIMITED	London	A	0
 TES Education Ltd	London	A	0
@@ -12130,7 +12113,6 @@ The New England Guest Homes Ltd	Eastbourne	A	0
 The Noble Tribe Events Ltd T/A Holy Carrot	London	A	0
 THE OLD HALL HOTEL( COVENTRY) KALIA EMPIRE LTD	Coventry	A	0
 The Old Rectory (Ewhurst) Co. Limited	Ewhurst, Cranleigh	A	0
-The Orchard Media & Events Group	Cardiff	A	0
 The Oxford Evangelical Pastorate	Oxford	A	1,10
 The Parochial Church Council of Ecclesiastical Parish of Fisherton Anger (St Paul), Salisbury	Salisbury	A	1
 The Parochial Church Council of the Ecclesiastical Benefice of Totton	Southampton	A	0,10
@@ -12153,6 +12135,7 @@ The Parochial Church Council of the ecclesiastical parish of Saint Mary, Islingt
 THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF SAINT MICHAEL AND ALL THE ANGELS, CLAVERDON	Claverdon	A	1
 The Parochial Church Council of the Ecclesiastical Parish of Sonning	Sonning	A	1,10
 The Parochial Church Council of the Ecclesiastical Parish of St Andrew's Oxford	Oxford	A	10
+The Parochial Church Council of the Ecclesiastical Parish of St Barnabas Woodside Park	London	A	0
 THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST EDMUND THE KING, ST MARY WOOLNOTH AND ST CLEMENT EASTCHEAP	London	A	0,9,10
 The Parochial Church Council of the Ecclesiastical Parish of St James, Westminster	London	A	0
 THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST JOHN THE BAPTIST LEYTONSTONE	London	A	1
@@ -12263,7 +12246,6 @@ THUNDER ENERGY LTD	London	A	0
 Thurlow Educational Trust	London	A	0
 Thurnby Express	Leicester	A	0
 Thyme Southrop Estates Ltd	Lechlade	A	0
-thyssenkrupp System Engineering Ltd	East Grinstead	A	0
 Tiba Architectural & Engineering services ltd.	London	A	0
 Tibra Trading Europe Ltd	London	A	0,4
 Tide Energy Ltd	Rochdale	A	0
@@ -12323,6 +12305,7 @@ Top Move Estate Agents Limited	Croydon	A	0
 TOPAZ AND EZE FAMILY OFFICE LIMITED	London	A	0
 Topcast Aviation Europe Ltd	Hemel Hempstead	A	0
 TOPCON GREAT BRITAIN MEDICAL, BRANCH OF TOPCON EUROPE MEDICAL B.V	Newbury	A	0,4
+Topframe Engineering Ltd	Magherafelt	A	0
 Topline Electronics Ltd	Hailsham	A	0
 Topps Europe Limited	Milton Keynes	A	0,4
 Toptour Europe Limited	London	A	4
@@ -12612,6 +12595,7 @@ Urban Edge Architecture Limited	Stamford	A	0
 Urban Environments Limited	Sevenoaks	A	0
 Urban Excess Limited	London	A	0
 URBAN LINK ESTATES LIMITED T/A URBAN LINK	Walsall	A	0
+Urbanchain Enterprise Logistics Limited	Manchester	A	0
 Urgent Electrical Services Limited	Nottingham	A	0
 US-UK Educational Commission (US-UK Fulbright Commission)	London	A	0,12
 USAVE EDINBURGH LIMITED T/A USAVE	Edinburgh	A	0
@@ -12630,7 +12614,6 @@ V M Express	London	A	0
 V M Media and Entertainment Ltd	London	A	0
 V&J Billington Ltd trading as Bluebird Care Elmbridge & Runnymede	Shepperton	A	0
 V.N. ELECTRICALS LTD	Harrow	A	0
-V3 BUSINESS SOLUTIONS LTD T/AS SOUTH ESK SERVICE STATION SHELL	Montrose	A	0
 VAALCO Energy Inc	London	A	0
 Vail Williams Employment Services Limited	Southampton	A	0
 VAK ENTERPRISE LIMITED	Houghton Regis	A	0
@@ -12659,6 +12642,7 @@ Vansh Enterprise Ltd	Windsor	A	0
 Varadero Capital Europe LLP	London	A	0
 Varde Partners Europe Limited	London	A	0,4
 VARSITY AV & EVENTS LIMITED	London	A	0
+VARYNIA EUROPE LTD	London	A	0,4
 VASANAD ENGINEERING SERVICES PRIVATE LIMITED	Cheltenham	A	0
 VASTALE ENGINEERING LIMITED	Newcastle Upon Tyne	A	0
 Vaughan Ergonomics Limited	Halifax	A	0
@@ -12743,7 +12727,6 @@ Vista Health Europe LTD	Gaerwen	A	0
 Visteon Engineering Services Ltd.	Chelmsford	A	0,4
 Vistra International Expansion Limited	London	A	0
 Visual Comfort Europe Limited	Shoreham-by-Sea	A	0
-VITA AND EAGLES EVENTS LTD	London	A	3
 VITAL CARE SERVICES NORTH EAST LIMITED	Bedlington	A	0
 Vital Energi Utilities Ltd	Blackburn	A	0
 Vital Europe UK Ltd	London	A	4
@@ -12830,6 +12813,7 @@ Wavereley Education Foundation Trust	Birmingham	A	0
 Waxman Energy Ltd	Elland	A	0
 Waygood Real Estate Limited	Swansea	A	0
 Wayne Kerr Electronics Ltd	Bognor Regis	A	0
+WAYNE TECHNOLOGY ENTERPRISES LTD	Walthamstow	A	0
 Wayside Lodge Equestrian LTD	Leicester	A	0
 WAZIRI ENTERPRISES LTD	Hampshire	A	0
 wca environment Ltd	Faringdon	A	0
@@ -12912,6 +12896,7 @@ Wick Entertainment Limited	Manchester	A	0
 Wicket Electronic Limited	London	A	0
 WIDLEY EXPRESS	Hampshire	A	0
 WILD EMBER GROUP LIMITED	London	A	0
+Wild Lives Earth Limited	Cambridge	A	0
 Wildfire Entertainment Ltd t/a Oblix	London	A	0
 Wildpark Entertainment Ltd	London	A	3
 Wileman Engineers Ltd	Ashby de la Zouch	A	0
@@ -12926,7 +12911,6 @@ Willmotts Ealing Limited	London	A	0
 Willow Equity Management Limited	Chertsey	A	0
 Willowcity Estates Limited	Hertford	A	0
 Wills Bros Civil Engineering Ltd	Motherwell	A	0
-Wills Enterprises limited	Ayrshire	A	0
 Wilson Architectural Engineering Ltd	Orpington	A	0
 Wilson Elser Limited	London	A	0,4
 Wilson Tool International (Europe) Ltd	Swindon	A	0,4

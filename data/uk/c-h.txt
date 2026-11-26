@@ -10,7 +10,6 @@
 1885 the Venue Ltd	Halifax	A	0
 1SA LIMITED T/A Subway	Hammersmith	A	0
 1st Line Defence Ltd	Hoddesdon	A	0
-1stCurve Limited	Hockley	A	0
 2399098 Ontario Inc o/a MAK Consulting Group	High Wycombe	A	0
 24 Seven Civil Engineering Ltd	Harrow	A	0
 247 IT SERVICES LIMITED	Hamshire	A	0
@@ -36,7 +35,6 @@
 5S STORE LTD	Hinckley	A	0
 5th Floor	Hounslow	A	0
 6INTO7 Ltd	Halifax	A	0
-7 Star Consultancy Limited	Hounslow	A	0
 7 Star Ltd	Hayes	A	0
 7 TO 7 NEWS LIMITED T/A PREMIER STORE	Herne Bay	A	0
 80six productions Limited	High Wycombe	A	0
@@ -164,7 +162,6 @@ Addison House Surgery	Harlow	A	0
 ADENCAST LIMITED	Hemel Hempstead	A	0
 Adeptis Group	Hailsham	A	0
 ADF Foods UK Limited	Harrow	A	0
-ADHAM HOTELS LTD	Huddersfield	A	0
 ADHD CERTIFY LTD	Hinckley	A	0
 Adler & Allan Limited	Harrogate	A	0
 ADMIN & FINANCIAL CONTROLS LTD	Huddersfield	A	0
@@ -181,12 +178,10 @@ Advanced Fabrications (London) Ltd	Hanwell, London	A	0
 Advanced Plastics	Hull	A	0
 ADVANCED SEALED UNITS LIMITED	Hatfield	A	0
 ADVANTAGE HOTELS (WALSALL) LTD	Harrow	A	0
-Advent Care Solutions Ltd	Harrow	A	0
 Advent Estates Ltd t/a Field Farm House Residential Home	Herefordshire	A	0
 ADVENT FINANCIAL SERVICES LTD	Harrow	A	0
 Adventoris Ltd	Huddersfield	A	0
 Advertising Principles Holdings ltd t/a Fusion Unlimited	Headingley	A	0
-Advita Ltd T/As Smart food and wine	Hampshire	A	0
 AE Portsoken Asset Management Ltd	Hampstead	A	0,4
 Aegean Airlines SA	Hounslow	A	0,4
 Aerius Marine UK Ltd	Hartlepool	A	0
@@ -278,7 +273,6 @@ ALFA HOME EXTENSIONS LTD	High Wycombe	A	0
 Ali Baba Magic Ltd	Hounslow	A	0
 ALIGHT FIRE SYSTEM LIMITED	Harrow	A	0
 Alina & Jamila London Ltd	Havering	A	0
-Alison Education UK Ltd.	Houslow	A	0,2
 All Conditions Media Ltd	Hove	A	0
 ALLANDALE CARE GROUP LIMITED	Heswall, Wirral	A	0
 ALLAWAY HEALTHCARE LIMITED	Hampshire	A	0
@@ -290,6 +284,7 @@ Alliance Dental Care Limited	Hertfordshire	A	0
 Alliance for Better Care CIC	Horley	A	0
 ALLIED LOGISTICS LTD	Hayes	A	0
 Alliot Technologies Limited	Huddersfield	A	0
+Allneeds Building & Construction Depot Limited T/a ABC Depot	Hatfield	A	0
 allpay Limited	Hereford	A	0
 Allurehairandbeauty Limited T/A Allure Hair and Beauty	Hounslow	A	0
 Almo Financials Limited	Huddersfield	A	0
@@ -307,7 +302,6 @@ Alston Elliot	Hemel Hempstead	A	0
 Alternative Airlines	Horley	A	0
 ALTERNATIVE RESIDENTIAL CAPITAL GROUP LTD	Harrow	A	0
 Alto Cars Ltd	Hartley Wintney	A	0
-Altomart Ltd	Harrow	A	0
 Altus Technologies Ltd	Horsham	A	0
 Alubadia Orphanage	Halifax	A	9
 ALUMNI VENTURES UK, LLP	Harrow	A	0
@@ -392,7 +386,6 @@ APC CARE LIMITED	Hailsham	A	0
 Apex Consults Limited	Harlow	A	0
 APEX REPAIR & MAINTENANCE LTD	Hounslow	A	0
 APM 51 LIMITED T/A PAMBER HEATH STORE	Hampshire	A	0
-Apna Tyres Ltd	Halifax	A	0
 Apollo Fire Detectors Limited	Havant	A	0,4
 APOLLO MINIBUSES	High Wycombe	A	0
 Apollo Strategic Communications Limited	Helsby	A	0
@@ -475,7 +468,6 @@ Ashvin Trading Ltd	Holyhead	A	0
 ASI TRADERS LIMITED	High Wycombe	A	0
 Asia Logistics Services (UK) Ltd	Hayes	A	0
 ASIAN FOOD STORE	Herts	A	0
-ASIAN KITCHEN HULL LIMITED	Hull	A	0
 Asian People's Disability Alliance Ltd	Harlesden	A	0
 ASIAN TRADERS LTD	Hayes	A	0
 ASL SERVICES AND MANAGEMENT LTD	Hounslow	A	0
@@ -566,7 +558,6 @@ Axiom Care Support Limited	Hemel Hempstead	A	0
 Axiom Home Care Limited	Hemel Hempstead	A	0
 AXIS PHYSIOTHERAPY LTD	Harrow	A	0
 Axisplus Ltd T/A Zetor	Hinckley	A	0
-AZA HOMEIMPROVEMENT LIMITED	High Wycombe	A	0
 Azaan Express Ltd	Hounslow	A	0
 Azam Bros Ltd	Hunstanton	A	0
 AZAM KHAN T/A MAS TYRES	Huddersfiled	A	0
@@ -599,7 +590,6 @@ Baldwin Technical Services Limited	Heywood	A	0
 Balkh Resturant Ltd	Harrow	A	0
 Baltzersens Ltd	Harrogate	A	0
 BAM Construct & Ventures UK Ltd	Hemel Hempstead	A	0,4,7
-Bamboo House Ltd t/a Bamboo House	Harrow	A	0
 bambooh Hook Norton Ltd	Hook Norton	A	0
 BANCON-IT LTD.	Harrow	A	0
 Bancroft medical Centre COURTENAY HOUSE	Hitchin	A	0
@@ -657,7 +647,6 @@ Beechwood Medical Centre	Halifax	A	0
 BEEKAY ELECTRICAL LIMITED	Heckmondwike	A	0
 Bella Roma Berettoni Ltd	Haverfordwest	A	0
 Bellevue Wine Ltd	Hartlepool	A	0
-Bellhouse Care Home Ltd	Huddersfield	A	0
 BELLINI'S ITALIAN RESTAURANT LIMITED	Heywood	A	0
 Bells Home Care LTD	Hornsea	A	0
 Belmont medical centre	Hereford	A	0
@@ -702,7 +691,6 @@ Beyonk Ltd	Hatfield	A	0
 BG AIDA IMPORT EXPORT LIMITED	Hoddesdon	A	0
 BG Betterspoons Ltd	Haverfordwest	A	0
 BGGM LIMITED	Harlow	A	0
-BH Electrical Services Ltd	Huddersfield	A	0
 Bhalla Petroleum Limited	Huntingdon	A	0
 BHARTI ENTERPRISE LTD	Harrow	A	0
 Bhatti Cuts Limited	Hockley	A	0
@@ -721,7 +709,6 @@ Billington Carers Ltd	Hedge End	A	0
 Bilton Store	Hull	A	0
 BIM DEPARTMENT LTD	Halifax	A	0
 Binary IS Limited	Harrogate	A	0,4
-BinSina Limited	Harrow	A	0
 Biovantic Medical Limited	Hitchin	A	0
 Birchgrove Management Services Limited	Hook Heath	A	0
 Birchlands (Haxby) Limited	Haxby	A	0
@@ -738,7 +725,6 @@ Bishop's Hatfield Girls' School	Hatfield	A	0
 BISMILLAH GROUP HEMEL LIMITED T/A ALYA'S	Hemel Hempstead	A	0
 Bismor care homes ltd	Hessle	A	0
 Biz Accounting Ltd	Harrow	A	0
-Bizbell Ventures Limited	Harrow	A	0
 BJK GLOBAL CONSULT LTD	Huddersfield	A	0
 BJMCA Ltd trading as Bluebird Care (South Lanarkshire)	Hamilton	A	0
 BK Restaurant(Yorkshire) Ltd	Hallifax	A	0
@@ -768,6 +754,8 @@ Blue Safire Ltd	Harrow	A	0
 Bluebell Place Limited	Harrow	A	0
 Bluebell Residential Home Ltd	Hull	A	0
 Bluebird IT Solutions Limited	High Wycombe	A	0,4
+BLUEGRID TECHNOLOGY LTD	Hemel Hamstead	A	0
+Blueline Enterprise Limited	Harrow	A	0
 Bluesmart Ltd	Hertfordshire	A	0
 BLUEWATER CARE LIMITED	Huddersfield	A	0
 BluWin Limited	Huddersfield	A	0
@@ -877,8 +865,6 @@ Brownlow Enterprises Limited	Highams Park	A	0
 Brownroyd Motors ltd	Heywood	A	0
 Brownscombe House	Haslemere	A	0
 Brunswick Coffee Ltd	Hackney	A	0
-BRUNSWICK EAST LTD	Hackney	A	0
-BRYTER Services UK Limited	Holborn	A	0,4
 BS Care Limited	Havant	A	0
 BS Fitted Furniture Ltd	Hayes	A	0
 BS KITCHEN & BEDROOM LTD	Hayes	A	0
@@ -955,6 +941,7 @@ Cake House High Wycombe Ltd	High Wycombe	A	0
 Cakebox Cranford Ltd TAs Egg Free Cake Box	Hounslow	A	0
 CAKECO LTD	Hayes	A	0
 cakehut ltd	Hatfield	A	0
+Cakes & Dreams Limited	Haydock	A	0
 Cakes Incorporated Ltd TA Cake Box	Hull	A	0
 Calder High School	Hebden Bridge	A	0
 Caldera Heat Batteries Limited	Hants	A	0
@@ -996,7 +983,6 @@ Cardens Business Advisers	Hove	A	0
 CARDIAC DPOW LIMITED	Hessle	A	0
 Cardinal Pole Catholic School	Hackney	A	0
 Care Assist Limited	Harrow	A	0
-Care at your home LTD	High Wycombe	A	0
 Care Education Ltd T/A Staffing Connect	Hounslow	A	0
 CARE EMBASSY CONSULTANCY AND TRAINING LTD	Hatfield	A	0
 Care Just 4U Limited	Harlow	A	0
@@ -1087,6 +1073,7 @@ Charlesworth Publishing Services Ltd	Huddersfield	A	0
 CHARLIES FROZEN FOOD & CONVENIENCE STORE LTD	Hartlepool	A	0
 Charnwood Country Residence	Hereford	A	0
 Charter Green Limited	Harrow	A	0
+Charter HCP Limited	Hertford	A	0
 Charterfields (Huddersfield) Limited	Huddersfield	A	0
 CHAVES LLP	Hertford	A	0
 CHECKEDCARS LIMITED	Henley-In-Arden	A	0
@@ -1105,7 +1092,6 @@ Chestnut House Nursing Home Ltd	Hope, Flintshire	A	0
 Chickanos Family Limited T/A Chickano's Huddersfield	Huddersfield	A	0
 Chicken Cottage Rayners Lane	Harrow	A	0
 CHICKEN GEORGE (HITCHIN) LIMITED T/A CHICKEN GEORGE	Hitchin	A	0
-Chigwell Window Centre Limited	Hainault	A	0
 Childcare & Learning (Holdings) Ltd	Horley	A	0
 CHILLI BALTI LTD, T/A KASHMIR BALTI	Haywards Heath	A	0
 Chilli Hove Limited	Hove	A	0
@@ -1135,6 +1121,7 @@ CID Civil & Surfacing Ltd	Harlow	A	0
 CINEMATICS BY TAHA LTD	Huddersfield	A	0
 CIRCULAR ECOLOGY LTD	Hove	A	0
 Cirrus Research plc	Hunmanby	A	0
+CIS Equestrian Livery Limited	Hyde	A	0
 Cistercian Monastery Nunraw	Haddington	A	1
 CiTECH Energy Recovery Solutions UK Ltd.	Hessle	A	0
 Citizens Advice Richmond	Hampton	A	0
@@ -1302,7 +1289,6 @@ Crown Aggregates Ltd	Hartshill, Nuneaton	A	0
 CROWN CARE SOLUTIONS LTD	Hampshire	A	0
 CROWN FOODS (HAYES) LTD	Hayes	A	0
 CROWN LINEN HIRE LTD	Hornchurch	A	0
-Crown Pharmacovigilance Limited	Hatfield	A	0
 Crown Resourcing Limited	Houslow	A	0
 Crown Roofing and Cladding UK Ltd	Hammersmith	A	0
 Crowns Venues Ltd	Henfield	A	0
@@ -1335,6 +1321,7 @@ D & B HAULAGE LTD	Hounslow	A	0
 D J MITCHELL LIMITED	Hornsea	A	0
 D&A ENGINEERING LTD	Hitchin	A	0
 D&H BROTHERS LTD TRADING AS ICKLEFORD STORE	Hitchin	A	0
+D&I FOODS LTD	Hounslow	A	0
 D-Link (Europe) Limited	Harrow	A	0,4
 D2D Foods Ltd	Hounslow	A	0
 DA Systems Ltd	High Wycombe	A	0
@@ -1400,6 +1387,7 @@ DELHI SPICE COTTAGE LTD T/A BOMBAY SPICE	Heathfield	A	0
 Delicious Pizza London Limited T/A Herbies Pizza	High Wycombe	A	0
 Delight Global Logistics UK Ltd	Harrogate	A	0
 Delta Air Lines Inc	Hammersmith	A	0,4
+DELTA CARAVANS INTERNATIONAL LTD	Hull	A	0
 Delta Electronics (UK) Ltd	Hemel Hempstead	A	0,4
 Delta Slaley Hall Op Co Limited Slaley Hall Hotel	Hexham	A	0
 DELTABASE COMMUNICATIONS LIMITED	Hounslow	A	0
@@ -1574,7 +1562,6 @@ E W Foods Limited	Hounslow	A	0
 E&B Collective LTD T/A The Gin Tub	Hove	A	0
 E&T Holdings Limited	Harlow	A	0
 E-COM GLOBAL TRADING LTD	Hoddesdon	A	0
-E-Service (Europe) Ltd	Hatfield	A	0
 E7 Installations Ltd	Harrow	A	0
 Ealing Homecare Ltd	Harrow	A	0
 Eamal LTD t/a At Home Care	Hemel Hempstead	A	0
@@ -1647,7 +1634,6 @@ Eligarf Technologies (UK) Limited	Harrow	A	0,4
 ELIM TAMIL MINISTRIES	Harlow	A	0,1,9,10
 ELITE ACCOUNTANCY LTD	Harrow	A	0
 ELITE CHAUFFERS LTD	Hayes	A	0
-Elite Cleaning and Facility Services Limited	Hounslow	A	0
 Elite Home Care Services Ltd	Hartlepool	A	0
 ELIXIA HEALTHCARE LTD	Hook	A	0
 Elizabeth Courtauld Partnership	Halstead	A	0
@@ -1686,7 +1672,6 @@ Enabling Futures Ltd	Hyde	A	0
 Enactor Limited	Hertford	A	0
 ENCASA LIMITED	Hull	A	0
 Encocam Limited	Huntingdon	A	0
-Encocam Ltd	Huntingdon, Cambs	A	0
 Encore Software Limited	Horsham	A	0
 Ency Care LTD	Hoddesdon	A	0
 Endurance Care Limited	Harrietsham	A	0
@@ -1750,7 +1735,6 @@ EUROPTIMA EUROPE LIMITED	Harrow	A	0
 Eurotec motors	Harrow	A	0
 EUSA Pharma Ltd	Hemel Hempstead	A	0,4
 Eveevo Limited	High Wycombe	A	0
-Everest 1 Limited t/a K2 Balti House	Hemel Hempstead	A	0
 Everest 8 Limited T/A Everest Dine	Hinckley	A	0
 Everest House Surgery	Hemel Hempstead	A	0
 Everfresh Limited	Harrow	A	0
@@ -1984,7 +1968,6 @@ Futture Homes Limited	Harrow	A	0
 Future Connect Media	Harrow	A	0
 Future Industrial Services Limited	Honiton	A	0
 FUTURE MUSIC RECORDS LIMITED	Hayes	A	3
-Futuristic Technologies Ltd	Hounslow	A	0,6
 Fuxin Express(UK) International Ltd	Hemel Hempstead	A	0
 G & A Foods Limited T/A Food & Wine	Hayes	A	0
 G . F . SMITH & SON (LONDON) LIMITED	Hull	A	0
@@ -2020,7 +2003,6 @@ GALAXYSLIDINGDOORS LTD	Hayes	A	0
 Galeta Bakery LTD	Hayes	A	0
 GALLANT GLOBAL LIMITED	Hyde	A	0
 Gallery Dental Practice Ltd	Haywards Heath	A	0
-Galloways Accounting (Hove) Limited	Hove	A	0
 Gama Healthcare Ltd	Hemel Hempstead	A	0
 Game Measure Ltd T/A The Prince of Wales Uxbridge	Hillingdon	A	0
 Gamma Systems Ltd	Harlow	A	0
@@ -2152,6 +2134,7 @@ GOLD CROSS CHILDREN'S HOME LTD	Harlow	A	0
 GOLD FRONT LIMITED T/A DESHI SPICE	Hertfordshire	A	0
 Gold Plant Haulage Limited	Hambleton	A	0
 Goldcrest Guarding Security Services Ltd	Havant	A	0
+GOLDEN GALLEON LIMITED	Hereford	A	0
 GOLDEN PATH SOLUTIONS LTD	Herefordshire	A	0
 Golden Sip Northolt Ltd	Harrow	A	0
 GOLDEN STARS TRADING LIMITED	Hayes	A	0
@@ -2299,6 +2282,7 @@ Hallite Seals International Limited	Hampton	A	0,4
 Halstead Cricket club	Halstead	A	11
 Hambledon Wineries Ltd	Hambledon	A	0
 Hambleton Village Off Licence	Hambleton	A	0
+Hamilton & Pollock 2012 Limited T/A HDKP	Hertfordshire	A	0
 Hamilton Academy	High Wycombe	A	0
 Hamilton Dental Centre	Hamilton	A	0
 Hamilton Specialist Referrals Ltd	High Wycombe	A	0
@@ -2386,7 +2370,6 @@ HARTFIELD STORES LTD T/A HARTFIELD STORES	Hartfield	A	0
 Hartlepool Cricket Club	Hartlepool	A	11
 Hartlepool Specsavers Ltd	Hartlepool	A	0
 HARTLEYS STORE LIMITED	Havant	A	0
-Hartrose Associates ltd	Huddersfield	A	0
 HARVEC LIMITED	Hertfordshire	A	0
 Harvest Christian Fellowship t/a Harvest Church	Hamilton	A	1
 Harwich Chicken Ltd	Harwich	A	0
@@ -2440,6 +2423,7 @@ Hayes Store ltd T/A SADDA Superstore	Hayes	A	0
 Hayfield Primary School	Hayfield	A	0
 Hayley Group Ltd	Halesowen	A	0
 Haylo M&E Limited	Harrow	A	0
+HAYNOTE LIMITED	Hampshire	A	0
 Hayward & Green Aviation Limited	Henfield	A	0
 Haywards Heath Cricket Club	Haywards Heath	A	11
 HAYWARDS HEATH SUSHI LTD	Haywards Heath	A	0
@@ -2516,7 +2500,6 @@ Herefordshire Council	Hereford	A	0
 Herefordshire, Ludlow and North Shropshire College	Hereford	A	0
 Heriots Online Limited	Harrow	A	0
 Heritage Staffing Services Limited	Harlow	A	0
-Herman Claude Ltd	Harrow	A	0
 Herne Bay High School	Herne Bay	A	0
 Herne Bay Mini Market Ltd	Herne Bay	A	0
 Herrco Cosmetics	Halesworth	A	0
@@ -2683,7 +2666,6 @@ HUDDERSFIELD CHA CHA CHAI HAIDERY LTD	Huddersfield	A	0
 Huddersfield Giants Ltd	Huddersfield	A	11
 HUDSON (LORNE) LIMITED	Hamilton	A	0
 HUFFAZ TRAVEL EXCHANGE LTD	Horley	A	0
-HUGHES SYSTIQUE PRIVATE LTD	High Wycombe	A	0,4
 Hujjat-ul-Islam Hitchin Mosque	Hitchin	A	1
 Huldra Ltd	Hemel Hempstead	A	0
 Hull City Council	Hull	A	0
@@ -2731,14 +2713,12 @@ I&Y STYLE LIMITED	Hull	A	0
 I-Cost Ltd	Hatfield	A	0
 I-Net Software Solutions	Hounslow	A	0,6
 IAG Limited	Huntingdon	A	0,4
-IAM Technology Group Limited	Huddersfield	A	0
 iAspire Care Services	Harrow	A	0
 IB PROPERTY COMMERCIAL INVESTMENT UK LTD	Hertfordshire	A	0
 IBC TV Ltd.	Hmamersmith	A	4
 IBERIA LINEAS AEREAS DE ESPANA SA OPERADORA	Harmondsworth, West Drayton	A	0
 IBIS Integrated Bindery Systems Ltd	High Wycombe	A	0
 Iboski African Shop Ltd	Hartlepool	A	0
-IBR PROPERTY SERVICES LTD.	Harrow	A	0
 IBU Consulting Ltd	Harrow	A	0
 Ice Box 85 Limited t/a Maple Cryotherapy	Hamilton	A	0
 Icelabz Solutions Ltd	Harrow	A	0
@@ -2931,7 +2911,6 @@ JAY FOODS LIMITED	Hounslow	A	0
 Jay Sweet Mart Ltd	Hounslow	A	0
 Jaya Shree Krishna Charitable Trust	Harrow	A	1
 JAYAMBER LIMITED	Hemel Hempstead	A	0
-JBL Living Ltd	Harpenden	A	0
 JC Estates Yorkshire Ltd	Halifax	A	0
 JC Innes & Sons	Huntly	A	0
 JCM COMMUNITY CARE LIMITED T/A SURECARE WYCOMBE AND CHILTERN	High Wycombe	A	0
@@ -2999,7 +2978,6 @@ JSR FINANCIAL SERVICES LTD.	Harrow	A	0
 JT Fire and Electrical Solutions Limited	Harrow	A	0
 JudgeService Research Ltd	Harrogate	A	0
 Juju Catering Ltd.	Hatfield	A	0
-Julee Care Limited	Harpenden.	A	0
 July VII Limited t/a Wykenhurst Residential Home	Hereford	A	0
 JUMO UK LTD	Harlow	A	0
 Junair Spraybooths Ltd	Heywood	A	0
@@ -3023,7 +3001,6 @@ K&M HALAL MEAT LTD	Hayes	A	0
 K&S SERVICES INTERNATIONAL LTD	Harrow	A	0
 K&Z ENTERPRISES LIMITED	Hastings	A	0
 K.P.S.G LTD	Hayes	A	0
-K2K KASHMIR TO KANYAKUMARI LIMITED	Hounslow	A	0
 K4 Group Services Limited	Hounslow	A	0
 K4 SECURITY SERVICES LIMITED	Hounslow	A	0,6
 Kaar Technologies UK Limited	Huddersfield	A	0,4
@@ -3285,8 +3262,8 @@ LGR Health Care Limited	Huntingdon	A	0
 LHR Global Logistics Ltd	Harmondsworth	A	0
 Liaison VAT Consultancy Ltd	Hertfordshire	A	0
 Life Destiny Church	Harrogate	A	10
+life for a kid	Hull	A	9
 Lightcliffe & Halifax Cricket Club	Halifax	A	11
-LIGHTDALE TRADING LTD T/A MOTOVANS	Harrow	A	0
 lightening Logistics Ltd	Harrogate	A	0
 Lime Trees Care group	Harwich	A	0
 Lime Walk Primary School	Hemel Hempstead	A	0
@@ -3317,7 +3294,6 @@ Little Earth Design	Henley-on-Thames	A	0
 little einsteins cc ltd	Hull	A	0
 LITTLE EXPLORERS CHILDCARE LTD	Harrow	A	0
 Little Garden Nursery Limited	Harrow	A	0
-Little Goose Ltd	Hassocks	A	0
 Little Lotus Ltd	Halifax	A	0
 LITTLE OAKS RESIDENTIAL CARE LIMITED	High Wycombe	A	0
 Little Raccoons Day Nursery (Apsley) Limited	Hemel Hempstead	A	0
@@ -3377,6 +3353,7 @@ Looking Good Ltd	Hull	A	0
 LOPSON LTD	Hayes	A	0
 Lord Wandsworth College	Hook	A	0,9
 Lordscare Hereford Limited	Hereford	A	0
+Lorne Stewart Plc	Harrow	A	0
 Lost Souls Forever Limited	Hessle	A	0
 LOTUS ACCOUNTANTS LTD	Harrow	A	0
 Lotus Enterprise Limited T/A Swindon Road Express	Horsham	A	0
@@ -3484,7 +3461,6 @@ MAHA POST LIMITED	Hull	A	0
 Mahal Roofing & Construction Ltd	Hounslow	A	0
 Mahamaya Foods Ltd	Hayes	A	0
 MAHARAJA HOSPITALITY LIMITED	Hounslow	A	0
-Mahason Limited	Harrow	A	0
 Mahavir Foundation	Harrow	A	0,1,10
 Mahboob Muhammad Ayub T/A Imaan Halal Meat	Huddersfield	A	0
 Mahir Ali	Huddersfield	A	0
@@ -3528,7 +3504,6 @@ Manor Body Repairs Limited	Hertfordshire	A	0
 Mantech UK Ltd	Halesowen	A	0
 Manufuture Ltd	Harrow	A	0
 Manuka Doctor (UK) Limited	Hinckley	A	0
-MAP ACCOUNTING LIMITED	Harrow	A	0
 MAP INVESTMENT PARTNERS LIMITED	Harrow	A	0
 MAPARA CONSULTING LIMITED	Harrow	A	0
 Mapei UK Ltd	Halesowen	A	0,4
@@ -3570,6 +3545,7 @@ MAS INTIMATES UK LIMITED	Herts	A	4
 MASA Express Ltd	Heckmondwike	A	0
 MASALA HUT HATFIELD LTD	Hertfordshire	A	0
 Mason Clark Associates	Hull	A	0
+Mason Navarro Pledge Ltd.	Hitchin	A	0
 MASS (UK) LTD	Harrow	A	0
 MASS COMPLETE PROPERTY SOLUTIONS LTD	Hertfordshire, United Kingdom	A	0
 Massive Rocket Limited	Hertfordshire	A	0
@@ -3651,6 +3627,7 @@ Merali's Chartered Accountants	Harrow	A	0
 Merbani Grove Heating & Plumbing Ltd	Hounslow	A	0
 Mercia Asset Management PLC	Henley in Arden	A	0
 Meridian Audio Limited	Huntingdon	A	0
+Meridian IT Ltd	Henley-in-Arden	A	0
 MERIDYENS INVESTMENT LTD	Herfordshire	A	0
 Merila P Ltd	Hailsham	A	0
 Merisant UK Limited	High Wycombe	A	0
@@ -3837,6 +3814,7 @@ MULTIMESH (UK) LTD	Haydock	A	0
 MUMBAI FUSION CATERING LTD	Harrow	A	0
 MUNCHIES PIZZA BAR LTD	Huddersfield	A	0
 Munchkin UK Trading Company, Ltd	Harrogate	A	0
+Muntham House School	Horsham	A	0
 Muragen Limited	Harrow	A	0
 MURASPEC DECORATIVE SOLUTIONS LIMITED	Hemel Hempstead	A	0
 Mushtaqs Investments Ltd	Hamilton	A	0
@@ -3867,6 +3845,7 @@ N2 Technology Consulting Ltd	Harrow	A	0
 N3 Hospitality Management Ltd	Hampshire	A	0
 N8 Health Ltd	Hitchin	A	0
 NA2 PROPERTIES LTD	Hamilton	A	0
+NAAN STAAP (HARROW) LTD	Harrow	A	0
 Naan Staap (Harrow) Ltd T/A Naan Staap	Harrow	A	0
 NABIL LE PETITE LIMITED	Harrow	A	0
 NACD Limited	Hemel Hempstead	A	0
@@ -3935,7 +3914,6 @@ NEW FRYWAYS LTD T/A CLIFTON CHIPPY	Hinckley	A	0
 New Gana Restaurant Ltd	Harrow	A	0
 New Health Supplies Limited	Harrow	A	0
 New Heights Wellness Ltd	Huntingdon	A	0
-NEW HORIZON CARE HOME LTD	Hayes	A	0
 NEW HORSHAM SUSHI LTD	Horsham	A	0
 NEW HOVE SUSHI LTD	Hove	A	0
 New Meaning Training Ltd	High Wycombe	A	0
@@ -4061,6 +4039,7 @@ Odara Care	Hexham	A	0
 Odeko (N.I.) Ltd	Hillingdon	A	0
 Off Site Solutions (R T) Limited	Highbridge	A	0
 Ogab Limited	Hertfordshire	A	0,4
+OGIGCONSULT LTD	Hull	A	0
 OH Dental Limited	Headcorn	A	0
 Ohms and Watts (Services) Ltd	Hemel Hempstead	A	0
 Old Town Stores Limited	Hastings	A	0
@@ -4119,6 +4098,7 @@ ORESA LIMITED	Harrogate	A	0
 ORGANIC GAINS LTD	Halifax	A	0
 Origin Frames Limited	High Wycombe	A	0,4
 Orion Alloys Limited	Harlow	A	0
+Orla Homes Ltd t/a St Brelades Retirement Homes	Herne Bay, Kent	A	0
 Orlando Refrigeration & Air Conditioning Ltd	Hemel Hempstead	A	0
 Orley Farm School Trust	Harrow-on-the-Hill	A	0
 ORSIS (UK) LIMITED	Harrogate	A	0
@@ -4194,6 +4174,7 @@ Paragraf	Huntingdon	A	0
 Parakar UK Limited	Harrow	A	0
 Paramount Powders (UK) Ltd	Hayes	A	0
 PARATACHA LTD	High Wycombe	A	0
+Parchow Groundworks Ltd	Hants	A	0
 Parihar Construction Limited	Hounslow	A	0
 Park Farm Sporting Limited	Huntingdon	A	0
 Park's of Hamilton (Holdings) Limited	Hamilton	A	0
@@ -4383,7 +4364,7 @@ Premium Convenience Store Limited	Huddersfield	A	0
 Prestige Food And Wine Ltd	Hounslow	A	0
 Prestige Gifting	Halifax	A	0
 Prestige Healthcare services Ltd	Honiton	A	0
-Prestige Tints Limited	Hounslow	A	0
+Prestige PPF Limited	Hounslow	A	0
 Preston Hair and Beauty Salon Limited	Harrow	A	0
 Preston Nomads Cricket Club	Henfield	A	11
 PRICELOCK LTD	Hainault	A	0
@@ -4416,7 +4397,6 @@ PRODHKS LTD	Horley	A	0
 PROFESSIONAL LEARNING AND CONSULTING HUB LIMITED	Harrow	A	0
 PROFESSIONAL UK ESTATE AGENT LTD	Harrow	A	0
 PROFORCE TECHNICAL LTD	Hull	A	0
-PROJECT NEWCASTLE PRIVATE LIMITED TRADING AS PAPA JOHNS	Huddersfield	A	0
 Prolojik Limited	High Wycombe	A	0
 PROMETHEUS SECURITY AND SAFETY SOLUTIONS LTD	Harrow	A	0
 PROMO FINANCE LTD	Hassocks	A	0
@@ -4594,6 +4574,7 @@ Real India Taste Limited	Hampshire	A	0
 Real Vets Ltd	Hamilton	A	0
 RealD Europe Limited	Hemel Hempstead	A	0
 REALREDCLICK LTD	Hampshire	A	0
+Rebuyer Limited	Houghton Le Spring	A	0
 Rech Ltd	Hemel Hempstead	A	0
 RED HOT GOODS LTD	Harrow	A	0
 Red Kite Learning Trust	Harrogate	A	0
@@ -4628,7 +4609,6 @@ RELIANCE MOT CENTRE LTD	Hayes	A	0
 Reliance Precision Ltd.	Huddersfield	A	0
 RELIANT CARE LIMITED	Harrow	A	0
 RELIANT TRADING CONTRACTING LIMITED	Halesowen	A	0
-RELIFETECH RECYCLING LIMITED	Harlow	A	0
 Remarcable Design Ltd.	Harlow	A	0
 REMAS & SONS LIMITED	Harrow,	A	0
 RENEWABLES PROJECT MANAGEMENT LTD	Hillingdon	A	0
@@ -4918,7 +4898,6 @@ SEBASTIAN AND DAUGHTERS LTD	Hownslow	A	0
 SECCTA Limited	Horseshoe Hill, Upshire	A	0
 Secret of Indian Masala Ltd	Harrow	A	0
 Secret World Wildlife Rescue	Highbridge	A	0
-SECURE MANAGEMENT SECURITY GROUP LIMITED	Harborough District, Leicester	A	0
 Secureend Ltd t/a DNS Sense	High Wycombe	A	0
 Security Systems Design Ltd	Huntingdon	A	0
 Sediqi & Sediqi Ltd T/A Sediqi & Sediqi Solicitors	Hounslow	A	0
@@ -5066,7 +5045,6 @@ Simpson Technology Ltd	Heald Green	A	0
 Sinai Mar Thoma Church North London	Harrow	A	1
 Sinclair Ventures Limited	Harrow	A	0
 Sinden Construction Limited	Harold Wood	A	0
-SINDHERFOODS LIMITED	Hengoed	B	0
 Singer Interactive	Hereford	A	0
 Singh & Lee Ltd T/A Takaa Tak restaurant, Hayes	Hayes	A	0
 Singh Developers Ltd	Hounslow	A	0
@@ -5090,7 +5068,6 @@ Skanda Hythe Ltd t/a Don Air, The Treats and The Cafe	Hythe	A	0
 SKC Studios Limited	Haverhill	A	0
 SKD (PATRINGTON) LTD (Trading as SPAR)	Hull	A	0
 SKELMANTHORPE CRICKET CLUB	Huddersfield	A	11
-SKH Restaurants Ltd	Helensburgh	A	0
 SKH Restaurants Ltd trading as Masala Twist	Helenburgh	A	0
 Skillbond Direct Limited	High Wycombe	A	0
 Skillweb.co.uk Ltd	High Wycombe	A	0
@@ -5126,7 +5103,6 @@ Smart Currency Exchange Limited	Hammersmith	A	0
 SMART FONE CASE LIMITED	Haverfordwest	A	0
 Smart Fonez	Huddersfield	A	0
 Smart glazing & home improvements ltd	Harefield, Uxbridge,	A	0
-Smart Home Visits Ltd	Harrogate	A	0
 Smart Kitchen and Bedroom Ltd	Hayes	A	0
 Smart Telecom Services STS LTD	Harrow	A	0
 Smart Wooden Stairs Ltd	Hayes	A	0
@@ -5229,7 +5205,6 @@ SPICE SPOON LTD	Hayes	A	0
 Spice Valley Bar & Restaurant Ltd	Horwich	A	0
 Spicefield Herts ltd	Hatfield	A	0
 SPICES 7 LTD	Hinckley	A	0
-SPICY TREAT LTD	Hertfordshire	A	0
 SPICYSUB LTD	Hounslow	A	0
 SPIFFY STORES LIMITED	High Wycombe	A	0
 Spinecentral Ltd	Hampton	A	0
@@ -5295,7 +5270,6 @@ STANDON SOLUTIONS LIMITED	Hertford	A	0
 STANHILL HOTEL LIMITED	Horley	A	0
 Star Concept LTD	Horsham	A	0
 STAR METAL FABRICATION LTD	Hoddesdon	A	0
-Star Micronics Europe Ltd	High Wycombe	A	0,4
 Star Pacific UK Limited	Hayes	A	0
 Star Racing Limited	Hove	A	0
 Stark Software International Ltd.	Horley	A	0
@@ -5307,7 +5281,6 @@ STARTWELL ENGINEERING (U.K.) LIMITED	Hitchin	A	0
 State of Emergency Productions	Honiton	A	3
 Station Newsagents Limited	Hayes	A	0
 Station View Health Centre	Hinckley	A	0
-Status Network Solutions Ltd	Hillington	A	0
 Staunton Surgery	Havant	A	0
 Steakout Harrow Limited	Harrow	A	0
 Stech International Limited	Hounslow	A	0
@@ -5413,7 +5386,6 @@ Swakeleys School For Girls	Hillingdon	A	0
 SWAMI MANAGEMENT LIMITED	Hayes	A	0
 Swan Contractors Ltd	Harrow	A	0
 SWASTIK INTERNATIONAL (UK) LIMITED	Harrow	A	0
-Sweet Affairs Hounslow Ltd	Hounslow	A	0
 Sweet Analytics Ltd	Hemel Hempstead	A	0
 Sweet Indulgence Ltd	Harlesden	A	0
 Sweet Red Balls Limited	Hawick	A	0
@@ -5448,7 +5420,6 @@ Talent Gold Plus Limited	Harrow	A	0
 Talenteam Limited	Harrow	A	0
 Talha Motors Ltd	Hounslow	A	0
 Tally Accounting Services Limited	Heath	A	0
-TAMANA LTD	Hayes	A	0
 Tamar Care (London) Limited	Harrow	A	0
 TANDOOR NORBURY LTD	Harrow	A	0
 Tanglewood Games Limited	Hartlepool	A	0
@@ -5484,6 +5455,7 @@ TC Services Ltd	Harrogate	A	0
 TCC CONSULTING LTD	Hounslow	A	0
 TCK FRESH PRODUCE LTD	Hayes	A	0
 TD MEDICARE LTD	Hull	A	0
+TDG INTERNATIONAL LTD	Hounslow	A	0
 TeachBeyond	Horsham	A	0,1,9,10
 TeamSportz Group Ltd	Hemel Hempstead	A	0
 TECH YUG LTD	Hounslow	A	0
@@ -5498,7 +5470,6 @@ TECHNOVATE SOLUTIONS LTD	Hornchurch	A	0
 TECHPOINT DISTRIBUTION LIMITED	Harlow	A	0
 Techsera Inc Ltd	High Wycombe	A	0
 Techtrus Ltd	Hemel Hempstead	A	0
-Techv Limited	High Wycombe	A	0
 Tegasys Solutions UK Limited	Hounslow	A	0
 Tel Constructions Limited	Hayes	A	0
 Tel Kitchens Limited	Hayes	A	0
@@ -5546,6 +5517,7 @@ The Cafe+ Hull Ltd trading as The Cafe+	Hull	A	0
 The Campion School	Hornchurch	A	0
 The Carter & George Practice	Hertford	A	0
 The Centre of Horseback Combat Limited	Hemel Hempstead	A	3
+The Changing Workplace Ltd	Haywards Heath	A	0
 THE CHARTRIDGE CONFERANCE COMPANY LIMITED	Hitchin	A	0
 The Chelsea Food and Wine Company Limited	Harrow	A	0
 The Chichester Diocesan Fund and Board of Finance (Incorporated)	Hove	A	1
@@ -5562,6 +5534,7 @@ The Conflict and Environment Observatory	Hebden Bridge	A	0
 The Congregation of the Passion of Jesus Christ	Herne Bay	A	1,10
 The Corporate Practice Limited trading as Arora & Co	Hayes	A	0
 THE CRAFTIONALS LTD	Hull	A	0
+The Data Company Group Limited	Hertfordshire	A	0
 The Designers Graphic Ltd	Hemel Hempstead	A	0
 The Devil's Punchbowl Hotel	Hindhead	A	0
 The Digital Bench Ltd	Hove	A	0
@@ -5687,7 +5660,6 @@ The Vawdrey House LIMITED	Haywards Heath	A	0
 The Village Store	Hertfordshire	A	0
 The Vindolanda Trust	Hexham	A	0
 The Wand Medical Centre	Highgate	A	0
-The Wedding Hire Company Ltd	Hertford	A	0
 The Wheatsheaf	Huntingdon	A	0
 The White Hart	Halstead	A	0
 The White House Dental Practice	Hull	A	0
@@ -5741,14 +5713,13 @@ Tiptop Contractors Ltd	Hatfield	A	0
 TJ Supermarket Ltd	Hull	A	0
 TJ Thai Japanese Restaurant Limited	Huddersfield	A	0
 TJS Online Ltd	Horncastle	A	0
-TLC Care Management Limited	Huddersfield	A	0
+TLC Care Management Limited	Huddersfield	B	0
 Tlogy Infotech Limited	Harrow	A	0
 TLS CARE LTD	Harlow	A	0
 TM UK TRADING LTD	Hornchurch, England	A	0
 TMC Pharma Services Ltd	Hartley Wintney	A	0
 TND PRIVATE LIMITED	Hayes	A	0
 TNF PROPERTY MANAGEMENT LTD	Hounslow	A	0
-TNK Trading Limited	High Wycombe	A	0
 TODAYS SPICE LTD	High Wycombe	A	0
 Together Housing Association Limited	Halifax	A	0
 Toile Limited	Hatfield	A	0
@@ -5771,7 +5742,6 @@ Topcast Aviation Europe Ltd	Hemel Hempstead	A	0
 Topkins Healthcare Ltd (Topkins Pharmacy)	Harpenden	A	0
 Topline Electronics Ltd	Hailsham	A	0
 Tops Pizza (Hemel Hempstead) Ltd	Hemel Hempstead	A	0
-TOPS PIZZA (RAYNERS LANE) LIMITED	Harrow	A	0
 TOPS PIZZA HIGH WYCOMBE LIMITED	High Wycombe	A	0
 TOPS PIZZA LTD	High Wycombe	A	0
 Toptropics Limited	High Wycombe	A	0
@@ -5860,7 +5830,6 @@ UK EVENTS LTD	Hounslow	A	0,3
 UK Glassforce Ltd	Hockley	A	0
 UK HAPPY CARE LTD	Harrow	A	0
 UK India Healthcare Collaboration Ltd	Harrow	A	0
-UK LAW BOOK SELLERS LTD	Halifax	A	0
 UK OWENS PROPERTIES LTD	Huddersfield	A	0
 UK Spray Insulation Limited	Hayes	A	0
 UK STAR CARE LTD	Hounslow	A	0
@@ -5868,7 +5837,6 @@ UK SUPPLIES LIMITED	Harrow	A	0
 UK TRANSFER LTD	Hayes	A	0
 UK VINE CARE LTD	Hove	A	0
 UKE'S CONSTRUCTION LIMITED	Hounslow	A	0
-UKHIFU	Hewish	A	0
 UKMEDI SERVICES LTD	Hamton	A	0
 Ulearn Education Limited	Halifax	A	0
 Ultimate Care Ltd t/a Bilton Hall Nursing Home	Harrogate	A	0
@@ -5882,7 +5850,6 @@ Umrah Supermarket Huddersfield Ltd	Huddersfield	A	0
 UN Global Trading Ltd	Hounslow	A	0
 UNA PROPERTY CONSULTANCY LTD	Harrow	A	0
 UNADKAT TRADING LTD T/A CROMWELL COMMUNITY STORE	Hertfordshire	A	0
-UNI BARGAIN LIMITED	Halifax	A	0
 UNIBAR RESTAURANT LIMITED	Harrow	A	0
 UNICORN CONSTRUCTION LTD	Harrow	A	0
 UNICORN SHIPPING LIMITED	Heathrow	A	0
@@ -5956,7 +5923,6 @@ Vasan Costcutter	Handsworth	A	0
 VAT AND TAX SERVICES LTD	Huddersfield	A	0
 Vaughan Ergonomics Limited	Halifax	A	0
 VAULTINUM UK	Hampton	A	0
-VBL Hospitality Limited	Holybourne	A	0
 VBT Software UK Limited	Harrow	A	0,4
 VDK PRIMES LTD	Hampshire	A	0
 Vectaire Limited	High Wycombe	A	0
@@ -6161,10 +6127,8 @@ Wissen Technology Limited	Harrow	A	0,4
 WIZ TECHNOLOGIES LTD	Hounslow	A	0
 WMH Systems Engineering Limited	Hayes	A	0
 WMK HAULAGE LTD	Hounslow	A	0
-WNB Trading Ltd	Hamilton	A	0
 Wok Express Wycombe Uk Ltd t/a Wok Express	High Wycombe	A	0
 Woka ltd	Hertfordshire	A	0
-Wokingham Car Centre Ltd	Hook	A	0
 Wolfox Ltd	Hove	A	0
 Wolfscastle Country Hotel	Haverfordwest	A	0
 Wolseley Medical Centre	Hull	A	0
@@ -6219,7 +6183,6 @@ Yes Ventures Ltd	Harrow	A	0
 YES WE WILL DO COURIERS LTD	Harrow	A	0
 Yew Technologies Ltd	Harrow	A	0
 Yew Tree Nursing Home Limited	Halesowen	A	0
-Yianni Motors Limited	High Wycombe	A	0
 Yihai (UK) Food Ltd	Harrow	A	0
 YOGA CARE LTD	Hounslow	A	0
 Yopa Property Ltd	Hinckley	A	0

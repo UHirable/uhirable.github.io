@@ -70,6 +70,7 @@ ALETHIOMICS LIMITED	Oxford	A	0
 Alex Wenham Limited	Oxford	A	0
 Alfa Management NW Ltd	Oldham	A	0
 ALG Biogas Ltd	Omagh	A	0
+ALIGATOU LTD	Oldham	A	0
 ALL DAY RETAIL LIMITED	Oxford	A	0
 Allenby Douglas Limited	Oswestry	A	0
 Alliance Francaise d'Oxford	Oxford	A	0,9
@@ -543,7 +544,6 @@ Hassean Health Limited (Trading As Added Health)	Oxford	A	0
 HCV Network	Oxford	A	0
 Headington Healthcare LTD	Oxford	A	0
 Headington School Oxford Ltd	Oxford	A	0,9
-Headlong Theatre	Oxford	A	0
 Health Consultants International Ltd	Oxford	A	0
 HEAVENLY DREAM BEDS LTD	Ossett	A	0
 Hedena Health	Oxford	A	0
@@ -588,6 +588,7 @@ HOUSE OF WIZARD LIMITED	Oxford	A	0
 HQQ Restaurant Oxford Ltd	Oxford	A	0
 HR ADVERTISEMENTS LTD	Ossett	A	0
 HR SECURITY AND PROTECTION SERVICES LTD	Oldham	A	0
+Hugh and Liam McQuaid T/A Humac Engineering	Omagh	A	0
 Hunter Financial	Oldham	A	0
 HUSSAIN & SONS CASH AND CARRY	Oldham	A	0
 Hussain Builders Limited	Oldham	A	0
@@ -886,7 +887,7 @@ North Argyll Eventide Home Association Ltd	Oban	A	0
 NORTH WEST LOGISTICS AND TRANSPORT LIMITED	Oldham	A	0
 North West Marine Ltd	Oban	A	0,4
 Nova Tissue Co Ltd	Oldham	A	0
-Novo Nordisk Research and Development UK Limited	Oxford	A	0,4
+Novo Nordisk Research and Development UK Limited	Oxford	A	0,4,7
 NRW CLEANING SERVICES LIMITED	Ormskirk,	A	0
 nTtau Digital Ltd	Oxford	A	0
 Nucleome Therapeutics Limited	Oxford	A	0
@@ -1001,7 +1002,6 @@ Oxford Fertility Unit Ltd	Oxford	A	0
 OXFORD FLOORS AND TILES LTD	Oxford	A	0
 Oxford Flow	Oxford	A	0
 OXFORD FRUITS & VEG LTD T/A Oxford Food Service	Oxford	A	0
-Oxford Genetics Ltd	Oxford	A	0,4
 Oxford Global Projects UK Limited	Oxford	A	0
 OXFORD GUEST HOUSE LIMITED	Oxford	A	0
 Oxford Health NHS Foundation Trust	Oxford	A	0
@@ -1036,7 +1036,6 @@ OXFORD SCIENCE ENTERPRISES PLC	Oxford	A	0
 Oxford Semantic Technologies Limited	Oxford	A	0
 Oxford Sigma Limited	Oxford	A	0
 Oxford Specsavers Limited	Oxford	A	0
-Oxford Stadium Ltd	Oxford	A	11
 Oxford Tiles Limited	Oxford	A	0
 Oxford United Football Club Limited	Oxford	A	0,11
 Oxford University Hospitals NHS Trust	Oxford	A	0
@@ -1046,6 +1045,7 @@ Oxford's British Orchard Nursery Limited	Oxford	A	0
 Oxfordshire Community Churches	Osney Mead	A	9
 Oxfordshire County Council	Oxford	A	0
 OXFORDSHIRE MIND	Oxford	A	0
+Oxo Hire Limited	Oxford	A	0
 Oxon Traders LTD	Oxford	A	0
 OxSonics Limited	Oxford	A	0
 Oxted House Limited	Oxted, Surrey	A	0
@@ -1121,7 +1121,9 @@ PROFFER SOLUTION LTD	Oldbury	A	0
 ProForest Ltd	Oxford	A	0
 Proimmune Limited	Oxford	A	0
 Project Provenance Limited	Oxford	A	0
+Property Finders Real Estate Limited	Oxfordshire	A	0
 Prospect Store Ltd	Oldham	A	0
+Prosper and Enterprise Limited	Oxted	A	0
 PSJ Construction Limited	Oldham	A	0
 PSP Oldham Ltd	Oldham	A	0
 Public Solutions inc. Limited	Oldham	A	0
@@ -1174,7 +1176,6 @@ RICE BOX LIMITED	Oxford	A	0
 Richmond Joiners and Builders Ltd	Oldham	A	0
 Ridgefield Consulting Ltd	Oxford	A	0
 RIIMA OLDHAM LIMITED	Oldham	A	0
-River Thame Conservation Trust	Oxford	A	0
 RJ WOODLAND SERVICES LTD	Omagh	A	0
 RJAH Othopeadic Hospital NHS Trust	Oswestry	A	0
 Robert May's School	Odiham	A	0
@@ -1186,7 +1187,6 @@ ROHMA CONSULTANCY LTD	Oxford	A	0
 Roman Catholic Diocese of Argyll and the Isles	Oban	A	1,10
 Romax Marketing and Distribution Ltd	Orpington	A	0
 ROOFFINDER LTD	Oldham	A	0
-Rose Healthcare Services Ltd Ltd	Oldham	A	0
 Roughan and O'Donovan UK Limited	Otley	A	0
 ROYS Restaurant Ltd	Old Welwyn	A	0
 Royton & Crompton Family Practice	Oldham	A	0
@@ -1198,6 +1198,7 @@ Rubix Industrial Services Limited	Oldbury	A	0,4
 Ruchi's Dosapark Ltd T/a Dosa Park	Oxford	A	0
 Rutland County Council	Oakham	A	0
 Rutland House Community Trust	Oakham	A	0
+Rutland Plastics Limited	Oakham	A	0
 RV ARTS LIMITED	Oxford	A	0
 RZ ECO ENERGY LTD	Oldham	A	0
 S & S Green Grocers Limited T/A Holloway Meat and Grocery	Oxford	A	0
@@ -1268,7 +1269,6 @@ Shree Swaminarayan Mandir Oldham	Oldham	A	1,10
 Shreeji Superstore Limited	Oxford	A	0
 SHRI VENKATESWARA (BALAJI) TEMPLE OF UK	Oldbury	A	0,1,9,10
 SHURMA TRADING LTD T/a Moza Bites	Oldham	A	0
-Sibelius Limited	Oxford	A	0
 Sidds Ltd	Oxford	A	0
 Sidhu K S Limited T/A Sidhu Transport	Old Windsor	A	0
 Silestia Ltd	Orpington	A	0
@@ -1325,7 +1325,7 @@ St John Cassian CIO	Oxford	A	1
 St Mark Universal Care	Oldham	A	1
 St Martins Tandoori	Oswestry	A	0
 St Olave's and St Saviour's Schools Foundation CIO	Orpington	A	0
-St. Luke's Oxford	Oxford	A	0
+St. Luke's Oxford	Oxford	B	0
 Standard Oxford 03 Limited	Oxford	A	0
 Station Cars Oxted Limited	Oxted	A	0
 Steel Software Solutions Limited	Oldham	A	0
@@ -1374,6 +1374,7 @@ Taste Tibet Limited	Oxford	A	0
 Team TI LTD	Oxford	A	0
 TECHNOWSHOP LIMITED	Oldbury	A	0
 Temile Development Company Ltd	Ovington	A	0,4
+Temple Cowley Medical Group	Oxford	A	0
 Temple Street Dental Practice	Oxford	A	0
 TENLITE VENTURES LTD	Oldbury	A	0
 TESMARK LTD	Oldham	A	0
@@ -1473,6 +1474,7 @@ Tyrion Security Bidco Limited	Oldham	A	0
 U & I Fuels Ltd	Oxford	A	0
 U-Ploid Biotechnologies ltd.	Oxford	A	0
 Uberbinder Limited	Oxford	A	0,4
+Ufonia Ltd	Oxford	A	0
 Ujan Vati	Oldham	A	0
 UK China Performing Arts Ltd	Orpington	A	0
 UK Metals Limited	Otham	A	0

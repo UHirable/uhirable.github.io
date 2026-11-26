@@ -16,9 +16,9 @@
 24 7 Property Maintenance Ltd	London	A	0
 24/7 Hire & Property Maintenance Services Limited	Liverpool	A	0
 24/7 Medicine Limited T/ A 24-7 Pharmacy	Liverpool	A	0
-24/7 MY MART LIMITED	Brierly Hill,	A	0
+24/7 MY MART LIMITED	Wolverhampton	A	0
+24X7 CHESTER LIMITED T/A MORRISON DAILY	Crewe	A	0
 26 DEGREES GLOBAL MARKETS (UK)LIMITED	London	A	0,4
-2R Capital Investment Management Limited	London	A	0
 3 Associates Capital Management Limited	Amersham	A	0
 3 MATES LIMITED	Hounslow	A	0
 3-D Matrix UK Limited	London	A	0,4
@@ -61,7 +61,6 @@
 7 STAR MERCHANT LTD	Manchester	A	0
 7 Steel Manufacturing (UK) Ltd	Cardiff	A	0
 720 Management Limited	London	A	0,4
-75 Media Limited	Leeds	A	0
 777 MARKET LTD	Manchester	A	0
 786 Childcare limited T/A Monkey puzzle day nursery in Welling	Welling	A	0
 786 MOTOR TRADERS LIMITED T/A TORQUE POINT	Barnet,	A	0
@@ -311,7 +310,6 @@ Advance Media Ltd	London	A	0
 Advance Metals LTD	Birmingham	A	0
 Advance Motors Limited	Slough	A	0
 Advanced Aerial Mapping Services Ltd	London	A	0
-ADVANCED BEAUTY MEDICAL LTD	London	A	0
 Advanced Building & Maintenance Services Limited	Aveley	A	0
 Advanced Electric Machines Limited	Washington	A	0
 Advanced Electric Machines Research Ltd	Washington	A	0
@@ -339,6 +337,7 @@ AEW UK Investment Management LLP	London	A	0
 AF Management Ltd	Liverpool	A	0
 AF Mobile Accessories Ltd	Bristol	A	0
 AFC- HALAL MEAT LTD	Middlesex	A	0
+Afendis Capital Management (UK) Limited	London	A	0
 Affect Media Limited	Stockpor	A	0
 Affiliated Managers Group Limited	London	A	0,4
 Affinity Care Management	Poole	A	0
@@ -363,7 +362,6 @@ Agape Ministries Ltd	Birmingham	A	1,9,10
 Agape Multi Academy Trust	Reading	A	0
 AGAR IRONMONGERY DESIGN & MARKETING CONSULTANCY LIMITED	London	A	0
 Agave Capital Management Limited	London	A	0
-AgeCare MG2 Ltd	Colchester	A	0
 Agency Management Ltd	Berkhamsted	A	0,3
 AGENDA MEDIA LIMITED	Manchester	A	0
 Agenda Resource Management Limited	Hull	A	0
@@ -606,7 +604,7 @@ Am Auto Mechanics Ltd	Stoke-On-Trent	A	0
 AM HALAL MEATS @WHOLESALES LTD	Leicester	A	0
 Am MCR LIMITED	Manchester,	A	0
 AM MOBILE LTD	Chichester	A	0
-AM Surveying & Block Management	Maidstone	A	0
+AM Surveying & Block Management	Ditton	A	0
 AM Woodley Limited T/A Gausia M M Hijab	London	A	0
 AMA by Andrea Marino Ltd	London	A	0
 Amagi Media Private Limited	London	A	0,4
@@ -659,10 +657,10 @@ Andrew Mellor Veterinary Surgeons	Blackpool	A	0
 ANDREW MICHAEL LTD	Battersea	A	0
 Andrew Morton	London	A	0
 ANDREW MURRAY & CO ACCOUNTANTS LTD	London	A	0
-Andrew Nolan Mortgages Ltd	Altrincham	A	0
 ANDREW WOMMACK MINISTRIES - EUROPE	Walsall	A	1
 Andros Maritime Agencies Limited	London	A	0
 Andurand Capital Management LLP	London	A	0,4
+Anemoi Marine Technologies Ltd	London	A	0
 Anfa Management Ltd	London	A	0
 Anglia Hotel Management Ltd	Colchester	A	0
 Anglican Missionary Congregations (AMC) Anglican Church of Redemption Sheffield, South Yorkshire	Sheffield	A	1
@@ -705,6 +703,7 @@ AP Morgan Limited	Redditch	A	0
 APD Business Management Ltd	Swindon	A	0
 APD Maintenance LTD	London	A	0
 Apera Asset Management LLP	London	A	0
+Aperture Group Management	London	A	0
 APERTURE MEDIA LTD	Shipley	A	0
 Apex Group MCR Ltd T/A The Link	Manchester	A	0
 Apex Molecular Limited	Alderley Edge	A	0
@@ -952,6 +951,7 @@ Aubrey Capital Management Limited	Edinburgh	A	0
 Auckland Medical Group	Bishop Auckland	A	0
 Audax Management Company (UK) Limited	London	A	0,4
 Audet Magna Limited	Newbury	A	0
+Audi Motorsport Technology Centre UK Limited	Bicester	A	0
 Auditcare Mon Choisy Limited	Oxford	A	0
 Audlem Medical Practice	Cheshire	A	0
 Audley Mills Ltd	Essex	A	0
@@ -998,6 +998,7 @@ Avocet Battery Materials Limited	Crewe	A	0
 Avon and Wiltshire Mental Health NHS Partnership	Bath	A	0
 Avon Magnetics Limited	Christchurch	A	0
 Avon Metals Ltd	Gloucester	A	0
+AVONDALE MOTORS NE LIMITED	Manchester	A	0
 Avtar Sigh Kenth T/A Yeading Meat Store	Hayes	A	0
 AW MOBILE LIMITED	Bolton	A	0
 AW Ponty Ltd TA Maesycoed Stores	Pontypridd	A	0
@@ -1198,6 +1199,7 @@ Beechwood Medical Centre	Halifax	A	0
 Beer Metropolis Ltd	Derby	A	0
 Beeston Jewellers Ltd T/A Andrew McCulloch Jewellers	Nottingham	A	0
 Beirut Mezze Lebanese Restaurant Limited	Bristol	A	0
+BEIS MENACHEM CHABAD LUBAVITCH	Salford	A	1
 BELDON BUILDING AND MAINTENANCE LTD	London	A	0
 Belfast Central Mission	Belfast	A	0
 Belgaum medical centre Ltd	Luton	A	0
@@ -1247,7 +1249,6 @@ Bespoke Careers Management Limited	London	A	0,4
 BESPOKE JOINERY MANUFACTURES LTD	Bradford	A	0
 BESPOKE MARQUEE LDN LIMITED	London	A	0
 Best Halal Meat	London	A	0
-Best Halal Meat Supply Ltd	Ashton-Under-Lyne	A	0
 BEST MANGAL BAR AND MEZE BAR LIMITED	London	A	0
 BEST MEAT (UK) LTD	Sheffield	A	0
 Best Moon Shop	Ramsgate	A	0
@@ -1695,7 +1696,6 @@ CALA Management Limited	Edinburgh	A	0
 Calabash Mint Limited	Surbiton	A	0
 Calderdale MBC	Halifax	A	0
 Caledonia Medical Practice	Cumbernauld	A	0
-Calero MDSL Limited	Edinburgh	A	0
 Calin Metals ltd	London	A	0
 Call On Me Ltd	Shanklin	A	0
 Cally Mains Farming Ltd	Castle Douglas	A	0
@@ -1962,7 +1962,6 @@ Chimney Tapas and Shisha Limited T/A Momo Station	Aldershot	A	0
 China Life Investment Management Company Limited U.K. Representative Office	London	A	4
 China Marketing Corp	Leeds	A	0
 China Merchants Bank Co., Ltd.	London	A	0,4
-China Merchants Securities (UK) Limited	London	A	0,4
 CHINA MINSHENG BANKING CORPORATION LIMITED LONDON BRANCH	London	A	0,4
 China Mobile International (UK) Limited	London	A	0,4
 Chinese Medicine Centre (London) Ltd	Middlesex	A	0
@@ -1978,6 +1977,7 @@ Choices Homecare Merseyside Limited	Liverpool	A	0
 CHOPSTIX (MIDLANDS) LIMITED	Nottingham	A	0
 CHORLTON MOT AND SERVICE LTD	Manchester	A	0
 Chorus Capital Management Limited	London	A	0
+Chosen People Ministries UK	London	A	1
 Choudhary Ltd T/A Subhan Halal Meat Centre	Birmingham	A	0
 Chouhan Builders (Midlands) Limited	Widnes	A	0
 Chow Mein Camden LTD	London	A	0
@@ -2053,6 +2053,7 @@ CITY ROAD MINIMART LTD	Liverpool	A	0
 City Walls Medical Centre	Chester	A	0
 City Way Medical Practice	Rochester	A	0
 Civic Marketing Limited	Bury	A	0
+Civic MEP Ltd	Manchester	A	0
 CJAY PROPERTY MANAGEMENT LTD	London	A	0
 CJS Managed Cloud Services Ltd	Leeds	A	0
 CJS Risk Management Ltd	London	A	0
@@ -2137,7 +2138,6 @@ Cocktail Machine UK Ltd	London	A	0
 Coco Leisure Limited T/A Moka Dining	Northwood	A	0
 COCO MOBILE LIMITED	Bristol	A	0
 Cococure Minories Ltd	London	A	0
-Cocos Mexican Cuisine Ltd	Milford Haven	A	0
 Coda Octopus Martech Limited	Portland	A	0,4
 Code Pod Management Limited	Edinburgh	A	0
 Codsall Mobile Repair Limited	Codsall	A	0
@@ -2163,7 +2163,6 @@ Combat Medical Limited	St. Albans	A	0
 Comboni Missionary Sisters CIO	Birmingham	A	1,10
 Come a Casa Mediterranean Ltd	Kent	A	0
 Comech Metrology Limited	Derby	A	0
-CommissionBEIS MENACHEM CHABAD LUBAVITCH	Salford	A	1
 Commonside Management Services Limited	Bexhill-on-Sea	A	0
 Community Baptist Church North Manchester	Bury	A	1
 Community Careline Services Medway Limited	Kent	A	0
@@ -2243,6 +2242,7 @@ Cos Lane Medical Practice	Glenrothes	A	0
 coseley medical centre	Bilston	A	0
 COST CUTTER EXPRESS MAIDSTONE LTD	Kent	A	0
 Costello Medical Consulting Limited	Cambridge	A	0
+COTSWOLD MEDICAL CLINICS LTD Trading As The Cotswold Physio Rooms	Witney	A	0
 Cotswold Medical Practice	Cheltenham	A	0
 Cotswold Restaurant Group Ltd t/a Muse Brasserie	Cheltenham	A	0
 Cottingley Mini Market	Bradford	A	0
@@ -2265,7 +2265,6 @@ CPT Markets UK Limited	Canary Wharf	A	0
 CQ MED SPA	Manchester	A	0
 CR Trades Ltd, T/A Misano's	Glasgow	A	0
 Crabwall Manor Hotel and Spa	Chester	A	0
-Craft Machine Limited	London	A	0
 Craft Minds Ltd	London	A	0
 Crake Asset Management LLP	London	A	0
 Crane Merchandising Systems Limited	Chippenham	A	0,4
@@ -2382,7 +2381,6 @@ Da Vinci Capital Management UK Ltd	London	A	0
 DAA-M PROPERTY MANAGEMENT LTD	Newport	A	0
 DAATA MEAT AND POULTRY LTD	Edinburgh	A	0
 Dab Logistics Midland	West Bromwich	A	0
-Dack Motor Group	Lincoln	A	0
 DADYAL HALAL MEAT LTD	Slough	A	0
 Daido Metal Co., Ltd. European Technical Centre (UK)	Ilminster	A	0,4
 DAILY FRESH MEAT LTD	Dagenham	A	0
@@ -2547,7 +2545,6 @@ Digital Media Innovations UK LTD	Gloucester	A	0
 Digital Media Services UK Ltd	London	A	0
 Digital Media Technologies LTD	Hertford	A	0
 Digital Medical Supply UK Ltd	London	A	0,4
-Digital Mobile Innovations Limited	London	A	0,4
 Digital Moneybox Limited	London	A	0
 DIGITAL TRAVEL MARKETING GROUP LIMITED	Liverpool, Merseyside	A	0
 Digitalis Media Ltd	London	A	0
@@ -2648,6 +2645,7 @@ Dr Shahab Mirjafari Ltd	London	A	0
 Dr Spencer and partners - Burton Latimer Medical Centre	Kettering	A	0
 Dr V Sarveswaran & Mrs. A Sarveswaran T/A VVS Service Stations	Redditch	A	0
 Dr Vikram Bhat T/A Sai Medical Centre	Essex	A	0
+Dr's McVerry, McGee & Farnon	Newry	A	0
 DR-IME LIMITED T/A ADONIA MEDICAL CLINIC	London	A	0
 Draeger Medical UK Ltd	Hemel Hempstead	A	0
 Dragonfly Thai Massage Ltd	Chichester	A	0
@@ -2666,7 +2664,7 @@ DROPLET MANAGEMENT LIMITED	London	A	0
 Dryleaze Building & Maintenance Ltd	Bristol	A	0
 DS PUBLIC HOUSE LTD T/A MARQUESS OF EXETER	Oakham	A	0
 DSK Mansfield Ltd	Mansfield	A	0
-DSR MOTORS LTD	Staines	A	0
+DSR MOTORS LTD	Shepperton	A	0
 DUA FRESH MEAT AND GROCERY LTD	Dagenham	A	0
 DUA MANAGEMENT SERVICES LTD	Kingston Upon Thames	A	0
 DUADATA Limited T/A Mooboo	London	A	0
@@ -2874,6 +2872,7 @@ Elm Villa & Madeley Practice Ltd	Chesterton	A	0
 Elmlodge Property Management Ltd	Hounslow	A	0
 Elms Marketing Ltd	Macclesfield	A	0,4
 Elogbooks Facilities Management	St Ives	A	0
+ELPIS MARITIME LIMITED	London	A	0
 Elysian Development Management Limited	London	A	0
 EMBASSY MACHINERY LIMITED	London Colney	A	0
 EMBASSY OF MEXICO	London	A	0,5
@@ -3146,7 +3145,6 @@ Fibre Me Limited	Peterborough	A	0
 Fidelis Marketing Limited	London	A	0,4
 Fidera Management Limited	London	A	0
 Field Gibson Media Limited	London	A	0
-Fieldbay Management Limited	Bristol	A	0
 FIFTH GENERATION MEDIA LTD	Ilford	A	0
 Figges Marsh Surgery	Mitcham	A	0
 FIL Investment Management Limited	London	A	0,4
@@ -3427,6 +3425,7 @@ GADGETS MASTER LTD	Barking	A	0
 Galactic Media Management Limited	Glasgow	A	0
 Galaxie Hotel (Mr and Mrs Harries-Jones t/a Galaxie Hotel)	Oxford	A	0
 Galaxy Makeovers Ltd	Grimbsy	A	0
+GALAXY MANAGEMENT SOLUTIONS LIMITED	Birmingham	A	0
 GALAXY MARQUEES LTD	High Wycombe	A	0
 Galaxy Mobiles Ltd	Manchester	A	0
 Galgorm Manor Hotel Limited	Ballymena	A	0
@@ -3663,7 +3662,7 @@ GRAB ME SUSHI LIMITED	London	A	0
 Grace and Mercy UK	Smethwick	A	0,9,10
 GRACE EVANGELISTIC MINISTRIES EUROPE	Carshalton Beeches	A	1,10
 Grace Fellowship Manchester	Manchester	A	1
-Grace Manor Care Limited t/a Grace Manor Care Centre	Gillingham	A	0
+Grace Manor Care Limited t/a Grace Manor Care Centre	Gillingham	B	0
 Grace of Mercy Prayer Mountain	Dagenham	A	1,10
 Grace Recycling (MCR) Ltd	Bacup	A	0
 GRACE SERVICES (MANCHESTER) LIMITED	Rochdale	A	0
@@ -3731,6 +3730,7 @@ Greenfield Meat Limited	London	A	0
 Greenfield Medical Practice	Birmingham	A	0
 Greenford Halal Meat Retail Ltd	Greenford	A	0
 Greengate Metal Components Ltd	Manchester	A	0
+Greenhill Medical Centre	Swansea	A	0
 Greenleaf Private Limited T/A Monk Restaurant	Uxbridge Denham	A	0
 Greenlight Re Marketing (UK) Limited	London	A	0
 Greenock Medical Aid Society	Greenock	A	0
@@ -4155,7 +4155,6 @@ Hope and May	Buntingford	A	0
 HOPE CHILD MINDER LIMITED	London	A	0
 Hope Minimarket Ltd	London	A	0
 Hope Take Away T/A Melton Kebab House	Leicestershire	A	0
-Hopealive Outreach Ministries	Northampton	A	1
 HORIBA MIRA Ltd	Nuneaton	A	0,4
 Horizon Agricultural Machinery Ltd	Spalding	A	0
 Horizon Agriculture Machinery Ltd	Spalding	A	0
@@ -4198,6 +4197,7 @@ HTT MOBILES LIMITED	Manchster	A	0
 HUB MATE LTD	London	A	0
 Hucknall Road Medical Group	Nottingham	A	0
 HUDSON MORGAN WILLIAMS LIMITED	London	A	0
+Hugh and Liam McQuaid T/A Humac Engineering	Omagh	A	0
 Hujjat-ul-Islam Hitchin Mosque	Hitchin	A	1
 Human Made Limited	Matlock	A	0
 Human Made Machine Limited	London	A	0,4
@@ -4309,6 +4309,7 @@ Impact Medical Ltd	Liverpool	A	0
 Impact Multi Academy Trust	Beckenham	A	0
 Impax Asset Management Group plc	London	A	0,4
 Imperial Chambers Management Limited	London	A	0
+Imperial Hospitality Management Limited	Milton Keynes	A	0
 imperial manchester ltd	Oldham	A	0
 Imperial Marketing UK Ltd	West Bromwich	A	0
 Imperial Midlands Ltd T/A Ashefields Residential Home	Derby	A	0
@@ -4350,6 +4351,7 @@ Inex Microtechnology Limited	Newcastle upon Tyne	A	0
 INFINITE MERCHANDISE LIMITED	Bolton	A	0
 Infinity Property Management Ltd	Wembley	A	0
 Infinity Sports Management Ltd	Towcester	A	0
+Infinitystay Ltd t/a Manor Hotel	Exmouth	A	0
 Info Minds Ltd	Barking	A	0
 Infor (Midlands II) Limited	Shirley	A	0,4
 Information Asset Management Solutions Ltd	Colchester	A	0
@@ -4370,6 +4372,7 @@ Innovate Healthcare Management Group Ltd	Stockport	A	0
 Innovative Concept Management Ltd	Salford	A	0
 Innovative Marketing International Limited	London	A	0
 INNOVATIVE MEDIA AGENCY LTD	Sheffield	A	0
+Innovius Capital Management UK Limited	Chelsea, London	A	0
 INO MOUNT LTD	London	A	0
 Insanity Media Limited	Greetland	A	0
 INSHALLAH HALAL MEAT LIMITED	Wembley, London	A	0
@@ -4440,7 +4443,6 @@ INVERROY CRISIS MANAGEMENT LIMITED	Edinburgh	A	0
 Invest Asset Management Ltd	London	A	0
 INVEST MULTILET & PPB LTD	Leeds	A	0
 Investa Markets Ltd	Temple	A	0
-Investindustrial Management Limited	London	A	0,4
 Investment Management Partners Limited	London	A	0
 Investment Mastery Trading Ltd	Borehamwood	A	0
 Inyanga Maritime Limited	Penryn	A	0
@@ -4509,6 +4511,7 @@ J & M Sewing Service Ltd	Newcastle-upon-Tyne	A	0
 J & M Stores Limited	Northolt	A	0
 J & M Ventures Ltd T/A Domino's Pizza	London	A	0
 J & P Monkton	York	A	0
+J A COYLE MANUFACTURING LIMITED	Derry	A	0
 J and K Minimarket Limited	Littleborough	A	0
 J and M Pallet Services Limited	Essex	A	0
 J AND M PATEL LTD	Halifax	A	0
@@ -4649,7 +4652,6 @@ JEWISH MUSIC INSTITUTE	London	A	3
 JEYATHA MANIVANNAN T/A PREMIER - JEY SUPER MARKET	Wolverhampton	A	0
 JF McKenna Ltd	Armagh	A	0
 JFA Medical Limited	Blackpool	A	0
-Jfg Care Limited, T/A Mint Dental Care Kingseat	Aberdeenshire	A	0
 JFL Seymours Lettings & Management Services (Woking) Limited	Woking	A	0
 JH MIDLANDS LTD T/a EASTSIDE MOTORS	Birmingham	A	0
 Jhelum Hair Style Masters	London	A	0
@@ -4704,6 +4706,7 @@ JOSAN (MIDLANDS) LTD	Hucknall, Nottingham	A	0
 JOSEPH MANOHARAN JESURATNAM TRADING AS JMJ FOOD & WINE	Cheshire	A	0
 Joseph Maridas Fernando T/A Joseph & Susie's Convenience Store - Premier	Crewe	A	0
 Joseph Martin Litter	Craigavon	A	0
+Joy Brands Limited T/A Pret A Manger	Buckinghamshire	A	0
 JOYS MOTORS LTD	Reading	A	0
 JP & MJ ENTERPRISES LIMITED	Dursley	A	0
 JPD Management Limited	Ilford	A	0
@@ -4857,6 +4860,7 @@ Keen as Mustard Marketing Limited	Surbiton	A	0
 KELLEHER GROUP MAINTENANCE LIMITED	London	A	0
 Keltbray Management Services Limited	Thames Ditton	A	0
 Keltic Traffic Management Limited	Middlesex	A	0
+KELTONE LTD T/A MOULTON PHARMACY	Northampton	A	0
 KEN'S TAKEAWAY MIDLANDS LTD	Brierly Hill	A	0
 Kenilworth Multi Academy Trust	Kenilworth	A	0
 Kenmore Management Limited	Harrow	A	0
@@ -4957,7 +4961,6 @@ Kiran Bala Malik trading as SK Enterprises	Tetbury	A	0
 KIRAN MOTORS CARS LTD	Leicester	A	0
 Kirby Spice Ltd T/A Mossla Tandoori	Frinton - On - Sea	A	0
 Kirkcaldy Central Mosque	Kirkcaldy	A	1,10
-Kirkella Mansions Limited	Kirk Ella	A	0
 KIRKELLA MANSIONS LTD	Hull	A	0
 Kirklees Metropolitan Council	Huddersfield	A	0,3
 Kirpal Medical Practice	Birmingham	A	0
@@ -5019,7 +5022,6 @@ Krishna Asian Food Market Limited	Milton Keynes	A	0
 Krishna Mohan Reddy	Bromyard	A	0
 Krishnapillai Prunthavan t/a Whitton Food Market & Gunton Services Station & Smokers Cabinet	Suffolk	A	0
 Krishnaswamy Ramkumar T/A Manorbier Stores & Post Office	Tenby	A	0
-KRO Hotels Manchester M2 Ltd t/a Asha's Restaurant	Manchester	A	0
 KRS Marine Limited	Middlesbrough	A	0
 KS MOTORS LONDON LTD	Brentwood	A	0
 KS Roof Master Limited	London	A	0
@@ -5090,6 +5092,7 @@ Lagan Airport Maintenance Ltd	Woolston, Warrington	A	0
 Lahore Cafe Bar(Manchester) Limited	Manchester	A	0
 Lahore Tika Masala (London) Limited T/A Lahore Tika Masala	London	A	0
 LAHORI MASALA SOUTHALL LTD	Southall	A	0
+LAHORI SPICE GARDEN LTD T/A MY BAGH	Manchester	A	0
 Laing Investments Management Services Limited	London	A	0
 Lake Chemicals and Minerals Limited	Redditch	A	0
 Lake Merritt Hospitality Holdings Limited	London	A	0
@@ -5098,6 +5101,7 @@ LAKESIDE MEDICAL PRACTICE	Enniskillen	A	0
 Lakeside Medical Practice	London	A	0
 Lakeview Farm Meats Limited	Crumlin	A	0
 Laksa - M News & Wine	Liverpool	A	0
+LAKSHMI MND LIMITED	Newport	A	0
 LALQILA MAGHULL LTD	Liverpool	A	0
 LAMBODARA ENTERPRISE LIMITED T/A Muffin Break	Welwyn Garden City	A	0
 Lancashire Direct Halal Meat Ltd	Blackburn	A	0
@@ -5227,7 +5231,6 @@ Liftoff Mobile Ltd	London	A	0,4
 Liganova Mash! Ltd	London	A	0
 Light Methods Limited	Sutton	A	0
 Light Upon Light Media Limited	London	A	0
-LIGHTDALE TRADING LTD T/A MOTOVANS	Harrow	A	0
 Lightman Investment Management Limited	London	A	0
 Lightning Media Limited	Perivale	A	0
 LIGHTSOUT MEDIA LTD T/A SILHOUETTE UK	London	A	0
@@ -5455,7 +5458,6 @@ M & A Convenience Stores Ltd	Llanelli	A	0
 M & Co Accountants Limited	Bedford	A	0
 M & D Business Limited	Street	A	0
 M & D Care Operations Limited	Carmarthen	A	0
-M & D Careplus Limited T/A Bluebird Care Tamworth, Lichfield, Nuneaton & North Warwickshire	Tamworth	A	0
 M & D MADINA LTD	Aberdeen	A	0
 M & G HEALTHCARE SERVICES LTD	Edinburgh	A	0
 M & G PlC	London	A	0,4
@@ -5626,7 +5628,7 @@ M S Spiices Limited	Birmingham	A	0
 M S Z CORPORATE SERVICES PROVIDER UK LTD 14856521	England	P	2
 M SAAD'S LIMITED	Sheffield	A	0
 M Sarwar Limited	London	A	0
-M SECURITY SERVICES LIMITED	Birmingham	A	0
+M SECURITY SERVICES LIMITED	Solihull	A	0
 M Squared (Scotland) Ltd	Glasgow	A	0
 M SULEMAN AND COMPANY LIMITED	Glasgow	A	0
 M T Finance Limited	London	A	0
@@ -5870,7 +5872,7 @@ M8 Recovery Limited	Glasgow	A	0
 M88 SERVICES LIMITED	Ilford	A	0
 M95 DORCHESTER LIMITED T/A THE SUNDORBON	Dorchester	A	0
 MA & CO. LTD	Blackpool	A	0
-MA ACADEMY LTD	Walsall	A	0
+MA ACADEMY LTD	Northampton	A	0
 MA Accountancy Services Ltd	Slough	A	0
 MA Accountants	Manchester	A	0
 MA Accountants & Bookkeepers	Manchester	A	0
@@ -5937,7 +5939,6 @@ Maankulu Food &Wine (UK) Ltd	Abingdon	A	0
 MAANU ENTERPRISES LIMITED	Surrey	A	0
 Maanvi Technologies Limited	West Bromwich	A	0
 MAAPAA'S KITCHEN LTD	Wembley	A	0
-MAAPS Design & Architecture Limited	London	A	0,3
 MAARAN TECHNOLOGIES LIMITED	Romford	A	0
 MAAREE	Milton Keynes	A	0
 MAAS HYPERMARKET LTD	Preston	A	0
@@ -5990,6 +5991,7 @@ MacArthur Barstow and Gibbs Ltd	Worcestershire	A	0
 MacAulay Askernish Ltd	Isle of South Uist	A	0
 Macaulay Sinclair Ltd	Nottingham	A	0
 MACBRIT SOLUTION LIMITED LIMITED	Wembley	A	0
+MACBRIT SOLUTIONS LIMITED	Wembley	A	0
 Macc Care (Marsh Hill) limited	Birmingham	A	0
 Macc Care Limited	Birmingham	A	0
 MACCA Team Ltd	Wilmslow	A	0
@@ -6075,7 +6077,6 @@ Maconda Limited T/a Maconda Solutions	London	A	0
 Maconomics Ltd t/a Maconomix	London	A	0
 Macphie Ltd	Stonehaven	A	0
 Macphilips Foods Ltd	Dagenham	A	0
-Macquarie Aircraft Leasing Services (UK) Limited	London	A	0
 Macquarie Group Services Australia Pty Ltd (UK Branch)	London	A	0,4
 Macrae Group UK Limited	London	A	0,4
 MACRAE HIGHLAND LTD	Pitlochry	A	0
@@ -6189,7 +6190,6 @@ MADINA SUPER STORE ROCHDALE LTD	Rochdale	A	0
 MADINA SUPERMARKET LIMITED	Harrow	A	0
 Madina Travel Nottingham Ltd	Nottingham	A	0
 MADINAH CONSTRUCTION LTD	Ilford	A	0
-MADIOX LIMITED	Bolton	A	0
 MADISON BERKELEY LIMITED	London	A	0
 Madison Brook International Limited	London	A	0
 Madison CF UK Limited	Cardiff	A	4
@@ -6349,7 +6349,6 @@ MAGNUM PHOTOS LIMITED	London	A	0
 MAGNUM PRIVATE HIRE LTD	Stoke on Trent	A	6
 magnum trading wf ltd	Huddersfield	A	0
 MAGNUS CARE LTD	Tyne and Wear	A	0
-Magnus Care Ltd	Wallsend	A	0
 MAGNUS INFOTECH LIMITED	Romford	A	0
 Magnus Media Ltd	Southall	A	0
 MAGNUS NORQUAY SHELLFISH LIMITED	Kirkwall	A	0
@@ -6419,7 +6418,7 @@ MAHARANIS OF DEEPING LTD TA MAHARANIS	Peterborough	A	0
 MAHARJAN FOODS LIMITED	Belfast	A	0
 MAHASANA LTD	Eastleigh	A	0
 Mahasi Dhamma Fellowship	Salford	A	9,10
-Mahason Limited	Harrow	A	0
+Mahason Limited	Belper	A	0
 Mahastore Ltd.	London	A	0
 Mahathi Limited	Mildenhall	A	0
 Mahathmaseelann Puthuvlakan	Sunderland	A	0
@@ -6502,6 +6501,7 @@ MAIL LINK UK LTD	Slough	A	0
 Mailchain Limited	London	A	0
 Mailing Technology & Sup[port Ltd	Romford	A	0
 MAILPALLET LTD	Coventry	A	0
+MAILWAY PACKAGING SOLUTIONS LIMITED	West Bowling	A	0
 MAIN - TAKING AUTISM PERSONALLY	Middlesbrough	A	0
 Main Capital Partners UK LTD	London	A	0,4
 MAIN COURSE PARTNERS LTD	London	A	0
@@ -6677,7 +6677,6 @@ Malabar Gold & Diamonds Limited	London	A	0
 MALABAR MAJLIS	Stoke-On-Trent	A	0
 Malabar Stores Limited	Cornwall	A	0
 Malaberg Ltd	London	A	0
-Malaberg Ltd	Sheffield	A	0
 MALABIS SERVICE'S LTD	London	A	0
 Malabu BKS Limited TA Malibu Darbar	Edgware	A	0
 Malachi Care Services Ltd	Pontefract	A	0
@@ -6695,7 +6694,6 @@ MALATANG OXFORD LTD	Oxford	A	0
 Malathy Group Limited	Hertfordshire	A	0
 MALATHY UK LTD	Luton	A	0
 Malawi High Commission	London	A	5
-Malay Home Limited t/a Malay Malay Home	Salford	A	0
 Malayalee Association of the UK	London	A	0
 Malayan Banking Berhad	London	A	0,4
 MALAYSIA AIRLINES BERHAD	London	A	0,4
@@ -6718,8 +6716,8 @@ MALFAUR LONDON CONSULTING LIMITED	Leicester	A	0
 Malhi Haulage Limited	Belvedere	A	0
 Malhi meat Center Ltd	Birmingham	A	0
 MALHOTRA CARE HOMES LIMITED	Newcastle	A	0
+Malhotra Family Holdings Limited	Newcastle upon Tyne	A	0
 Malhotra Fin (UK) Limited	Newcastle Upon Tyne	A	0
-Malhotra Group PLC	Newcastle upon Tyne	A	0
 MALHOTRA NEWS AGENT LTD	London	A	0
 MALI SOLUTION LIMITED	Bolton	A	0
 Mali Therapeutic Massage Ltd	Dundee	A	0
@@ -6821,9 +6819,8 @@ MAMMA'S LTD T/A MAMMA'S	Herne bay	A	0
 Mammal Design	London	A	0
 Mammaz foods ltd T\A roosters piri piri	Essex	A	0
 Mammbo Group Limited	Hayes	A	0
-Mammoet (UK) Ltd	Wallsend	A	0,4
+Mammoet (UK) Ltd	Thornaby	A	0,4
 Mammoth Construction Ltd	London	A	0
-Mammoth Screen Limited	London	A	3
 Mamo UK Trading Limited t/a Lahore Halal Meat	Manchester	A	0
 Mamou-Mani Architects	London	A	0
 Mams Shop LTD	Todmodern	A	0
@@ -6915,7 +6912,6 @@ MANCHESTER HOSIERY LIMITED	Manchester	A	0
 Manchester House Of Prayer	Manchester	A	9
 MANCHESTER IMPORT AND EXPORT TRADING LTD	Manchester	A	0
 Manchester International Festival	Manchester	A	0,3
-Manchester Islamic Institute t/a Manchester Islamic Centre	Manchester	A	1,9,10
 Manchester Learning Zone	Manchester	A	0
 MANCHESTER LIVING LTD	Manchester	A	0
 Manchester Marriott Hotel Piccadilly	Manchester	A	0
@@ -7025,7 +7021,7 @@ MANHIB LIMITED	Romford	A	0
 Manhire Associates Limited	Kingston-Upon-Thames	A	0
 MANHOLEMETRICS LTD	London	A	0
 Mani Brother Granton Ltd	Edinburgh	A	0
-MANI CONTRACTS LTD	Stanley	A	0
+MANI CONTRACTS LTD	Ilford	A	0
 Mani Transport Ltd	Nottingham	A	0
 Manicay Ltd	Birmingham	A	0
 Maniere De Voir Ltd	Manchester	A	0
@@ -7086,7 +7082,7 @@ Manor and Park Group Practice	Sheffield	A	0
 Manor Body Repairs Limited	Hertfordshire	A	0
 Manor Care Home	Middlewich	A	0
 Manor Care Home Group	Birtley	A	0
-Manor Care Homes Ltd	Margate	A	0
+Manor Care Homes Ltd	Ramsgate	A	0
 Manor Collection	Reigate, Surrey	A	0
 Manor Community	Bristol	A	0
 Manor Court Surgery	Nuneaton	A	0
@@ -7121,7 +7117,6 @@ MANPEH MAC LIMITED	London	A	0
 Manpower UK Limited	Uxbridge	A	0,4
 Manpreet Singh T/A Raj Builder	Leicester	A	0
 Manro Medical Ltd	Surbiton	A	0
-MANS TRADING LIMITED T/A The Ladz	Cardiff	A	0
 MANS TRADING LIMITED T/A The Ladz	Cardiff,	A	0
 MANSARA LTD	Alfreton	A	0
 Manse Foods Ltd t/a 7 Spices	Wishaw	A	0
@@ -7188,7 +7183,7 @@ Manzanita Capital UK LLP	London	A	0
 Manzil and Co Ltd	London	A	0
 Manzil of Morpeth Limited	Northumberland	A	0
 Manzoor plumbing and Heating ltd	London	A	0
-MAP ACCOUNTING LIMITED	Harrow	A	0
+MAP ACCOUNTING LIMITED	Colindeep Lane	A	0
 MAP GROUP (UK) LIMITED	Stockton-On-Tees	A	0
 Map Impact Ltd	Bristol	A	0
 MAP INVESTMENT PARTNERS LIMITED	Harrow	A	0
@@ -7236,7 +7231,9 @@ MAPS Cash and Carry Limited	Leicester	A	0
 Maps Logistics Ltd	Swansea	A	0
 MAPS PROPERTIES LTD	Norwich	A	0
 MAPS SERVICES LTD	Mitcham	A	0
+MAPS Trading Systems (UK) LLP	London	A	0
 Mapsi Store Limited	Woodford Green	A	0
+MAPSTAND LIMITED	London	A	0
 MAPTEC Limited	Hornchurch	A	0
 Maptek Ltd	Edinburgh,	A	0,4
 MAQ Accounts Limited	Walsall	A	0
@@ -7334,7 +7331,7 @@ Mare Nostrum Group	Harrogate	A	0
 Marek Wojciechowski Architects Limited	London	A	0
 Marel Limited	Colchester	A	0
 MARELE ACCOUNTANCY LIMITED	Bournemouth	A	0
-Marelli Automotive Systems Europe plc	Llanelli	A	4
+Marelli Automotive Systems Europe plc	Llanelli	A	0,4
 Marelli Automotive Systems UK Ltd	Llanelli	A	0
 Marex Group Plc	London	A	0,4
 Marex Marine Services Limited	Aberdeen	A	0
@@ -7400,6 +7397,7 @@ MARIGOLD AND MANGO LTD	West Byfleet	A	0
 Marigold care Group Ltd	London	A	0
 MARIGOLD INSULATION UK LTD	Halesowen	A	0
 Marigold MG1 Ltd	Borehamwood	A	0
+Marigold MG2 Ltd	Colchester	A	0
 Marigold Services Limited	Forest Gate	A	0
 MARIJAK LIMITED	London	A	0
 Marilak Services Limited	Hatfield	A	0
@@ -7528,7 +7526,6 @@ MARKET INTELLIGENCE INTERNATIONAL	London	A	0
 Market Lane Dental Care	Selby	A	0
 Market Lavington Surgery	Devizes	A	0
 MARKET LINK GROUP LIMITED	London	A	0
-MARKET MAKERS AI LIMITED	London	A	0
 MARKET NEWS LIMITED	London	A	0,4
 Market of Choice LTD	Dewsbury	A	0
 Market Quarter Medical Practice	Rugby	A	0
@@ -7860,10 +7857,10 @@ Marys Meals International	Glasgow	A	0
 MARYSVILLE MEDICAL PRACTICE	Shrewsbury	A	0
 Maryvale & News & Wine Limited	Birmingham	A	0
 Marzano Limited	York	A	0
-MAS & PAS LIMITED	London	A	0
 MAS Associates (Scot) Limited	Glasgow	A	0
 Mas Bazaar Ltd T/A Ujan Bhati	Bedfordshire	A	0
 Mas Bazaar Retail and Wholesale Limited	Newport	A	0
+MAS BAZAR BETHNAL GREEN LTD t/a Mas Bazar	London	A	0
 Mas Bazar Birmingham Ltd	Birmingham	A	0
 MAS BAZAR LUTON LTD	Luton	A	0
 MAS BAZAR WHITECHAPEL LIMITED	London	A	0
@@ -7880,7 +7877,6 @@ Masala Art Limited	Darlington	A	0
 Masala Bay Limited	Ventnor	A	0
 Masala Bazaar Cardiff LTD	Cwmbran	A	0
 MASALA BAZAAR CHADWELL LTD	Cwmbran	A	0
-MASALA BAZAAR SWANSEA LTD	Swansea	A	0
 MASALA BAZAAR SWINDON LTD	Cwmbran	A	0
 MASALA CARE LIMITED T/A BADI MIRCHI	Eastleigh	A	0
 Masala Craft Limited TA Atithi Contemporary Indian Restaurant	York	A	0
@@ -7935,6 +7931,7 @@ Mason and Marlowe Ltd	Manchester	A	0
 Mason Clark Associates	Hull	A	0
 Mason Events Management Ltd	London	A	0
 Mason Jewellers Limited	Leeds	A	0
+Mason Navarro Pledge Ltd.	Hitchin	A	0
 Mason Yardley Trust	Birmingham	A	0
 Masonry Design Ltd	Blackburn	A	0
 Masons Car Service Limited	London	A	0
@@ -8137,6 +8134,7 @@ Matrixweb Ltd	Leicester	A	0
 Matrixx Software Europe Llimited	Ipswich	A	0
 Matrressman Ltd	Norwich	A	0
 Mats Pharma Ltd	Chelmsford	A	0
+MATS Research UK Ltd	London	A	0
 MATT Architecture Ltd	London	A	0
 MATT Carpentry Ltd	Halifax	A	0
 Matt Perry Limited	Wokingham	A	11
@@ -8286,7 +8284,7 @@ Maxim Solicitors	Gants Hill	A	0
 Maxim World Limited	Ruislip	A	0
 Maximax Capital Management Ltd	London	A	0
 Maximilian Italian Ltd	Swansea	A	0
-Maximillian & Co	Sharpthorne	A	0
+Maximillian & Co	Chelsea Harbour	A	0
 Maximilliano Fernandez trading as MF Polo	Midhurst	A	11
 Maxims Supermarket Ltd	Leicester	A	0
 maximum car care ltd	London	A	0
@@ -8632,7 +8630,6 @@ McCrae Training Ltd	East Kilbride	A	0
 McCrone UK Limited	Southampton	A	0
 MCCrory Engineering Limited	Aughnacloy	A	0
 McCulla (Ireland) Limited	Lisburn	A	0
-McCulla Ireland Limited	Lisburn	A	0
 McCulloughs Ltd	Newmarket	A	0
 McCune Management Services Ltd	Belfast	A	0
 MCD Consultancy Ltd	London	A	0
@@ -8721,7 +8718,7 @@ McManus Managed Pub Co Limited	Northampton	A	0
 McMenon Engineering Services Limited	Workington	A	0
 MCMGHC. LTD(Merchant City Medical Group)	Glasgow	A	0
 Mcmillan Leisure Ltd	Strathpeffer	A	0
-McMillan Woods	Sidcup	A	0
+McMillan Woods	London	A	0
 Mcmillan Woods Audits Limited	London	A	0
 MCMULLAN FISHING COMPANY LTD	Kircubbin	A	0
 mcmullan odonnell	Dungannon	A	0
@@ -9064,6 +9061,7 @@ Medicine Box (London) Ltd	Wembley	A	0
 Medicine Box (Nottingham) Limited	Nottingham	A	0
 Medicine Buddha Foundation	Dartford	A	0,1,9,10
 MEDICINE CLINIC LTD	Southampton	A	0
+MEDICINE FIRST LTD	Birmingham	A	0
 MEDICINE MARKET PLACE LTD	Preston	A	0
 MEDICINES 4 U LTD	Pinner	A	0
 Medicines and Healthcare products Regulatory Agency	London	A	0
@@ -9072,14 +9070,13 @@ Medicines Extra Healthcare Ltd	London	A	0
 Medicines Plus LTD T/A Loves Farm Pharmacy	St. Neots	A	0
 Mediclinic Pharmacy Limited	Gillingham	A	0
 Medico Partners Ltd	Birmingham	A	0
-MEDICOM DISTRIBUTION LIMITED (15544816)	Leicestershire	A	2
+MEDICOM DISTRIBUTION LIMITED (15544816)	London	A	2
 Medicom Healthcare Limited	London	A	0
 MEDICOMP UK LIMITED	Leicester	A	0
 Medicos Prime Health Ltd	London	A	0
 MEDICRAMA LTD	London	A	0
 MEDICREST LIMITED	Surrey	A	0
 MEDICS-UK LIMITED, t/a Premier Private GP	Bagshot	A	0
-Medicsensors Limited	York	A	0
 MEDICSTAR (UK) LIMITED	Altrincham	A	0
 Medicstar (UK) Ltd t/a Pelican Pharmacy	Altrincham	A	0
 MEDICUS HEALTH LIMITED	London	A	0
@@ -9089,6 +9086,7 @@ Medidata Exchange Ltd	Cardiff	A	0
 Medidenta LTD	Welling	A	0
 MEDIENT UNSTOPPABLE LIMITED	Harrow	A	0
 Medify Ltd	London	A	0
+MediGAS UK Ltd	Greater Manchester	A	0
 Medigold Health Consultancy Limited	Northampton	A	0
 Medigold Health Consultancy Limited	Northants	A	0
 Medigreen Limited T/A Medigreen Pharmacy	Luton	A	0
@@ -9212,7 +9210,7 @@ Meenmore Contracts Limited	Glasgow	A	0
 MEENU G LONDON LIMITED	Bradford	A	0
 MEENU LIMITED	London	A	0
 Meer & Co Chartered Accountants	London	A	0
-Meer & Meer Ltd	Northolt	A	0
+Meer & Meer Ltd	Greenford	A	0
 MEER JULHAS & CO LIMITED	London	A	0
 MEER KEBAB AND PIZZA LTD	Kingston Upon Thames	A	0
 Meer United Limited	London	A	0
@@ -9309,6 +9307,7 @@ Mehran Renovation Services Limited	Southampton	A	0
 Mehrazma Limited	Nuneaton	A	0
 MEHREEN DINE (BOURNE) LTD T/A MONTAZ	Bourne	A	0
 MEHREGAN LIMITED	London	A	0
+Mehru's Beauty LTD	London	A	0
 Mehul Patel & Asha Patel t/a Nisa Local	Leeds	A	0
 MEI THEATRICAL LTD	London	A	3
 Mei's You Someset Ltd	Taunton	A	0
@@ -9339,6 +9338,7 @@ MELAS CORP LTD	London	A	0
 Melbec Microbiology Ltd	Rossendale	A	0
 MELBOURNE HOUSE HOTEL	London	A	0
 Melbourne Park Medical Centre	Nottingham	A	0
+MELBRID LTD	Glasgow	A	0
 Melburay Ltd	London	A	0
 MELBURY DRY CLEANERS	London	A	0
 MELCOMBE NEWS LTD	London	A	0
@@ -9569,6 +9569,7 @@ Merging Rivers Grange Ltd.	Kingston Upon Thames	A	0
 Mericrest Limited	London	A	0
 MERIDALE STORE LTD	Wolverhampton	A	0
 MERIDEN CATERING LIMITED	Birmingham	A	0
+Meridial Ltd	London	A	0
 Meridian Audio Limited	Huntingdon	A	0
 Meridian Business Support LTD	Threapwood Road	A	0
 Meridian Carz Ltd	East Grinstead	A	0
@@ -9580,11 +9581,11 @@ Meridian Health Ventures Management LLP	London	A	0
 Meridian Hotels Ltd	Sittingbourne	A	0
 Meridian Impact CIC	Cambridge	A	0
 Meridian Investment Group Limited t/a Invicta Hotel	Plymouth	A	0
+Meridian IT Ltd	Henley-in-Arden	A	0
 MERIDIAN IT SERVICES LIMITED	Barking	A	0
 Meridian Lightweight Technologies UK Ltd	Sutton-in-Ashfield	A	0,4
 Meridian Marketing International Ltd	Sunbury on Thames	A	0
 MERIDIAN MARLOW LIMITED	Buckinghamshire	A	0
-MERIDIAN MARLOW LTD	Marlow	A	0
 Meridian Media Holdings Limited	London	A	0
 Meridian Medical Limited	Littlehampton	A	0
 Meridian Peoples Holdings Limited	London	A	0
@@ -9607,7 +9608,6 @@ Merila P Ltd	Hailsham	A	0
 Merisant UK Limited	High Wycombe	A	0
 Merit Group Plc	London	A	0,4
 Merit HealthCare Ltd	Royal Wooton Basset	A	0
-Merit Homes Ltd	Bangor	A	0
 Merit Intergrated Services	Bedford	A	0
 Merit Market	Aveley	A	0
 MERIT SUPPLIES LTD	Morden	A	0
@@ -9615,7 +9615,6 @@ Merit Tutors LTD	Ilford	A	0
 Merit Wholesale Ltd	London	A	0
 Meritcape Ltd	London	A	0
 Merith House Hotel	Edinburgh	A	0
-Meritor Heavy Vehicle Braking Systems (UK) Limited	Cwmbran	A	0,4
 Meritum Integrated Care LLP	Ashford	A	0
 MERJ LIMITED	London	A	0
 MERJE Limited	London	A	0
@@ -9697,6 +9696,7 @@ MESOX LTD	Birmingham	A	0
 message heard media ltd	London	A	0
 Message House	Berkhamsted	A	0
 MessageBird UK Limited	London	A	0
+Messagepoint Ltd	Bristol	A	0
 Messana Investments Limited	Ardglass	A	0
 Messers Aldo Petrucci	Stranraer	A	0
 Messiah Freight & Distributors UK Ltd.	London	A	0
@@ -10212,6 +10212,7 @@ Microland Limited	London	A	0,4
 MicrolinkPC (UK) Ltd	Chandlers Ford	A	0
 Microlise Limited	Nottingham	A	0
 Micrologix Limited	Walsall	A	0
+MicroLub Limited	Leeds	A	0
 Micromass UK Limited	Wilmslow	A	0,4
 Micron Europe Limited	Bracknell	A	0,4
 MICRON RESEARCH LIMITED	Ely	A	0,4
@@ -10252,7 +10253,6 @@ Mid-Sussex Super Cream	Burgess Hill	A	0
 MID-VIEW HEALTHCARE LTD	Birmingham	A	0
 MIDA Commercials Ltd	Wednesbury	A	0
 MIDAL CABLES INTERNATIONAL LIMITED	Hounslow	A	0
-MIDAS (Euro) Limited	Bolton	A	0
 Midas Care Solutions Ltd	Wolverhampton	A	0
 Midas Public Relations Limited	London	A	0
 MIDAS TOUCH BUSINESS SERVICES LIMITED	Surrey	A	0
@@ -10406,6 +10406,7 @@ MiExact Ltd	London	A	0
 MIF Services (UK) Limited	London	A	0
 Mifadelo Global Religion Law and Health Found Ltd	London	A	0,1,9,10
 MiFinity UK Limited	Netownbreda	A	0
+MIG House residential care home Limited	London	B	0
 Migatronic Welding Equipment Ltd.	Leicestershire	A	0
 Migdale Transport Ltd	Bonar Bridge	A	0
 Might & Grace Productions CIC	Milton Keynes	A	9
@@ -10778,7 +10779,6 @@ Minerva Global Limited	Alton	A	0
 Minerva Research Labs Ltd	London	A	0
 Minerva Supported Living Ltd	Leicester	A	0
 Minerva UK Ltd	York	A	0
-Minerva UK Services Limited	London	A	0
 Minervise Accounting and Taxation Limited	London	A	0
 Minesoft Ltd	Richmond	A	0
 Minet Green Health Practice	London	A	0
@@ -10838,7 +10838,6 @@ MINMETALS IRON & STEEL UK LTD	London	A	0,4
 Minna Technologies Limited	Warwick	A	0
 Minninnooka Ltd	Lightwater	A	0,11
 MINNIS BAY SUPERMARKET LTD	Birchington	A	0
-MINNU SOFTWARE SOLUTIONS PRIVATE LIMITED	Coventry	A	0
 Minoa Cherubs Ltd	London	A	0
 Minoa Savernake Limited	Marlborough	A	0
 Minoan Pictures Limited	Southam	A	3
@@ -10918,7 +10917,7 @@ Mirabelle Communications Ltd	Croydon, Surrey	A	0
 Miracle Artists Ltd	Yelverton	A	3
 Miracle Hands Professionals Ltd t/a Nursing24Seven	Spalding	A	0
 Miracle Inside UK Ltd	Leeds	A	0
-MIRACLE INTERNATIONAL CONTRACTING & TRADING CO. LTD	Bristol	A	0,4
+MIRACLE INTERNATIONAL CONTRACTING & TRADING CO. LTD	Milton Keynes, Buckinghamshire,	A	0,4
 Miracle IT System Ltd	Chertsey	A	0
 Miracle Macau Luxury Trading Limited	London	A	0
 Miracle Scan	Northwood	A	0
@@ -10948,7 +10947,6 @@ Miranda Limited T/A Om Double Glazing	London	A	0
 MIRANDA LONDON LTD	London	A	0
 Miranda Management and Accounting Services Limited	Southall	A	0
 Mirantis UK Limited	Reading	A	0,4
-MIRASANDKAILAH LTD	Salisbury	A	0
 Mirastar Real Estate Investment Management Limited	London	A	0,4
 MIRATECH EUROPE LIMITED	Woking,	A	0
 MIRB TRADERS LTD	Carshalton SURREY	A	0
@@ -11099,6 +11097,7 @@ MITHUS CONTINENTAL MART LTD	Haverhill	A	0
 Mitie Group Plc	Glasgow	A	0,4
 Mitiga-UK Ltd.	London	A	0,4
 Mitigate Limited	Southampton	A	0
+MITRA BIO LIMITED	London	A	0
 Mitra Innovation Limited	London	A	0,4
 Mitratech (UK) Limited	Burnham	A	0,4
 Mitre Maintenance Ltd	Manchester	A	0
@@ -11241,7 +11240,6 @@ MK GAS AND ELECTRIC LTD	Berkshire	A	0
 MK GILL LIMITED	Reading	A	0
 MK GLOBAL EDUCATION CONSULTANT LIMITED	Manchester, Lancashire	A	0
 MK Health Care Services Ltd	Bolton	A	0
-MK HOSPITALITY & CATERING LIMITED	Milton Keynes	A	0
 MK Khan KLtd TA The New Eastern Spice	Falkirk	A	0
 MK MONTESSORI LTD	Milton Keynes	A	0
 MK MOT CENTRE LTD	Milton Keynes	A	0
@@ -11441,8 +11439,8 @@ MNGR.CLUB LTD	London	A	0
 MNI Care Ltd	Carlisle	A	0
 MNI RESTAURANTS LTD	Liverpool	A	0
 MNK Estates (UK) Limited	Langley	A	0
+MNK International Limited	London	A	0
 MNK Professional Services Ltd	Reading	A	0
-MNK RE Limited	London	A	0
 MNK Retail Ltd	Northampton	A	0
 MNM IT Services Limited	Blackburn	A	0
 MNM&CO LTD	Birmingham	A	0
@@ -11483,6 +11481,7 @@ MOBHUTSTOURBRIDGE LTD	Stourbridge	A	0
 Mobi Garden London Ltd	London	P	2
 Mobi Hub International Limited	Middlesex	A	0
 MOBI TEC (MK) LTD	Bolton	A	0
+Mobi-hub Ireland Ltd	Belfast	A	0
 MobiBiz Ltd	London	A	0
 Mobica Limited	Wilmslow	A	0
 Mobico Group PLC	Birmingham	A	0,4,7
@@ -11582,6 +11581,7 @@ Mochridhe (Edinburgh & Lothians) Limited	Glasgow	A	0
 Mockingbird Raw Press Limited	London	A	0
 MOCLOUK LIMITED	London	A	0
 MoDa's Touch Limited	London	A	0
+Modal Property Limited	London	A	0
 MODALINK LTD	London	A	0
 Modality Group Limited	Barrow Upon Soar	A	0
 Modality LLP	Birmingham	A	0
@@ -11606,6 +11606,7 @@ Modern Clothing Limited	Horsham	A	0
 Modern Construction Contractors Limited	London	A	0
 Modern Design Building Services Ltd	Wembley	A	0
 Modern Films Entertainment Ltd	London	A	0
+MODERN FLEXIBLE PACKAGING LTD	Nottingham	A	0
 Modern Hall Events Ltd	London	A	0
 Modern Hire UK Limited	London	A	0
 Modern Indian Diner Ltd	London	A	0
@@ -11666,7 +11667,6 @@ MOGHUL EXPRESS FOOD LTD	Leicester	A	0
 MOGIC (UK) LIMITED	Beckenham	P	2
 Mogok Dhamma Trust	Romford	A	1,10
 Mogrify Limited	Cambridge	A	0,4
-Mogul Games Group (UK) Limited	London	A	0
 Mogul Tandoori Indian Cuisine	Trowbridge	A	0
 Moh Investments Ltd	Essex	A	0
 MOH NIPPON PLC	London	A	0
@@ -11994,6 +11994,7 @@ Monteacute House Limited	London	A	0
 Monteiro Dental Clinic	London	A	0
 Monteith Personal Care Monteith Limited	Edinburgh	A	0
 Monteiths - Compass (Edinburgh) Ltd	Edinburgh	A	0
+Montel Group Ltd	Stockton-On-Tees	A	0
 MONTELEONE LIMITED	Glasgow	A	0
 Monterosa Productions Ltd	Liverpool	A	0
 Monterosso Polo Team	Windsor	A	11
@@ -12058,7 +12059,6 @@ Moof IT limited	London	A	0
 Moog Controls Limited	Tewkesbury	A	0,4
 Mookoboza Limited	London	A	0
 MOOLAH MATTERS LTD	Old Stevenage	A	0
-Moomenn Ltd	Walton on thames	A	0,4
 Moon and Back Media Limited	Surrey	A	0
 moon and food limited	Gloucester	A	0
 Moon Chelsea Ltd t/a Ixchel London	London	A	0
@@ -12173,6 +12173,7 @@ Moral Care	Overton	A	0
 Morales Advisory Services	London	A	0
 MORALIS GROUP LIMITED	South Woodford	A	0
 MORALY LIMITED	Bury	A	0
+MORAN'S RETAIL LTD	Londonderry	A	0
 Moran's Wood Components	Warrington	A	0
 Morar Care Group UK Limited	Bellshill	A	0
 Morar Lodge Nursing Home Limited	Helensburgh	A	0
@@ -12210,7 +12211,6 @@ Moreish Marketing	London	A	0
 Moreland House Care Home LimitedT/A Moreland House Care Home	Hornchurch	A	0
 Morena	London	A	0
 MOREPOLYTHENE LIMITED	Blackburn	A	0
-Moresand Limited	London	A	0
 Morespace Design Ltd	New Malden	A	0
 Moreton & Meols PCN Limited	Wallasey	A	0
 MORETON DENTAL LIMITED	Oxford	A	0
@@ -12341,6 +12341,7 @@ Mosaic Church	Coventry	A	1,10
 Mosaic LGBT+ Young Persons' Trust	London	A	0,9
 Mosaic Management Services Limited	London	A	0,4
 Mosaic Operative Ltd	Beckenham	A	0
+Mosaic Rooms	London	A	0,3
 Mosaic Syndicate Services Limited	London	A	0,4
 Mosaic Therapeutics Limited	Babraham	A	0
 MOSAIC WORLD LTD	Erith	A	0
@@ -12451,7 +12452,6 @@ MOTOR FUEL LIMITED	St Albans	A	0
 MOTOR LAND LTD	Beckenham	A	0
 MOTOR MAGIC LIMITED	Romford	A	0
 Motor Masters Ilford Services Limited	Ilford	A	0
-MOTOR MOMENT LIMITED	Manchester	A	0
 Motor Neurone Disease Association	Northampton	A	0
 Motor Repair Network	Halfiax	A	0
 Motor Town HX Ltd	Halifax	A	0
@@ -12462,7 +12462,6 @@ MOTOR VISE LIMITED	Dagenham	A	0
 MOTOR-TECNIC (U.K.) LIMITED	London	A	0
 MOTORBIKES 4 YOU LIMITED	Rochdale	A	0
 MOTORBING LIMITED	Barnsley	A	0
-MOTORCYCLE PARTS AND EQUIPMENT LTD	Leicester	A	0
 MOTOREXE LTD	Ilford	A	0
 Motorfinity Group Ltd	Newark	A	0
 Motorfix Ltd	Wembley	A	0
@@ -12555,7 +12554,6 @@ Mountdale Limited	Leigh-On-Sea	A	0
 MOUNTENNA LTD	London	A	0
 Mountever Foods Limited T/A The Burger Club	Banstead	A	0
 Mountever Restaurants Limited	London	A	0
-Mountever Restaurants Ltd	London	A	0
 Mountford Pigott LLP	New Malden	A	0
 Mountjoy Ltd	Portsmouth	A	0
 Mountlands Trust Limited t/a Lime Tree House	Sale	A	1
@@ -12596,6 +12594,7 @@ MOVEMATES LOGISTICS LIMITED	Barking	A	0
 Movember Europe	London	A	0,4
 Movemeback Limited	London	A	0
 Movement &Posture Ltd	London	A	0
+Movement Collective Ltd	London	A	0
 Movemeon Limited	London	A	0
 Movemonster LTD	London	A	0
 MovePlan Limited	London	A	0,4
@@ -12773,7 +12772,6 @@ MR DJ LTD	Lichfield	A	0
 MR EDWARD STRACHAN T/A HALSWELL HOUSE	Bridgwater	A	0
 Mr F Arbabi/ Dental Care Centre Limited T/A Dental Care Centre	London	A	0
 Mr Facilties and Management L	Thornaby	A	0
-MR FAST FOOD LTD	Romford	A	0
 Mr Floors Limited	Warrington	A	0
 MR FONES LTD	Belfast	A	0
 Mr Fonetastic Limited T/A JD Phones	Sunderland	A	0
@@ -12801,7 +12799,6 @@ Mr Jahan Zaib T/A Zaib Hair Kutz	Manchester	A	0
 Mr Jahngir Ahmed T/A Chapel Lane Garage	Stoke On Trent	A	0
 Mr Janarthanan Nadesapillai TA Hawkhurst Local	Hawkhurst	A	0
 Mr Jayesh Patel T/A B K News	London	A	0
-Mr Jean Francois Decaux	London	A	11
 Mr Jeyabalan Arumugam T/A Meadow Vale Convenience Store	Belper	A	0
 Mr JEYAKUMAR KUMARIAH T/A VINA WINES	Aylesbury	A	0
 Mr Jeyarajah Jeyanathan T/A The Stores	Gravesend	A	0
@@ -12973,6 +12970,7 @@ Mr Sivatharson Sivapatham T/A Durnford Croft Store	Birmingham	A	0
 MR SIVESANARAJ VELUPPILLAI TA GOOD NEWS	Kettering	A	0
 Mr Sritharan Arunan T/As Witham Service Station	Witham, Essex	A	0
 Mr Sritharan Mahathevan T/A MSH Store	Dudley	A	0
+Mr Su s Nobel Ltd	Leeds	A	0
 Mr Sureskumar Aiyadurai T/ A Star News	Skelmersdale	A	0
 Mr Suseetharan Somasuntharam T/As News Rack	Eastbourne	A	0
 MR SUTHAHARAN VETTIVEL & MRS KAJANTHINI SUTHAHARAN T/A MORRISON ROAD POST OFFICE	Port Talbot	A	0
@@ -13162,7 +13160,7 @@ MRT CARS LTD	London	A	0
 MRT REPAIRS CENTRE LTD	Brentwood	A	0
 MRT WORLD LTD	Chelmsford	A	0
 MRT& CO LTD	London	A	0
-MRVKS LTD	Feltham	A	0
+MRVKS LTD	Staines-Upon-Thames	A	0
 MRZ Restaurant Ltd	Moreton	A	0
 MS Accounting Services	Sheffield	A	0
 MS Action Ltd	London	A	0
@@ -13244,7 +13242,7 @@ MSG NETWORK LTD	Elgin	A	0
 MSG Sandhurst Ltd	Camberley	A	0
 MSG Scotland Limited	Camberley	A	0
 MSH CLOTHING UK LTD	Barking	A	0
-MSH Healthcare LTD	Barrow In Furness	A	0
+MSH Healthcare LTD	Ulverston	A	0
 MSI Computer (UK) Ltd	London	A	0,4,7
 MSI Enterprises Ltd	Croydon	A	0
 MSI Reproductive Choices	London	A	0,4
@@ -13412,7 +13410,6 @@ Muddy Machines Ltd	London	A	0
 MuddyBoots Nursery Ltd	York	A	0
 Mudeford Bay Ltd Trading as Alexander's Fish and Chips	Lymington	A	0
 MUDUK INVESTMENT LIMITED	London	A	0
-MUDUK RESTAURANT LTD	Mitcham	A	0
 Muehlhan Wind Service A/S	Hull	A	0,4
 Mueller Europe Limited	West Midlands	A	0
 Mueller International Holdings Limited	Southampton	A	4
@@ -13608,7 +13605,6 @@ Munawar & Co Ltd	Bradford	A	0
 Muncaster Visitor Management Limited	Ravenglass	A	0
 MUNCHEEZ LIMITED	Luton	A	0
 Munches Ltd	Manchester	A	0
-Munchez Tasty Point Ltd	Doncaster	A	0
 MUNCHIES BEVERAGE LIMITED	Brighton and Hove	A	0
 Munchies Corporation Limited	Sheffield	A	0
 MUNCHIES PIZZA BAR LTD	Huddersfield	A	0
@@ -13640,6 +13636,7 @@ Munshi's Halal (Dewsbury) Limited	Dewsbury	A	0
 Munster Holdings Limited	London	A	0
 Munster Joinery (U.K) Limited	Wellesbourne	A	0,4
 Munters Limited	Wyboston	A	0
+Muntham House School	Horsham	A	0
 Muntons plc	Stowmarket	A	0
 Munyasha LTD	Boston	A	0
 Mura Technology Limited	Cleveland	A	0
@@ -13805,7 +13802,6 @@ MVI RNTERPRISE LTD	Wembley	A	0
 MVK GROUP HOLDINGS LTD	London	A	0
 MVM ADVISORY GROUP LTD	London	A	0
 MVM2 Limited	East Sussex	A	0
-MVP PRO UK Limited	Milton Keynes	A	0
 MVPQ Capital Limited	London	A	0
 MVR IT Limited	Crownhill	A	0
 MVSN LTD	Bodicote	A	0
@@ -13889,6 +13885,7 @@ My India Ltd TA Mother India	Leicester	A	0
 My Indian	Manchester	A	0
 My Karak Chai	Oldham	A	0
 My Lalaland Ltd	London	A	0
+My Latte UK Limited (T/As My Latte Cafe)	Coventry	A	0
 My Learning Hub Limited	Twickenham	A	0
 My Legal Cashier Ltd	London	A	0
 MY LIVEN LIMITED	London	A	0
@@ -13974,7 +13971,6 @@ MyData-T Ltd	Uxbridge	A	0
 Myddelton College	Denbigh	A	0
 Myddelton Foods Ltd t/a Street Greek	London	A	0
 MYDEEDS LTD	London	A	0,4
-mydentist Group Limited	Kearsley	A	0
 mydentist Group Limited	Manchester	A	0
 MyDevConnect Ltd	Belfast	A	0
 MyEdSpace Ltd	London	A	0
@@ -14080,7 +14076,7 @@ MZSHAQ LTD	Manchester	A	0
 Mzuri Limited	Pershore	A	0
 MZUZU LIMITED	London	A	0
 MZW WHOLESALE LTD	Nottingham	A	0
-N & C Management Ltd t/a Joyato Sushi & Grill	Swansea	A	0
+N & C Management Ltd	Swansea	A	0
 N & G BUSINESS CONSULTANCY AND MARKET RESEARCH SERVICES LTD	Warrington	A	0
 N & K Brothers Minimart	Bilston	A	0
 N & M PIZZAS AND INDIAN TAKE AWAY LTD	Colchester	A	0
@@ -14093,6 +14089,7 @@ N+P Hartlepool MRF	Hartlepool	A	0
 N. G. MAKESH JEWELLERY LTD	Middlesex	A	0
 N. M. Smith Limited	Clacton On Sea	A	0
 N3 Hospitality Management Ltd	Hampshire	A	0
+N5 Music Holdings Ltd	London	A	0
 NABEEL HMC HALAL MEAT SUPPLIER LIMITED	London	A	0
 NAD'S Modern Builds Ltd	Bolton	A	0
 Nadeem Hussain T/AS A1 Motor Group	Bolton	A	0
@@ -14133,13 +14130,12 @@ Navratri Festival Association Manchester	Cheadle Hulme	A	3,9
 Nawafeth Majestic International Aluminium & Glass Work UK Ltd	Slough	A	0
 NAWAIE MOTORING LTD	Northolt	A	0
 Naya Capital Management UK Limited	London	A	0
-Naya Medicals limited	Bury	A	0
 NAZ MOTORS LTD	Leicester	A	0
 NBB MOTORCYCLES LTD	London	A	0
 NCC Mechanical Services Ltd	Chelmsford	A	0
 NCH MARKETING SERVICES LIMITED TRADING AS SAVI	Corby	A	0
 NDA Media ltd	Gloucestershire	A	0
-NDPL MANAGEMENT LIMITED	Leeds	A	0
+NDPL MANAGEMENT LIMITED	Keighley	A	0
 Neales Waste Managment Ltd	Preston	A	0
 NEASDEN MAIL LIMITED	London	A	0
 Neat Market Ltd T/A Thames Mini Market	London	A	0
@@ -14441,6 +14437,7 @@ Odyssey Capital Management Limited	London	A	0
 Odyssey MM Group	Nottingham	A	0
 OEG MARINE LIMITED	Great Yarmouth	A	0
 Off Licence Truro Malabar Convenience Store	Truro	A	0
+Off Market Group Limited	London	A	0
 Office of Gas and Electricity Markets	London	A	0
 Offshore Water Management Ltd	Westhill	A	0
 Ogilvy & Mathers Group (Holdings) Limited	London	A	0,3,4
@@ -14463,7 +14460,6 @@ Olive Tree Milton Keynes LTD	Milton Keynes	A	0
 Oliver Marketing	London	A	0,3,4
 OM Beers & Minerals Ltd T/A M G Beers & Minerals	Iver	A	0
 Om Medical Centre	Sheerness	A	0
-Om Mobile Ventures (UK) Limited	London	A	0
 Omakase Mayfair Limited	London	A	0
 OMAR FAROOK KHAN T/A MEGHNA TANDOORI RESTAURANT	London	A	0
 Omega Maintenance Services Limited	Morden	A	0
@@ -14962,7 +14958,6 @@ Pound Metro Limited	Dagenham	A	0
 Power Electronic Measurements Limited	Nottingham	A	0
 Power Link Machine (UK) Co Ltd	Leeds	A	0
 Power Metal Resources PLC	London	A	0
-PP Asset Management Ltd	London	A	0
 PP Stores Limited t/as Market Hill Convenience Store-Premier	Barnsley	A	0
 PPS Metal Recycling Limited	Scunthorpe	A	0
 PR PROPERTY MAINTENANCE (UK) LTD	Birmingham	A	0
@@ -14984,6 +14979,7 @@ Precious MD Ltd	London	A	0
 Precious Media Limited	London	A	0
 Precise Financial Management Services UK Ltd	London	A	0
 Precise Media Monitoring Limited	London	A	0
+Precise Medicolegal Consulting LTD	Glasgow	A	0
 Precision Creative and Media	Fareham, England, United Kingdom	A	0
 Precision Medical Clinic Ltd	Macclesfield	A	0
 Precision Microdrives Ltd.	London	A	0
@@ -15000,7 +14996,7 @@ PREMIER MIDDLE PARKWAY LIMITED	Havant	A	0
 Premier Mini Cab Services (Uk) Limited	New Malden	A	0
 Premier Minibus Hire	Cheadle	A	0
 Premier Mist (UK) Ltd	Wakefield	A	0
-Premier Miton Group plc	Guildford	A	0
+Premier Miton Group plc	London	A	0
 Premier Mobiles Ltd	Southampton	A	0
 Premier Model Management Ltd	London	A	0,3
 Premier Pencoed Mini Market	Pencoed	A	0
@@ -15290,10 +15286,8 @@ RASALINGAM KAJENDIRAN T/AS RT MULTI SHOP	Blackburn	A	0
 RASHID HALAL MEAT LTD t/a Rashid Halal Meat & Grocers	Derby	A	0
 RASHID MALIK LONDON LTD	Ilford	A	0
 Rashida Enterprise Ltd t/a Raj Mahal	Dundee	A	0
-Rate Masters Ltd	Manchester	A	0
 Rathern Ltd T/A DoubleTree by Hilton London ? Marble Arch	London	A	0
 Ratio Digital Marketing Limited	London	A	0
-Rational Labelling and Marking Systems Ltd	Brackley	A	0
 RAUF MONEY EXCHANGE & TRANSFERS LTD	London	A	0
 Rautela & Rathaurstornoway Limited t/a Masala Magic	Stornoway	A	0
 Ravens Media Ltd	Edinburgh	A	0
@@ -15313,6 +15307,7 @@ RBH Hotel Management Ltd	London	A	0
 RC Supply Management Limited	London	A	0
 RCCG - Jubilee Church Manchester	Manchester	A	0,1,10
 RCCG House of Mercy Aylesbury	Milton Keynes	A	1,10
+RCCG MOUNT ZION LIVERPOOL LTD	Liverpool	A	1,9,10
 RCF Management (UK) Ltd	London	A	0
 RCS MOSSLEY LTD	Ashton Under Lyne,	A	0
 RD Trading MCR Limited	Manchester	A	0
@@ -15332,8 +15327,8 @@ Real Mission Limited	London	A	0
 Real Music Academy Ltd	Oldham	A	3
 Real Time Media Ltd	Finchley	A	3
 Really Bright Media	London	A	0
-REALSTAR MANAGEMENT (UK) LIMITED	London	A	0
 Realterm Europe Management UK Ltd	London	A	0,4
+Rebecca Menzies Racing	Sedgefield	A	0
 Reboot Online Marketing Ltd	London	A	0
 Receiptco Manufacturing (UK) Ltd.	Peterborough	A	0
 Reco Medical Ltd	Uxbridge	A	0
@@ -15493,6 +15488,7 @@ Rivington Energy (Management) Limited	London	A	0
 Riyadh and brothers LTD TA Chilli Massala	Birmingham	A	0
 Rizwan Halal Meat and Grocery	Leicester	A	0
 RJ Godwin & Mrs FNA Godwin t/a Homecare Services	Waterfoot	A	0
+RJ McKee & M McKee T/a FV Achilles	Newry	A	0
 RJ McLeod (Contractors) Limited	Glasgow	A	0
 RJ Medical Consultants Ltd	East Hyde	A	0
 RK Marketing Ltd	Newry	A	0
@@ -15559,7 +15555,6 @@ Roos Leap Montrose Ltd	Montrose	A	0
 Root Store Ltd T/A Root Millers Superstore	Leicester	A	0
 Rope & Marine Services Ltd	London	A	0
 Rope Green Medical Centre	Crewe	A	0
-ROS AND MOS HOUSE SUPPORT LTD	Pitsea Basildon	A	0
 Rose and Crown Mayfield Ltd	Mayfield	A	0
 Rose Mount Supported Living Ltd	Derby	A	0
 Rose Valley Medical Centre	London	A	0
@@ -15688,6 +15683,7 @@ SA & NA Limited T/A Jet Jolly Miller Service Station	Rotherham	A	0
 SA Installation and Maintenance Limited	London	A	0
 SA PRESTIGE MOTORS LTD	Ilford	A	0
 SA2 Limited T/A Midway Pharmacy	Leeds	A	0
+Saannie Medical Services Ltd	Wrexham	A	0
 Saascribe Media Limited	London	A	0
 SAASTHA MINIMART	Sittingbourne	A	0
 SABA CAPITAL MANAGEMENT (UK) LIMITED	London	A	0
@@ -15776,7 +15772,6 @@ Sandfish Ltd t/a Michael Ruh Studio	London	A	0
 Sandhu Mail Ltd	Birmingham	A	0
 Sandown Motors Limited	Poole	A	0
 Sands Care Morecambe Ltd	Morecambe	A	0
-SANDSTONE CARE (MUCH HOOLE) LIMITED	Isle Of Man	A	0
 Sandwell MBC	Oldbury	A	0
 SANGERWAL MONEY TRANSFER SERVICES LTD	Edgware	A	0
 SANJAY MAGANBHAI PATEL T/A NEW PURNIMA OF MOMBASA	Leicester	A	0
@@ -15815,7 +15810,6 @@ Save Mart Supermarket Ltd T/A Save Mart Supermarket	London	A	0
 Save My Exams Limited	London	A	0
 SAVER MERCHANT LTD T/A Novopay	Luton	A	0
 Saville Medical Group	Newcastle upon Tyne	A	0
-Savoy Care Home Limited T/A Maryland Care Home	Liverpool	A	0
 Savoy Park Hotel Management Limited	Ayr	A	0
 Savvy Marketing, PR and Growth Ltd	Wolverhampton	A	0
 Saxo Capital Markets UK Ltd	Canary Wharf	A	0,4
@@ -15880,7 +15874,7 @@ SEATING MASTER LIMITED	London	A	0
 Second Management Consultancy Ltd	Southend-on-Sea	A	0
 Secret of Indian Masala Ltd	Harrow	A	0
 Sectorlight Marketing Limited	London	A	0
-SECURE MANAGEMENT SECURITY GROUP LIMITED	Harborough District, Leicester	A	0
+SECURE MANAGEMENT SECURITY GROUP LIMITED	Leicester	A	0
 Secure Meters (UK) Ltd	Chandlers Ford	A	0,4
 SECURE MISSION SECURITY LTD	Glasgow	A	0
 Secure My World Ltd	Bolton	A	0
@@ -16174,6 +16168,7 @@ SMARSTAY LTD T/A MANOR HOTEL	Exmouth	A	0
 Smart Builders Mossley Ltd	Stalybridge	A	0
 Smart Business Management Ltd	London	A	0
 Smart Cherry Mobiles Ltd	Nuneaton	A	0
+SMART CITY MK CIC	Woburn Sands	A	0
 SMART EVENT MANAGEMENT1 LTD T/A SMART EVENT MANAGEMENT	Southall	A	0,3
 Smart Heating Maintenance Limited	London	A	0
 Smart Machine Solutions Limited	Bristol	A	0
@@ -16299,6 +16294,7 @@ South Manchester Senior Care Limited	Manchester	A	0
 South Manchester Senior Care Ltd	Manchester	A	0
 SOUTH MEDITERRANEAN FOOD LTD	London	A	0
 South Molton Co-operative Learning Trust	South Molton	A	0
+South Moor Ltd TA South Moor Vets	Kingsbridge	A	0
 South queen street Medical Centre	Leeds	A	0
 South West London & St George's Mental Health NHS Trust	London	A	0
 South West Manchester Cricket Club	Manchester	A	11
@@ -16358,7 +16354,6 @@ Spice Master Limited T/a Spice Master	Reading	A	0
 SPICE MERCHANT EXPRESS LTD	Stoke On Trent	A	0
 Spice Merchant Leek Limited	Leek	A	0
 Spice Merchant Mutley Ltd	Plymouth	A	0
-Spice of Life (Southwest Midlands Limited)	Birmingham	A	0
 Spice of Rye Limited/TA Mahdi Lounge	Rye	A	0
 SPILSBY MASALA HUT LIMITED T/A MASALA HUT SPILSBY	Lincolnshire	A	0
 Spin Master Toys UK Limited	Bourne End	A	0
@@ -16552,7 +16547,7 @@ Star Lane Medical Centre	Canning Town	A	0
 Star Marketing & Distribution Limited	Ruislip	A	0
 STAR MARKETING SOLUTIONS LTD	Nelson	A	0
 STAR METAL FABRICATION LTD	Hoddesdon	A	0
-Star Micronics Europe Ltd	High Wycombe	A	0,4
+Star Micronics Europe Ltd	Aylesbury	A	0,4
 Star Micronics GB Limited	Derby	A	4,7
 STAR MOBILE RETAIL LTD T/A STAR MOBILE	Manchester	A	0
 STAR MOTORS LTD	Bolton	A	0
@@ -16883,6 +16878,7 @@ TC Manufacturing UK, Limited	Cheshire	A	0
 TC Morris Ltd	Dudley	A	0
 TCG Medical Services	Finchley	A	0
 TCPC MANAGEMENT LIMITED	London	A	0
+TCS TRADE CAR SALES (MIDLANDS) LTD	Walsall	A	0
 TCY Machinery UK Ltd	Yeadon	A	0
 TD Meats Limited	Larne	A	0
 TD MEDICARE LTD	Hull	A	0
@@ -16915,6 +16911,7 @@ TEHZEEB MART LTD	Manchester	A	0
 Telegraph Media Group Limited	London	A	0
 Telekom Malaysia (UK) Limited	London	A	0,4
 TeleProspects Limited trading as Lloyd James Media Group	Wolverhampton	A	0
+Temple Cowley Medical Group	Oxford	A	0
 Temple Mead Care Ltd	Sutton Coldfield	A	0
 TEMPO MANUFACTURING UK LTD	London	A	0
 Ten Lifestyle Management ( Ten Group)	London	A	0,4
@@ -16929,6 +16926,7 @@ Tenuta Marmorelle Limited	Thatcham	A	0
 TEO MOVING MOUNTAINS LIMITED	London	A	0
 Teparay Precision Sheet Metal Ltd	Ilford	A	0
 Tero Marine UK Ltd	Cramlington	A	0
+Terra Measurement Limited	Alfreton	A	0
 Tesla Motors Ltd	Manchester	A	0,4
 Tess Management Limited	London	A	0,3
 Teviot Medical Practice	Hawick	A	0
@@ -16998,7 +16996,6 @@ The Castle Medical Group	Clitheroe	A	0
 The Cedars Medical Centre	Stoke-on-Trent	A	0
 The Centre for Enterprise, Markets and Ethics	Oxford	A	0,9
 The Ceramicists designers and makers	London	A	0
-The Chaand Company Ltd t/a Milton Convenience Store	Edinburgh	A	0
 The Charing Medical Partnership	Charing	A	0
 THE CITY OF MERCY OUTREACH	Leicester	A	1
 THE COD MOTHER NORTH WEST LTD	Blackpool	A	0
@@ -17265,7 +17262,7 @@ The Missionary Sisters of St Columban	London	A	1,9,10
 The Mithai Box Limited	Slough	A	0
 The Moat Wrotham Ltd	Sevenoaks	A	0
 THE MOBILE WORLD TRADERS LTD T/A THE MOBILE WORLD	Bolton	A	0
-The Modality Partnership	Birmingham	A	0
+The Modality Partnership	Birmingham	B	0
 The Model (Ireland) Limited	Ballymoney	A	0
 The Modern Rugs Pvt Limited	Bradford	A	0
 THE MONARCH PARTNERSHIP LTD	Wallington	A	0
@@ -17277,7 +17274,6 @@ The Montessori Place	Hove	A	0
 The Montessori School	Balham	A	0
 The Montessori School Edinburgh Ltd	Edinburgh	A	0
 The Moon Hub Ltd	London	A	0
-The Moorings Care Ltd	Cowes	A	0
 The Moredun Foundation	Midlothian	A	0,12
 The Moreton Centre	St Leonards On Sea	A	0
 The Mosaic Scio	Glasgow	A	1
@@ -17321,7 +17317,6 @@ The Old Mill Cafe	Sandhurst	A	0
 The Old Mill Coffee House	Chipping Norton	A	0
 The Old Moseley Arms Limited T/A The Old Moseley Arms	Birmingham	A	0
 The One Off Melbourne Ltd	Derby	A	0
-The Orchard Media & Events Group	Cardiff	A	0
 The Order of Friars Minor Conventual	London	A	1
 The Order of St. Augustine of the Mercy of Jesus	Burgess Hill	A	0
 The Organic Family Ltd t/a Mr Organic	London	A	0
@@ -17492,12 +17487,13 @@ TJ Miller Ltd	London	A	0
 TK Mag Retail Ltd T/A Deluxe Off-license	London	A	0
 TKS Mini market Ltd	Croydon	A	0
 TLB MEDICALS LIMITED	Nelson	A	0
-TLC Care Management Limited	Huddersfield	A	0
+TLC Care Management Limited	Huddersfield	B	0
 TLC MARKETING WORLDWIDE HQ LIMITED	London	A	0
 TM Management Services Ltd	London	A	0
 TM Welwyn Ltd T/A Taj Mahal	Welwyn	A	0
 TMG Marchesini UK Ltd	Leighton Buzzard	A	0,4
 TMI MANAGEMENT (UK) LIMITED	London	A	0
+TMW Management Limited	Kenilworth	A	0
 TNF PROPERTY MANAGEMENT LTD	Hounslow	A	0
 TNJ MORTGAGES LIMITED	Dronfield	A	0
 To The Moon Mobile	London	A	0
@@ -17625,7 +17621,6 @@ Triple Point Investment Management LLP	London	A	0
 Triple Threat Mgmt	Exeter	A	3
 Triptik Management Ltd	London	A	0,3
 Tritax Management LLP	London	A	0
-TRITON MEDIA LTD	Reading	A	0
 Triumph Motorcycles Limited	Hinckley	A	0,4
 TRIX MEDCARE LTD	Southend-On-Sea	A	0
 Trouble Maker Inc Limited	London	A	0
@@ -17790,6 +17785,7 @@ Updates Media Limited T/A Nonsensical	Sutton Coldfield	A	0
 UPL Marketing	Brentwood	A	0
 Uplands & Mumbles surgery	Swansea	A	0
 Upload Media LTD	Hoxton	A	0
+Upperthorpe Medical Centre	Sheffield	A	0
 UPSTREET MINI MART LTD	Canterbury	A	0
 Upton Mini Mart	Wakefield	A	0
 Upton Park Fish Bazaar & Halal Meat	London	A	0
@@ -17873,6 +17869,7 @@ VEG N MORE LTD TA VEG N MORE	Kent	A	0
 VEGGIE MASTER FAST FOOD LIMITED	Hayes	A	0
 Vel Mart Morrison Limited T/A Morrisons Daily	Consett	A	0
 Vel Mart Retail Limited	Tyne & Wear	A	0
+Vel Mart Retail Ltd	Washington	A	0
 VEL MURUGAN ENTERPRISES LTD	East Ham	A	0
 Velocity Managed Solutions Limited	London	A	0
 Velupillai Sriniranjan t/a JS MiniMarket	Rochester	A	0
@@ -17884,6 +17881,7 @@ Verb Management Limited	London	A	0
 Verdigris Management	London	A	0
 Verity Medical Limited	Romsey	A	0,4
 Vermeg Management Limited	London	A	0,4
+Vertek Metalworks Limited	Andover	A	0
 Vertu Motors plc	Gateshead	A	0
 Vessconn Maritime Ltd	London	A	0
 Vetness Limited t/a The Vet Station Molesey	East Molesey	A	0
@@ -18071,7 +18069,6 @@ West Midlands Steel Ltd	Warwick	A	0
 West Monroe Partners Limited	London	A	0
 WEST MOON LTD T/A THE FUSION	Bexley	A	0
 West Motor Co Ltd	London	A	0
-WEST MOTORS LONDON LTD	Uxbridge	A	0
 West One Manor Hotel Ltd	Northampton	A	0
 West park Mini Mart	Maidstone	A	0
 West Point Medical Centre	Manchester	A	0
@@ -18236,7 +18233,6 @@ Woolley Brothers (Wholesale Meats) Ltd	Sheffield	A	0
 WOOLPIT SERVICE STATION T/A MURCO PETROL STATION	Woolpit	A	0
 Wootton Medical Centre	Northampton	A	0
 Worcester Carsales Ltd T/A Ludlow Motors	Ludlow	A	0
-Worcester Fleet Management Ltd	Bromsgrove	A	0
 Word of Life Ministries (London and Birmingham)	London	A	1
 Word of Life Ministries UK Limited	Wellingborough	A	1,9,10
 WORD OF LIGHT INTERNATIONAL MINISTRIES LTD	Newport Pagnell	A	1,10
@@ -18301,15 +18297,12 @@ YATESEA MARINE LTD	Guildford	A	0
 YATTON MASTOR & CO LTD	Bristol	A	0
 YAY!STARTER MARKETING LTD	London	A	0
 YB Music Limited	London	A	0
-YC Manchester LTD	Manchester	A	0
 YD MORLEYS FRIED CHICKEN LTD T/A Morley's fried Chicken	Croydon	A	0
 Yearbook Machine Limited	London	A	0,3
 YEO Messaging Ltd	Matlock	A	0
 Yesh (UK) Ltd T/A Yash Motorbikes	Wembley	A	0
 YESKAM LIMITED T/A SURAJ SWEET MART	Wembley	A	0
-Yianni Motors Limited	High Wycombe	A	0
 YM&U Business Management Limited	London	A	0
-YN MOBILE AND VAPE LTD	Liverpool	A	0
 YOLO MOBILE LTD	Feltham	A	0
 York House (Meat Products) Ltd	Sandy	A	0
 YORK MARSHALL HOLDINGS LTD	London	A	0

@@ -8,7 +8,6 @@ A.S. BUILDERS (YORKSHIRE) LTD	Bradford	A	0
 Abduls (Yorkshire) Ltd	Wakefield	A	0
 ABP Yetminster	Yetminster	A	0
 Acorn Construction (Yorkshire) Ltd	Sherburn In Elmet	A	0
-ADORE DESIGNS YORKSHIRE LIMITED	Batley	A	0
 Advanced Care Yorkshire LTD	Hull	A	0
 Aiyampillai Murugathas T/as Paul News For You	Chesterfield	A	0
 AK SOUTH YORKSHIRE LIMITED	Edgware	A	0
@@ -77,7 +76,6 @@ Camelot Care (Yeovil) Ltd	Yeovil	A	0
 Cardiac Risk in the Young	Leatherhead	A	0
 Cardiff Steiner Early Years Centre Ltd	Cardiff	A	0
 Care 4 You Manchester Ltd	Stockport	A	0
-Care at your home LTD	High Wycombe	A	0
 Care Centres Wales Limited T/A Pen Y Bryn Care Home	Swansea	A	0
 Care Dynamics Yorkshire Ltd	Keighley	A	0
 Care for your life Ltd	Skegness	A	0
@@ -187,7 +185,6 @@ Great Yarmouth Specsavers Hearcare Limited	Great Yarmouth	A	0
 Great Yarmouth Specsavers Ltd	Great Yarmouth	A	0
 Great Yellow Limited	London	A	0
 GREEN YARD PROPERTIES DEVELOPMENT LIMITED	Stockton-On-Tees	A	2
-Grill Yard Limited	London	A	0
 GS Yuasa Battery Europe Ltd	Swindon	A	0,4
 H & Y (B'HAM) LIMITED	Birmingham	A	0
 H & Y Catering Ltd	London	A	0
@@ -216,6 +213,7 @@ Hummingbird Home Care Yeovil Ltd	Yeovil	A	0
 Iceline Yorkshire Ltd	Whitley	A	0
 Identity Youth Project	Great Yarmouth	A	1,9,10
 Ihsan Ullah Yousafzai T/A Blue Boy Ice Cream	Birmingham	A	0
+INGENIERIA DEL ANDAMIO Y SERVICIOS AQUA UK	London	A	0,4
 Inspire you care ltd	Birmingham	A	0
 Inter-Cultural Youth Exchange (ICYE-UK)	London	A	9
 ISLINGTON SMILE GROUP LIMITED T/A YOURDENTAL WELLNESS	Islington	A	0
@@ -354,6 +352,7 @@ Ocean Youth Trust North	Berwick upon Tweed	A	9
 On Your Bike Limited	East Grinstead	A	0
 One Nine Seven Early Years Nursery	Kingston-Upon-Thames	A	0
 One Young World Limited	London	A	0
+OnSide Youth Zones	Bolton	A	0
 OPEN DOOR YOUNG PEOPLE'S CONSULTATION SERVICE	London	A	0
 Optimum Youth Care Limited	Harrow	A	0
 Optimus Yellow Ltd t/a Bubble Magik	London	A	0
@@ -445,7 +444,6 @@ South Yorkshire Care Services Ltd	Sheffield	A	0
 South Yorkshire Future Trams Ltd.	Sheffield	A	0
 South Yorkshire Properties Services Ltd	Sheffield	A	0
 SOUTH YORKSHIRE SUB LTD T/A SUBWAY	Sheffield	A	0
-Spice 21 Ltd t/a York Tandoori	York	A	0
 Sri Datta Yoga Centre (UK)	Brentford	A	1,3,10
 St Yeghiche Armenian Church Parish Ltd	London	A	1,10
 Stamos Yeoh architects LTD	London	A	0
@@ -744,7 +742,6 @@ YBU LTD	Reading	A	0
 YBU-SUSHI LTD	Saint Austell	A	0
 YC INVESTMENTS LIMITED	London	A	0
 YC LIVERPOOL LTD	Liverpool	A	0
-YC Manchester LTD	Manchester	A	0
 YC SPORTS LTD.	Cardiff	A	0
 YCC Ltd	Acton	A	0
 YCG - YOUR CONSULTANTS GURUS LIMITED	Basildon	A	0
@@ -843,7 +840,6 @@ Yi Catering Ltd T/A Eatoo	London	A	0
 Yi House	Bushmills	A	0
 Yiangou Architects Ltd	Cirencester	A	0
 Yianis FSCR Limited T/A Canary Riverside Plaza Hotel	London	A	0
-Yianni Motors Limited	High Wycombe	A	0
 Yiannis Doors Limited	Sittingbourne	A	0
 YIDIANXINYI LTD	Manchester	A	0
 Yield Community Limited	Loughborough	A	0
@@ -890,7 +886,6 @@ YMCA Fairthorne Group	Southampton	A	0,9
 YMCA Indian Student Hostel	London	A	0,4
 YMCA Lakeside	Ulverston	A	9
 YMCA Leicestershire	Leicester	A	0
-YMCA Norfolk	Norwich	A	0
 YMCA St Paul's Group	Surbiton	A	0
 YMCA Thames Gateway	Romford	A	9
 Ymestyn	Cardiff	A	0
@@ -902,7 +897,6 @@ YMR Group Limited	Umberleigh / Nr Barnstaple	A	0
 Ymr Retail Limited	Exeter	A	0
 YMU Group Services Limited	London	A	0,3,4
 YN HEALTHCARE LTD T/A 121 Pharmacy	Bedford	A	0
-YN MOBILE AND VAPE LTD	Liverpool	A	0
 YNR Instruments Ltd	Manchester	A	0
 YNS Limited	Kidderminster	A	0
 YNWA Pizza Ltd	Coalville	A	0
@@ -963,7 +957,6 @@ YONK YOUNG LTD	Exeter	A	0
 YOO KASE LTD	York	A	0
 YOO WORLDWIDE LLP	London	A	0
 Yoobic Limited	London	A	0
-Yoomi Ltd	Thamesmead	A	0
 YOON GLOBAL LTD	London	A	0
 Yopa Property Ltd	Hinckley	A	0
 Yoplait UK Limited	Uxbridge	A	0,4,7
@@ -975,6 +968,7 @@ YORI F&B Ltd	London	A	0
 York & Scarborough Teaching Hospitals NHS Foundation Trust	York	A	0
 York Bioanalytical Solutions Limited	York	A	0,4
 York Citizen's Theatre Trust Limited	York	A	3
+York City Football Club Ltd	York	A	11
 York City Knights Limited	Huntington	A	11
 York City Knights Ltd	York	A	0,11
 York College	York	A	0
@@ -1029,7 +1023,7 @@ Yorktest Laboratories Limited	York	A	0
 Yorton Farm Stud	Welshpool	A	0
 Yoshe Clinical Operations Limited	Slough	A	0
 YOSHIGA TECHNOLOGIES LIMITED	St Albans	A	0
-Yoshino & Co., UK Ltd.	London	A	0,4
+Yoshino & Co., (UK) Ltd.	London	A	0,4
 Yositex Co., Ltd	London	A	0
 YospaceTechnologies Ltd	Staines upon Thames	A	0
 Yotel Limited	London	A	0,4
@@ -1095,6 +1089,7 @@ Your Care Services Brain Injury	Birmingham	A	0
 your care team ltd	Dewsbury	A	0
 Your Career Ltd	Birmingham	A	0
 Your Chapter Limited	Cheadle	A	0
+YOUR CHILDCARE SOLUTIONS LIMITED	Bexleyheath, Kent	A	0
 YOUR CHOICE (BARNET) LTD	London	A	0
 YOUR CHOICE CONVENIENCE STORE	Bury	A	0
 YOUR CHOICE DEVON LTD	Newton Abbot	A	0
@@ -1191,6 +1186,7 @@ Youth With A Mission (NI) ltd	Rostrevor	A	1,9,10
 Youth With A Mission Harpenden Ltd	Harpenden	A	1,9,10
 Youth With A Mission Ltd	Nuneaton	A	1,9,10
 Youth With a Mission Scotland Ltd	West Kilbride	A	1,9,10
+Youth Works Northamptonshire	Kettering	A	0
 YouthAction NI	Belfast	A	9
 Youthscape Ltd	Luton	A	1,9,10
 Youthstar (W) Ltd	Bury	A	0
@@ -1229,7 +1225,6 @@ Ysoma Logistics Ltd	Sunbury-On-Thames	A	0
 Ystwyth Medical Group	Aberystwyth	A	0
 Ystwyth Veterinary Practice	Aberystywth	A	0
 YT International Student Ltd	Portsmouth	A	0
-YT-INDUSTRIES UK LTD	Guildford	A	0
 YTHS RETAIL LTD	Whitchurch	A	0
 YTL Construction (UK) Ltd	Bath	A	0
 YTL Developments (UK) Limited	Bath	A	0,4

@@ -126,6 +126,7 @@ Gunter Zimmer t/a ZIMMERs Solicitors	London	A	0
 H AND Z LIMITED	Hunstanton	A	0
 H AND Z SCOT LTD t/a Rawthers	Falkirk	A	0
 HABIB BANK AG ZURICH	London	A	0,4
+HANK ZARIHS ASSOCIATES LIMITED	Broxbourne	A	0
 Hawkes Bay Meat Co. (UK) Ltd T/A Ovation New Zealand (UK)	Bristol	A	0,4
 Health Bridge Limited (trading as Zava)	London	A	0
 HENG ZUN UK TRADING LTD	London	A	0
@@ -204,6 +205,7 @@ NICKY LTD T/a ZH Convenience Store	Lancashire	A	0
 NOOR ZARA LTD t/a NOOR Bridals	Birmingham	A	0
 North of England Zoological Society (NEZS)	Chester	A	0
 Nour Eddine Zilaoui t/a Fairuz	Dundee	A	0
+OnSide Youth Zones	Bolton	A	0
 Orchid NW Ltd TA Zumuku Sushi	Manchester	A	0
 P Z & W Limited	Basingstoke	A	0
 PHONE N COMPUTER ZONE LTD	Oldham	A	0
@@ -223,6 +225,7 @@ R & Z GLOBAL SERVICES LTD	London	A	0
 Raims Mahmood Zaeem Limited	Manchester	A	0
 RAMIN ZACKS LTD T/A LATIF INDIAN RESTAURANT	Newcastle Upon Tyne	A	0
 RCCG City of Zion Church	Cambridge	A	1
+RCCG MOUNT ZION LIVERPOOL LTD	Liverpool	A	1,9,10
 RCCG Zone of Resurrection	London	A	9
 RCCG-LivingWord Liberation Centre (Holy Ghost Zone)	Southampton	A	1
 RECRUIT WORLDWIDE LIMITED.T/A Zebra Multimedia	London	A	0,3
@@ -511,6 +514,7 @@ Zandra Rhodes Enterprises	London	A	0
 Zane Accounting Services Limited	Watford	A	0
 Zaneen Ltd	London	A	0
 ZANGI MOTORS LIMITED	Sheffield	A	0
+Zango Limited	London	A	0
 Zanoo Limited	Ascot	A	0
 ZANS Immigration Consultants Ltd	London	A	0
 Zanturlar LTD	Hailsham	A	0
@@ -736,7 +740,7 @@ Zenith Solicitor Ltd	Sheffield	A	0
 Zenith UK (Media) Limited	London	A	0,4
 Zenithcare Resources Management Services Ltd T/A Zenithcare Recruitment	Dagenham	A	0
 ZENITHGROUPUK	Bury	A	0
-Zenithon AI Ltd	Axbridge	A	0
+Zenithon AI Ltd	London	A	0
 Zenithwave Capital Limited	Croydon	A	0
 Zenium Technology Partners Limited	London	A	0,4
 Zenko Consulting Ltd	Whickham	A	0
@@ -785,6 +789,7 @@ ZERO FADES LTD	Carshalton	A	0
 Zero Gravity Tech Ltd	London	A	0,6
 zero height limited	London	A	0
 Zero Imprint Limited	London	A	0
+ZERO London LTD	London	A	0
 ZERO MILES LIMITED	Birmingham	A	0
 Zero Petroleum Limited	London	A	0
 Zero Point Motion Ltd	Bristol	A	0
@@ -835,6 +840,7 @@ ZEUGMA KITCHEN LTD	London	A	0,6
 Zeurope International Limited	London	A	0
 Zeus Cars Ltd	Bedford	A	0
 Zeus Electrical Constructions Ltd	London	A	0
+Zeus Faber Ltd.	London	A	0
 Zeus Labs Limited	London	A	0
 Zeux LTD	London	A	0
 ZEVER JEWELLERS	London	A	0
@@ -995,10 +1001,9 @@ ZL SPORTS INFINITY LTD	Abingdon	A	0
 ZLC 7 Dials Ltd	London	A	0
 ZLC Energy Ltd	Liskeard	A	0
 ZLC London Limited	London	A	0
-ZM Brands Ltd t/a Oodles N'Oodles Coventry	Coventry	A	0
 ZM ELECTRICIAN LTD	Cardiff,	A	0
 ZM IT TECHNOLOGIES LTD	Harrow	A	0
-ZMAJ I.T. SOLUTIONS LIMITED	Barking	A	0
+ZMAJ I.T. SOLUTIONS LIMITED	Chadwell Heath	A	0
 Zmartly Ltd	London	A	0
 Zmax CM Limited	Chelmsford	A	0
 ZMS London Ltd	London	A	0
@@ -1080,7 +1085,6 @@ Zopa Bank Limited	London	A	0
 Zora Haulage Ltd	Wraysbury	A	0
 Zoran's Delicatessen Limited	Twickenham	A	0
 Zorba Delicacies Limited	Ebbw Vale	A	0
-Zorba Group Limited	Kent	A	0
 ZORBA TAKEAWAY	Haslingden	A	0
 ZORBAS READING LTD	Winnersh	A	0
 Zorca Hospitality Ltd	London	A	0

@@ -60,7 +60,6 @@ A&J OFF Licence Ltd	Manchester	A	0
 A&K TRADERS (MCR) LTD	Manchester	A	0
 A&KI Traders Ltd	Manchester	A	0
 A&N MOBILE LIMITED T/A FONESOLUTIONS	Merthyr	A	0
-A&R National Street	Mussulburgh	A	0
 A&U Dental Surgeries Ltd	Market Harborough	A	0
 A-One Control Services Ltd	Markethill	A	0
 A. R SHIPPING SERVICES UK LIMITED	Morden	A	2
@@ -117,6 +116,7 @@ Absolute Conveyancing Limited	Mansfield	A	0
 Absolute Medical International Ltd	Manchester	A	0
 AC&CA LTD	Melksham	A	0
 Access Insulation & Coatings	Middlesbrough	A	0
+Access Retail Limited	Moffat	A	0
 ACCESS24 HEALTHCARE LTD	Milton Keynes	A	0
 ACCOTAX LONDON LTD	Morden	A	0
 ACCOUNTANCYNET LTD	Manchester	A	0
@@ -283,6 +283,7 @@ Ali Commercials Limited	Manchester	A	0
 ALI TRANSPORT SERVICES LIMITED	Mitcham	A	0
 Ali's Superstore (North East) Limited	Middlesborough	A	0
 Alkagesta (UK) Limited	Mayfair	A	0
+ALKARAM LTD	Manchester	A	0
 All Sports Whispers Ltd	Milton Keynes	A	0
 All Star Complete Development Ltd T/A The Park Hotel	Milton Keynes	A	0
 All Trends Fashion Ltd	Manchester	A	0
@@ -302,6 +303,7 @@ ALMIRAH CONSULTS LTD	Manchester	A	0
 Almond + Co	Manchester	A	0
 Alnylam UK Limited	Maidenhead	A	0,4
 ALPHA DIGITEK SOLUTIONS LTD	Middlesex	A	0
+ALPHA SAFETY SOLUTIONS LIMITED	Milton Keynes	A	0
 Alpha Vision 21 Limited	Manchester	A	0
 Alpha Zone Ltd	Manchester	A	0
 Alphons Mini Market	Manchester	A	0
@@ -321,7 +323,6 @@ ALYMCC LTD	Marlborough	A	0
 Am MCR LIMITED	Manchester,	A	0
 AM PHONE TRADING LIMITED	Manchester	A	0
 AM PROFESSIONAL LTD	Manchester	A	0
-AM Surveying & Block Management	Maidstone	A	0
 Amaar Trading Limited	Manchester	A	0
 Amaechi Performance Systems Ltd	Manchester	A	0
 Amarjit Mandeir T/A Boss Pizza	Mansfield	A	0
@@ -331,7 +332,7 @@ Amber care (Lincolnshire) limited	Market Rasen	A	0
 Amber Care Group	Middlesbrough	A	0
 Amberley Healthcare Limited	Milton Keynes	A	0
 Ambulnz Community Partners Ltd	Manchester	A	0
-Amc Accountants Ltd	Manchester	A	0
+Amc Accountants Ltd T/A TaxAssist Accountants	Manchester	A	0
 American Hospitality Group Ltd	Morecambe	A	0
 Ametis Homes Ltd	Maidstone	A	0
 AMH Family Enterprise Ltd.	Maidstone	A	0
@@ -345,7 +346,6 @@ Ammar & Co (UK) LTD	Manchester, Greater Manchester	A	0
 AMMAR CORPORATION LIMITED	Manchester	A	0
 Amoria Bond Limited	Manchester	A	0
 Ampergia Limited	Milton Keynes	A	0
-AMPERSAND-US LTD	Manchester	A	0
 AMS WHOLESALE MCR LIMITED	Manchester	A	0
 Amtest UK Ltd	Maldon	A	0
 AN Superstore Ltd	Manchester	A	0
@@ -357,6 +357,8 @@ ANCOATS CAR SALES LIMITED	Manchester	A	0
 ANCRE HILL ESTATES	Monmouth	A	0
 Andrews Fried Chicken Limited	Manchester	A	0
 ANDRITZ Dedert International (UK)	Maidenhead	A	0,4
+Andromeda Ltd	Middlesex	A	0
+ANDY WALKER CONSTRUCTION CO. LIMITED	Manchester	A	0
 Aneesa Fashion Limited	Manchester	A	0
 Anele Limited	Milton Keynes	A	0
 Anemos-Analytics Ltd	Motherwell	A	0
@@ -373,7 +375,6 @@ Anglican Missionary Congregations(AMC) Headquarters(A.K.A AMC-Church of Restorat
 ANGLICAN MISSIONARY CONGREGATIONS(AMC)HULL,(A.K.A AMC-ALL SAINTS ASSEMBLY HULL) CIC	Manchester	A	1
 ANIL (MCR) LTD	Manchester	A	0
 ANIMEBREW LIMITED	Manchester	A	0
-Animmersion UK Ltd	Middlesbrough	A	0
 AnM Home Solutions Ltd	Mitcham	A	0
 Anne Shine Charity UK	Middlesex	A	9
 Anniscliff Residential Care Home	Maghera	A	0
@@ -479,7 +480,6 @@ ASFA & AIMA LIMITED	Manchester	A	0
 Asfordby Chippy Ltd T/As Asfordby Chippy	Melton Mowbray	A	0
 Asgard Controlled Environments Ltd	Manchester	A	0
 ASHA EXPO & CO LTD	Middlesex	A	0
-ASHBROOKES LIMITED	Middlesborough	A	0
 Ashfield Health Ltd	Macclesfield	A	0
 Ashfield Medical Centre	Milton Keynes	A	0
 Ashford Kebab Ltd T/as Anatolia Barbecue Restaurant & Takeaway	Middlesex	A	0
@@ -499,10 +499,10 @@ Aspira Aerial Applications Limited	Manchester	A	0
 Aspire Learning Centres & Childcare Limited	Manchester	A	0
 ASSAS PROPERTIES LIMITED	Morton	A	0
 ASSISTORY LTD	Manchester	A	0
+Association of British Credit Unions Ltd	Manchester	A	0
 Assure Care Ltd	Milton Keynes	A	0
 Astar Business Advisors Limited	Morden	A	0
 Astley & Tyldesley Cricket Club	Manchester	A	11
-Astley Spice Ltd	Manchester	A	0
 Aston Black Ltd	Milton Keynes	A	0
 Astra Telematics Limited	Manchester	A	0
 AT Engine Controls Ltd T/A ATEC Engineering Solutions	Manchester	A	0
@@ -568,6 +568,7 @@ AVM FISH N CHIPS LTD	Middlesbrough	A	0
 Avnet EMG Limited	Maidenhead	A	0,4
 Avon Polymer Products Limited	Melksham	A	0
 Avondale Care Home	Motherwell	A	0
+AVONDALE MOTORS NE LIMITED	Manchester	A	0
 Avonfinch Ltd	Market Drayton	A	0
 AVSL Group Ltd	Manchester	A	0
 AVTEL (UK) LIMITED	Milton Keynes	A	0
@@ -629,7 +630,6 @@ BankiFi Technology Limited	Manchester	A	0
 BANO MERCHANDISING LTD	Middlesex	A	0
 BANOFUL SWEET HOUSE LIMITED	Manchester	A	0
 BAOXFRD TRADING LTD	Manchester	A	0
-BAR B QUE BASE FOODS LIMITED	Manchester	A	0
 Bar San Juan	Manchester	A	0
 BARBAKAN DELICATESSEN LTD.	Manchester	A	0
 Bardez Ltd	Manchester	A	0
@@ -721,6 +721,7 @@ Betfred Technology Limited	Manchester	A	0
 BETHAM SUPPORT LIVING LTD	Middlesex	A	0
 BETHESDA (MERTHYR) LTD T/A RED SPICE	Merthyr Tydfil	A	0
 Bethesda Medical Centre	Margate	A	0
+Better Decisions Group Ltd	Manchester	A	0
 Better Health MCR Ltd	Manchester	A	0
 BETTER WHOLESALE LTD	Manchester	A	0
 Beverley Park Nursing Home	Manchester	A	0
@@ -814,6 +815,7 @@ BLUECROSSLIFECARE LTD	Manchester	A	0
 Bluecube Cyber Security Solutions Limited	Milton Keynes	A	0
 BLUELINE PVT LTD	Manchester	A	0
 Bluepoint Corporation Limited	Milton Keynes	A	0
+BM Dynamic Ltd	Manchester	A	0
 BMI Project (UK) Limited	Manchester	A	0
 BMSL BUILDERS LIMITED	Manchester	A	0
 BNW Accountants Limited	Mitcham	A	0
@@ -1041,7 +1043,6 @@ Cartopia Ltd	Mill Hill	A	0
 CARTWRIGHTS CHEMISTS LIMITED	Manchester	A	0
 Casa caffe Limited	Mitcham	A	0
 CASHMERE SYSTEMS LTD	Manchester	A	0
-Caspertron Ltd	Manchester	A	0
 Castle School Education Trust	Mangotsfield	A	0
 Castlefield Advisory Partners Limited	Manchester	A	0
 Castlefield Gallery	Manchester	A	0
@@ -1153,7 +1154,6 @@ Choudhry and Sons Ltd	Manchester	A	0
 CHOWDHURY & BROTHERS LTD T/a Bangla bazar	Manchester	A	0
 CHRISAM GARDENS LTD	Milton Keynes	A	0
 Chrisanne Clover Ltd	Mitcham	A	0
-CHRIST APOSTOLIC CHURCH DOMINION OUTREACH	Manchester	A	1,10
 CHRIST APOSTOLIC CHURCH KINGSREALM	Middlesbrough	A	1,9
 CHRIST GLOBAL GOSPEL MINISTRY UK	Manchester	A	1
 CHRIST SALVATION MINISTRIES (OVERCOMERS) LIMITED	Manchester	A	1
@@ -1175,6 +1175,7 @@ Cibo Manchester	Manchester	A	0
 Cimar Limited	Milton Keynes	A	0
 Cincom Systems (UK) Limited	Maidenhead	A	0
 Ciscore Limited	Milton Keynes	A	0
+City 1st Ltd	Maidenhead	A	0
 City Church Manchester	Manchester	A	1,10
 City Football Group Limited	Manchester	A	0,4,11
 CITY INVESTMENT GROUP LIMITED	Milton Keynes	A	0
@@ -1182,6 +1183,7 @@ City Press Services Limited	Manchester	A	0
 City Specs LTD	Manchester	A	0
 CITYSHAPERS LTD	Milton Keynes	A	0
 Civic Engineers Ltd	Manchester	A	0
+Civic MEP Ltd	Manchester	A	0
 CL Catering at Drenagh	Maghera	A	0
 CL Convenience Store Ltd	Milton Keynes	A	0
 Clancy Consulting Limited	Manchester	A	0
@@ -1225,7 +1227,6 @@ Cobev Limited	Manchester	A	0
 COBHAM STORE LIMITED TRADING AS COBHAM STORE	Mitcham	A	0
 COCA-COLA EUROPACIFIC PARTNERS HOLDINGS GREAT BRITIAN LIMITED	Middlesex	A	0,4,7
 Cochin Spice Garden Ltd	Mid Glamorgan	A	0
-Cocos Mexican Cuisine Ltd	Milford Haven	A	0
 Code 42 Software UK Limited	Maidenhead	A	0,4
 Code Computerlove Ltd	Manchester	A	0
 Codethink Limited	Manchester	A	0
@@ -1293,7 +1294,6 @@ COORIE LIVING LIMITED	Moray	A	0
 Cordwallis Commercials (Maidenhead) Limited	Maidenhead	A	0
 CORE OUTCOME SOLUTIONS LIMITED	Manchester	A	0
 CORE SHOES LTD	Manchester	A	0
-Coreline Fibre Limited	Middleton	A	0
 CORIANDER RESTAURANT LTD T/A CORIANDER	Manchester	A	0
 Corners 65 UK Limited	Merstham	A	0
 Cornerstone (North East) Adoption and Fostering Service	Mattersey	A	0
@@ -1303,6 +1303,7 @@ Corporation Pop Limited	Manchester	A	0
 Corpus Christi Catholic Academy Trust	Manchester	A	0
 Corrective Chiropractic (MK) Limited	Milton Keynes	A	0
 Corry Dental Care	Magherafelt	A	0
+Corvide Limited	Moreton in Marsh	A	0
 Cosmic Kids Trading Limited	Marlow	A	0
 Cosmopolitan Accountants Ltd	Morden	A	0
 Cosmor Groundworks Limited	Manchester	A	0
@@ -1330,7 +1331,7 @@ CREATIVE ART PROMOTION UK LTD	Manchester	A	0
 Creative City solutions Ltd	Manchester	A	0
 Creative Concern	Manchester	A	0
 Creative Content Works	Manchester	A	0,3,4
-Creative Education Trust	Milton Keynes	A	0
+Creative Education Trust	Milton Keyens	A	0
 Creative England Limited	MediaCityUK	A	0
 Creed Medical Limited t/a Creed Health	Mansfield	A	0
 CRF Showjumping Ltd	Maidstone	A	0
@@ -1501,7 +1502,6 @@ Dimples Limited	Manchester	A	0
 DINETH LIMITED	Mansfield	A	0
 Diocese of Middlesbrough Trustee	Middlesbrough	A	1,10
 Dipfingerscatering 'DFC' Ltd	Margate	A	0
-Dippy Co. Ltd	Manchester	A	0
 Direct Medicare (UK) Ltd	Manchester	A	0
 Directflight T/A Airtask Group Ltd	Milton Keynes	A	0,4
 Discover Tyres Ltd	Milton Keynes	A	0
@@ -1596,7 +1596,6 @@ Durka Traders Ltd	Milton Keynes	A	0
 DWC CLEARANCE LTD	Manchester	A	0
 Dyaco UK Limited	Milton Keynes	A	0,4
 DynAikon Ltd	Milton Keynes	A	0
-Dynamatix Ltd	Milton Keynes	A	4
 Dynament Limited	Mansfield	A	0
 Dynamic CCTV Limited	Middlesbrough	A	0
 Dynamic Shelving Systems Limited	Manchester	A	0
@@ -1680,6 +1679,7 @@ Edwings Overseas Educational Consultants Limited	Manchester	A	0
 Eeven Homes Ltd	Manchester	A	0
 Eezy Autos and Tyres MK LTD	Milton Keynes	A	0
 Effective Consumable Solutions Ltd	Misterton	A	0
+Efficient Homes Energy Advisors Limited	Manchester	A	0
 EFFICIENT SURVEYORS LTD	Manchester	A	0
 EG Finco Limited	Middlebrook	A	0
 EGAR LTD	Milton Keynes	A	0
@@ -1735,7 +1735,6 @@ Elvi Global Ltd	Manchester	A	0
 Emailcenter UK Limited	Milton Keynes	A	0
 Embanet UK Limited	Manchester	A	0
 EMBASSY OF THE REPUBLIC OF THE UNION OF MYANMAR	Mayfair	A	5
-EMC Trailers Ltd	Magherafelt	A	0
 EMERTON NEWS	Milton Keynes	A	0
 EMILY FACILITIES MANAGEMENT SERVICES LIMITED	Manchester	A	0
 Emmalex Consult Ltd.	Milton Keynes	A	0
@@ -1784,6 +1783,7 @@ Epigram Communications and Design	Manchester	A	0
 Epistem Limited	Manchester	A	0
 Eppendorf Cryotech	Maldon	A	0
 EPPING MANAGEMENT LTD	Mitcham	A	0
+Epyx Ltd	Meriden	A	0
 Equality Homecare Services Ltd.	Manchester	A	0
 Equine Reproductive Services (UK) Ltd	Malton	A	0
 Ernest Doe & Sons Ltd	Maldon	A	0
@@ -2003,7 +2003,7 @@ Fortesium Ltd	Middlesex	A	0
 Fortna UK Limited	Milton Keynes	A	0,4
 Fortrea Development Limited	Maidenhead	A	0,4
 Fortress Care Limited	Manchester	A	0
-Four Capital Limited	Mitcham	A	0
+ForwardPlus Limited	Manchester	A	0
 Four Gates Limited	Manchester	A	0
 Fouracres Care Services	Middlesex	A	0
 Foxleigh Grove Nursing Home	Maidenhead	A	0
@@ -2231,7 +2231,6 @@ Greengate Metal Components Ltd	Manchester	A	0
 Greenjets Limited	Milton Keynes	A	0
 Greenleys wine Ltd	Milton Keynes	A	0
 Greenlight Computers Limited	Manchester	A	0
-Greenlight Engineering Ltd	Merton	A	0
 Greenline Transport LTD	Maidstone	A	0
 Greenmark Estates LTD	Manchester	A	0
 GREENS AND WHITE FOOD LTD T/A FRIENDS HUB	Manchester, England	A	0
@@ -2272,7 +2271,7 @@ Gurkha Trade Ltd	Macclesfield	A	0
 Gurudwara Sri Guru Harkrishan Sahib	Manchester	A	0,1,9,10
 Guy & Wright Ltd	Much Hadham	A	0
 GVR SOFTECH LTD	Milton Keynes	A	0
-GW Fashions Ltd	Manchester	A	0
+GW FASHIONS LTD	Manchester	A	0
 GWD International Ltd	Moreton In Marsh	A	0
 Gwesty Wynnstay Cyf.	Machynlleth	A	0
 H & D MINIMARKET LIMITED	Manchester	A	0
@@ -2427,6 +2426,7 @@ HINDMOOR & CO	Maryport	A	0
 Hindocha Pandit & Co Ltd	Middlesex	A	0
 Hindu Cultural Society	MiddlesBrough	A	1,10
 HINSA UK LIMITED T/A SUBWAY	Maldon	A	0
+HIS TECH LTD	Middlesbrough	A	0
 Hivebyte Technology Ltd	Manchester	A	0
 HIZL Ltd	Manchester	A	0
 HJE Limited	Matlock	A	0
@@ -2545,8 +2545,8 @@ IMD International Limited	Manchester	A	0
 Immersify Education Ltd	Manchester	A	0
 IMMY PO LTD	Manchester	A	0
 Impact 3D Signs Limited	Middlesbrough	A	0
-Impact Social Value Reporting Ltd	Manchester	A	0
 Impala Engineering Ltd	Mildenhall	A	0
+Imperial Hospitality Management Limited	Milton Keynes	A	0
 IMPORIO TRADING LTD	Manchester	A	0
 Impulsion Matters Ltd	Malborough	A	0
 In-House Legal Ltd	Mayfair	A	0
@@ -2632,7 +2632,6 @@ INVISIBLE SYSTEMS LTD	Manchester	A	0
 Invosys Ltd	Manchester	A	0
 IOTA Manufacturing Limited T/A IOTA Manufacturing	Middlesbrough	A	0
 IP EXCHANGE (MSP) LIMITED	Merseyside	A	0
-IQLIK LTD	Manchester	A	0
 IQRA WELFARE FORUM	Manchester	A	1,9,10
 Irepair Motherwell Limited	Motherwell	A	0
 Irha & Inaya Ltd. T/ A Cyberlinks	Manchester	A	0
@@ -2948,7 +2947,6 @@ KRG Care Homes Ltd	Middlesex	A	0
 Krishna Asian Food Market Limited	Milton Keynes	A	0
 KRISHNA CONVENIENCE LIMITED	Mitcham	A	0
 KRM TECHNICAL SUPERVISORY AND TRADE LIMITED	Manchester	A	0
-KRO Hotels Manchester M2 Ltd t/a Asha's Restaurant	Manchester	A	0
 KRO HOTELS PRESTON LTD	Manchester	A	0
 KRS Marine Limited	Middlesbrough	A	0
 KS E-COMMERCE LTD	Milton Keynes	A	0
@@ -2980,6 +2978,7 @@ Lahore Cafe Bar(Manchester) Limited	Manchester	A	0
 Lahore Store	Manchester	A	0
 LAHORI BUTT KARAHI LIMITED	Manchester	A	0
 lahori chai shai ltd	Manchester	A	0
+LAHORI SPICE GARDEN LTD T/A MY BAGH	Manchester	A	0
 LAKELAND SUPERMARKET	Manchester	A	0
 Lakeland View Care centre	Morecambe	A	0
 Lamtans Engineering Ltd	Manchester	A	0
@@ -3092,7 +3091,6 @@ London Borough of Enfield	Middlesex	A	0
 London Borough of Merton	Morden	A	0
 London Feather Limited	Manchester	A	0
 LONDON IS TRADING LTD	Maidenhead	A	0
-LONDON LUXURY CHAUFFEURING LTD	Middlesex	A	0
 London Property Letting and Management Limited	Middlesex	A	0
 London Twins LTD	Manchester	A	0
 LONDONARIUM LTD	Maidenhead	A	0
@@ -3261,7 +3259,6 @@ MANCHESTER HOSIERY LIMITED	Manchester	A	0
 Manchester House Of Prayer	Manchester	A	9
 MANCHESTER IMPORT AND EXPORT TRADING LTD	Manchester	A	0
 Manchester International Festival	Manchester	A	0,3
-Manchester Islamic Institute t/a Manchester Islamic Centre	Manchester	A	1,9,10
 Manchester Learning Zone	Manchester	A	0
 MANCHESTER LIVING LTD	Manchester	A	0
 Manchester Marriott Hotel Piccadilly	Manchester	A	0
@@ -3294,7 +3291,6 @@ MANHA FOODS LIMITED	Milton Keynes	A	0
 Maniere De Voir Ltd	Manchester	A	0
 Manningtree Dental Practice	Manningtree	A	0
 Manor Care Home	Middlewich	A	0
-Manor Care Homes Ltd	Margate	A	0
 Manor Interior Solutions Limited	Market Harborough	A	0
 Mansfield Nottingham Specsavers Limited	Mansfield	A	0
 Mansfield Town Football Club Limited	Mansfield	A	11
@@ -3447,7 +3443,6 @@ Mercury Capital (W12) LTD	Middlesex	A	0
 MERCURY RECYCLING LIMITED	Manchester	A	0
 Mere Dental Practice	Mere	A	0
 Merge Games Ltd	Macclesfield	A	0
-MERIDIAN MARLOW LTD	Marlow	A	0
 Meridians Properties UK Limited	Manchester	A	0
 MERIT SUPPLIES LTD	Morden	A	0
 Merkur Casino Holdings UK Limited	Milton Keynes	A	0,4
@@ -3530,6 +3525,7 @@ Minster (Sheppey) Cricket Club	Minster-on-Sea	A	11
 Minworth Sushi Ltd	Minworth	A	0
 Minx Clothing (International) Ltd	Manchester	A	0
 MIR'S ROOSTER LTD	Morden	A	0
+MIRACLE INTERNATIONAL CONTRACTING & TRADING CO. LTD	Milton Keynes, Buckinghamshire,	A	0,4
 Miracle Temple Assemblies of God Church	Milton Keynes	A	1,10
 Mirador Analytics Limited	Melrose	A	0,4
 MIRAJ TRADING LTD	Milton Keynes	A	0
@@ -3559,7 +3555,6 @@ MK Dosa Corner (Halal) Ltd	Milton Keynes	A	0
 MK EURO HALAL LTD	Milton Keynes	A	0
 Mk Fresh Foods Ltd	Milton Keynes	A	0
 MK GLOBAL EDUCATION CONSULTANT LIMITED	Manchester, Lancashire	A	0
-MK HOSPITALITY & CATERING LIMITED	Milton Keynes	A	0
 MK MONTESSORI LTD	Milton Keynes	A	0
 MK MOT CENTRE LTD	Milton Keynes	A	0
 MK SERVICES (MCR) LTD	Manchester	A	0
@@ -3635,7 +3630,6 @@ MOSTON SUPERSTORE LIMITED	Manchester	A	0
 Mote Park Vet Group	Maidstone	A	0
 Motherwell Football and Athletic Club Limited	Motherwell	A	11
 MOTHERWELL FUEL SERVICES LTD	Motherwell	A	0
-MOTOR MOMENT LIMITED	Manchester	A	0
 Motors.co.uk Ltd	Milton Park	A	0
 Mount Digital Solutions Limited	Manchester	A	0
 Mountain Ash Service Station	Mid Glamorgan	A	0
@@ -3685,7 +3679,6 @@ MST Systems Limited	Malvern	A	0
 Mu Mu Experience Limited	Maidstone	A	0
 MUBARIK HALAL MEAT LTD	Morden	A	0
 Much. Consulting Ltd	Manchester	A	0,4
-MUDUK RESTAURANT LTD	Mitcham	A	0
 Muffin Consultancy Group Limited	Middleton	A	0
 Mughal Grocers Ltd T/A Mughal Grocers	Manchester	A	0
 Muhammad Ilyas: Trading as Everfresh Butchers	Milton Keynes	A	0
@@ -3714,7 +3707,6 @@ MUSU	Manchester	A	0
 Muutto LTd	Manchester	A	0
 MUZE CONSTRUCTION & CONSULTANCY LTD	Milton Keynes	A	0
 MV Shop Limited	Manchester	A	0
-MVP PRO UK Limited	Milton Keynes	A	0
 MX Reality Ltd	Milton Keynes	A	0
 My Indian	Manchester	A	0
 MY PROJECT INTERVIEW LIMITED	Manchester	A	0
@@ -3909,7 +3901,6 @@ NORTHSTAR HOME CARE LIMITED	Manchester	A	0
 Northumberland County Council	Morpeth	A	0
 Norton in Hales Cricket Club	Market Drayton	A	11
 Norwest Insurance Limited	Manchester	A	0
-NOSSH & CO LIMITED	Milton Keynes	A	0
 Noumed Life Sciences Limited	Maidenhead	A	0
 Novacyt UK Holdings Limited	Manchester	A	0
 Novastar Infotech Limited	Milton Keynes	A	0
@@ -4026,7 +4017,6 @@ Orchard Medical Practice	Mansfield	A	0
 Orchid Am Limited	Manchester	A	3
 Orchid Care Homes Limited t/a Springfield Care Home	March	A	0
 Orchid NW Ltd TA Zumuku Sushi	Manchester	A	0
-Orchid Woodlands Healthcare Ltd	Manchester	A	0
 ORIENT MONEY TRANSFER LTD	Manchester	A	0
 Original Additions (Beauty Products) Limited	Middlesex	A	0
 Original Third Eye Restaurant Ltd	Manchester	A	0
@@ -4068,7 +4058,6 @@ Pan Artisan	Midhurst	A	0
 pan asian cuisine	Margate	A	0
 Pan World Brands Limited	Manchester	A	0
 PANACHE AUTOCENTRE LTD	Manchester	A	0
-Panandpaper Limited	Mansfield	A	0
 Panesar Enterprise UK Ltd	Manor Park	A	0
 Pannone Corporate LLP	Manchester	A	0
 Pant Farm Store	Mid Glamorgan	A	0
@@ -4299,7 +4288,6 @@ Proman Supply Chain Limited	Manchester	A	0
 PROMOTIZE LTD	Manchester	A	0
 Propello Cloud Ltd	Manchester	A	0
 Proper Aesthetics Ltd	Milton Keynes	A	0
-Property Finders Real Estate Limited	Mayfair, London	A	0
 PROPERTY INVESTMENT GAINS LTD	Manchester	A	0
 Prophet plc	Meriden	A	0
 Proquant Estimating Limited	Macclesfield	A	0
@@ -4384,7 +4372,6 @@ Quorn Lodge Limited	Melton Mowbray	A	0
 Qure Group Ltd	Manchester	A	0
 R & A Professional Services Ltd	Manchester	A	0
 R & S Off Licence	Manchester	A	0
-R AND S (SOUTH EAST) DEVELOPMENTS LIMITED	Maidstone	A	0
 R C Shearlaw & Son	Maybole	A	0
 R Crawford Ltd	Maghera	A	0
 R J A Keynes Limited	Milton Keynes	A	0
@@ -4401,7 +4388,7 @@ Radcliffe Medical Practice	Manchester	A	0
 RADHIKA'S OFF LICENCE LIMITED	Manchester	A	0
 Radiant & Charm Limited	Manchester	A	0
 Radiant Medicare Limited T/A Rj's Pharmacy	Middlesex,	A	0
-Radical Forge Ltd	Middlesbrough	A	0
+Radical Forge Ltd	Manchester	A	0
 Radisson Hotels Management Ltd.	Manchester	A	0
 Radisson Hotels UK Ltd	Manchester	A	0
 Ragavan Deliveries	Milton Keynes	A	0
@@ -4423,7 +4410,6 @@ Raja Mudassar Food Limited T/A Caprinos Pizza Withington	Manchester	A	0
 RAJAGOBALAN VEERAPATHIRAN T/A MOORES OFF LICENCE AND STORE	Mansfield	A	0
 RAJARAJESWARI RETAIL LTD	Manchester	A	0
 Rajesh Subramaniyan t/a Marden Stores	Marden	A	0
-RAJPOOT (ILMINSTER) LTD	Manchester	A	0
 Rajpoot Indian Ltd	Melksham	A	0
 Rajshree Catering Limited	Maidstone	A	0
 Ram Brothers UK Ltd	Manchester	A	0
@@ -4451,9 +4437,7 @@ RAQS MANCHESTER LTD	Manchester	A	0
 Rasax Ltd	Manchester	A	0
 Rase VS Ltd t/a Rase Veterinary Centre	Mkt Rasen,	A	0
 Raster Vision Ltd	Matfield	A	0
-Rate Masters Ltd	Manchester	A	0
 Rathgar Care Home Ltd	Milton Keynes	A	0
-Rathplace Developments Limited	Marlborough	A	11
 Ravensbury Park Medical Centre	Mitcham	A	0
 RAVIAN PAYONEER LTD	Manchester	A	0
 RAXHAR TRADING LTD	Manchester	A	0
@@ -4465,6 +4449,7 @@ RAYMILL FOOD & WINE LIMITED	Maidenhead	A	0
 RAYYAN CARES LIMITED	Manchester	A	0
 Raza Home Care Ltd	Morden	A	0
 RAZOR GROUP ACQUISITION VIII LTD	Milton Keynes	A	0
+RB CHEF LTD	Macclesfield	A	0
 RBB BUILDING LTD	Mitcham	A	0
 RBC Group	Melton Mowbray	A	0
 RCCG - Jubilee Church Manchester	Manchester	A	0,1,10
@@ -4644,6 +4629,7 @@ RRG Group	Manchester	A	0
 RS Chauffeurs Ltd	Manchester	A	0
 RS Data Tech Ltd	Manchester	A	0,4
 RS KNITWEAR LTD	Manchester	A	0
+RSA Security UK Ltd	Manchester, Greater Manchester	A	0,4
 RSA SURGICAL CENTRE LIMITED	Milton Keynes	A	0
 RStar Ventures Ltd	Manchester	A	0
 RT Aroma Limited	Milton Keynes	A	0
@@ -4676,7 +4662,6 @@ S.J.M. Limited trading as SJM Concerts	Manchester	A	0,3
 S.Satha & Co Limited	Manor Park	A	0
 S2 FOODS LIMITED T/A PEP'S PIRI PIRI	Manchester	A	0
 SAA RESTAURANT LTD	Manchester	A	0
-Saad London Ltd T/A Saad	Maidstone,	A	0
 SAAJAN SAVORIES LIMITED	Manchester	A	0
 Saams Function Hall Limited T/A Saams Function Hall	Morden	A	0
 SAASHA LTD	Milton Keynes	A	0
@@ -4780,7 +4765,6 @@ Schueco UK Limited	Milton Keynes	A	0
 SCHUNK Intec Limited	Milton Keynes	A	0
 Schwing Stetter (UK) Ltd	Marlow	A	0,4
 SCISSORS CUT LTD	Morden	A	0
-Scone Polo Team	Midhurst	A	11
 SCORPAY CONSULTANCY LTD	Manchester	A	0
 SCOTT MARINE CONSULTANTS LTD	Milton Keynes	A	0
 Scottish Borders Council	Melrose	A	0
@@ -4848,7 +4832,6 @@ SHAM & CO NE LTD	Middlebrough	A	0
 SHAMAIL GOLD LTD	Middlesex	A	0
 Shan Foods (UK) Limited	Manchester	A	0
 SHARON & KABON LTD	Milton Keynes	A	0
-Sharp Hawk UK Limited	Manchester	A	0
 SHAS Consultancy & Translation Services	Manchester	A	0
 SHAW Manufacturing Limited	Middlesbrough	A	0
 Shayon Ltd	Maidstone	A	0
@@ -4918,6 +4901,7 @@ Simplified Staffing Limited	Mitcham	A	0
 Simply Bright (Mitcham) Ltd	Mitcham	A	0
 Simply Carehome Limited T/A Becket House Nursing Home	Milton Keynes	A	0
 SimpsonHaugh Architects Ltd	Manchester	A	0
+SINDHERFOODS LIMITED	Merthyr Tydfil	B	0
 Singh & Kaur Enterprises Limited T/A Phone Corner	Mansfield	A	0
 Sinnathamby Manickam (sole trader)	Middlesex	A	0
 SINTL LTD	Mitcham	A	0
@@ -4989,6 +4973,7 @@ Sneak Peek Technologies Limited	Mitcham	A	0
 Snodas Trading Ltd	Maidenhead	A	0
 Snovasys Software Solutions Limited	Middlesex	A	0,4
 SNREDDY Stores	Merthyr tydfil	A	0
+SNS International LTD	Mitcham	A	0
 SNT UK TRADING LIMITED	Manchester	A	0
 So Famous MCR Ltd	Manchester	A	0
 SO GOOD LOGISTICS LIMITED	Manchester	A	0
@@ -5289,11 +5274,13 @@ TALENT NEXT CONSULTING SERVICES LTD	Milton Keynes	A	0
 Talisman Colombia Holdco Limited	Manchester	A	0,4
 TALK SMART LIMITED	Manchester	A	0
 Talking Tommy Limited	Manchester	A	0
+TalkTalk Telecommunications Limited	Manchester	A	0
 Talktime Middlesbrough Ltd	Middlesbrough	A	0
 Tamehaven Limited t/a The Poplars Care Centre	Maidstone	A	0
 Tampopo Limited T/A Tampopo	Manchester	A	0
 Tamu Dhee Association UK	Mytchett	A	3
 Tamworth House Medical Centre	Mitcham	A	0
+Tandem Set and Scenery Ltd	Marden	A	0
 TANDOORI UK LIMITED T/A Tondori Royale	Manchester	A	0
 Taplow House Hotel Ltd	Maidenhead	A	0
 Tarasis Support Services	Milford	A	0
@@ -5324,6 +5311,7 @@ TECHFUN GIFT LIMITED	Manchester	A	0
 TechInsights Market Analysis Limited	Milton Keynes	A	0,4
 TECHNETC LIMITED	Mildenhall	A	0
 Technia Limited	Milton Keynes	A	0,4
+Technical Professionals Limited (trading as LearnTech)	Manchester	A	0
 Technique Services	Manchester	A	0
 TECHNO AD UK PRIVATE LTD	Manchester	A	0
 Techno E Services Ltd	Milton Keynes	A	0
@@ -5338,7 +5326,6 @@ TEES PROPERTY CLEANING SERVICES LTD	Middlesbrough	A	0
 Tees Works Group Limited	Middlesbrough	A	0
 TEES, ESK & WEAR VALLEYS NHS TRUST	Middlesbrough	A	0
 Tees-Valley Care Limited	Middlesbrough	A	0
-Teesside Care Services Ltd.	Middlesbrough	A	0
 TEESSIDE LLP	Middlesbrough	A	0
 TEHZEEB MART LTD	Manchester	A	0
 Telcom Paymaster Limited	Manchester	A	0
@@ -5424,7 +5411,6 @@ The George Group Limited	Malmesbury	A	0
 The Gill Medical Centre	Manchester	A	0
 The Global Draw Ltd	Manchester	A	0,4
 The Goa Balti House	Marlborough	A	0
-The Grange (Shirebrooks) Limited	Mansfield	A	0
 The Grange Care Centre (Cheltenham) Limited	Manchester	A	0
 THE GRANGE CARE CENTRE (EASTINGTON) LIMITED	Manchester	A	0
 The Green Cocoa Lab Limited	Milton Keynes	A	0
@@ -5440,6 +5426,7 @@ The Hira Company Ltd	Manchester	A	0
 THE HOME FURNISHING COMPANY LTD	Manchester	A	0
 The Impact Advantage Limited	Market Harborough	A	0
 The Indian Grill Restaurant Ltd T/A The Indian Grill	Maldon	A	0
+The Information Commission	Manchester	A	0
 The Institute of Sustainability and Environmental Professionals	March	A	0
 The Islamic Academy of Manchester	Manchester	A	1,10
 the islamic foundation	Markfield	A	0
@@ -5560,6 +5547,7 @@ TLR Private Ltd	Maidstone	A	0
 TM Insulation Ltd	Milton Keynes	A	0
 TMC Garage Services Ltd	Middlesborough	A	0
 TMC Solicitors Ltd	Manchester	A	0
+TMF IMMIGRATION LAWYERS LTD	Manchester	A	0
 TN Solutions Limited	Maidenhead	A	0
 TNA Knitwear Ltd	Manchester	A	0
 TNEI Services Ltd	Manchester	A	0
@@ -5574,6 +5562,7 @@ TOP LINEN (NW) LIMITED	Manchester	A	0
 Top Sarv Consultancy Limited	Milton Keynes	A	0
 Topcourses Leicester Ltd	Market Harborough	A	0
 Topendology LTD	Milton Keynes	A	0
+Topframe Engineering Ltd	Magherafelt	A	0
 Topps Europe Limited	Milton Keynes	A	0,4
 TOPS PIZZA MAIDSTONE LIMITED	Maidstone	A	0
 Toptrendz Limited	Mitcham	A	0
@@ -5598,7 +5587,6 @@ TP Accounting & Consultancy Ltd	Manchester	A	0
 TPM Landscape Limited	Manchester	A	0
 TQ TRADERS LTD	Manchester	A	0
 TR FORENSIC ACCOUNTANTS LTD	Manchester	A	0
-TR Traders Ltd	Manchester	A	0
 Trackrecord Construction Ltd	Milton Keynes	A	0
 Trade and Smile UK Ltd	Maidstone	A	0
 Tradebe Management Limited	Marlow	A	0,4
@@ -5657,6 +5645,7 @@ Tureddi Group Limited	Mayfair	A	0
 TURKISH FLAMES LIMITED	Manchester	A	0
 Turley Associates Limited	Manchester	A	0
 Turning Point	Manchester	A	0
+TWIG DELIGHT LTD	Manchester	A	0
 TwinkleTwinkle Montessorri	Manchester	A	0
 Two Can Talk Speech and Language Therapy	Mildenhall	A	0
 Two Mile Ash Food & Wine Limited	Milton Keynes	A	0
@@ -5746,10 +5735,10 @@ UPVC WINDOWS & DOORS PROFESSIONAL LTD	Manchester	A	0
 Upwards Care Solutions Limited	Manchester	A	0
 ur star choice ltd	Manchester	A	0
 Urban Green Space Ltd T/A Urban Green	Manchester	A	0
-URBAN LOOK FASHION LTD	Manchester	A	0
 Urban Property Refinement	Manchester	A	0
 URBAN SPICE BISTRO AND TAPAS LTD	Milcombe	A	0
 urbanbubble	Manchester	A	0
+Urbanchain Enterprise Logistics Limited	Manchester	A	0
 Urbanchain HUB CIC	Manchester	A	0
 UrbanChain Ltd	Manchester	A	0
 Urmston Spice Lounge Ltd	Manchester	A	0
@@ -5763,7 +5752,6 @@ UV PHOTOGRAPHY LTD	Maidstone	A	0
 UXV HOLDINGS LIMITED	Manchester	A	0
 V S Trading Limited	Maidenhead	A	0
 V-Square Technologies Ltd	Milton Keynes	A	0
-V3 BUSINESS SOLUTIONS LTD T/AS SOUTH ESK SERVICE STATION SHELL	Montrose	A	0
 V4 Architects Ltd	Milton Keynes	A	0
 VAAMG Consulting Limited	Milton Keynes	A	0
 Vagabond Digital	Manchester	A	0
@@ -5813,7 +5801,6 @@ VH-BSC UXBRIDGE LIMITED	Middlesex	A	0
 Vhan Consulting Ltd	Maidenhead	A	0
 Viamaster International Limited	Morley	A	0
 Vibes Trading Ltd	Manchester	A	0
-VICEROY (BOLLINGTON) RESTAURANT LTD	Macclesfield	A	0
 Victor Buyck Steel Construction UK Ltd	Margam	A	0,4
 VICTORIA APARTMENTS MIDDLESBROUGH LTD	Middlesbrough	A	0
 Victoria's Smile Limited	Middlesex	A	9
@@ -5824,7 +5811,6 @@ Vifor Pharma UK Limited	Maidenhead	A	0,4
 VIJIMAHINTHAN VIGNESWARAN T/A MOORSIDE BOTTLE SHOP	Manchester,	A	0
 Village Bargain Store Ltd	Middleton	A	0
 Village Convenience Store ltd & Post Office	Much Hadham	A	0
-Village Security Solutions Limited	Milton Keynes	A	0
 Vinelife Church Manchester	Manchester	A	1,10
 Vintage Bridal Limited	Manchester	A	0
 Vinusha Ltd	Manchester,	A	0
@@ -5896,9 +5882,9 @@ WD Accountants Ltd	Manchester	A	0
 WD-40 Company Ltd	Milton Keynes	A	0,4
 We Are Indigo Ltd	Manchester	A	0
 we buy any car	Manchester	A	0
+We Care Physiotherapy ltd	Maidstone	A	0
 We Love Care Ltd	Maidenhead	A	0
 We Organise Chaos Limited	Macclesfield	A	3
-WE&CE Ltd	Manchester	A	0
 WEACTIVE9 LTD	Milton Keynes	A	0
 Webasto Roof Systems Ltd	Minworth	A	0
 Webcare Group Ltd	Manchester	A	0
@@ -5951,7 +5937,6 @@ Wills Bros Civil Engineering Ltd	Motherwell	A	0
 Wilson Gunn LLP	Manchester	A	0
 Wilson House Dental Practice	Milton Keynes	A	0
 Wilson Lodgings Limited	Maidenhead	A	0
-Wilson Partners Limited	Maidenhead	A	0
 Wimblington Convenience Store Ltd T/A Premier & Post Office	March	A	0
 Win & Win Convenience Store	Manchester	A	0
 Wind 2 Limited	Mold	A	0
@@ -6035,7 +6020,6 @@ Yamaha Music Europe GmbH (UK)	Milton Keynes	A	0,3,4
 Yamin Ltd - t/as The Spice Room	Moreton-In-Marsh	A	0
 YAPI LIMITED	Maidenhead	A	0
 Yardi Systems Limited	Milton Keynes	A	0,4
-YC Manchester LTD	Manchester	A	0
 YELLOWFIN EMEA LTD	Milton Keynes	A	4
 YEO Messaging Ltd	Matlock	A	0
 Yexle Limited	Milton Keynes	A	0,4

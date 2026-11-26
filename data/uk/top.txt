@@ -17,7 +17,7 @@ Arcadis LLP	London	A	0,4,7
 Aros Kapital Ltd	London	A	0,4,7
 Artelia Projects UK Limited	London	A	0,4,7
 AS London Shoreditch Operations B.V.	London	A	0,4,7
-Ashurst LLP	London	A	0,4,7
+Ashurst Perkins Coie UK LLP	London	A	0,4,7
 Associated Newspapers Ltd	London	A	0,4,7
 Atariya Restaurant London Limited	London	A	0,4,7
 AtkinsRealis UK Limited	London	A	0,4,7

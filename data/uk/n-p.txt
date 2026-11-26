@@ -115,7 +115,6 @@ A P News Limited T/A A P News	Essex	A	0
 A P Sampson Ltd	Luton	A	0
 A P SOUVENIRS & GIFTS LIMITED	Berkshire	A	0
 A P TRAINING LTD	Wolverhampton	A	0
-A Park View Hotel	Wolverhampton	A	0
 A Park View Hotel (Wolverhampton) Ltd	Wolverhampton	A	0
 A Patel Limited	Essex	A	0
 A Patel T/A Mail Boxes Etc Croydon	London	A	0
@@ -160,6 +159,7 @@ A.P.S. Auto Parts Ltd	Crossmaglen	A	0
 A.Poortman (London) Limited Trading AGT Poortman	London	A	0
 A.T.S.UK PRIVATE LIMITED t/as Eden Off Licence	Rotherham	A	0
 A1 Permier Services Limited	Solihull	A	0
+A1 Pharmaceuticals Public Limited Company	Rainham	A	0
 A1 Plumbers UK Ltd	Slough	A	0
 A1 POUND STORE LTD	Manchester	A	0
 A1 PRIVATE HIRE LTD	Nottingham	A	0
@@ -190,7 +190,7 @@ AAIM EVENT AND PROJECT MANAGEMENT LIMITED	Croydon	A	0
 AAJ CONSTRUCTION (PROPERTY) LTD	Ilford	A	0
 Aalto Media Limited t/a Aalto Production	London	A	0
 AAM PHARMA LTD T/A AR CHEMIST	London	A	0
-AARAV PROPERTIES LIMITED	Twickenham	A	0
+AARAV PROPERTIES LIMITED	London	A	0
 Aaris Private Limited	Middlesbrough	A	0
 AARIZ STORES LIMITED T/A Royal Paan And Chaat Corner	London	A	0
 Aaryan Hyde Park Ltd T/A The Hyde Park Green Hotel	London	A	0
@@ -286,7 +286,6 @@ Ace Pilates Limited	London	A	0
 Ace Pro Services Ltd	London	A	0
 ACE PROPERTY FINDER LTD	London	A	0
 Acer Prime Law Ltd	Norwich	A	0
-ACER PROPERTIES NORTH LTD	Preston	A	0
 ACH Partners Limited	Perivale	A	0
 Achieve Pharma UK Limited	Henley-On-Thames	A	0
 ACL Homes Plus Ltd	Folkestone	A	0
@@ -451,11 +450,13 @@ AK PHONES & ACCESSORIES LTD	Southall	A	0
 AK Premuim Events	Luton	A	0
 AK PROMISE LTD	Norfolk	A	0
 AK Property Agents Ltd	London	A	0
+AKA INNOVATIONS POWER & ELECTRICAL ENGINEERING LTD	Aberdeen	A	0
 AKA PHARMA	Stoke on Trent	A	0
 AKA Promotions Limited	London	A	0
 AKAL SAHAI PROPERTIES LTD	Birmingham	A	0
 AKD PENSARN STORES LTD	Abergele	A	0
 AKH Property Maintenance Ltd	Lincoln	A	0
+Akin Palmer LLP	London	A	0
 Akira Partners LLP	London	A	0
 AKM Trading Ltd T/A Gosport Community Pharmacy	Gosport	A	0
 AKMOL PROPERTIES LTD	Hastings	A	0
@@ -819,7 +820,6 @@ Arbor Education Partners Ltd	London	A	0
 Arbour Partners LLP	London	A	0
 Arbroath Medical Practice LLP	Arbroath	A	0
 Arc Pharma (UK) Limited	St Albans	A	0
-ARC PHARMA UK LIMITED	St Albans	A	0
 Arc Property Services Partnership Ltd	Nottingham	A	0
 ARC Smile Ltd t/a Espie and Hill Dental Practice	East Lothian	A	0
 ARC Solutions Pvt Ltd	Bracknell	A	0
@@ -835,6 +835,7 @@ Arcola Products Limited	Sittingbourne	A	0
 Arcola Theatre Production Company	London	A	0,3
 Arcs Retail Ltd T/A Queens Road Stores - Premier	Shropshire	A	0
 ARCTURUS PUBLISHING LIMITED	Canterbury	A	0
+ARD PAVING STONES LIMITED	Surrey	A	0
 Ardagh Metal Packaging UK Limited	Chester	A	0,4
 Ardale (Potters Grange) Ltd	Potters Bar	A	0
 ARDEA PARTNERS INTERNATIONAL LLP	London	A	0,4
@@ -911,7 +912,6 @@ AS Greenford Heating and Plumbing (UK) Limited	Greenford	A	0
 AS Properties	London	A	0
 As-Sure Physio Ltd	Stevenage	A	0
 Ascent Performance Group Limited	Manchester	A	0
-Ascent Performance Group Limited	Sheffield	A	0
 Ascenti Physio Limited	Fareham	A	0
 Ascheri & Partners Ltd	London	A	0
 Ascot Hyde Park Hotel	London	A	0
@@ -947,6 +947,7 @@ ASHTON SUPERSTORE PRIVATELIMITED	Ashton Under Lyne	A	0
 Ashtrom Properties UK Limited	London	A	0,4
 Ashurst Park Care Home	Tunbridge Wells	A	0
 Ashurst Perkins Coie (International) LLP	London	A	0,4
+Ashurst Perkins Coie UK LLP	London	A	0,4,7
 ASHVALE PLANT HIRE LIMITED	Westoning	A	0
 Ashworth and Parker Limited (Trading as END.)	Tyne and Wear	A	0
 Asia Investments UK Private Limited	London	A	0,4
@@ -1338,6 +1339,7 @@ Begg Practice	Battersea	A	0
 Begh Ltd T/A Far Pavilion Restaurant	Camforth	A	0
 Beigi & Chiu Clinical Psychology Ltd	London	A	0
 Beit Shvidler Primary School	Edgware	A	0
+Belfast Pilates & Physiotherapy LTD	Belfast	A	0
 Belinda King Creative Productions Ltd	Northampton	A	0,3
 Bell Building Projects Ltd	Glasgow	A	0
 Bell Phillips Architects Limited	London	A	0
@@ -1650,7 +1652,6 @@ BOW PIZZA LIMITED	London	A	0
 Bowden Derra Park Limited	Launceston	A	0
 Bower Mount Medical Practice	Maidstone	A	0
 Bowers Way Dental Practice	Harpenden	A	0
-Bowman Power Group Limited	Southampton	A	0
 Boxmoor House Dental Practice	Hertfordshire	A	0
 Boyle Inns, trading as: Philomena's Sports Bar and Kitchen	London	A	0
 BP PAYMENTS LTD	London	A	0
@@ -1663,6 +1664,7 @@ Braehead Medical Practice	Renfrew	A	0
 Braime Pressings Ltd	Leeds	A	0
 Brain Payroll UK Limited	Leeds	A	0
 BRAINFLOSS UK PRIVATE LIMITED	Morden	A	0
+Braintree PCN Limited	Braintree	A	0
 Bramblehaies Partnership	Cullompton	A	0
 Bramhall Gourmet Ltd T/A Turquoise Cafe Patisserie	Stockport	A	0
 BRAMHAM PROPERTIES LTD	Uxbridge	A	0
@@ -1671,7 +1673,6 @@ Brand Port Europe Ltd	Uckfield	A	0
 Brand Potential Limited	Windsor	A	0
 Brand Power Limited	London	A	0,4
 BRANDON CENTRE FOR COUNSELLING AND PSYCHOTHERAPY FOR YOUNG PEOPLE	London	A	9
-Branksome Park Care Centre Limited	Poole	A	0
 Bransholme Pharmacy	Hull	A	0
 Branston & Heighington Family Practice	Branston	A	0
 Brantwood Avenue Post Office	Dundee	A	0
@@ -1945,6 +1946,7 @@ Camisado T/A Pepes Piri Piri	Stoke-On-Trent	A	0
 Campbell and Gibson - Dental & Implant Practice	Musselburgh	A	0
 Campbell Dental Practice Ltd	Stoke on Trent	A	0
 Campbell Industrial Products Limited	Larne	A	0
+Campbell Plant Hire Limited	Inverness	A	0
 CAMPBELLS PRIME MEAT LTD	By Linlithgow	A	0
 Campbeltown Medical Practice	Campbeltown	A	0
 Camron Public Relations Limited	London	A	0
@@ -2023,12 +2025,13 @@ Care Pro (South East) Limited	Bexhill on Sea	A	0
 Care Promise Limited	Stafford	A	0
 Care Properties Limited	Leeds	A	0
 CARE PROPERTY MANAGEMENT LTD	London	A	0
-Care With Pride Leicester Ltd	Leicester	A	0
+Care Provision Healthcare Limited t/as Philia Lodge Rest Home	Peterborough	A	0
 Care with Pride Ltd	Luton	A	0
 Care+ Medicines Limited T/ A Wilmslow Road Pharmacy - Chemists & Health Clinic	Manchester	A	0
 Care1 Professional Services LTD	Hamilton	A	0
 Carebase (Guildford) Limited t/a Queen Elizabeth Park	Guildford	A	0
 CAREBUILD CONSTRUCTION & ENGINEERING PVT. LTD	Walsall	A	0
+Carelink Healthcare Professionals Limited	Leicester	A	0
 CarePlusPharmacy UK Ltd t/a Careplus Pharmacy	Hertfordshire	A	0
 CAREWISE HEALTHCARE GROUP LTD T/A CAREWISE PHARMACY	Edinburgh	A	0
 Caridon Property Limited	Croydon	A	0
@@ -2092,7 +2095,6 @@ Caxton Payments Ltd	London	A	0
 Cayton Park Stud Limited	London	A	0
 CB Payments Ltd	London	A	0,4
 CB SERVICES (PRESTON) LTD	Preston	A	0
-CB Services (Preston) ltd T/A Eggfree Cake Box Preston	Preston	A	0
 CB1 Properties Cambridge Limited	Cambridge	A	0
 CBM Partners Ltd	Dursley	A	0
 CCC AYOMIDE PARISH	Dagenham	A	9
@@ -2160,7 +2162,6 @@ CF Private Equity U.K. Limited	London	A	0,4
 CF Psychology Group Limited	London	A	0
 CFN Packaging Group Ltd	Skegness	A	0
 CG Global Products Ltd t/a Club Green	Woking	A	0
-CG Partnership	Southampton	A	0
 Ch Saad Ltd T/A Premier Lyndhurst Store	Burnley	A	0
 CHA SHA HOUNSLOW LTD T/A Phat Buns Hounslow	London	A	0
 Chacha G Ltd T/A Lala Peshawari	Hounslow	A	0
@@ -2192,6 +2193,7 @@ Charlotte Street Partners	Edinburgh	A	0
 Charlton Park Academy	London	A	0
 Charlton Park Stables	Malmesbury	A	0
 Charro Dental Practice Limited	Rhayader	A	0
+Charro Dental Practice Ltd	Rhayader	A	0
 CHARTAC PRACTICE LIMITED	Birmingham	A	0
 Charter Property Ltd	London	A	0
 Chartered Institute of Personnel and Development	Wimbledon	A	0
@@ -2282,6 +2284,7 @@ CHOKHI DHANI PRIVATE LIMITED	London	A	0
 CHONGQING CABERS ENVIRONMENTAL PROTECTION TECHNOLOGY UK CO, LTD	London	A	0
 Chopsticks Ltd trading as The Place Restaurant & Bar	Sutton	A	0
 Chorley Pizza & Grill Ltd	Chorley	A	0
+Chosen People Ministries UK	London	A	1
 Chris Harper Productions	London	A	3
 Chrisdjanee Beauty Parlour Ltd	Grays	A	0
 Chrisp Street Practice (Chrisp Street Health Centre)	London	A	0
@@ -2375,6 +2378,7 @@ CJAY PROPERTY MANAGEMENT LTD	London	A	0
 CJR Propulsion Ltd	Southampton	A	0
 CJV Dining Ltd t/a Mr Wang Hot Pot	Cambridge	A	0
 CK PROPERTIES AND FAMILY OFFICE LIMITED	London	A	0
+Clare Healthcare Ltd t/a Tamworth Pharmacy	Tamworth	A	0
 Claremont dental Practice	Seaford	A	0
 Claremont Park Limited	Edinburgh	A	0
 Clarence Road Dental Care Partnership	Chesterfield	A	0
@@ -2486,6 +2490,7 @@ Colt Precision Ltd	Tewkesbury	A	0
 Coltishall Medical Practice	Norwich	A	0
 Columbia Lake Partners Manager, LLP	London	A	0
 Columbia Pictures Corporation Limited	London	A	0,4
+Columbo South Limited T/A Phonox	London	A	0,3
 Colville Primary School	London	A	0
 Combe Coastal Practice	Ilfracombe	A	0
 COMBI CONSTRUCTION & PROPERTIES LTD	Birmingham	A	0
@@ -2610,6 +2615,7 @@ Cost Cutter Worcester Park	Worcester park	A	0
 Costcutter (Porton Store)	Biggleswade	A	0
 Costcutter Priory News	Birmingham	A	0
 COSTESSEY PHARMACY	Norwich	A	0
+COTSWOLD MEDICAL CLINICS LTD Trading As The Cotswold Physio Rooms	Witney	A	0
 Cotswold Medical Practice	Cheltenham	A	0
 Cottingley Pharmacy	Leeds	A	0
 Cotton On UK (Pty) Ltd.	London	A	0,4
@@ -2686,6 +2692,7 @@ Crest Family Practice	Bristol	A	0
 Crewe Pizza House Ltd	Crewe	A	0
 Crickhowell Group Practice	Crickhowell	A	0
 Crisis Prevention Institute Inc T/A CPI Europe Inc.	Sale	A	0
+Crisp Pizza Limited	London	A	0
 Cristal Pharmacy Limited T/A Cristals Chemist	Cheshunt	A	0
 Croft Dental Practice	Sudbury	A	0
 Croft Hall Medical Practice	Torquay	A	0
@@ -2713,12 +2720,10 @@ Crown Paints Ltd	Darwen	A	0
 Crown Pavilions Limited	Watlington	A	0
 Crown Pearls Ltd T/A Poole Lane Dental Practice	Bournemouth	A	0
 Crown Pet Foods Limited	Castle Cary	A	0,4
-Crown Pharmacovigilance Limited	Hatfield	A	0
 Crown Plus Limited	Telford	A	0
 CROWN POINT BUILDERS LTD	Dartford	A	0
 Crown Polishing and Plating Company Limited	Wolverhampton	A	0
 Crown Properties (GB) LTD	London	A	0
-Crowne Plaza Reading East	Wokingham	A	0
 CROYCHEM PHARMACY	Croydon	A	0
 Croydon DIY & Plumbing	Croydon	A	0
 CROYDON HYBRID PARTS LTD	Croydon	A	0
@@ -2900,7 +2905,6 @@ Dechra Pharmaceuticals Holdings Limited	Northwich	A	0,4
 Dechra Pharmaceuticals Limited	Northwich	A	0
 Decimal Point Analytics Limited	Barking	A	0,4
 Decorative Panels Holdings Ltd	Elland	A	0
-Deep Planet Limited	London	A	0
 Deepcut Village Dental Practice	Deepcut	A	0
 Deeplish Property Group Ltd	Rochdale	A	0
 Deerness Park Medical Group	Sunderland	A	0
@@ -3110,7 +3114,6 @@ DOWNHAM PETROLEUM COMPANY LIMITED	Norfolk	A	0
 Downhole Products Limited	Aberdeen	A	0,4
 Downside Primary School	Luton	A	0
 DOWNUNDER GEOSOLUTIONS (LONDON) PTY LIMITED	London	A	0,4
-Doxa Partners LLP	London	A	0
 DP & K Rhodes Limited T/A Hordle Pharmacy	Lymington	A	0
 DP Dumfries Limited TA Domino's Pizza	Dumfries	A	0
 DP Peterborough Limited	Camberley	A	0
@@ -3306,10 +3309,8 @@ E-Health Pharmacy Limited	North Harrow	A	0
 E-Klaz Profit Limited	Gravesend	A	0
 E-TEC Power Management	Farnborough	A	0
 E1 Printing Limited t/a Faith Design & Print	London	A	0
-E1 Printing Limited T/A Faith Design & Print.	London	A	0
 E12 CHICKEN & PIZZA LIMITED	London	A	0
 E2 Dental Practice	London	A	0
-Eaga Partnership Ltd	Llanelli	A	0
 EAGLE PIZZA LB LTD	Leighton Buzzard	A	0
 Eagle Plumbing & Heating Ltd	Kent	A	0
 EAGLE POWER MINISTRIES INTERNATIONAL	Carshalton	A	1
@@ -3366,7 +3367,6 @@ EASTRY PHARMACY LTD	Kent	A	0
 Eastway Pharma Ltd	Stockport	A	0
 Eastwood & Partners (Consulting Engineers) Ltd	Sheffield	A	0
 Eastwood Park Academy Trust	Leigh-on-Sea	A	0
-Eastwood Park Limited	Wotton-under-Edge	A	0
 Eastwood Primary Care Centre	Eastwood	A	0
 Easy Car Parts Ltd	Great Staughton	A	0
 Easy Care Services Limited T/A Easy Pharmacy	Ashford	A	0
@@ -3386,7 +3386,7 @@ EC Sports Physiotherapy Limited	Welwyn	A	0
 Ecclesiastical Parish of St Peter's-in-the-forest, Walthamstow	London	A	0,9,10
 Eccleston Medical Centre Partnership	St Helens	A	0
 Echo Packaging Ltd	Corby	A	0
-Eclipse 26 - Trading as Piglets Pantry Ltd	Worthing	A	0
+Eclipse 26 Ltd - Trading as Piglets Pantry	Worthing	A	0
 ECLIPSE AUTO PARTS LIMITED	Manchester	A	0
 ECLIPSE PHARMA LTD	London	A	0
 Eclipse Power limited	Milton Keynes	A	0
@@ -3570,7 +3570,6 @@ Energy Power Resources Limited	Woodbridge	A	0
 ENERGY PRICES DIRECT LIMITED	Glasgow	A	0
 ENETCO POWER UK LTD	London	A	0
 Enfield Plumbing Supplies Limited	Enfield	A	0
-ENGAGE DIGITAL PARTNERS	London	A	0
 Engage Digital Partners Limited	London	A	0
 Engage Process UK Ltd	Greater London	A	0,4
 Engage Productions Ltd	Warrington	A	0
@@ -3600,6 +3599,7 @@ ENVA PLASTICS LIMITED	Bilsthorpe	A	0
 ENVIRO CLEAN PRESTON LTD	Preston	A	0
 Environmental Power International (UK) Limited	London	A	0
 Environmental Products and Services Ltd	Newry	A	0
+Environmental Protection Strategies Limited	Cambourne	A	0
 Enviroo Project Co Limited	London	A	0
 Envision Pharma Group Ltd	Horsham	A	0
 Envoy Partnership	London	A	0
@@ -3798,7 +3798,6 @@ FAIRLIGHT PHARMA LIMITED	London	A	0
 Fairmont PM Ltd	Blackburn	A	0
 Fairview Health Ltd T/A Fairview Health Pharmacy	London	A	0
 Fairvue Partners Ltd	London	A	0
-FAISAL CURRY HOUSE & PIZZA BAR LIMITED	Barnsley	A	0
 Faisal Pervez T/A	Walsall	A	0
 Faith Pharmacy (Hulme) Ltd	Manchester	A	0
 Falco Private Office Limited	London	A	0
@@ -3824,6 +3823,7 @@ Farmak Pharmaceuticals UK Ltd	Hull	A	0
 FARMHOUSE PIZZA DIDCOT LTD	Didcot	A	0
 FARMHOUSE PIZZA IR LTD	Watford	A	0
 Farming Partners Arbigland Limited	Dumfires	A	0
+Farming Partners Holdings LLP	Dumfries	A	0
 Farnham Park Health Group	Farnham	A	0
 FARNHAM PHYSIOTHERAPY AND SPORTS CLINIC LIMITED	Farnham	A	0
 Faros Point Capital LLP	London	A	0
@@ -3871,7 +3871,6 @@ Fenland Group Practice	Doddington	A	0
 Fenland PCN Ltd	Cambs	A	0
 Fenmarc Produce Ltd	Wisbech	A	0
 FENPARK STORES LTD T/A PREMIER	Fenton	A	0
-Fenton Pharmaceuticals Limited	1A Frognal	A	0
 Fenton Property Limited	Portsmouth	A	0
 Fenton Veterinary Practice Limited	Haverfordwest	A	0
 Ferguson Marine (Port Glasgow) Limited	Port Glasgow	A	0
@@ -4030,6 +4029,7 @@ For Posterity Ltd	London	A	0
 FORBES PROPERTY SERVICES LTD T/A SALIK AND CO	London	A	0
 Ford Medical Practice - N84029	Liverpool	A	0
 FORD SPARE PARTS LTD	Hitchin	A	0
+Forest Edge Practice	Chigwell	A	0
 Forest Gate Property Services Ltd	Borehamwood	A	0
 Forest Peoples Programme	Moreton-in-Marsh	A	0,9
 Forest Poultry Ltd	York	A	0
@@ -4081,6 +4081,7 @@ Free Presbyterian Church of Scotland	Glasgow	A	1,9,10
 FREEDOM PRIME UK LIMITED	London	A	0,4
 Freedom Productions Ltd	Oldbury	A	3
 Freefoam Building Products UK Ltd	Northampton	A	0
+Freelance Consultancy Pvt Ltd	Glasgow	A	0
 Freemans Event Partners	Gloucester	A	0
 French Dental Practice	London	A	0
 Fresh Deli Food Plus Ltd T/A Fresh Deli	Barnsley	A	0
@@ -4124,6 +4125,7 @@ FULHAM PHARMACY LTD	London	A	0
 FULHAM PO LTD	London	A	0
 FULL VOLUME PR LIMITED	Manchester	A	0
 Funicular Productions Ltd	Dudley	A	0
+FUNTAZIA SOFT PLAY LTD	Blackburn	A	0
 Fuocos Pizza Franchising Limited	Cuffley	A	0
 Furley Page Solicitors	Canterbury	A	0
 FURNESS PARTNERSHIP LIMITED	London	A	0
@@ -4507,6 +4509,7 @@ Greenacres Dental Practice T/A Smileshines Aylesford Ltd	Aylesford	A	0
 GreenCap Partners	London	A	0
 Greencroft Lodge Dental Practice	Rowlands Gill	A	0
 Greenfield Medical Practice	Birmingham	A	0
+Greengate Property Ltd	London	A	0
 greenhead pharmacy	Huddersfield	A	0
 Greenhill Park Care Ltd	Evesham	A	0
 Greenhill Pigs	Co Tyrone	A	0
@@ -4588,7 +4591,7 @@ GULF PLASTICS LIMITED	Bolton	A	0
 GULF PROJECT SOLUTIONS LTD	Manchester	A	0
 Gully Point Limited	Chelmsford	A	0
 Gulmi Ltd T/A Sultan's Palace	Liverpool	A	0
-GULZAR HALAL POULTRY LTD	Birmingham	A	0
+GULZAR HALAL POULTRY LTD	Shrewsbury	A	0
 Gunjon Private LTD	London	A	0
 GUPTA PUBS LTD T/A THE WEST ROOM	Edinburgh	A	0
 GURBAKASH LTD T/A PANTRY CONVENIENCE STORE	Accrington	A	0
@@ -4671,6 +4674,7 @@ HAMBLE FOODS LIMITED t/a PAPA JOHN'S	Egham	A	0
 hamblecottage dental practice ltd	Southampton	A	0
 Hamd Medical Practice	Birmingham	A	0
 HAMELN PHARMA LTD	Gloucester	A	0
+Hamilton & Pollock 2012 Limited T/A HDKP	Hertfordshire	A	0
 Hamilton Hotel Partners Limited	Chelmsford	A	0,4
 Hamilton Pub (Hampstead) Limited T/A The Duke of Hamilton	London	A	0
 Hamilton West Medical Practice	Hamilton	A	0
@@ -4678,7 +4682,7 @@ Hamish Lal Partners Limited	London	A	0
 Hamish Powell Studio Ltd	London	A	0
 HAMMER PROPERTY MAINTENANCE LTD	Stockport	A	0
 Hammersmith and Fulham Central PCN Limited	London	A	0
-Hammersmith and Fulham Partnership	London	B	0
+Hammersmith and Fulham Partnership	London	A	0
 Hammond Partners LLP	London	A	0
 Hampden Gurney CE Primary School	London	A	0
 Hampshire Pharmaceuticals Limited	Hampshire	A	0
@@ -4686,6 +4690,7 @@ Hampshire Pharmaceuticals Limited T/A Village Pharmacy	Fareham	A	0
 Hampstead Group Practice	London	A	0
 HAMRO PASAL LTD	Reading	A	0
 HAMZA PAIINTS LIMITED	London	A	0
+HANA PETROLEUM LIMITED	Leeds	A	0
 Hancroft Developers Private Limited	London	A	0,4
 Hand Picked Hotels Limited	Sevenoaks	A	0
 Handmade Speciality Products Ltd	Exhall	A	0
@@ -4771,6 +4776,7 @@ Hawthorne Forest Products Ltd.	Newry	A	0
 Haxby Group Pharmacy Limited	York	A	0
 Haxby Group Practice	York	A	0
 Haydon Park Lodge Limited	London	A	0
+Haydon Power Ltd	Stourbridge	A	0
 Hayes Dental Practice	Hayes	A	0
 Hayfield Primary School	Hayfield	A	0
 Hayri Kaya Trading as Yes Properties	Nottingham	A	0
@@ -5056,7 +5062,7 @@ Huber Parking UK Limited	Langley	A	0,4
 HUBER+SUHNER Polatis	Cambridge	A	0,4
 HUDSON (PITKERRO) LIMITED	Dundee	A	0
 Hughes Property Partners Limited	Richmond, London	A	0
-HUGHES SYSTIQUE PRIVATE LTD	High Wycombe	A	0,4
+Hughes Systique Private Limited	Reading	A	0,4
 Hull Pound Plus LTD	Hull	A	0
 Human Rights Project Management Ltd	London	A	0
 Humble Pie Productions Limited t/a Studio Ramsay	London	A	3
@@ -5091,6 +5097,7 @@ Hyderabad Paradise	London	A	0
 Hyderabadi Paradise Limited	Edinburgh	A	0
 HydraB Power Limited	Oxford	A	0
 Hydraulic System Products Ltd	Wakefield	A	0
+HYDROTECH PIPING SYSTEMS LTD	London	A	0
 Hye Eun Ree T/A Kimchi Planet	Newcastle	A	0
 Hyk Limited T/A Players	Manchester	A	0
 Hyperchem Ltd t/a Ronchetti Pharmacy	Enfield	A	0
@@ -5116,7 +5123,6 @@ IBBI FOODS LTD t/a Pepe's Piri Piri	Cardiff	A	0
 IBEX PLUS PARTNERS LIMITED	Downpatrick	A	0
 IBIS & Partners Ltd	Peterlee	A	0
 IBOSA PROPERTIES UK LTD	London	A	0
-IBR PROPERTY SERVICES LTD.	Harrow	A	0
 Ibra's Pizza & Grill AKA I & I Pizza & Grill Ltd	Sheffield	A	0
 IBRAHIMI (PETERBOROUGH) LTD	Peterborough	A	0
 IBSA Pharma Ltd	Watford	A	0
@@ -5576,7 +5582,6 @@ Jmazra Ltd T/A Johnnos Pizza	Reading	A	0
 JMC PACKAGING LTD	Craigavon	A	0
 Jmc Physiocures	Glasgow	A	0
 JMD BRISTOL PROPERTIES LIMITED	Bristol	A	0
-JMG PVT LTD	Rainham	A	0
 JML London Property Ltd.	London	A	0
 JMP (Leeds) Limited TA Domino's Pizza	Liverpool	A	0
 JMP (Liverpool) Limited TA Dominos' Pizza	Liverpool	A	0
@@ -5605,6 +5610,7 @@ John Paul Clarkin	Cheltenham	A	11
 John Paul Construction Limited	Bracknell	A	0,4
 John Pawson Limited	London	A	0
 John Puttick Associates Limited	London	A	0
+John Pye and Sons Ltd	Nottingham	A	0
 John Thompson & Partners (JTP) LLP	London	A	0
 Johnson & Phillips (Capacitors) Limited	Newport	A	0
 Johnson and Lubbock Partners Limited	Long Eaton	A	0
@@ -5630,6 +5636,7 @@ JOSEPH NANTHAKUMAR T/A HOLMEWOOD PREMIER	Chesterfield	A	0
 Josh Properties Ltd	Ilford	A	0
 Jotun Paints (Europe) Ltd	Flixborough	A	0,4
 Journeyman Pictures Ltd	Thames Ditton	A	0
+Joy Brands Limited T/A Pret A Manger	Buckinghamshire	A	0
 JOYCE'S PALACE LTD	Croydon	A	0
 Joys Enterprises Limited T/A Joys Convenience & Post Office	Weymouth	A	0
 JOYSULL AKLUSA LIMITED T/A PARO	London	A	0
@@ -5747,6 +5754,7 @@ Kapia Partners	Leeds	A	0
 KAPLAN PROPERTY SOLUTIONS LTD	London	A	0
 KAPOOR PHARMACY SERVICES LTD	Manchester	A	0
 KAPPA PLANNING LTD	London	A	0
+Kaprix Powerhouse Logistics Limited	Bushey	A	0
 Kara Healthcare (Park House) Limited	Wellingborough	A	0
 KARA PROPERTIES LTD	Luton	A	0
 Karaama Perfumes Ltd T/A Karaama	London	A	0
@@ -5795,6 +5803,7 @@ KEANE PREMIER HEALTHCARE LTD	Cambuslang	A	0
 Kebab Property Limited	Tooting BEC	A	0
 Keller Postman UK Limited	London	A	0
 Kelmscott Properties Limited	Romford	A	0
+KELTONE LTD T/A MOULTON PHARMACY	Northampton	A	0
 Kemlows Diecasting Products Ltd	Hoddesdon	A	0
 Kempsey Ltd Trading as Pepes Piri Piri	Swansea	A	0
 KEMPSTON POST OFFICE	Bedford	A	0
@@ -6055,7 +6064,7 @@ La Hechicera Polo Team	Liphook	A	11
 La Juliana Polo UK	Sunninghill	A	11
 La Mariposa Polo Ltd	Twyford	A	11
 La Palmera Restaurant Limited	Leeds	A	0
-LA PARRILLA TAPAS BAR AND GRILL LTD	Gravesend	A	0
+LA PARRILLA TAPAS BAR AND GRILL LTD	Sheffield	A	0
 La Perla Clinic	Marlow	A	0
 La Petite Auberge	Barnet	A	0
 La Petite Brassiere Ltd	Watford	A	0
@@ -6241,6 +6250,7 @@ Lev Properties Investments Ltd.	Liverpool	A	0
 Levco Productions	London	A	0
 Lever Payroll Limited	Isleworth	A	0
 LEVY + PARTNERS LIMITED	London	A	0
+Lewis Pension Admin Limited	Poole	A	0
 LEWIS PROPERTY NW LTD TA LEWIS PROPERTY	Manchester	A	0
 Lewisham Park Care Home	London	A	0
 Lexwin trading Ltd t/a Angels Place Health and Social Care	Mitcham	A	0
@@ -6261,6 +6271,7 @@ Lifeline Protect Ltd.	Rugby	A	0
 Lifesaver Power Ltd	Colchester	A	0
 Lifeway Project GraceCiti.Church	Glasgow	A	9
 Light Fantastic Production Services Ltd	Borehamwood	A	0
+LIGHT PRINT LTD t/a Light Print London	London	A	0
 LIGHT UPON LIGHT TRADING LIMITED T/A GRILL HUT PERI PERI	Luton	A	0
 Lighthouse Group Practice	Portsmouth	A	0
 LIGHTHOUSE PVT LTD	Chatham	A	0
@@ -6423,6 +6434,7 @@ London Property Letting and Management Limited	Middlesex	A	0
 LONDON PROPERTY MANAGERS LIMITED	London	A	0
 London PT College Limited	London	A	0
 London Pulse	Epsom	A	11
+London Pulse t/a London Pulse Basketball Club	London	A	0
 London Regent Park Limited T/a Bonzai	London	A	0
 London Road Medical Practice	Kilmarnock	A	0
 LONDON ROCK PARTNERS LTD	London	A	0
@@ -6438,7 +6450,6 @@ LONDON'S PRIDE LTD	Liverpool	A	0
 LONDON'S PROFESSIONAL ACCOUNTANTS LTD	Croydon	A	0
 LondonMetric Property Plc	London	A	0
 Lone Brothers Properties Ltd	Worcester	A	0
-LONG AND PARTNERS GROUP LIMITED	London	A	0
 LONG AND PARTNERS GROUP LTD	London	A	0
 Long Stratton Medical Partnership	Norwich	A	0
 Longdays (Derby) Limited Trading as Premier Goseley Store	Hartshorne	A	0
@@ -6645,6 +6656,7 @@ MAHESH BHATT LIMITED T/A Broadway Pharmacy	Bedford	A	0
 Mahesh Pharmaceutical Ltd TAs Elstree Pharmacy	Elstree	A	0
 MAHIR FIRE PROTECTION LTD.	London	A	0
 Mailing Technology & Sup[port Ltd	Romford	A	0
+MAILWAY PACKAGING SOLUTIONS LIMITED	West Bowling	A	0
 MAIN - TAKING AUTISM PERSONALLY	Middlesbrough	A	0
 Main Capital Partners UK LTD	London	A	0,4
 MAIN COURSE PARTNERS LTD	London	A	0
@@ -6785,12 +6797,12 @@ MARY PETER LIMITED	London	A	0
 Mary Pritchard	York	A	0
 Maryport Group Practice	Maryport	A	0
 MARYSVILLE MEDICAL PRACTICE	Shrewsbury	A	0
-MAS & PAS LIMITED	London	A	0
 MASECO LLP t/a MASECO Private Wealth	London	A	0
 Masha Popova Ltd	London	A	3
 Mashreqbank psc	London	A	0
 MASKED FRAME PICTURES LIMITED	London	A	0
 Mason & Carr Property Management Limited	Edinburgh	A	0
+Mason Navarro Pledge Ltd.	Hitchin	A	0
 Masons Passive Fire Protection Ltd	Essex	A	0
 MASS COMPLETE PROPERTY SOLUTIONS LTD	Hertfordshire, United Kingdom	A	0
 Mass Grill And Pizza Ltd	London	A	0
@@ -7044,7 +7056,6 @@ MINDFULL PRESENCE LTD	Blackburn	A	0
 Minet Green Health Practice	London	A	0
 Mini Professionals Dance Academy Ltd	Kidlington	A	0
 Ministerio Palavra Genuina - Christ Apostolic Church London Ltd	London	A	1
-MINNU SOFTWARE SOLUTIONS PRIVATE LIMITED	Coventry	A	0
 Minoan Pictures Limited	Southam	A	3
 MINT MANAGEMENT TECHNOLOGY UK (PTY) LIMITED	England	A	0,4
 Minu Payment Solutions UK Ltd	Oxford	A	4
@@ -7126,7 +7137,9 @@ Mobis Parts Europe (UK)	Dordon	A	0,4
 Mobius Capital Partners	London	A	0
 Mobius Professional Services Limited	Bath	A	0
 Mockingbird Raw Press Limited	London	A	0
+Modal Property Limited	London	A	0
 Modern By Products UK Ltd	Skipton	A	0
+MODERN FLEXIBLE PACKAGING LTD	Nottingham	A	0
 Modern Packaging UK Ltd	Pershore	A	0
 Modern Paper Limited	Erith	A	0,4
 MODUS PUBLICITY LTD	London	A	0
@@ -7213,7 +7226,6 @@ Mote Park Vet Group	Maidstone	A	0
 MOTIF UK (PTY) LTD	Edinburgh	A	0,3
 Motive Pictures Limited	London	A	0
 MOTO PORIUM LTD	Bradford	A	0
-MOTORCYCLE PARTS AND EQUIPMENT LTD	Leicester	A	0
 Moulded Fibre Products Ltd	Scunthorpe	A	0
 Mount Group Practice	Doncaster	A	0
 Mount Plastics Limited	Batley	A	0
@@ -7393,7 +7405,6 @@ Mulholland Plant Services Limited	West Calder	A	0
 Mullally Dental Practice Limited	London	A	0
 Multi Packaging Solutions UK Limited	Nottingham	A	0,4
 Multipass Platforms Limited	London	A	0
-Munchez Tasty Point Ltd	Doncaster	A	0
 MUNCHIES PIZZA BAR LTD	Huddersfield	A	0
 Munir Bros Halal poultry Ltd	Birmingham	A	0
 Murata Power Solutions	Milton Keynes	A	0,4
@@ -7411,7 +7422,6 @@ Muthu Clumber Park Hotel & Spa	Worksop	A	0,4
 Mutimer Partnership Ltd	Norwich	A	0
 MUX SERVICES LIMITED T/A DUNSTABLE PHONE REPAIRS	Dunstable	A	0
 MV PUBLIC RELATIONS LIMITED	London	A	0
-MVP PRO UK Limited	Milton Keynes	A	0
 MW&L Capital Partners Limited	London	A	0
 MX FOOD PRODUCTS LTD	Brierley Hill	A	0
 MX PHARMACY LIMITED	Preston	A	0
@@ -7448,7 +7458,7 @@ Myrtle Care Providers Limited	Cheshunt	A	0
 MYWORLD Creative Projects	London	A	9
 N & M PIZZAS AND INDIAN TAKE AWAY LTD	Colchester	A	0
 N N P FOODS LTD	Milton Keynes,	A	0
-N P Josan Dalston Ltd	Ilford	A	0
+N P Josan Dalston Ltd	London	A	0
 N P Josan Dover Ltd	Ilford	A	0
 N R PATEL CHEMIST	London	A	0
 N Sree Ashtalukshimi Jewellers Pvt Ltd	Lewisham	A	0
@@ -7489,6 +7499,7 @@ NATIONAL CARE PROVIDERS LTD	Derby	A	0
 National Unplanned Pregnancy Advisory Service Limited	Birmingham	A	0
 Nationbuilders Capital Partners LLP	London	A	0
 Nations Pride Limited	Bradford	A	0
+NATIONWIDE CARE PHARAMACY LTD	Birmingham	A	0
 Nationwide Healthcare Providers Ltd	Nottingham	A	0
 Nationwide Paper Ltd	High Wycombe	A	0
 Nationwide Platforms Limited	Lutterworth	A	0
@@ -7716,7 +7727,6 @@ NORAB PROPERTIES LIMITED	London	A	0
 Norbury Park Care Home	London	A	0
 Nordic Pharma Limited	Reading	A	0
 Nordstar Partners Limited	London	A	0
-Norfolk Park Store Ltd	Berkshire	A	0
 NORFOLK PASSPORT LIMITED	Norwich	A	0
 Norfolk Pharma Ltd	Norwich	A	0
 Norfolk Square Dental Practice	Brighton	A	0
@@ -7843,7 +7853,6 @@ Oak Philanthropy (UK) Limited	London	A	0
 OAK TREE PRE-SCHOOL NURSERIES LIMITED	London	A	0
 Oakengates Premier Stores	Oakengates	A	0
 Oakfield Parkonians Cricket Club	Ilford	A	11
-Oakfield Pharma Ltd	St Helens	A	0
 Oakfield Psychological Services Limited	Altrincham	B	0
 Oakleaf Partnership Limited	London	A	0
 Oakleigh Group of Pharmacies Limited	London	A	0
@@ -8116,7 +8125,6 @@ P Byrne Tractors Ltd	Newry	A	0
 P C Coaches of Lincoln Ltd	Lincoln	A	0
 P C Healthcare Ltd	Bilston	A	0
 P C Patel & J P C Patel T/A Costcutter	Huddersfield	A	0
-P Cars Ltd	Wednesbury	A	0
 P Chapman Construction Ltd	Truro	A	0
 P Colohan & Co Ltd	Croydon	A	0
 P E King (Bristol) Ltd	Bristol	A	0
@@ -8151,7 +8159,6 @@ P T I LYNDHURST LIMITED	Lyndhurst	A	0
 P T Pattani Ltd	Leicester	A	0
 P Thamy and Sons Ltd	Beddau	A	0
 P TURLEY & SONS T/A FLAX@TURLEYS	Castlewellan	A	0
-P W Circuits Ltd	South Wigston	A	0
 P Z & W Limited	Basingstoke	A	0
 P&A Bakery Limited	London	A	0
 P&B (FOODS) LIMITED	Bradford	A	0
@@ -8396,6 +8403,7 @@ Pakee Limited	Mauchline	A	0
 Pakeeza Dairies Ltd	Rochdale	A	0
 PAKEEZA FOODS LTD	Burton-On-Trent	A	0
 Pakeeza Halal Meat Ltd	Birmingham	A	0
+PAKEEZA LIMITED	Rainham	A	0
 PAKEEZAH GOURMET LIMITED	Bradford	A	0
 Pakeezah Halal Meat Ltd	Plaistow, London	A	0
 Pakeezah Meat Supplies Ltd	Bradford	A	0
@@ -8429,7 +8437,6 @@ Palace Yard Events Limited	London	A	0
 Paladin Sports UK Ltd	London	A	0
 Paladin Underwriting Agency Limited	London	A	0
 Paladins Care Limited	Milton Keynes	A	0
-Palamon Capital Partners Ltd	London	A	0
 Palan Foundation	London	A	0,3,9
 Palantir Technologies UK Limited	London	A	0,4
 Palantir UK Limited	London	A	0,4
@@ -8518,7 +8525,6 @@ Pamir Grocery	Brighton	A	0
 PAMIR HALAL MEAT LIMITED	Newcastle upon Tyne	A	0
 Pamir Trading Ltd	Manchester	A	0
 PAMIR TRAVEL AND EXCHANGE LTD	London	A	0
-Pamis Care Limited	Northampton	A	0
 pampeano Ltd	Kidlington	A	0
 PAMPLONA CAPITAL ADVISORS LIMITED	London	A	0
 Pan African Art Society	London	A	3
@@ -8545,7 +8551,6 @@ PANAI LTD	South Harrow	A	0
 Panama Estate Limited	Nottingham	A	0
 PANAMA RESTAURANT LIMITED T/A PANAMA RESTAURANT	Cardiff	A	0
 PANAMA TRAVEL LTD	Birmingham	A	0
-Panandpaper Limited	Mansfield	A	0
 Panang (St Vincent Street) Ltd	Glasgow	A	0
 PANAS HOSPITALITY LIMITED	Peterborough	A	0
 Panas Restaurant	Aldershot	A	0
@@ -8563,7 +8568,7 @@ Panaz Holdings Limited	Hapton	A	0
 Pancake Time Queensway Ltd	London	A	0
 Panchatantra Limited	Aylesbury	A	0
 PANCHULI LTD	Solihull	A	0
-Pancredit Systems Ltd	Worthing	A	0
+Pancredit Systems Ltd	Leeds	A	0
 Panda Beds Limited	Leeds	A	0
 PANDA CAPITAL INVESTMENT LTD	London	A	0
 Panda Delivery Limited	London	A	0
@@ -8636,7 +8641,6 @@ PANSON HOMES LIMITED	Lincoln	A	0
 Pansy Hunter t/a Hunters Lodge	Surrey	A	0
 Pant Farm Store	Mid Glamorgan	A	0
 Pantaleon Limited	London	A	0
-Pantechnicon London Limited	London	A	0
 Panteg Health Centre	Griffithstown	A	0
 Panterra Global Ltd	London	A	0,4
 Pantheon Hotels and Leisure Ltd	Ruislip	A	0
@@ -8725,6 +8729,7 @@ Paradigm Flow Technologies Limited	Aberdeen	A	0,4
 Paradigm Health & Social Care Limited	Telford	A	0
 PARADIGM PERSONNEL LTD	Slough	A	0
 Paradigm Solicitors LLP	London	A	0
+PARADIGM STRATEGY LTD	London	A	0
 Paradigm Trust	London	A	0
 Paradime Labs Ltd	London	A	0
 Paradine Limited	Leeds	A	0
@@ -8749,6 +8754,7 @@ Parados Group Ltd	Oxford	A	0
 PARADOX LONDON LIMITED	London	A	0
 Parafix Tapes and Conversions Ltd	Lancing	A	0
 Paragkumar Suryakant Suthar Aka Gajjar T/A ARV one stop	London	A	0
+PARAGLIDE AI LIMITED	London	A	0
 Paragon (Scotland) Limited	Rhu	A	0
 Paragon 28 UK Ltd	Stevenage	A	0
 Paragon Accounting & Tax limited	London	A	0
@@ -8758,6 +8764,7 @@ Paragon Fire Protection Limited	Old Woking	A	0
 Paragon Freight Management Limited	Bracknell	A	0
 Paragon Glass Services Limited	Enfield	A	0
 Paragon Healthcare York Limited	Pocklington	A	0
+Paragon Home Healthcare Ltd	Richmond	A	0
 Paragon International Insurance Brokers Limited	London	A	0
 Paragon Law	Nottingham	A	0
 PARAGON LINEN LIMITED	Manchester	A	0
@@ -8824,7 +8831,7 @@ PARCEL2GO.COM LIMITED	Bolton	A	0
 ParcelLab Limited	London	A	0
 Parcelly Limited	London	A	0
 PARCELVISION LIMITED	London	A	0
-Parchow Groundworks Ltd	Portsmouth	A	0
+Parchow Groundworks Ltd	Hants	A	0
 Parcliffe Medical Centre	Lytham St Annes	A	0
 Parcor Ltd	Salford	A	0
 PARDESI SUBS LTD T/A SUBWAY	Wolverhampton	A	0
@@ -8915,7 +8922,6 @@ Park Place Dental Practice	Cardiff	A	0
 Park Place Technologies Limited	London	A	0
 Park Plaza Hospitality Services (UK) Limited	London	A	0
 Park Plaza Hotels (UK) Services Ltd	London	A	0
-Park Restaurant Trading Limited	London	A	0
 Park Road Fish & Chips Shop	Dyfed	A	0
 Park Road Garage Ltd	Bedford	A	0
 Park Road Off Licence	Mexborough	A	0
@@ -8925,7 +8931,6 @@ PARK SHEET METAL COMPANY LIMITED	Coventry	A	0
 Park Square Capital LLP	London	A	0,4
 Park Square Pharmacy	Northampton	A	0
 PARK STORES	Rushden	A	0
-Park Stores (Gateshead) Limited	Gateshead	A	0
 Park Street Nordicom UK Limited	London	A	0
 Park Street Practice Ltd	Weymouth	A	0
 Park Surgery	Littlehampton	A	0
@@ -8951,7 +8956,6 @@ Parkdale Care Home	Wolverhampton	A	0
 Parkdean Resorts UK Limited	Newcastle upon Tyne	A	0
 Parker Design Engineering Ltd	Garston	A	0
 Parker Hannifin Manufacturing Limited	Hemel Hempstead	A	0,4,7
-Parker Lloyd Leisure Limited	London	A	0
 PARKER RUSSELL UK LLP	London	A	0
 PARKERSTEEL LTD	Canterburry	A	0
 Parkes Estates Agent Limited	Kensington	A	0
@@ -9079,7 +9083,6 @@ Partners Capital LLP	London	A	0,4
 PARTNERS CORPORTATION LTD	Brentwood	A	0
 Partners Group (UK) Ltd.	London	A	0,4,7
 Partners in Change Consulting Limited	Manchester	A	0
-Partners in Performance UK Limited	London	A	0,4
 Partners in Support	Stevenage	A	0
 PARTNERSHIP CARE & SUPPORT LTD	Richmond	A	0
 PARTNERSHIP CARING LTD	Manchester	A	0
@@ -9180,6 +9183,7 @@ PASSTHEKEYS READING LTD	Reading	A	0
 Password Productions Limited	London	A	3
 Pasta Cosa Limited	Liverpool	A	0
 Pasta Evangelists Ltd	London	A	0,4
+Pasta King Ltd	Newton Abbot	A	0
 Pasta Pit Stop LTD (T/A Emilia's Crafted Pasta)	London	A	0
 Pastaio	London	A	0
 Paston Surgery	North Walsham	A	0
@@ -9239,7 +9243,6 @@ PATHAK'S LTD	Romford	A	0
 Patheon UK Ltd	Swindon	A	0,4
 Pathfields Medical Group	Plymouth	A	0
 PATHFINDER CARE SERVICES LTD	Dagenham	A	0
-Pathfinder Clean Energy (PACE) UKDev Ltd	Bristol	A	0
 Pathfinder Clean Energy (PACE) UKDev Ltd	London	A	0
 Pathfinder Educational Limited	Manchester	A	0
 Pathfinder Group Limited	Stratford-Upon-Avon	A	0
@@ -9290,7 +9293,6 @@ Patos Construction Ltd	Enfield	A	0
 Patria Investments UK Ltd	London	A	0,4
 Patria Private Equity (Europe) Limited	Edinburgh	A	0,4
 PATRICIA WATTS	Haverhill	A	0
-Patrick Distinct Consulting Limited	Rotherham	A	0
 Patrick George Lambert Partnership	Upton	A	0
 Patrick Mann & Associates Ltd	Frodsham	A	0
 Patrick Murphy & Sons	Newry	A	0
@@ -9389,6 +9391,7 @@ Paws & Co Pet Health Ltd	Wakefield	A	0
 PAWS FANTASY LTD	Tadworth	A	0
 Paws Union Ltd	London	A	0
 Pax8 UK Limited	Bristol	A	0,4
+Paxigate Healthcare Limited	St Neots	A	0
 Paxman Coolers Limited	Huddersfield	A	0
 PAXOI LTD	London	A	0
 Paxos Technology Limited	London	A	0,4
@@ -9396,7 +9399,6 @@ Paxton Access LTD	Brighton	A	0
 PAXTON HALL CARE LTD T/A Paxton Hall Care Home	St Neots	A	0
 PAY CHECK LIMITED	London	A	0,4
 Pay Gateway Limited	London	A	0
-Pay IO Limited	36-38 Cornhill	A	0
 Pay Justice Limited	Manchester	A	0
 Pay Later Management Services Ltd	London	A	0
 Pay Perform Limited	London	A	0
@@ -9413,7 +9415,6 @@ Payceler Limited	Newcastle Upon Tyne	A	0
 Payday Music Publishing UK Limited	London	A	0
 Payden & Rygel Global Ltd	London	A	0,4
 Paydens Ltd	Maidstone	A	0
-Paydock Ltd	London	A	0
 Paye Pass Software Solutions Limited	Liverpool	A	0
 Paye Stonework & Restoration Ltd	Mottingham	A	0
 PAYFIT LTD	London	A	0
@@ -9723,6 +9724,7 @@ Peer Polo Limited	Winkfield	A	11
 PEER2PEER DPI LTD	Hemel Hempstead	A	0
 Peermusic (UK) Limited	Richmond	A	0,4
 Peers Quality Assurance Ltd	Aldridge, Walsall	A	0
+PEFOX LLP	Ilford	A	0
 PEGASUS CARE HOMES LIMITED	Birmingham	A	0
 PEGASUS CARS SALE LTD	Stourbridge	A	0
 Pegasus Equine Veterinary Services Limited	Washingborough	A	0
@@ -9819,7 +9821,6 @@ Penelope Chilvers Ltd	London	A	0
 Penfield Limited T/A Ganges Restaurant	Truru	A	0
 Penfold Technology Limited	London	A	0
 Pengam Curry Ltd	Blackwood	A	0
-Penge And Poplar Ltd	London	A	0
 Penge Cakes Ltd T/A Cake Box	London	A	0
 PENGE EXPRESS DRY CLEANERS LIMITED	London	A	0
 Penge Food Centre Ltd	London	A	0
@@ -9956,7 +9957,6 @@ People In Need (PIN) UK	London	A	0
 People Insight Ltd	London	A	0
 People Matter Support Service Limited	Reading	A	0
 People of Grace Gospel Mission	Dartford	A	1,9
-People Panels Ltd	Basingstoke	A	0
 People PAYE Limited	Warminster	A	0
 People Places Lives Limited	Wigan	A	0,4
 People Support Ltd	Swansea	A	0
@@ -10260,6 +10260,7 @@ PETA Limited	Portsmouth	A	0
 PetaGene Ltd	Cambridge	A	0
 Petainer UK Holdings Limited	London	A	0
 Petal Postforming Limited	Irvinestown	A	0
+PETANKA LTD	London	A	0
 Petar UK Ltd	London	A	0
 Petards Joyce Loebl	Gateshead	A	0
 PETCARECOLLECTIVE LTD	London	A	0
@@ -10418,6 +10419,7 @@ PGMI PORTSLADE LIMITED	London	A	0
 PGNIG SUPPLY & TRADING	London	A	0
 PGP (UK) Ltd t/as Data Innovations	Edinburgh	A	0
 PGP Alfred House Ltd	Bury	A	0
+PGP TECH LTD	Leicester	A	0
 PGS Exploration (UK) Ltd	Weybridge	A	0,4
 PGS GIFTS LTD	Wellingborough	A	0
 PGT Hook and Son	Hailsham	A	0
@@ -10520,7 +10522,7 @@ PHAT BUNS NOTTINGHAM LTD	Nottingham	A	0
 PHATBITEZ LTD	Milton Keynes	A	0
 PHBB Restaurants Ltd T/A Pahli Hill Bandra Bhai	London	A	0
 PHBS-UK	Oxford	A	0,4
-PHC Europe B.V.	Loughborough	A	0
+PHC Europe B.V.	Runcorn	A	0
 PHC Health Care Ltd.	Waltham Cross	A	0
 PHE Services Ltd	Slough	A	0
 Phebdan Healthcare Services Limited	Croydon	A	0
@@ -10539,12 +10541,10 @@ PHEONIX RENFREW CHIPPY LTD	Renfrew	A	0
 Pher Import LTD	Hemel Hempstead	A	0
 Phetalz Ltd T/A Pharmacy Exprezz	Norfolk	A	0
 PHG Consulting Engineers	Cardiff	A	0
-PHH Care Ltd	Aylesbury	A	0
 Phi Capital Ltd	London	A	0
 Phi Design Ltd	Northamptonshire	A	0
 Phi Finney McDonald UK Limited	London	A	0
 Phi Partners International Limited	Barnet	A	0
-PHI PROPERTY ACQUISITIONS LIMITED	Woking	A	0
 PHI102 LIMITED T/A PHI Clinic	London	A	0
 PHIBOR ENTREPRISES	London	A	0,4
 PHIL ALLEN DESIGN LTD	Brighton	A	0
@@ -10566,6 +10566,7 @@ Philip James Harrison Holt T/A Harrison Holt	York	A	0
 Philip Jones Legal	Middlesex	A	0
 Philip Kingsley Products Limited	London	A	0
 Philip Morris Limited	London	A	0,4
+PHILIP NOLAN ACCOUNTANTS (LIVERPOOL) LIMITED	Liverpool	A	0
 PHILIP NOLAN ACCOUNTANTS (LUTON) LIMITED	Luton	A	0
 Philip Nolan Ltd	Orpington	A	0
 philip parkinson homecare Ltd	Newcastle upon Tyne	A	0
@@ -10586,7 +10587,6 @@ Phillips & Cohen Associates (UK) Ltd	Salford	A	0
 Phillips 66 Limited	London	A	0,4,5,8
 Phillips Auctioneers Limited	London	A	0,4
 Phillips Media Group Limited	Southampton	A	0
-PHILLIPS1924 HOMECARE SERVICES LTD	Woolwich	A	0
 PhillipsPage Associates Ltd	Milton Keynes	A	0
 Philo Consulting Services Ltd	Sutton Coldfield	A	0
 Philodanceophy Limited	London	A	0
@@ -10604,7 +10604,6 @@ Phizz Ltd	London	A	0
 PHJ Retail Limited	Telford	A	0
 PHJ Stores Ltd T/A Cards 'n' Play	Newport	A	0
 PHL (UK) Limited	Basingstoke	A	0
-PHL Canterbury Ltd	Bexhill-On-Sea	A	0
 Phlexi Ltd	London	A	0
 Phlo Systems Limited	London	A	0
 Phlorum Limited	Brighton	A	0
@@ -10631,7 +10630,6 @@ PHOENIX COMMUNITY HOUSING ASSOCIATION (BELLINGHAM AND DOWNHAM) LIMITED	London	A	
 Phoenix Court Group Limited	London	A	0
 Phoenix Cultural Communication Company Ltd	Ardesier	A	0
 Phoenix Dance Theatre	Leeds	A	0,3
-Phoenix Dental Practice (Avraam Demetriou)	London	A	0
 Phoenix Eco Energy Ltd	London	A	0
 Phoenix Education Centre	Belfast	A	9
 Phoenix Equity Partners Limited	London	A	0
@@ -10675,6 +10673,7 @@ PHOENIX VBUILD LTD	Reading	A	0
 Phoenix Wholesale & Distribution Ltd	Peterlee	A	0
 Phoenix47 Ltd	Alresford	A	0
 PhoenixC4i Limited	Stockport	A	0
+Phoenixco Ltd	Lytham St. Annes	A	0
 PHOENIXFOODSNI LTD	Belfast	A	0
 PHONARAMA (UK) LTD	Birmingham	A	0
 PHONE & PC FIX LTD	Beverley	A	0
@@ -10819,6 +10818,7 @@ Physio Matters Neurological Limited	Oldham	A	0
 Physio Medicine Limited	London	A	0
 Physio On The Green Ltd	London	A	0
 PHYSIO PLUS (EASTBOURNE) LIMITED	Sussex	A	0
+Physio Pulse ltd	Ely	A	0
 Physio Relief UK Ltd	London	A	0
 PHYSIO SERVICES LTD	Colchester	A	0
 Physio-Answers	London	A	0
@@ -10939,7 +10939,6 @@ PIERRE FABRE LIMITED	London	A	0,4,7
 PIERRE FREY UK	London	A	0,4
 Pig and Olive limited	Umberleigh	A	0
 Piggy Genius Ltd	Cambridge	A	0
-Piglets Pantry Ltd	Worthing	A	0
 Pigment Global Limited	Cheshire	A	0,4
 Pihu Energy Savings Limited	Leeds	A	0
 PIHU ENTERPRISES LIMITED	Headington	A	0
@@ -10952,6 +10951,7 @@ Pilat Europe LTD	Hertford	A	0
 Pilcrow ltd	Canterbury	A	0
 Pilea Homecare Ltd	Sheffield	A	0
 Piledesigns Limited	High Wycombe	A	0
+Pilgrim Canterbury Ltd	Canterbury	A	0
 PILGRIM CHRISTIAN CENTRE	Hove	A	1
 Pilgrim Hotel Ltd	Hereford	A	0
 Pilgrim's Food Masters UK Limited	Uxbridge	A	0,4
@@ -11022,7 +11022,6 @@ Pine Restaurant Group Ltd	London	A	0
 PINEAPPLE SERVICE LIMITED	London	A	0
 Pineapple Technology LTD	London	A	0
 PineBridge Investments Europe Limited	London	A	0,4
-Pinecone Ltd	London	A	0
 Pinecourt Limited T/A Crossway House	Havant	A	0
 PINEGROVE HOTEL LIMITED	Carlisle	A	0
 Pinehurst Care Home Limited	Ilfracombe	A	0
@@ -11056,7 +11055,6 @@ PINGYOU LIMITED	London	A	0
 Pinion Services Limited	Wakefield	A	0
 PINK BERRY CARS LIMITED	Chadwell Heath	A	0
 PINK CASTLE LIMITED	Bridgnorth	A	0
-Pink Diamond Limited	Tarporley	A	0
 Pink Eatery Limited	Luton	A	0
 Pink Elephant EMEA Limited	Reading	A	0
 Pink Fort Limited	Luton	A	0
@@ -11092,6 +11090,7 @@ Pinnacle Insurance Management Services Plc	Borehamwood	A	0
 Pinnacle Internet Marketing	Cardiff	A	0
 Pinnacle Investment Management (UK) Limited	London	A	0,4
 Pinnacle Pet Group Limited	London	A	0
+PINNACLE PROSTHETICS LIMITED	Dudley	A	0
 Pinnacle Reliability UK Ltd	London	A	0,4
 PINNACLE STRATEGIES LIMITED	London	A	0
 Pinnacle Trade UK Ltd	Watford	A	0
@@ -11199,7 +11198,6 @@ Piritam Limited	London	A	0
 Pirnar MVP Ltd	Isleworth	A	0
 Pirola Pennuto Zei & Associati Ltd	London	A	0
 PIROMAR LTD	Ashford	A	0
-Pirsook Limited	Sale	A	0
 Pirum Systems Limited	London	A	0
 PIRZADA S LTD	Manchester	A	0
 PISANO LIMITED	London	A	0
@@ -11253,7 +11251,6 @@ Pixehub Limited	London	A	0
 PIXEL ART STUDIOS LIMITED	Harrow	A	0
 Pixel Care Limited	Oldham, England	A	0
 PIXEL CODING LIMITED	London	A	0
-Pixel Direct Ltd	Walthamstow	A	0
 Pixel Fusion Ltd	Grimsby	A	0
 Pixel Image Limited	Edinburgh	A	0
 Pixel Infotech Ltd	Gravesend	A	0
@@ -11477,7 +11474,6 @@ Planisware UK Limited	Salford	A	0
 Planit Consultants Ltd	Godalming	A	0
 Planit IE Ltd	Altrincham	A	0
 Planit Software Limited	Reading	A	0,4
-Planit Software Testing	Reading	A	0,4
 PLANLAB.AI LIMITED	London	A	0
 Planlogic Software Limited	London	A	0
 Planning Additions Limited	London	A	0
@@ -11518,7 +11514,7 @@ Plashet Road Dental Surgery	Upton Park	A	0
 PLASHET STEAK HOUSE LTD	London	A	0
 PLASHET ZONE LIMITED T/A HACKNEY FURNITURE	London	A	0
 Plasma Fresh Limited	Liverpool	A	0
-Plasma Labs UK Limited	London	A	0
+Plasma Labs UK Limited	London	A	0,4
 Plasma of Hope	Walsall	A	0
 Plasmapen Ltd	Liverpool	A	0
 PLASMIC HEALTHSCIENCES UK LTD	Luton	A	0
@@ -11550,6 +11546,7 @@ Platform Smart	Basingstoke	A	0
 Platform Store Limited	London	A	0
 Platform Support Services Limited	London	A	0
 Platform.sh Limited	Stoke Gifford	A	0
+PLATFORMED LTD	London	A	0
 Platine Construction Ltd	Glasgow	A	0
 Platine Traders Ltd	Glasgow	A	0
 Platingnum Park Limited / T/A Platingnum	Northwood	A	0
@@ -11565,7 +11562,7 @@ Platinum Care Solutions Ltd	Portchester	A	0
 PLATINUM COACH HIRE LIMITED	High Wycombe	A	0
 PLATINUM CONCIERGE LIMITED	Brentford	A	0
 Platinum Construction NW Limited	Bolton	A	0
-Platinum Equity Advisors International (UK) Limited	London	B	0,4
+Platinum Equity Advisors International (UK) Limited	London	A	0,4
 PLATINUM EXEC TRANSFERS LTD	Swindon	A	0
 PLATINUM EXPRESS CARE PLUS LTD	Liverpool	A	0
 Platinum Group.io Limited	London	A	0
@@ -11664,7 +11661,6 @@ Pliant Payments Limited	London	A	0
 PLIM LIMITED	London	A	0
 Plimsoll Productions Ltd	Bristol	A	0
 Plimsoll Publishing Ltd	Stockton on Tees	A	0
-PLK CHICKEN UK LTD	London	A	0
 PLM Optometrists	Leven	A	0
 PLMD Group Ltd	London	A	0
 Plotly Europe Ltd	London	A	0,4
@@ -11842,7 +11838,6 @@ POD Architects Limited	London	A	0
 Pod Digital Marketing Two Limited	Lutterworth	A	0
 POD Europe Ltd	London	A	0
 POD Group Services t/a POD Management	Hertfordshire	A	0
-POD HAULAGE LIMITED	Wembley	A	0
 Pod Point Ltd	London	A	0
 POD Sports Limited	Welwyn	A	11
 POD-TRAK LTD	Denham	A	0
@@ -12112,7 +12107,6 @@ Porch Surgery	Corsham, Wiltshire	A	0
 Porchiva Limited	Blackburn	A	0
 Porex Technologies Limited	Alness	A	0
 Porfan Metalwork Ltd	London	A	0
-Porini Polo Limited	Liphook	A	11
 PORMAX LIMITED	Hounslow	A	0
 Poro Technologies Ltd	Cambridge	A	0
 PORR UK Ltd	Uxbridge	A	0,4
@@ -12251,7 +12245,6 @@ POSCO INTERNATIONAL CORPORATION LONDON BRANCH	London	A	0,4
 POSCO International Deutschland GmbH	London	A	0,4
 Pose AR Limited	Cassington	A	0
 Poseidon Navigation Services Ltd	Buckie	A	0
-POSEIDON SECURITY SPECIAL SERVICES LTD	Dartford	A	0
 Posh Chips Ltd T/A Angies Fish Bar	Loughborough	A	0
 Posh Cockney Limited	London	A	0
 Posh Flair Ltd	Nottingham	A	0
@@ -12401,7 +12394,6 @@ Poweroak Energy UK Co., Ltd	Chesterfield	A	0
 PowerPhotonic	Dalgety Bay	A	0
 Powerpillar Ltd	London	A	0
 Powerplay Brands Limited	Oldham	A	0
-Powerplus Group (PPG) Ltd	Bingham	A	0
 Powerstax Ltd	Wickford	A	0
 Powersystems UK Ltd	Bristol	A	0
 Powerteam Electrical Services (UK) Ltd	Belfast	A	0,4
@@ -12428,7 +12420,6 @@ Pozitive Energy Ltd	London	A	0
 Pozzoni Architecture Limited	Altrincham	A	0
 PP & CO TRADING LTD	Middlesex	A	0
 PP & I Limited T/A Ing Thai	Brentford	A	0
-PP Asset Management Ltd	London	A	0
 PP FUEL LTD	Poole	A	0
 PP LAUNDRY LTD	Edgware	A	0
 pp plumbing and heating ltd	Forfar	A	0
@@ -12481,7 +12472,6 @@ PR SUPERMARKET LTD T/A COSTCUTTER	Plymouth	A	0
 PR Techies LTD	Watford	A	0
 PRA	Reading	A	0,4
 PRA Group (UK) Ltd	Kilmarnock	A	0,4
-PRAAN (BELPER) LTD t/a Praan Restaurant	Belper	A	0
 Praana Consulting Ltd	Watford	A	0
 PRAB CONSULTANCY SERVICES LIMITED	London	A	0
 Prabash LTD	Cambridge	A	0
@@ -12544,7 +12534,7 @@ Pramas Trading Limited	London	A	0
 Pramex International Ltd	London	A	0
 PRAMIT LTD	London	A	0
 PRAMUKH (UK) LTD	Essex	A	0
-PRAMUKH CONVENIENCE LTD	London	A	0
+PRAMUKH CONVENIENCE LTD	Chelmsford	A	0
 Pramukh Hari Limited	London	A	0
 Pramukh Kids Montessori	Wembley	A	0
 PRAMUKH LTD T/A HEADLEY RAD PREMIER	Liphook	A	0
@@ -12605,7 +12595,7 @@ PRECIOUS CATERING AND EVENT SERVICES LIMITED	Leicester	A	0,3
 Precious Community Care LTD	Leicester	A	0
 PRECIOUS GEMS	Bolton	A	9
 Precious Hope Health and Homecare Ltd	Leicester	A	0
-PRECIOUS LONDON LIMITED	Buckinghamshire,	A	0
+PRECIOUS LONDON LIMITED	Shenley	A	0
 Precious MD Ltd	London	A	0
 Precious Media Limited	London	A	0
 Precious Support Services Ltd	Leamington Spa	A	0
@@ -12618,6 +12608,7 @@ Precise Brows & Beauty Limited	Southampton	A	0
 Precise Financial Advice Ltd	Willenhall	A	0
 Precise Financial Management Services UK Ltd	London	A	0
 Precise Media Monitoring Limited	London	A	0
+Precise Medicolegal Consulting LTD	Glasgow	A	0
 PRECISE RETAIL LTD	Runcorn	A	0
 PRECISE TRADE ALUMINIUM LIMITED	Leicester	A	0
 Precise.TV Limited	London	A	0
@@ -12658,6 +12649,7 @@ Predictive Black	London	A	0
 Prediko Ltd	London	A	0
 PREECHA LIMITED	Farnham	A	0
 PREEM LIMITED	London	A	0
+Preeminence Advisors UK Limited	London	A	0
 PREET BEDS PVT LTD	Wolverhampton	A	0
 PREETHI TRADE LIMITED	Greenford	A	0
 Preeti Catering Ltd	Hayes	A	0
@@ -12769,7 +12761,7 @@ PREMIER MIDDLE PARKWAY LIMITED	Havant	A	0
 Premier Mini Cab Services (Uk) Limited	New Malden	A	0
 Premier Minibus Hire	Cheadle	A	0
 Premier Mist (UK) Ltd	Wakefield	A	0
-Premier Miton Group plc	Guildford	A	0
+Premier Miton Group plc	London	A	0
 Premier Mobiles Ltd	Southampton	A	0
 Premier Model Management Ltd	London	A	0,3
 Premier Nights Limited t/a Aaron Lodge Guest House	Edinburgh	A	0
@@ -12815,7 +12807,6 @@ PREMIER TRAVEL & TOURS LIMITED	Birmingham	A	0
 Premier Tuition Ltd	Ilford	A	0
 Premier Tyres Plus Limited	Willenhall	A	0
 Premier Tyres Plus Ltd	Willenhall	A	0
-Premier UK Business LLP	Petersfield	A	0
 Premier UK Trading Ltd	Wembley	A	0
 PREMIER UPHOLLAND LIMITED	Upholland	A	0
 Premier Wednesbury	Wednesbury	A	0
@@ -12938,11 +12929,11 @@ Prestige Move	Luton	A	0
 Prestige Network Ltd	Newbury	A	0
 Prestige Nursery Mattresses Ltd	Vicarage Lane, Hoo St, Werburgh,	A	0
 Prestige Optical Limited	London	A	0
+Prestige PPF Limited	Hounslow	A	0
 PRESTIGE QUALITY CARE LTD	Nottingham	A	0
 PRESTIGE SECURE SERVICES LTD	London	A	0
 PRESTIGE SOCIAL CARE SERVICES LTD	Leicester	A	0
 Prestige Taxi Hire Ltd	Oldham	A	0
-Prestige Tints Limited	Hounslow	A	0
 Prestige Windows & Doors LTD	Essex	A	0
 PRESTIGIO CARS LTD	Milton Keynes	A	0
 Prestigious Dry Cleaning Ltd	London	A	0
@@ -13034,7 +13025,7 @@ Pride Asia Food Limited	Ilford	A	0
 PRIDE CARPET & SOFA CLEANING LTD	Leigh	A	0
 Pride Cars	Accrington	A	0
 PRIDE CARS LTD	Lancashire	A	0
-Pride Developments	Cwmbran	A	0
+Pride Developments Group Ltd	Cwmbran	A	0
 Pride Health and Social Care Ltd	Lydney	A	0
 Pride Insure Ltd	Birmingham	A	0
 PRIDE LOUNGE LTD T/A The Darjeeling	Sidcup	A	0
@@ -13212,7 +13203,6 @@ PRIMEGADGET SOLUTIONS LTD	London	A	0
 Primeguard Workforce Management Ltd.	Southampton	A	0
 PRIMEKSS UK LTD	Melton Mowbray	A	0,4
 PRIMELAUNDRY LTD	London	A	0
-PRIMELIFE CARE LTD	Leicester	A	0
 PRIMELINK EXPRESS LTD	Gravesend	A	0
 Primelocals Ltd	Leicester	A	0
 Primenet Ltd	Stevenage	A	0
@@ -13230,7 +13220,7 @@ Primetals Technologies Limited	Sheffield	A	0,4
 PRIMETIME CARE SERVICES LIMITED	Nottingham	A	0
 PrimeVigilance Ltd	Guildford	A	0
 Primex Plastics Limited	Newton Aycliffe	A	4
-PRIMEX TRADING SERVICES Ltd	Bedford	A	0
+PRIMEX TRADING SERVICES Ltd	Luton	A	0
 Primexal Ltd	Crawley	A	0
 PRIMIS LEX CONSULTING LTD	London	A	0
 PRIMITIVE SERVICES LIMITED	Kettering	A	0
@@ -13287,7 +13277,7 @@ Principle Care Homes (Chelmsford) Limited	Billericay	A	0
 Principle Construction and Maintenance Ltd	March	A	0
 Principle Support Ltd	Sheffield	A	0
 Principle Systems Limited	Huddersfield	A	0
-Principles Recruitment Care Agency	Cirnecester	A	0
+Principles Recruitment Care Agency	Cheltenham	A	0
 Pringle Richards Sharratt Limited	London	A	0
 PRINGLE'S CARE SERVICES LIMITED	London	A	0
 Pringuer-James Consulting Engineers Limited	London	A	0
@@ -13394,6 +13384,7 @@ Pristine Linen Ltd	Rochester	A	0
 PRISTINE PROPERTY INVESTMENTS LIMITED	Birmingham	A	0
 Pristine Recruitment Ltd	Barnet	A	0
 PRITESH PATEL TRADING AS JAY'S STORES	Essex	A	0
+Pritex Ltd	Wellington	A	0
 Pritpal Chana Architects Ltd	Birmingham	A	0
 Pritt Intertrade Limited	Solihull	A	0
 Prity & Sristy Food Ltd. T/A Piri-Siri Mexican Kitchen	Moreton	A	0
@@ -13574,7 +13565,7 @@ Procure Plus Holdings Limited	Manchester	A	0
 Procurement Direct Ltd T/A Nexus Conference	London	A	0
 Procurement Leaders Limited	London	A	0,4
 ProcurePro UK Limited	London	A	0,2
-ProcureTech Limited	London	A	0,4
+ProcureTech Limited	London	A	0
 Procurious Limited	Guildford	A	0,4
 PRODA LTD	London	A	0
 PRODAPT (UK) LIMITED	Reading	A	0,4,7
@@ -13594,6 +13585,7 @@ Prodrive Holding Limited	Banbury	A	0,11
 Prodtex Ltd	Bristol	A	0
 Produce Investments Ltd	Peterborough	A	0
 Producers Direct	London	A	0
+Product Care Hub Limited	Wigan	A	0
 Product Compliance Specialists Limit	Aylesbury	A	0
 Product Marketing Alliance Ltd	London	A	0
 Product Service Health (PSH) Ltd	Croydon	A	0
@@ -13624,6 +13616,7 @@ PROFESSIONAL DRYCLEANERS LIMITED	London	A	0
 PROFESSIONAL ENERGY SERVICES LIMITED	Milton Keynes	A	0
 Professional Footballers Association	Bishopsgate	A	0
 Professional Game Match Officials Limited	London	A	0
+PROFESSIONAL HEALTH AND CARE SERVICES LTD	Leeds	A	0
 Professional Healthcare Services Limited	Northampton	A	0
 Professional Healthcare UK Ltd	London	A	0
 Professional Home Care Ltd	Woodstock	A	0
@@ -13724,7 +13717,7 @@ Project Heaven Restoration Ltd	Peterborough	A	0
 Project Infinity Technologies Limited	London	A	0
 Project J LTD	London	A	0
 Project London Property Limited	London	A	0
-PROJECT NEWCASTLE PRIVATE LIMITED TRADING AS PAPA JOHNS	Huddersfield	A	0
+PROJECT NEWCASTLE PRIVATE LIMITED TRADING AS PAPA JOHNS	Binley Woods,Coventry	A	0
 Project People Limited	Bristol	A	0,3,4
 Project Provenance Limited	Oxford	A	0
 Project REM Limited	Derby	A	0
@@ -13746,13 +13739,13 @@ Projectus Consulting	London	A	0
 Projekt 42	Edinburgh	A	9
 ProjektRide	Edinburgh	A	0
 Projex Cellular Infrastructure UK Limited	Bristol	A	0
+Projex Solutions Ltd	Brighouse,	A	0
 Projex Support Ltd	Chelmsford	A	0
 PROJUKTI TEAM LIMITED	London	A	0
 Prokarium Limited	London	A	0
 Prokope Consulting Ltd	Macclesfield	A	0
 PROLABS UK LTD	Gloucestershire	A	0
 Prolectric Services Limited	Clevedon	A	0
-Prolibertas Care Solutions Limited	Burnley	A	0
 Prolific Academic Ltd	London	A	0
 Prolific Glaze Ltd.	Slough	A	0
 Prolifics Inc	London	A	0,4
@@ -13847,7 +13840,7 @@ PROPERTY BY CAPITAL LIMITED	Chelsea	A	0
 Property Contractors 247	Kentish Town	A	0
 PROPERTY DEPOT LIMITED	Ilford	A	0
 PROPERTY DEVELOPMENT SERVICES (UK) 1 LIMITED	Worcester	A	0
-Property Finders Real Estate Limited	Mayfair, London	A	0
+Property Finders Real Estate Limited	Oxfordshire	A	0
 PROPERTY IMPROVEMENT SERVICES LIMITED	Wolverhampton, West Midlands	A	0
 PROPERTY INVESTMENT FOR LIFE LTD	London	A	0
 PROPERTY INVESTMENT GAINS LTD	Manchester	A	0
@@ -13906,6 +13899,7 @@ Proserv UK Ltd	Westhill	A	0,4
 PROSERVICES4U LIMITED	London	A	0
 Proskauer Rose (London) LLP	London	A	0,4
 Proskauer Rose (UK) LLP	London	A	0,4
+Proso AI Technologies Ltd	London	A	0
 Prosol IT (UK) Limited	Llford	A	0
 prosource.it	Aberdeen	A	0
 Prospect Childcare Services Ltd	Leeds	A	0
@@ -13924,6 +13918,7 @@ Prospect Training Services (Gloucester LTD)	Gloucester	A	0
 Prospect Tree Healthcare	Wolverhampton	A	0
 Prospector Pro Limited	Middlesborough	A	0
 PROSPECTS DEVELOPMENT SERVICES LTD	Luton	A	0
+Prosper and Enterprise Limited	Oxted	A	0
 Prosper Care Solutions	Wolverhampton	A	0
 Prosper Global (UK)	Edinburgh	A	0,4
 Prosper Robotics Ltd	London	A	0,4
@@ -13963,7 +13958,6 @@ Protagoras Group	London	A	0
 PROTAX CONSULTANTS LTD	London	A	0
 PROTAX WM LTD	Burton-On-Trent	A	0
 Protea Associates Ltd	Swindon	A	0
-Protea Care Homes (Kent) Ltd	Coventry	A	0
 Protea Wal Limited	Shepperton	A	0
 Protean Electric Limited	Farnham	A	0
 Protec Fire Detection plc	Nelson	A	0
@@ -13988,6 +13982,7 @@ Protection UK Ltd	Stockport	A	0
 Protective Care Group Limited	Elkstone	A	0
 Protective Sportswear Ltd	Walsall	A	0
 Protector Insurance	Manchester	A	0,4
+Protectoseal Ltd	Greenfield	A	0
 Protegrity Europe Limited	London	A	0,4
 Protein Agency Group Ltd	London	A	0
 Protein Carbs N Fats Ltd T/A Pepe's Piri Piri Greenock	Greenock	A	0
@@ -14006,6 +14001,7 @@ Protiviti Limited	London	A	0,4
 Protize Ltd	London	A	0
 Proto Labs Limited	Telford	A	0
 ProtoCool Limited	Aldermaston	A	0
+Protolan Limited	Desford	A	0
 PROTON AVIATION CAPITAL LTD	London	A	0
 Proton Payments Limited	Warrington	A	0
 Proton Technologies Ltd	London	A	0,4
@@ -14143,7 +14139,6 @@ PSE2 Ltd	Bristol	A	0
 pSemi Corporation	Theale	A	0,4
 PSEPHOS LIMITED	Brighton	A	0
 PSEV (Partnership for socio Economic Ventures) Ltd	London	A	0
-PSG CIVILS LTD	Gravesend	A	0
 PSG Equity LLP	London	A	0
 PSG UK RETAIL LTD	Harrogate	A	0
 PSH Operations	Colchester	A	0
@@ -14282,6 +14277,8 @@ Pulse Comms Ltd	London	A	0
 Pulse Films Ltd	London	A	0,3,4
 Pulse Health Group Limited	Leeds	A	0
 Pulse Healthcare Limited	Turnford, Broxbourne	A	0
+Pulse Insurance Limited	Brackley	A	0
+PULSE LIGHT CLINIC (UK) LTD	London	A	0
 PULSE PHONES LTD	Dewsbury	A	0
 Pulse Printing Products Limited	Bristol	A	0
 PULSE PROPERTY MANAGEMENT LIMITED	Old Trafford	A	0
@@ -14333,7 +14330,6 @@ Punjabi Kesar Limited T/A Kesar Punjabi Restaurant	London	A	0
 PUNJABI KITCHEN	Aberdeen	A	0
 Punjabi Rasoi London Limited	Ilford	A	0
 Punjabi Thali & Sweets	Smethwick	A	0
-Punto Italian Restaurant	London	A	0
 Pupil Progress Limited	London	A	0
 Puppet Labs Limited	Bracknell	A	0,4
 Pura Pharmaeticals Ltd	London	A	0
@@ -14387,7 +14383,7 @@ PURE IP Limited	London	A	0
 Pure Meat and Poultry (SW) Limited	Bristol	A	0
 PURE MEDICAL CLINIC UK LIMITED	London	A	0
 Pure Moto Ltd	Ruabon	A	0
-PURE N SURE LIMITED	Birmingham	A	0
+PURE N SURE LIMITED	Sale	A	0
 Pure Pet Food Ltd	Cleckheaton	A	0
 Pure Physiotherapy	Sheffield	A	0
 Pure Power Electrical Ltd	London	A	0
@@ -14409,7 +14405,6 @@ PURE TREE NURSERY LIMITED	London	A	0
 Pure Veg Ltd t/a Mr Singh's	Birmingham	A	0
 Pure Vision Eye Care Limited	Sheffield	A	0
 Pure Wellness Centre Limited	Bournemouth	A	0
-pure white lines	Brooks Lane	A	0
 PUREAN SOLUTIONS AND TECHNOLOGY LTD	Milton Keynes	A	0
 Purebaby Trading UK Ltd	London	A	0
 Purecare Ltd (ZEN)	London	A	0
@@ -14467,7 +14462,6 @@ PURPLE ESTATE AGENTS LTD	Birmingham	A	0
 Purple Eye Limited T/A Paysii	London	A	0
 Purple Flower Care LTD	Birmingham	A	0
 Purple Foodie Ltd	London	A	0
-Purple Garden SQ Entertainment Ltd	Canterbury	A	0
 Purple Heart Healthcare	Leicester	A	0
 Purple Hospitality Management Ltd	Slough	A	0
 Purple Jay Ltd	London	A	0
@@ -14526,7 +14520,6 @@ Pushraj Limited	London	A	0
 Pushti Nidhi (UK) Ltd	Leicester	A	1,10
 PUSHTI PARIVAR UK LIMITED	Wembley	A	0,1,10
 Puskar Kitchens Limited	Sutton Coldfield	A	0
-Puspa & Laiba Ltd	Feltham	A	0
 Pusterla 1880 UK Ltd	Dover	A	0
 PUSULA CUSTOMER EXPERIENCE UK LTD	London	A	0,4
 PUSULA LTD.	Huntingdon	A	0
@@ -14588,6 +14581,7 @@ Pylon Technologies UK Ltd	London	A	0,4
 PYMATEK AUTOMATION LIMITED	Hednesford	A	0
 Pynea Technology Limited	London	A	0
 Pynnacle Assets Ltd	Stanmore	A	0
+Pynnacle Properties Limited	Stanmore	A	0
 PYON LTD	London	A	0
 PYRALINK INNOVATION LTD	Gateshead	A	0
 Pyramid Builders Limited	London	A	0
@@ -14612,7 +14606,6 @@ Pythian UK Limited	London	A	0,4
 PYTHON KITCHEN LTD	Hayes,	A	0
 PZ Cussons Plc	Manchester	A	0,4
 PZI International Solutions, UK Ltd	London	A	0
-Q C POLYMER LIMITED	Bilston	A	0
 Q C Polymer Limited	Coseley	A	0
 Q Tech Private Ltd	Bromley	A	0
 Q.A.ELECTRICAL PRODUCTS LIMITED	Walsall	A	0
@@ -14628,6 +14621,7 @@ QDrive Performance Limited	West Drayton	A	0
 Qioptiq Photonics Limited	Southampton	A	0,4
 QLAR Pneumatic Conveying UK Ltd	Doncaster	A	0
 Qmed Pharmaceuticals ltd	London	A	0
+QuadReal Residential Properties UK Limited	London	A	0
 QUALITY AND PRICE FURNITURE LTD	Nottingham	A	0
 Quality Cars and Parts Limited	Dagenham	A	0
 QUALITY ENGINEERED PRODUCTS LIMITED	Gloucestershire	A	0
@@ -14862,7 +14856,6 @@ RecruitHub Platform	London	A	0
 RECRUITMENT PRECISION LIMITED	Sunderland	A	0
 Recurrent Energy Power Services UK	Colchester	A	0
 Recycled Plastics UK Ltd	Wolverhampton	A	0
-RECYCLING SOLUTIONS (PLASTICS) LTD	Birmingham	A	0
 RED ASH PIZZA LTD	London	A	0
 Red Events London Limited T/A Clissold Arms Gastro Pub	London	A	0
 Red Line Pharmacovigilance Ltd	Milton Keynes	A	0
@@ -14919,6 +14912,7 @@ Regent Pizza Limited T/A Caprinos Pizza	Wrexham	A	0
 Regent's Park Healthcare	Wiltshire	A	0
 Regent's Park Theatre Ltd	London	A	3
 Regents Park Limited	Exeter	A	0
+Regional Care Peterborough	Peterborough	A	0
 Regular Practice Limited	London	A	0
 Rehab Physio London Limited	London	A	0
 REHMAN ENTERPRISES LTD T/A ABBEYDALE PHARMACY	Sheffield	A	0
@@ -15222,7 +15216,6 @@ RP HEALTHCARE LTD T/A MOTTINGHAM PHARMACY	London	A	0
 RP Partners Limited	London	A	0
 RP-X c/o UK Sports Products Limited	Bedford	A	0
 RPG Healthcare Ltd T/A Hillsborough Pharmacy	Sheffield	A	0
-RPG Strategy Partners Ltd	London	A	0
 RPH Pharma Ltd	Cheadle	A	0
 RPP Watford Limited t/a Roosters Piri Piri	Watford	A	0
 RPS Plumbing LTD	Redditch	A	0
@@ -15253,6 +15246,7 @@ Rund Partnership	Eastleigh	A	0
 Rushbottom Lane Surgery (Dr Khan & Partners)	Benfleet	A	0
 Rushden Podiatry	Rushden	A	0
 Rutland Holdings Private Office Limited	London	A	0
+Rutland Plastics Limited	Oakham	A	0
 Ruxley Pharmacy	Epsom	A	0
 RV Packaging Limited	Essex	A	0
 RV Pharma Ltd	Wellingborough	A	0
@@ -15503,7 +15497,6 @@ Sciensus Pharma Services Limited	Burton on Trent	A	0
 SCIENTIFIC INFRA & PRIVATE ASSETS	London	A	0
 Scientific Infra & Private Assets (Europe) Ltd	London	A	0
 SCJ Picnic to Korea LTD	London	A	0
-Scone Polo Team	Midhurst	A	11
 Scoonie Medical Practice	Leven	A	0
 Scoops Portswood Limited	Southampton	A	0
 Scope Pharma Limited T/A Lords Pharmacy	South Ockendon	A	0
@@ -15749,7 +15742,6 @@ Sigma Pharmaceuticals Plc	Watford	A	0
 Sign Pro International Limited	Ilford	A	0
 Signal Capital Partners Limited	London	A	0
 Signature Pubs Limited	Aberdeen	A	0
-Signet Polo Team	Reading	A	11
 Signet Polo Team Limited	Bagshot	A	11
 SIKKA PHARMA LTD T/A WINNERSH PHARMACY AND CLINIC	Winnersh	A	0
 Silent E Pictures Limited	London	A	0
@@ -15788,6 +15780,7 @@ Sinfonietta Productions Ltd (trading as London Sinfonietta)	London	A	0,3
 Singh & Kaur Enterprises Limited T/A Phone Corner	Mansfield	A	0
 Singh Concrete Pumps Ltd	West Bromwich, England	A	0
 Sioma Professionals Ltd	London	A	0
+SIP (INDUSTRIAL PRODUCTS) LIMITED	Loughborough	A	0
 SIP Car Parks Limited	Manchester	A	0
 SIPCO HEALTHCARE UK LTD T/A MEDWIN PHARMACY	Rotherham	A	0
 Sir Mark Prescott BT.	Newmarket	A	0
@@ -15933,13 +15926,11 @@ SOHAL (UK) LIMITED T/A Kitsons Pharmacy	Worcester	A	0
 Sohal Dental Practice	Birmingham	A	0
 Sohal Food and Wine Limited T/a Premier	Alfreton	A	0
 Soho Prime Entertainment Limited	London	A	0
-Sokol Petriti T/A Toms Kitchen LTD	Shepperton	A	0
 Sol PV Group Limited	Hebden Bridge	A	0
 Solace Prime Care LTD	Sheffield	A	0
 SOLAGE PARTNERS LTD	Stanmore	A	0
 Solano Partners Ltd	London	A	0
 Solax Power UK Limited	Atherstone	A	0,4
-Solent Healthcare Ltd T/A Poplars care home	Bassett, Southampton	A	0
 Solent Pizza Delivery LTD T/A Dominos Pizza	Southampton	A	0
 Solent Pizza W LTD T/A Dominos Pizza	Southampton	A	0
 Solent Primary Medical Care Services Limited	Southampton	A	0
@@ -15980,7 +15971,6 @@ Sourcing Playground	Wimborne	A	0
 SOUSOU PARTNERS LLP	London	A	0
 South & East Leeds General Practice Group Ltd	Leeds	A	0
 South Axholme Practice	Doncaster	A	0
-South East Psychology CIC	London	A	0
 South Grange Medical Group Practice	Middlesbrough	A	0
 South Lynch Estate Poultry	Winchester	A	0
 South Pole Group UK Ltd.	London	A	0,4
@@ -16183,7 +16173,6 @@ ST PETERS HOME LIMITED	Margate	A	0
 St Peters Home Ltd	Kent	A	0
 St Peters Italian Catholic Church Little Saffron Hill	London	A	1
 St Peters School	York	A	0,9
-St Philips Caledonia Care Ltd	Wednesfield	A	0
 St Philips Care Limited	Wednesfield	A	0
 St Philomena's Catholic High School for Girls	Carshalton	A	0
 St Pierre Groupe Limited	Manchester	A	0
@@ -16218,7 +16207,6 @@ STA Partners Ltd T/A Sycamore Stores	Kent	A	0
 STAASH ENTERPRISES LTD t/a Papa John's Pizza	High Wycombe	A	0
 STABILISED PAVEMENTS LIMITED	Scaldwell	A	0
 STAFFING PLUS LTD	Edgbaston	A	0
-Staffing Professionals Ltd	London	A	0
 Stafford Capital Partners Limited	London	A	0
 STAFFORD PIZZA LIMITED T/A Caprinos Pizza	Stafford	A	0
 Stafford Stores & Post Office	Norwich	A	0
@@ -16242,7 +16230,6 @@ Star Powa Limited	Marlyebone	A	0
 Star Power Touring Ltd	Macclesfield	A	3
 Star Premier Express	Epsom, Surrey	A	0
 Star Print London Limited	Northolt	A	0
-Star Private Hire Staffs Ltd	Stoke-on-Trent	A	0
 STAR PRO CONSTRUCTION LTD	London	A	0
 Star Projections Limited	Wantage	A	0
 Star Projections Limited T/As Walfinch Oxfordshire	Wantage	A	0
@@ -16255,6 +16242,7 @@ Stassen Properties Limited	Wolverhampton	A	0
 State of Emergency Productions	Honiton	A	3
 STATION PHARMACY LTD	Maghull	A	0
 Station Plumbing and Hardware Ltd	Birmingham	A	0
+Stay Plus Serviced Accommodation Ltd	Southampton	A	0
 STAYWARM INSULATING & HEATING ENGINEERS LTD T/A CHESHIRE SPAS & POOLS	Neston	A	0
 STB PIZZA LTD	St. Leonards-On-Sea	A	0
 STC Power UK Limited	Nottingham	A	0
@@ -16265,6 +16253,7 @@ Stephen House Dental Practice	Christchurch	A	0
 STEPHEN MCCORMICK PHARMACIES LIMITED	Drongan	A	0
 STEPHEN PARSONS ASSOCIATES LIMITED	Twickenham	A	0
 Stephen Perrott & Co Solicitors	Holywood	A	0
+Stephen Perse Cambridge	Cambridge	A	0
 STEPNEY NEWS & POST OFFICE	Hull	A	0
 Steppingstones Medical Practice	Dudley	A	0
 Steri Products Ltd	Braintree	A	0
@@ -16287,6 +16276,7 @@ Stirling Square Capital Partners LLP	London	A	0
 STJ Property Services Ltd	Romford	A	0
 STJ PVT LTD	Erdington	A	0
 Stoats Porridge Bars Ltd	Loanhead	A	0
+Stobart Premium Pet Food Ltd	Bradford	A	0
 Stockbridge Pet Supplies Limited	Edinburgh	A	0
 Stockport Ventures Pizza Ltd t/a Papa John's Pizza	Manchester Denton	A	0
 Stockwood Pharm Ltd	Bristol	A	0
@@ -16330,7 +16320,6 @@ Stream Platforms Ltd	London	A	0,4,6
 Streatham Park Surgery	Streatham	A	0
 STREET PIONEERS LTD	Tyne And Wear	A	0
 STREETFOOD PACKAGING LTD	Aberdeen	A	0
-Strength Central (Ldn) Pte Ltd	London	A	0,4
 Stretton Hills veterinary practice Ltd.	All stretton	A	0
 Strides Pharma UK Limited	Watford	A	0,4
 Stripe Partners	London	A	0
@@ -16443,6 +16432,7 @@ Superfry Potatoes Ltd	North Berwick	A	0
 Supernova Power Operations Limited	Nottingham	A	0
 Supherb Produce Ltd	Stourbridge	A	0
 Supo Platform Limited	London	A	0
+Supra Products Limited	Willenhall	A	0
 SUPREME HALAL POULTRY UK LTD	Birmingham	A	0
 Supreme Loss Prevention Limited	Sheffield	A	0
 Supreme Protection Limited	London	A	0
@@ -16655,6 +16645,7 @@ TECH PEOPLE MANAGED SERVICES LTD	Slough	A	0
 TECH PLACE LTD	Dunstable	A	0
 Tech Solutions Pro Ltd	Nottingham	A	0
 Techdent Prosthetics Limited	Kent	A	0
+Technical Professionals Limited (trading as LearnTech)	Manchester	A	0
 TECHNO AD UK PRIVATE LTD	Manchester	A	0
 Techno Point Ltd	Edinburgh	A	0
 Techno Sync Pro Ltd	London	A	0
@@ -16675,7 +16666,6 @@ Telth Healthcare PVT Ltd	Birmingham	A	0
 Tempest Polo Team	Windsor Great Park	A	11
 Temple Pharmacy Ealing Ltd	Ealing	A	0
 Temple Pharmacy Limited	London	A	0
-Temple Pharmacy Ltd	London	A	0
 Temple Street Dental Practice	Oxford	A	0
 Templehall Dental Practice	Kirkcaldy	A	0
 Templemere PR	London	A	0
@@ -16980,7 +16970,7 @@ The Millwood Partnership	Great Yarmouth	A	0
 The Mint Pub Company Limited T/A The Milk House	Sissinghurst, Cranbrook	A	0
 The Mirror Polo Team	Ascot	A	11
 The Missionary Sisters for Polish Migrants	London	A	1,10
-The Modality Partnership	Birmingham	A	0
+The Modality Partnership	Birmingham	B	0
 The Modern Rugs Pvt Limited	Bradford	A	0
 THE MONARCH PARTNERSHIP LTD	Wallington	A	0
 The Montessori Place	Hove	A	0
@@ -17078,6 +17068,7 @@ The Parochial Church Council of the ecclesiastical parish of Saint Mary, Islingt
 THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF SAINT MICHAEL AND ALL THE ANGELS, CLAVERDON	Claverdon	A	1
 The Parochial Church Council of the Ecclesiastical Parish of Sonning	Sonning	A	1,10
 The Parochial Church Council of the Ecclesiastical Parish of St Andrew's Oxford	Oxford	A	10
+The Parochial Church Council of the Ecclesiastical Parish of St Barnabas Woodside Park	London	A	0
 THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST EDMUND THE KING, ST MARY WOOLNOTH AND ST CLEMENT EASTCHEAP	London	A	0,9,10
 The Parochial Church Council of the Ecclesiastical Parish of St James, Westminster	London	A	0
 THE PAROCHIAL CHURCH COUNCIL OF THE ECCLESIASTICAL PARISH OF ST JOHN THE BAPTIST LEYTONSTONE	London	A	1
@@ -17180,11 +17171,10 @@ The Pizza Munch limited (T/A Pizza Pan Express)	Oldham	A	0
 The Place Up Hanley Limited	Stoke on Trent	A	0
 The Plough At Rhosmaen Limited	Llandeilo	A	0
 the plough harborne	Birmingham	A	0
-The Plough Inn	Southall	A	0
 THE PLUME OF FEATHERS PUBLIC HOUSE LIMITED	Harlow	A	0
 The Plume of Roses Catering Ltd t/a The Plume of Feathers	Sherborne	A	0
 The Podiatry Clinic Ltd	Birmingham	A	0
-THE POLAR BEARS GROUP LTD	Cambridge	A	0
+THE POLAR BEARS GROUP LTD	London	A	0
 THE PONCHOKHANA CATERING LTD	Birmingham	A	0
 THE PONCHOKHANA LIMITED T/A Ponchokhana	Birmingham	A	0
 THE POND LONDON LTD (UK)	London	A	0,4
@@ -17242,7 +17232,6 @@ The Property Market (Cranford) Ltd. T/A TPM Estate Agent	Cranford	A	0
 The Prospering Place Ltd	London	A	0
 The Protector Group	Gateshead	A	0
 The Provenance Meat Company Ltd	Stratford Upon Avon	A	0
-THE PRP LAB	London	A	0
 The Pub Warehouse No.2 Ltd	Magherafelt	A	0
 The Public Service Consultants Limited t/a The PSC	London	A	0
 The Pump House Restaurant Ltd T/A Amaani	Durham	A	0
@@ -17326,10 +17315,8 @@ The Southover Partnership	London	A	0
 The Spitalfields Practice	London	A	0
 The Springs Medical Partnership	Chesterfield	A	0
 The Stephen James Partnership Ltd	London	A	0
-The Stephen Perse Foundation	Cambridge	A	0
 The Street Lane Practice	Leeds	A	0
 The Tasty Plaice 2 LTD	Newbury	A	0
-The Thakerar Partnership T/A Welbourn Homes	Lincoln	A	0
 The Thinking Pod Innovations Ltd	Nottingham	A	0
 The Thornton Practice	Thornton-Cleveleys	A	0
 The Three Shires Medical Practice	Bristol	A	0
@@ -17514,7 +17501,6 @@ Topkins Healthcare Ltd (Topkins Pharmacy)	Harpenden	A	0
 TOPP MOBILE PLUS LIMITED	Birmingham	A	0
 TOPS PIZZA	Luton	A	0
 Tops Pizza (Hemel Hempstead) Ltd	Hemel Hempstead	A	0
-TOPS PIZZA (RAYNERS LANE) LIMITED	Harrow	A	0
 Tops Pizza Aylesbury Limited	Aylesbury	A	0
 TOPS PIZZA BEDFORD LIMITED	Bedford	A	0
 Tops Pizza Fulham Ltd	London	A	0
@@ -17537,6 +17523,7 @@ Total Project Management Group Ltd	Bonnyrigg	A	0
 TOTAL SOLUTION PROVIDER LTD	Carshalton	A	0
 Total System Services Processing Europe Ltd	York	A	0,4
 TotalEnergies Gas and Power Limited	Tadworth	A	0,4,7
+Totalfit Personal Training	Burgess Hill	A	0
 Totem Imports Ltd T/A Provisions	London	A	0
 TOTLEY PHARMACY LIMITED	Sheffield	A	0
 Totnes Progressive School	Totnes	A	0
@@ -17628,7 +17615,6 @@ TRITON LONDON PRIVATE LIMITED	Ipswich	A	0
 TRMP LTD T/A ESSO GATTON POINT SERVICE STATION	Redhill	A	0
 TROJAN PIZZA LTD	Leeds	A	0
 Tronox Pigment UK Limited	London	A	0,4
-TROPHIES FRAMES & SCREEN PRINTING LTD	Glasgow	A	0
 TROPIC INTERNATIONAL PVT LTD	Watford	A	0
 Tropicana Products UK Ltd	Reading	A	0,4
 Troubadour Properties Limited	London	A	0,3
@@ -17666,7 +17652,7 @@ Tula Precision Ltd	Northleach	A	0
 Tunstall Primary Care	Stoke on Trent	A	0
 TUPSLEY POS LIMITED T/A Tupsley Post Office & Store	Hereford	A	0
 TURANYA PVT LTD	Doncaster	A	0
-Turbo Power Systems	Gateshead	A	0,4
+Turbo Power Systems Limited	Gateshead	A	0,4
 Turbo Precision Components Limited	Huddersfield	A	0
 Turney Primary & Secondary Special School	London	A	0
 Turning Point	Manchester	A	0
@@ -17970,7 +17956,6 @@ Village Dental Practice	London	A	0
 VILLAGE QUALITY PRODUCTS LIMITED	Loughton	A	0
 Village Street Pharmacy Limited T/A Village Pharmacy	Derby	A	0
 Vinayak Pharma Ltd T/A Maendy Square Pharmacy	Cwmbran	A	0
-Vinayaka Private Limited	Chesterfield	A	0
 Vincentian Care Plus Limited	London	A	0
 VINCI CONSTRUCTION GRANDS PROJETS UK BRANCH	London	A	0,4
 Vindis Premier shop minimarket	Bristol	A	0
@@ -17986,6 +17971,7 @@ Virtual Programming Limited	Newport Pagnell	A	0
 Virtual Reality Kingdom Technologies PVT Ltd	Reading	A	0,4
 Virtual Reality Property Marketing Ltd	London	A	0
 Virtue Petco Limited	London	A	0
+VIRTUS FINANCIAL PLANNING LIMITED	London	A	0
 Vishalkumar Patel Ltd T/A VS Wines	Rainham	A	0
 Vishram Nautam Patel	Manchester	A	0
 Vishwa Hindu Parishad (UK)	Bolton	A	10
@@ -18000,7 +17986,8 @@ Visionnaire Home Philosophy UK Ltd	London	A	0
 Vista Fire Protection Ltd	London	A	0
 Vista Partners Limited	Redhill	A	0
 VISTO TECHNOLOGIES PVT LTD	Hounslow	A	0
-VITALITY PHARMA LIMITED	Aylesbury	A	0
+Vital Prototypes Ltd	Coventry	A	0
+VITALITY PHARMA LIMITED	Shenley	A	0
 Vitality Plus Care Ltd	Trowbridge	A	0
 Vitesse PSP	London	A	0
 VITHIYASHAHARAN BALASINGAM ( JVB PVT )	Greater London	A	0
@@ -18064,7 +18051,6 @@ Wallingford Medical Practice	Wallingford	A	0
 Walpole Partnership Ltd	London	A	0
 Walstead Peterborough Limited	Peterborough	A	0
 Walters Property Developers Limited	Weybridge	A	0
-Wan Plastering Limited	Slough	A	0
 Wandsworth Premier Ltd T/A Premier	London	A	0
 Wandsworth Pubs Ltd	Belfast	A	0
 Wandsworth Town Dental Practice	London	A	0
@@ -18103,6 +18089,7 @@ WB Power Services Limited	Heanor	A	0
 WE ARE PERCENT LTD	London	A	0
 We Are Pioneer Group Limited	London	A	0
 We Are Purposeful	London	A	0,4
+We Care Physiotherapy ltd	Maidstone	A	0
 We Care You Plus Ltd	Cardiff	A	0
 We Play Limited	London	A	0
 We Prepare Limited	Slough	A	0
@@ -18156,7 +18143,6 @@ West Leeds PCN Ltd	Pudsey	A	0
 WEST LONDON PENTECOSTAL CHURCH	Hounslow	A	9
 West London Professional College Ltd	Hounslow	A	0
 West Monroe Partners Limited	London	A	0
-West NAH Professionals LLP	Paisley	A	0
 West Park Hotel Pvt Ltd	Clydebank	A	0
 WEST PARK HOUSE LIMITED	Leslie	A	0
 West park Mini Mart	Maidstone	A	0
@@ -18263,13 +18249,11 @@ Wilmer Cutler Pickering Hale and Dorr LLP (trading as WilmerHale)	London	A	0,4
 WILMSLOW PHONES LTD	Wilmslow	A	0
 Wilsden Medical Practice	Bradford	A	0
 Wilson House Dental Practice	Milton Keynes	A	0
-Wilson Partners Limited	Maidenhead	A	0
 WILSON POWER SOLUTIONS LIMITED	Leeds	A	0
 Wimbledon Dental Practice	London	A	0
 Wimbledon Park Montessori School	London	A	0
 Wimblington Convenience Store Ltd T/A Premier & Post Office	March	A	0
 Wimshurst Pelleriti Limited	London	A	0
-Wincanton Creative Print Ltd	Wincanton	A	0
 Winchester House Dental Practice	Narberth	A	0
 Winchester Procurement Limited	Winchester	A	0,4
 WInchmore Hill Practice	London	A	0
@@ -18377,6 +18361,7 @@ Wrekin Products Ltd	Lichfield	A	0
 Wren Pubs Limited	Southhampton	A	0
 Wren sterling Financial Planning	Nottingham	A	0
 Wrenbury Medical Practice	Nantwich	A	0
+Wright Pastoral Wagyu Team LTD	Winkfield	A	11
 Wrights Produce Limited	Thetford	A	0
 Wrigley Ronan Property	London	A	0
 WRM & Partners LTD	South Woodford	A	0

@@ -6,6 +6,7 @@ ABP Yetminster	Yetminster	A	0
 Absolute Fitness	York	A	0
 ACM Global Central Laboratory Limited	York	A	0
 Ad Signal Limited	York	A	0
+ADNFC Financial Consultants Ltd	York	A	0
 Adtran Networks (UK) Limited	York	A	0
 Advance HE	York	A	0
 AgriSound Limited	York	A	0
@@ -28,7 +29,6 @@ Athletica Health Ltd	York	A	0
 Atrium Accounts Ltd	York	A	0
 Avoptics Limited	Yeovil	A	0
 Azotic Technologies Limited	York	A	0
-Bamboo Thai Takeaway Ltd	York	A	0
 BANGLE FOOD LTD	Yeovil,	A	0
 BANGLE FOOD LTD T/A RED ROSE	Yeovil	A	0
 Bar Hashery	York	A	0
@@ -113,7 +113,6 @@ Ether/Awe Productions LTD	York	A	0
 Eurofins E&E UK Ltd	York	A	0
 Eurofins Electrical and Electronic UK Limited	York	A	0
 Evolve123 Ltd	York	A	0
-EXCHANGE TECH LTD	Yarm	A	0
 Fera Science Ltd	York	A	0
 Finyx Consulting Ltd	York	A	0
 Fishergate Primary School	York	A	0
@@ -209,7 +208,6 @@ Matthias Garn Master Mason + Partner	York	A	0
 Maxi's (York) Ltd	York	A	0
 Maxim London Limited T/A Maxim Food and Wine	Yiewsley	A	0
 MAYONNAISE TREASURE YORK LIMITED	York	A	0
-Medicsensors Limited	York	A	0
 Megan Mechanical Services Ltd	Yateley	A	0
 Meplas Ltd	York	A	0
 Middle Feast Limited	York	A	0
@@ -294,7 +292,6 @@ Sonardyne International Limited	Yateley	A	0,4,7
 South Gloucestershire Council	Yate	A	0
 South West Coaches Ltd	Yeovil	A	0
 South York Multi-Academy Trust	York	A	0
-Spice 21 Ltd t/a York Tandoori	York	A	0
 Spirit Motorcycles Limited	Yeovil	A	0
 Sri Venkateshwara Healthcare UK Limited	York	A	0
 SST PETROLEUM LIMITED	Yeovil	A	0
@@ -381,6 +378,7 @@ YOO KASE LTD	York	A	0
 York & Scarborough Teaching Hospitals NHS Foundation Trust	York	A	0
 York Bioanalytical Solutions Limited	York	A	0,4
 York Citizen's Theatre Trust Limited	York	A	3
+York City Football Club Ltd	York	A	11
 York City Knights Ltd	York	A	0,11
 York College	York	A	0
 York Lagoon Limited	York	A	0

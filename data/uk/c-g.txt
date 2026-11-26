@@ -176,7 +176,6 @@ Allander Surgery	Glasgow	A	0
 Alliance Francaise de Glasgow	Glasgow	A	0,9
 Alliance Group Management Ltd	Greenock	A	0
 Allianz Insurance plc	Guildford	A	0,4
-ALLIED ENGINES LTD	Grays	A	0
 Allied Global Engineering Ltd	Glossop	A	0
 Allied Software Ltd	Glasgow	A	0
 Allied Vehicles Limited	Glasgow	A	0
@@ -224,6 +223,7 @@ Ansimicro Software UK Limited	Gloucester	A	0,4,7
 Antylles Ltd	Glastonbury	A	0
 Anuvu UK Operations Limited	Great Warley, Brentwood	A	0,4
 ANVIKA LTD	Gloucester	A	0
+APCO Dental Ltd	Glasgow	A	0
 Apex Acoustics Limited	Gateshead	A	0
 Apex Builders Limited	Gravesend	A	0
 Apex Property Services (Scotland) Ltd	Glasgow	A	0
@@ -268,7 +268,6 @@ Artsermon Ltd T/A Bionicare	Great Denham	A	0
 Aruna Moola Ltd	Glasgow	A	0
 AS CUEVAS LANDSCAPING & DESIGN LTD	Gillingham	A	0
 AS Greenford Heating and Plumbing (UK) Limited	Greenford	A	0
-Ascertia Limited	Guildford	A	0
 ASH SITE SERVICES LIMITED	Grays,	A	0
 Ashbourne Group Ltd	Goring by Sea / Worthing	A	0
 Ashby Energy Assessors Limited	Grantham	A	0
@@ -438,7 +437,6 @@ Blek Ltd t/a Big Licks	Glasgow	A	0
 Bloc Hotel Group Limited	Gatwick	A	0
 BLOCKEYFI UK LIMITED	Glasgow	A	0
 Bloods UK Limited	Grimsby	A	0
-Bloom Trade Limited	Glasgow	A	0
 BLU BAY LIMITED	Glasgow	A	0
 Blue Bell Pub and Gurkha Restaurant Ltd	Gloucester	A	0
 Blue Genie Entertainment	Gillingham	A	3
@@ -540,6 +538,7 @@ Cab Management System Ltd	Greenford	A	0
 Caddy's Kabin	Gainsborough	A	0
 Cadham Pharmacy Ltd	Glenrothes	A	0
 CAFE BOATS LIMITED	Gloucester	A	0
+CAFE BUENO LIMITED	Gillingham	A	0
 CAFE YARO LIMITED	Glasgow	A	0
 Cairn Letting Limited	Glasgow	A	0
 Cairn Movement	Glasgow	A	1,9,10
@@ -632,7 +631,6 @@ Cheerful Heart	Gloucester	A	9,10
 Chelsfield Electrical Ltd	Great Amwell	A	0
 CHEMDOSE LIMITED	Goole	A	0
 Chemify Limited	Glasgow	A	0
-Chemify Ltd	Glasgow	A	0
 CHEN JIE SOLICITORS LTD	Glasgow	A	0
 Chengdu Ltd	Glasgow	A	0
 Cherry & White Ltd	Gloucester	A	0
@@ -658,6 +656,7 @@ Christian Associates Network	Glasgow	A	1,9,10
 CHUDASHREE LTD T/A BAYLEAF	Grayshott	A	0
 CIGNA EUROPEAN SERVICES (UK) LIMITED	Glasgow	A	0,4,7
 Cinderford Phones Ltd	Gloucestershire	A	0
+Circadian Therapeutics Limited	Godalming	A	0
 Circulus CRM Limited	Glasgow	A	0
 City Building	Glasgow	A	0
 City Facilities Management (UK) Limited	Glasgow	A	0
@@ -699,7 +698,6 @@ CLYDE TRADE LIMITED	Glasgow	A	0
 Clyde Ventures Limited	Glasgow	A	0
 Clydebank Grocers Ltd t/a Clydebank Grocers	Glasgow	A	0
 Clydebank Specsavers Hearcare Limited	Glasgow	A	0
-Clydesdale Bank PLC	Glasgow	A	0
 Clydesdale Cricket Club	Glasgow	A	11
 Coatsink Software Ltd	Gateshead	A	0
 Cobry Ltd	Glasgow	A	0
@@ -720,7 +718,6 @@ Community Hosting and Support CIC	Gravesend	A	0
 Community Land Scotland	Glasgow	A	0
 Community of the Risen Christ	Glasgow	A	9,10
 Community of the Sisters of the Church	Gerrards Cross	A	1,10
-Community Renewal Trust	Glasgow	A	0
 COMPASS HOUSE LIMITED t/a Yayas	Glasgow	A	0
 COMPETITIVE LIMITED	Greenford	A	0
 Compliance Solutions (Lifesciences) Ltd	Glasgow	A	0
@@ -767,16 +764,17 @@ Cradloop UK Ltd	Grantham	A	0
 Craft Prospect Ltd	Glasgow	A	0
 CRANBERRYS BAR AND KITCHEN LTD t/a Cranberry's	Glasgow	A	0
 CREATIVE MINDS NURSERIES LIMITED	Gerrards Cross	A	0
+CREE RESTAURANTS LTD	Great Rissington	A	0
 CRESCENT BUSINESS LTD t/a Subway	Glasgow	A	0
 Cressive Limited	Guildford	A	0
 Croda International Plc	Goole	A	0,4
 Crookston Community Group	Glasgow	A	0
 CROOKSTON COMMUNITY GROUP (SCIO Registered)	Glasgow	A	9
 Crossloan Road Post Office & Newsagent	Glasgow	A	0
+CROWN CONCRETE GROUP LTD	Gravesend	A	0
 Cryptic Glasgow Ltd	Glasgow	A	3
 CTDI Glenrothes Limited	Glenrothes	A	0
 CU Apps Ltd	Glasgow	A	0
-CuanTec Limited	Glasgow	A	0
 CUKCOO PERI PERI LTD T/AS PEPE'S PIRI PIRI	Glasgow	A	0
 Culture and Sport Glasgow	Glasgow	A	0,3
 Cumbernauld Holdings Ltd T/A Dalshannon Farm Indian Restaurant	Glasgow	A	0
@@ -853,7 +851,6 @@ Denmark Street Dental Practice Limited	Gateshead	A	0
 Dennistoun Baptist Church SCIO	Glasgow	A	1,9,10
 DENT CENTRE PLUS LTD	Glasgow	A	0
 Dent Hub Smiles Ltd	Gloucester	A	0
-Dentalserve.net Ltd	Gravesend	A	0
 Dentistry by Abdul	Glasgow	A	0
 Dentology Healthcare Limited	Grimsby	A	0
 Dependability	Greenford	A	0
@@ -932,7 +929,6 @@ Dukes Glossop	Glossop	A	0
 Duncan & Toplis	Grantham	A	0
 Dunlop Oil & Marine Ltd	Grimsby	A	0
 DVMI LTD	Gloucester	A	0
-DXB RETAIL LIMITED	Gloucester	A	0
 Dxcover Ltd	Glasgow	A	0
 E & A Hogben	Gloucester	A	0
 E-Klaz Profit Limited	Gravesend	A	0
@@ -951,7 +947,6 @@ Eat Out Guildford Ltd	Guildford,	A	0
 Ecclesiastical Insurance Office PLC	Gloucester	A	0
 ECN Construction Service Ltd	Gravesend, Kent	A	0
 Econavis Solutions Limited	Glasgow	A	0
-ECOSAVE INSTALLATION LTD	Glasgow	A	0
 ECOTECH CONTRACTS LIMITED	Glasgow	A	0
 Ed Morris Polo Limited	Gainsborough	A	11
 Eden Care at Home Limited	Gerrards Cross	A	0
@@ -983,7 +978,6 @@ Elite Sporting Performance Ltd	Grangemouth	A	0
 Ella Convenience Store Ltd	Glenfield	A	0
 Ellatte Limited t/a @homepizza	Gerrard's Cross	A	0
 Ellsworth Adhesives Limited	Glasgow	A	0
-Elmac Technologies Limited	Greenfield	A	0
 ELVARIX TECH LTD	Glasgow	A	0
 Eminox Ltd	Gainsborough	A	0
 ENABLE Scotland	Glasgow	A	0,9
@@ -1130,6 +1124,7 @@ Francis and Lewis International Ltd	Gloucester	A	0
 Frango Franchise Ltd	Gloucester	A	0
 Fraunhofer UK Research Ltd	Glasgow	A	0
 Free Presbyterian Church of Scotland	Glasgow	A	1,9,10
+Freelance Consultancy Pvt Ltd	Glasgow	A	0
 Freeman Catering Butchers Ltd	Gateshead	A	0
 Freemans Event Partners	Gloucester	A	0
 French Duncan LLP	Glasgow	A	0
@@ -1317,7 +1312,8 @@ Gott and Robinson	Grange Over Sands	A	0
 Govanhill Baths Community Trust	Glasgow	A	9
 GRABIFY LTD	Glasgow	A	0
 Grace Fashion Trading Ltd	Godalming	A	0
-Grace Manor Care Limited t/a Grace Manor Care Centre	Gillingham	A	0
+Grace Manor Care Limited t/a Grace Manor Care Centre	Gillingham	B	0
+Grady dental ltd	Glasgow	A	0
 Graham + Sibbald Property Consultants Limited	Glasgow	A	0
 Grainger Cable Installations Ltd	Gateshead	A	0
 GRAND DESIGNS INTERNATIONAL LTD	Greater London	A	0
@@ -1487,6 +1483,7 @@ HMW CARE Limited T/A Bluebird Care	Gateshead	A	0
 HOBSON SQUARE LTD	Great Kneighton	A	0
 Hochiki Europe UK Ltd	Gillingham	A	0,4
 HOLIDAY RESERVATIONS UK LTD	Gloucester	A	0
+Holistic Head Health Ltd	Gloucester	A	0
 Hollborn Recruitment LTD	Greater London	A	0
 Hollywood Nails (Cheltenham) Limited	Gloucestershire	A	0
 Holmes Miller Limited	Glasgow	A	0
@@ -1540,6 +1537,7 @@ Hyserve Marine Ltd	Gateshead	A	0
 I & M Corporates Limited T/A Fone Planet	Grimsby	A	0
 I M DEN LIMITED	Glasgow	A	0
 I PASSING SMILES LIMITED	Glasgow	A	0
+I&S GLOBAL LTD	Great Wyrley	A	0
 IBBY Restaurant Ltd	Glasgow	A	0
 Ibil Aesthetic & Training Academy Ltd	Greenwich	A	0
 ICEBERG ENTERPRISE LTD T/A DAY TODAY	Glasgow	A	0
@@ -1549,6 +1547,7 @@ Identity Youth Project	Great Yarmouth	A	1,9,10
 Idili Live Ltd	Guildford	A	0
 IDMV Group Ltd	Glasgow	A	0
 IDRE ESIA FOOD STORE LTD	Glasgow	A	0
+IE EVENTING LTD	Godalming	A	11
 IFIX GADGETS LIMITED	Guildford	A	0
 iGrid Technology Consulting Ltd	Glasgow	A	0
 IGS Works Limited	Glasgow	A	0
@@ -1587,6 +1586,7 @@ Infrastructure Matters Ltd	Guildford	A	0
 Ink Clothing Glasgow Ltd	Glasgow	A	0
 INNOCENCE NURSERY LTD.	Glasgow	A	0
 Innovate Industries Ltd,	Greenock	A	0
+Innowise Works Ltd	Garforth	A	0
 Insanity Media Limited	Greetland	A	0
 Insider Technologies Limited	Greater Manchester	A	0
 INSIGNIA SHIPPING SERVICES LTD	Grays	A	0
@@ -1627,7 +1627,6 @@ Ivy Marketing and Consulting Ltd T/A East India Cafe	Gloucestershire	A	0
 IVY NEIL LTD	Gravesend	A	0
 Iyana Cosmetics Limited	Greenford	A	0
 IZM Marketing Limited T/A Spice Magic	Glasgow	A	0
-Izyan Ltd	Glasgow	A	0
 IZZY DRYLINING LIMITED	Gravesend	A	0
 Izzy Logic Limited	Grays	A	0
 J & J (Scotland) Limited t/as Madha	Glasgow	A	0
@@ -1790,7 +1789,7 @@ L B (CHEADLE) LTD TA Sadagar Balti Restaurant	Gatley	A	0
 L4 Auto Specialists Ltd	Glasgow	A	0
 LA Durum Limited T/A LA DURUM	Gloucester	A	0
 La Lanterna Glasgow Ltd	Glasgow	A	0
-LA PARRILLA TAPAS BAR AND GRILL LTD	Gravesend	A	0
+LA VITA (SCOTLAND) LIMITED	Glasgow	A	0
 LA VITA GEORGE SQUARE LIMITED	Glasgow	A	0
 Laing the Jeweller (Glasgow) Ltd	Glasgow	A	0
 Lakeside & Purfleet Taxis Limited	Grays	A	0
@@ -1883,7 +1882,6 @@ LUCKNOW HOUSE LTD T/A NISA LOCAL	Greenhithe	A	0
 Lucks Yard Clinic	Godalming	A	0
 Luddon Construction Limited	Glasgow	A	0
 Ludonautics Limited	Gloucester	A	0
-Luna Cleaning Solutions Limited	Grays	A	0
 LUSH BIRD LTD	Grays	A	0
 Luths Services Ltd	Glasgow	A	0
 Luv To Care Ltd	Guildford	A	0
@@ -1986,6 +1984,7 @@ Medical and Dental Defence Union Scotland	Glasgow	A	0
 Medical Skin Clinics Ltd	Goring on Thames	A	0
 MEDICIN	Grays	A	0
 Mediclinic Pharmacy Limited	Gillingham	A	0
+MediGAS UK Ltd	Greater Manchester	A	0
 Medimove Ltd	Greenwich	A	0
 Medscheck Ltd	Gosport	A	0
 MEDUKCARE RECRUITMENT LIMITED	Great Bookham	A	0
@@ -1993,9 +1992,11 @@ Medway Community Healthcare CIC	Gillingham	A	0
 MEDWAY DRIVE-THRU PHARMACY LTD	Gillingham	A	0
 Medway NHS Foundation Trust	Gillingham	A	0
 Meenmore Contracts Limited	Glasgow	A	0
+Meer & Meer Ltd	Greenford	A	0
 MEGABUILD CONSTRUCTION LTD	Greenford	A	0
 Megalathan Arulampalam T/As Sheena stores	Gwynedd	A	0
 Megavarnan Piratheepan & Subashini Piratheepan T/A Brentwood Road Supermarket	Greater London	A	0
+MELBRID LTD	Glasgow	A	0
 Mellow Parenting	Glasgow	A	9
 Meopham Tandoori Balti Ltd	Gravesend	A	0
 Merchant City Restaurants Ltd	Glasgow	A	0
@@ -2304,7 +2305,6 @@ Original Khyber+ Ltd	Glasgow	A	0
 Orion Practice Management Systems Ltd	Glasgow	A	0
 Orsett Communications Ltd T/A Real Thai Massage	Grays	A	0
 Ortel Ltd	Gloucester	A	0
-OS Glasgow Limited	Glasgow	A	0
 Osborne Street Surgery Limited	Grimsby	A	0
 Otaski Energy Solutions Ltd	Gateshead	A	0
 Oujla Group Ltd	Glasgow	A	0
@@ -2339,7 +2339,6 @@ Paolo's Italian	Galashiels	A	0
 PARAMESWARY NADARAJAH T/A SPAR	Grimsby	A	0
 Paramount Commerce Services Limited	Guildford	A	0
 PARK LANE GROCERS LTD	Glagosw	A	0
-Park Stores (Gateshead) Limited	Gateshead	A	0
 Park View Gloucester Ltd	Gloucester	A	0
 PARKASHSONS LTD	Glasgow	A	0
 Parker Design Engineering Ltd	Garston	A	0
@@ -2435,11 +2434,11 @@ Potters Leisure Limited	Great Yramouth	A	0
 POUND CITY (GRAYS) LIMITED	Grays	A	0
 PRABLIN STORES LIMITED	Greenford	A	0
 Precious Care Services Ltd	Glasgow	A	0
+Precise Medicolegal Consulting LTD	Glasgow	A	0
 PREETHI TRADE LIMITED	Greenford	A	0
 PREMIER CARS (SURREY) LTD	Godalming	A	0
 Premier Dentistry Ltd	Great Yarmouth	A	0
 Premier Gillingham	Gillingham	A	0
-Premier Miton Group plc	Guildford	A	0
 PREMIER SERVICED PROPERTIES LTD	Glasgow	A	0
 Preppal Ltd	Glasgow	A	0
 Presanne Care Consultancy Ltd	Grays	A	0
@@ -2471,13 +2470,13 @@ PROLABS UK LTD	Gloucestershire	A	0
 Propheci Ltd	Glasgow	A	0
 Prospect Training Services (Gloucester LTD)	Gloucester	A	0
 Prosperity Care and Wellbeing	Gloucester	A	0
+Protectoseal Ltd	Greenfield	A	0
 Protein Carbs N Fats Ltd T/A Pepe's Piri Piri Greenock	Greenock	A	0
 Provident Holdings Limited	Gants Hill	A	0
 PRSS Limited	Greenford	A	0
 Pryce & Co Limited	Galashiels	A	0
 PSA Stores t/a Premier Extra	Gedling	A	0
 PSB2 Limited T/A Dakhin	Glasgow	A	0
-PSG CIVILS LTD	Gravesend	A	0
 PT THOMAS & SONS LTD	Grays	A	0
 PTI Soctland Limited	Glasgow	A	0
 Pulp-Tec Limited	Glasgow	A	0
@@ -2571,7 +2570,6 @@ Re-Boot Care Services Ltd	Gloucester	A	0
 Re-Tek UK Limited t/a CITg UK	Glasgow	A	0
 Re:Hope Next Generation Bible Church	Glasgow	A	1,10
 Reading Solutions UK Limited	Gateshead	A	0
-RED ANGEL CATERING LIMITED T/a Shahs Secreto	Guildford	A	0
 RED HOMES HEALTHCARE GRANTHAM LTD	Grantham	A	0
 Red Lion Conveniences	Greater London	A	0
 Red Rhino Crushers (UK) Limited	Grantham	A	0
@@ -2642,6 +2640,7 @@ Rosebud Healthcare Services Ltd	Grays	A	0
 ROSSYCARE LTD	Grays	A	0
 Rosterfy Ltd	Greater London	A	0
 Rothay Garden Hotel Ltd	Grasmere	A	0
+Rowlinson Constructions Ltd	Gatley	A	0
 Roxburgh Street Surgery	Galashiels	A	0
 Royal Conservatoire of Scotland	Glasgow	A	0,3
 Royal Grammar School Guildford	Guildford	A	0,9
@@ -2818,6 +2817,7 @@ SHIVRASH LTD t/a Sea View Gourock	Gourock	A	0
 Shona Care Ltd	Glasgow	A	0
 Shop & Cart Ltd.	Glasgow	A	0
 Shop Smart	Glasgow	A	0
+SHOTTS DENTAL AND IMPLANT CENTRE LTD	Glenrothes	A	0
 Shreeji Associates Limited T/A Best One	Greenford	A	0
 Shri Guru Ravidass Gurdwara Gravesend	Gravesend	A	1,10
 Shri Vaishno Devi Ltd	Glasgow	A	0
@@ -2827,6 +2827,7 @@ SIG Combibloc Ltd	Gateshead	A	0,4
 Sign Language Interactions	Glasgow	A	0
 Signature Medical Limited	Glasgow	A	0
 SIGNET CORPORATION LTD	Grays	A	0
+Silverback Studios Limited	Guildford	A	0
 Silverburn Care Home	Glasgow	A	0
 SilverOak Legal Limited	Greenford	A	0
 Silvershell Integrated Consulting Ltd	Glasgow	A	0
@@ -3244,8 +3245,8 @@ Triogen Ltd	Glasgow	A	0,4
 TRIPLE A AFRICAN FOOD STORE LIMITED	Greenock	A	0
 Trivedi Business Solutions Limited	Greenford	A	0
 Triyit LTD	Glasgow	A	0
-TROPHIES FRAMES & SCREEN PRINTING LTD	Glasgow	A	0
 Tructyre Fleet Management Limited	Gateshead	A	0,4
+Trueinvivo Limited	Guildford	A	0
 Trust Electric Heating	Garforth	A	0
 TrustPharm Limited	Grantham	A	0
 TS Group (PVT) Ltd TA Esquires Coffee	Guildford	A	0
@@ -3257,7 +3258,7 @@ Tubbees Autoport	Glasgow	A	0
 TUKTUK PANASIA LTD	Grays	A	0
 Tulisa Ltd T/A Lilys Kitchen & Bar	Glenavy	A	0
 Turbine Services Limited	Glasgow	A	0
-Turbo Power Systems	Gateshead	A	0,4
+Turbo Power Systems Limited	Gateshead	A	0,4
 TURN UP CARE LIMITED	Gloucester	A	0
 Turner Iceni Ltd	Glasgow	A	0
 Turntide Drives Ltd	Gateshead	A	0
@@ -3438,6 +3439,7 @@ Whyte and Mackay Limited	Glasgow	A	0
 Wildflower Home Care	Godalming	A	0
 Wildfowl & Wetlands Trust	Gloucester	A	0,9
 WildHearts Office Limited	Glasgow	A	0
+Will Rudd Davidson (Glasgow) Limited	Glasgow	A	0
 WILLIAM HYNES GROUP LIMITED	Gateshead	A	0
 Williams Grand Prix Engineering Limited	Grove	A	0,11
 Wilson Leitch LLP	Glasgow	A	0
@@ -3487,7 +3489,6 @@ YOMIK LIMITED	Greenhithe	A	0
 Young Giants Limited	Gerrards Cross	A	0
 Your Shortlist	Glasgow	A	0
 YS CHEN LIMITED	Guildford	A	0
-YT-INDUSTRIES UK LTD	Guildford	A	0
 Z SALOON LTD T/A ZUBAIR'S HAIR SALON	Glasgow	A	0
 Z&K Corporate Ltd	Gloucester	A	0
 Z&K GLOUCESTER LTD	Gloucester	A	0

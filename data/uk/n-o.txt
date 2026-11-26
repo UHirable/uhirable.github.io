@@ -15,6 +15,7 @@
 3AK (Online) Limited	Bradford	A	0
 3AK Online Limited	Bradford	A	0
 3D Coffee (Oadby) Limited T/A Costa Coffee	Dartford	A	0
+45 Gleneagles Close , South Oxhey	Watford	A	0
 7 ES OUTSOURCE LTD	London	A	0
 7 Oaks News & Wine Store	Sevenoaks	A	0
 A & A CORPORATION LTD T/A HOLYBOURNE SHOP & POST OFFICE	Alton	A	0
@@ -189,6 +190,7 @@ Assuric UK Opco Limited	London	A	0
 Astbury Hall Operations Limited	Bridgnorth	A	0
 ASUFA Limited T/A Brook Green News & Post Office	London	A	0
 Atelier One Ltd	London	A	0
+Athena Care (Ormskirk) Limited	Boston	A	0
 Athena Care (Ormskirk) Limited	Lancashire	A	0
 Atlantis Operations (UK) Ltd	London	A	0,4
 Atlassian (UK) Operations Limited	London	A	0
@@ -291,7 +293,6 @@ Bioren Ltd trading as Planet Organic	London	A	0
 Birchgrove Mini Market & Post Office	Swansea	A	0
 Bird On The Wire Events	London	A	3
 Bird Overseas Holdings Limited	London	A	0,4
-BIRDMILK ONE LIMITED	London	A	0
 Birmingham Opera Company	Birmingham	A	3
 Bishop Cleeve Post Office	Cheltenham	A	0
 BISLEY POST OFFICE	Surrey	A	0
@@ -473,7 +474,8 @@ Chinese Overseas Christian Mission	Milton Keynes	A	1,9,10
 Chipstead, Coulsdon and Old Walcountians Cricket Club	Croydon	A	11
 CHITRAVADIVELU THARMASEELAN T/A HERSTMONCEUX POST OFFICE-BUDGENS	Hailsham	A	0
 Choices Homecare (Oldham) Limited	Barnsley	A	0
-CHRIST APOSTOLIC CHURCH DOMINION OUTREACH	Manchester	A	1,10
+CHRIST APOSTOLIC CHURCH - OUTREACH COVENTRY	Coventry	A	1,9
+CHRIST APOSTOLIC CHURCH DOMINION OUTREACH	Bolton	A	1,10
 CHRIST SALVATION MINISTRIES (OVERCOMERS) LIMITED	Manchester	A	1
 CHRIST UNIVERSAL IMPACT OUTREACH MINISTRIES	Eltham	A	1,9,10
 Christian Orthodox Convent of the Annunciation	London	A	1
@@ -755,6 +757,7 @@ Excite OOH Ltd	Manchester	A	0
 Expert Health Limited T/A Lloyds Pharmacy Online Doctor	London	A	0
 EXPERT ONE EMPLOYMENT SERVICES LTD	Accrington	A	0
 Expert Orthodontics Limited	Sandbach	A	0
+EZO UKASSET ONE LIMITED	London	A	0
 F & I Online Ltd t/as Carplus	Borehamwood	A	0
 F.G. Oils	Leeds	A	0
 FA PREMIER STORE OLDHAM LTD	Oldham	A	0
@@ -765,7 +768,7 @@ Falaq Takeaway Ltd TA Omar's Tandoori	Chelmsford	A	0
 Falco Private Office Limited	London	A	0
 Falkirk Spice Ltd T/A Original Chillies	Falkirk	A	0
 Families Outside	Edinburgh	A	0
-Family Office Tax Services LLP	London	A	0
+Family Office Tax LLP	London	A	0
 Far East Orchard UK Management Limited	London	A	0,4
 Fareport Training Organisation Limited	Fareham	A	0
 FAST FOOD OPERATIONS LIMITED T/A MIAMI CRISPY	Manchester	A	0
@@ -830,6 +833,7 @@ G & J Supermarkets Limited T/A OneStop Padda Stores Morriston	Swansea	A	0
 G & K OFF LICENCE LIMITED T/as Budshead General stores	Plymouth	A	0
 G Wooldridge T/A Twelve Oaks Estate	Windlesham	A	11
 G2 Ocean AS PE UK	Kingston Upon Thames	A	0
+G2 Ocean UK Ltd	London	A	0
 GAB Outsourcing Limited	Haywards Heath	A	0
 Gabalfa Post office & Convenience store	Cardiff	A	0
 Gameup Online Ltd	London	A	0
@@ -879,7 +883,6 @@ Goat on the Roof Ltd	Newbury	A	0
 GOD BLESS OVERSEAS LTD	London	A	0
 GODS OWN MEALS LTD	Manchester	A	0
 GOKMAN LTD T/A Olive Tree Restaurant	Northampshire	A	0
-Golden Lay London Limited T/A OptiScale Consulting	London	A	0
 GOLDSTONE ORGANIC FOOD LIMITED	Hove,	A	0
 Good Oaks Ltd	London	A	0
 GOOD ONE DEALS UK PRIVATE LIMITED	Birmingham	A	0
@@ -892,7 +895,6 @@ GPF One Ltd	Watford	A	0
 GPS Health online Ltd	London	A	0
 GR OPERATORS LTD	Swindon	A	0
 GRAINFLOW OPERATIONS LTD	London	A	0
-GRAINGER GLOBAL ONLINE BUSINESS LTD.	London	A	0,4
 GRAND SULTAN ONE LTD	Port Talbot	A	0
 Grange Park Opera	Bishops Sutton	A	3
 Granite Oak Advisors UK Ltd	London	A	0
@@ -912,7 +914,6 @@ Greek Orthodox Archdiocese of Thyateira and Great Britain	London	A	1
 Greek Orthodox Cathedral of the Dormition of Theotokos and Saint Andrew	Birmingham	A	1,10
 Greek Orthodox Church of St. Nicholas Southampton	Southampton	A	1
 Green & Olive Legal Limited	Birmingham	A	0
-GREEN OAKS CARE LIMITED	Rotherham	A	0
 GREEN OCEAN LIMITED T/A BEST ONE.	Manchester	A	0
 Green Olive Care Ltd	Enfield	A	0
 Green Sanderson OpCo Ltd	London	A	0
@@ -1022,7 +1023,6 @@ Honeycroft Post Office	Manningtree	A	0
 Honor Oak Supermarket	London	A	0
 Hope Church Orpington	Orpington,	A	1,9,10
 Hope Vineyard Church Oxford	Oxford	A	0,1,10
-Hopealive Outreach Ministries	Northampton	A	1
 Horsham Visionplus Ltd T/A Specsavers Opticians	Horsham	A	0
 Hotelflex Limited trading as Officely	London	A	0
 Housden & Sjoholm Ltd - trading as Outpost	London	A	0
@@ -1077,7 +1077,6 @@ Indoamerican Refugee and Migrant Organisation	London	A	0
 Industrial Outsourcing Limited	Dudley	A	0
 Indy Off Licence Limited	Little Hulton	A	0
 Infinity Energy Organisation Ltd	Wembley	A	0
-Information Commissioners Office	Wilmslow	A	0
 Inline Orthodontics	Stevenage	A	0
 Inmeals Ltd T/A Rossi's Original	Swansea	A	0
 Inn on the Park (London) Limited doing business as Four Seasons Hotel London	London	A	0,4
@@ -1714,6 +1713,7 @@ Oakdene Hollins Limited	Aylesbury	A	0
 Oakdene Residential Home	Waterlooville	A	0
 OAKDOWN HOUSE LIMITED	Burwash Common Etchingham	A	0
 Oakengates Premier Stores	Oakengates	A	0
+Oakenwoods Group Ltd	Colchester	A	0
 Oakes ElectricalSolutionsLtd	Studley	A	0
 Oakfield Care (Ashtead) Ltd	Ashtead	A	0
 Oakfield Health Centre	Gravesend	A	0
@@ -1723,7 +1723,6 @@ Oakfield Manor Estates Limited	Knutsford	A	0
 Oakfield Nursery School Ltd	Altrincham	A	0
 Oakfield Nursing Home	Preston	A	0
 Oakfield Parkonians Cricket Club	Ilford	A	11
-Oakfield Pharma Ltd	St Helens	A	0
 Oakfield Psychological Services Limited	Altrincham	B	0
 Oakfield Quality Homecare Limited t/a Right at Home Colchester and District	Colchester	A	0
 Oakfield Surgery	Aylesbury	A	0
@@ -1740,6 +1739,7 @@ OAKLAND CAPITAL DEVELOPMENT LTD	The Butts	A	0
 Oakland Central Limited	Chigwell	A	0
 OAKLAND COURT LIMITED	West Sussex	A	0
 OAKLAND GROUP SERVICES LIMITED	Leeds	A	0
+OAKLAND SUPPORT SERVICES LIMITED	Romford	A	0
 Oaklands care hove limited	Hove	B	0
 Oaklands Care Services Limited	Kingston Upon Thames	A	0
 Oaklands College	St Albans	A	0,11
@@ -1881,6 +1881,7 @@ Obayashi Properties UK Limited	London	A	4
 Obcon Solutions Ltd	Crewe	A	0
 OBD GLOBAL LTD	London	A	0
 OBE London Limited	London	A	0,4
+Obee Ltd T/A Bliss Care Home	Southend-On-Sea	A	0
 Obelisk Legal Support Solutions Limited	Aylesbury	A	0
 Obelisk Networks (UK) Ltd	Fareham	A	0
 Oberix Group Ltd	London	A	0,4
@@ -2086,6 +2087,7 @@ Odfjell Technology Ltd	Aberdeen	A	0,4
 ODG Construction, Ltd.	Petts Wood	A	0
 Odhin limited	London	A	0
 ODI Global	London	A	0
+Odicci Limited	London	A	0
 Odin Medical Ltd	London	A	0,12
 Odin Partners Limited	London	A	0
 ODIN PARTNERSHIP LIMITED	London	A	0
@@ -2121,6 +2123,7 @@ OES OILFIELD SERVICES (UK) LIMITED	Stockton-On-Tees	A	0
 Ofcom	London	A	0
 Ofer Investments LTD	London	A	0
 Off Licence Truro Malabar Convenience Store	Truro	A	0
+Off Market Group Limited	London	A	0
 Off Site Solutions (R T) Limited	Highbridge	A	0
 Off The Kerb Productions Ltd	London	A	0,3
 Off the Rock Design Ltd	Edinburgh	A	0
@@ -2177,6 +2180,7 @@ OGGI LTD	Leicester	A	0
 Oghma Partners LLP	London	A	0
 OGI Groundwater Specialists Ltd	Durham	A	0
 Ogier Global (UK) Limited	London	A	0,4
+OGIGCONSULT LTD	Hull	A	0
 Ogilvy & Mathers Group (Holdings) Limited	London	A	0,3,4
 OGL Advisors Limited	London	A	0
 Ogletree Deakins LLP	London	A	0
@@ -2386,7 +2390,7 @@ Olive and Tree Limited	West Bromwich	A	0
 Olive Banquet Ltd T/A Aurum Restaurant	Southend-on-Sea	A	0
 Olive Base Ltd	London	A	0
 Olive Bedford LTD	Bedford	A	0
-OLIVE CARE SOLUTIONS LTD	Peterborough	A	0
+OLIVE CARE SOLUTIONS LTD	Peterborough	B	0
 Olive Farmer Ltd T/A Skewers	London	A	0
 Olive Grove Canterbury Limited T/A Olive Grove	Canterbury	A	0
 OLIVE HEALTH & TRAVEL LTD	London	A	0
@@ -2442,7 +2446,6 @@ OLIZ LTD	London	A	0
 Olleco	Northampton	A	0
 OLLIE CARE ALLIANCE LTD	Manchester	A	0
 Ollie Owl LTD	Chesham	A	0
-Ollie's House Limited	London	A	0
 Ollier Smurthwaite Architects Limited	Manchester	A	0
 Ollies kebab (Lingfield) Ltd	Orpington	A	0
 OLLIEWOOD LIMITED	Brighton	A	0
@@ -2483,7 +2486,6 @@ OM JEWELLERS (LONDON) LTD T/A OM SAI JEWELLERS	Hounslow	A	0
 Om Laxmi Sairam Ltd	Wembley	A	0
 OM LOG (UK) LTD	Brentwood	A	0
 Om Medical Centre	Sheerness	A	0
-Om Mobile Ventures (UK) Limited	London	A	0
 Om Namo Namah Ltd t/a Taste of Kathmandu	Kent	A	0
 OM NSP FOODS LTD	Northampton	A	0
 Om Restaurant Ltd	Aldershot	A	0
@@ -2759,9 +2761,8 @@ One Hotel Limited	Swansea	A	0
 One House Artists Limited	London	A	0,3
 One Investment Management Group UK Ltd	London	A	0,4
 One LDN 360 Limited	London	A	0
-One Life Health Support Ltd t/a Caremark Surrey Heath & Rushmoor	Farnborough	A	0
 One Little Independent Ltd T/A One Little Independent Records	London	A	0
-One London City Limited	London	A	0
+One London City Limited	Barnet	A	0
 One Love Caribbean Restaurant Limited	Romford	A	0
 One Love Kitchen	London	A	0
 One Luxury Group Advisors LLP	London	A	0
@@ -2907,7 +2908,6 @@ Onkohealth Ltd	London	A	0
 ONLINE 24/7 LTD	Corringham	A	0
 Online Account Filing Limited	London	A	0
 ONLINE ACCOUNTANT LTD	London	A	0
-Online Art School Ltd	Danbury	A	0
 Online Business School Limited	Coventry	A	0
 Online Cables (Scotland) Limited	Aberdeen	A	0
 Online Filings Ltd	London	A	0
@@ -2940,6 +2940,7 @@ ONPOINT TRADING LTD	Bolton	A	0
 ONSB LTD T/A LEATHERHEAD POST OFFICE	Leatherhead	A	0
 ONSECURITY TECHNOLOGY LIMITED	Bristol	A	0
 ONSET GLOBAL TRADING UK LTD	London	A	0
+OnSide Youth Zones	Bolton	A	0
 OnSite Support Ltd	Crawley	A	0
 Onstate Limited	Leeds	A	0
 OnStream Group Limited	Essex	A	0
@@ -2965,7 +2966,7 @@ ONTRAX EQUIPMENT LTD	Coleraine	A	0
 Ontro Ltd	London	A	0
 ONUBAFRUIT UK LIMITED	Maidstone	A	0
 Onunda Limited	Carlisle	A	0
-ONVU TECHNOLOGIES LIMITED	London	A	0
+Onvu Technologies Limited	London	A	0
 Onward Hire Ltd	Walsall	A	0
 Onward Technologies Ltd	Birmingham	A	0,4
 ONWAY LDD LTD	Reading	A	0
@@ -2994,6 +2995,7 @@ Ooviya Limited	Northolt	A	0
 OP Dental Ltd	Bretton	A	0
 Op-tec Systems Ltd	Stockport	A	0
 OPA BATH LTD	Bath	A	0
+OPA Group Limited	Bradford	A	0
 Opal Banqueting Ltd	Smethwick	A	0
 Opal BPM Limited	London	A	0
 Opal Care Homes Limited	Birmingham	A	0
@@ -3016,7 +3018,7 @@ Open all Hours	Morecambe	A	0
 Open Arms Care Limited	Faversham	A	0
 OPEN BIONICS LTD	Bristol	A	0
 Open Box Software Limited	Rochester	A	0,4
-Open Cages Advocacy Ltd	Sutton	A	0
+Open Cages Advocacy Ltd	Farnham	A	0
 OPEN CLIMATE FIX LIMITED	London	A	0
 Open College Network London Region	London	A	0
 Open Cosmos Limited	Didcot	A	0,4
@@ -3064,7 +3066,6 @@ OpenAI UK Ltd	London	A	0,4
 OpenBet Limited	London	A	0
 Openborder recruitment Limited	Lanark	A	0
 Opencast Software Europe Limited	Newcastle-Upon-Tyne	A	0
-OPENCOREOS UK LTD	London	A	0,4
 OpenCorporates Ltd	London	A	0
 openDemocracy Limited	London	A	0
 OpenDialog AI Limited	London	A	0
@@ -3211,7 +3212,6 @@ OPTIMAPHARM (UK) LIMITED	Oxford	A	0
 Optimas OE Solutions	Gloucester	A	0,4
 Optimatics LLC	Wood Green	A	0,4
 Optimax Imaging Inspection and Measurement Limited	Market Harborough	A	0
-Optimhouse Limited	Coventry	A	0
 Optimised Care Limited T/A Optimised Care	Bromsgrove	A	0
 Optimised Group Limited	Blackpool	A	0
 Optimised Training Centre	Birmingham	A	0
@@ -3222,6 +3222,7 @@ OPTIMIZE LENS UK LIMITED	Leicester	A	0
 Optimizely Ltd	London	A	0,4
 Optiml London UK Limited	London	A	0
 Optimman Ltd	Glenavy Crumlin	A	0
+OPTIMOVE CLINIC LTD	London	A	0
 Optimove UK LTD	London	A	0,4
 Optimum Care (South) Ltd	Peterborough	A	0
 OPTIMUM CARE GL LIMITED	Barking	A	0
@@ -3339,7 +3340,6 @@ Orange Packaging Limited	London	A	0
 ORANGE PRIVATE LIMITED	Reading	A	0
 Orange Shop Ltd T/A Orange Shop Supermarket	Borehamwood	A	0
 Orange Tree Theatre Ltd	London	A	0
-Orange Tree Trust	London	A	0,3
 ORANGE TWIST LTD	London	A	0
 Orangebox Supermarkets Limited	England	A	0
 Oranmac Limited	Newry	A	0
@@ -3361,6 +3361,7 @@ Orbis Investment Advisory Limited	London	A	0,4
 Orbis Investments (U.K.) Limited	London	A	0,4
 Orbis Partners Limited	Birmingham	A	0
 Orbis Portfolio Management (Europe) LLP	London	A	0,4
+ORBIS SUPPORT LIMITED	North Shields	A	0
 Orbis Support Ltd	North Shields	A	0
 Orbit Cargo Services Ltd	Colnbrook	A	0
 Orbit Discovery Ltd	Oxford	A	0
@@ -3443,10 +3444,10 @@ Orchid NW Ltd TA Zumuku Sushi	Manchester	A	0
 Orchid Private Company Limited	London,	A	0
 Orchid Supported Living Limited	Birmingham	A	0
 Orchid Wellness Limited	Fleet	A	0
-Orchid Woodlands Healthcare Ltd	Manchester	A	0
 Orchids Care Ltd	Doncaster	A	0
 Orchis Living Ltd	Farnborough	A	0
 Orci Trials Limited	Solihull	A	0
+Orcion Systems Limited	Slough	A	0
 Orcom Civvals Limited	London	A	0
 Orcone Care Ltd	Birmingham	A	0
 ORCP GP (UK) Limited	London	A	0
@@ -3476,8 +3477,8 @@ Oregano Limited	London	A	0
 Orege UK Limited	Stoke-on-Trent	A	0,4
 Oregon Care Limited	Redhill	A	0
 Orems Care Services Limited	Glasgow	A	0
-Oremus Accountants Limited	Wirral	A	0,4
 Oremus Dental Ltd	London	A	0
+Oremus Group Limited	Wirral	A	0,4
 Orennia UK Limited	London	A	2
 ORESA LIMITED	Harrogate	A	0
 Orfonyx Bio Ltd	Oxford	A	0
@@ -3517,7 +3518,7 @@ Oriental Bu Trading Ltd	Bicester	A	0
 ORIENTAL CARE 4 YOUR HEALTH LIMITED	Cornwall	A	0
 ORIENTAL CHERRY LIMITED	Leicester	A	0
 Oriental Club (1824) Limited	London	A	0
-ORIENTAL CUSINE LIMITED T/A ORIENTAL CUSINE	London	A	0
+ORIENTAL CUSINE LIMITED T/A ORIENTAL CUSINE	Plaistow	A	0
 Oriental Food Edinburgh Ltd t/a New Fortune Cookie	Edinburgh	A	0
 Oriental Food Express Limited	Shrewsbury	A	0,4
 Oriental Food Fusion Ltd t/a Miyoshi Restaurant	Reigate	A	0
@@ -3549,7 +3550,6 @@ Origin Wine Ltd	Banbury	A	0,4
 Origin3 Ltd	Bristol	A	0
 Original Additions (Beauty Products) Limited	Middlesex	A	0
 Original Animals Limited	London	A	0
-Original Biryaniwala London Limited	Wembley	A	0
 Original BTC	Witney	A	0
 Original Business IT Solutions LTD	Barry	A	0
 Original Field of Architecture Ltd	Oxford	A	0
@@ -3584,7 +3584,7 @@ Orion Health Limited	London	A	0
 Orion Healthcare Ltd	Culford, Bury St Edmunds	A	0
 ORION HEALTHCARE SOLUTIONS LTD	Birmingham	A	0
 Orion Incorporation Ltd T/A halalworld	Birmingham	A	0
-Orion Innovation Solutions UK Limited	Stevenage	A	0
+Orion Innovation Solutions UK Limited	London	A	0
 Orion MIS Limited	Chichester	A	0
 ORION OXFORD OPCO LIMITED TRADING AS Courtyard By Marriott Oxford City Centre	Oxford	A	0
 Orion Pharma (UK) Ltd	Reading	A	0
@@ -3604,6 +3604,7 @@ Orix Accountants Ltd	Newcastle upon Tyne	A	0
 ORIX Corporation UK Limited	London	A	0,4
 Orkney Crab	Stromness	A	0
 Orkney Islands Council	Kirkwall	A	0
+Orla Homes Ltd t/a St Brelades Retirement Homes	Herne Bay, Kent	A	0
 Orlando Refrigeration & Air Conditioning Ltd	Hemel Hempstead	A	0
 Orleans Park School	Twickenham	A	0
 Orlen LNG Trading Limited	London	A	0,4
@@ -3630,6 +3631,7 @@ Ornate I Limited	London	A	0
 Ornate Rugs Ltd	London	A	0
 Orno Limited	Birmingham	A	0
 ORNUA FOODS UK LIMITED	Leek	A	0
+Oro Labs UK Limited	London	A	0,4
 Oromah International Ltd	Bristol	A	0
 Orona Ltd	Sunbury-on-Thames	A	0,4,7
 Orphalan UK Limited	London	A	0
@@ -3696,7 +3698,6 @@ Oryx Re Limited	London	A	0
 OS Builders Merchants Ltd	London	A	0
 OS Comms Limited	Suffolk	A	0
 OS Designs and Partners Limited	London	A	0
-OS Glasgow Limited	Glasgow	A	0
 OS Retail LTD	London	A	0
 OS SOLUTIONS LTD	Bolton	A	0
 OSA Systems ltd	Witney	A	0
@@ -3757,6 +3758,7 @@ OSMANTHUS CARE LTD	Wellingborough	A	0
 Osmaston Grange Care Home Ltd	Belper	A	0
 Osmaston Surgery	Derby	A	0
 OSME EDUCATION LTD	Bromley	A	0
+Osmond Solicitors Limited	London	A	0
 OSMOS SISTEMAS ELECTRICOS UK LTD	London	A	0,4
 Osmosis (Holdings) Limited	London	A	0
 Osmosis ACD Limited	London	A	0
@@ -3937,6 +3939,7 @@ Outverse Limited	London	A	0
 Outward Capital LLP	London	A	0
 Outwood Grange Academies Trust	Wakefield	A	0
 Ouvra Ltd	Sale	A	0
+OV Entertainment Ltd.	London	A	0
 OVAL CARE HOMES LTD	London	A	0
 OVAL CONSORTIUM LIMITED T/A PEPE'S PIRI PIRI	Sheffield	A	0
 Oval Convenience Ltd T/A Premier	Doncaster	A	0
@@ -3972,6 +3975,7 @@ OVERSEAS CAREER GURU LTD	Hounslow	A	0
 Overseas Immigration LTD	Hounslow	A	0
 Overseas Immigration Services UK Ltd	Southall	A	0
 Overseas Interpreting Ltd	London	A	0
+Overseas Interpreting Ltd	Pinner	A	0
 Overseas Tutorial Centre Ltd	London	A	0
 Oversight Board UK	London	A	0
 Overslade care limited T/A Right at Home (Bedford)	Kempston	A	0
@@ -4016,7 +4020,6 @@ OX BRASSERIE LTD	Southampton	A	0
 OX MARKETING LTD	Southsea	A	0
 Ox Mountain Limited	Oxford	A	0,4
 OX PRODUCTS GROUP UK LTD	London	A	0
-Ox Support Services Ltd.	Ascot	A	0
 OX&K LTD	Cwmbran	A	0
 Oxa Autonomy Limited	Oxford	A	0
 Oxalis Games Ltd	London	A	0
@@ -4079,7 +4082,6 @@ Oxford Flow	Oxford	A	0
 OXFORD FRUITS & VEG LTD T/A Oxford Food Service	Oxford	A	0
 Oxford Gene Technology IP Limited	Kidlington	A	0,4
 Oxford Genetics Limited	London	A	0,4
-Oxford Genetics Ltd	Oxford	A	0,4
 Oxford Global Projects UK Limited	Oxford	A	0
 OXFORD GOLDENLINK LIMITED	London	A	0
 Oxford Graduate School Ltd	London	A	0
@@ -4094,6 +4096,7 @@ Oxford House College Training Limited	London	A	0
 Oxford House Community Care	Farnham Royal	A	0
 Oxford House Veterinary Clinic Ltd	Tonypandy	A	0
 Oxford HR	Oxford	A	0
+Oxford Human Capital Incorporated Ltd	Faringdon	A	0
 Oxford Immune Algorithmics Ltd	Reading	A	0
 Oxford Immunotec Limited T/A Revvity	Abingdon	A	0,4
 Oxford Indices Ltd	High Wycombe	A	0
@@ -4147,7 +4150,6 @@ Oxford Semantic Technologies Limited	Oxford	A	0
 Oxford Sigma Limited	Oxford	A	0
 Oxford Space Systems Ltd	Harwell Oxford	A	0
 Oxford Specsavers Limited	Oxford	A	0
-Oxford Stadium Ltd	Oxford	A	11
 Oxford Terrace & Rawling Road Medical Group	Newcastle Upon Tyne	A	0
 Oxford Tiles Limited	Oxford	A	0
 Oxford United Football Club Limited	Oxford	A	0,11
@@ -4173,6 +4175,7 @@ Oxleas NHS Foundation Trust	Dartford	A	0
 Oxley Developments Company Limited	Ulverston	A	0
 OXLOW PHARMACY	Dagenham	A	0
 Oxmit Technologies Limited	Cheadle	A	0
+Oxo Hire Limited	Oxford	A	0
 OXO21 LTD	Windsor	A	0
 Oxoid Limited	Basingstoke	A	0,4
 Oxomoron Ltd	London	A	0
@@ -4455,7 +4458,6 @@ Rookwood Post Office and C & B News	Leeds	A	0
 Rooly Lane Optician	Bradford	A	0
 Root One East Ltd	Edinburgh	A	0
 Rosetta Nail Oundle	Peterborough	A	0
-Rossi (Southend on Sea) Ltd	South Woodham Ferrers	A	0
 ROTHWELL POST OFFICE	Leeds	A	0
 Roughan and O'Donovan UK Limited	Otley	A	0
 Royal College of Obstetricians & Gynaecologists	London	A	0
@@ -4661,7 +4663,7 @@ St Saviour's & St Olave's Church of England School	London	A	0
 St Stephens Visionplus Limited T/A Specsavers Opticians	Norwich	A	0
 ST. ERMIN'S OPERATING (UK) LIMITED	London	A	0
 St. Gregorios Indian (Malankara) Orthodox Church	London	A	1
-St. Luke's Oxford	Oxford	A	0
+St. Luke's Oxford	Oxford	B	0
 Stack Overflow Ltd	London	A	0,4
 STAFF ON SERVICE LIMITED	London	A	0
 Stafford Stores & Post Office	Norwich	A	0
@@ -4730,7 +4732,7 @@ Switched On London Ltd	London	A	0
 SWIX Family Office UK Limited	London	A	0
 Sword of the Spirit Evangelical Outreach	London	A	0
 Syft Online Limited t/a Syft	London	A	0,4
-Syndesi One Limited	Ilford	A	0
+Syndesi One Limited	London	A	0
 Syrian Orthodox Church	London	A	1,10
 T.K. BEST ONE LIMITED	Erith	A	0
 T.SAN LTD T/A BUDGET STORE AND POST OFFICE	Wisbech	A	0
@@ -4827,7 +4829,6 @@ The Oakhaven Trust	Lymington	A	0
 The Oaklands	Mansfield	A	0
 THE OAKS (NEWTOWN) LIMITED	Warrington	A	0
 The Oaks Care Home	Blaydon on Tyne	A	0
-THE OAKS CARE HOME LIMITED	Wigan	A	0
 The Oaks Nursing Home	London	A	0
 The Oaks Partnership	Swanley	A	0
 The Oaks Specialist College	Tonbridge	A	0
@@ -4908,7 +4909,6 @@ The Oratory of St Philip Neri at Birmingham	Birmingham	A	1
 The Oratory Of St. Philip Neri At Cardiff	Cardiff	A	1
 The Oratory Schools Association	Reading	A	0,9
 The Orchard Agency Limited	Manchester	A	0
-The Orchard Media & Events Group	Cardiff	A	0
 THE ORCHARD ORGANISATION LIMITED	Huntingdon	A	0
 The Orchard Practice (AR) Ltd	Borehamwood	A	0
 The Orchard Surgery	Slough	A	0
@@ -4979,7 +4979,6 @@ THE ROYAL OAK WORLESTON LTD	Nantwich	A	0
 The Royal Opera	London	A	0,3
 The Royal Orthopaedic Hospital NHS Foundation Trust	Birmingham	A	0
 The Salted Olive Limited T/A Naira Indian and Bangladeshi Cuisine	Waltham Abbey	A	0
-THE SCALERS OPERATIONS (UK) LTD	London	A	0
 THE SILVER OAK CONSULTANCY LTD	Staines-Upon-Thames,	A	0
 THE STONE OVEN LTD	North Cheam	A	0
 The Store Oxford Limited	London	A	0
@@ -5037,7 +5036,6 @@ Tregynon Post office stores	Newtown	A	0
 TREND ORGANIC LTD	Enfield	A	0
 Trends Online Limited	Broxburn	A	0
 Trendy Brand Outlet Ltd	London	A	0
-Tridev Hospitality Limited TA The Old Bush Bar & Grill	Tipton	A	0
 TRINITY L & P LTD t/a Kentish Town Post Office	London	A	0
 Trinity Open Learning Ltd	London	A	0
 TRNC LONDON REPRESENTATIVE OFFICE	London	A	0,4
@@ -5252,7 +5250,6 @@ Zarina O Cosmetics Limited	London	A	0
 Zeb Office Equipment & Supplies Limited	Stockport	A	0
 ZHANGJI ORIENTAL FOOD LIMITED	Oxford	A	0
 Zion Oil Ltd	Milton keynes	A	0
-ZM Brands Ltd t/a Oodles N'Oodles Coventry	Coventry	A	0
 Zoom Abroad Online Ltd	Hemel Hempstead	A	0
 ZOSH OCCUPATIONAL HEALTH LIMITED	Lancaster	A	0
 ZSK ORGANIC LAND LTD	Cambridge	A	0

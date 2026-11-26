@@ -377,6 +377,7 @@ Aston Shaw Ltd	Norwich	A	0
 ASV LOWESTOFT LIMITED	Norwich	A	0
 ASVY LTD T/A Costcutter	Northolt	A	0
 AT HOME DELIVERY LTD	Norwich	A	0
+AT&T RENTALS LTD	Newtownabbey	A	0
 ATB Group UK Limited	Norwich	A	0,4
 ATC Systems Limited	Newtownabbey	A	0
 Athena Dental Laboratory Limited	Northampton	A	0
@@ -384,7 +385,6 @@ Atkins & Potts Ltd	Newbury	A	0
 Atlanta Healthcare Limited	Norwich	A	0
 Atlantic Trawlers Kilkeel Ltd	Newry	A	0
 Atlas Care Homes Ltd	Newcastle Upon tyne	A	0
-Atlas Health Group Limited	Norwich	A	0
 ATLAS SURVEYS LLP	Newport	A	0
 ATMOSAIR LIMITED	New Malden	A	0
 ATOZUK LTD	New Malden	A	0
@@ -458,7 +458,6 @@ BANGLADESH WELFARE CENTRE NEWBURY	Newbury	A	1
 Banks Co Ltd	Newbury	A	0
 Bar Dona Ltd	North Shields	A	0
 BARAKAH HEALTHCARE LIMITED	Northampton	A	0
-Bargain Grass Limited	Northampton	A	0
 BARKAT HALAL BUTCHERS LIMITED	Nuneaton	A	0
 BARKER SHOES LIMITED	Northants	A	0
 BARN INTERNATIONAL LIMITED	New Addington	A	0
@@ -469,6 +468,7 @@ Barracuda Networks Limited	Nottingham	A	0,4
 BARRATLANTIC LTD	Northbay	A	0
 BARRATT FOODS LIMITED	Northants	A	0
 BARTON VILLA YORK LTD T/A BURTON VILLA GUEST HOUSE	North Yorkshire	A	0
+Basecamp Brews Ltd	Norwich	A	0
 Basford United Football Club Limited	Nottingham	A	11
 Bassaleg Food & Wine Ltd	Newport	A	0
 Batfast Cricket Centres Limited	Nottingham	A	0
@@ -508,7 +508,6 @@ Bells Motor Group Limited	Northampton	A	0
 Bellway Homes Ltd	Newcastle upon Tyne	A	0
 Belton & Duffey West Norfolk Limited	Norfolk	A	0
 Belvoir Healthcare Ltd	Norwich	A	0
-BELVOIR STEAK AND CURRY HOUSE LIMITED	Nottingham,	A	0
 Ben Nock Limited	Newton Abbot	A	0
 Benfield Park Medical Group	Newcastle upon Tyne	A	0
 Bengal 91 Ltd T/A Bayleaf Indian Takeaway	Newport	A	0
@@ -691,7 +690,6 @@ Bussey & Sabberton Bros. Ltd	Norwich	A	0
 Butler Signs	Newbury	A	0
 Buttercross View Dental Practice	Nottingham	A	0
 BW1 Consultants Ltd	Nottingham	A	0
-BW1 Enterprise Group Ltd	Nottingham	A	0
 BWB Consulting Ltd	Nottingham	A	0,4
 BWS International Limited	Northampton	A	0,4
 By Miles Ltd	Norwich	A	0
@@ -799,7 +797,6 @@ Centrax Limited	Newton Abbot	A	0
 Centre 61 Ministries	Newcastle	A	1,9,10
 Centred Chiropractic Limited	Newcastle upon Tyne	A	0
 Cerealto UK Limited	Nottinghamshire	A	0,4
-Ceto AI Limited	Newcastle	A	0
 CFM (UK) Limited	Nottingham	A	0
 Chahal Convenience Limited	Northwich	A	0
 Chaks	Newcastle upon Tyne	A	0
@@ -827,7 +824,6 @@ Cheshire Travel Northwich Ltd	Northwich	A	0
 Chestnut Court Care Home	New Milton	A	0
 Chetwynd Store	Nottingham	A	0
 CHG (Newcastle) Ltd	Newcastle Upon Tyne	A	0
-Chickalicious Ltd	Newcastle upon Tyne	A	0
 Chickenlicious Arnold Limited	Nottingham	A	0
 Children & Adolescents Placement Provisions	Northampton	A	0
 Chilli Hutt	Nottingham	A	0
@@ -953,7 +949,6 @@ CONTROL DISTRIBUTED TRADING UK LTD	Newcastle	A	2
 ConVista Consulting Limited	Nottingham	A	0
 Cooknst Ltd	Norwich	A	0
 Coolways-UK Ltd	Nottingham	A	0
-Coombe Academy Trust	New Malden	A	0
 CooperOstlund ltd	Northampton	A	0
 Copius NI Ltd	Newtownabbey	A	0
 CORA HEALTH LIMITED	Newcastle	A	0
@@ -999,7 +994,6 @@ Cross Street Brasserie Ltd	Newport	A	0
 Crossco (1467) Limited T/A Crowne Plaza Newcastle - Stephenson Quarter by IHG	Newcastle Upon Tyne	A	0
 Crosskeys Foodie Limited	Newport	A	0
 Crossover Care Ltd	Nottingham	A	0
-Crow Events Limited	Northallerton	A	0
 CrowdHouse Energy Limited	Newcastle Upon Tyne	A	0
 Crown Care Holdings Limited	Newcastle upon Tyne	A	0
 CROWN CONVENIENCE	Northampton	A	0
@@ -1165,6 +1159,7 @@ Dozen Donuts Ltd	Nottingham	A	0
 Dr Amin Badr El Din	North Church	A	11
 Dr Matla Medical Aesthetics	Newcastle upon Tyne	A	0
 Dr RR Limited	Newtown	A	0
+Dr's McVerry, McGee & Farnon	Newry	A	0
 Drayton Medical Practice	Norwich	A	0
 Drayton Norwich Ltd T/A Drayton Dental Care	Norwich	A	0
 Dream Burger Ltd T/A Dream Burger	Newcastle upon Tyne	A	0
@@ -1295,7 +1290,6 @@ Empanda Care & Support Ltd CIC	Norwich	A	0
 Empathy Care24 Limited	Northampton	A	0
 Empire Bespoke Foods Limited	Northolt	A	0
 Empire Design and Build Limited	Northwood	A	0
-Empire Logistics Transportation Ltd	Northamptonshire	A	0
 Empresa Limited	Norwich	A	0
 EMS Industries Ltd	Newcastle Under Lyme	A	0
 EN KASSIANIDIS LTD	Nottingham	A	0
@@ -1324,6 +1318,7 @@ Envision Racing	Northamptonshire	A	0
 EOPP LTD.	North Finchley	A	0
 Epicat Ltd	Newcastle Upon Tyne	A	0
 Epos Now Ltd	Norwich	A	0
+Equation	Nottingham	A	0
 EQUINE WORLD LIMITED	Newmarket	A	0
 eResearch Technology Limited	Nottingham	A	0
 Erewash Health Partnership	Nottingham	A	0
@@ -1386,6 +1381,7 @@ EZONE REPAIRS NUNEATON LIMITED	Nuneaton	A	0
 EZY CARS LIMITED	Northampton	A	0
 F C Brown (Steel Equipment) Limited	Newport	A	0,4
 F1 Laser Ltd	Nottingham	A	0
+F37 Foundry Ltd	Northwich	A	0
 FA KEBAB AND PIZZA LIMITED	Newport	A	0
 FAARAH LTD	Newmarket	A	0
 FAIR PRICE CASH N CARRY LTD	Norwich	A	0
@@ -1411,7 +1407,6 @@ FAYMS RETAILS LIMITED	Newcastle upon Tyne	A	0
 Faysha Limited	Northfleet	A	0
 FC Millheath Ltd	Newport	A	0
 FD Technologies Plc	Newry	A	0,4
-FDR Social Care Ltd	Northampton	A	0
 FEARLESS YOUTH ASSOCIATION LTD	Nottingham	A	0
 Feather-Stone Care Limited	Northampton	A	0
 Fedrigoni U.K Limited	Northampton	A	0
@@ -1460,6 +1455,7 @@ flower pack ltd	Newcastle Under Lyme	A	0
 Flowserve GB Limited	Newark	A	0,4
 Fluke (UK) Limited	Norwich	A	0,4
 Flywheel Operations Limited	North Finchley	A	0
+FMCG TRADING LTD	Northampton	A	0
 Focus Caring Services Limited	Norwich	A	0
 Fonde Limited	Nottingham	A	0
 Fone Warehouse Ltd	Northants	A	0
@@ -1783,6 +1779,7 @@ HEBRON HOUSE NURSING HOME LTD	Nairn	A	0
 Heckler & Koch (UK) Limited	Nottingham	A	0
 Hedgehog Lab Limited	Newcastle Upon Tyne	A	0
 HEKSH LIMITED t/a Northwood Convenience Store	Northwood	A	0
+Helix Learning Trust	New Malden	A	0
 Hellesdon Medical Practice	Norwich	A	0
 Hello Beauty Nails Ltd	Northallerton	A	0
 Helly Hansen UK Limited	Nottingham	A	0,4
@@ -1813,7 +1810,6 @@ Hills Premier Polymers Ltd	Nelson	A	0
 Hillside Health Clinics Limited	Nottingham	A	0
 Hilltop Fish Bar	Nottingham	A	0
 Hingham Christian Fellowship	Norwich	A	1
-HistoCyte Laboratories Ltd	Newcastle	A	0
 HistologiX Ltd	Nottingham	A	0
 Hitech EMS Ltd	Newark	A	0
 hks consutlancy group ltd	Nelson	A	0
@@ -1847,7 +1843,6 @@ Honey Crown Bee LTD	Nuneaton	A	0
 Honeydew Healthcare Ltd	Nuneaton	A	0
 Honour Health	Newcastle upon Tyne	A	0
 Hope Fostering Services Ltd	Nottingham	A	0
-Hopealive Outreach Ministries	Northampton	A	1
 Hopkins Coats Associates	Newcastle under Lyme	A	0
 Hopwells Ltd	Nottingham	A	0
 HORIBA MIRA Ltd	Nuneaton	A	0,4
@@ -1893,6 +1888,7 @@ Hyperama PLC	Nottingham	A	0
 Hyson Green Carrington cricket club	Nottingham	A	11
 HYSON GREEN DEVELOPMENTS LIMITED	Nottingham	A	0
 I Fry A&P Ltd	Newcastle Upon Tyne	A	0
+I Hussain & Associates	Nuneaton	A	0
 I S BUILD LIMITED	Nottingham	A	0
 I'm So Good Ltd	Nottingham	A	0
 I.F.P. Forest and Paper Products (UK) Limited	Newbury	A	4
@@ -2063,6 +2059,7 @@ James Cowper LLP	Newbury	A	0
 James Ferguson Racing Ltd	Newmarket	A	0
 James McMiken & Co	Newton Stewart	A	0
 Jamia Hanfia Rezvia Mosque	Newport	A	1,10
+JAMIA ISLAMIA (ISLAMIC STUDIES CENTRE) TRUST	Nuneaton	A	9
 Jamiat Ahl-e-Hadith Nottingham (Masjid Umar)	Nottingham	A	1,10
 Janessa Retail Limited	Northolt	A	0
 Japanese kitchen SORA -Cafe & Izakaya Tapas-	Nottingham	A	0
@@ -2107,6 +2104,7 @@ John & Jessica Dance	Newcastle upon Tyne	A	0
 John Haining	New Port	A	0
 John Lennards Accountants Ltd	Norbury	A	0
 JOHN LILLEY AND GILLIE LTD	North Shields	A	0
+John Pye and Sons Ltd	Nottingham	A	0
 JohnJasper Associates Ltd	Newcastle upon Tyne	A	0
 Johnson & Phillips (Capacitors) Limited	Newport	A	0
 JohnsonHolidays Limited	Nottingham	A	0
@@ -2186,6 +2184,7 @@ Keele University - Human Resources	Newcastle-under-Lyme	A	0,12
 Kehoe Kars LTD	Newry	A	0
 Keith Simpson Associates Ltd	Nottingham	A	0
 Keltone Limited	Northampton	A	0
+KELTONE LTD T/A MOULTON PHARMACY	Northampton	A	0
 Kenilworth Creations LTD	Newcastle Upon Tyne	A	4
 KERALA HUT LTD	Northampton	A	0
 KERR-CARE AT HOME SERVICES LTD	New Malden,Surrey	A	0
@@ -2297,6 +2296,7 @@ Lajawab Grill and Fresh Karahi	Nottingham	A	0
 Lakenham Residential Care Home	Northam	A	0
 Lakeshore Healthcare Limited	Norfolk	A	0
 Laks Shaan Ltd	Newton Abbot	A	0
+LAKSHMI MND LIMITED	Newport	A	0
 LAL BAGAN LTD T/A TAMARIND RESTAURANT	Norwich	A	0
 Lancashire Care Limited	Neston	A	0
 LANCASHIRE MALIK CATERING	Nelson	A	0
@@ -2325,7 +2325,6 @@ Le Pritchitt & Company Limited	Newtownards	A	0
 Leaf.fm, ltd	Newcastle upon Tyne	A	6
 LEATHERICK LIMITED	Northampton	A	0
 Leazes Stores Limited	Newcastle Upon Tyne	A	0
-LEEC Limited	Nottingham	A	0
 Leen View Surgery	Nottingham	A	0
 Leica Biosystems Newcastle Ltd	Newcastle Upon Tyne	A	0,4
 LEICESTER TERRACE HEALTH CARE CENTRE	Northampton	A	0
@@ -2436,6 +2435,7 @@ M. M. YOUNES PROPERTIES LTD	Newcastle Upon Tyne	A	0
 M.A.C. DEVELOPMENTS & CONSTRUCTION LIMITED	Nuneaton	A	0
 M3 Strategic Marketing Ltd	Northampton	A	0
 M5TEC LIMITED	Newton Aycliffe	A	0
+MA ACADEMY LTD	Northampton	A	0
 MA BROS UK LIMITED	Nottingham	A	0
 MA BROTHERS (RETAIL) LIMITED	Newcastle Upon Tyne	A	0
 MA Building Services Nottingham LTD	Nottingham	A	0
@@ -2467,8 +2467,8 @@ Makkah (Nottingham) Ltd	Nottingham	A	0
 Malden Golf Club Members Ltd	New Malden	A	0
 Malden Wanderers Cricket & Lawn Tennis Club	New Malden	A	11
 MALHOTRA CARE HOMES LIMITED	Newcastle	A	0
+Malhotra Family Holdings Limited	Newcastle upon Tyne	A	0
 Malhotra Fin (UK) Limited	Newcastle Upon Tyne	A	0
-Malhotra Group PLC	Newcastle upon Tyne	A	0
 Mana Kau Farming Ltd	Newcastle	A	0
 MANAGER OF BRANDS LTD	Newcastle Upon Tyne	A	0
 Mandeville Dental Centre	Northolt	A	0
@@ -2561,7 +2561,6 @@ MEDINA ACCOUNTANTS LIMITED	Nottingham	A	0
 Medina Chemist Ltd	Nottingham	A	0
 MEDRAF LIMITED	Norwich	A	0
 MEDTECH CORP UK LTD	Nottingham, England	A	0
-Meer & Meer Ltd	Northolt	A	0
 MEGA CCTV Ltd	Newcastle Upon Tyne	A	0
 Mega Gas Services Limited	Nottingham	A	0
 MEGWAY LOGISTICS LTD	Northampton	A	0
@@ -2649,6 +2648,7 @@ MOB (LONDON) LTD	Northampton	A	0
 MOBILE ARENA BRISTOL LIMITED	Newton Abbot	A	0
 MOBILES PLUS REPAIRS LTD	Nottingham	A	0
 Modebest Builders Limited	Northolt	A	0
+MODERN FLEXIBLE PACKAGING LTD	Nottingham	A	0
 Moderncare	Neath	A	0
 MOES SPICE LTD	Newcastle Emlyn	A	0
 MOF Technologies Limited	Newtownabbey	A	0
@@ -2753,7 +2753,6 @@ Nails and Beauty MK Ltd.	Newport Pagnell	A	0
 Nairn Enterprises ltd	Nairn	A	0
 NAIRN HEALTHCARE GROUP	Nairn	A	0
 Nairn Specsavers Limited	Nairn	A	0
-NAK Consulting Services Limited	Northampton	A	0
 Naked Wines	Norwich	A	0
 Nakii Builders Ltd	Nottingham	A	0
 Namaste Lounge Limited TA Namaste Lounge	Northwood	A	0
@@ -2847,8 +2846,7 @@ Newbury College	Newbury	A	0
 Newbury Digital Limited	Newbury	A	0
 Newbury Racecourse	Newbury	A	0
 Newcastle & Hartshill Cricket Club	Newcastle-under-Lyme	A	11
-Newcastle Accountancy Limited	Newcastle upon Tyne	A	0
-NEWCASTLE BUILDING CONSTRUCTION LIMITED	Newcastle Upon Tyne	A	0
+Newcastle Accountancy Limited	Newcastle upon Tyne	B	0
 Newcastle Building Society	Newcastle Upon Tyne	A	0
 Newcastle Central Mosque-Masjid Al Tawhid	Newcastle Upon Tyne	A	1,9
 Newcastle Circus Arts CIC	Newcastle upon Tyne	A	3
@@ -2986,12 +2984,14 @@ NORTHERN FOODS PLUS LIMITED	Nottinghamshire	A	0
 Northern Leaders Trust	Newcastle Upon Tyne	A	0
 Northern Powergrid (Northeast) Limited	Newcastle	A	0
 Northfleet Technology College	Northfleet	A	0
+Northgate School Academy Trust	Northampton	A	0
 Northop Hall Cricket Club	Northop Hall	A	11
 NorthStandard Limited	Newcastle Upon Tyne	A	0,4
 NORTHSTAR RETAIL LTD	Newcastle Upon Tyne	A	0
 Northumbria Forecourts Ltd	Newcastle upon Tyne.	A	0
 Northumbria Healthcare NHS Foundation Trust	Newcastle upon Tyne	A	0
 Northumbria University	Newcastle Upon Tyne	A	0,11,12
+NORTHUMBRIAN CITIZENS ADVICE BUREAU	Northumberland	A	0
 Northwich Foot Clinic Ltd	Northwich	A	0
 Northwood School	Northwood	A	0
 Norton nurses ltd	Northampton	A	0
@@ -3016,6 +3016,7 @@ Nottingham City Transport Ltd	Nottingham	A	0
 Nottingham CityCare Partnership CIC	Nottingham	A	0
 Nottingham College	Nottingham	A	0
 Nottingham Community Housing Association	Nottingham	A	0
+Nottingham Contemporary	Nottingham	A	3
 Nottingham Energy Partnership	Nottingham	A	0
 Nottingham Fish Monger Ltd	Nottingham	A	0
 Nottingham food Corner LTD	Nottingham	A	0
@@ -3135,6 +3136,7 @@ Operation Orphan	Nottingham	A	0,9
 Options Management Ltd	Newcastle -under- Lyme	A	0
 ORANGE ICE CREAM AND DESSERT PARLOUR LTD	Norwich	A	0
 Oranmac Limited	Newry	A	0
+ORBIS SUPPORT LIMITED	North Shields	A	0
 Orbis Support Ltd	North Shields	A	0
 Orbitvu Sales Ltd	Northfield Daventry	A	0
 Orchard Homes Limited	Nottingham	A	0
@@ -3173,7 +3175,6 @@ Pall Mall Medical (Manchester) Limited	Newton-le-Willows	A	0
 Pallet Recycling South Wales Limited	Newport	A	0
 Pamargan Products Ltd	Newtown	A	0,4
 PAMIR HALAL MEAT LIMITED	Newcastle upon Tyne	A	0
-Pamis Care Limited	Northampton	A	0
 Panama Estate Limited	Nottingham	A	0
 Panega Design Ltd	Netherton	A	0
 Pantheon Macroeconomics Ltd	Newcastle Upon Tyne	A	0
@@ -3196,6 +3197,7 @@ PARTS EMPORIUM LTD	Nottingham	A	0
 Parts Pak Ltd	Norwich	A	0
 Passenger Clothing Ltd	New Milton	A	0
 Passion Care Staffing Ltd	Northampton	A	0
+Pasta King Ltd	Newton Abbot	A	0
 Paston Surgery	North Walsham	A	0
 PATCH PLACES LTD	Norwich	A	0
 Patel & Patel Ventures Limited	North Harrow	A	0
@@ -3484,7 +3486,6 @@ Ravjeet Singh Gill	Newport	A	0
 RAZA COMMUNICATIONS LTD	Northampton	A	0
 RAZA GRILL LTD	Nottingham	A	0
 RAZIA FASHION LIMITED	North Oldham	A	0
-RB CHEF LTD	Nottingham	A	0
 RCCG Restoration Chapel	North Shields	A	1,9
 RCMIK HEALTH CARE LTD	Norwich	A	0
 RDA Structure Limited	Nottingham	A	0
@@ -3504,7 +3505,6 @@ Reconnect Care Agency Limited	Nottingham	A	0
 Recover Physiotherapy Ltd	Norwich	A	0
 Recresco Ltd	Nottinghamshire	A	0
 Recruit in Care Ltd	Nottingham	A	0
-RECTORY FARM SUPERMARKET	Northampton	A	0
 Red Box Telecom Ltd t/as Red Dawn Consulting	Northwood	A	0
 Red Chilli Newport Limited T/A Red Chilli Kebab and Grill Bar	Newport	A	0
 RED CHILLI NTH COMPANY LTD	Northallerton	A	0
@@ -3549,7 +3549,6 @@ Respectful Care Nottingham South	Nottingham	A	0
 Response Physiotherapy Limited	Nottingahm	A	0
 Responsive Care Group Ltd	Newark	A	0
 Restaurant Sat Bains Ltd	Nottingham	A	0
-Retail Assist Ltd	Nottingham	A	0
 ReThink Productivity Consulting LTD	Newcastle Under Lyme	A	0
 Revolve Group Limited	Northampton	A	0
 RG, RJ and ER Hamilton	Newry	A	0
@@ -3573,9 +3572,11 @@ Riskbridge Associates Ltd	Nacton	A	0
 RITA TRADING LTD	Nottingham	A	0
 RITHVIK PRIVATE LIMITED	Northampton	A	0
 Ritzi Care Homes Ltd	New Malden	A	0
+River Thame Conservation Trust	Nuneham Courtenay	A	0
 River Veterinary Care	Newcastle Upon Tyne	A	0
 Riverside Hotel	Norwich	A	0
 Riyaan Ltd	Newport	A	0
+RJ McKee & M McKee T/a FV Achilles	Newry	A	0
 RK IT Services Ltd	Newcastle Upon Tyne	A	0
 RK Marketing Ltd	Newry	A	0
 RKS FUTURE LTD.	Newcastle Upon Tyne	A	0
@@ -3747,6 +3748,7 @@ Self Help Nottingham T/A Self Help UK	Nottingham	A	0
 Semy Care Ltd	Norwich	A	0
 Senior Internet Limited	Nottingham	A	0
 Senstronics Ltd	Newton Aycliffe	A	0
+SEOUL BORN LTD	Norwich	A	0
 SEQUENTIAL SERVICES LTD TA AMANS NEWTON	Newton-le-Willows	A	0
 SEREN HEALTHCARE SOLUTIONS LIMITED	Newport	A	0
 Serendip Home Care Limited	New Milton	A	0
@@ -3815,7 +3817,6 @@ SILENT VALLEY FERTILIZERS LTD	Newry	A	0
 Silver House Solutions Limited	Newport Pagnell	A	0
 SILVER PEARL FOODS LTD	Newbury	A	0
 Silverdale & Ryecroft Practice	Newcastle	A	0
-SILVERDALE CARE HOMES LIMITED	Newcastle Under Lyme	A	0
 SIMLA PEPPERS LIMITED	Nuneaton	A	0
 Simpasture Fisheries & Shawarma House	Newton Aycliffe	A	0
 Simplor Ltd	Nottingham	A	0
@@ -3941,7 +3942,6 @@ Sperry Marine B.V. UK Branch	New Malden	A	0,4
 SPICE 4 U (PICKERING) LTD	North Yorkshire	A	0
 SPICE BLUE (NORTHUMPTON) LIMITED T/A ARAMINTAS TANDOORI	Northamptonshire	A	0
 Spice House Notts LTD	Nottingham	A	0
-Spice Island (Shropshire) Ltd	Newport	A	0
 SPICE MARKET LTD	Norfolk	A	0
 Spice Master	Newcastle Upon Tyne	A	0
 Spice of Punjab Ltd T/A Spice of Punjab	Newcastle Upon Tyne	A	0
@@ -4100,7 +4100,6 @@ Swalwell Convenience Store	Newcastle upon Tyne	A	0
 Swardeston Cricket Club CIO	Norwich	A	11
 Sweet Hope House Limited	Nottingham	A	0
 Swift Certification Limited	Nottingham	A	0
-Swinnerton Trust	Nuneaton	A	0
 SYED PROPERTY LTD	Nottingham	A	0
 Sygnature Discovery Limited	Nottingham	A	0
 SYMBIOTEC LTD	Nottingham	A	0
@@ -4212,6 +4211,7 @@ THE CAKEBOX NORTHAMPTON LIMITED	Northampton	A	0
 The Calcutta Club Limited TA Calcutta Club	Nottingham	A	0
 THE CAPTAIN TABLE BELFAST LTD./ THE CAPTAIN	Newtownabbey	A	0
 THE COMPATRIOT LTD	Nottingham	A	0
+The Compleat Food Group (Holdings) Limited	Nottingham	A	0
 The Corner Shop - Rectory Farm Ltd	Northampton	A	0
 The Cornershop G S Ltd	Newcastle Upon Tyne	A	0
 The Cotswold Company	Norwich	A	0
@@ -4272,6 +4272,7 @@ The Northampton Roman Catholic Diocesan Trust	Northampton	A	0,1,9,10
 The Northwood and Pinner Liberal Synagogue (The Ark Synagogue)	Northwood	A	1
 The Notts & Arnold Amateur Cricket Club	Nottingham	A	11
 The NSB Trust	Northampton	A	0
+The Nuclear House Limited	Norwich	A	0
 The Onyx Link Foundation	Newport	A	0
 The Orignal Pizza Palace Ltd T/A Papa Johns Norwich	Norwich	A	0
 The Paddocks Care Home LTD	Norfolk	A	0
@@ -4320,7 +4321,6 @@ The University of Nottingham Health Service	Nottingham	A	0
 THE VALLEY JUNCTION 397 LIMITED	Newcastle upon Tyne	A	0
 The Village Surgery	Newcastle under Lyme	A	0
 The Watch Juice Limited	Nottingham	A	0
-THE WATLING INN LIMITED	Nuneaton	A	0
 THE WHISTLEDOWN INN LTD	Newry	A	0
 The White Furniture Company Limited	Northampton	A	0
 The White House Nursing Home Limited	New Malden	A	0
@@ -4554,7 +4554,6 @@ Vinal Limited t/a Jimmy's Store	Northampton	A	0
 Vine Thai Ltd	Norwich	A	0
 VIPER RF Limited	Newton Aycliffe	A	0
 VIRGO TECH LTD	Northampton	A	0
-Viritech Ltd	Nuneaton	A	0
 Virtual Programming Limited	Newport Pagnell	A	0
 VIS Ventilation industrial Systems	Northampton	A	0
 Vishay Newport Limited	Newport	A	0
@@ -4569,7 +4568,6 @@ VITAL LIMITED	Norwich	A	0
 Vithiya Ltd	Norwich	A	0
 VIVID PETROLEUM LTD	Northolt	A	0
 VIVO MEDICAL CARE LTD	Northwood	A	0
-VK International Limited	Newark	A	0
 VKV Enterprise Limited	New Basford, Nottingham	A	0
 VMD SOLICITORS LTD	North Finchley	A	0
 Vodafone Group Services Limited	Newbury	A	0,4,7
@@ -4612,11 +4610,11 @@ WATZ LTD	Nottingham	A	0
 Wave Direct Limited	Newcastle Upon Tyne	A	0
 Way Ahead Group LTD	Nottingham	A	0
 Wayforward Specialist Support Services LTD	Newton Abbot	A	0
-Ways to Wellness Foundation	Newcastle upon Tyne	A	0
 Wazobia Africa Ltd	Newcastle Upon Tyne	A	0
 WBW Solicitors LLP	Newton Abbot	A	0
 WE ARE ALIVE STUDIO LTD	Nottingham	A	0
 WE CARE NOTTINGHAM LIMITED	Nottingham	A	0
+WE3 Services Limited	Norwich	A	0
 Weatherbys Bank Limited	Northamptonshire	A	0
 Weatherbys Ltd	Northamptonshire	A	0
 Weatherstones House Care ltd	Neston	A	0
@@ -4715,7 +4713,6 @@ Xylem Water Services Ltd	Nottingham	A	0,4
 Yanis Support and Care Provisions	Norwich	A	0
 Yesss (B) Electrical Ltd	Normanton	A	0
 Yet2.com Europe Limited	Nottingham	A	0
-YMCA Norfolk	Norwich	A	0
 YOGANJALI CONSULTANCY SERVICES LTD	Newport	A	0
 Yorkare Homes (Rawcliffe) Ltd	Near Brough	A	0
 YOUR CHOICE DEVON LTD	Newton Abbot	A	0
