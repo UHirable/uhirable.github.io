@@ -35,20 +35,20 @@ body = (GD +
         '          <h2>Visas that need an accredited employer</h2>\n'
         '          <ul><li>Accredited Employer Work Visa (AEWV)</li><li>Care Workforce Work to Residence Visa</li><li>Skilled Migrant Category Resident Visa</li></ul>\n'
         '          {FAQ}\n          '
-        '<h2>Sources</h2><ul class="gd-src">'
+        '<h2>Sources</h2><ul class="gd-src"><li><a href="https://fyi.org.nz/request/31078-updated-list-of-accredited-employers-under-aewv" target="_blank" rel="noopener">Immigration New Zealand: accredited employer list released under the Official Information Act (as at 2 June 2025)</a></li>'
         f'<li><a href="{TOOL}" target="_blank" rel="noopener">Immigration New Zealand: Accredited employer list (search tool)</a></li>'
         '<li><a href="https://www.immigration.govt.nz/aewv" target="_blank" rel="noopener">Immigration New Zealand: Accredited Employer Work Visa</a></li>'
         '<li><a href="https://www.immigration.govt.nz/about-us/news-centre/accredited-employer-work-visa-aewv-key-information-and-statistics" target="_blank" rel="noopener">Immigration New Zealand: AEWV key information and statistics</a></li></ul>\n'
         '          <p class="gd-src">U Hirable is not connected to Immigration New Zealand.</p>\n' + GD_END)
 faq = [
-    ("Is there a list of accredited employers in New Zealand?", "Immigration New Zealand has an official search tool, updated daily, where you check an employer by company name, trading name or NZBN."),
+    ("Is there a list of accredited employers in New Zealand?", "Yes. Immigration New Zealand's official accredited employer list is a search tool, updated daily, where you check one employer at a time by company name, trading name or NZBN. There is no full list to download: the last full list Immigration New Zealand released, under an Official Information Act request, was dated 2 June 2025 and is out of date now."),
     ("How many accredited employers are there in New Zealand?", "More than 28,000, according to Immigration New Zealand figures from March 2026."),
     ("What job offer do I need for the Accredited Employer Work Visa?", "A full-time offer of at least 30 hours a week from an accredited employer that has an approved job."),
     ("How long can I stay on an Accredited Employer Work Visa?", "Up to 5 years, based on the job offered."),
     ("An employer is not in the search tool. Is it not accredited?", "Not always. Employers can choose not to have their accreditation published, so ask the employer directly."),
 ]
 out = render(shell("uk-visa-sponsors.html"), NZ, f"New Zealand Accredited Employers ({YEAR}): How to Check an Employer",
-             "How to check if a New Zealand employer is accredited to hire you from overseas, with the official search tool and the Accredited Employer Work Visa rules.",
+             "The official list of accredited employers in New Zealand, and how to check an employer for the Accredited Employer Work Visa (AEWV) before you accept a job offer.",
              "Official INZ search", "New Zealand accredited employers", "How to check if a New Zealand employer can hire you from overseas.", body, faq,
              [("Home", ""), ("New Zealand accredited employers", NZ)], TODAY, TODAY)
 open(NZ, "w", encoding="utf-8", newline="\n").write(out)

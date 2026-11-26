@@ -5,8 +5,8 @@ import re, json
 SRC = "uk-nurse-visa-sponsorship-jobs.html"
 OUT = "care-homes-with-visa-sponsorship-uk.html"
 DATE = "2026-11-22"
-TITLE = "Care Homes with Visa Sponsorship in the UK: What Is Still Open"
-DESC = "Care worker visa sponsorship from outside the UK closed on 22 July 2025. See who can still be sponsored, the 2028 deadline, and live nursing jobs that mention sponsorship."
+TITLE = "Care Homes with Visa Sponsorship UK (2026): Rules and Search by Town"
+DESC = "Care homes with visa sponsorship in 2026: who can still be sponsored, the 2028 deadline, and how to search licensed sponsors by town, like Portsmouth, Bolton or Hull."
 H1 = "Care homes with visa sponsorship in the UK"
 
 FAQ = [

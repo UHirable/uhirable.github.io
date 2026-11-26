@@ -228,6 +228,15 @@
   })();
   const u = new URLSearchParams(location.search); if (u.get("country") && [...sel.options].some((o) => o.value === u.get("country"))) { sel.value = u.get("country"); sel.dispatchEvent(new Event("change")); }
   if (u.get("q")) { box.value = u.get("q"); box.dispatchEvent(new Event("input", { bubbles: true })); }
-  if (!ran && !u.get("q")) live(true); /* nothing above has started a search yet ("All countries"): start one, so the Careerjet box is there */
+  const startAll = () => { if (!ran && !u.get("q")) live(true); }; /* nothing above has started a search yet ("All countries"): start one, so the Careerjet box is there */
+  // Opened with no country and no keyword: start on the visitor's own country when WhatJobs covers it,
+  // because WhatJobs pays only for clicks from people in the job's country. The visitor can still pick "All countries".
+  if (!u.get("country") && !u.get("q") && sel.value === "all") {
+    visitorCc().then((cc) => {
+      const name = window.UHVisitor && UHVisitor.country;
+      if (cc && !ran && sel.value === "all" && window.UHWJF && UHWJF.has(cc) && name && hasOpt(name)) setCountry(name);
+      startAll();
+    });
+  } else startAll();
   document.addEventListener("click", (e) => { const a = e.target.closest && e.target.closest("a[data-src]"); if (!a || !a.dataset.src) return; try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "out/" + a.dataset.src, title: "Job click: " + a.dataset.src, event: true }); } catch (x) {} });
 })();

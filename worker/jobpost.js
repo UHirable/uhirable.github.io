@@ -153,9 +153,39 @@ const paragraphs = (t) => String(t).split(/\n{2,}/).map((p) => "<p>" + esc(p).re
 const inScript = (v) => JSON.stringify(v).replace(/</g, "\\u003c").replace(/\u2028/g, "\\u2028").replace(/\u2029/g, "\\u2029");
 const place = (j) => (j.workplace === "Remote" ? "Remote, " + j.country : [j.city, j.country].filter(Boolean).join(", "));
 
+// Reads the salary the employer wrote ("USD $15/hour", "₱32,000–₱37,000 per month", "£40k - £50k a year") into Google's baseSalary.
+// Returns null when the text has no clear currency, amount and period: a guessed salary is worse than none.
+const CUR = [["USD", /\bUSD\b|US\$|\$/], ["GBP", /\bGBP\b|£/], ["EUR", /\bEUR\b|€/], ["PHP", /\bPHP\b|₱/], ["CAD", /\bCAD\b|C\$/], ["AUD", /\bAUD\b|A\$/],
+  ["INR", /\bINR\b|₹/], ["AED", /\bAED\b/], ["SAR", /\bSAR\b/], ["EGP", /\bEGP\b|E£/], ["NGN", /\bNGN\b|₦/], ["KES", /\bKES\b/], ["ZAR", /\bZAR\b/], ["PKR", /\bPKR\b/]];
+const UNIT = [["HOUR", /hour|hr\b|\/h\b/i], ["DAY", /\bday|daily/i], ["WEEK", /week/i], ["MONTH", /month|\/mo\b/i], ["YEAR", /year|annual|annum|\/yr\b|p\.a\./i]];
+function baseSalary(raw) {
+  const t = String(raw || "");
+  if (!t) return null;
+  // Canadian, Australian and "E£" signs are checked before the plain $ and £.
+  const order = ["CAD", "AUD", "EGP", "USD", "GBP", "EUR", "PHP", "INR", "AED", "SAR", "NGN", "KES", "ZAR", "PKR"];
+  const cur = order.map((c) => CUR.find((x) => x[0] === c)).find((x) => x[1].test(t));
+  const unit = UNIT.find((x) => x[1].test(t));
+  if (!cur || !unit) return null;
+  // Only the first amount or range counts; later numbers are bonuses or notes ("plus up to three $15 bonuses").
+  const m = t.match(/(\d[\d,]*(?:\.\d+)?)\s*(k)?(?:[^\d]{0,12}?[-–—]|\s+to\s+)[^\d]{0,6}(\d[\d,]*(?:\.\d+)?)\s*(k)?/i) || t.match(/(\d[\d,]*(?:\.\d+)?)\s*(k)?/i);
+  if (!m) return null;
+  const num = (v, k) => (v ? parseFloat(v.replace(/,/g, "")) * (k ? 1000 : 1) : null);
+  const lo = num(m[1], m[2]), hi = m[3] ? num(m[3], m[4] || m[2]) : null;
+  if (!(lo > 0) || (hi !== null && !(hi >= lo))) return null;
+  const value = { "@type": "QuantitativeValue", unitText: unit[0] };
+  if (hi && hi !== lo) { value.minValue = lo; value.maxValue = hi; } else value.value = lo;
+  return { "@type": "MonetaryAmount", currency: cur[0], value };
+}
+// Employer posts stay live until the employer asks for removal, so the end date always sits 60 days after the day the page is read.
+const validThrough = () => new Date(Date.now() + 60 * 864e5).toISOString().slice(0, 10) + "T23:59";
+export const _test = { baseSalary };
+
 function jobPosting(j, pageUrl) {
   const ld = { "@context": "https://schema.org/", "@type": "JobPosting", title: j.title, description: paragraphs(j.description), datePosted: j.posted,
+    validThrough: validThrough(),
     employmentType: LD_TYPE[j.type], hiringOrganization: { "@type": "Organization", name: j.company, ...(j.website ? { sameAs: j.website } : {}) }, url: pageUrl, directApply: false };
+  const pay = baseSalary(j.salary);
+  if (pay) ld.baseSalary = pay;
   if (j.workplace === "Remote") { ld.jobLocationType = "TELECOMMUTE"; ld.applicantLocationRequirements = { "@type": "Country", name: j.country }; }
   else ld.jobLocation = { "@type": "Place", address: { "@type": "PostalAddress", addressLocality: j.city, addressCountry: j.country } };
   return ld;
