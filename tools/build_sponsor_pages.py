@@ -13,7 +13,7 @@ def tcase(s):
     return " ".join(w if (w.lower() in _SMALL and i) or w.isupper() else w[:1].upper() + w[1:] for i, w in enumerate(s.split()))
 
 SITE = "https://uhirable.com/"
-CSS_V = "84"
+CSS_V = "98"
 esc = html.escape
 MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 
@@ -77,7 +77,9 @@ def render(sh, fname, title, desc, eyebrow, h1, sub, body, faq, crumbs, modified
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="627">
   <meta name="twitter:card" content="summary_large_image">
-  <link rel="icon" href="favicon.png">
+  <link rel="icon" href="favicon.png" sizes="192x192" type="image/png">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="preload" href="fonts/plus-jakarta-sans.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="style.css?v={CSS_V}">
   <script type="application/ld+json">{json.dumps({"@context": "https://schema.org", "@graph": graph}, ensure_ascii=False)}</script>
@@ -118,8 +120,11 @@ def link_list(items):
 UK_CITIES = ["London", "Birmingham", "Manchester", "Leicester", "Glasgow", "Bristol", "Edinburgh", "Leeds", "Nottingham", "Reading",
              "Coventry", "Slough", "Cambridge", "Milton Keynes", "Liverpool", "Bradford", "Luton", "Sheffield", "Oxford", "Cardiff",
              "Bolton", "Southampton", "Belfast", "Croydon", "Derby", "Northampton", "Aberdeen", "Wolverhampton", "Newcastle upon Tyne", "Brighton",
-             "Preston", "Peterborough", "Norwich", "Oldham", "Walsall", "Bedford", "Swindon", "York"]
-UK_ALIAS = {"newcastle upon tyne": {"newcastle upon tyne", "newcastle-upon-tyne", "newcastle"}, "brighton": {"brighton", "brighton and hove", "brighton & hove"}}
+             "Preston", "Peterborough", "Norwich", "Oldham", "Walsall", "Bedford", "Swindon", "York",
+             "Ilford", "Harrow", "Watford", "Hounslow", "Romford", "Southall", "Hayes", "Wembley", "Uxbridge", "High Wycombe",
+             "Huddersfield", "Blackburn", "Barking", "Stockport", "Colchester", "Cheltenham", "Dagenham", "Rochdale", "Swansea", "Portsmouth",
+             "Bournemouth", "Guildford", "Warrington", "Dartford", "Gloucester", "Salford", "Hull", "Solihull"]
+UK_ALIAS = {"newcastle upon tyne": {"newcastle upon tyne", "newcastle-upon-tyne", "newcastle"}, "brighton": {"brighton", "brighton and hove", "brighton & hove"}, "hull": {"hull", "kingston upon hull", "kingston-upon-hull"}}
 UK_GROUPS = [
     ("NHS, hospitals and health", r"\bnhs\b|hospital|health board|healthcare|\bhealth\b|medical|clinic|pharmac|dental"),
     ("Care homes and home care", r"\bcare\b|\bcaring\b|nursing home|homecare|care home|residential home"),
@@ -345,6 +350,62 @@ def uk_az(rows, routes, sw, meta, sh, sitemap):
 
 
 
+UK_NEW = "uk-visa-sponsors-new.html"
+
+
+def uk_new(sh, sitemap, cities):
+    """New on the register since the last refresh (data/uk/changes.json from tools/uk_changes.py)."""
+    if not os.path.exists("data/uk/changes.json"):
+        return ""
+    ch = json.load(open("data/uk/changes.json", encoding="utf-8"))
+    routes = ch["routes"]
+    sw = routes.index("Skilled Worker")
+    add, rem = ch["added"], ch["removed"]
+    if not add:
+        return ""
+    d1, d2 = nice_date(ch["from"]), nice_date(ch["to"])
+    mon = MONTHS[int(ch["to"][5:7]) - 1] + " " + ch["to"][:4]
+    n_sw = sum(1 for r in add if str(sw) in r[3].split(","))
+    towns = collections.Counter(tcase(r[1].lower()) for r in add if r[1].strip())
+    top_t = [t for t, _ in towns.most_common(3)]
+    where = (" Most are in " + ", ".join(top_t[:-1]) + " and " + top_t[-1] + ".") if len(top_t) > 2 else ""
+    ul = lambda lst: '<ul class="spc-list">' + "".join(uk_item_city(r, routes, sw) for r in lst) + "</ul>"
+    body = (GD +
+            f'          <p class="gd-answer">{num(len(add))} organisations were added to the Home Office register of licensed sponsors between {d1} and {d2}, and {num(n_sw)} of them can sponsor the Skilled Worker visa.{esc(where)} A new licence often means the employer is planning to hire from abroad.</p>\n'
+            f'          <p class="sp-switch"><a href="uk-visa-sponsors.html">Search all of the UK</a><a href="canada-lmia-employers.html">Canada</a></p>\n'
+            f'          <p class="gd-note"><b>A licence is not a job offer.</b> Being on the register means the employer is allowed to sponsor. It does not mean it is hiring now, or that a particular vacancy comes with sponsorship. Always check the job ad or ask the employer.</p>\n'
+            f'          <h2>New licensed sponsors, {esc(d1)} to {esc(d2)}</h2>\n'
+            f'          <p>Names are shown as the Home Office lists them, with the town or city the organisation registered. A note in italics shows a rating other than A, or a route other than Skilled Worker.</p>\n'
+            f'          {ul(add)}\n' +
+            GD_END +
+            jobs_block("uk", "visa sponsorship", "", "Live visa sponsorship jobs in the UK", "Check each advert for visa sponsorship before you apply.", "uk-sponsors-new") +
+            GD +
+            (f'          <h2>No longer on the register ({num(len(rem))})</h2>\n          <p>These names were on the register on {esc(d1)} and are not on it on {esc(d2)}. A licence can end because it was revoked, surrendered or expired, or the organisation changed its name. The register does not say which.</p>\n'
+             f'          <details class="spc-all"><summary>Show or hide the list</summary>{ul(rem)}</details>\n' if rem else "") +
+            f'          <h2>How to use this list</h2>\n          <ol class="gd-steps">\n'
+            f'            <li><b>Look for vacancies on each employer\'s own careers page.</b> New sponsors are often hiring for the roles they got the licence for.</li>\n'
+            f'            <li><b>Check the route.</b> For most long-term jobs you need an employer licensed for Skilled Worker.</li>\n'
+            f'            <li><b>Confirm on GOV.UK.</b> The register changes every working day. Check the official file before you rely on a name here.</li>\n          </ol>\n'
+            f'          {{FAQ}}\n'
+            f'          <h2>Sponsors by UK city</h2>\n          {link_list(cities)}\n'
+            f'          <h2>Sources</h2><ul class="gd-src"><li><a href="{UK_SRC}" target="_blank" rel="noopener">GOV.UK: Register of licensed sponsors: workers (Home Office)</a></li></ul>\n'
+            f'          <p class="gd-src">Contains public sector information licensed under the Open Government Licence v3.0. U Hirable is not connected to the Home Office. We compare the official file at the start of every month and update this page.</p>\n' +
+            GD_END)
+    faq = [
+        (f"Which companies became UK visa sponsors in {mon}?", f"{num(len(add))} organisations joined the Home Office register of licensed sponsors between {d1} and {d2}. They are all listed on this page."),
+        ("Does a new sponsor have jobs with sponsorship right now?", "Not necessarily. The register shows who is allowed to sponsor workers. It does not show vacancies, so check each employer's careers page and the job advert."),
+        ("How often is this page updated?", "At the start of every month, from the official GOV.UK file. The Home Office itself updates the register every working day."),
+    ]
+    out = render(sh, UK_NEW, f"New UK Visa Sponsors ({mon}): {num(len(add))} Companies Added",
+                 f"{num(len(add))} companies added to the UK register of licensed sponsors between {d1} and {d2}, with their town and visa route. Free, from the official Home Office file.",
+                 "New on the official register", f"New UK visa sponsors: {mon}", f"Companies that got a UK sponsor licence between {d1} and {d2}.", body, faq,
+                 [("Home", ""), ("UK visa sponsorship companies", "uk-visa-sponsors.html"), ("New sponsors", UK_NEW)], ch["to"], published="2026-11-26")
+    open(UK_NEW, "w", encoding="utf-8", newline="\n").write(out)
+    sitemap[UK_NEW] = ch["to"]
+    print("UK: new sponsors page, %d added, %d removed" % (len(add), len(rem)))
+    return (f'<h2>New sponsors this month</h2>\n          <p><a href="{UK_NEW}">{num(len(add))} organisations added to the register between {esc(d1)} and {esc(d2)}</a></p>\n          ')
+
+
 def build_uk(sitemap):
     meta = json.load(open("data/uk/meta.json", encoding="utf-8"))
     routes = meta["routes"]
@@ -435,7 +496,8 @@ def build_uk(sitemap):
         sitemap[fname] = max(meta["updated"], "2026-11-12")
     care, sectors = [], []  # name-based care-home and sector pages removed: the register has no sector field
     letters, n_az = uk_az(rows, routes, sw, meta, sh, sitemap)
-    browse = ('<h2>Browse sponsors by city</h2>\n          <p>Full pages for the UK cities with the most licensed sponsors.</p>\n          ' +
+    new_link = uk_new(sh, sitemap, [(c, f) for c, f, n in done])
+    browse = (new_link + '<h2>Browse sponsors by city</h2>\n          <p>Full pages for the UK cities with the most licensed sponsors.</p>\n          ' +
               link_list([(f"{c} ({num(n)})", f) for c, f, n in done]) +
               '\n          <h2>The full register, A to Z</h2>\n          ' + link_list(letters))
     print("UK: %d sector pages, %d care-by-city pages, %d A to Z pages" % (len(sectors), len(care), n_az))

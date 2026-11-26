@@ -4,6 +4,7 @@
 # It changes files under data/, the pages built from that data (uk-visa-sponsors-*.html,
 # canada-lmia-employers-*.html, us-h1b-sponsors*.html, the browse block on the hub pages) and their sitemap lines.
 # It never edits any other page, design or text.
+# It also writes data/uk/changes.json and the page uk-visa-sponsors-new.html (new sponsors since the last refresh).
 # Runs on the 1st of every month, or manually from Actions > Sponsor data > Run workflow.
 name: Sponsor data
 on:
@@ -26,7 +27,10 @@ jobs:
       - name: Build data from the official files
         run: |
           pip install -q openpyxl
+          mkdir -p /tmp/uk-before && cp data/uk/c-*.txt data/uk/meta.json /tmp/uk-before/
           python3 tools/build_sponsor_data.py
+      - name: Find organisations added to and removed from the UK register
+        run: python3 tools/uk_changes.py /tmp/uk-before
       - name: Download the US H-1B (LCA) disclosure files and rebuild data/us
         run: python3 tools/build_h1b_data.py
       - name: Rebuild the city, province and job pages from the data
