@@ -4,7 +4,7 @@
   const API = "https://uhirable-jobs.amel-moussa10.workers.dev/";
   const JOOBLE = false; // Jooble jobs are switched off until its paid programme is agreed. Set to true to bring them back: the worker and its keys are untouched.
 
-  const CC = { "United States": "us", "Egypt": "eg", "Bahrain": "bh", "Kuwait": "kw", "Qatar": "qa", "Saudi Arabia": "sa", "United Arab Emirates": "ae", "United Kingdom": "uk", "Canada": "ca", "Germany": "de", "India": "in", "Pakistan": "pk", "South Africa": "za", "Spain": "es", "Philippines": "ph", "Indonesia": "id", "Kenya": "ke", "Oman": "om", "Sri Lanka": "lk", "Uganda": "ug", "Nigeria": "ng", "Australia": "au", "France": "fr", "Netherlands": "nl", "Ireland": "ie", "Singapore": "sg", "Malaysia": "my", "Brazil": "br", "Belgium": "be", "Argentina": "ar", "Portugal": "pt", "Mexico": "mx", "Greece": "gr" };
+  const CC = { "United States": "us", "Egypt": "eg", "Bahrain": "bh", "Kuwait": "kw", "Qatar": "qa", "Saudi Arabia": "sa", "United Arab Emirates": "ae", "United Kingdom": "uk", "Canada": "ca", "Germany": "de", "India": "in", "Pakistan": "pk", "South Africa": "za", "Spain": "es", "Philippines": "ph", "Indonesia": "id", "Kenya": "ke", "Oman": "om", "Sri Lanka": "lk", "Uganda": "ug", "Nigeria": "ng", "Australia": "au", "France": "fr", "Netherlands": "nl", "Ireland": "ie", "Singapore": "sg", "Malaysia": "my", "Brazil": "br", "Belgium": "be", "Argentina": "ar", "Portugal": "pt", "Mexico": "mx", "Greece": "gr", "Morocco": "ma" };
   const ORDER = ["United Arab Emirates", "Saudi Arabia", "Qatar", "Kuwait", "Bahrain", "Egypt", "United Kingdom", "Canada", "Germany"];
   const $ = (s) => document.querySelector(s);
   const esc = (t) => String(t || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
@@ -121,7 +121,7 @@
   const ALL_CCS = ["uk", "ca", "ae", "de", "in", "za", "eg", "nl", "es", "ph"];
   const visitorCc = () => new Promise((ok) => {
     if (window.UHVisitor !== undefined) return ok(window.UHVisitor ? UHVisitor.cc : "");
-    const sc = document.createElement("script"); sc.src = "next-step.js?v=9"; sc.onload = () => ok(window.UHVisitor ? UHVisitor.cc : ""); sc.onerror = () => ok(""); document.head.appendChild(sc);
+    const sc = document.createElement("script"); sc.src = "next-step.js?v=10"; sc.onload = () => ok(window.UHVisitor ? UHVisitor.cc : ""); sc.onerror = () => ok(""); document.head.appendChild(sc);
   });
   async function liveAll(kw) {
     const my = ++seq; page = 1; wjPage = 1; wjDone = true; total = 0; shown = 0; list.innerHTML = "";

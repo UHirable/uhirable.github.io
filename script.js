@@ -307,7 +307,7 @@ if (list && typeof JOBS !== "undefined") {
 function addSimilarJobs(title, countries) {
   if (document.getElementById("cv-jobs")) return;
   // The block opens on the job's own country (the first one listed), not on the visitor's country.
-  const CC = { "United States": "us", "United Kingdom": "uk", "Canada": "ca", "Germany": "de", "UAE": "ae", "United Arab Emirates": "ae", "Saudi Arabia": "sa", "Qatar": "qa", "Kuwait": "kw", "Bahrain": "bh", "Egypt": "eg", "India": "in", "Pakistan": "pk", "South Africa": "za", "Spain": "es", "Philippines": "ph", "Indonesia": "id", "Kenya": "ke", "France": "fr", "Netherlands": "nl", "Belgium": "be", "Portugal": "pt", "Brazil": "br", "Mexico": "mx", "Argentina": "ar", "Oman": "om", "Uganda": "ug", "Greece": "gr" };
+  const CC = { "United States": "us", "United Kingdom": "uk", "Canada": "ca", "Germany": "de", "UAE": "ae", "United Arab Emirates": "ae", "Saudi Arabia": "sa", "Qatar": "qa", "Kuwait": "kw", "Bahrain": "bh", "Egypt": "eg", "India": "in", "Pakistan": "pk", "South Africa": "za", "Spain": "es", "Philippines": "ph", "Indonesia": "id", "Kenya": "ke", "France": "fr", "Netherlands": "nl", "Belgium": "be", "Portugal": "pt", "Brazil": "br", "Mexico": "mx", "Argentina": "ar", "Oman": "om", "Uganda": "ug", "Greece": "gr", "Nigeria": "ng", "Morocco": "ma" };
   const first = (countries || []).find((c) => CC[c]), jobCc = first ? CC[first] : "";
   const kw = String(title || "").replace(/\([^)]*\)/g, " ").replace(/\b(senior|sr|lead|staff|principal|junior|jr|associate|head of)\b\.?/gi, " ")
     .replace(/[^\p{L}\p{N}+# ]+/gu, " ").replace(/\s+/g, " ").trim().split(" ").slice(0, 3).join(" ");
@@ -319,9 +319,9 @@ function addSimilarJobs(title, countries) {
   (host && host.closest("section") ? host.closest("section") : document.body).insertAdjacentElement("afterend", sec);
   const load = (src) => new Promise((ok) => { const e = document.createElement("script"); e.src = src; e.onload = e.onerror = ok; document.body.appendChild(e); });
   (async () => {
-    if (!window.UHVisitor) await load("next-step.js?v=9");
-    await load("wjfeed.js?v=5");
-    await load("cvjobs.js?v=8");
+    if (!window.UHVisitor) await load("next-step.js?v=10");
+    await load("wjfeed.js?v=6");
+    await load("cvjobs.js?v=9");
   })();
 }
 

@@ -7,6 +7,8 @@
   "use strict";
   var CFG = {
     us: { pub: "7703", loc: "United States" }, // www.whatjobs.com (US jobs), added Nov 26, 2026
+    ng: { pub: "7705", loc: "Nigeria" },       // en-ng.whatjobs.com, added Nov 26, 2026
+    ma: { pub: "7704", loc: "Morocco" },       // ma.whatjobs.com, added Nov 26, 2026
     eg: { pub: "7501", loc: "Egypt" },
     bh: { pub: "7509", loc: "Bahrain" },
     kw: { pub: "7508", loc: "Kuwait" },

@@ -34,6 +34,8 @@
     "Africa/Kampala": ["ug", "Uganda", "Uganda", ""],
     "Europe/Athens": ["gr", "Greece", "Greece", ""],
     "Africa/Nairobi": ["ke", "Kenya", "Kenya", ""],
+    "Africa/Lagos": ["ng", "Nigeria", "Nigeria", ""],
+    "Africa/Casablanca": ["ma", "Morocco", "Morocco", ""],
     "Europe/Paris": ["fr", "France", "France", ""],
     "Europe/Amsterdam": ["nl", "Netherlands", "the Netherlands", ""],
     "Europe/Brussels": ["be", "Belgium", "Belgium", ""],
