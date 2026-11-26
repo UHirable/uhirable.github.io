@@ -320,7 +320,7 @@ function addSimilarJobs(title, countries) {
   const load = (src) => new Promise((ok) => { const e = document.createElement("script"); e.src = src; e.onload = e.onerror = ok; document.body.appendChild(e); });
   (async () => {
     if (!window.UHVisitor) await load("next-step.js?v=9");
-    await load("wjfeed.js?v=4");
+    await load("wjfeed.js?v=5");
     await load("cvjobs.js?v=8");
   })();
 }

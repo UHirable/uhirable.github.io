@@ -6,6 +6,7 @@
 (function () {
   "use strict";
   var CFG = {
+    us: { pub: "7703", loc: "United States" }, // www.whatjobs.com (US jobs), added Nov 26, 2026
     eg: { pub: "7501", loc: "Egypt" },
     bh: { pub: "7509", loc: "Bahrain" },
     kw: { pub: "7508", loc: "Kuwait" },

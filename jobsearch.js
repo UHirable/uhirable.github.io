@@ -153,7 +153,7 @@
     const kw = here ? place.kw : raw;          // keyword without the place name
     const city = here ? place.city : "";       // "" when only a country was typed
     const jq = city ? (kw + " " + city).trim() : kw; // Jooble: city stays in the keywords
-    const liveCountry = CC[country] && country !== "United States";
+    const liveCountry = CC[country] && (country !== "United States" || !!(window.UHWJF && UHWJF.has("us")));
     // With Jooble off, a country has live jobs only when WhatJobs covers it
     const hasSource = JOOBLE || !!(window.UHWJF && UHWJF.has(CC[country] || "us"));
     const wantLive = hasSource && (liveCountry || (raw && (country === "United States" || country === "all")));
