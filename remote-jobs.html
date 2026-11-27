@@ -22,7 +22,8 @@
   <link rel="stylesheet" href="style.css?v=98">
   <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "name": "Remote Jobs Open Worldwide: Apply From Any Country | U Hirable", "description": "Remote jobs you can apply to from any country come first, then remote roles for specific countries. Each job shows where you must live. The list updates automatically.", "url": "https://uhirable.com/remote-jobs.html", "isPartOf": {"@type": "WebSite", "name": "U Hirable", "url": "https://uhirable.com/"}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://uhirable.com/"}, {"@type": "ListItem", "position": 2, "name": "Remote Jobs", "item": "https://uhirable.com/remote-jobs.html"}]}]}</script>
 <style>
-.rj-cards{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin:118px 0 26px}
+.rj-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin:118px 0 26px}
+.rj-cards .rm-strip{grid-column:1/-1}
 .rj-cards .rm-strip h2{font-size:1.35rem;margin:0}
 .rj-card{border-radius:22px;padding:26px 26px 24px;display:flex;flex-direction:column;align-items:flex-start;gap:10px}
 .rj-card h2{font-size:1.4rem;line-height:1.25;margin:0}
@@ -32,10 +33,13 @@
 .rj-mercor{background:#fff;border:2px solid #4f46e5;color:#111827;box-shadow:0 10px 30px rgba(79,70,229,.12)}
 .rj-mercor .rj-name{color:#4f46e5}.rj-mercor p{color:#374151}
 .rj-mercor .rj-btn{background:#4f46e5;color:#fff;border-radius:8px}
-.rj-terac{background:#0a0a0a;color:#fff;box-shadow:0 10px 30px rgba(0,0,0,.22)}
-.rj-terac h2{color:#fff}.rj-terac p{color:#d6d6d6}
-.rj-terac .rj-btn{background:#1a1aff;color:#fff;border-radius:10px}
-@media(max-width:800px){.rj-cards{grid-template-columns:1fr}}
+.rj-terac{background:#fff;border:2px solid #0a0a0a;color:#111827;box-shadow:0 10px 30px rgba(0,0,0,.10)}
+.rj-terac .rj-name{color:#0a0a0a}.rj-terac p{color:#374151}
+.rj-terac .rj-btn{background:#0a0a0a;color:#fff;border-radius:10px}
+.rj-cw{background:#fff;border:2px solid #0b6fb8;color:#111827;box-shadow:0 10px 30px rgba(11,111,184,.12)}
+.rj-cw .rj-name{color:#0b6fb8}.rj-cw p{color:#374151}
+.rj-cw .rj-btn{background:#0b6fb8;color:#fff;border-radius:8px}
+@media(max-width:1000px){.rj-cards{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -92,8 +96,14 @@
           <p>Interviews, surveys and AI tasks for experienced professionals. Each study has its own requirements.</p>
           <a class="rj-btn" href="https://terac.com/refer/bc955b86" target="_blank" rel="noopener sponsored">Open Terac →</a>
         </section>
+        <section class="rj-card rj-cw">
+          <span class="rj-name">Clickworker</span>
+          <h2>Small online tasks, paid per task</h2>
+          <p>AI training tasks, surveys, voice recordings and web research. Pick the tasks you want. Open in many countries.</p>
+          <a class="rj-btn" href="https://www.clickworker.com/clickworker?customer=false&amp;utm_source=31810917&amp;utm_campaign=CW4CW&amp;utm_medium=email" target="_blank" rel="noopener sponsored" data-goatcounter-click="rj-clickworker">Join Clickworker →</a>
+        </section>
         </div>
-        <section class="topic-faq"><h2>About these remote jobs</h2><p>Remote doesn't always mean worldwide. Jobs marked <b>Worldwide</b> are listed first and are open to candidates in any country. The other jobs name the countries you must live in, for example USA, or USA and Canada.</p><p>Mercor and Terac work differently: each listing or study states its own location requirements. See <a href="get-paid-to-train-ai.html">how the two compare</a>.</p><p>Looking for more? Browse the <a href="job-sites.html">remote job sites</a> we recommend.</p></section>
+        <section class="topic-faq"><h2>About these remote jobs</h2><p>Remote doesn't always mean worldwide. Jobs marked <b>Worldwide</b> are listed first and are open to candidates in any country. The other jobs name the countries you must live in, for example USA, or USA and Canada.</p><p>Mercor, Terac and Clickworker work differently: each listing, study or task states its own requirements. See <a href="get-paid-to-train-ai.html">how they compare</a>.</p><p>Looking for more? Browse the <a href="job-sites.html">remote job sites</a> we recommend.</p></section>
       </div>
     </section>
   </main>
