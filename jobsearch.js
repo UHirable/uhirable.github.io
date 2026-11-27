@@ -100,6 +100,12 @@
     const G = { "Canada": ["canada", "abroad"], "United States": ["us"], "Brazil": ["latam"], "Mexico": ["latam"], "Argentina": ["latam"] };
     const all = sel.value === "all" || sel.value === "Worldwide", g = G[sel.value];
     vhList.innerHTML = q || !(all || g) ? "" : [...techSec.querySelectorAll(".vj-card")].filter((c) => !g || g.includes(c.getAttribute("data-g"))).map(vhCard).join(""); };
+  // VanHack block (same one as the homepage) above the cards when the search is for Canada, the US, the UK or India
+  const vhBanner = $("#vh-banner"), VH_BANNER = ["Canada", "United States", "United Kingdom", "India"];
+  const vhShow = () => { if (vhBanner) vhBanner.hidden = !VH_BANNER.includes(sel.value); };
+  sel.addEventListener("change", vhShow); vhShow();
+  if (vhBanner) vhBanner.addEventListener("click", (e) => { const a = e.target.closest && e.target.closest("a[href]"); if (!a) return;
+    try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "vh-search-" + (a.getAttribute("href").includes("move") ? "move" : "jobs") + "/" + (CC[sel.value] || "x"), title: "VanHack block on search", event: true }); } catch (x) {} });
   box.addEventListener("input", vjFilter);
   sel.addEventListener("change", vjFilter);
   vjFilter();
