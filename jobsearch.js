@@ -100,12 +100,18 @@
     const G = { "Canada": ["canada", "abroad"], "United States": ["us"], "Brazil": ["latam"], "Mexico": ["latam"], "Argentina": ["latam"] };
     const all = sel.value === "all" || sel.value === "Worldwide", g = G[sel.value];
     vhList.innerHTML = q || !(all || g) ? "" : [...techSec.querySelectorAll(".vj-card")].filter((c) => !g || g.includes(c.getAttribute("data-g"))).map(vhCard).join(""); };
-  // VanHack block (same one as the homepage) above the cards when the search is for Canada, the US, the UK or India
-  const vhBanner = $("#vh-banner"), VH_BANNER = ["Canada", "United States", "United Kingdom", "India"];
-  const vhShow = () => { if (vhBanner) vhBanner.hidden = !VH_BANNER.includes(sel.value); };
+  // Partner block above the cards, the same two blocks as the homepage:
+  // Canada -> the VanHack block (red and navy); UK, US and India -> the hackajob block, opened on that country's tab
+  const vhBanner = $("#vh-banner"), hjBanner = $("#hj-banner"), HJ = { "United Kingdom": "uk", "United States": "us", "India": "in" };
+  const hjShow = (g) => { if (!hjBanner) return; hjBanner.querySelectorAll(".hj-tab").forEach((x) => x.classList.toggle("on", x.dataset.g === g));
+    hjBanner.querySelectorAll(".hj-row,.meta[data-g],.hj-cats").forEach((x) => { x.hidden = x.dataset.g !== g; }); };
+  const vhShow = () => { if (vhBanner) vhBanner.hidden = sel.value !== "Canada"; if (hjBanner) { const g = HJ[sel.value]; hjBanner.hidden = !g; if (g) hjShow(g); } };
   sel.addEventListener("change", vhShow); vhShow();
-  if (vhBanner) vhBanner.addEventListener("click", (e) => { const a = e.target.closest && e.target.closest("a[href]"); if (!a) return;
-    try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: "vh-search-" + (a.getAttribute("href").includes("move") ? "move" : "jobs") + "/" + (CC[sel.value] || "x"), title: "VanHack block on search", event: true }); } catch (x) {} });
+  if (hjBanner) hjBanner.querySelectorAll(".hj-tab").forEach((b) => b.addEventListener("click", () => hjShow(b.dataset.g)));
+  const bannerClick = (kind) => (e) => { const a = e.target.closest && e.target.closest("a[href]"); if (!a) return;
+    try { if (window.goatcounter && goatcounter.count) goatcounter.count({ path: kind(a) + "/" + (CC[sel.value] || "x"), title: "Partner block on search", event: true }); } catch (x) {} };
+  if (vhBanner) vhBanner.addEventListener("click", bannerClick((a) => "vh-search-" + (a.getAttribute("href").includes("move") ? "move" : "jobs")));
+  if (hjBanner) hjBanner.addEventListener("click", bannerClick(() => "hj-search"));
   box.addEventListener("input", vjFilter);
   sel.addEventListener("change", vjFilter);
   vjFilter();
