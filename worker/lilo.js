@@ -135,6 +135,7 @@ const PAGES = [
   ["Jobs posted directly by employers", "direct-from-employers.html"],
   ["Visa sponsorship jobs", "visa-sponsorship-jobs.html"],
   ["UK visa sponsor companies", "uk-visa-sponsors.html"],
+  ["VanHack: tech jobs abroad and Move to Canada (keep your remote job, relocate to Canada)", "vanhack.html"],
   ["New UK visa sponsors this month (companies newly licensed)", "uk-visa-sponsors-new.html"],
   ["Canada LMIA employers", "canada-lmia-employers.html"],
   ["Walk-in interviews", "walk-in-interviews.html"],
