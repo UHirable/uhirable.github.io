@@ -62,7 +62,7 @@ window.UHPJOffers = function (after) {
     const sec = document.createElement("section");
     sec.id = "pj-offers"; sec.className = "pjo";
     sec.innerHTML = '<h2>While we review your job</h2><p class="pjo-sub">Offers for your hiring, payroll and HR.</p><div class="pjo-grid">' + list.map(p =>
-      '<a class="pjo-c" href="' + esc(p.link) + '" target="_blank" rel="sponsored noopener noreferrer" referrerpolicy="no-referrer" data-n="' + esc(p.name) + '">' +
+      '<a class="pjo-c" href="' + esc(p.link) + '"' + (/^mailto:/i.test(p.link) ? '' : ' target="_blank" rel="sponsored noopener noreferrer" referrerpolicy="no-referrer"') + ' data-n="' + esc(p.name) + '">' +
       '<span class="pjo-deal">' + esc(p.deal) + '</span>' +
       '<span class="pjo-h">' + (p.logo ? '<img src="' + esc(p.logo) + '" alt="" width="40" height="40" loading="lazy">' : '') + '<span><b>' + esc(p.name) + '</b><i>' + esc(p.tag || "") + '</i></span></span>' +
       (p.perk ? '<span class="pjo-p">' + esc(p.perk) + '</span>' : '') +

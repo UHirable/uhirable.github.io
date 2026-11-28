@@ -21,6 +21,18 @@ const PARTNERS = [
     link: "https://oyster.partnerlinks.io/iqgrt27whv78"
   },
   {
+    name: "Google Workspace",
+    deal: "10% OFF",
+    dealLabel: "First year",
+    logo: "logo-google-workspace.png",
+    tag: "Business Email & Tools",
+    tagline: "Professional email, Meet, Drive and Docs for your whole team, on your own company domain.",
+    perk: "10% off your first year on Business Starter, Business Standard or Business Plus",
+    cta: "Get Your 10% Code",
+    roles: ["Business Starter", "Business Standard", "Business Plus", "Business Email on Your Domain", "Google Meet", "Drive & Docs", "Calendar", "Admin Controls"],
+    link: "mailto:hello@uhirable.com?subject=Google%20Workspace%2010%25%20code&body=Hi%2C%20I%27d%20like%20the%20Google%20Workspace%2010%25%20code.%0A%0ACompany%20name%3A%0ACountry%3A%0A%0APlease%20choose%20a%20plan%20%28keep%20one%2C%20delete%20the%20others%29%3A%0A-%20Business%20Starter%0A-%20Business%20Standard%0A-%20Business%20Plus"
+  },
+  {
     name: "Remote Leverage",
     deal: "$500 OFF",
     logo: "logo-remote-leverage.png",

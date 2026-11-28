@@ -20,7 +20,7 @@
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="preload" href="fonts/plus-jakarta-sans.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="style.css?v=98">
-  <script type="application/ld+json" id="ld-list">{"@context": "https://schema.org", "@type": "ItemList", "name": "Hiring partners and tools for companies", "url": "https://uhirable.com/partners.html", "numberOfItems": 7, "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Oyster", "url": "https://oyster.partnerlinks.io/iqgrt27whv78"}, {"@type": "ListItem", "position": 2, "name": "Remote Leverage", "url": "https://remoteleverage.com/"}, {"@type": "ListItem", "position": 3, "name": "Recruit CRM", "url": "https://recruitcrm.io"}, {"@type": "ListItem", "position": 4, "name": "Manatal", "url": "https://www.manatal.com/"}, {"@type": "ListItem", "position": 5, "name": "RemotePass", "url": "https://www.remotepass.com/re"}, {"@type": "ListItem", "position": 6, "name": "greytHR", "url": "https://greythr.referralrock.com/l/AMELMOUSSA04/"}, {"@type": "ListItem", "position": 7, "name": "Kinetic Staff", "url": "https://www.kineticstaff.com/share/v1/"}]}</script>
+  <script type="application/ld+json" id="ld-list">{"@context": "https://schema.org", "@type": "ItemList", "name": "Hiring partners and tools for companies", "url": "https://uhirable.com/partners.html", "numberOfItems": 8, "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Oyster", "url": "https://oyster.partnerlinks.io/iqgrt27whv78"}, {"@type": "ListItem", "position": 2, "name": "Google Workspace", "url": "https://workspace.google.com/"}, {"@type": "ListItem", "position": 3, "name": "Remote Leverage", "url": "https://remoteleverage.com/"}, {"@type": "ListItem", "position": 4, "name": "Recruit CRM", "url": "https://recruitcrm.io"}, {"@type": "ListItem", "position": 5, "name": "Manatal", "url": "https://www.manatal.com/"}, {"@type": "ListItem", "position": 6, "name": "RemotePass", "url": "https://www.remotepass.com/re"}, {"@type": "ListItem", "position": 7, "name": "greytHR", "url": "https://greythr.referralrock.com/l/AMELMOUSSA04/"}, {"@type": "ListItem", "position": 8, "name": "Kinetic Staff", "url": "https://www.kineticstaff.com/share/v1/"}]}</script>
 </head>
 <body>
   <header class="topbar">
@@ -54,7 +54,7 @@
   </div></section>
 </main>
 <script src="tags.js?v=1"></script>
-<script src="partners.js?v=20"></script>
+<script src="partners.js?v=21"></script>
 <script>
 const esc=(s="")=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 document.getElementById("partners").innerHTML=PARTNERS.map(p=>`
@@ -63,9 +63,10 @@ document.getElementById("partners").innerHTML=PARTNERS.map(p=>`
    <div><span class="p-tag">${esc(p.tag||"Partner")}</span><h2>${esc(p.name)}</h2><p>${esc(p.tagline)}</p></div></div>
   ${p.deal?`<div class="p-deal"><div class="d-ic"><svg viewBox="0 0 24 24"><path d="M20 12v9H4v-9"/><rect x="2" y="7" width="20" height="5" rx="1"/><path d="M12 21V7"/><path d="M12 7H7.5a2.5 2.5 0 1 1 0-5C11 2 12 7 12 7z"/><path d="M12 7h4.5a2.5 2.5 0 1 0 0-5C13 2 12 7 12 7z"/></svg></div><div class="d-tx"><span class="d-lb">${esc(p.dealLabel||"U Hirable Perk")}</span> <b>${esc(p.deal)}</b> ${p.perk?`<span class="d-sub">${esc(p.perk)}</span>`:""}</div></div>`:""}
   <div class="p-roles">${p.roles.map(tagHTML).join("")}</div>
-  <div class="p-foot">${p.perk&&!p.deal?`<span class="p-perk">🎁 ${esc(p.perk)}</span>`:""}<a class="btn btn-gold" href="${esc(p.link)}" target="_blank" rel="sponsored noopener noreferrer" referrerpolicy="no-referrer">${esc(p.cta||"Hire Now")} →</a></div>
+  <div class="p-foot">${p.perk&&!p.deal?`<span class="p-perk">🎁 ${esc(p.perk)}</span>`:""}<a class="btn btn-gold" href="${esc(p.link)}"${/^mailto:/i.test(p.link)?` data-mail="${esc(p.name)}"`:` target="_blank" rel="sponsored noopener noreferrer" referrerpolicy="no-referrer"`}>${esc(p.cta||"Hire Now")} →</a></div>
  </article>`).join("");
 tagLegend(PARTNERS,document.getElementById("tag-legend"));
+document.getElementById("partners").addEventListener("click",e=>{const a=e.target.closest("a[data-mail]");if(!a)return;try{if(window.goatcounter&&goatcounter.count)goatcounter.count({path:"partner-mail/"+a.dataset.mail.toLowerCase().replace(/[^a-z0-9]+/g,"-"),title:"Partner code request: "+a.dataset.mail,event:true})}catch(x){}});
 </script>
 <script>
 (function(){
@@ -97,7 +98,7 @@ tagLegend(PARTNERS,document.getElementById("tag-legend"));
 
 
 
-  <script src="script.js?v=76"></script>
+  <script src="script.js?v=77"></script>
   <script data-goatcounter="https://uhirable.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

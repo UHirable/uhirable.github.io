@@ -40,7 +40,7 @@ function offers(text, skip) {
   for (const p of parts) {
     const name = p.slice(0, p.indexOf('"'));
     const get = (k) => { const m = p.match(new RegExp("\\b" + k + ':\\s*"((?:[^"\\\\]|\\\\.)*)"')); return m ? m[1].replace(/\\"/g, '"') : ""; };
-    const o = { name, what: get("tag"), about: get("tagline"), offer: get("deal"), details: get("perk"), link: get("link") };
+    const o = { name, what: get("tag"), about: get("tagline"), offer: get("deal"), details: get("perk"), link: /^mailto:/i.test(get("link")) ? SITE + "partners.html" : get("link") };
     if (o.link && !(skip || []).includes(name)) out.push(o);
   }
   return out;
