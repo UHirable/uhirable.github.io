@@ -1827,3 +1827,12 @@ body.mbx-open{overflow:hidden}
 /* partner cards shown inside the "offers" sections look exactly like on the For Companies page */
 .pjo .partner h2{font-size:1.45rem;margin:6px 0 2px;text-align:left;color:var(--ink)}
 @media (min-width:1001px){.pjo .partner h2{font-size:1.15rem;margin:4px 0 2px}}
+
+/* After posting a job: the offer cards sit two per row, wider than the narrow form box (one per row on phones) */
+#pj-offers{width:min(980px,calc(100vw - 32px));margin-left:calc(50% - min(490px,calc(50vw - 16px)))}
+#pj-offers .partners{grid-template-columns:1fr!important;gap:18px}
+@media (min-width:800px){
+#pj-offers .partners{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+#pj-offers .partners .partner:last-child:nth-child(odd){grid-column:1/-1;justify-self:center;width:calc(50% - 9px)}
+}
+@media (max-width:560px){#pj-offers{width:auto;margin-left:0}}

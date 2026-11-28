@@ -61,7 +61,7 @@ window.UHPJOffers = function (after) {
     if (!list.length) return;
     const sec = document.createElement("section");
     sec.id = "pj-offers"; sec.className = "pjo";
-    sec.innerHTML = '<h2>While we review your job</h2><p class="pjo-sub">Offers for your hiring, payroll and HR.</p><div class="partners" style="grid-template-columns:1fr!important">' + list.map(partnerCardHTML).join("") + '</div>';
+    sec.innerHTML = '<h2>While we review your job</h2><p class="pjo-sub">Offers for your hiring, payroll and HR.</p><div class="partners">' + list.map(partnerCardHTML).join("") + '</div>';
     after.insertAdjacentElement("afterend", sec);
     sec.addEventListener("click", e => {
       const a = e.target.closest("a[data-n]"); if (!a) return;
