@@ -1804,3 +1804,22 @@ textarea { resize: vertical; }
 
 /* "Clear chat" under Lilo's message box */
 .ua-clear{display:block;width:100%;border:0;background:#fff;color:#6b70a0;font:inherit;font-size:.78rem;font-weight:700;padding:0 0 9px;cursor:pointer;text-decoration:underline;flex:none}.ua-clear:hover{color:#0112ff}
+
+/* Google Workspace card: plan tags in their own colors + "get your code" box */
+.p-roles .tg-pl1,.p-roles .tg-pl2,.p-roles .tg-pl3{color:#fff}
+.p-roles .tg-pl1{background:linear-gradient(180deg,#1ec06f,#10a85a);border-color:#0e9450;box-shadow:0 3px 0 #0b7c43,0 8px 14px -8px rgba(11,124,67,.6),inset 0 1px 0 rgba(255,255,255,.35)}
+.p-roles .tg-pl2{background:linear-gradient(180deg,#9a6bff,#7a3cf0);border-color:#6a2fe0;box-shadow:0 3px 0 #5a22c4,0 8px 14px -8px rgba(91,31,196,.6),inset 0 1px 0 rgba(255,255,255,.35)}
+.p-roles .tg-pl3{background:linear-gradient(180deg,#ff8a3d,#f26a1b);border-color:#e05d10;box-shadow:0 3px 0 #b94a0c,0 8px 14px -8px rgba(185,74,12,.6),inset 0 1px 0 rgba(255,255,255,.35)}
+.tg-all{--t1:#eef0ff;--t2:#dfe3ff;--fg:#050b3f;--sh:#aab2ee}
+.mbx{position:fixed;inset:0;z-index:9999;background:rgba(5,11,63,.62);display:flex;align-items:center;justify-content:center;padding:18px}
+.mbx[hidden]{display:none}
+.mbx-box{position:relative;width:100%;max-width:420px;background:#fff;border-radius:22px;padding:26px 22px 20px;box-shadow:0 30px 70px -20px rgba(0,0,0,.6);display:flex;flex-direction:column;gap:10px;color:#050b3f}
+.mbx-box h3{font-size:1.3rem;font-weight:800;margin-right:30px}
+.mbx-box p{font-size:.95rem;line-height:1.45;color:#4a5280;margin-bottom:4px}
+.mbx-x{position:absolute;right:12px;top:10px;width:38px;height:38px;border:0;background:none;font-size:1.9rem;line-height:1;color:#050b3f;cursor:pointer}
+.mbx-b{display:block;text-align:center;text-decoration:none;font:inherit;font-weight:800;font-size:1rem;padding:14px 16px;border-radius:14px;border:2px solid #0112ff;background:#fff;color:#0112ff;cursor:pointer}
+.mbx-b.mbx-g{background:#0112ff;color:#fff}
+.mbx-b:hover{transform:translateY(-1px)}
+.mbx-box small{text-align:center;color:#4a5280;font-size:.86rem}
+.mbx-s{text-align:center;font-size:.86rem;font-weight:700;color:#0a7a45;min-height:1.1em}
+body.mbx-open{overflow:hidden}

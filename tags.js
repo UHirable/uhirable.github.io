@@ -25,6 +25,9 @@ function tagCat(t) {
 }
 const tagEsc = (s = "") => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 function tagHTML(t) {
+  const pl = /^business (starter|standard|plus)\b/i.exec(t);
+  if (pl) return `<span class="tg tg-pl${{starter:1,standard:2,plus:3}[pl[1].toLowerCase()]}">${tagEsc(t)}</span>`;
+  if (/^all plans/i.test(t)) return `<span class="tg tg-all">${tagEsc(t)}</span>`;
   const c = tagCat(t);
   return c === "ai"
     ? `<span class="tg tg-ai"><i>AI</i> ${tagEsc(t.replace(/^AI /, ""))}</span>`
