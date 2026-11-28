@@ -1823,3 +1823,7 @@ textarea { resize: vertical; }
 .mbx-box small{text-align:center;color:#4a5280;font-size:.86rem}
 .mbx-s{text-align:center;font-size:.86rem;font-weight:700;color:#0a7a45;min-height:1.1em}
 body.mbx-open{overflow:hidden}
+
+/* partner cards shown inside the "offers" sections look exactly like on the For Companies page */
+.pjo .partner h2{font-size:1.45rem;margin:6px 0 2px;text-align:left;color:var(--ink)}
+@media (min-width:1001px){.pjo .partner h2{font-size:1.15rem;margin:4px 0 2px}}
